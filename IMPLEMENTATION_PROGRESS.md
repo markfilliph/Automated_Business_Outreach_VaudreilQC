@@ -1,0 +1,127 @@
+# Vaudreuil Acquisition MVP — Implementation Progress
+
+## Overview
+Pipeline to generate 50 scored manufacturing acquisition leads in Vaudreuil, Quebec.
+
+---
+
+## Pipeline Status
+
+| Step | Script | Status | Description |
+|------|--------|--------|-------------|
+| 1 | `01_ingest.py` | ✅ Complete | Loads iCRIQ + YellowPages CSVs → `data/raw_candidates.csv` |
+| 2 | `02_filter.py` | ✅ Complete | Region/category/employee filters → `data/filtered_candidates.csv` |
+| 3 | `03_enrich_google.py` | ✅ Complete | Google Places API enrichment → `data/google_enriched.csv` |
+| 4 | `04_enrich_req.py` | ✅ Complete | REQ registry scraping (Playwright) → `data/req_enriched.csv` |
+| 5 | `05_deduplicate.py` | ✅ Complete | Phone/fuzzy name deduplication → `data/deduped_candidates.csv` |
+| 6 | `06_score.py` | ✅ Complete | Weighted scoring + ranking → `data/scored_candidates.csv` |
+| 7 | `07_export.py` | ✅ Complete | Export top 50 → `data/top_50_for_review.csv` |
+
+---
+
+## Utilities Status
+
+| Module | Status | Description |
+|--------|--------|-------------|
+| `utils/address.py` | ✅ Complete | Quebec address normalization |
+| `utils/fuzzy_match.py` | ✅ Complete | Phone + fuzzy name matching |
+| `utils/req_scraper.py` | ✅ Complete | REQ page interaction logic |
+| `config.py` | ✅ Complete | All constants/configuration |
+
+---
+
+## Directory Structure (Required)
+
+```
+project/
+├── config.py                 # ✅ Exists
+├── requirements.txt          # ✅ Exists
+├── CLAUDE.md                 # ✅ Exists
+├── 01_ingest.py              # ✅ Exists
+├── 02_filter.py              # ✅ Exists
+├── 03_enrich_google.py       # ✅ Exists
+├── 04_enrich_req.py          # ✅ Exists
+├── 05_deduplicate.py         # ✅ Exists
+├── 06_score.py               # ✅ Exists
+├── 07_export.py              # ✅ Exists
+├── utils/                    # ⚠️ NEEDS CREATION
+│   ├── __init__.py           # ⚠️ Missing
+│   ├── address.py            # ⚠️ Move from root
+│   ├── fuzzy_match.py        # ⚠️ Move from root
+│   └── req_scraper.py        # ⚠️ Move from root
+└── data/                     # ⚠️ NEEDS CREATION
+    └── raw/                  # ⚠️ Missing (for input files)
+```
+
+---
+
+## Pre-Run Checklist
+
+- [ ] Create `data/` and `data/raw/` directories
+- [ ] Move utility files to `utils/` directory
+- [ ] Create `utils/__init__.py`
+- [ ] Install dependencies: `pip install -r requirements.txt`
+- [ ] Install Playwright browser: `python -m playwright install chromium`
+- [ ] Set Google API key: `export GOOGLE_PLACES_API_KEY=your_key`
+- [ ] Place input files:
+  - `data/raw/icric_export.csv`
+  - `data/raw/yellowpages_export.csv`
+
+---
+
+## Run Order
+
+```bash
+# Step 1: Ingest raw data
+python 01_ingest.py
+
+# Step 2: Filter by region/category/employees
+python 02_filter.py
+
+# Step 3: Enrich with Google Places (requires API key)
+python 03_enrich_google.py
+
+# Step 4: Enrich with REQ registry (Playwright scraping)
+python 04_enrich_req.py
+
+# Step 5: Deduplicate merged records
+python 05_deduplicate.py
+
+# Step 6: Score and rank candidates
+python 06_score.py
+
+# Step 7: Export top 50 leads
+python 07_export.py
+```
+
+---
+
+## Expected Data Flow
+
+```
+~2,000 rows (raw) → ~200 (filtered) → ~150 (deduped) → 50 (exported)
+```
+
+---
+
+## Known Issues to Address
+
+1. **Import paths**: Scripts import from `utils/` but utility files are in root
+2. **Missing directories**: `data/`, `data/raw/`, `utils/` don't exist
+3. **No `.gitignore`**: Should exclude `data/` CSVs and `.env` files
+
+---
+
+## Next Steps (Priority Order)
+
+1. ✅ **Code complete** — all 7 pipeline scripts written
+2. ⚠️ **Fix structure** — create directories, move files
+3. ⚠️ **Push to GitHub** — initialize repo
+4. ⏳ **Acquire data** — get iCRIQ + YellowPages exports
+5. ⏳ **Get API key** — Google Places API
+6. ⏳ **Run pipeline** — execute steps 1-7
+7. ⏳ **Manual review** — verify top 50 leads
+
+---
+
+*Last updated: 2026-02-01*
