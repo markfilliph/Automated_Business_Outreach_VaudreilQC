@@ -5,9 +5,13 @@
 # =============================================================================
 
 import os
+from dotenv import load_dotenv
+
+# Load .env file (contains API key - gitignored)
+load_dotenv()
 
 # === API KEYS ===
-# Set via environment variable OR replace the default string below
+# Loaded from .env file or environment variable
 GOOGLE_PLACES_API_KEY = os.environ.get("GOOGLE_PLACES_API_KEY", "YOUR_GOOGLE_PLACES_API_KEY")
 
 # === TARGET GEOGRAPHY ===
