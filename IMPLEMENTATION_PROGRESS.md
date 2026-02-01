@@ -30,13 +30,14 @@ Pipeline to generate 50 scored manufacturing acquisition leads in Vaudreuil, Que
 
 ---
 
-## Directory Structure (Required)
+## Directory Structure
 
 ```
 project/
 ├── config.py                 # ✅ Exists
 ├── requirements.txt          # ✅ Exists
 ├── CLAUDE.md                 # ✅ Exists
+├── .gitignore                # ✅ Exists
 ├── 01_ingest.py              # ✅ Exists
 ├── 02_filter.py              # ✅ Exists
 ├── 03_enrich_google.py       # ✅ Exists
@@ -44,22 +45,23 @@ project/
 ├── 05_deduplicate.py         # ✅ Exists
 ├── 06_score.py               # ✅ Exists
 ├── 07_export.py              # ✅ Exists
-├── utils/                    # ⚠️ NEEDS CREATION
-│   ├── __init__.py           # ⚠️ Missing
-│   ├── address.py            # ⚠️ Move from root
-│   ├── fuzzy_match.py        # ⚠️ Move from root
-│   └── req_scraper.py        # ⚠️ Move from root
-└── data/                     # ⚠️ NEEDS CREATION
-    └── raw/                  # ⚠️ Missing (for input files)
+├── utils/                    # ✅ Exists
+│   ├── __init__.py           # ✅ Exists
+│   ├── address.py            # ✅ Exists
+│   ├── fuzzy_match.py        # ✅ Exists
+│   └── req_scraper.py        # ✅ Exists
+└── data/                     # ✅ Exists
+    └── raw/                  # ✅ Exists (place input CSVs here)
 ```
 
 ---
 
 ## Pre-Run Checklist
 
-- [ ] Create `data/` and `data/raw/` directories
-- [ ] Move utility files to `utils/` directory
-- [ ] Create `utils/__init__.py`
+- [x] Create `data/` and `data/raw/` directories
+- [x] Move utility files to `utils/` directory
+- [x] Create `utils/__init__.py`
+- [x] Push to GitHub
 - [ ] Install dependencies: `pip install -r requirements.txt`
 - [ ] Install Playwright browser: `python -m playwright install chromium`
 - [ ] Set Google API key: `export GOOGLE_PLACES_API_KEY=your_key`
@@ -104,19 +106,17 @@ python 07_export.py
 
 ---
 
-## Known Issues to Address
+## Known Issues
 
-1. **Import paths**: Scripts import from `utils/` but utility files are in root
-2. **Missing directories**: `data/`, `data/raw/`, `utils/` don't exist
-3. **No `.gitignore`**: Should exclude `data/` CSVs and `.env` files
+All structural issues resolved.
 
 ---
 
 ## Next Steps (Priority Order)
 
 1. ✅ **Code complete** — all 7 pipeline scripts written
-2. ⚠️ **Fix structure** — create directories, move files
-3. ⚠️ **Push to GitHub** — initialize repo
+2. ✅ **Fix structure** — directories created, files moved
+3. ✅ **Push to GitHub** — repo initialized and pushed
 4. ⏳ **Acquire data** — get iCRIQ + YellowPages exports
 5. ⏳ **Get API key** — Google Places API
 6. ⏳ **Run pipeline** — execute steps 1-7
