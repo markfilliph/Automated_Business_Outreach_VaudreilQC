@@ -1,12 +1,13 @@
 """
 STEP 2: FILTER
 
-Applies three filtering gates to narrow the raw candidate list.
+Applies four filtering gates to narrow the raw candidate list.
 Gates are simple functions — no classes, no decorators.
 
 Gate 1 — Region:     Keep only Vaudreuil-area postal codes.
 Gate 2 — Category:   Keep only manufacturing businesses (SIC code OR keyword match).
-Gate 3 — Employees:  Keep businesses in the 5-200 employee sweet spot.
+Gate 3 — Exclusions: Remove restaurants, retail, services (false positives from "usine" etc.)
+Gate 4 — Employees:  Keep businesses in the 5-200 employee sweet spot.
                      Rows with UNKNOWN employee counts are KEPT (not discarded).
 
 Input:  data/raw_candidates.csv
@@ -27,6 +28,63 @@ from config import (
     MIN_EMPLOYEES,
     MAX_EMPLOYEES,
 )
+
+# ─── NEGATIVE KEYWORDS ───────────────────────────────────────────────────────
+# Exclude businesses that match manufacturing keywords but are actually retail/service
+EXCLUDE_KEYWORDS = [
+    # Food service (not food processing/manufacturing)
+    "restaurant",
+    "café",
+    "cafe",
+    "bistro",
+    "bar",
+    "pub",
+    "souvlaki",
+    "pizza",
+    "sushi",
+    "diner",
+    "grill",
+    "bakery",  # retail bakery, not industrial
+    "boulangerie",
+    "patisserie",
+    "traiteur",
+    "catering",
+    # Retail
+    "store",
+    "magasin",
+    "boutique",
+    "shop",
+    "retail",
+    "grocery",
+    "épicerie",
+    "supermarket",
+    "pharmacy",
+    "pharmacie",
+    # Services
+    "salon",
+    "spa",
+    "gym",
+    "fitness",
+    "dentist",
+    "clinic",
+    "clinique",
+    "hospital",
+    "hotel",
+    "motel",
+    "school",
+    "école",
+    "daycare",
+    "garderie",
+    "church",
+    "église",
+    # Auto (unless auto manufacturing)
+    "car wash",
+    "lave-auto",
+    "gas station",
+    "station-service",
+    "tire",
+    "pneu",
+]
 
 
 def filter_by_region(df: pd.DataFrame) -> pd.DataFrame:
@@ -63,6 +121,40 @@ def filter_by_category(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
+def filter_by_exclusions(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Remove false positives: businesses that matched manufacturing keywords
+    but are actually restaurants, retail, or services.
+
+    Example: "Usine Grecque Souvlaki" matches "usine" but is a restaurant.
+
+    IMPORTANT: Only check company name for exclusions, NOT industry_description.
+    Google Places labels many legitimate manufacturers as "store" or "establishment"
+    which would cause false exclusions.
+    """
+    before = len(df)
+
+    # Only check company name — Google's industry labels are unreliable
+    company_names = df["company_name"].fillna("").astype(str).str.lower()
+
+    # Exclude if company name contains a clear non-manufacturing indicator
+    exclude_mask = company_names.apply(
+        lambda name: any(kw.lower() in name for kw in EXCLUDE_KEYWORDS)
+    )
+
+    excluded = df[exclude_mask]["company_name"].tolist()
+    df = df[~exclude_mask].copy()
+
+    print(f"  [Exclude]   {before:>5} → {len(df):>5}  (removed {len(excluded)} non-manufacturing)")
+    if excluded:
+        for name in excluded[:5]:  # Show first 5
+            print(f"              ✗ {name[:50]}")
+        if len(excluded) > 5:
+            print(f"              ... and {len(excluded) - 5} more")
+
+    return df
+
+
 def filter_by_employee_count(df: pd.DataFrame) -> pd.DataFrame:
     """
     Keep businesses in the MIN-MAX employee range.
@@ -89,6 +181,7 @@ def main():
 
     df = filter_by_region(df)
     df = filter_by_category(df)
+    df = filter_by_exclusions(df)
     df = filter_by_employee_count(df)
 
     print(f"\n  [OUTPUT] Filtered candidates: {len(df)}")
