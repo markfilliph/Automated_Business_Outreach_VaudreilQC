@@ -41,21 +41,27 @@ def main():
     print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_SCORED}\n")
 
     # ── Prepare broker-friendly columns ──────────────────────────────
+    # Clean NaN/None values for broker presentation
+    def clean_value(val, default="—"):
+        if pd.isna(val) or val is None or str(val).lower() in ("nan", "none", ""):
+            return default
+        return val
+
     export_df = pd.DataFrame()
     export_df["Rank"] = df["rank"].astype(int)
     export_df["Company Name"] = df["company_name"]
     export_df["Score"] = df["total_score"]
     export_df["Verified"] = df["verification_status"].apply(lambda x: "✓" if x == "Verified" else "")
     export_df["Years in Business"] = df["req_registration_date"].apply(calculate_years)
-    export_df["NEQ"] = df["neq"].fillna("")
-    export_df["Phone"] = df["phone"].fillna("")
-    export_df["Website"] = df["website"].fillna("")
-    export_df["Address"] = df["address_raw"].fillna("")
-    export_df["City"] = df["city"].fillna("")
-    export_df["Postal Code"] = df["postal_code"].fillna("")
+    export_df["NEQ"] = df["neq"].apply(clean_value)
+    export_df["Phone"] = df["phone"].apply(clean_value)
+    export_df["Website"] = df["website"].apply(clean_value)
+    export_df["Address"] = df["address_raw"].apply(clean_value)
+    export_df["City"] = df["city"].apply(clean_value)
+    export_df["Postal Code"] = df["postal_code"].apply(clean_value)
     export_df["Google Rating"] = df["google_rating"].fillna(0)
     export_df["Reviews"] = df["review_count"].fillna(0).astype(int)
-    export_df["Status"] = df["business_status"].fillna("")
+    export_df["Status"] = df["business_status"].apply(lambda x: clean_value(x, "Unknown"))
     export_df["Notes"] = ""
 
     # ── Create Excel workbook ────────────────────────────────────────
