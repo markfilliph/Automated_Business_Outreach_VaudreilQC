@@ -7,8 +7,8 @@ This module handles ONLY the Playwright page interactions:
   - Parsing the results page for NEQ, registration date, status
 
 It does NOT manage the browser lifecycle or retry logic.
-The calling script (pipeline/04_enrich_req.py) owns the browser session
-and retry loop. This keeps a single browser open across all 200 companies
+The calling script (05_enrich_req.py) owns the browser session
+and retry loop. This keeps a single browser open across all companies
 instead of launching one per request.
 
 IMPORTANT: REQ is a hostile target. Selectors WILL break when they update
@@ -18,6 +18,53 @@ and update the selectors in scrape_page() accordingly.
 
 import re
 import time
+
+
+# ─── Selector fallback lists ─────────────────────────────────────────────────
+# Multiple selectors tried in order. Add new ones at the top when REQ changes.
+
+SEARCH_INPUT_SELECTORS = [
+    'input[name="nom"]',
+    'input[name="searchTerm"]',
+    'input[name="q"]',
+    'input[id*="search"]',
+    'input[id*="nom"]',
+    'input[placeholder*="nom"]',
+    'input[placeholder*="name"]',
+    'input[type="search"]',
+    'input[type="text"]:visible',
+]
+
+SUBMIT_BUTTON_SELECTORS = [
+    'button[type="submit"]',
+    'input[type="submit"]',
+    'button:has-text("Rechercher")',
+    'button:has-text("Search")',
+    'button:has-text("Chercher")',
+    '.search-button',
+    '#search-button',
+]
+
+RESULTS_TABLE_SELECTORS = [
+    "table.results-table tr",
+    "table.search-results tr",
+    "table[class*='result'] tr",
+    ".results-list a",
+    ".search-results a",
+    "table tr:has(td)",
+]
+
+
+def _find_element(page, selectors: list, description: str):
+    """Try multiple selectors, return first match or raise."""
+    for selector in selectors:
+        try:
+            el = page.locator(selector)
+            if el.count() > 0:
+                return el
+        except Exception:
+            continue
+    raise RuntimeError(f"Could not find {description} with any known selector")
 
 
 def scrape_page(page, company_name: str) -> dict | None:
@@ -37,40 +84,54 @@ def scrape_page(page, company_name: str) -> dict | None:
     """
     try:
         # ── Navigate to search ──────────────────────────────────────────
-        page.goto(f"https://www.registraire.gouv.qc.ca/en/recherche-entreprise/")
+        page.goto("https://www.registraire.gouv.qc.ca/en/recherche-entreprise/")
         page.wait_for_load_state("networkidle")
+        time.sleep(1)  # Extra buffer for JS rendering
 
         # ── Fill search form ────────────────────────────────────────────
-        # NOTE: Update this selector if REQ changes their form structure.
-        search_input = page.locator('input[name="nom"]')
-        if search_input.count() == 0:
-            # Fallback: grab the first visible text input
-            search_input = page.locator('input[type="text"]:visible').first
-
-        search_input.wait_for(state="visible")
-        search_input.clear()
-        search_input.fill(company_name)
+        search_input = _find_element(page, SEARCH_INPUT_SELECTORS, "search input")
+        search_input.first.wait_for(state="visible", timeout=10000)
+        search_input.first.clear()
+        search_input.first.fill(company_name)
 
         # ── Submit ──────────────────────────────────────────────────────
-        submit_btn = page.locator('button[type="submit"]')
-        submit_btn.click()
+        submit_btn = _find_element(page, SUBMIT_BUTTON_SELECTORS, "submit button")
+        submit_btn.first.click()
         page.wait_for_load_state("networkidle")
         time.sleep(2)  # Buffer for dynamic content rendering
 
         # ── Check for no results ────────────────────────────────────────
         page_text = page.text_content("body") or ""
-        if "Aucun résultat" in page_text or "No results" in page_text:
+        no_results_phrases = [
+            "Aucun résultat",
+            "No results",
+            "aucune entreprise",
+            "no business found",
+            "0 résultat",
+            "0 result",
+        ]
+        if any(phrase.lower() in page_text.lower() for phrase in no_results_phrases):
             return None
 
         # ── Parse results table ─────────────────────────────────────────
-        # NOTE: Update selectors if REQ changes their results layout.
-        results_rows = page.locator("table.results-table tr")
-        if results_rows.count() <= 1:
-            # 0 or only header row = no results
-            return None
+        results_found = False
+        for selector in RESULTS_TABLE_SELECTORS:
+            try:
+                results = page.locator(selector)
+                if results.count() > 1:  # More than just header
+                    results.nth(1).click()
+                    results_found = True
+                    break
+            except Exception:
+                continue
 
-        # Click the first data row to open the detail page
-        results_rows.nth(1).click()
+        if not results_found:
+            # Maybe we're already on the detail page (single result auto-redirect)
+            if _extract_neq(page_text):
+                pass  # Already on detail page
+            else:
+                return None
+
         page.wait_for_load_state("networkidle")
         time.sleep(1)
 
@@ -78,8 +139,8 @@ def scrape_page(page, company_name: str) -> dict | None:
         detail_text = page.text_content("body") or ""
 
         neq = _extract_neq(detail_text)
-        reg_date = _extract_field(page, "date_inscription", "Date d'inscription", "Date of registration")
-        status = _extract_field(page, "statut", "Statut", "Status")
+        reg_date = _extract_date(page, detail_text)
+        status = _extract_status(page, detail_text)
 
         return {
             "neq": neq,
@@ -94,35 +155,118 @@ def scrape_page(page, company_name: str) -> dict | None:
 def _extract_neq(page_text: str) -> str | None:
     """
     Find the NEQ number in the page text.
-    NEQ is always a 10-digit number. We search for it as a regex pattern
-    as a fallback if structured selectors fail.
+    NEQ is always a 10-digit number starting with 1 (Quebec format).
     """
-    match = re.search(r"\b(\d{10})\b", page_text)
-    return match.group(1) if match else None
+    # Look for NEQ pattern: 10 digits, typically starting with 1
+    patterns = [
+        r"NEQ[:\s]*(\d{10})",           # "NEQ: 1234567890"
+        r"NEQ[:\s]*(\d{4}\s?\d{3}\s?\d{3})",  # "NEQ: 1234 567 890"
+        r"\b(1\d{9})\b",                # 10 digits starting with 1
+        r"\b(\d{10})\b",                # Any 10 digits (fallback)
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, page_text, re.IGNORECASE)
+        if match:
+            # Remove spaces from formatted NEQ
+            return re.sub(r"\s", "", match.group(1))
+    return None
 
 
-def _extract_field(page, data_field_name: str, fr_label: str, en_label: str) -> str | None:
+def _extract_date(page, page_text: str) -> str | None:
     """
-    Try multiple selector strategies to extract a field from the REQ detail page.
-    Falls back gracefully — returns None if nothing works.
+    Extract registration date using multiple strategies.
     """
-    # Strategy 1: data attribute selector
-    el = page.locator(f'[data-field="{data_field_name}"]')
-    if el.count() > 0:
-        text = el.first.text_content()
-        if text and text.strip():
-            return text.strip()
+    # Strategy 1: Structured selectors
+    date_labels = [
+        "Date d'inscription",
+        "Date of registration",
+        "Date d'immatriculation",
+        "Date de constitution",
+        "Incorporation date",
+    ]
 
-    # Strategy 2: look for a table cell next to the label
-    for label in [fr_label, en_label]:
-        # Find the label, then grab the next sibling <td>
-        label_el = page.locator(f'td:has-text("{label}")')
-        if label_el.count() > 0:
-            # The value is typically in the next <td> in the same <tr>
-            row = label_el.first.locator("xpath=./following-sibling::td[1]")
-            if row.count() > 0:
-                text = row.first.text_content()
+    for label in date_labels:
+        result = _extract_field_by_label(page, label)
+        if result:
+            return result
+
+    # Strategy 2: Regex patterns in page text
+    date_patterns = [
+        r"(?:inscription|registration|constitution)[:\s]*(\d{4}-\d{2}-\d{2})",
+        r"(?:inscription|registration|constitution)[:\s]*(\d{2}/\d{2}/\d{4})",
+        r"(?:inscription|registration|constitution)[:\s]*(\d{2}-\d{2}-\d{4})",
+    ]
+    for pattern in date_patterns:
+        match = re.search(pattern, page_text, re.IGNORECASE)
+        if match:
+            return match.group(1)
+
+    return None
+
+
+def _extract_status(page, page_text: str) -> str | None:
+    """
+    Extract business status using multiple strategies.
+    """
+    # Strategy 1: Structured selectors
+    status_labels = ["Statut", "Status", "État", "State"]
+
+    for label in status_labels:
+        result = _extract_field_by_label(page, label)
+        if result:
+            return result
+
+    # Strategy 2: Look for common status keywords in text
+    status_keywords = {
+        "Immatriculée": "Active",
+        "Registered": "Active",
+        "Active": "Active",
+        "Radiée": "Dissolved",
+        "Dissolved": "Dissolved",
+        "Inactive": "Inactive",
+    }
+    for keyword, normalized in status_keywords.items():
+        if keyword.lower() in page_text.lower():
+            return normalized
+
+    return None
+
+
+def _extract_field_by_label(page, label: str) -> str | None:
+    """
+    Try multiple selector strategies to extract a field value by its label.
+    """
+    try:
+        # Strategy 1: data attribute
+        for attr in ["data-field", "data-label", "id"]:
+            el = page.locator(f'[{attr}*="{label.lower().replace(" ", "")}"]')
+            if el.count() > 0:
+                text = el.first.text_content()
                 if text and text.strip():
                     return text.strip()
+
+        # Strategy 2: table cell next to label (th/td pattern)
+        for tag in ["th", "td", "dt", "label", "span"]:
+            label_el = page.locator(f'{tag}:has-text("{label}")')
+            if label_el.count() > 0:
+                # Try next sibling
+                for sibling in ["td", "dd", "span", "div"]:
+                    row = label_el.first.locator(f"xpath=./following-sibling::{sibling}[1]")
+                    if row.count() > 0:
+                        text = row.first.text_content()
+                        if text and text.strip():
+                            return text.strip()
+                # Try parent's next child
+                parent = label_el.first.locator("xpath=..")
+                if parent.count() > 0:
+                    children = parent.locator(":scope > *")
+                    for i in range(children.count()):
+                        if label in (children.nth(i).text_content() or ""):
+                            if i + 1 < children.count():
+                                text = children.nth(i + 1).text_content()
+                                if text and text.strip():
+                                    return text.strip()
+    except Exception:
+        pass
 
     return None

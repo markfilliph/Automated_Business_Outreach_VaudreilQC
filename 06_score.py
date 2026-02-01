@@ -40,18 +40,22 @@ from config import (
 def score_years_in_business(row: pd.Series) -> float:
     """
     Older businesses score higher. 30 years = 100 points.
-    Unknown registration date → 30 points (moderate default).
+    Unknown registration date → 15 points (equivalent to ~4.5 years).
+
+    NOTE: Default lowered from 30 to 15 so unverified leads don't
+    outrank verified young businesses (a 2-year verified company
+    should beat an unverified unknown).
     """
     reg_date = row.get("req_registration_date")
     if pd.isna(reg_date) or reg_date is None:
-        return 30.0
+        return 15.0  # ~4.5 year equivalent, not 9 years
 
     try:
         reg = pd.to_datetime(reg_date)
         years = (datetime.now() - reg).days / 365.25
         return min((years / 30.0) * 100, 100.0)
     except Exception:
-        return 30.0
+        return 15.0
 
 
 def score_review_count(row: pd.Series) -> float:
@@ -83,11 +87,11 @@ def score_employee_count(row: pd.Series) -> float:
     """
     Sweet spot for acquisition targets: 10-50 employees = 100 points.
     Tapers off for smaller or larger companies.
-    Unknown → 30 points (moderate default).
+    Unknown → 15 points (conservative default).
     """
     emp = row.get("num_employees")
     if pd.isna(emp):
-        return 30.0
+        return 15.0
 
     emp = float(emp)
     if 10 <= emp <= 50:
@@ -102,18 +106,29 @@ def score_employee_count(row: pd.Series) -> float:
         return 20.0    # Very small
 
 
-# ─── Composite score ─────────────────────────────────────────────────────────
+# ─── Verification penalty ────────────────────────────────────────────────────
+
+UNVERIFIED_PENALTY = 0.90  # Unverified leads get 10% penalty
 
 
 def calculate_total_score(row: pd.Series) -> float:
-    """Weighted sum of all component scores. Result is 0-100."""
-    return round(
+    """
+    Weighted sum of all component scores. Result is 0-100.
+    Unverified leads receive a 10% penalty to prevent them from
+    outranking verified businesses with known data.
+    """
+    base_score = (
         score_years_in_business(row) * WEIGHT_YEARS_IN_BUSINESS
         + score_review_count(row) * WEIGHT_REVIEW_COUNT
         + score_sector_fit(row) * WEIGHT_SECTOR_FIT
-        + score_employee_count(row) * WEIGHT_EMPLOYEE_COUNT,
-        2,
+        + score_employee_count(row) * WEIGHT_EMPLOYEE_COUNT
     )
+
+    # Apply penalty for unverified leads
+    if row.get("verification_status") != "Verified":
+        base_score *= UNVERIFIED_PENALTY
+
+    return round(base_score, 2)
 
 
 def main():
