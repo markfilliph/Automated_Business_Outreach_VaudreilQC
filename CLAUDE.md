@@ -10,19 +10,22 @@ in Vaudreuil, Quebec. It runs once or twice. It is NOT a SaaS product.
 - **No ORM, no models layer.** DataFrames only.
 - **No YAML/JSON config loading.** Constants go in `config.py` as plain variables.
 - **No complex class hierarchies.** Gates are simple functions: `def filter_by_category(df) -> df`
-- **No tenacity retry decorators on everything.** Retries exist ONLY in `pipeline/04_enrich_req.py`.
+- **No tenacity retry decorators on everything.** Retries exist ONLY in `05_enrich_req.py`.
 
 ## Pipeline Order
 Each script reads a CSV checkpoint, does one job, writes the next CSV.
 
+**CRITICAL:** Deduplication runs BEFORE REQ scraping to avoid hitting the
+government registry twice for the same company (saves time, reduces IP ban risk).
+
 ```
-python pipeline/01_ingest.py        → data/raw_candidates.csv
-python pipeline/02_filter.py        → data/filtered_candidates.csv
-python pipeline/03_enrich_google.py → data/google_enriched.csv
-python pipeline/04_enrich_req.py    → data/req_enriched.csv
-python pipeline/05_deduplicate.py   → data/deduped_candidates.csv
-python pipeline/06_score.py         → data/scored_candidates.csv
-python pipeline/07_export.py        → data/top_50_for_review.csv
+python 01_ingest.py        → data/raw_candidates.csv
+python 02_filter.py        → data/filtered_candidates.csv
+python 03_enrich_google.py → data/google_enriched.csv
+python 04_deduplicate.py   → data/deduped_candidates.csv   ← dedup BEFORE REQ
+python 05_enrich_req.py    → data/req_enriched.csv         ← slowest step, run last
+python 06_score.py         → data/scored_candidates.csv
+python 07_export.py        → data/top_50_for_review.csv
 ```
 
 ## Key Technical Decisions

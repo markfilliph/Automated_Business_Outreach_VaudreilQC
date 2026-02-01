@@ -1,9 +1,14 @@
 """
-STEP 5: DEDUPLICATE
+STEP 4: DEDUPLICATE
 
 Merges duplicate business entries that appeared in both iCRIQ and YellowPages.
 The same company can appear in both sources with slightly different names,
 addresses, and data completeness.
+
+WHY RUN BEFORE REQ SCRAPING?
+  Google Places normalizes addresses and phone numbers effectively, making
+  fuzzy matching more accurate. Running dedup here avoids scraping the
+  government registry twice for the same company (saves time, reduces IP risk).
 
 Matching strategy (handled by utils/fuzzy_match.py):
   1. Phone number exact match (primary) — most unique identifier.
@@ -14,7 +19,7 @@ Matching strategy (handled by utils/fuzzy_match.py):
 When duplicates are found: keep the row with the most non-null fields
 (i.e. the most complete record).
 
-Input:  data/req_enriched.csv
+Input:  data/google_enriched.csv
 Output: data/deduped_candidates.csv
 """
 
@@ -23,17 +28,17 @@ import sys
 import os
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from config import CHECKPOINT_REQ, CHECKPOINT_DEDUPED
+from config import CHECKPOINT_GOOGLE, CHECKPOINT_DEDUPED
 from utils.fuzzy_match import find_duplicates, normalize_phone
 
 
 def main():
     print("=" * 60)
-    print(" STEP 5: DEDUPLICATE")
+    print(" STEP 4: DEDUPLICATE")
     print("=" * 60)
 
-    df = pd.read_csv(CHECKPOINT_REQ)
-    print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_REQ}\n")
+    df = pd.read_csv(CHECKPOINT_GOOGLE)
+    print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_GOOGLE}\n")
 
     # ── Prepare phone column for matching ───────────────────────────────
     df["phone_normalized"] = df["phone"].apply(normalize_phone)

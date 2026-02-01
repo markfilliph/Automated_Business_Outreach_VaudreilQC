@@ -1,10 +1,14 @@
 """
-STEP 4: REQ ENRICHMENT
+STEP 5: REQ ENRICHMENT
 
 Scrapes the Quebec business registry (REQ) for each candidate to get:
   - NEQ number (unique business identifier)
   - Registration date (used to calculate years in business)
   - Corporate status (active / dissolved)
+
+WHY RUN AFTER DEDUPLICATION?
+  This is the slowest, most fragile step. Running it on deduplicated data
+  means fewer requests, less risk of IP banning, and faster execution.
 
 Technical decisions:
   - SINGLE Playwright browser session reused across all companies.
@@ -21,7 +25,7 @@ Adds columns:
   - req_status
   - verification_status   ("Verified" or "Unverified")
 
-Input:  data/google_enriched.csv
+Input:  data/deduped_candidates.csv
 Output: data/req_enriched.csv
 """
 
@@ -32,7 +36,7 @@ import sys
 import os
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from config import CHECKPOINT_GOOGLE, CHECKPOINT_REQ, REQ_MAX_RETRIES, REQ_TIMEOUT_MS
+from config import CHECKPOINT_DEDUPED, CHECKPOINT_REQ, REQ_MAX_RETRIES, REQ_TIMEOUT_MS
 from utils.req_scraper import scrape_page
 
 
@@ -91,13 +95,13 @@ def ensure_playwright_installed():
 
 def main():
     print("=" * 60)
-    print(" STEP 4: REQ ENRICHMENT (Playwright)")
+    print(" STEP 5: REQ ENRICHMENT (Playwright)")
     print("=" * 60)
 
     ensure_playwright_installed()
 
-    df = pd.read_csv(CHECKPOINT_GOOGLE)
-    print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_GOOGLE}\n")
+    df = pd.read_csv(CHECKPOINT_DEDUPED)
+    print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_DEDUPED}\n")
 
     from playwright.sync_api import sync_playwright
 

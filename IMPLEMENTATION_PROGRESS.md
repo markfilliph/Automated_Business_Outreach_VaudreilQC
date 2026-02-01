@@ -12,10 +12,13 @@ Pipeline to generate 50 scored manufacturing acquisition leads in Vaudreuil, Que
 | 1 | `01_ingest.py` | ✅ Complete | Loads iCRIQ + YellowPages CSVs → `data/raw_candidates.csv` |
 | 2 | `02_filter.py` | ✅ Complete | Region/category/employee filters → `data/filtered_candidates.csv` |
 | 3 | `03_enrich_google.py` | ✅ Complete | Google Places API enrichment → `data/google_enriched.csv` |
-| 4 | `04_enrich_req.py` | ✅ Complete | REQ registry scraping (Playwright) → `data/req_enriched.csv` |
-| 5 | `05_deduplicate.py` | ✅ Complete | Phone/fuzzy name deduplication → `data/deduped_candidates.csv` |
+| 4 | `04_deduplicate.py` | ✅ Complete | Phone/fuzzy name deduplication → `data/deduped_candidates.csv` |
+| 5 | `05_enrich_req.py` | ✅ Complete | REQ registry scraping (Playwright) → `data/req_enriched.csv` |
 | 6 | `06_score.py` | ✅ Complete | Weighted scoring + ranking → `data/scored_candidates.csv` |
 | 7 | `07_export.py` | ✅ Complete | Export top 50 → `data/top_50_for_review.csv` |
+
+**Note:** Deduplication (step 4) runs BEFORE REQ scraping (step 5) to avoid hitting
+the government registry twice for the same company. Google data improves fuzzy matching.
 
 ---
 
@@ -41,8 +44,8 @@ project/
 ├── 01_ingest.py              # ✅ Exists
 ├── 02_filter.py              # ✅ Exists
 ├── 03_enrich_google.py       # ✅ Exists
-├── 04_enrich_req.py          # ✅ Exists
-├── 05_deduplicate.py         # ✅ Exists
+├── 04_deduplicate.py         # ✅ Exists
+├── 05_enrich_req.py          # ✅ Exists
 ├── 06_score.py               # ✅ Exists
 ├── 07_export.py              # ✅ Exists
 ├── utils/                    # ✅ Exists
@@ -83,11 +86,11 @@ python 02_filter.py
 # Step 3: Enrich with Google Places (requires API key)
 python 03_enrich_google.py
 
-# Step 4: Enrich with REQ registry (Playwright scraping)
-python 04_enrich_req.py
+# Step 4: Deduplicate (BEFORE REQ to reduce scraping load)
+python 04_deduplicate.py
 
-# Step 5: Deduplicate merged records
-python 05_deduplicate.py
+# Step 5: Enrich with REQ registry (slowest step, runs on deduped data)
+python 05_enrich_req.py
 
 # Step 6: Score and rank candidates
 python 06_score.py

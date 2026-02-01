@@ -13,7 +13,7 @@ Score components:
 
 Weights are defined in config.py (WEIGHT_*).
 
-Input:  data/deduped_candidates.csv
+Input:  data/req_enriched.csv
 Output: data/scored_candidates.csv  (sorted descending by total_score)
 """
 
@@ -24,7 +24,7 @@ import os
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from config import (
-    CHECKPOINT_DEDUPED,
+    CHECKPOINT_REQ,
     CHECKPOINT_SCORED,
     WEIGHT_YEARS_IN_BUSINESS,
     WEIGHT_REVIEW_COUNT,
@@ -121,8 +121,8 @@ def main():
     print(" STEP 6: SCORE & RANK")
     print("=" * 60)
 
-    df = pd.read_csv(CHECKPOINT_DEDUPED)
-    print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_DEDUPED}\n")
+    df = pd.read_csv(CHECKPOINT_REQ)
+    print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_REQ}\n")
 
     # ── Calculate component scores ──────────────────────────────────────
     df["score_years"] = df.apply(score_years_in_business, axis=1)
