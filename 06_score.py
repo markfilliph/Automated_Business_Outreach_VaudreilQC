@@ -31,6 +31,7 @@ from config import (
     WEIGHT_SECTOR_FIT,
     WEIGHT_EMPLOYEE_COUNT,
     TARGET_KEYWORDS,
+    MAX_ANNUAL_REVENUE,
 )
 
 
@@ -138,6 +139,19 @@ def main():
 
     df = pd.read_csv(CHECKPOINT_REQ)
     print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_REQ}\n")
+
+    # ── Filter by revenue cap ────────────────────────────────────────────
+    # Keep companies with revenue <= $2M OR unknown revenue (can't exclude unknowns)
+    before_count = len(df)
+    df = df[
+        (df["annual_revenue"].isna()) |
+        (df["annual_revenue"] == 0) |
+        (df["annual_revenue"] <= MAX_ANNUAL_REVENUE)
+    ].copy()
+    filtered_out = before_count - len(df)
+    if filtered_out > 0:
+        print(f"  [FILTER] Removed {filtered_out} companies with revenue > ${MAX_ANNUAL_REVENUE/1_000_000:.0f}M")
+        print(f"  [FILTER] Remaining: {len(df)} candidates\n")
 
     # ── Calculate component scores ──────────────────────────────────────
     df["score_years"] = df.apply(score_years_in_business, axis=1)

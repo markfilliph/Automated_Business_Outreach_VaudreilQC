@@ -53,6 +53,7 @@ TARGET_KEYWORDS = [
 # === FILTERING THRESHOLDS ===
 MIN_EMPLOYEES = 5
 MAX_EMPLOYEES = 200  # Sweet spot for small acquisition targets
+MAX_ANNUAL_REVENUE = 2_000_000  # $2M cap for acquisition targets
 
 # === SCORING WEIGHTS (must sum to 1.0) ===
 WEIGHT_YEARS_IN_BUSINESS = 0.35

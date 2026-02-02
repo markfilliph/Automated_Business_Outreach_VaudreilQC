@@ -2,7 +2,7 @@
 STEP 8: BROKER-FRIENDLY EXCEL EXPORT
 
 Generates a polished Excel file for broker presentation.
-Includes formatting, conditional coloring, and summary sheet.
+Matches the standard acquisition leads format with SDE calculations.
 
 Input:  data/scored_candidates.csv
 Output: data/Vaudreuil_Manufacturing_Leads.xlsx
@@ -20,16 +20,110 @@ sys.path.insert(0, os.path.dirname(__file__))
 from config import CHECKPOINT_SCORED
 
 
-def calculate_years(reg_date):
-    """Calculate years in business from registration date."""
-    if pd.isna(reg_date) or reg_date is None:
+# SDE margins by industry type (manufacturing typically 15-20%)
+INDUSTRY_MARGINS = {
+    "manufacturing": 0.15,
+    "printing": 0.18,
+    "wholesale": 0.17,
+    "professional_services": 0.30,
+    "equipment_rental": 0.25,
+    "default": 0.18,
+}
+
+
+def get_employee_range(num_employees):
+    """Convert employee count to a range string."""
+    if pd.isna(num_employees) or num_employees is None:
         return "Unknown"
-    try:
-        reg = pd.to_datetime(reg_date)
-        years = (datetime.now() - reg).days / 365.25
-        return f"{int(years)} years"
-    except Exception:
+    emp = int(num_employees)
+    if emp <= 5:
+        return "1-5"
+    elif emp <= 10:
+        return "5-10"
+    elif emp <= 25:
+        return "10-25"
+    elif emp <= 50:
+        return "25-50"
+    elif emp <= 100:
+        return "50-100"
+    elif emp <= 250:
+        return "100-250"
+    elif emp <= 500:
+        return "250-500"
+    else:
+        return "500+"
+
+
+def format_revenue(revenue):
+    """Format revenue as $X.XM or $XXK."""
+    if pd.isna(revenue) or revenue is None or revenue == 0:
         return "Unknown"
+    rev = float(revenue)
+    if rev >= 1_000_000:
+        return f"${rev/1_000_000:.1f}M"
+    elif rev >= 1_000:
+        return f"${rev/1_000:.0f}K"
+    else:
+        return f"${rev:.0f}"
+
+
+def calculate_sde(revenue, industry_desc):
+    """Calculate SDE (Seller's Discretionary Earnings) based on industry margin."""
+    if pd.isna(revenue) or revenue is None or revenue == 0:
+        return "Unknown"
+
+    margin = INDUSTRY_MARGINS["default"]
+    if pd.notna(industry_desc):
+        desc_lower = str(industry_desc).lower()
+        for industry, m in INDUSTRY_MARGINS.items():
+            if industry in desc_lower:
+                margin = m
+                break
+
+    sde = float(revenue) * margin
+    margin_pct = int(margin * 100)
+
+    if sde >= 1_000_000:
+        return f"${sde/1_000_000:.1f}M ({margin_pct}% margin)"
+    elif sde >= 1_000:
+        return f"${sde/1_000:.0f}K ({margin_pct}% margin)"
+    else:
+        return f"${sde:.0f} ({margin_pct}% margin)"
+
+
+def calculate_confidence_score(row):
+    """Calculate confidence score based on data completeness and verification."""
+    score = 0
+
+    if row.get("verification_status") == "Verified":
+        score += 30
+    if pd.notna(row.get("phone")) and str(row.get("phone")).strip():
+        score += 15
+    if pd.notna(row.get("website")) and str(row.get("website")).strip():
+        score += 15
+    if pd.notna(row.get("annual_revenue")) and row.get("annual_revenue", 0) > 0:
+        score += 15
+    if pd.notna(row.get("num_employees")) and row.get("num_employees", 0) > 0:
+        score += 10
+    if pd.notna(row.get("google_rating")) and row.get("google_rating", 0) > 0:
+        score += 10
+    if pd.notna(row.get("neq")):
+        score += 5
+
+    return f"{score}%"
+
+
+def determine_status(row):
+    """Determine lead status: QUALIFIED or REVIEW_REQUIRED."""
+    has_phone = pd.notna(row.get("phone")) and str(row.get("phone")).strip()
+    has_website = pd.notna(row.get("website")) and str(row.get("website")).strip()
+    is_verified = row.get("verification_status") == "Verified"
+    has_revenue = pd.notna(row.get("annual_revenue")) and row.get("annual_revenue", 0) > 0
+
+    if is_verified and has_phone and (has_website or has_revenue):
+        return "QUALIFIED"
+    else:
+        return "REVIEW_REQUIRED"
 
 
 def main():
@@ -40,39 +134,38 @@ def main():
     df = pd.read_csv(CHECKPOINT_SCORED)
     print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_SCORED}\n")
 
-    # ── Prepare broker-friendly columns ──────────────────────────────
-    # Clean NaN/None values for broker presentation
-    def clean_value(val, default="—"):
-        if pd.isna(val) or val is None or str(val).lower() in ("nan", "none", ""):
-            return default
-        return val
+    # ── Build export DataFrame in standard acquisition format ──────────
+    export_rows = []
+    for _, row in df.iterrows():
+        export_rows.append({
+            "Business Name": row.get("company_name", ""),
+            "Address": row.get("address_raw", ""),
+            "City": row.get("city", ""),
+            "Province": row.get("province", "QC"),
+            "Postal Code": row.get("postal_code", ""),
+            "Phone Number": row.get("phone", ""),
+            "Website": row.get("website", "") if pd.notna(row.get("website")) else "Unknown",
+            "Industry": "manufacturing",
+            "Estimated Employees (Range)": get_employee_range(row.get("num_employees")),
+            "Estimated SDE (CAD)": calculate_sde(row.get("annual_revenue"), row.get("industry_description")),
+            "Estimated Revenue (CAD)": format_revenue(row.get("annual_revenue")),
+            "Confidence Score": calculate_confidence_score(row),
+            "Status": determine_status(row),
+            "Data Sources": row.get("source", "GooglePlaces"),
+        })
 
-    export_df = pd.DataFrame()
-    export_df["Rank"] = df["rank"].astype(int)
-    export_df["Company Name"] = df["company_name"]
-    export_df["Score"] = df["total_score"]
-    export_df["Verified"] = df["verification_status"].apply(lambda x: "✓" if x == "Verified" else "")
-    export_df["Years in Business"] = df["req_registration_date"].apply(calculate_years)
-    export_df["NEQ"] = df["neq"].apply(clean_value)
-    export_df["Phone"] = df["phone"].apply(clean_value)
-    export_df["Website"] = df["website"].apply(clean_value)
-    export_df["Address"] = df["address_raw"].apply(clean_value)
-    export_df["City"] = df["city"].apply(clean_value)
-    export_df["Postal Code"] = df["postal_code"].apply(clean_value)
-    export_df["Google Rating"] = df["google_rating"].fillna(0)
-    export_df["Reviews"] = df["review_count"].fillna(0).astype(int)
-    export_df["Status"] = df["business_status"].apply(lambda x: clean_value(x, "Unknown"))
-    export_df["Notes"] = ""
+    export_df = pd.DataFrame(export_rows)
 
     # ── Create Excel workbook ────────────────────────────────────────
     wb = Workbook()
     ws = wb.active
-    ws.title = "Top Leads"
+    ws.title = "Acquisition Leads"
 
     # Styles
     header_font = Font(bold=True, color="FFFFFF")
     header_fill = PatternFill(start_color="2E75B6", end_color="2E75B6", fill_type="solid")
-    verified_fill = PatternFill(start_color="C6EFCE", end_color="C6EFCE", fill_type="solid")
+    qualified_fill = PatternFill(start_color="C6EFCE", end_color="C6EFCE", fill_type="solid")
+    review_fill = PatternFill(start_color="FFEB9C", end_color="FFEB9C", fill_type="solid")
     thin_border = Border(
         left=Side(style="thin"),
         right=Side(style="thin"),
@@ -92,28 +185,29 @@ def main():
                 cell.font = header_font
                 cell.fill = header_fill
 
-            # Verified row highlighting
-            if r_idx > 1 and c_idx == 4 and value == "✓":
-                for col in range(1, len(row) + 1):
-                    ws.cell(row=r_idx, column=col).fill = verified_fill
+        # Row highlighting based on status (column 13 is Status)
+        if r_idx > 1:
+            status = row[12] if len(row) > 12 else ""
+            fill = qualified_fill if status == "QUALIFIED" else review_fill
+            for col in range(1, len(row) + 1):
+                ws.cell(row=r_idx, column=col).fill = fill
 
     # Column widths
     column_widths = {
-        "A": 6,   # Rank
-        "B": 40,  # Company Name
-        "C": 8,   # Score
-        "D": 10,  # Verified
-        "E": 18,  # Years in Business
-        "F": 14,  # NEQ
-        "G": 16,  # Phone
-        "H": 35,  # Website
-        "I": 50,  # Address
-        "J": 20,  # City
-        "K": 12,  # Postal Code
-        "L": 12,  # Google Rating
-        "M": 10,  # Reviews
-        "N": 14,  # Status
-        "O": 30,  # Notes
+        "A": 40,  # Business Name
+        "B": 50,  # Address
+        "C": 18,  # City
+        "D": 10,  # Province
+        "E": 12,  # Postal Code
+        "F": 16,  # Phone Number
+        "G": 35,  # Website
+        "H": 15,  # Industry
+        "I": 22,  # Estimated Employees (Range)
+        "J": 25,  # Estimated SDE (CAD)
+        "K": 22,  # Estimated Revenue (CAD)
+        "L": 16,  # Confidence Score
+        "M": 18,  # Status
+        "N": 20,  # Data Sources
     }
 
     for col, width in column_widths.items():
@@ -125,22 +219,26 @@ def main():
     # ── Add Summary Sheet ────────────────────────────────────────────
     ws_summary = wb.create_sheet("Summary")
 
+    qualified_count = len(export_df[export_df["Status"] == "QUALIFIED"])
+    review_count = len(export_df[export_df["Status"] == "REVIEW_REQUIRED"])
+
     summary_data = [
         ["Vaudreuil Manufacturing Acquisition Leads"],
         [""],
         ["Generated:", datetime.now().strftime("%Y-%m-%d %H:%M")],
         ["Total Leads:", len(df)],
-        ["Verified:", len(df[df["verification_status"] == "Verified"])],
-        ["Unverified:", len(df[df["verification_status"] != "Verified"])],
+        ["QUALIFIED:", qualified_count],
+        ["REVIEW_REQUIRED:", review_count],
         [""],
-        ["Score Range:", f"{df['total_score'].min():.2f} - {df['total_score'].max():.2f}"],
-        [""],
-        ["Top 5 by Score:"],
+        ["Top 5 Leads:"],
     ]
 
-    for idx, row in df.head(5).iterrows():
-        verified = "✓" if row["verification_status"] == "Verified" else ""
-        summary_data.append([f"  {int(row['rank'])}. {row['company_name']}", f"{row['total_score']:.2f}", verified])
+    for idx, row in export_df.head(5).iterrows():
+        summary_data.append([
+            f"  {idx+1}. {row['Business Name']}",
+            row['Estimated Revenue (CAD)'],
+            row['Status']
+        ])
 
     for r_idx, row in enumerate(summary_data, 1):
         for c_idx, value in enumerate(row, 1):
@@ -149,15 +247,17 @@ def main():
                 cell.font = Font(bold=True, size=14)
 
     ws_summary.column_dimensions["A"].width = 50
-    ws_summary.column_dimensions["B"].width = 15
+    ws_summary.column_dimensions["B"].width = 20
+    ws_summary.column_dimensions["C"].width = 20
 
     # ── Save ─────────────────────────────────────────────────────────
     output_path = "data/Vaudreuil_Manufacturing_Leads.xlsx"
     wb.save(output_path)
 
     print(f"  [OUTPUT] Broker-friendly Excel: {output_path}")
-    print(f"  [OUTPUT] Sheets: 'Top Leads' (data) + 'Summary' (overview)")
-    print(f"\n  Verified leads highlighted in green.")
+    print(f"  [OUTPUT] Sheets: 'Acquisition Leads' (data) + 'Summary' (overview)")
+    print(f"\n  QUALIFIED leads highlighted in green.")
+    print(f"  REVIEW_REQUIRED leads highlighted in yellow.")
 
 
 if __name__ == "__main__":
