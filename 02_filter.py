@@ -1,14 +1,16 @@
 """
-STEP 2: FILTER
+STEP 2: FILTER (v3: All-Sector)
 
-Applies four filtering gates to narrow the raw candidate list.
-Gates are simple functions — no classes, no decorators.
+Applies five filtering gates. v3 flips the logic from v2:
+  v2: Include manufacturing -> exclude non-manufacturing
+  v3: Include everything -> exclude retail, restaurants, chains, subsidiaries
 
-Gate 1 — Region:     Keep only Vaudreuil-area postal codes.
-Gate 2 — Category:   Keep only manufacturing businesses (SIC code OR keyword match).
-Gate 3 — Exclusions: Remove restaurants, retail, services (false positives from "usine" etc.)
-Gate 4 — Employees:  Keep businesses in the 5-200 employee sweet spot.
-                     Rows with UNKNOWN employee counts are KEPT (not discarded).
+Gate 1 — Region:       Keep only Vaudreuil-area postal codes.
+Gate 2 — Exclusions:   Remove retail stores and restaurants (by keyword).
+Gate 3 — Chains:       Remove known chains, franchises, and large corporations.
+Gate 4 — Subsidiaries: NEW: Flag/remove multinational subsidiary operations.
+Gate 5 — Employees:    Keep businesses in the 5-200 employee range.
+                       Rows with UNKNOWN employee counts are KEPT.
 
 Input:  data/raw_candidates.csv
 Output: data/filtered_candidates.csv
@@ -18,73 +20,19 @@ import pandas as pd
 import sys
 import os
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+sys.path.insert(0, os.path.dirname(__file__))
 from config import (
     CHECKPOINT_RAW,
     CHECKPOINT_FILTERED,
     TARGET_POSTAL_PREFIXES,
-    TARGET_KEYWORDS,
-    TARGET_SIC_RANGE,
+    EXCLUDED_SECTOR_KEYWORDS,
     MIN_EMPLOYEES,
     MAX_EMPLOYEES,
+    CHAIN_FILTER_ENABLED,
+    SUBSIDIARY_FILTER_ENABLED,
 )
-
-# ─── NEGATIVE KEYWORDS ───────────────────────────────────────────────────────
-# Exclude businesses that match manufacturing keywords but are actually retail/service
-EXCLUDE_KEYWORDS = [
-    # Food service (not food processing/manufacturing)
-    "restaurant",
-    "café",
-    "cafe",
-    "bistro",
-    "bar",
-    "pub",
-    "souvlaki",
-    "pizza",
-    "sushi",
-    "diner",
-    "grill",
-    "bakery",  # retail bakery, not industrial
-    "boulangerie",
-    "patisserie",
-    "traiteur",
-    "catering",
-    # Retail
-    "store",
-    "magasin",
-    "boutique",
-    "shop",
-    "retail",
-    "grocery",
-    "épicerie",
-    "supermarket",
-    "pharmacy",
-    "pharmacie",
-    # Services
-    "salon",
-    "spa",
-    "gym",
-    "fitness",
-    "dentist",
-    "clinic",
-    "clinique",
-    "hospital",
-    "hotel",
-    "motel",
-    "school",
-    "école",
-    "daycare",
-    "garderie",
-    "church",
-    "église",
-    # Auto (unless auto manufacturing)
-    "car wash",
-    "lave-auto",
-    "gas station",
-    "station-service",
-    "tire",
-    "pneu",
-]
+from utils.chain_filter import filter_chains
+from utils.subsidiary_detector import flag_subsidiaries
 
 
 def filter_by_region(df: pd.DataFrame) -> pd.DataFrame:
@@ -93,64 +41,86 @@ def filter_by_region(df: pd.DataFrame) -> pd.DataFrame:
     postal_prefix = df["postal_code"].astype(str).str[:3].str.upper()
     mask = postal_prefix.isin(TARGET_POSTAL_PREFIXES)
     df = df[mask].copy()
-    print(f"  [Region]    {before:>5} → {len(df):>5}  (prefixes: {TARGET_POSTAL_PREFIXES})")
+    print(f"  [Region]       {before:>5} -> {len(df):>5}  (prefixes: {TARGET_POSTAL_PREFIXES})")
     return df
 
 
-def filter_by_category(df: pd.DataFrame) -> pd.DataFrame:
-    """Keep manufacturing businesses matched by SIC code OR industry keywords."""
-    before = len(df)
-
-    # ── SIC code match ──
-    sic_numeric = pd.to_numeric(df["sic_code"], errors="coerce")
-    sic_mask = sic_numeric.between(TARGET_SIC_RANGE[0], TARGET_SIC_RANGE[1])
-
-    # ── Keyword match on industry description + company name ──
-    text = (
-        df["industry_description"].fillna("").astype(str).str.lower()
-        + " "
-        + df["company_name"].fillna("").astype(str).str.lower()
-    )
-    keyword_mask = text.apply(
-        lambda t: any(kw.lower() in t for kw in TARGET_KEYWORDS)
-    )
-
-    # Keep if EITHER SIC or keyword matches
-    df = df[sic_mask | keyword_mask].copy()
-    print(f"  [Category]  {before:>5} → {len(df):>5}  (manufacturing match)")
-    return df
-
-
-def filter_by_exclusions(df: pd.DataFrame) -> pd.DataFrame:
+def filter_by_excluded_sectors(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Remove false positives: businesses that matched manufacturing keywords
-    but are actually restaurants, retail, or services.
+    v3: Remove retail stores and restaurants.
+    Checks company name AND industry description for excluded keywords.
 
-    Example: "Usine Grecque Souvlaki" matches "usine" but is a restaurant.
-
-    IMPORTANT: Only check company name for exclusions, NOT industry_description.
-    Google Places labels many legitimate manufacturers as "store" or "establishment"
-    which would cause false exclusions.
+    IMPORTANT: Some keywords contain spaces to avoid false positives.
+    Example: "bar " won't match "Barnaby" but will match "Bar Le Central".
     """
     before = len(df)
 
-    # Only check company name — Google's industry labels are unreliable
-    company_names = df["company_name"].fillna("").astype(str).str.lower()
-
-    # Exclude if company name contains a clear non-manufacturing indicator
-    exclude_mask = company_names.apply(
-        lambda name: any(kw.lower() in name for kw in EXCLUDE_KEYWORDS)
+    combined_text = (
+        df["company_name"].fillna("").astype(str).str.lower()
+        + " | "
+        + df.get("industry_description", pd.Series([""] * len(df))).fillna("").astype(str).str.lower()
     )
 
-    excluded = df[exclude_mask]["company_name"].tolist()
+    def is_excluded(text):
+        for kw in EXCLUDED_SECTOR_KEYWORDS:
+            if kw.lower() in text:
+                return True
+        return False
+
+    exclude_mask = combined_text.apply(is_excluded)
+
+    excluded_names = df[exclude_mask]["company_name"].tolist()
     df = df[~exclude_mask].copy()
 
-    print(f"  [Exclude]   {before:>5} → {len(df):>5}  (removed {len(excluded)} non-manufacturing)")
+    print(f"  [Sector]       {before:>5} -> {len(df):>5}  (removed {len(excluded_names)} retail/restaurant/other)")
+    if excluded_names:
+        for name in excluded_names[:8]:
+            print(f"                 x {str(name)[:55]}")
+        if len(excluded_names) > 8:
+            print(f"                 ... and {len(excluded_names) - 8} more")
+
+    return df
+
+
+def filter_by_chains(df: pd.DataFrame) -> pd.DataFrame:
+    """Remove known chains, franchises, and large corporations."""
+    if not CHAIN_FILTER_ENABLED:
+        print(f"  [Chains]       SKIPPED (disabled in config)")
+        return df
+
+    before = len(df)
+    df, excluded = filter_chains(df)
+
+    print(f"  [Chains]       {before:>5} -> {len(df):>5}  (removed {len(excluded)} chains/franchises)")
     if excluded:
-        for name in excluded[:5]:  # Show first 5
-            print(f"              ✗ {name[:50]}")
+        for entry in excluded[:5]:
+            print(f"                 x {entry['company_name'][:35]} ({entry['reason']})")
         if len(excluded) > 5:
-            print(f"              ... and {len(excluded) - 5} more")
+            print(f"                 ... and {len(excluded) - 5} more")
+
+    return df
+
+
+def filter_by_subsidiaries(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    NEW (v3): Detect and remove subsidiaries of large/public corporations.
+    This is the single highest-value filter for clean acquisition leads.
+    Companies that are divisions of multinationals are not acquirable targets.
+    """
+    if not SUBSIDIARY_FILTER_ENABLED:
+        print(f"  [Subsidiary]   SKIPPED (disabled in config)")
+        return df
+
+    before = len(df)
+    df, flagged = flag_subsidiaries(df)
+
+    removed = len(flagged)
+    print(f"  [Subsidiary]   {before:>5} -> {len(df):>5}  (removed {removed} subsidiary/division)")
+    if flagged:
+        for entry in flagged[:5]:
+            print(f"                 x {entry['company_name'][:35]} ({entry['reason']})")
+        if len(flagged) > 5:
+            print(f"                 ... and {len(flagged) - 5} more")
 
     return df
 
@@ -158,8 +128,7 @@ def filter_by_exclusions(df: pd.DataFrame) -> pd.DataFrame:
 def filter_by_employee_count(df: pd.DataFrame) -> pd.DataFrame:
     """
     Keep businesses in the MIN-MAX employee range.
-    IMPORTANT: Rows where employee count is unknown (NaN) are KEPT.
-    We don't discard leads just because we lack one data point.
+    Rows where employee count is unknown (NaN) are KEPT.
     """
     before = len(df)
     emp = pd.to_numeric(df["num_employees"], errors="coerce")
@@ -167,26 +136,27 @@ def filter_by_employee_count(df: pd.DataFrame) -> pd.DataFrame:
     unknown = emp.isna()
     mask = in_range | unknown
     df = df[mask].copy()
-    print(f"  [Employees] {before:>5} → {len(df):>5}  (range {MIN_EMPLOYEES}-{MAX_EMPLOYEES}, unknowns kept)")
+    print(f"  [Employees]    {before:>5} -> {len(df):>5}  (range {MIN_EMPLOYEES}-{MAX_EMPLOYEES}, unknowns kept)")
     return df
 
 
 def main():
     print("=" * 60)
-    print(" STEP 2: FILTER")
+    print(" STEP 2: FILTER (v3: All-Sector)")
     print("=" * 60)
 
     df = pd.read_csv(CHECKPOINT_RAW)
     print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_RAW}\n")
 
     df = filter_by_region(df)
-    df = filter_by_category(df)
-    df = filter_by_exclusions(df)
+    df = filter_by_excluded_sectors(df)   # v3: replaces category + exclusions
+    df = filter_by_chains(df)
+    df = filter_by_subsidiaries(df)       # NEW v3 gate
     df = filter_by_employee_count(df)
 
     print(f"\n  [OUTPUT] Filtered candidates: {len(df)}")
     df.to_csv(CHECKPOINT_FILTERED, index=False, encoding="utf-8")
-    print(f"  [OUTPUT] Saved → {CHECKPOINT_FILTERED}")
+    print(f"  [OUTPUT] Saved -> {CHECKPOINT_FILTERED}")
 
 
 if __name__ == "__main__":

@@ -1,272 +1,324 @@
 """
-REQ (Registraire des entreprises du Québec) — page interaction logic.
+REQ Scraper — Registraire des entreprises du Québec
 
-This module handles ONLY the Playwright page interactions:
-  - Navigating to the search form
-  - Submitting a company name
-  - Parsing the results page for NEQ, registration date, status
+Playwright-based scraper for the Quebec enterprise registry. Extracts:
+  - NEQ number (unique enterprise identifier)
+  - Registration date (critical for years-in-business scoring)
+  - Officer/dirigeant name(s) (ownership identification)
+  - Parent company (subsidiary detection)
+  - Business status (active/inactive/struck off)
+  - Legal form (inc., ltée, enr., SENC, etc.)
 
-It does NOT manage the browser lifecycle or retry logic.
-The calling script (05_enrich_req.py) owns the browser session
-and retry loop. This keeps a single browser open across all companies
-instead of launching one per request.
+Design constraints (from CLAUDE.md hard rules):
+  - Synchronous execution (no asyncio)
+  - Retries allowed ONLY in 05_enrich_req.py (this module does not retry)
+  - Single browser session reused across all lookups
+  - File-based JSON cache (no SQLite)
+  - Playwright only (no Selenium, no requests scraping)
 
-IMPORTANT: REQ is a hostile target. Selectors WILL break when they update
-their site. When that happens, open REQ in a browser, inspect the HTML,
-and update the selectors in scrape_page() accordingly.
+The REQ site structure:
+  Search page: /consulter/rechercher
+  Results: JavaScript-rendered table
+  Detail page: /consulter/[NEQ] — contains full enterprise info
+
+Anti-blocking strategy:
+  - 3-5 second random delays between requests
+  - Human-like viewport and user agent
+  - Session cookies maintained naturally via Playwright context
+  - No concurrent requests; sequential processing only
 """
 
+import json
+import os
 import re
 import time
+import random
+from datetime import datetime
+
+CACHE_DIR = "data/cache/req"
 
 
-# ─── Selector fallback lists ─────────────────────────────────────────────────
-# Multiple selectors tried in order. Add new ones at the top when REQ changes.
+def init_browser():
+    """Initialize a Playwright browser with a persistent context.
 
-SEARCH_INPUT_SELECTORS = [
-    'input[name="nom"]',
-    'input[name="searchTerm"]',
-    'input[name="q"]',
-    'input[id*="search"]',
-    'input[id*="nom"]',
-    'input[placeholder*="nom"]',
-    'input[placeholder*="name"]',
-    'input[type="search"]',
-    'input[type="text"]:visible',
-]
-
-SUBMIT_BUTTON_SELECTORS = [
-    'button[type="submit"]',
-    'input[type="submit"]',
-    'button:has-text("Rechercher")',
-    'button:has-text("Search")',
-    'button:has-text("Chercher")',
-    '.search-button',
-    '#search-button',
-]
-
-RESULTS_TABLE_SELECTORS = [
-    "table.results-table tr",
-    "table.search-results tr",
-    "table[class*='result'] tr",
-    ".results-list a",
-    ".search-results a",
-    "table tr:has(td)",
-]
-
-
-def _find_element(page, selectors: list, description: str):
-    """Try multiple selectors, return first match or raise."""
-    for selector in selectors:
-        try:
-            el = page.locator(selector)
-            if el.count() > 0:
-                return el
-        except Exception:
-            continue
-    raise RuntimeError(f"Could not find {description} with any known selector")
-
-
-def scrape_page(page, company_name: str) -> dict | None:
-    """
-    Search REQ for a company using an active Playwright page.
-
-    Args:
-        page: An active Playwright page object (caller manages lifecycle).
-        company_name: The business name to search for.
-
-    Returns:
-        dict with keys: neq, registration_date, status
-        None if the company is not found in REQ.
-
-    Raises:
-        RuntimeError if something unexpected happens (caller should retry).
+    Returns (playwright, browser, page) tuple.
+    Caller is responsible for cleanup via close_browser().
     """
     try:
-        # ── Navigate to search ──────────────────────────────────────────
-        page.goto("https://www.registraire.gouv.qc.ca/en/recherche-entreprise/")
-        page.wait_for_load_state("networkidle")
-        time.sleep(1)  # Extra buffer for JS rendering
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("  [ERROR] playwright not installed. Run: pip install playwright && playwright install chromium")
+        return None, None, None
 
-        # ── Fill search form ────────────────────────────────────────────
-        search_input = _find_element(page, SEARCH_INPUT_SELECTORS, "search input")
-        search_input.first.wait_for(state="visible", timeout=10000)
-        search_input.first.clear()
-        search_input.first.fill(company_name)
-
-        # ── Submit ──────────────────────────────────────────────────────
-        submit_btn = _find_element(page, SUBMIT_BUTTON_SELECTORS, "submit button")
-        submit_btn.first.click()
-        page.wait_for_load_state("networkidle")
-        time.sleep(2)  # Buffer for dynamic content rendering
-
-        # ── Check for no results ────────────────────────────────────────
-        page_text = page.text_content("body") or ""
-        no_results_phrases = [
-            "Aucun résultat",
-            "No results",
-            "aucune entreprise",
-            "no business found",
-            "0 résultat",
-            "0 result",
-        ]
-        if any(phrase.lower() in page_text.lower() for phrase in no_results_phrases):
-            return None
-
-        # ── Parse results table ─────────────────────────────────────────
-        results_found = False
-        for selector in RESULTS_TABLE_SELECTORS:
-            try:
-                results = page.locator(selector)
-                if results.count() > 1:  # More than just header
-                    results.nth(1).click()
-                    results_found = True
-                    break
-            except Exception:
-                continue
-
-        if not results_found:
-            # Maybe we're already on the detail page (single result auto-redirect)
-            if _extract_neq(page_text):
-                pass  # Already on detail page
-            else:
-                return None
-
-        page.wait_for_load_state("networkidle")
-        time.sleep(1)
-
-        # ── Extract detail fields ───────────────────────────────────────
-        detail_text = page.text_content("body") or ""
-
-        neq = _extract_neq(detail_text)
-        reg_date = _extract_date(page, detail_text)
-        status = _extract_status(page, detail_text)
-
-        return {
-            "neq": neq,
-            "registration_date": reg_date,
-            "status": status,
-        }
-
-    except Exception as e:
-        raise RuntimeError(f"REQ scrape failed for '{company_name}': {e}")
+    pw = sync_playwright().start()
+    browser = pw.chromium.launch(
+        headless=True,
+        args=["--no-sandbox", "--disable-dev-shm-usage"],
+    )
+    context = browser.new_context(
+        viewport={"width": 1280, "height": 800},
+        user_agent=(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0.0.0 Safari/537.36"
+        ),
+        locale="fr-CA",
+    )
+    page = context.new_page()
+    return pw, browser, page
 
 
-def _extract_neq(page_text: str) -> str | None:
-    """
-    Find the NEQ number in the page text.
-    NEQ is always a 10-digit number starting with 1 (Quebec format).
-    """
-    # Look for NEQ pattern: 10 digits, typically starting with 1
-    patterns = [
-        r"NEQ[:\s]*(\d{10})",           # "NEQ: 1234567890"
-        r"NEQ[:\s]*(\d{4}\s?\d{3}\s?\d{3})",  # "NEQ: 1234 567 890"
-        r"\b(1\d{9})\b",                # 10 digits starting with 1
-        r"\b(\d{10})\b",                # Any 10 digits (fallback)
-    ]
-    for pattern in patterns:
-        match = re.search(pattern, page_text, re.IGNORECASE)
-        if match:
-            # Remove spaces from formatted NEQ
-            return re.sub(r"\s", "", match.group(1))
-    return None
-
-
-def _extract_date(page, page_text: str) -> str | None:
-    """
-    Extract registration date using multiple strategies.
-    """
-    # Strategy 1: Structured selectors
-    date_labels = [
-        "Date d'inscription",
-        "Date of registration",
-        "Date d'immatriculation",
-        "Date de constitution",
-        "Incorporation date",
-    ]
-
-    for label in date_labels:
-        result = _extract_field_by_label(page, label)
-        if result:
-            return result
-
-    # Strategy 2: Regex patterns in page text
-    date_patterns = [
-        r"(?:inscription|registration|constitution)[:\s]*(\d{4}-\d{2}-\d{2})",
-        r"(?:inscription|registration|constitution)[:\s]*(\d{2}/\d{2}/\d{4})",
-        r"(?:inscription|registration|constitution)[:\s]*(\d{2}-\d{2}-\d{4})",
-    ]
-    for pattern in date_patterns:
-        match = re.search(pattern, page_text, re.IGNORECASE)
-        if match:
-            return match.group(1)
-
-    return None
-
-
-def _extract_status(page, page_text: str) -> str | None:
-    """
-    Extract business status using multiple strategies.
-    """
-    # Strategy 1: Structured selectors
-    status_labels = ["Statut", "Status", "État", "State"]
-
-    for label in status_labels:
-        result = _extract_field_by_label(page, label)
-        if result:
-            return result
-
-    # Strategy 2: Look for common status keywords in text
-    status_keywords = {
-        "Immatriculée": "Active",
-        "Registered": "Active",
-        "Active": "Active",
-        "Radiée": "Dissolved",
-        "Dissolved": "Dissolved",
-        "Inactive": "Inactive",
-    }
-    for keyword, normalized in status_keywords.items():
-        if keyword.lower() in page_text.lower():
-            return normalized
-
-    return None
-
-
-def _extract_field_by_label(page, label: str) -> str | None:
-    """
-    Try multiple selector strategies to extract a field value by its label.
-    """
+def close_browser(pw, browser):
+    """Clean up browser resources."""
     try:
-        # Strategy 1: data attribute
-        for attr in ["data-field", "data-label", "id"]:
-            el = page.locator(f'[{attr}*="{label.lower().replace(" ", "")}"]')
-            if el.count() > 0:
-                text = el.first.text_content()
-                if text and text.strip():
-                    return text.strip()
-
-        # Strategy 2: table cell next to label (th/td pattern)
-        for tag in ["th", "td", "dt", "label", "span"]:
-            label_el = page.locator(f'{tag}:has-text("{label}")')
-            if label_el.count() > 0:
-                # Try next sibling
-                for sibling in ["td", "dd", "span", "div"]:
-                    row = label_el.first.locator(f"xpath=./following-sibling::{sibling}[1]")
-                    if row.count() > 0:
-                        text = row.first.text_content()
-                        if text and text.strip():
-                            return text.strip()
-                # Try parent's next child
-                parent = label_el.first.locator("xpath=..")
-                if parent.count() > 0:
-                    children = parent.locator(":scope > *")
-                    for i in range(children.count()):
-                        if label in (children.nth(i).text_content() or ""):
-                            if i + 1 < children.count():
-                                text = children.nth(i + 1).text_content()
-                                if text and text.strip():
-                                    return text.strip()
+        if browser:
+            browser.close()
+        if pw:
+            pw.stop()
     except Exception:
         pass
 
+
+def get_cache_path(company_name):
+    """Generate cache file path for a company."""
+    import hashlib
+    safe_name = hashlib.md5(company_name.lower().strip().encode()).hexdigest()[:16]
+    return os.path.join(CACHE_DIR, f"req_{safe_name}.json")
+
+
+def load_cached(company_name):
+    """Load cached REQ data for a company, if available."""
+    path = get_cache_path(company_name)
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                # Check cache age (7 day TTL)
+                cached_at = data.get("cached_at", "")
+                if cached_at:
+                    age = (datetime.now() - datetime.fromisoformat(cached_at)).days
+                    if age <= 7:
+                        return data
+        except (json.JSONDecodeError, ValueError):
+            pass
     return None
+
+
+def save_cache(company_name, data):
+    """Save REQ data to cache."""
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    data["cached_at"] = datetime.now().isoformat()
+    path = get_cache_path(company_name)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def clean_company_name_for_search(name):
+    """Clean company name for REQ search.
+
+    The REQ search works best with the core legal name without
+    common suffixes that may vary in registration vs. trade name.
+    """
+    name = name.strip()
+    # Remove common suffixes that might differ
+    suffixes = [
+        " inc.", " inc", " ltée", " ltee", " ltd.", " ltd",
+        " enr.", " enr", " s.e.n.c.", " senc",
+    ]
+    name_lower = name.lower()
+    for suffix in suffixes:
+        if name_lower.endswith(suffix):
+            name = name[:len(name) - len(suffix)]
+            break
+    return name.strip()
+
+
+def search_req(page, company_name, timeout_ms=30000):
+    """Search the REQ for a company by name.
+
+    Returns a list of search result dicts: [{neq, name, status, address}, ...]
+    Returns empty list if no results or search fails.
+    """
+    search_url = "https://www.registraire.gouv.qc.ca/consulter/rechercher"
+    clean_name = clean_company_name_for_search(company_name)
+
+    try:
+        page.goto(search_url, timeout=timeout_ms, wait_until="networkidle")
+        time.sleep(random.uniform(1.0, 2.0))
+
+        # Fill the search field
+        # The REQ search page has a text input for company name
+        search_input = page.locator('input[type="text"]').first
+        search_input.fill(clean_name)
+        time.sleep(random.uniform(0.5, 1.0))
+
+        # Submit search
+        submit_btn = page.locator('button[type="submit"], input[type="submit"]').first
+        submit_btn.click()
+
+        # Wait for results
+        page.wait_for_load_state("networkidle", timeout=timeout_ms)
+        time.sleep(random.uniform(1.5, 2.5))
+
+        # Parse search results table
+        results = []
+        # Look for result rows (the REQ uses a table or list for results)
+        rows = page.locator("table tbody tr, .result-item, .search-result").all()
+
+        for row in rows[:10]:  # Cap at 10 results
+            text = row.inner_text()
+            # Try to extract NEQ (10-digit number)
+            neq_match = re.search(r'\b(\d{10})\b', text)
+            if neq_match:
+                results.append({
+                    "neq": neq_match.group(1),
+                    "raw_text": text.strip()[:200],
+                })
+
+        return results
+
+    except Exception as e:
+        return []
+
+
+def fetch_enterprise_detail(page, neq, timeout_ms=30000):
+    """Fetch detailed enterprise info from REQ by NEQ number.
+
+    Returns a dict with registration_date, officer_name, parent_company,
+    status, legal_form, and other fields. Returns None on failure.
+    """
+    detail_url = f"https://www.registraire.gouv.qc.ca/consulter/{neq}"
+
+    try:
+        page.goto(detail_url, timeout=timeout_ms, wait_until="networkidle")
+        time.sleep(random.uniform(1.5, 3.0))
+
+        # Extract page text for parsing
+        body_text = page.inner_text("body")
+
+        result = {
+            "neq": neq,
+            "req_status": "Unknown",
+            "req_registration_date": None,
+            "req_officer_name": None,
+            "req_parent_company": None,
+            "req_legal_form": None,
+            "req_address": None,
+            "req_raw_text": body_text[:2000] if body_text else "",
+        }
+
+        # Extract registration date
+        # Look for "Date d'immatriculation", "Constituée le", "Date de constitution"
+        date_patterns = [
+            r"(?:Date d'immatriculation|Constituée? le|Date de constitution)[:\s]*(\d{4}-\d{2}-\d{2})",
+            r"(?:Date d'immatriculation|Constituée? le|Date de constitution)[:\s]*(\d{2}/\d{2}/\d{4})",
+            r"(\d{4}-\d{2}-\d{2}).*(?:immatriculation|constitution)",
+        ]
+        for pattern in date_patterns:
+            match = re.search(pattern, body_text, re.IGNORECASE)
+            if match:
+                result["req_registration_date"] = match.group(1)
+                break
+
+        # Extract status
+        status_patterns = [
+            r"(Immatriculée?|Radiée?|Dissoute?|En défaut|Active|Inactive)",
+        ]
+        for pattern in status_patterns:
+            match = re.search(pattern, body_text, re.IGNORECASE)
+            if match:
+                result["req_status"] = match.group(1)
+                break
+
+        # Extract officer/dirigeant name
+        # REQ pages typically list "Administrateurs" or "Dirigeants"
+        officer_patterns = [
+            r"(?:Administrateur|Dirigeant|Président|Actionnaire)[:\s]*([A-ZÀ-Ü][a-zà-ü]+(?:\s+[A-ZÀ-Ü][a-zà-ü]+){1,3})",
+            r"(?:ADMINISTRATEUR|DIRIGEANT|PRÉSIDENT)[:\s]*([A-ZÀ-Ü][A-ZÀ-Ü\s]+[A-ZÀ-Ü])",
+        ]
+        for pattern in officer_patterns:
+            match = re.search(pattern, body_text)
+            if match:
+                name = match.group(1).strip()
+                # Exclude common false positives
+                if len(name) > 4 and name.lower() not in ("québec", "canada", "montréal"):
+                    result["req_officer_name"] = name
+                    break
+
+        # Extract parent company / "Constituant" / "Fondateur"
+        parent_patterns = [
+            r"(?:Constituant|Fondateur|Société mère|Actionnaire majoritaire)[:\s]*(.+?)(?:\n|$)",
+        ]
+        for pattern in parent_patterns:
+            match = re.search(pattern, body_text, re.IGNORECASE)
+            if match:
+                parent = match.group(1).strip()
+                if len(parent) > 3:
+                    result["req_parent_company"] = parent[:100]
+                    break
+
+        # Extract legal form
+        legal_patterns = [
+            r"(Société par actions|Personne morale|Société en nom collectif|"
+            r"Société en commandite|Entreprise individuelle|Coopérative|"
+            r"Organisme à but non lucratif|Corporation|Compagnie)",
+        ]
+        for pattern in legal_patterns:
+            match = re.search(pattern, body_text, re.IGNORECASE)
+            if match:
+                result["req_legal_form"] = match.group(1)
+                break
+
+        return result
+
+    except Exception as e:
+        return None
+
+
+def lookup_company(page, company_name):
+    """Full lookup: search by name, then fetch detail of best match.
+
+    Returns a dict with REQ data fields, or a dict with empty/None values
+    if lookup fails. Never raises exceptions.
+    """
+    empty_result = {
+        "neq": None,
+        "req_status": None,
+        "req_registration_date": None,
+        "req_officer_name": None,
+        "req_parent_company": None,
+        "req_legal_form": None,
+        "req_address": None,
+        "req_lookup_status": "not_found",
+    }
+
+    # Check cache first
+    cached = load_cached(company_name)
+    if cached:
+        cached["req_lookup_status"] = "cached"
+        return cached
+
+    # Search
+    results = search_req(page, company_name)
+    if not results:
+        empty_result["req_lookup_status"] = "no_results"
+        save_cache(company_name, empty_result)
+        return empty_result
+
+    # Use first result (best match by REQ relevance ranking)
+    best_neq = results[0]["neq"]
+
+    # Small delay between search and detail fetch
+    time.sleep(random.uniform(2.0, 4.0))
+
+    # Fetch detail
+    detail = fetch_enterprise_detail(page, best_neq)
+    if detail:
+        detail["req_lookup_status"] = "found"
+        save_cache(company_name, detail)
+        return detail
+    else:
+        empty_result["neq"] = best_neq
+        empty_result["req_lookup_status"] = "detail_failed"
+        save_cache(company_name, empty_result)
+        return empty_result

@@ -1,130 +1,261 @@
 """
-STEP 1: INGEST
+STEP 1: INGEST & NORMALIZE
 
-Loads raw data exports from iCRIQ and YellowPages into a single Pandas DataFrame
-with a standardized column schema. Handles French and English column headers.
+Reads raw data from one or more sources and normalizes into a single
+DataFrame with a consistent schema. Sources may include:
 
-Input:  data/raw/icric_export.csv  +  data/raw/yellowpages_export.csv
-Output: data/raw_candidates.csv
+  1. data/raw_candidates.csv — output from 00_acquire_leads.py (Google Places)
+  2. data/raw/icric_export.csv — CCIVS/ICRIC directory export (if available)
+  3. data/raw/yellowpages_export.csv — Yellow Pages scrape (if available)
+
+Each source has its own column naming conventions. This script maps
+them all to the pipeline's internal schema, tags each row with its
+origin source, and writes a unified raw_candidates.csv.
+
+If only the Google Places source exists (most common case), this script
+is effectively a pass-through with schema validation.
+
+Input:  data/raw_candidates.csv (and optionally raw/ directory files)
+Output: data/raw_candidates.csv (overwritten with normalized schema)
 """
 
 import pandas as pd
-import sys
 import os
+import sys
+from datetime import datetime
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from config import RAW_ICRIC_FILE, RAW_YELLOWPAGES_FILE, CHECKPOINT_RAW
-from utils.address import normalize_address
+sys.path.insert(0, os.path.dirname(__file__))
+from config import (
+    CHECKPOINT_RAW,
+    RAW_ICRIC_FILE,
+    RAW_YELLOWPAGES_FILE,
+    TARGET_CITY,
+    TARGET_PROVINCE,
+)
 
 
-# ─── Standard column schema ─────────────────────────────────────────────────
-# All sources get mapped to these columns. Missing data = NaN.
-STANDARD_COLUMNS = [
-    "source",
-    "company_name",
-    "address_raw",
-    "address_normalized",
-    "city",
-    "province",
-    "postal_code",
-    "phone",
-    "email",
-    "website",
-    "sic_code",
-    "industry_description",
-    "num_employees",
-    "annual_revenue",
+# ── Internal Schema ──────────────────────────────────────────────────────────
+# Every row in the pipeline after this step has these columns.
+# Missing values are allowed (NaN) but the columns must exist.
+SCHEMA_COLUMNS = [
+    "google_place_id",      # Unique ID from Google (may be empty for non-Google sources)
+    "company_name",         # Business name (required, non-empty)
+    "address_raw",          # Full address string as received
+    "city",                 # City name (parsed or provided)
+    "province",             # Province code (QC)
+    "postal_code",          # Canadian postal code
+    "phone",                # Phone number (raw format)
+    "website",              # Website URL
+    "lat",                  # Latitude (float)
+    "lng",                  # Longitude (float)
+    "google_types",         # Google Places type tags (comma-separated)
+    "google_rating",        # Rating (float, 1.0-5.0)
+    "review_count",         # Number of Google reviews (int)
+    "business_status",      # OPERATIONAL, CLOSED_PERMANENTLY, etc.
+    "industry_description", # Free text industry description
+    "num_employees",        # Employee count estimate (int)
+    "data_source",          # Origin tag: google_places, icric, yellowpages
+    "acquired_at",          # ISO timestamp when data was acquired
+    "pipeline_version",     # v3
 ]
 
 
-def _get_col(df: pd.DataFrame, candidates: list, default="") -> pd.Series:
-    """Try a list of possible column names. Return the first one found, or a default Series."""
-    for name in candidates:
-        if name in df.columns:
-            return df[name]
-    return pd.Series([default] * len(df), index=df.index)
+def ingest_google_places():
+    """Load and normalize Google Places data (from 00_acquire_leads.py)."""
+    if not os.path.exists(CHECKPOINT_RAW):
+        return pd.DataFrame(columns=SCHEMA_COLUMNS)
+
+    df = pd.read_csv(CHECKPOINT_RAW)
+    print(f"    Google Places: {len(df)} rows")
+
+    # Rename columns to match schema (most already match from 00_acquire_leads)
+    rename_map = {
+        "google_types": "google_types",
+    }
+    df = df.rename(columns=rename_map)
+
+    # Ensure data_source tag
+    if "data_source" not in df.columns:
+        df["data_source"] = "google_places"
+
+    # Parse city from address if not present
+    if "city" not in df.columns:
+        df["city"] = df["address_raw"].apply(parse_city_from_address)
+
+    if "province" not in df.columns:
+        df["province"] = TARGET_PROVINCE
+
+    # Ensure all schema columns exist
+    for col in SCHEMA_COLUMNS:
+        if col not in df.columns:
+            df[col] = None
+
+    return df[SCHEMA_COLUMNS].copy()
 
 
-def load_icric(filepath: str) -> pd.DataFrame:
-    """Load an iCRIQ export CSV and map to the standard schema."""
-    if not os.path.exists(filepath):
-        print(f"  [WARNING] iCRIQ file not found: {filepath}")
-        print(f"  [WARNING] Place your iCRIQ export at: {filepath}")
-        return pd.DataFrame(columns=STANDARD_COLUMNS)
+def ingest_icric():
+    """Load and normalize CCIVS/ICRIC directory export."""
+    if not os.path.exists(RAW_ICRIC_FILE):
+        return pd.DataFrame(columns=SCHEMA_COLUMNS)
 
-    df = pd.read_csv(filepath, encoding="utf-8-sig")
-    print(f"  [iCRIQ] Loaded {len(df)} rows")
+    df = pd.read_csv(RAW_ICRIC_FILE)
+    print(f"    ICRIC/CCIVS: {len(df)} rows")
 
-    # ── Map columns ─────────────────────────────────────────────────────
-    # iCRIQ exports can vary — these cover the common French and English headers.
-    mapped = pd.DataFrame(index=df.index)
-    mapped["source"] = "iCRIQ"
-    mapped["company_name"] = _get_col(df, ["Nom de l'établissement", "Company Name", "Nom"])
-    mapped["address_raw"] = _get_col(df, ["Adresse", "Address"])
-    mapped["city"] = _get_col(df, ["Ville", "City"])
-    mapped["province"] = _get_col(df, ["Province"], default="QC")
-    mapped["postal_code"] = _get_col(df, ["Code postal", "Postal Code"]).astype(str).str.strip().str.upper()
-    mapped["phone"] = _get_col(df, ["Téléphone", "Phone", "Tél."]).astype(str).str.strip()
-    mapped["email"] = _get_col(df, ["Courriel", "Email"])
-    mapped["website"] = _get_col(df, ["Site web", "Website"])
-    mapped["sic_code"] = _get_col(df, ["Code SIC", "SIC Code", "Code NAICS"])
-    mapped["industry_description"] = _get_col(df, ["Description de l'industrie", "Industry", "Secteur"])
-    mapped["num_employees"] = pd.to_numeric(_get_col(df, ["Nb employés", "Employees", "Nombre d'employés"]), errors="coerce")
-    mapped["annual_revenue"] = pd.to_numeric(_get_col(df, ["Chiffre d'affaires", "Revenue", "CA annuel"]), errors="coerce")
+    # ICRIC exports use different column names. Common ones:
+    rename_map = {
+        "Nom de l'entreprise": "company_name",
+        "Nom": "company_name",
+        "Adresse": "address_raw",
+        "Ville": "city",
+        "Code postal": "postal_code",
+        "Telephone": "phone",
+        "Site web": "website",
+        "Secteur": "industry_description",
+        "Employes": "num_employees",
+    }
+    for old, new in rename_map.items():
+        if old in df.columns and new not in df.columns:
+            df = df.rename(columns={old: new})
 
-    mapped["address_normalized"] = mapped["address_raw"].apply(normalize_address)
-    return mapped
+    df["data_source"] = "icric"
+    df["acquired_at"] = datetime.now().isoformat()
+    df["pipeline_version"] = "v3"
+
+    # Ensure all schema columns exist
+    for col in SCHEMA_COLUMNS:
+        if col not in df.columns:
+            df[col] = None
+
+    return df[SCHEMA_COLUMNS].copy()
 
 
-def load_yellowpages(filepath: str) -> pd.DataFrame:
-    """Load a YellowPages export CSV and map to the standard schema."""
-    if not os.path.exists(filepath):
-        print(f"  [WARNING] YellowPages file not found: {filepath}")
-        print(f"  [WARNING] Place your YellowPages export at: {filepath}")
-        return pd.DataFrame(columns=STANDARD_COLUMNS)
+def ingest_yellowpages():
+    """Load and normalize Yellow Pages scrape."""
+    if not os.path.exists(RAW_YELLOWPAGES_FILE):
+        return pd.DataFrame(columns=SCHEMA_COLUMNS)
 
-    df = pd.read_csv(filepath, encoding="utf-8-sig")
-    print(f"  [YellowPages] Loaded {len(df)} rows")
+    df = pd.read_csv(RAW_YELLOWPAGES_FILE)
+    print(f"    Yellow Pages: {len(df)} rows")
 
-    mapped = pd.DataFrame(index=df.index)
-    mapped["source"] = "YellowPages"
-    mapped["company_name"] = _get_col(df, ["Business Name", "Nom", "Name"])
-    mapped["address_raw"] = _get_col(df, ["Address", "Adresse"])
-    mapped["city"] = _get_col(df, ["City", "Ville"])
-    mapped["province"] = _get_col(df, ["Province"], default="QC")
-    mapped["postal_code"] = _get_col(df, ["Postal Code", "Code postal"]).astype(str).str.strip().str.upper()
-    mapped["phone"] = _get_col(df, ["Phone", "Téléphone"]).astype(str).str.strip()
-    mapped["email"] = _get_col(df, ["Email", "Courriel"])
-    mapped["website"] = _get_col(df, ["Website", "Site web"])
-    mapped["sic_code"] = _get_col(df, ["SIC Code", "Code SIC", "Category Code"])
-    mapped["industry_description"] = _get_col(df, ["Category", "Catégorie", "Industry"])
-    mapped["num_employees"] = pd.to_numeric(_get_col(df, ["Employees", "Nb employés"]), errors="coerce")
-    mapped["annual_revenue"] = pd.to_numeric(_get_col(df, ["Revenue", "Chiffre d'affaires"]), errors="coerce")
+    rename_map = {
+        "name": "company_name",
+        "business_name": "company_name",
+        "address": "address_raw",
+        "city": "city",
+        "postal_code": "postal_code",
+        "phone": "phone",
+        "website": "website",
+        "category": "industry_description",
+    }
+    for old, new in rename_map.items():
+        if old in df.columns and new not in df.columns:
+            df = df.rename(columns={old: new})
 
-    mapped["address_normalized"] = mapped["address_raw"].apply(normalize_address)
-    return mapped
+    df["data_source"] = "yellowpages"
+    df["acquired_at"] = datetime.now().isoformat()
+    df["pipeline_version"] = "v3"
+
+    for col in SCHEMA_COLUMNS:
+        if col not in df.columns:
+            df[col] = None
+
+    return df[SCHEMA_COLUMNS].copy()
+
+
+def parse_city_from_address(address):
+    """Best-effort city extraction from a raw address string."""
+    if pd.isna(address):
+        return TARGET_CITY
+
+    addr = str(address)
+    # Common patterns: "123 Rue X, Vaudreuil-Dorion, QC J7V ..."
+    parts = addr.split(",")
+    if len(parts) >= 2:
+        candidate = parts[-2].strip() if len(parts) >= 3 else parts[-1].strip()
+        # Remove postal code and province if attached
+        candidate = candidate.replace("QC", "").replace("Quebec", "").strip()
+        if len(candidate) > 2:
+            return candidate
+
+    return TARGET_CITY
+
+
+def validate_schema(df):
+    """Verify the DataFrame has the expected schema."""
+    missing = [col for col in SCHEMA_COLUMNS if col not in df.columns]
+    if missing:
+        print(f"  [ERROR] Missing schema columns: {missing}")
+        return False
+
+    # Check for required fields
+    empty_names = df["company_name"].isna().sum() + (df["company_name"] == "").sum()
+    if empty_names > 0:
+        print(f"  [WARNING] {empty_names} rows with empty company_name")
+
+    return True
 
 
 def main():
     print("=" * 60)
-    print(" STEP 1: INGEST")
+    print(" STEP 1: INGEST & NORMALIZE")
     print("=" * 60)
 
-    icric_df = load_icric(RAW_ICRIC_FILE)
-    yp_df = load_yellowpages(RAW_YELLOWPAGES_FILE)
+    frames = []
 
-    # Merge both sources
-    df = pd.concat([icric_df, yp_df], ignore_index=True)
+    # Load each source
+    print("\n  Loading sources:")
+    gp = ingest_google_places()
+    if len(gp) > 0:
+        frames.append(gp)
 
-    # Drop rows with no company name (useless)
+    ic = ingest_icric()
+    if len(ic) > 0:
+        frames.append(ic)
+
+    yp = ingest_yellowpages()
+    if len(yp) > 0:
+        frames.append(yp)
+
+    if not frames:
+        print("\n  [ERROR] No data sources found. Run 00_acquire_leads.py first.")
+        sys.exit(1)
+
+    # Merge all sources
+    df = pd.concat(frames, ignore_index=True)
+    print(f"\n  Combined: {len(df)} total rows from {len(frames)} source(s)")
+
+    # Source breakdown
+    source_counts = df["data_source"].value_counts()
+    for source, count in source_counts.items():
+        print(f"    {source:20s} {count:>5}")
+
+    # Schema validation
+    if not validate_schema(df):
+        print("  [ERROR] Schema validation failed. Check column mappings.")
+        sys.exit(1)
+
+    # Basic dedup by google_place_id (cross-source)
     before = len(df)
-    df = df.dropna(subset=["company_name"])
-    df = df[df["company_name"].astype(str).str.strip() != ""]
-    print(f"\n  [Clean] Dropped {before - len(df)} rows with no company name")
+    gp_mask = df["google_place_id"].notna() & (df["google_place_id"] != "")
+    if gp_mask.any():
+        # Keep first occurrence (Google source takes priority)
+        df = df.sort_values("data_source", ascending=True)  # google_places sorts first
+        df = df.drop_duplicates(subset=["google_place_id"], keep="first")
+    after = len(df)
+    if before > after:
+        print(f"\n  [DEDUP] Removed {before - after} cross-source duplicates (by place_id)")
 
-    print(f"\n  [OUTPUT] Total merged rows: {len(df)}")
+    # Remove rows with no company name
+    empty_mask = df["company_name"].isna() | (df["company_name"].str.strip() == "")
+    if empty_mask.any():
+        df = df[~empty_mask].copy()
+        print(f"  [CLEAN] Removed {empty_mask.sum()} rows with empty company_name")
+
+    # Save
+    os.makedirs(os.path.dirname(CHECKPOINT_RAW), exist_ok=True)
     df.to_csv(CHECKPOINT_RAW, index=False, encoding="utf-8")
-    print(f"  [OUTPUT] Saved → {CHECKPOINT_RAW}")
+    print(f"\n  [OUTPUT] {len(df)} normalized rows -> {CHECKPOINT_RAW}")
+    print(f"  [OUTPUT] Schema: {len(SCHEMA_COLUMNS)} columns")
 
 
 if __name__ == "__main__":
