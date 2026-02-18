@@ -198,10 +198,13 @@ def main():
     # Merge google data back
     google_df = pd.DataFrame(google_rows)
     df = pd.concat([df.reset_index(drop=True), google_df], axis=1)
+    # Remove duplicate columns (keep first occurrence)
+    df = df.loc[:, ~df.columns.duplicated()]
 
     # Filter out permanently closed businesses
     before = len(df)
-    df = df[df["business_status"] != "CLOSED_PERMANENTLY"].copy()
+    mask = df["business_status"] != "CLOSED_PERMANENTLY"
+    df = df[mask].reset_index(drop=True)
     removed = before - len(df)
     print(f"\n  [Status Filter] Removed {removed} permanently closed businesses")
 

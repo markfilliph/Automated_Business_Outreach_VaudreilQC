@@ -435,10 +435,18 @@ def main():
     for _, row in df.head(10).iterrows():
         verified = "V" if row.get("verification_status") == "Verified" else "o"
         qual = "Q" if row.get("qualification") == "QUALIFIED" else "R"
-        rev_mid = row.get("estimated_revenue_mid", 0)
+        rev_mid = row["estimated_revenue_mid"] if "estimated_revenue_mid" in row else 0
+        try:
+            rev_mid = float(rev_mid) if rev_mid is not None and not pd.isna(rev_mid) else 0
+        except (ValueError, TypeError):
+            rev_mid = 0
         rev_str = f"${rev_mid/1000:.0f}K" if rev_mid > 0 else "N/A"
-        conf = row.get("revenue_confidence", 0)
-        print(f"  {int(row['rank']):<5} {str(row['company_name'])[:40]:<40} {row['total_score']:<8} {rev_str:<12} [{verified}][{qual}] {conf}% conf")
+        conf = row["revenue_confidence"] if "revenue_confidence" in row else 0
+        try:
+            conf = float(conf) if conf is not None and not pd.isna(conf) else 0
+        except (ValueError, TypeError):
+            conf = 0
+        print(f"  {int(row['rank']):<5} {str(row['company_name'])[:40]:<40} {row['total_score']:<8} {rev_str:<12} [{verified}][{qual}] {conf:.0f}% conf")
 
     print(f"\n  [OUTPUT] Scored candidates: {len(df)}")
     df.to_csv(CHECKPOINT_SCORED, index=False, encoding="utf-8")

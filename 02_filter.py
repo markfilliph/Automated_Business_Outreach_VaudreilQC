@@ -36,12 +36,54 @@ from utils.subsidiary_detector import flag_subsidiaries
 
 
 def filter_by_region(df: pd.DataFrame) -> pd.DataFrame:
-    """Keep only businesses whose postal code starts with a Vaudreuil prefix."""
+    """Keep only businesses in the Vaudreuil region.
+
+    Strategy:
+    1. If postal_code column exists, filter by prefix
+    2. Otherwise, extract postal code from address_raw using regex
+    3. If no postal code found, use lat/lng bounds check
+    """
+    import re
+    from config import GEO_BOUNDS
+
     before = len(df)
-    postal_prefix = df["postal_code"].astype(str).str[:3].str.upper()
-    mask = postal_prefix.isin(TARGET_POSTAL_PREFIXES)
+
+    # Try to get postal codes
+    if "postal_code" in df.columns:
+        postal_codes = df["postal_code"].astype(str)
+    elif "address_raw" in df.columns:
+        # Extract Canadian postal code from address (pattern: A1A 1A1 or A1A1A1)
+        def extract_postal(addr):
+            if pd.isna(addr):
+                return ""
+            match = re.search(r'\b([A-Z]\d[A-Z])\s?(\d[A-Z]\d)?\b', str(addr).upper())
+            return match.group(1) if match else ""
+        postal_codes = df["address_raw"].apply(extract_postal)
+    else:
+        postal_codes = pd.Series([""] * len(df))
+
+    # Create mask for postal code match
+    postal_prefix = postal_codes.str[:3].str.upper()
+    postal_mask = postal_prefix.isin(TARGET_POSTAL_PREFIXES)
+
+    # For rows without valid postal code, check lat/lng bounds
+    no_postal = ~postal_mask & (postal_codes == "")
+    if "lat" in df.columns and "lng" in df.columns:
+        bounds_mask = (
+            (df["lat"] >= GEO_BOUNDS["south"]) &
+            (df["lat"] <= GEO_BOUNDS["north"]) &
+            (df["lng"] >= GEO_BOUNDS["west"]) &
+            (df["lng"] <= GEO_BOUNDS["east"])
+        )
+        # Accept if postal matches OR (no postal AND within bounds)
+        mask = postal_mask | (no_postal & bounds_mask)
+    else:
+        mask = postal_mask
+
     df = df[mask].copy()
-    print(f"  [Region]       {before:>5} -> {len(df):>5}  (prefixes: {TARGET_POSTAL_PREFIXES})")
+    postal_matched = postal_mask.sum()
+    bounds_matched = len(df) - postal_matched if len(df) > postal_matched else 0
+    print(f"  [Region]       {before:>5} -> {len(df):>5}  (postal: {postal_matched}, bounds: {bounds_matched})")
     return df
 
 
@@ -62,6 +104,9 @@ def filter_by_excluded_sectors(df: pd.DataFrame) -> pd.DataFrame:
     )
 
     def is_excluded(text):
+        if pd.isna(text) or not isinstance(text, str):
+            return False
+        text = str(text).lower()
         for kw in EXCLUDED_SECTOR_KEYWORDS:
             if kw.lower() in text:
                 return True
@@ -129,8 +174,12 @@ def filter_by_employee_count(df: pd.DataFrame) -> pd.DataFrame:
     """
     Keep businesses in the MIN-MAX employee range.
     Rows where employee count is unknown (NaN) are KEPT.
+    If num_employees column doesn't exist, skip this filter.
     """
     before = len(df)
+    if "num_employees" not in df.columns:
+        print(f"  [Employees]    {before:>5} -> {len(df):>5}  (skipped - column not yet available)")
+        return df
     emp = pd.to_numeric(df["num_employees"], errors="coerce")
     in_range = emp.between(MIN_EMPLOYEES, MAX_EMPLOYEES)
     unknown = emp.isna()
