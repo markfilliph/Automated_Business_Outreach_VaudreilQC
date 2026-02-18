@@ -1,13 +1,15 @@
 """
-STEP 3: GOOGLE PLACES ENRICHMENT (Enhanced v2)
+STEP 3: GOOGLE PLACES ENRICHMENT (Enhanced v3)
+
+v3 cost optimizations:
+  - Reuses existing google_place_id from Step 00 (skips redundant Text Search)
+  - Field masking on Place Details (Basic tier pricing only)
+  - Pre-dedup by place_id before enrichment loop
 
 v2 enhancements ported from Hamilton MVP:
   - API response caching (saves 50%+ on re-runs)
   - Website validation (verify URLs actually resolve)
   - Review count integration for revenue estimation signals
-
-Queries Google Places API for each filtered candidate to verify the business
-is real and operational. Adds review data for scoring.
 
 IMPORTANT: This runs AFTER filtering. We only spend API credits on the ~200
 rows that already passed the gates, not the full 2,000.
@@ -47,10 +49,16 @@ def init_client() -> googlemaps.Client:
     return googlemaps.Client(key=GOOGLE_PLACES_API_KEY)
 
 
-def search_and_get_details(client, company_name: str, postal_code: str) -> dict:
+def search_and_get_details(client, company_name: str, postal_code: str, existing_place_id: str = None) -> dict:
     """
-    Search Google Places by name + location, then fetch full details.
+    Fetch Google Places details for a business.
+
+    v3 OPTIMIZATION: If existing_place_id is provided (from Step 00), skip the
+    Text Search entirely and go straight to Place Details. This saves $32/1K
+    in Text Search API costs.
+
     Uses cache to avoid redundant API calls on re-runs.
+    Field masking requests only Basic tier fields ($5/1K vs $17/1K).
     """
     query = f"{company_name}, {TARGET_CITY}, {postal_code}, QC, Canada"
 
@@ -61,20 +69,32 @@ def search_and_get_details(client, company_name: str, postal_code: str) -> dict:
             return cached
 
     try:
-        results = client.places(query)
-        if not results.get("results"):
-            # Cache the miss too (avoids re-querying known misses)
-            if CACHE_ENABLED:
-                cache.put("google_details", query, {})
-            return {}
+        # USE EXISTING place_id IF AVAILABLE — skip the Text Search entirely
+        place_id = None
+        if existing_place_id and str(existing_place_id) not in ("nan", "None", "", "NaN"):
+            place_id = str(existing_place_id)
 
-        place_id = results["results"][0].get("place_id")
+        # Only do Text Search if we don't have a place_id
+        if not place_id:
+            results = client.places(query)
+            if not results.get("results"):
+                # Cache the miss too (avoids re-querying known misses)
+                if CACHE_ENABLED:
+                    cache.put("google_details", query, {})
+                return {}
+            place_id = results["results"][0].get("place_id")
+
         if not place_id:
             if CACHE_ENABLED:
                 cache.put("google_details", query, {})
             return {}
 
-        details = client.place(place_id)
+        # FIELD MASKING: Only request Basic tier fields we actually use
+        # This drops Place Details from $17/1K to ~$5/1K
+        details = client.place(
+            place_id,
+            fields=["place_id", "business_status", "user_ratings_total", "rating", "url"]
+        )
         result = details.get("result", {})
 
         # Cache the result
@@ -152,7 +172,7 @@ def validate_websites(df: pd.DataFrame) -> pd.DataFrame:
 
 def main():
     print("=" * 60)
-    print(" STEP 3: GOOGLE PLACES ENRICHMENT (Enhanced v2)")
+    print(" STEP 3: GOOGLE PLACES ENRICHMENT (v3: Cost Optimized)")
     print("=" * 60)
 
     if CACHE_ENABLED:
@@ -161,15 +181,38 @@ def main():
 
     client = init_client()
     df = pd.read_csv(CHECKPOINT_FILTERED)
-    print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_FILTERED}\n")
+    print(f"  [INPUT] {len(df)} rows from {CHECKPOINT_FILTERED}")
+
+    # BUG 3 FIX: Pre-dedup by google_place_id BEFORE enrichment loop
+    # Avoids paying to enrich duplicates that will be discarded later
+    before = len(df)
+    if "google_place_id" in df.columns:
+        # Keep rows with valid place_id, dedup them
+        has_place_id = df["google_place_id"].notna() & (df["google_place_id"] != "")
+        df_with_id = df[has_place_id].drop_duplicates(subset=["google_place_id"], keep="first")
+        df_without_id = df[~has_place_id]
+        df = pd.concat([df_with_id, df_without_id], ignore_index=True)
+        removed = before - len(df)
+        if removed > 0:
+            print(f"  [Pre-dedup] Removed {removed} duplicate place_ids before enrichment")
+
+    # Count how many have existing place_id (will skip Text Search)
+    has_existing_id = 0
+    if "google_place_id" in df.columns:
+        has_existing_id = df["google_place_id"].notna().sum()
+    print(f"  [Optimization] {has_existing_id}/{len(df)} have existing place_id (skip Text Search)")
+    print()
 
     google_rows = []
     cache_hits = 0
     api_calls = 0
+    text_search_skipped = 0
 
     for i, row in df.iterrows():
         company = str(row["company_name"])
         postal = str(row.get("postal_code", ""))
+        existing_place_id = str(row.get("google_place_id", "")) if "google_place_id" in row else ""
+
         print(f"  [{i + 1}/{len(df)}] {company[:50]}...", end="")
 
         # Check if we'll get a cache hit
@@ -180,10 +223,16 @@ def main():
             print(" (cached)")
             cache_hits += 1
         else:
-            print("")
+            # Track if we're skipping Text Search
+            if existing_place_id and existing_place_id not in ("nan", "None", "", "NaN"):
+                print(" (place_id reused)")
+                text_search_skipped += 1
+            else:
+                print("")
             api_calls += 1
 
-        place = search_and_get_details(client, company, postal)
+        # BUG 1 FIX: Pass existing_place_id to skip redundant Text Search
+        place = search_and_get_details(client, company, postal, existing_place_id=existing_place_id)
         google_rows.append(extract_fields(place))
 
         # Only delay on actual API calls, not cache hits
@@ -192,6 +241,7 @@ def main():
 
     if CACHE_ENABLED:
         print(f"\n  [Cache Stats] Hits: {cache_hits}, API calls: {api_calls}")
+        print(f"  [Cost Savings] Text Searches skipped: {text_search_skipped} (saved ${text_search_skipped * 0.032:.2f})")
         savings = (cache_hits / max(len(df), 1)) * 100
         print(f"  [Cache Stats] Saved {savings:.0f}% of API calls")
 
