@@ -1,0 +1,328 @@
+{
+  "query": "J-Spect, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338616.7199469,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "223",
+        "short_name": "223",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Shamrock",
+        "short_name": "Rue Shamrock",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 3W3",
+        "short_name": "J7W 3W3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">223 Rue Shamrock</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 3W3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "223 Rue Shamrock, Pincourt, QC J7W 3W3, Canada",
+    "formatted_phone_number": "(514) 594-1567",
+    "geometry": {
+      "location": {
+        "lat": 45.3811746,
+        "lng": -73.9862734
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3825463302915,
+          "lng": -73.98478451970848
+        },
+        "southwest": {
+          "lat": 45.3798483697085,
+          "lng": -73.9874824802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "international_phone_number": "+1 514-594-1567",
+    "name": "J-Spect",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2578,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101055584984096754676\">J-Spect</a>"
+        ],
+        "photo_reference": "ATCDNfVJoknzgd6L0EER4mB7QNuKFpxmg_B3qy9L161Zet7G4l4QR2y4fhgEXaTV3B594lHLtKnMWk4lEfUzky3yhtKFpvli2NlPoewLleSfYb79PCNKZbzfhEkbUa7excjy5a9TM-GOgcgzMTJyfZAtd1FjRtUJYMaNWy2zfXlSFQeotRCSJWnvJl7nOTF05KEt_6RPOPnqaGE_mKs_UGUPlRD_daIIv4z03wRMvTtFZgqng6kfEpAdWfQvPn64QYNDACZyyxFjtXYYU3Ri915rgjdnm5Po4PBGORkQh5RWqe7fjw",
+        "width": 3863
+      },
+      {
+        "height": 2231,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101055584984096754676\">J-Spect</a>"
+        ],
+        "photo_reference": "ATCDNfVSTu30LTcrbRg6lS2KSfa3Z-MnF-Qruaa0Qtjp-8-ehiW0sB4MbOSH-TRpqngLWReQCriV_Nei00I-vAkzdSGz3ha0LqEEspYqtHey8FfjeI_7UgzvSlcg72nxnswbUyErjV2ArEKNR_ykp4GWGoikPh3QEzNooc52_2NEwiGqIWkXL2PfMBRcT6e0OyKp-TvuqPZqaRd7lI__rwZOPgiXARpSfYhVJT-Nj_GiFJlYMwLHMXHb9DObPa7EcmYa1Pd5BK5L9ekBLXGseujL1GxzIsDfzNVPKiEnfoskYlCJGA",
+        "width": 4462
+      },
+      {
+        "height": 2733,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101055584984096754676\">J-Spect</a>"
+        ],
+        "photo_reference": "ATCDNfWQ_hY8a1or8nfrLBn950v32JmdsouDk8iGxkCDaQzTfR05AywbwWdiLelJmiZDCbD-b8mwO8vLbh8RE6t96ecY2ezVDgOoRzVY6fj-MryAjZlg46bZTO5-l7jes3XlNTtATdXd6JCuDEOTLr-7imVs2F2zvqULtFFexpSsPJPucsbmvuogQwaqPDlNptWrFwra1YPxv_mFhV726Crv-iKOdwnoHsWMzLS3_c2S5v3QYAMrSMFJio1Qv_r5adFtX947MWwzAtP6FDHcmqwoa7-Hn3C_qULxEcP94CWt5K9Ebg",
+        "width": 3644
+      },
+      {
+        "height": 350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101055584984096754676\">J-Spect</a>"
+        ],
+        "photo_reference": "ATCDNfVTZU836xVuBV6K7b8J8DloCAILBSHubHGdDYXesEwUnqhhpDOI90N1g8EG1bhnvKdthsPS3_LEAP9y1LUMQHkxr125EZ2H8FfiSPtVmoFpEJY9TsPID41Hg0VEbxtuqP7oQaG5apIknvitn7oUNeGP2vO_vjRafkELfDZmB-jX5i1r7mVkp0RZQ9KkynImrdJ7u4xIvtaZ6tE6GgDnQrPtz6ycnZqQ1zE1CpeRWVUXXM2usNP3Ajsq9ELQfa4owS_8g2dCNNgEWnlzKzk5jE_DVy6QiEfRZGAFbXDdGI6aDA",
+        "width": 762
+      },
+      {
+        "height": 2763,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101055584984096754676\">J-Spect</a>"
+        ],
+        "photo_reference": "ATCDNfVzGE9PoyE-YcxkKI3on90hayRBWSEKjYPfxWMS_WVu9WaxxibZe2a7qpgb1avjtXYdd4O61FUkxq9eTiQceTLs5aIiOSOuO_7vHcr2d2nIawyCxufK-Injc7E7jbI4dIbMbL_JI4kqI9Icb36ViFy-5KCPWr2kajHHoJ6BbDnwI13yFQwRDHDyiCN05MPyissFVZdbNDQrOyTjOMC6CLgcSMLtaaOYRc2WcZFLi3Qq_YR9_2Vz4xd_r328QFeSKX37LEVG1l2WCpTbcJaLm3PFSdF25hLSpOtr4-gYxTdQlg",
+        "width": 2500
+      }
+    ],
+    "place_id": "ChIJsTymk1lHyUwR0q9wbH9WCvQ",
+    "plus_code": {
+      "compound_code": "92J7+FF Pincourt, QC, Canada",
+      "global_code": "87Q892J7+FF"
+    },
+    "rating": 5,
+    "reference": "ChIJsTymk1lHyUwR0q9wbH9WCvQ",
+    "reviews": [
+      {
+        "author_name": "Karine Gosselin",
+        "author_url": "https://www.google.com/maps/contrib/117612775051655306325/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsEuQEOoQIXUBQKcsqWH5HU3Z5lxg6ozLe1iMKoiW54qUoOsap=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I use Andrea's services for all my properties. Friends, family or clients I never think twice before recommending Andrea for their home inspection. She is so knowledgeable she can be very technical and will also simplify to be clear and make sure you understand.\nFor real estate investors, contractors to first time home buyers Andrea is my go to recommendation.",
+        "time": 1648232737,
+        "translated": false
+      },
+      {
+        "author_name": "A A",
+        "author_url": "https://www.google.com/maps/contrib/113179774807542743769/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJvFFhNDdM812EvIDtmfGl1E1p-R4ieNdCZY127cXaZ2Fxfw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I would like to take this time to thank J-Spec for the wonderful service I received. As a first time home buyer, with emotions and excitement running at full speed, J-Spec really made me feel at easy with the entire process. All my questions were answered, no matter how complicated or simple. On time, professional and friendly. Your final report will be very detailed yet easy to understand. I would recommend this company to anyone and everyone and I look forward to using this company for all my future house inspection I will need.",
+        "time": 1651053429,
+        "translated": false
+      },
+      {
+        "author_name": "Véronique Théorêt",
+        "author_url": "https://www.google.com/maps/contrib/106156360211702026335/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8lDc-okSJFAz7MO6FWt9mq6cf1vgYzBXAH-t0gr8Ie-JV8vR2=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "During the process of buying our first home, we hired Ms. Jarosh to inspect the property, and we were not disappointed at all: she is a punctual, meticulous, and experienced inspector. During the inspection, she took the time to answer our questions and offered some recommendations. Her final report was clear and thorough: everything was explained in detail with photos she had taken on-site the day of the inspection, as well as supporting articles from the building code. I highly recommend her.",
+        "time": 1648399360,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17584962800301682642",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "223 Rue Shamrock, Pincourt",
+    "website": "https://www.jspect.ca/"
+  }
+}

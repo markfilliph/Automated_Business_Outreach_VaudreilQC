@@ -1,0 +1,330 @@
+{
+  "query": "Impots Precision, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340752.232336,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "470",
+        "short_name": "470",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N5",
+        "short_name": "J7V 2N5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "470 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N5, Canada",
+    "formatted_phone_number": "(450) 455-8293",
+    "geometry": {
+      "location": {
+        "lat": 45.4027709,
+        "lng": -74.0302146
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4041009802915,
+          "lng": -74.02890761970849
+        },
+        "southwest": {
+          "lat": 45.4014030197085,
+          "lng": -74.0316055802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-8293",
+    "name": "Impots Precision",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 664,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106886034800419091458\">Impots Precision</a>"
+        ],
+        "photo_reference": "ATCDNfXxA9PXuOkvg4RJS1tlBxDhFhZf1Qz7-lL7SVYPbUxFRVAMfRKG3NcfPD_o5sOt_7eonVVylP96Z4pDg8cDcH2J-qbcAKfFJsO5slYmCe7zq7s5Gjdq4XtgDBZNYaD72cvKny_oe1rM6sL3pyeuY_nLpRHPPMDFeX_COJNuySzVEHP7yKZwSTT3XqQWzjfOp7mOzJie7QCVEC21OOJhdXfk50CuF2uGAo6k6YELOfAAFSJnsJXe2mTNRQpmY5zkmFf34d6zLA7sZ58Nt2VNAUN1mpFWLymurIdH-d2fYyAfcQ",
+        "width": 642
+      },
+      {
+        "height": 282,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106886034800419091458\">Impots Precision</a>"
+        ],
+        "photo_reference": "ATCDNfWAx1qYJhyxHYuw3C1XrzJ2ZKtuioaH9C9nj94S05X_viff90PZtpa7DF3bp-BpYeKLtZrH02dhYFhHRCkT0A9zergvk01HxFljYSkSAn5lETw7kJtHvfBma1mLrCGsfC9nkWWSguIiahol_PWD7fAA0hiDaNrhk787ZCjSWqeYl0fQJiB1lgZKkLsGBayY-YY-CHFFHQMk0KzGjlj6VOeCJ7umMqRUvkbAFU0qG_-O0Bt2_AMP0G3hHOTK2xhLfmJ0LF7v5p-F8gzmA63OVaUbpGtyy_aIPHU1E4C1Lz71IA",
+        "width": 496
+      }
+    ],
+    "place_id": "ChIJ85L0uAw3yUwRs-Q0pgi0bGc",
+    "plus_code": {
+      "compound_code": "CX39+4W Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX39+4W"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ85L0uAw3yUwRs-Q0pgi0bGc",
+    "reviews": [
+      {
+        "author_name": "Chris Robitaille",
+        "author_url": "https://www.google.com/maps/contrib/105428700632785596828/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdpZf4f5gcsIX4GW3tK0Nd55Vlyi9HBTs90Ndo4JLtLS5GsYU3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Patrick and Stéphane are the best. Supported us through thick and thin and continuously provide honest and very professional services. I highly recommend Services d'impots précision.",
+        "time": 1744130967,
+        "translated": false
+      },
+      {
+        "author_name": "Christian Piette",
+        "author_url": "https://www.google.com/maps/contrib/117193760860452933085/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcI4z49J7aa_BSkmZG5S3dWtDmydglg20lKvuJ0RW_zy70OunS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "I was in arrears with filing my taxes and they helped alleviate the stress of my situation by quickly and easily taking on my tax needs. I am very happy to have connected with this group of experts. If the tax man is stressing you out, they are professional and very attentive to assisting. I am working with them for my future tax needs, for certain.",
+        "time": 1741023468,
+        "translated": false
+      },
+      {
+        "author_name": "silas leslie",
+        "author_url": "https://www.google.com/maps/contrib/111367361898515225439/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDy3mTQ7QSMCBTnVF-PHGTf-CjYVbBI8rgIE54q-QvafmAzA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Highly recommend going through Precision for taxes. I’m currently out in British Columbia and they made the whole process stress and worry free for me. Communication was perfect. I won’t go anywhere else. Special shoutout to Patrick, he was a pleasure to work with!! 5 stars is an understatement.",
+        "time": 1727195019,
+        "translated": false
+      },
+      {
+        "author_name": "Krystina Bouchard",
+        "author_url": "https://www.google.com/maps/contrib/110686372256627186944/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjrfva7Ut9l8CY_CeeIo6-6-114GH1pQxSlYcdDR1R1-CRtQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Friendly and extremely helpful! Thank you!",
+        "time": 1769560203,
+        "translated": false
+      },
+      {
+        "author_name": "Maxime Haineault",
+        "author_url": "https://www.google.com/maps/contrib/115148549693027909102/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoH3RrY86M-epMVp8GAOTX5-eavm8P3sLnQ8aVr9_5lPnLHGHy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing service, I highly recommend.",
+        "time": 1734317562,
+        "translated": false
+      }
+    ],
+    "types": [
+      "accounting",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7452529432632550579",
+    "user_ratings_total": 22,
+    "utc_offset": -300,
+    "vicinity": "470 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://www.impotsprecision.com/"
+  }
+}

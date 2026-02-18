@@ -1,0 +1,392 @@
+{
+  "query": "Sublime Entretien, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340025.9737048,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "13",
+        "short_name": "13",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Sainte-Julie",
+        "short_name": "Rue Sainte-Julie",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1B6",
+        "short_name": "J7V 1B6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">13 Rue Sainte-Julie</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1B6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "13 Rue Sainte-Julie, Vaudreuil-Dorion, QC J7V 1B6, Canada",
+    "formatted_phone_number": "(514) 378-1898",
+    "geometry": {
+      "location": {
+        "lat": 45.4016017,
+        "lng": -74.0255332
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4029943302915,
+          "lng": -74.02421861970849
+        },
+        "southwest": {
+          "lat": 45.40029636970851,
+          "lng": -74.0269165802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-378-1898",
+    "name": "Sublime Entretien",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfV1Vfq1kJV4ZuWpVDGMiTdRr3IYk4CVMW04QKU9sDflHc-xMA4FYdI_Hab4FHjLU3L-wSu7YCCWB5oI7am7VhvidBVNKls5xUySgzbdXDfE-iW1OkQcOjDsuZ6W69YdHS1Egkni5zlPpOuXlhBtBvDet1fSj89zJIPe5-Z_sdMWk7z-6qSyQdEFBvoh7Stqpx_sdEP8aXBi6di8yA1UmtKjhiZELL3wD8Bhtsn-nMhKDXDf08aXhvsTVuGVvsssaIAheI-EOpM5DG58PGtee2mAjQXf5KF29kDYDeZGNJH7_g",
+        "width": 498
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfWQHY1NwIfvhnAik_huTQOtjHfKSwu0_cPXPl6cW-WuY3NA3oNLaSVoDowqV7jFNbxApp_Djs8OCE10c0eJp4B5vC2jF4WRqBb0mcCYEVk7t2FNJwicE6_Yn3igeZGPLsnaRKYBGUHCM-hqhGhG1IevoWAu-sUYAjgANeAIzZx60Tsb5FpiKs195CxCJAEwK55nqZ5uLZEPoQET5OLMPeJJUwmdHsIGTKrBZWdGQnpIoVOA7-Q8jmAa0CDbxrYzKyAPu4yhiIf1P9d4jxNQzl8sUEgBUY67DPowxq_Yc6spJA",
+        "width": 3000
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfWYRMhKZF-BZAI-vkkU91NLtUeqomgUpcPs_6OvzSSM_c5obMTyBAIUVGWs-b0w-dpYy9GBBCrdDNLeoaT36MPuYnGatVp5WdaiagbxikTe0F_nbtSsx7-tu1rXaFjHdpeO4iea7AM2DCo8nkiNjxrv0wHm0B2m06LNKaU9rpmTYgVIZdoOrYKUN6kZ0MKsRHFrPDUDX7ANsVFd7M5Cqmr18lGWlbzCnfF2td1UPLMpKd4UYYgLv4CnpJJ3qHKr1re8N3JtvxDdcxmD2BqpleJ3m-YIqo0qC-sstid1HdaUGA",
+        "width": 2048
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfWKo9NZOirYFdFFcvVNZKvHiRGXEPsHjOhgNKqqr4RX8bVfbldSsRzwcip9P2nS5zPZ5SO8QI3dmElKhxDJGjp0MzCT6-CoY-JDHDiCDdSPEcJINROeqUf4cDNKK65XazffU3i1a-fLz1FGR4k2ni4VCmOsrtmKR1lPbB1BmsdgrBWq46-AMRjDAJAHJS77vs8dzAXNpMpkiS4j3zAszJ8eUkB3rE7vTG7NPh_gitsZcgvs3elfdQJSC9sORmA1EWpXvttuGwVSklZM_IWAbJHt2rbepNPdyMIcUNIfQLx2GA",
+        "width": 960
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfWaPMI_nN5gLfkTYmw7dKtUA2UIF9dc50-bvXhYEcRwOHUnEhT2FYf9zNdVCoNL1j_J70lyqZwrWZrFapOJHXH9E3mCgt2s6dIUXilbNdmo3H7-F-9lkiIyjYagAh_b9nn4Zd5FS0eL7SWurGYag22u-zkwmoXt64L02e2I3x8YxXKtZ6eLp402yXbWVE6AITBK2jbfQObeec8eRECbjLT7tZvPlKrSnydlPIqcu_PBervB4fPFgFe7USncsen6uQUS5bYlZtidQCzmOfE3w1ylotelhEFUNUP4YPx6bdmtCw",
+        "width": 960
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfVZ7U8paINXra3qubvxCOhBu0FogDEymPIBAR1GfJ-sDt2DRDtjQe4Nr2cGDhb0TMRcir_IvII68NTrGDNh5MTasfGeFSrctnPAHBWOAGg0SOtGLbGuMSSEcWsLoeBgvcPhaHhgvEc8Nwq_YZmBZryzvghBD6yUvudtXozMmGHlC3sUM69TqJvJtK7Bru-PK9wC145m3S0bWE5Qjk_jSF3I8SA8lLw6r3wK8q5b7p1nyAtwY0KUH-WJXfKzz0apL3OIELdJLbtW-kWEikg8qD5hqBcZvWC8pBhyNME9KBFeKQ",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfU2uk_t-G79qLehLmy-uv8AsmW40qj5AWxxYPBNlc1Fg3jnlaKXCzWJToIeJn-YsxL6N02jOW6DkcQDb3R8eVyoDTKu2tsUhzvJtnBUztABbyHhrfsdlhC9KzjH6Zq0_1BmmQbP_SiqYyiQ5Nmr8mwq1J5VclNa9KdmYi-4fHV4a1fQl98pkQiK3VGJkBH7iOvocozGpLD07HP4sS0N4Lxms-zV_pfFr5HmuRPEMH5-5-KKixjYEyTS7Z-SBjZLmL9D5ckdR-v5XdIl91bCio9s0sHwt9yZIPiFHnYC3Wvw-A",
+        "width": 3000
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfW8SZLf69ayAh5MrXSTQNu29VhVHWspJX0CIaMuENyZ6PrUhbUYeDsBnKiB1f6RyL6gSxduA3w7AfKVR3U9-KSfBYuIG9RlhaWL60nJhht55W1uiVqxwpg42WFvxdD3s_WDMPJ-oeeNYcd5N5X8RcPiKK0YWCxs6HBlEC5puQJ2dFWgihidBQGRbPOBc2GnP9CkKbhHBfVJ-aeyoMNNy_RBW7hVAg92vcVW0-feepYeUEVR1oFfoNTl-erpmcRzFPN9-JywuZSP4tbrrIs3buzH3L4l5t20w7kcaZT9YyTxqA",
+        "width": 960
+      },
+      {
+        "height": 1296,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfU7-Gmf31_wMMz6A-vi8KLwBjOgcWLH4Bb82eYvGQGPqXv0OAXaMNafHYFXYp7m8bwsuh4tUqS5dgyC2EP5eZwQpeTp1wtW8BNIfk1hkLsABN0X46FWHF8DdqQfY_6TYusCcEcqO6TB-l9FqbJGT6DkZKVhqlKXGR6x-0GW67T8ZJv2xc_pNPW0_GgTHfKzIZTfEopRGWygZ-WfC0REUg5uZjZYQMDwa5OoRAqtGKvuGMsaqJyr0pQxNOm1-tTWiMqk8NDlvnEAr-pyWekC3Ma1obtz_pSYq0wPa5FDoXjYeQ",
+        "width": 1728
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433140787348054067\">Sublime Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfWdVUiwF_znK8w1qu3NrlsnfH2Muw8zIjMWaDyBQaEmy5-L2CETXnDZJJQdmzr1WU_MyvSxOxlUdjj9b-xdqEk7E9NT3EjmTWzPJOi1_p01uyWixRbZXDA2z2sK1XY8frA3NkHHfjniT_gC0Z2wHomS9rFNE-81nwyLWk-_ZcJf_R9U5rrRedKAQTFD7CkAJ6g3i11PfpPIy_wJEk9DsrchMfxlg8VpNmphmmKaQlPtIT0hS5Qm2-AHcupkLtS0nE3Nhc5wsRcV1yLjbAsQaIz9maqD6Qh6QEWy6o8AbFe2rg",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJCWHlcLY3yUwR10tuF0hDFWk",
+    "plus_code": {
+      "compound_code": "CX2F+JQ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX2F+JQ"
+    },
+    "rating": 5,
+    "reference": "ChIJCWHlcLY3yUwR10tuF0hDFWk",
+    "reviews": [
+      {
+        "author_name": "Caron Bodika",
+        "author_url": "https://www.google.com/maps/contrib/102254606511282735429/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlDTXhdK6-6YMEz5UjhilsbkOLmurFv7TJZQQzvyOZDCOVdg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great service! Very professional quick and efficient.",
+        "time": 1727707140,
+        "translated": false
+      },
+      {
+        "author_name": "Thierry Boily",
+        "author_url": "https://www.google.com/maps/contrib/112260466150254716075/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQxAczfbN1GVYDgPh7P3vZ8ePhtOVMUjXVdjW1C4G-RmRflA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Outstanding professionalism. Samuel arrived on time and worked tirelessly to provide us with quality work on a Saturday! with a blind bid price over the phone and even though the job took longer than expected, he charged me the price he had quoted.",
+        "time": 1685225037,
+        "translated": true
+      },
+      {
+        "author_name": "Céline Serrano",
+        "author_url": "https://www.google.com/maps/contrib/113076083630399694836/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJopf2oPQTA8rOoRjorBvZxv1bRLFsVC4g59omDNC8FnhRlLw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "When I contacted Samuel for my quote, I was immediately struck by his professionalism and reliability. He listened to me from the first meeting until the end of my project, taking my needs into account and adapting to both expected and unexpected constraints. The work was carried out with quality and efficiency, and the end result exceeded my expectations. I recommend him without hesitation.\nA big thank you to the team!",
+        "time": 1631832563,
+        "translated": true
+      },
+      {
+        "author_name": "Jean-Guy Latulippe",
+        "author_url": "https://www.google.com/maps/contrib/103341793823128410766/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMc8oUthaQ5Gjby7yAAn0veq-I49nRCs7XlOzBiVhBObTwsw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "In short, I'm delighted! The work was meticulous and professional. From the initial conversation with Samuel to the completion of the project, I felt that you all genuinely wanted to make me a happy customer. Thank you to the entire team!",
+        "time": 1631024435,
+        "translated": true
+      },
+      {
+        "author_name": "Florence Buathier",
+        "author_url": "https://www.google.com/maps/contrib/107035480527374008428/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIICIJwBj9W6wnPEbaLtya9IaF3K7vaSfKZMjL6OexJNdB7gA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Excellent service again today, April 30, 2025, as usual. Always attentive and ready to help with kindness.",
+        "time": 1746114100,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7572032325403167703",
+    "user_ratings_total": 12,
+    "utc_offset": -300,
+    "vicinity": "13 Rue Sainte-Julie, Vaudreuil-Dorion",
+    "website": "https://sublimeentretien.ca/"
+  }
+}

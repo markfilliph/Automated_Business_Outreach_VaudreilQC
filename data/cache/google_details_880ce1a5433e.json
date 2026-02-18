@@ -1,0 +1,404 @@
+{
+  "query": "BRS Express Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338480.294574,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "384",
+        "short_name": "384",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Chicoine",
+        "short_name": "Rue Chicoine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7E4",
+        "short_name": "J7V 7E4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">384 Rue Chicoine</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7E4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "384 Rue Chicoine, Vaudreuil-Dorion, QC J7V 7E4, Canada",
+    "formatted_phone_number": "(450) 455-5055",
+    "geometry": {
+      "location": {
+        "lat": 45.3786447,
+        "lng": -74.0174177
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38002833029149,
+          "lng": -74.01610101970849
+        },
+        "southwest": {
+          "lat": 45.3773303697085,
+          "lng": -74.0187989802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-5055",
+    "name": "BRS Express Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117737510188946662020\">Lynda crafter</a>"
+        ],
+        "photo_reference": "ATCDNfUfay3d1V-_w8oKDS0t0Qulb1gkCaPWcnqkBykWVqwUWopXVACBbbdpq3_5H3tFtFSu4grOAQnFPIWTLbbEXTuvzqQZ3R5mBsLoCeRlscGP1ODsSYrhF9eTEIIhKZLA9q5P15qKymyb_Q8elpOrLRBTXJnxiS5kj5AuGYPQPbbJZZVwGj1wCVX77SEsVAtP8kn8j0wUlH71BuRFYErRoo4L9BHMaFtEyafbhbrKfiCzMe_0I5WK1BmVyKzpSmioAbGHfg25LnDVFN-_ZnJYv_7F0FgM_ba9P1EFGEGDViNUs7y0XTbvaqaRblQW9izDnIXFtTqjRUgk7I8B6-9nDGbhqmvn0YGS1_ma31ONiy3YxuQkc1oVMRb4YevJO1CaFC-_5vKKt5PqcBnSTbp5Vn62vStv899TZf5onb1SGsP8QNC-jzn0vLAzj1Pqlw",
+        "width": 3000
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103319532606674381728\">BRS Express Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXP2XZ7Ej0ynrl_N7_C8QqEJbKsRL02ewqfurslyDWE-VgrRB5JrIOEB7OVGXtXmJNsHy6iw0jcSQQJo26heg2aoLSFbISdVYtjbIftxlWm6fvs6qkH3cNcGS6olss8mkMM4tvG8wpzZDoUIz_ajqXFYhJTsqc7zine-OekT4qTVuZ2QcS2e_siHSdLx7Tg1QpxvYXkU0uw2IPv6SlOWKNZCrncnwpX9gjfx2OEVvw8Mo5mSBrpqT7A-4xvrvNrPpt_MRGbGlL476wcATGFP4icOydXFTuAajIjMDcXdEZCsw",
+        "width": 2016
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103319532606674381728\">BRS Express Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfWk8n6YYxJUhVZO6vX9ENHn5RsdJqxnQu2T5TPbtkIXpTYYBtAGCjdEGRSbt_s-Lvm9Ac_cgyIfcHh0muRs4oBPdrbjhl21UoVwft_c1lhgq1KV_dJbNui_FkmDcZhreH-iNYUUuqLQxgYgQgCSca2USCjf0Kl3-jmIVCB5mxLi_EYbvEoNs5AphN3APHfWFGTA8FCqSWOJ1BClrQJb9B_iX79kxuHnTSctNH03WU-v5YKbuVdlOZkOGEPph3B7wU5xAC25M2cPnHNpSihWIf9C-4YOLGNnJSZXSiGJAnUWkw",
+        "width": 940
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110119630711417127039\">Lucille Lacroix</a>"
+        ],
+        "photo_reference": "ATCDNfXD9TO3ZEbTbDse713r2OSqfu98lt9D4V8cSkycorXVBb_tRNs1Ct_O1mzwe2yXOUWBibronOBthPT8wICAJM5jeaP1sAuopSeAfRKQBu-z2RrWK02U2K7cT2NzBJ40NLp9H24Gz4GBRk779_VgAbpwUG3AVbAt6PmGUUQEx21tbY30bHQoLFoij1VUrnjXP-ozyCDIraU6dlB7MGAO8lB3Px8mLGksAm79FZ1vZYk8T7XmgRHu69fvz7qGhakdt9GEPP9HP_oLkJeaIEa0snxvrzBbw7-wUylQk7Oy7vcLv4ZeREylWhYkCFCt-bt5i96uK7qQhN2ol8MiL5eAcw8Z-1oyIMAEfBlvZB8LWXXxLyiWOXx24ZtL8ZaDkwsE6wuS7eMEKQ2hD7ulb_Q1sqrpSRnsTGl2hbYieMRtA-xR2umARQpM1nxv33TUYg",
+        "width": 480
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109992931137425598304\">Sophie Brissette</a>"
+        ],
+        "photo_reference": "ATCDNfVuKp4vCXjLugSPKTRz0AOgdnwK5CoB9jBo92J5g3te6uS2mOV0g8zfeVjhlvIq2zTX3V8KMNkUD91CeMjlLxi0s1wq9Ld2AmADvauabCVptEzJChT-I6LgLF6VJ3WvNMpiF-AH7jlMvWbfIMw7eSx5GsMc1r1sI1X2TJVBbfOyLzB16ytHdt4l6q3L8L-mm4QLBcdsuU86nKMMRf-pCrQV9t6ON76-zHdrU-0hCL6KiZaqdVAXjzjC6kP1LLSQIE75jVIkaNeYpYWq6giGMH3xNwod-XfmNXhzU0cbaVs8NTPs9j_T6RfemzQwlBYw4JVw2Pyqxqz1dDTzFk6o68-e3YTEWjnim0MlPVp3jZvYQiBzPwJRH7Kt_tZgUorzB1t1SSXeFZkRDArsqIp_EwYPkvdeTwbSUXjZ3vY8mwAvVSiGkv4GMmke-nbdra4v",
+        "width": 4800
+      },
+      {
+        "height": 2183,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110833156101485650655\">James McGuinness</a>"
+        ],
+        "photo_reference": "ATCDNfVuKrIQdgjUCu9lldP6nP2P9GbrCjly2QA_82NV8v4xz-lFqgSVdKA207768UzmvPoO635ektiKvoFbyLWnupEjXQtx-Hv7P1FNbZC0sJQIu0AL2ZCsPdUULeYur0Z1sS8YyX_bBXO5LJhXIvJJk2b8Ofg-a1icqsPTQr9aXMVDXdvqTHZHdMLBwZHQKxr1IPj-cSJJqLyQA0CFArY_i0W2SZ9rG59M6VwDyq5Axx-YSxuzoEqYt89HLTTcOaoMK3nskoqO84DwQjqylqFoV2fnMgWV_jGOUmdJVapab97zOOjQG-pYz0bGaUAmlYF33AtOwpak6NMinoiaAesOWmmysHxFnkt91KkXE76b2Xocu6TNVjhAxW1jCIgqchqRjauX_82b0L4E6FhQGRPks2mgxm7hO9D--UXxj-CzbjMx_znk",
+        "width": 4031
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111436762534985153863\">Silverio De santis</a>"
+        ],
+        "photo_reference": "ATCDNfUNb_qrL1uw6SSGXd64sR_76W5oagIe6OSh-J-BCYiSQsBXyh0FgnhI7I7--lb7IL5IKtEvNPCjKl_1SPZKzXPorIyIhdIqoEZ7qLxNGpCuSyzBTvHKqK6ITPxBtjDMWNgNjHOqcFg-CkePdQUtBfJg4K8A3-OFbY3lL7S8njPchynyad558kTqF6HKssdsuIAPIKu17BgGU6kpzJ-Vko6gwyLT8RbWb37gBa6gaulPv-yjEuVMwksf-GtlrZK-IIAj8gbKR7qH4vb58rZEY2Genyqjy0joUFbXzrosCxXBAM0iInse4ZV_LCvOPuML6Zh81VRZekRWL2ajmsIAjkCoZRepxRPsgVGiTj2e2-5FiNL36x7Jwq00TmKyS2OZe0q06Pp2HOXpoYDsoWuXBUWn-pBtE3I4skSn237km3J4q6k",
+        "width": 4000
+      },
+      {
+        "height": 1816,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107287527893038549454\">Sylvie Pilon</a>"
+        ],
+        "photo_reference": "ATCDNfUDICeWvXtDJzofD0OxlBH7oMoP_bVk8xFtz0oXdkvk2ZVtbEJS7pDxK96JPEA3Qjbun-xPAqEP2yUE1rpJ4nPRTGpbPuxDDiiyVTjPsBZBhQYMNt8bK6V_ToFOfNLrbQhzC3T0dhEoA0Exuz3C-LnsLJ_vn_IaqDLnE7kyXEMFioboAjNxEm7U7pxg-yinCG2ysu33SyEhBF0e5k1pNXWBDkIUBcJDabhsUFEz12UX-MJVBPypUzSqoRG87FSe2Sy7bImRVQMdX7f59hv1WvR_UmhLfVjEE8-8kkadFqCaFVex2gGH9EKiH_UqE5tTkYk0b1G8jgsP2kXO9uYiMboYO6I247C9PQTCH5xisXkvHQFXea2iZfjQfTV3J4dSiAdlfBy64dmlWT9dj4bfky6BBBRNZUHPyKRAoYbcjJBAxFrK",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111436762534985153863\">Silverio De santis</a>"
+        ],
+        "photo_reference": "ATCDNfWSm-hkebSkvbThYaFnCGftRZbnIm0S_EKmDqd8gNIC-rcC3kMqHXIbYPTIHxdeY1p-Cki_yQzwqKqXFskPIHra72O9KGyVbt9Kbcbmldx-jkcLgwIGn0uUkfd5Bfa2d9LTahGrLGbnSrimWo6VwHRXShiKqN834J8w-TOjDf5iiX0GRzIySCPvl2LMBZE136CgyinlX6E_Maaw76yGEf8Yupop1E-ScOj_JbI85PKRrKchPrOBaL9bi7Xm2C0bhMsb-UHSDCtRmLLihlTU2mvf468ehYH56TQcqvAAbEsNXGmC67H29oloCKDhvKUoFTMYdLaWJtiQC2nefz0lo1T9bBtB7vtk1XZKDgSeBQxOtZ1dTT6at4Nl8NmUFJXIBOquRtvJotrubj5ScEVbXDcOUQVvvdzzepHrTLnLSlmYqOuE",
+        "width": 3000
+      },
+      {
+        "height": 2614,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106852375604667684537\">Annie Papazian</a>"
+        ],
+        "photo_reference": "ATCDNfWq__W-tyJ2Wwo2Mb0Fs99Q9KsFCI8Boyg7umKAnrSIZ258oY17t4E9pmYq_HfTGmu-YAFUxLJJN7QrprtOsb219xcicHtWSIhWE5ilU8oxRIPNd506VHFqyCDym8F0y9gAqk-nYsRTRmE0RbBEFVOHSBKLoFEh1BpqpunuKJ-nwBXJUiUkswSdarAZryp99zytPGTP7iX6SsavPw-EEywXljeBSWSEiUv7-p5gYDZubdEbqJQCgEeaKkKwbj_itUBEOd-bcaBnAeeuqTdHSlJwdfKwjqif7eTQAijs1QQdtVRPW44bjEzszhpguNFc3XIB_IgGs243ytIEA0i6sZmjL1N56pwzQFPlDTHN82mMmhr2THr6sgSJTO9YnPCdNvIvmxKOqsZFH_Zq57yf0R77pGmBXa3XYSqtYtEs4h0fpw",
+        "width": 2614
+      }
+    ],
+    "place_id": "ChIJMUyOgzZIyUwRdpuTIkP6ICc",
+    "plus_code": {
+      "compound_code": "9XHM+F2 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHM+F2"
+    },
+    "rating": 4.7,
+    "reference": "ChIJMUyOgzZIyUwRdpuTIkP6ICc",
+    "reviews": [
+      {
+        "author_name": "Michael Kaminogiannakis",
+        "author_url": "https://www.google.com/maps/contrib/112574545060212124353/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmMLq3xtu2x92hTV8v-YuU05EbSnrkDOwF37riWhmNwe6RKg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Fantastic experience.  I was referred to Jonathan by a sublet at work that wasn't able to help re-upholster our dining room chairs.\n\nWe went from polyurethane that chips and cracks and creates a huge mess, to good Italian leather that should last for a very long time.  Price was very fair for the quality.\n\nVery professional, quickly completed, and honest recommendations throughout the entire process. Highly recommend BRS.",
+        "time": 1768865935,
+        "translated": false
+      },
+      {
+        "author_name": "Marta Fudakowska",
+        "author_url": "https://www.google.com/maps/contrib/109820477139731160555/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyixxjqy0eQZNos1jl68K6nknohFoR8wdOJihXLnSNdO3JAFQ8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "After some searching, I was pleased to find BRS. From my first visit and meeting up with Jonathon, to the cheerful delivery men, everything was done in a very professional manner. The armchair is beautiful and I am very pleased with the work and the fabric that I chose!\nI would not hesitate to recommend your business to any of my friends.",
+        "time": 1762803283,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "After weeks of trying to find a local company to help fix a broken chair I thankfully came across BRS Express. Both of the rear cushion wood support blocks cracked and I only managed to fix one. The other was impossible to get right. Either the cut was a bit too short, angle was off or the drilled holes just didn't line up. I called many local places like upholstery shops, woodworkers but got the standard \"we don't repair that\". In my last ditch effort I sent a Facebook message to BRS Express with a photo. They said it was within their scope of work. I dropped off the chair on a Monday and was told it could take up to a week due to their workload. 2 days later I received a call saying it was ready. The only charged $40 for the repair and did a great job. I'm still shocked they took on a small repair job when compared to the major upholstery work they're used to performing. I'm glad I found this local gem.",
+        "time": 1619048201,
+        "translated": false
+      },
+      {
+        "author_name": "lizane scheuer",
+        "author_url": "https://www.google.com/maps/contrib/104688450400894372434/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEk2bjm8eP2bvcaD8FsAM9o6IWmMBLlwM4MqwtWKdVRhbvwQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "We are so pleased with the final product, we had an old sectional recovered at BRS Express it looks brand new, they did impeccable work!\nThe service was exceptional, everyone was so professional and the wait time was surprisingly minimal. They have a vast choice of fabric, we chose a pale blue corduroy, it is perfect. Jonathan was a pleasure to work with even the delivery men were efficient polite and quick.\nI highly recommend BRS Express for all your recovering projects, reuse, renew,  recycle. I hear they are excellent for boats too!\nI will not look elsewhere for the next time i have furniture recovered.",
+        "time": 1683574751,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah Jane Devoe",
+        "author_url": "https://www.google.com/maps/contrib/111863841933913929429/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2EjtDqvsmeQsAwk5xIPkNDBdZBc7kO1CpsMWucObFhIiunkRF=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Had four real teak chairs done here. Jonathan was very helpful and gave me choices of fabric that I didn't know existed in order to protect my chairs from my kids. This material looks like fabric but is easily washable and doesn't stain. Will be returning in the future.",
+        "time": 1759576460,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=2819528532983782262",
+    "user_ratings_total": 142,
+    "utc_offset": -300,
+    "vicinity": "384 Rue Chicoine, Vaudreuil-Dorion",
+    "website": "https://www.brsexpress.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

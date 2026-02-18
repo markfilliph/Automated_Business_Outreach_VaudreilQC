@@ -1,0 +1,287 @@
+{
+  "query": "Via Capitale Accès, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339234.5101018,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "139",
+        "short_name": "139",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2K9",
+        "short_name": "J7V 2K9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">139 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2K9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "139 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2K9, Canada",
+    "formatted_phone_number": "(450) 424-7555",
+    "geometry": {
+      "location": {
+        "lat": 45.38720379999999,
+        "lng": -74.0126299
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38846663029149,
+          "lng": -74.01136596970849
+        },
+        "southwest": {
+          "lat": 45.3857686697085,
+          "lng": -74.0140639302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-7555",
+    "name": "Via Capitale Accès",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118174981832708203352\">j.s Saillant</a>"
+        ],
+        "photo_reference": "ATCDNfX2-7aUeH9X-_XOts_u_6H9u_RY_gbrVDHt7agdtJ9qMjOp1VujptMaom1g6RKmv17xDGOuY875elEBhSWAuokqfw4janz6gY1MHIsuNqBjl6doTKGeGXuKXOqeBs86_t_cP5D4HiBCRh_QOkAtFdDR3Td2YOqXCWUbZ6GUOVHx5LKWF32HTYJbFT69_8xzx2qDRsJ9BiFWQmbr8GhQfsqQL4ko-4twK4GfY-353ar7t7mdmJ6XZEhAYjvekG9SPSqsV_CTd-7YsmdseiyvaSSejqniepzHAw0NrPHiVJEAk1BbgMNutNj8NDi6enlsZeO7Xw2K1YxtLUqK3ULjxxLVMNJjfri-kGmbixxLNjT5057sThNIAjsnu2eS0mtqrKQ_LBmcFN3xQBtzDRBCOF_eAQvrYp21Bbtoc3GyLcSG-A",
+        "width": 4800
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118174981832708203352\">j.s Saillant</a>"
+        ],
+        "photo_reference": "ATCDNfXPSBH4ueOtJVcvDd14rXriyJKHlE0VtY0hJMBWqFqbygBsQUBjua1iwdfNT1FEoPoHVpRj9VQa9LLHMp0WkLrjpXQ85AZO7_FEt0JydAE44Wap1xZL_4VmkEVe6QVA7iXLB0f3GDi-pd3AjMUGNarj20qXpD1IhMnM9lfg8R8VZHGKbJd0PczfV18LVsvl4J9i1NJmk3XaC0YxqIgoktoIre2mYlyUHvRFrOfPEZ00uiKozjoE0RUh9lYAhH3ZyhhfPPPd0OSdvrjmn_dLpYb6qXmOfwqUeT8IraharblIUPhpGodZt8pMtLanMytzn76ZVJ8QFhUrmHylh0cAG7oPslTJ4oLk4MpN77HM-hwXD39ExHpdPfqVLgC3DspXyUBw2pvEjlZ1y3xxTi-P4B4vpgW6nJavkrSnsmvTqj2alA",
+        "width": 4800
+      },
+      {
+        "height": 2321,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115252838913829357702\">Via Capitale Accès</a>"
+        ],
+        "photo_reference": "ATCDNfU4uLQTRibibdm06l-r-5hKx1KPbIkfJaMTZhEGE5ABhj1NitjkLz2D-QpIBni4uOly6GjtsqKkpvl7og7G-7JBXSiu2Qk1mambXLmBOW2hSOli22VC1pJhcEPHIxyY-kAScL4rAYwP08KL3EY8_h8exopqXbFLtxORb6AcpBqW6oskPYRLp6l7Be6D8645ly507CYcKLrzwD683JsqEhB0E36ihxNw3cKx5mSgw6rq1aJTsP2qUskF5OhPHjiF5Cm3OUzZCnUNmHwOdL0QWLkYwUR5OW7Up8WpUC1iAEL7jQ",
+        "width": 2322
+      }
+    ],
+    "place_id": "ChIJuXvl_-E3yUwROnCgYJ3Vqeo",
+    "plus_code": {
+      "compound_code": "9XPP+VW Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XPP+VW"
+    },
+    "rating": 5,
+    "reference": "ChIJuXvl_-E3yUwROnCgYJ3Vqeo",
+    "reviews": [
+      {
+        "author_name": "Ghaith Abdalla",
+        "author_url": "https://www.google.com/maps/contrib/103798385587784034781/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoLTUQovPq4uO_dpXToj0i2mhsrw_Gsc-w-p0yFHb1h1ezdQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1688566080,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "real_estate_agency"
+    ],
+    "url": "https://maps.google.com/?cid=16909281147846946874",
+    "user_ratings_total": 1,
+    "utc_offset": -300,
+    "vicinity": "139 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://www.viacapitaleacces.com/"
+  }
+}

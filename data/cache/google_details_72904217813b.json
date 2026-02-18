@@ -1,0 +1,419 @@
+{
+  "query": "Toyota Ile-Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338967.9238641,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2100",
+        "short_name": "2100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard du Traversier",
+        "short_name": "Bd du Traversier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 0K8",
+        "short_name": "J7W 0K8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2100 Bd du Traversier</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 0K8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "2100 Bd du Traversier, Pincourt, QC J7W 0K8, Canada",
+    "formatted_phone_number": "(844) 738-0927",
+    "geometry": {
+      "location": {
+        "lat": 45.3858513,
+        "lng": -73.98251429999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3872278802915,
+          "lng": -73.98103886970848
+        },
+        "southwest": {
+          "lat": 45.3845299197085,
+          "lng": -73.9837368302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 844-738-0927",
+    "name": "Ile Perrot Toyota",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113695093078825541711\">Ile Perrot Toyota</a>"
+        ],
+        "photo_reference": "ATCDNfVtVmtf4ThdfFNVMCZcXpCDzxNbHxrORT9jBxAvRI54JKk2nmH88RljN5uUj_Lyr9RYZ_InGcQbeRerQQKLI4zLtfKFHbLoTR0bKNLAGvIGQW2xZF14N5hBCLgQ49EeGZwq3gJi6TaZnfc3lrizuKxSAM37DsEqg5aXiS2AAWlZ8hoULVjtQ4ziEUgDra0txxD7a_fDV5R1sM-kvekK5d32NWbHQHB_xiudDyodGyNnHn_iOHffxNSZVZD84rgrREWM24o2Gy1p9bw_wW9Ohd6CcM-8gbPgtKiY9t0tLoG1ZQ",
+        "width": 980
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106355479044618388748\">Omid Armand</a>"
+        ],
+        "photo_reference": "ATCDNfUfSS8Q2sg7qzdVPlrxbdntZF6_qiZ9xSFDPNjFssAoL6IXXKMrqroraDXUkU7wtT2Y1xKJijQRncQILmuym90ijLyrvKVtZrZi-jG3z8q-OnN8Y__Olrmuh5dDXTIiEddHq215HTX6nN0bOyedwY_5hhMiQcaEE3gCXnv9szkQlP8C14LvbHZuywZtLFr8tQz5-p0kdvF4suPxI0lUHa_Wl4ilU3LOuI3iuUATtUr3BZMlkRbuk2G-pre5xelGP44lnXj50VQzx2Qu2m-YYkIw9XZB87FACmN-hNT2fHyMi9ksHLYluqcvwk7-uOej_I_a2WN8BExzLcHC-0qSLgFsH03krg0biSAv-5-i4nebCQm8d1s1L-8JMgz9KfX1--Cjh8U379MFl43WT83L8M-TfMsZAWs1rx1sxRh1VjnRSw",
+        "width": 4160
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107856146376346278344\">Mykola Tymchenko</a>"
+        ],
+        "photo_reference": "ATCDNfUnKusCs6C5l27IvWois1F21mDiXhxHmKe6NBKl0_3AA_kiR646DCeLhWwzZ_ikba65OvK7itqZ4T2qMCPrM9uQRGlfpSL6v7SbJqIF2BSW9Fl8YwaILfWXcw4f2ycw0JtYpH0J8QYgIA1wFzSd1KzljiMixKgWGB_JI4T2sSbny4CcHBDUuNaNmqN_fxjrNrOUZ1m1GGGghHhYtoEwSFdE-S9IuvqOr1gXvXOhgI611WTWA3uYY6pWr-lWM1ChUH2DglGB_lx1Qt9j7DMWc_s4FXhqmUL4WvFeoQN0SIg5aSJskb-UkY4rKBsJ1M2FuWeHLGJIy95d1eXm7O9efhAQmEfB2wjUB-gVRhDRkss_9vdDpwm1cNBvGigb69zfkwZ_IysHQYfnWdzGbYe6YNKVgUXlu4vYY1_C8rWMm_c9KA",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113695093078825541711\">Ile Perrot Toyota</a>"
+        ],
+        "photo_reference": "ATCDNfUOVFTnSeupcvphXCNxEiw2PaSuxXEmGYe8HPCd0fNpYeeLnWihVDPUPQ6WpNVs0zzx7uNHczfklLQoaYFNevRbiNirSGFUutxIL6MpuMP93AabeFQ-FWnlYUtPMITskf8EsHZLMuFEBEMfeh9lRAEibGY4OM39V_qSMMqB4HwZyyff2SwA2HRdPKMw04lp6aB6OVK0tQOwcM3Ix2MBLLK_v8NXALfde8Olo_-bwWiabv-a8QWgQ5w1c1cZFI3yMedz85sWckpnoH24fUjI0VLOd5I4Ern70sL3l8HnHpqYHA",
+        "width": 3024
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105906328853026312704\">Etienne Lajoie</a>"
+        ],
+        "photo_reference": "ATCDNfUlPcAU_6FD4RODZw6eElG9X_gI3whgZ5V3kmtZ8BbHtvJpoP9CJos9OMWcfKHrhWZGLfeMnOPMhYo0JtiRASBTXBx5t5kJ7e65d66sQE3NDmr_rss2utiVlQvvDXoHUk73CjeFTTUuCipMD5fUbv4BIJz8R2QJHAFkmlEz3rgjf4fHrDoidRP1hnJ_jPHhLkJp-sOl5XlxnsioO307ymuJFzquE7Zs9u-g0nQXj_R7qNA064e1fGoIm043APJbjRnGfLQypD0dWNsuBSdMQbqPUhS17KnOwyMSrmK2l33QMx3fpIQA5F3OjY_PExa19y1OeLE_pPLItc2kCD1vr4uHeylYyYcGHg8aLHZX1CZmQCVM5Uim9rmkXWJ7mio_eTT051XhdLwDSv6ZgIsCvcNkGhniOAm6jitW7tDZuhhdig",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107856146376346278344\">Mykola Tymchenko</a>"
+        ],
+        "photo_reference": "ATCDNfU3_L8K5yE7leOMLMIX-wYJI93txo48beTtUJA5rcTec-kv3aeaI7vxXSui9Kk61Ob_rJOZ6wpuKA-jEkU2JR-L_Mc5xxmgF36rFQs66YuSe9MH4hStZurS6QMZmLUei-xheQgEjSyWZbHNzq9R0DWpZLUCImzOGqhzDrhu8M5rFY1zHp7_lL3vqbvA64K6N4E2Vo-u_XZR7GtjiDtkxfNnapS3cjtL37GjvjbrRQXZBNsZyHHyxDLrQNIeM5eztIF5BFCfgf4x9vNHsM59Bmvhm053fHzd6NLc02w6CKjp-93k2MmpCUNqr82kxlJ6v28UAYPPQW-D8ol5Lq7sYbfDKGXLB1K4KDfKAHTP9Yk1ZS06kln-53-ucKLJio82v1v-83-R-KJJegApz-1SQbCJ7gpn0F5Qo_bhVp3moB_Obw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113695093078825541711\">Ile Perrot Toyota</a>"
+        ],
+        "photo_reference": "ATCDNfVZv_T-a27nF3l23yossqSNx2ByTR-xMcmxHSrBsm2leaLyZgOMCBHpaginSofJchy7GHfvQzuSBEo20aTrvIyWdpMavB8TA7fCElU_fAIHErIll30yLvhLNW9w4vTNTgHOqbByShUZ0uSAlJo8D7KMK1p_5An8x2VRkKej57qNSSZSB9CsruKR34vcC8DEKGvQNL9oYhK1e2A3_Fc1N_1_R3VOsAuRNu-fr1ItGysoWLGcwufKxowI7Sq5ff6NtRxtEh33s12d-mcQl_4Z77S8i8RS5NYwBrkOJ8_EtNhDgA",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107856146376346278344\">Mykola Tymchenko</a>"
+        ],
+        "photo_reference": "ATCDNfU6VvshG9RB2SGyOtED2qrgZeWetn5SMCrgIWVZcsZSTQQGF0HP4DJ0_9EC-iAC5ue3H1bnhNCnBnkjKSdpm_jrKNjfp8lMsqUAMrDgM7lhMotGde9d_Y0Jpecmv-jR3VGD6f2uHCdWm7sjTBU9S25IaYnEGoneT2hnsIJQMKqRsCnQc0ZpJsvRUi_Rb97eFpzvF9CQYNq-RSG__WJzIX-aFhaOrG8oRl3NTyrvsXdm3YpH8z2tFSAmrrVwxtisFix8PCjWTmq27Y0yUsy2_K_SBWXHRvEQye4WYFKUbY36DmhLPI5dkAX5yk7Qs1eB7GHvhfIad9-hdK7vgYf-fhqdmi5rEPzG244_UIplIdumq1sfSWcAOOdMJyu3iM5fHLBoXRos76zgUqhSjqf2b_yAxSaKMSSP06onM95M_5Q",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113695093078825541711\">Ile Perrot Toyota</a>"
+        ],
+        "photo_reference": "ATCDNfXy7s1rQYsz5Rel1hUIwZPO9NmvpDM4lrvmFPGpGTtJoke0VS9OXBUmvZTNhCpFLVUSolRm53j-ZxpEkLR0oq0ivVGK-X4HCyU7hUDo9BG01Alvk0T8Vp4wdn22-aCVb4L696X1G4xlcGSSrjBRQwK8gnH3ibvdMf3Zl6uRL2dorkRLMVATjhZZAsmR6yibYULjFFfxvT1k5_SX75cCFftok1-l7rB5P0FrUIXdxTTdM53VAMJhlnj-P9BIWW54inrFJyoU57ZJTM5odfGQxHW3to_a5RuHu1uLxvo-bX1j2w",
+        "width": 4032
+      },
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107856146376346278344\">Mykola Tymchenko</a>"
+        ],
+        "photo_reference": "ATCDNfUV0S8jJI55NtwOhxltTTRNXEmct_Ai-tI09UZoaqJyJ4evLq94LZlKHqnrQbF8annS0Y4pgqS07DcNrjDm_9kcJpJUD7Sw40coCrQU6oW1sFdLoDAZVCTUV5XfM_99qcctySygyEwhY6oKb7dQAC7VS5VHpO3iWm3LKBLIfHkta8xN26g-TV55DSrYZYP5jAggRhGpWeNnsPNnHSj2R95lrpFFpmwuK-_V8tWc06VDzEkH-9c1zYLstV7ck2Qxounz-eH84lNg7uJpcDk2GeahB0BpOBVXCKLn8DQ5DNOkcXdIkMVJHrp1uwhCFBJ5EZ9jbjHbpf9syUwxqYzOFnRHMnzLvzSi0Hn-HB159omE82Ctnc5WbqcyvhoB9ffB1xXJfPhawqqK2lxo3awLlmlvrWj-OizTsSsiiQG5hv1BfQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJrUZBpnI4yUwR56f_GEoH90s",
+    "plus_code": {
+      "compound_code": "92P8+8X Pincourt, QC, Canada",
+      "global_code": "87Q892P8+8X"
+    },
+    "rating": 4.2,
+    "reference": "ChIJrUZBpnI4yUwR56f_GEoH90s",
+    "reviews": [
+      {
+        "author_name": "Karen Geier",
+        "author_url": "https://www.google.com/maps/contrib/108597853020219454959/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR5xZooJpW8qSdJPO7w3AaWG46HGNXmR4pHsSy3yg7Yj2yXg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I recently had the pleasure of buying a car from Alesio from Ile Perrot Toyota and I can confidently say it was the best car-buying experience I've ever had! Alesio is incredibly knowledgeable and took his time to ensure I understood every detail of the car and the buying process. He patiently answered all of my questions, making me feel supported and informed every step of the way.\n\nHis professionalism and dedication to his customers truly made a difference, turning what can often be a stressful experience into a joyful one. I highly recommend Alesio to anyone looking to purchase a vehicle. Thank you, Alesio!",
+        "time": 1761481261,
+        "translated": false
+      },
+      {
+        "author_name": "Laura B",
+        "author_url": "https://www.google.com/maps/contrib/107207028203294460452/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0Ktlir7II08bKVs6Jlwu70YevP4CYj8PildWSInnBQ4jYpHk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I was in the market for a used car and having a hard time finding a dealership I could truly trust. That all changed when I found this amazing dealership and especially ALESIO!\n\nFrom the start, Alesio went above and beyond. He made sure we had all the information we needed, arranged for the car to be inspected, and never rushed us through the process. His knowledge, professionalism, and genuine care made a stressful experience smooth and even enjoyable.\n\nI’m extremely grateful for his help!!!!!\n\nI honestly couldn’t have asked for a better person to work with.\n\nIf you’re in the market for a Toyota (or any car!) and want someone trustworthy on your side, I 100% recommend Alesio and this dealership",
+        "time": 1760996974,
+        "translated": false
+      },
+      {
+        "author_name": "Jingjun Hao",
+        "author_url": "https://www.google.com/maps/contrib/106928514845737653373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLejuEfAZQxJRoWDoDSE46S43HTSe0W1Y-Ju1OHsKunHN3weQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "This store just try to transfer the responsibility to customers avoid their own or car problems, giving extremely weird personal assumptions but not professional judgement between the car issue and driver’ behaviour. Also most importantly, they changed their words before and after you signed the paper, so be cautious to sign the document before you make everything clearly. I will never trust and not recommend this store anymore.",
+        "time": 1765026369,
+        "translated": false
+      },
+      {
+        "author_name": "MH",
+        "author_url": "https://www.google.com/maps/contrib/117681831211573161836/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpGqPJ9lVzUk7Fjeo0EhCrwLSEDfvJX_Wfeap-jIEnl18rO7k=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "I was sold an accident / undeclared car and dealership has been ghosting me since. Avoid.\n\nSales and FNI process were lovely, so credit must be given there. Danyka and Alessio were fantastic at their part.\n\nAs of the actual car I bought, I was led to believe it was in great shape, which turned out to not be the case.\n\nProblems started after 24hrs of having the car in my possession and still having to have repairs done on the truck 6 months later without ever having even 2 weeks, with no issues at all.\n\nCar must've been in a Toyota garage more often in 6 months than I've been to a Doctors office in 32 years.\n\nService department dismissed most of my initial claims, which now, 6 months later have ALL been proven to be right.\n\n-A/C compressor\n-All 4 shocks\n-Rear suspension blades\n-4 tires\n-Countless (7 alignments)\n-2x lower tables\n-Vibrating brakes that were confirmed by service manager but repair refused by used car department because they were almost new, but vehicule sat in the lot long enough for them to vibrate during braking.\n-The pickups bed, was loose and moving around\n\nAnd many more unfortunate experiences such as mistreatment at the service department, arguments and raised voices to attempt and silence me.. very unfortunate ways of treating a client that, was right.\n\nAnd many more.. 6 months later, still fixing the truck under warranty, other Toyota garages can see issues, where Toyota Ile Perrot can't.\n\nBought a Toyota to avoid all possible problems and turns out I've encountered EVERY PROBLEM, I tried to escape by buying a Toyota.",
+        "time": 1768228025,
+        "translated": false
+      },
+      {
+        "author_name": "Marc St-Pierre",
+        "author_url": "https://www.google.com/maps/contrib/116827181731737673792/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_CFlBNj007Q3LkL_bfXzczwvDMDdx3bHmYRUTKxsFKXu4uA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I looked high and low for a new Corolla Hatchback, and when one came available almost exactly equipped the way I wanted it at Ile Perrot Toyota, I jumped at the chance. Ms. Venice took charge of my account, and didn't push any of the usual dealership 'tricks' since I warned her I was going to be straight up with the whole process and wasn't interested in games. Once I obtained ownership she set up my cell phone to link with Andoid Auto, and made sure I new at least most of the features before leaving (and the new Corollas have a LOT of them!) When I went back to get new snow tires on rims, the parts department presented me with reasonable options. I'm very pleased with my purchase, and Ile Perrot Toyota did not disappoint.",
+        "time": 1758832742,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=5473851886920509415",
+    "user_ratings_total": 1083,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2100 Bd du Traversier, Pincourt",
+    "website": "http://www.ileperrottoyota.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

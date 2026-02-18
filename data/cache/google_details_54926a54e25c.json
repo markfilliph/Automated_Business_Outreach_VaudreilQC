@@ -1,0 +1,402 @@
+{
+  "query": "Mécamobile Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338022.5051553,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "160",
+        "short_name": "160",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "950",
+        "short_name": "950",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Valois",
+        "short_name": "Rue Valois",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">950 Rue Valois #160</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 12:00 AM",
+        "Tuesday: 7:00 AM – 12:00 AM",
+        "Wednesday: 7:00 AM – 12:00 AM",
+        "Thursday: 7:00 AM – 12:00 AM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "950 Rue Valois #160, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 218-0790",
+    "geometry": {
+      "location": {
+        "lat": 45.3714599,
+        "lng": -74.0402603
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3727563802915,
+          "lng": -74.03902161970849
+        },
+        "southwest": {
+          "lat": 45.3700584197085,
+          "lng": -74.0417195802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-0790",
+    "name": "Mécamobile Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 12:00 AM",
+        "Tuesday: 7:00 AM – 12:00 AM",
+        "Wednesday: 7:00 AM – 12:00 AM",
+        "Thursday: 7:00 AM – 12:00 AM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 321,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106095573111934104088\">Mécamobile Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUbPo4RGKpzsu2ZIi4_FGbMWElUm_yTJQbh20-B0FclsliwUjNxBjlax4QktJtce-CYy0cnH40GcPnrd5n0MUbm3TYDshgR6J2Ze2sz9A1ZyUnM_MPZdiwKT_feknGMxkaGsDYEwM6dV0arDT3AXd76vO1nzkHcGxVmOQbkkhhrZ5IdbtIhaQxzWeq7drZWZv5wlF2zd4uKSz2MstfVYsgYm63Q9ufes1fW5EXtRfZ3ShZpQ4pk0JJ-_Vw_OjyeLX9Zg5IDkl4whQJuFVh-iZhd_slbvQc1H0qM-2fVeJRS0Q",
+        "width": 480
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101201995788690101851\">Erik Wagner</a>"
+        ],
+        "photo_reference": "ATCDNfVl8LDe4ASiu_apnsMOmqFIiDqwItEISPoFX2ibORYYSXOzJ_OwjnpKj0NW18kgiR4Iq43L52trpo20Hj99j_LLuJ6V0-A153XYeUbh1Q_7F0vi8LyKLpWscfwiBClTgV2YR38VCDeJb5Z_ZoBYwOMftbhaodohL8RF32pWVBKn9nd685fkvIGf4syl2jwRxoccVRMBGmw8OD2JP6xsDAz_HTKS9yekdz2ZKRZOkAIfV9vb8Y1ZBEXX7V-ruRvezg2n_M6_WA8McPV-0g38esKAj_OSn9ev3cVZUNWe2wJ7TZh8W4VnUekdiNgKl5vNj05x8KGPODSRGBBy3uVLJVo8IglC_Bc4C1vSyA8cFic4p3_5CZ0Nz7SQwUk38EfJo61l6Rn_TtEMA4TRFTe2TDk-Z8ogcb45Dwz9kSwgxzH7hw",
+        "width": 3024
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116651201903054577228\">Jr Jones</a>"
+        ],
+        "photo_reference": "ATCDNfVjw-lRLPIfBmb5CcmMRjb7w1vARaPqwBSC8wwM2PD5_9x4SVf83avtXH8oa4-sYGDhUmPJsX5kFSqmQ4II25mdLbJFHvHEk8zZa_LbfmuPl8XpkYICrjIudDtXFK4Kj8NOa4zw5ZnUyYInpye1ubwCKMUDnKyFyGlx6tiGka3_Z2kTFwpx1iPBsaocuIR-7H7sIyrfkCHh24UIlLHi4KMPnwHVgDc_V_VQGnRrhb9Gmwn1EeMh_Ag3wbrsMxL74D_SgSnLXbyXgSsBvmR1NyZ5uHtlH-NofK-qDN4kXcgd3VHDEspx96Qw-w5i1erHy_1BBSddkLjorba4OWq23xLSihUU-zmYUU6M4Y-8t8mGVb_8BJDcf0SBJ144WlvmypKJJvBLBGRblhiAFlbF3GGhlpkNO7WKeJadDzLl46XF1VFx",
+        "width": 4608
+      },
+      {
+        "height": 2108,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113657156931149450203\">Ben Orphanos</a>"
+        ],
+        "photo_reference": "ATCDNfWhelxCUfOvhr9PifF8dwzzGKGkzeAEi8JtVrrhr37GLncGBnyT8Kg7PVmnhLRCySWzuJnrfB-a9NVqWaiGjgOM6wA2mJbm3znZY4otsrkYWPPccAX-m0NeXgaPOtTeavjhMpb9h1-OnQgoHPjIinMNByqwKy0tFsBCoQ4L3rM0r48sdrnqmPzsPGS0Co_ZhF_o2NbM5O38wZp7OTG8X2N8z9QqE8RiDalA9XJHyz_DUnKA8PIlwVNcFP6OE4bCRFj9RzyZRe4NdqvN78S5wRaVQpyvSTZwQTpj8JKYGeLKXiZrG68eyvRmy5l-I3bo9PFjaH1jZz2HAT6Bd0DzqgQ4ogf5FPFuMhV24AOGsEVHDrl1GJqgnO6XdyzDFbPZYKfQ4V98Y2Rwy7sMpiJYp3ukZIjDEb5KF01ZPh4LehbdCg",
+        "width": 2219
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112538090735652411437\">tamara wilkie</a>"
+        ],
+        "photo_reference": "ATCDNfU0IftiQLj42tQLZcZ8r7sUwlxavds_P5OSv7QYBB3fuLyvLIXP-pkseKaJtGMzlZHqt2h80gCRC083eeAIYxDYB2JBkpWvwikZGw4hosLEFXI3HooUfwxzP-Mr6v1JL7XyK-xYM-riVn-rT4PCzZj_FS0BzImkKz3Q0Gxzac4ILdmrZCFCK2fwTSvGw_rwxVtA1G9Rj-jWRywjQsY5B64lwxqH6qVvJj9_oNV9esxIELofxvb_jZ4YArTpoG8Xow-4qorTcvEceAAvQ9XyqbPOs4pVlG75zyy4sW8cp-wtc7jtj9-ZRQRJCUSR8EiTOfw4rQvqdxt6uSXkP89Ziz2YThRdwBTHZKneOsea-g_bOPxfpYZGjzTk_lcZWKN2MaexCVxY9Nt_kfystxv7fFt6n_P9YiJ2n-WrEZwCNsU",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112538090735652411437\">tamara wilkie</a>"
+        ],
+        "photo_reference": "ATCDNfXLgVEJezzV3UcAbxwyjOW7vuZ9LWQOw7n-wwHgzZY3t_J2hFjqNJuIQFNBLgxvIeAR_4iIWYlvPut8_5E3V7fOKi1Y8B-yhpTQSaFNjBFGFshpF3y4uZInPbWu8QL4h2EOePAIZDPXEQR3wzdL6AdMSwkyz2OrD3PSr64q7Wvaxa9plA_ExEEFG0Gxo_A2BN6liin_PF7TmT8qOBNT1VqkLmIxCEsSasm55Ws340BQgIj1ThpQBb2TjVf67Wo5uLkufYz-kkP8ofsTad1GeSqzcmI9brUvF8cD50kTeXYSrktLzdgoEC5updKNzhTUn88iviuka_obcgi3fy-LLo13woqgD_VVwDeViTt79W167PdJzDulosLqJZOqHqvfQL8zYpA-HLY0jXKHLQ5Do2HGAOKVhBV1K9q_n1rkk88jNrQp",
+        "width": 3000
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102914431206292595106\">Madalin Soptea</a>"
+        ],
+        "photo_reference": "ATCDNfWuT81AOmtH_-x2u8K06pnphR47xp2lBc1iYAQNlIVjVl6ZhCVDU24k_s5SY-58zOq8PBT86Wy9apy7EuAr66ft-iecj48dstJ5gIOKyPKn5_0t37Yp2RHwn0gVm0hHf6Unhuy8DlNyrjM11e_sN-BsT1VekaGJQ2StBU5RCI8Y_SDEtjP-dn768e2G6MRyd1f87A1bIwUtQOlkEd7j4fsnncq9GDNWhKfjvdfTchkpXJPb4rKOvRfx_t7JBCySt1V_JMEIsg5vT0It_g-rkXF8zOsHVidosQwt9---gBDglfgNk4hWe6s4TErQGc9M4xNqqTXqiBrVtCw8xMWTLyxSbr3nKWEHZKKwubSc64f5hw71uN73LQfq9wc0xq-jIF1eNlzK3XLuh5oIlfcjsRd1hz9yQI3K-UUt5fqXFAtZBw",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101201995788690101851\">Erik Wagner</a>"
+        ],
+        "photo_reference": "ATCDNfUw3NBc1qfXZAT3j4Nkgd_ijMkeG8s1B1lvcoB_cl-9lysVjyDF8uJmiPlaaUpxnyUkRkBPm6PwR2Fsb0QgwsMJcJtkhWkRyOaqvyge66su0u8_3VXTslIcpn8FMGPv8vnsVHUfZbd5bkQSn7teNsxY6exQ-z_K2XeRkdBs8ggAwqzlKeI1ZQSvRd68Clw2vOB7t6PDiOhyJX4N8IgydKp7ScWVEjeaTJhjEKu3oMbpyKvXgCO023x0UCPsl4hSqnPuDNrezzhYaJPzlAMAdwQY_kkdItwKYVHnbjmI12AQAyrklQKOAm8SbGLdVafpm-WHcYp10L0IBKSCvRUe_haNF_7N_92bQ-ij5G-_Fkf2eTZVOgftEUWp4n8iExguyvi-lvd181myeFMj3q9m2Fdrc-QcJ2_D5nNTHdm-5GWwoyPz",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113311264442383705306\">KP izzy</a>"
+        ],
+        "photo_reference": "ATCDNfUQzxBUoRKZuM1d9WC3zeS2wZxXvwmirUpnGcsvz0-TuurDpdY-kgK37ofrk2TLc6cr-VBowaCu-KEZEtQO3RFprFdJFOHoYQtrB06Jv6GjrjaxU6RNJ1Dh7FDfjyNRfRPkRSfHbGL93k0HlAyjqRJLAziC29yeHd4TVIEnw433M21hPwFlcOp65pdP4790ULFpgJcQPA93j861KKhbz0Iapue1jYZbs0A2fGSq2bWuLWo9aJsTdG_vCb2yxr5oKQ11iAPyZ0dR3KKIWRrk1fhKMCKSfGqEvmIPaNWbAt0KC_-1JVCStfrZ7l4lP451wVHT4uKxNEzcBY4jhn4MSWOPmE8be8-1nwC4VfWRPvKcgIYAWmUsVIiod1fsYvtsmXKW8OIUjZMpkBBtbDSaIqMjiTrUuBlPWaKA5CuFRAwy86ttT0F9B3Ry2huvRvKk",
+        "width": 3024
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588363098257490847\">Rene Miller</a>"
+        ],
+        "photo_reference": "ATCDNfUrTXk0sC50wByhFTVRWB08iS3HWy1S27nghPpAhcfjHkyJ1M5-13GXVmgyOG627FKXmNIbkVIj9lHwd3Z0M1JFziyRC6Vx7erUDtJ6hbLx8nkkbRq7YiFzCw5Ei_NuWmpMbmZkw3P0WSowdT40WfifgyAWZqa8Pm9j0IE8j5A07PpyNUrH6n6JI6Ch38eZlubN5B2HhBXkS_LO2Mzh9QcwmXU8RzwRhz58_y9n6qcoEZkbUOS-c22FRifg4oWwe44r7Nlmo1QpjlCebjCqdd8IK_4dUpiUGefZY3XrVRmcAdRCMAXcvCKW8nGl5HUQWy_2QVYwuv88RvsiRDTVj-dpRomOcTYvdroQxXCtbPRrfGra4QnrRx0zMlgYyKhaDKcQtvwXzZF2svs6QRk-GtkUoKkKEg4CK7rDnGQNYpAteQ",
+        "width": 2322
+      }
+    ],
+    "place_id": "ChIJ1xj1LjhIyUwRVYqet7yUROs",
+    "plus_code": {
+      "compound_code": "9XC5+HV Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC5+HV"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ1xj1LjhIyUwRVYqet7yUROs",
+    "reviews": [
+      {
+        "author_name": "Jashandeep Singh",
+        "author_url": "https://www.google.com/maps/contrib/108557398726617615895/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXc1chlp3O3RwBd5yvJUz8XXnbU_MKZNzDZc7VhytjMBls9J4w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "If you want to get your out of province inspection done without hassle, this is the place to go. These people are honest and very Professionals. Safety was done within 1 hour and they value your time.",
+        "time": 1766444400,
+        "translated": false
+      },
+      {
+        "author_name": "Duncan T",
+        "author_url": "https://www.google.com/maps/contrib/113209648390487759464/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-cKiblpwKqwY32CkWjCzTCzs6K5g9ejZh-3JbFtVVG0bZ8pbJ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "A great experience with the team at Mecamobile. Fast service , friendly people, and high expertise at the work they do . I've used them for a number of inspections but this time was an emergency repair on a damaged RV exhaust. They fixed within the estimated time at a reasonable price, and my day went like clockwork thanks to this team being great. Thank you ! No question I would use these people again.... professionals...",
+        "time": 1756499953,
+        "translated": false
+      },
+      {
+        "author_name": "Uniform Bravo",
+        "author_url": "https://www.google.com/maps/contrib/106754176977434126971/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk9HqzDHush2JChEBh0rEMPFwVKwVwMsc0GmLrkTKbg6OyKGGm=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I recently purchased a cargo trailer from Ontario and didn't realize I had to get it inspected to make it road legal In Quebec and I was given the contact for Mecamobile by the saaq. I was really really hesitant to go here because the reviews were so negative but I decided to go anyways. My only negative thing to say is that they have no confirmation system such as an email or text to confirm the date and time of your appointment, it makes the experience just feel illegitimate. The staff were kind and helpful, at one point I mentioned I wasnt sure if I was able to back up my trailer into the garage as its the first time id ever pulled anything, and they offered to help me do it or just pull the trailer in by lift and I really appreciated that. I did wait for about an hour and half but everything went easy and smooth and I had a good experience. The staff who worked on the vehicles were great as well. When I returned to the back of the building to pick up my trailer I couldn't find it and the staff and I had a laugh when they saw me circling the parking lot and directed me to my trailer. If I had to have another vehicle inspected I would go back absolutely.",
+        "time": 1757175823,
+        "translated": false
+      },
+      {
+        "author_name": "KP izzy",
+        "author_url": "https://www.google.com/maps/contrib/113311264442383705306/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqEetDHXjNppAH3ay7jF8lPossSzRbU-Vo4nP3rdeWtquE6sIs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Nice staff!\nhad no issues with the service great place",
+        "time": 1759154182,
+        "translated": false
+      },
+      {
+        "author_name": "Erik Wagner",
+        "author_url": "https://www.google.com/maps/contrib/101201995788690101851/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAgmdHHZx7WuIuFFzLf43RDUnpIJoL84XgIt6LRyZqzPeZEg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Had to get an inspection for F350 and 45’ RV because it was purchased in Ontario. Staff was super nice and efficient. Unfortunately, trailer failed on an electric brake but JP and company got to work on it while it was in the bay and managed to get her fixed and get a passing inspection. Great job, nice guys, saved me much frustration. Thanks MecaMobile Vaudreuil.",
+        "time": 1685750101,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16952838435584772693",
+    "user_ratings_total": 135,
+    "utc_offset": -300,
+    "vicinity": "950 Rue Valois #160, Vaudreuil-Dorion",
+    "website": "http://www.mecamobile.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

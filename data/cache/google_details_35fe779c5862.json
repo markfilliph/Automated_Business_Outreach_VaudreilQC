@@ -1,0 +1,392 @@
+{
+  "query": "Caravan Logistics, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339466.2551825,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "500",
+        "short_name": "500",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Montée Labossière",
+        "short_name": "Mnt Labossière",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J8",
+        "short_name": "J7V 4J8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">500 Mnt Labossière</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "500 Mnt Labossière, Vaudreuil-Dorion, QC J7V 4J8, Canada",
+    "formatted_phone_number": "(450) 424-2700",
+    "geometry": {
+      "location": {
+        "lat": 45.3920908,
+        "lng": -74.0724827
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3933608802915,
+          "lng": -74.0712943697085
+        },
+        "southwest": {
+          "lat": 45.3906629197085,
+          "lng": -74.0739923302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-2700",
+    "name": "Caravan Logistics",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2633,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118192661961534545176\">Caravan Logistics Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVcWtXu0L-kZ1wZl0noejLlX_rSOmH7vC8rVLcNwjHHjkhXEGGWDqxen0Zn2Z9xbA5w5mEJgSgI8K_Vgjuhruoi4FLGar0PWpl8MxuPo-Us1dlzCeH-MmxJ6y6kO5tSQL7NjnoKXZ2njSUkMxyMEVn1bHf1C5R6kByqNCZ8JXcOZVSqWnlx_KKNhf8tecPwWkq0BmhkH2fjDYhHzdRdlWFkoiy7mxKYq-y6accSfvs0XmS47aSfKqQ2QJhkvMSKGIhSvOqoBG1_fIQ8VJUuKtjSrqPa5FQxCvC2rETnipSX_w",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103278682461781193904\">Gagan deep</a>"
+        ],
+        "photo_reference": "ATCDNfUJyyTZh0mjwOZ-juMvogHCCnDUIk5oK27snbDIqrjF2YYmmvQdvTAeXBs-QYB2V96CTyj9n0CoM8FvMfxlcBb1vegmAqWy5aQmq2_cclUeCMMALGN_Y6jrdvv4CEy5eBlg3XIyRw5J_BZbwoOoyJjU3uSTIa9KoOtTVT6dSxOwCv8r2a1SkLEio6dCvqn06aGl8z3QLJp4HdPbJ6aaVWWMVZaG8ueXgla_AzHSuSFnLIkHvfqIyjKvBJq3fLz_CXJOQGHV9P9D2nfS916aGC7zITTq7l7IsfBOy2ePVAvehCv8asmBZPjeAF6xk0HAs8H5-Mf2YYgv7KNuAkWPA-ZpUJBIuctlwnoW13t-1NFtfKg-Lw8wKJ7gp4Ezvy2gt5R1RLNN5jm9qiwvwAnQBIDkPUcFq4892XOE0dX0e7SJeQ",
+        "width": 4032
+      },
+      {
+        "height": 995,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115447333806655021636\">Andre Parent</a>"
+        ],
+        "photo_reference": "ATCDNfX6DeUCT0u5dWswfZhhN0U8nJoAORQBRDGs0DYJKfxvfRCXrUbQQiJsglHpBqXxBRjGWkJ8_uHfCx3oGbubydChApf2dXQPWF2VZLwNE7wlzf9CYwkqSQdQuUdiZfYmxuwlOFgEPr2M951SsqEvG-gLs4e3pAq6O4K7bN-NGWTav-muFqhyZZYcwSqA-qiaZANjgmWsV2GHVij0r3Frs7f0pV5lhqLh6PgB4nI2EmBvzrER0sNjXP3Lw1CiIs2yTbcoht6w2hi_n2hNXh-0952P5Yg7CThAaUXZN-5b0KKJ3w162llUMjeam5Ba1db169KYMkijwRUf6kjW8yTfp1Qwul1DUbjUg570qKq8XvivyueBJMdDmEE1YgO6-FbG7Lm7WfyNHkeVIQOPIPkxf4vQADIrTPSUzLJ4V1GRCukSfQ",
+        "width": 944
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105827650627394386230\">Volodymyr Shevtsiv</a>"
+        ],
+        "photo_reference": "ATCDNfXMiAMLodeXkscFZ_R7iMvSi7viM0H32JJzr7QZOyQzfKvLm4cTxjZELOALztmhYZ4kthQJ6EOM_W7JT9KxUi88Ohaa8Qb_i5G0X9suC_0Zd9TPsPKKPGc5nMjkBiTaVsAwKGGvwWxVn2uE6SNETA5Uhdsm1Ot8mCn0o_g5ixct0jnMzfwElM3JnS0CSyAnsu-tmEaYGJT7I2M6Pfh1O7Xycg2B24lx3xvD5y7Aa1wB8cHaZP6WGzayGr0qNcEhKhfI03A8Ifl6kMQjGovxvKi6-VfR3NMJqGMErNp5TZboanckzCJEyH_s_6f58__5V3XJZAoG40Swb3t9vyKoIhhUkLjggxkR7OzVSyPi8TryywlQbV5X-NrOnD48JHxUS7c7FM9anKWIjxaxJu2-Zkm22Vmf7kk8FbKndNnJxWnSpkvcc4axj6MUai2bSj1Q",
+        "width": 4000
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105827650627394386230\">Volodymyr Shevtsiv</a>"
+        ],
+        "photo_reference": "ATCDNfXBRNxJ-7ibUIsmGEkmzBgF7YgyzMhX76kjnqVVdhnyOOq_qRvgu732CXndCqWu6y7nJi6Ce3BiyG5cnDxgkRUbVVXzgXuiHuLMlNU-x_6HNHletgIdFXAtiypP4J9MuEUOLZ1IP-GgneEWFREimLrqFnKtdHdugpAji9U6DkQhlakh2n1z7f_7o1j-1FI5yArRhkotHVW4AEAvuRFiHfqV1kpluJnHOjp41sh1EEVHSJs3kpSsD82-_i9WIZqOaNv7390g-MehxA4yryatDQNv7AXhVgEnCOeG3FE1FN7vceXHgWsmb0DFSYj5c3K1BVDyxTdWi6NTGHBvbAfFZFNfiJZpriDZ3xxK3iUdj3qSgzhN8vsgFdhJbboTCu5sx7MC0GAbwrUXmVgxgI4YuGKPwklAx-HIQZf_BU7UmQnZdXLdE59ia-zf5uDkDzWo",
+        "width": 4000
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105827650627394386230\">Volodymyr Shevtsiv</a>"
+        ],
+        "photo_reference": "ATCDNfXaYgAkK5v_8wYOTJAfjx_atgHSTGPjto2hJ42LOVAvqGXrn6sOoS2mVfc4Po-vsMK0Gb_cwF1g2DfUkFvtednqWgrtXdLH4J9NVLIRx6SV8Mg4JKfH2a8xM0UqArIXvRpWS_5ChlGqXQGNt4ZpnonS_6YBCsZgk1F9gWZst0DUPXrk3S_3S7YO01ZGOtyijnbexfJph6oTqmJ2AuGcizzzvrZg4L6mZHx4m3bA27aJdVb-b11ALN6KXFrYAnVSBfXw2Aq0IQ7RxKDa3F4RTQtC37EPsPehkCln5pCXeTWBsId-vGHGJszz_G3PJtYMQooCK3T1nQbr4QnmEsLMJQNdPVar1lGLX0iSUaGevE07qEnuQrV9B2tuJj2kJQAsqA2tbbLjJAfTU38qKu05m6uLqICo0-hyGPZ3cSoPDgNGBTrcwup-DI4K7097LhvP",
+        "width": 4000
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105827650627394386230\">Volodymyr Shevtsiv</a>"
+        ],
+        "photo_reference": "ATCDNfXfGuu31FsOl7sjDfTqJc0rwR2Cz0wUrV8QlrFNjOSDBUw8-_2UYRnsZqthBYP7n8QkNXewB-kb0NwVsSVqkw8Dm7nQQyelXkYknsekgiCbwedq46SMxojousF-SHSgKGMeSu9aypDQBcygQBv8Ha385Jdh1s6xoTH6VH9r9YE9XIFCx7NvRgnux0Uj8svdBn9nm6tL8EgE5m7C1Jg2owOv-EhfUfw8YhDFQpTIM6fpqHyG2FbO9Q3a4EEqXRPaGe-5tEZowx-a5927XavAhFo-Te9dvqyadeylvkh2mo8k7K56PMVo_-57MX4ZFrJ7b4N-mXYDcEdOdgDNLLVwYfAhJqsjEwmUC8V9lpS_K-Zqyyxx1MollbstQZQZ4wrQ88rsu9r2Kf9qs4QBC-iK76ExgD0ES484x7S04pcHbbpljlj6hhaomOLVW00gDl66",
+        "width": 4000
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105827650627394386230\">Volodymyr Shevtsiv</a>"
+        ],
+        "photo_reference": "ATCDNfW_60f0gS8LKB4m-GCsd1DWSNewSVCvuKgGuSLsNvNy5i2xjbMQ38L94VLuZv7SwmuU31rdw8q_GOXlw924g-X5_128xbmwOVRsnIxe2F7kq4fR70wpEx_PKiVTSDaLWNLlmIQlhpi9Zl-PkAIwIg-9ggfV2c6LbUXIWq4-yUDD77OdhXlaCq2mtimHg3XomBYutlbJdEKQR-2WxmoiQgCnhMSNy5_zg0uAwbTIIT05XJ3dlhXzO-X8Qb4ojC1c1PCp9OolESPkEMOnyWygCURra1dLWdz6P_Gk7ZLqC8GfhciwpoDeIDDSIbIkB-L3QzzuMF4fZBwUvHLB7csWGsC5fvX7aw7BRpyyWgJXkAF5T9zVysojMxrnknkkNomZ1QOi1hCw2ei1taMhLvR_39j9Vmx0B1vy68P-60RwtyZTnnPD2OuxvT6FVpf2aw",
+        "width": 4000
+      },
+      {
+        "height": 2108,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109023571060934059876\">Madhav Salhotra</a>"
+        ],
+        "photo_reference": "ATCDNfWifDcSv8ag64uvjMcv8zXfC6jU-ibnwTC9ogYmPNEpNB_6WhAeBhEJ-hnXL9xkLZyEwRGX_C-8zZuIzXXBGPU5-jar5TeMyh_7dL6Sseu1rfOe1GnFpD152DgFdYIQAUjD8Ef_ShoXSV8MKIFQwxJChTlVpe1CqxhmvhiG4KmdFU4zHZGXAChjK8rheBvaI5Op8QWMlPQEEvWcrLRqtPNCJAo58AnZIaiWCgfO-zZdbSIEea76RpoW7GXppUVQvPqEtGJrOvyIHI_qcMMVWKc5t8b4PgM1bQLfFwD46Mx13avRllDNLJmpWngYKtlcNFgKjYiYSd87N6N6H56IYtSveo87CSoJ_sP9ZZgN7qrTBFVmrmJZwPOWU-8b0nd7WW3EWegQoRFiy_yE30FEqs0sKHoUbRWAJoQKKEH3QpQ-_g",
+        "width": 1134
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114136738661573798239\">Ayman Abazid</a>"
+        ],
+        "photo_reference": "ATCDNfUC6ReFE4fRS4MVA0lAMPXxyTxYNvLZwR5LbBwewDaozQK8kCaRkZJOY4csk9GnFvXurzB6c_fuE58rWIeLiI8Buw1jaJ0BR_xzHsv9xk6-CUrd7VSPz95kzVxTHEEjs8eY_QDWa2W6WFEk_nzup4g0mFf_tZVarycpe0yDWpDZYyXTXLjkDr49AWAlutJCHzIEvaf7HMRaImjixHbp88sD9x8qBlyvNh512h1whaQ9rVwPnPNnaZXHSvOeQFPYTTU0OfJf_a_Zg-VW5Z8kxP43NwgLoytaYMZJ24VLZBP7Jx1nkJWGvf7btv2fd2LhbGhxmqXm4U2yEvCfdbLptXlar1Nn-GOcFgDALpCPQB4MsA0Qftm3KNFecNEr-dV942kqt9ygGJNwH7C1BKG-Ru7C7L4j2mc6xVxKVleCnnnqVT4",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ62tjVeBJyUwR3X91j4od4_c",
+    "plus_code": {
+      "compound_code": "9WRH+R2 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WRH+R2"
+    },
+    "rating": 3.2,
+    "reference": "ChIJ62tjVeBJyUwR3X91j4od4_c",
+    "reviews": [
+      {
+        "author_name": "Shauno Buhr",
+        "author_url": "https://www.google.com/maps/contrib/109272418873248275600/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxBp_IIoijItyYB49LxSr0gr57TwqW8lv7cmPvP-UhWsUkufew=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 months ago",
+        "text": "Very dangerous driving, merged from a rest area to the passing lane almost causing a potentially fatal accident with me. No one picks up when I called the office...",
+        "time": 1744745008,
+        "translated": false
+      },
+      {
+        "author_name": "Andrii Hadzalo",
+        "author_url": "https://www.google.com/maps/contrib/109815025740893191544/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ45DsaQNe206XwxL51bUurR4LzpydCacur8Lmb4ZseEkjozA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Hi. It's a good company!",
+        "time": 1756150534,
+        "translated": false
+      },
+      {
+        "author_name": "SEVAK BRAR",
+        "author_url": "https://www.google.com/maps/contrib/108429980972062062165/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiIE5-5-RxmS3IF3mClriL4Fcei-ErQJgIPCF74EGksedR6A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "8 years ago",
+        "text": "Its a good company. For drivers they have good loads",
+        "time": 1509702246,
+        "translated": false
+      },
+      {
+        "author_name": "The Final war, The Last Chance, Repent",
+        "author_url": "https://www.google.com/maps/contrib/110992032306982717477/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4V_lZYjrGS5PzoEMqGMDUGisspsIOdZWxJtjQrj7ulyg20gOW=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Good company ever to drive for",
+        "time": 1595192881,
+        "translated": false
+      },
+      {
+        "author_name": "Madhav Salhotra",
+        "author_url": "https://www.google.com/maps/contrib/109023571060934059876/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7GnhtN4RBverJ6mlDtPS3lV7qggGAzF1SdmOygW2wKAF0_reP=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Excellent company to work with👍👍👍",
+        "time": 1616901537,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17862153028031053789",
+    "user_ratings_total": 42,
+    "utc_offset": -300,
+    "vicinity": "500 Mnt Labossière, Vaudreuil-Dorion",
+    "website": "http://caravangroup.com/"
+  }
+}

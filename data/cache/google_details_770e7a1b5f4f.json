@@ -1,0 +1,304 @@
+{
+  "query": "BETAVIB, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340687.0242517,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "181",
+        "short_name": "181",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3V1",
+        "short_name": "J7V 3V1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">181 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3V1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "181 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 3V1, Canada",
+    "formatted_phone_number": "(514) 788-3630",
+    "geometry": {
+      "location": {
+        "lat": 45.408581,
+        "lng": -74.0444394
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4101058802915,
+          "lng": -74.04327096970849
+        },
+        "southwest": {
+          "lat": 45.4074079197085,
+          "lng": -74.04596893029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-788-3630",
+    "name": "BETAVIB",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 706,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106845130259834209849\">BETAVIB</a>"
+        ],
+        "photo_reference": "ATCDNfUIvDc2ALdDWZRYT20wrsFxd5UzvT8BeyR32NJc7G89lej7QKW7Z4blPmFegsKzWIRffxZiaPlBOduEVt3KoPnjH0MdoA4CutGgCJyKSvKTbxwvgJUGbXdCg3zYhaKMW5b4G0L9YyZuSsK2FkMaf7hEdtX60DYtsrM_3S_GmBJnG7PgO5Pmuy2Iiv1fmg3ZIghU4su-jexArdx1Nw7Cihzhvou6qJo6myy1zI0UouNmqAX3ZArp9hPHo42uleMLykXOmIHxHxwRZkuZj-MY7CP0DRd8-8HHGsD5R9nYjGXdHQ",
+        "width": 1139
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111911833043835033731\">DARTH VADOR</a>"
+        ],
+        "photo_reference": "ATCDNfV3wDxwcmTirJ1HkHHZFWbeHaDnMAQ_Q0UXiar6nKCIanzdErNJpa7TTs5qjQQGvUW4ib9aAaIaXS5Pbb_ax_kzdk7HEEO34Zx6KfT9CHkjeusQvth25XoRH_Js4VTgMymC09bdu1U9RKk_-7K4oQ8KlsfurURneSplt_VLnxzCI_8yC9rTmEWBivNLmBVeuwUrL6QlJ4I--N-FdbLOv6CMLbd7r8b00fWEer4B6pVmHaiqrKzcgii7BgY_ZRhFMa-tW52xJwLm0DD3oasHI3HiW5TOOVynxb0wzm7Ts1TenMIDyhcPnRuDk7TElnZUzhN3wDZvPA0InNwttbp0YzVR97wHXY3aKHtHLgQqu9ihAuIEsNkspYlIey556KQvgD7Hh_aK09lDcwfccb-jkmXmp4Mir3egP4L0iYFGP8cDCQ",
+        "width": 3000
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUczRbdquyQMan3KOz41dUtplVkY0x2CuDz85cmztw0lvMEstZauQdWWulAHdFUq8KT8A5giLn6qqWnJKjoGRIxURMXjg1j9c31eolUt4Fgxd5HdCM2s_uEYv2ekwoRddk8XimaqLBfVY98OenAtT-qJ2P5O_W7kgPSaVuYl6aTRyxopBYf665gsC-q8BnT7DF-9xrCCmUwSXDcBZqieaCfPLh2BTSjI4sFJ5dpH9xnmqnwCWefleLxATxu-_7JFQzvJ935NNDAHS_3bT7bWbx6wMcr50EMZ4nzTW7tD1MStIe8Yuiyx5vgnipcpMU0T77PBUrBx3pAvJOT-95LqFrIybHWIZF-65ZQ-6MF-FyOaHFWIAJQqmPGLLz92dQIUANmtp5IGhCa4Smjm-rdAUZQ6BYbPIXh_F1_O1dGSTqJpg",
+        "width": 4800
+      },
+      {
+        "height": 3407,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106845130259834209849\">BETAVIB</a>"
+        ],
+        "photo_reference": "ATCDNfWaUYXVeu0jpYGndjdKbqQz-VEOVi1PtiqjqKtTf5tjUiXqPGabMjBYEYhy7TCGPd-9pMGW_NPE9Ih28Gh0T3rEJrurnw98MhxU4qZv-sWxpaJZLgxuWV0VdzPf1x7S5jV0cVum32OyaIetTc6afms08I4TqrxZzkNrG4ujjws8J4g964VGXUDxAiQk7wnDZGW51bbzccxJgWOxhcRWaxtDD5z-Ws4TuUNek0LDkWDftDOHVG7--F50Rsg4eaNxLJUWAy9dVNRSOJmK_LuH4YteXrJ5hyUYhvwoGQUtvOEE_A",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJ5VJFbxdIyUwRU7sySlDIZ2A",
+    "plus_code": {
+      "compound_code": "CX54+C6 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX54+C6"
+    },
+    "rating": 5,
+    "reference": "ChIJ5VJFbxdIyUwRU7sySlDIZ2A",
+    "reviews": [
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1653431368,
+        "translated": false
+      },
+      {
+        "author_name": "Shashi Prakash",
+        "author_url": "https://www.google.com/maps/contrib/100495880182818335168/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUCjiD6Rx6b6H6s3dJGt9KIPQ00LTS3gIKpLjMGzsgGfGf2xh2=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "",
+        "time": 1535871941,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6946741197410057043",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "181 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "http://www.betavib.com/"
+  }
+}

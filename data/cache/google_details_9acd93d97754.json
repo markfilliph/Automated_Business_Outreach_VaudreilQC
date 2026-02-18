@@ -1,0 +1,394 @@
+{
+  "query": "Lumen - Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339043.3749185,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3665",
+        "short_name": "3665",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3Z2",
+        "short_name": "J7V 3Z2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3665 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3Z2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 5:00 PM",
+        "Tuesday: 6:00 AM – 5:00 PM",
+        "Wednesday: 6:00 AM – 5:00 PM",
+        "Thursday: 6:00 AM – 5:00 PM",
+        "Friday: 6:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3665 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 3Z2, Canada",
+    "formatted_phone_number": "(450) 510-7487",
+    "geometry": {
+      "location": {
+        "lat": 45.3878367,
+        "lng": -74.0788098
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3892032802915,
+          "lng": -74.0773587197085
+        },
+        "southwest": {
+          "lat": 45.38650531970851,
+          "lng": -74.08005668029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-510-7487",
+    "name": "Lumen - Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 5:00 PM",
+        "Tuesday: 6:00 AM – 5:00 PM",
+        "Wednesday: 6:00 AM – 5:00 PM",
+        "Thursday: 6:00 AM – 5:00 PM",
+        "Friday: 6:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103289922772006147217\">Lumen - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXVDd1pqp7QGLKD9EYmO8WCU2WmLf581nanff7AlTXy5YfNPqf6z6gzXbepvYhReQJ2umnSIVFO7nBdxIhl-BIPWCdpD0aoRhHFcfo2JFrVtpb0JmzzFDyC1dVFrO7ONGWT0uz7C5FfORc2g13FJzCjuXRIw0-LRBbUpy4cjBaqf_T6Xa9LApxuiaFVDJ0U0eRBoDYRQ4smDPiuiRxefDG_XrRwW7VuDHHGmnq2S7rLIgNEhI2BstF8XLLO7mvj8XVbb2pN7_B1Cau67NHubyxoP2sn1eTjoh3xEHbpUCOO0w",
+        "width": 4608
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103289922772006147217\">Lumen - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWWT5kckcrPKrcygN_0ZjId7eluszmOxiaPFkxlJo118JGFfeGQ9-JJuU5L2-jCVuAp5M2llOm6bQT2_gQ3DwORwhY7abQGfvLV_BA_U6KBLmcUyJRJj8KhWFrrpNm-Utj_Y5-5RTObrAKpJp_-GZZ6Bv-d7Mtk_mhjc34EUIubrOwXeGyW6ns0UIlmTlYdPq_FCs9Ye9oVlobwZYiB-m7Q2sKalDfCzns50pmWoDyfcpqNVCwajVi8akq0IjaopQfR05xCAOMCTim0-l8BVusR_Iw028tqjkwxrx4G_6fndQ",
+        "width": 4608
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103289922772006147217\">Lumen - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVZNFS4OmQaZM2Hg30AH_WwhSGTthywQMeaukl63eMNhCV1xQ3fb6DmOUZTtyK9TO1IlldwkK6W9AkqUC5rvTmW2_zX1_v9dI6QUUvNXCTheIeCDUs3tsz1RXFvcvMJGQVXNfXo17wfF2UtdS18EbGGeP2WTAT_o6hmpYtsFDZU44jG2MSNlDgknbREHPrZd6r2qE_3ZJbZUvmohQFQXIxlaYyYjTzl3o_NTStRAHTi8iqpPb4ml4tSL7s7WntShgWnjt8inDE-rb-w9Fx_J2rb9VoxYHefI0-OVOonvdP3EA",
+        "width": 4800
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103289922772006147217\">Lumen - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWtVQymdoPVEOBvA5gcpq1_KMpCV0wzcrVvTzHCiF2skaKzVG1-ZNKl0me1jzgNnauThF2IQF1JinLSVrRIzVaxIKVcsKChONZbyl5P-2lzGprx3SPx89ZumRuOj3fsFE2CoXSZBxTOJjSlQ3Xkny0sp1Q34dNqnQkH9ycKW0jKxSxQZRKQev93JKBa_4mqwM3hOTnypVxiGGalvFMCe_3lq6STjppUp8RQTL2IKIGW1I_TqF5lOnrrTLI-o2PdKgrQBeO251TVfnLnRkxy-ihnK9EYf82ex6zY7xXdTx486g",
+        "width": 4608
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101634527873667857452\">Alex DE MONTIGNY</a>"
+        ],
+        "photo_reference": "ATCDNfWfCT-u08qBFK-wkgE4r4YKcj5e4JfmtulxB8vdqoO3VczvT4anmrqDKMQbAbZaBzkCxOAIJMc45Wpv7SyBsaz-_xZvwZ1IgEQYC5MFFU9osd2MMqABtdHuJ7iRuy6D-npkNAGnnt_zivNf_xrXVt9qI2ZlUFYodufUVMcIVgEe4K94o2tfFumirhIUciFgMo-cd0lYfGCedfRP0sPUoN0M96s5Z3-gO0el00CfFMoq3wi-LtIje0fEUjmsGVh5nQt8dXZLNxdEi-MqGYOeBV09VdBQ4Jc0I-ndlmXTkS1B9GnGnOaCzRoRyRZycg5bEPLvv3p2vZsSs-g0aO1jnlHzs6Fs3Y1jJ3JKJctv_JrmF82WmScdiBO7h9lLU3gCwQVVlcH19EJZhHPJlArsFntOfvGRBDpTIQm9bCAxBxE",
+        "width": 4800
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103289922772006147217\">Lumen - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfV72as8AwiHnGyUzN2F9h0UVwTDaCDqAtw4RCoopOjwC3VKnypwCl6w1rR1B7qa_9wUiahw48ynS5vWU8YQFlnUtjHfrcvsuCUfJDkHycBNNQLE2PgIWfmdTEJsMbqbkiLMdFP9oTOa3dD790Q6peTA6L_8di0JEnAXZTzoeytGQ4t2fCL47scFX7kTlVD_RKQHUw0Tm8-ftZHdy2zCRcKCR10xEhWZMo9v20Nr1bk06ayNo_nOciapcQcoO-nIbIjN898KT3qrCuYyIb-UKyMPDwDG0F2WNMUBDmheyMMBkA",
+        "width": 4608
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101634527873667857452\">Alex DE MONTIGNY</a>"
+        ],
+        "photo_reference": "ATCDNfXlYNETZQ91dSh9e5eUaJPRCZAdFMihc6igO8huhY38swbDvUhTNiEu4vYUt8b8kmmHRQsDaplS3VCnZ9bLGBiKzOJVQ2qQxgZ42grAxkmJbDGWeVEtWFs-yEOtbjkulyrglg2ZiNfs7B7VUSD84XUntCP3HgskAHXPoJQl-9aQHwEV2MQf6fppMCBQ--44Wo9nx4PTyqfjkTq9gqppP9lR4LmO2eBtnGg429XGnk5g6VkSa7YD63FU4f5XT7nv5YuECfj0ZJkOXC3TDpnjB9Er7Iii58L2Mq0OuGNox3ODmgqseBZoNC3a662h9CkewPiv_swxUiJML_5XQEkYQQAMi3FnNbnpT7m7DcfVd14t5N7HubC3sZDTPkyb8pmpwQ6Ox11I7DaBWcDpLiB778UuZHE4Uevc6EcifgQ5_NV7BA",
+        "width": 4800
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103289922772006147217\">Lumen - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUuT12MKF5xPCwy4jko9XYEqsE8BQKe-GDCZX3JEUDdPvju07ljrtSpDBrnh8fUX-YMkLxNZ32Qx2Z6td1Jo-KmgOUkOQAr231-ngV949yUM_AAlkGsqV3cIvbJqGAasHah0F3feQMZXqCqTxtOr4tofoAMAKgQg4gCSRq1FAS8SyCS8RmSQb2K_sMHbnby89PCgp08YmN8kFeYWmNvjZcH90_tch6aF-SgUPNEL8bBsW2xLRkrG2X9d67W7DIS58MkJIHFf_JU8QNnZ1FyYVlDNfjCZhXM_q7HiYE3Xnumxw",
+        "width": 4608
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103289922772006147217\">Lumen - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXz1ZEZp0L78nhGDGYxQlOEkb1iDTBRL948QKnGHP_ChBc0M0VNcvsaqX6xNw8-3XVSUdh_KV27KJPC_s_PHyqMNFuRyLaCQoKlW6xA8I9_v7PjgfZg2ll-tawGUAMnoa93gFFLak5QJsMZj03sDDB4k1Z_JFEa-372LaiqrLlXCC6ednmb6eVHjmVo39xoo7tSsk2mqlBsKniXpJPLh376T7NzJgEljDSbA1lXqZTKOfzCn1-bb-2Eoyv2xSmj_1T3PCbe19l7KqG8pqUR5qOZzwWiZ43Er8M3QQ4MkaJ6QQ",
+        "width": 4608
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103289922772006147217\">Lumen - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfW6wm1OmKEJrmoJHwAAhl0s0E9_wNN5R-Zcu1HMzpx3icS-PLo5e1dAv6JeFXW9_ecU2eJX_5R8EJvqBjQDiY0cN0uVt8Jqi2Y5KkPNj_q05o5trQuqZSXIvDYE5sltsGoirGPPvKgBdzS7UMFCkELm-arPn4vdFYkXkDLZWKyo4faT1QpRTWGhP7m9sq295teN-Gl94EPb2mSf8J4GEHLJBUhbm8zJSEjB6G2NWKYEqCwcKlJMtGvKSpxmWhTvlZ6XiDqaXdWPvVrxCmKa4ttmg4qBBSAP00unuxAkSoSt7A",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ2bvUAudJyUwR6vPwP0_RrbA",
+    "plus_code": {
+      "compound_code": "9WQC+4F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WQC+4F"
+    },
+    "rating": 3.8,
+    "reference": "ChIJ2bvUAudJyUwR6vPwP0_RrbA",
+    "reviews": [
+      {
+        "author_name": "Corey Barber",
+        "author_url": "https://www.google.com/maps/contrib/112350683208495178090/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzKh1aW69MpHcgHKIKiOfQiz-xupyCQNqdXHnF83Gu9ESRkQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Antoine is the most helpful. I go to this lumen and not the others because he is extremely knowledgeable. Thanks Antoine!",
+        "time": 1769045741,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Lumen saved me when I needed to purchase a replacement Stelpro in-wall heater for my bathroom. I couldn't find the particular model anywhere but they had it in stock at market price. The associate working behind the counter is knowledgeable and professional. Wil be going back soon.",
+        "time": 1608172043,
+        "translated": false
+      },
+      {
+        "author_name": "Brendan Caya",
+        "author_url": "https://www.google.com/maps/contrib/105810495031224416149/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt55SttP4PD-B3eo62AeI_eLfA38ysKmhkKYBgXQgEdXeuIK8=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "Rude service. Not even a hello when you walk in . Order online to save yourself the negative interaction",
+        "time": 1748543731,
+        "translated": false
+      },
+      {
+        "author_name": "christopher watson",
+        "author_url": "https://www.google.com/maps/contrib/114885688347646624965/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv5zxRQ2mxDU61mR1vZL-OB0kDtfRrI5DjMMD1vWGMsfiv=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "Horribly rude and unhelpful service.",
+        "time": 1753394343,
+        "translated": false
+      },
+      {
+        "author_name": "Jay Weiss",
+        "author_url": "https://www.google.com/maps/contrib/118362261203964440551/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhkHKm036KhodhGQEuH7mqOB09_SzxU0lbZ23e81G5cMV1f5Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Good service",
+        "time": 1545276942,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=12731061859951637482",
+    "user_ratings_total": 13,
+    "utc_offset": -300,
+    "vicinity": "3665 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.lumen.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

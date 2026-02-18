@@ -1,0 +1,362 @@
+{
+  "query": "AUTO MD, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338051.9138904,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2895A",
+        "short_name": "2895A",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue du Meunier",
+        "short_name": "Rue du Meunier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2895A Rue du Meunier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2895A Rue du Meunier, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(514) 418-1207",
+    "geometry": {
+      "location": {
+        "lat": 45.3708868,
+        "lng": -74.0337827
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3723082802915,
+          "lng": -74.03249681970848
+        },
+        "southwest": {
+          "lat": 45.3696103197085,
+          "lng": -74.0351947802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-418-1207",
+    "name": "AUTO MD",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106539936819717756392\">Eileen Kantel</a>"
+        ],
+        "photo_reference": "ATCDNfW6Jvamwcz6bRN12hpTC0CXAyBp93eI9pSrJxdkJ3eZUMaf--nC5pAc7idmzjMuLHhNuJmYu2Qog2F0lp6MtYc1-zEnlm-BCSnZqp_HBss9hTwpN8im60QK3nTbhKHemZ5Q4oIVTyCEjlZO0mSqWqZiW2aubVSs_kkRyj_5hUcykWUD2FA2YcbCOf3VeBcMA1dyE3SZ9W5vUD8o2R-NvH2hSxZjCDme2TWIGztNvyfDnedDoCpAKBgT7XWTmhpv2PnyBDShHOcUSXumAJ75OSIw3r42eDUPGznqfrao-jJEAedHOGOSKnsqk4P8sDpCVLPTxFFL-W2BdJkVo9L90AYgBS7idQmaq8oiTx5lRc964yQ1XvJA7nC3nvnf8bcfNr9ea-IHP31qAB_yL3e-q8UHrubOPZXvha-0iDD9FPSgJOjH",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106539936819717756392\">Eileen Kantel</a>"
+        ],
+        "photo_reference": "ATCDNfUdA9atyFVenVKFVPHnw-bipAbU_-cvnVTSdJXZGTWBSo5efIRiC-gLyFOPmh4nUT8TzOesQyw3RmK6Dy1XoIsHDbjxTxxRUvBanqHY4CZkY0URSC7pb0y5ZSWCArfYPLlXkWrx7Wuh8EiLl5P-AJXqmw8mWXt4H7klVwtq-A1tnC0xbWcZZbKQLYjVQ62EvUxd4e-_rJCnAbNLy5k6LAfykWH2LyYwLKCbtJfaXiy5Pa0-JN8CWs8i2nQNwJQxMgO0zjBR7it9NXRuEyTrA8_uSk129T_X4MDkmT3Z0fOUqaF8h49q6ZO1rnGGVUTfI8MX0UFna4lfUGCrLSXX0oFuRcvAEVqCOgxXdkft0obYG19tSSbLPgRkgI38F1iVmWGFmwfljRb7hYgPirMBIZqapN_Tc9ARJRGHj2-UC5yNAA",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106539936819717756392\">Eileen Kantel</a>"
+        ],
+        "photo_reference": "ATCDNfWDw7n-gLs_K4cw6GnFqNh5y-N_w2EmXJ3pIx_3aBg87rhWPdnipqHZC9rtlhz-4kdeYIPZ7ZdiaKMasxqKayFppDTRt-msLEgB_XdTvXG6jpkrf1ihUdO1HyGIbutnHeIX3fr2uBpv2S2UgWkBMsvJzQHhX2ea1ShxlLrJqLlvR7OhxR43k7XnpwDQSJY5h01iL_7WhDMnPip8gJKoaSupDsnZaKgTsyjjdo0iMDI-8q3kVREgRZ8NNvgqTAVsP4UAfkSdadgyw07T8v_41QiHlF0SHSFqtzPThbLdClkY0FWdWzaz0i5iCiUEZkRAKMGpSaftOCOqc7Unmw05Ab9jolqJBUfAxYsoruWwfd7indwIf1th8Dao2pGb_H4oK2w2bpbJOCFq6WnfHNa4NtwBhwz4XGHsXp-_RckBvAsnEw",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106539936819717756392\">Eileen Kantel</a>"
+        ],
+        "photo_reference": "ATCDNfXcnk--2DZvZzJgt_uv37T_-wwVgd6AWl_8weTV38q9COFw1btcPYYlKQMKCM0JClqVPdFyc3ve-dzBXb5K2z5_9Ujzn7Fs_LaVYkE8BtifoKJoPhMQkz_PVm6doXui1TwglceWd22IQrzYgo7XYsCi2K7aBKrdaesF1u9vlCMHM48O6XD9HvuIF6fU4mJxFxuTEI-1gpjLADCctFfdlGExXru6tS3tqO0V7WfXDgeiFmFJmuaaWQ_LgvjQTnGXuSr_5epL4UaQ9u4jnR_akLmPzJtnrtlnDxeA6oCaedM1pQ1nfM38kHybdcewHQ5n1k3i23po7NCvuOuLwo1O3ovKdpdcJpgz2fUvE_OvjDxudVqygvHhZ70FvERfcEFdw9esZUno0U6zSukwWQEE-IAnaNefPh2PPVOVIbMT43W9JPPv",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106539936819717756392\">Eileen Kantel</a>"
+        ],
+        "photo_reference": "ATCDNfX61OV3ehqHZNQjdIiK4l9zrWzNW7_Knmarrbevv3wXLqXec9r9ni8V96CInW7C9oBmkYN2Bxfvufq515IS0QsBqDFV6JtzaRAOAxJyGpMQQoAbvC12UmQjZ-q4m8vIzJqmL9-iHGohIHiijN99eMYfGstXAEAzX3pkMwiq7sBcQl-b7tBogNwOtDBtVu0QlokACDVMxYOD2YN9CP7mWvf6wT0WisY_BLrzzAgf8lbYrCzTcOxBnmAbDNscI04ii01z7jVA80vZssJLEmrSwnl1fEHGklE8Io9xxgUM-RINAMGrV7KxK-CufftenXbOM4Cx1KNsR1_HMBfLqYqSZg_sUcpbCduDAa9qqm7mXrTne4aAEzcE3og025uG_qjuNz82Sd97BdhUX2wR3NwHUldG4w6EQbz6w2ogjvWRb3rvJA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJU1PGXj9IyUwRPBqIT5mkblQ",
+    "plus_code": {
+      "compound_code": "9XC8+9F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC8+9F"
+    },
+    "rating": 5,
+    "reference": "ChIJU1PGXj9IyUwRPBqIT5mkblQ",
+    "reviews": [
+      {
+        "author_name": "Jeffrey Casius Thomas",
+        "author_url": "https://www.google.com/maps/contrib/109004765827867610225/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUscA7AjgtDkVwa-hWxeZE4C6vc0NXdhXAnp89aGdFhsPsKrSU0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Excellent and efficient service. Mike fit me in for a same-day appointment to replace my front bumper and handled the job perfectly—all at a very reasonable price. He’s honest, professional, and highly skilled. Highly recommend him and will definitely return. 10/10",
+        "time": 1741654470,
+        "translated": false
+      },
+      {
+        "author_name": "Linda O'Grady",
+        "author_url": "https://www.google.com/maps/contrib/116397653710354219760/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeTomuOYS1lxeeOwXgCi7bgRS7sqMi5OLavl4y85CvPYK0qQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "MD Auto came highly recommended, and so when we needed new tires this spring, we tried them out. Mike was very professional, kind and patient in providing the brands of tires we were interested in. Within days Laura had set up an appointment. Quick and hassle-free service, and reasonable prices, what more could you ask for? Thumbs up to this great local business!",
+        "time": 1621804848,
+        "translated": false
+      },
+      {
+        "author_name": "Taylor Watson",
+        "author_url": "https://www.google.com/maps/contrib/112798408248001136098/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUcRqY3davl5am495mLqCdwlj5wmsNWY0whj8k7c7LQs-d4wU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I had a wonderful & stress free experience with mike! Quick and honest service. He will take the time to explain what the problems are ( unlike most places) and tell you if it needs to be fixed right away or not. He is very friendly and will answer any questions you have! ( yes even the silly ones ) I will definitely be going back and recommending his garage to friends and family :)",
+        "time": 1613162568,
+        "translated": false
+      },
+      {
+        "author_name": "Paul RR",
+        "author_url": "https://www.google.com/maps/contrib/113072628515702172781/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH9w_jcQTJ-7czvl6OpNGEJNuCpZyoBGMDyCT-nulbUOakRQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Im a new client.. Mike gave me good confidence on the first phone call and just did what is required to fix. I would recommend him even if you have to travel miles to get your car fixed. Great work..",
+        "time": 1651007714,
+        "translated": false
+      },
+      {
+        "author_name": "cb7pwn",
+        "author_url": "https://www.google.com/maps/contrib/103003815098294140059/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhZeEAUkJMFKrEXR2KDN2r4ENRjnt6T1OXQBb-xRbCLreXUg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "The guy to go to. Mike is good at what he does, he'll take you in an emergency, is fair with his pricing and is HONEST. That's the most important thing in a mechanic, a rare find now a days, Mike is! Highly recommended",
+        "time": 1593112636,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6083981124995390012",
+    "user_ratings_total": 62,
+    "utc_offset": -300,
+    "vicinity": "2895A Rue du Meunier, Vaudreuil-Dorion",
+    "website": "https://www.facebook.com/Auto.MD.Vaudreuil/",
+    "wheelchair_accessible_entrance": true
+  }
+}

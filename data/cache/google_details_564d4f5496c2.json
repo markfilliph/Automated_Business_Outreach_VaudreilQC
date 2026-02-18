@@ -1,0 +1,304 @@
+{
+  "query": "École de conduite Tecnic Pincourt, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371438.6539817,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "93",
+        "short_name": "93",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "5e Avenue",
+        "short_name": "5e Avenue",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 5K8",
+        "short_name": "J7W 5K8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">93 5e Avenue</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 5K8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 11:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "93 5e Avenue, Pincourt, QC J7W 5K8, Canada",
+    "formatted_phone_number": "(514) 940-2273",
+    "geometry": {
+      "location": {
+        "lat": 45.3820771,
+        "lng": -73.9937398
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3833446302915,
+          "lng": -73.9924127697085
+        },
+        "southwest": {
+          "lat": 45.3806466697085,
+          "lng": -73.9951107302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "international_phone_number": "+1 514-940-2273",
+    "name": "École de conduite Tecnic Pincourt",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 11:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103423089034538148261\">École de conduite Tecnic Pincourt</a>"
+        ],
+        "photo_reference": "ATCDNfUhd14IEaVUVwfBt-9WRtsU7KKBsvLek4fOXrb4SeBA6RH1p69o3Il3OwACL5t3K4VibmVGxCi9y4RIb8h2gybiFhAPgP0uGQ4pqq_GRYfGTA8D7NJl0l2wpmv69iYVI71_xI0_4KXNERx9G8SDmcRI2MSjMWf9B5CDH3xMxRR9H9H6IO5WOeTL1TP253-A_5Ck_xODBnVtK4Oz-f4qBQi3wuMq1BW4t41_uempaoVugOCEp-4GeSNMUXjVTFWWld6T4TrNwOI62YsN82kSDWkpueZVDW20GNXjkRtsZcEhFA",
+        "width": 720
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103423089034538148261\">École de conduite Tecnic Pincourt</a>"
+        ],
+        "photo_reference": "ATCDNfV7g-o12nAg6VSNp2NxhUOpHthrB8mvMkkQ36_ohLS4jtkGh4CfYQYN_VuiMRki0dwaH_ND33ruwsNzUAQ_1x0_jejqnqWFPxF7wb6EfgLHY_h7-sQHGn-A0ot3PIq_i0xqlr4h_8XHXl_xCQjh-rnljM9fcbIZahAKGPezQ-05syNZwoeH7B2eAVDPTNgMmFzczwNH_fmCxb6iVfa8z2kbU2YxTCFktHvgDrZWsJaR8rTPXWIhwvNEQMaPbwv0YOAfXvpuulbJo86kpc6vUsUN3K6Ttz5oXaqciIaUbSw5xg",
+        "width": 720
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103423089034538148261\">École de conduite Tecnic Pincourt</a>"
+        ],
+        "photo_reference": "ATCDNfVLvic4Ysd3JoGAW1WXDw2DIwZe1INELWCidkiDnCMpVD45y-hYQQAYwRI5rjS5cBjBcSu6ueQbaXDexF6pCAdf3QMegJI0gNnJg1uFnPrzpXMISN3AW96BHiCs0-3-4FSgFl7k41je_ou5ilodxuW82X6SMRjLpmPNpGHC4C-ntzOhXQhpUqcy2mm-BKgT8D7QFg6lcLZpmezNcYVf0o0yKiRzpekR-j2T268JUf2l8sbR4rhd--oFHolrrE2Y9LEvqcFjyLGI7YZJK0XXs43dbTnq6kXQZbxTog1FiwLxBQ",
+        "width": 720
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103423089034538148261\">École de conduite Tecnic Pincourt</a>"
+        ],
+        "photo_reference": "ATCDNfUt0mCpEctZByqBTMP3ih1yw3jD6p5b01VrQzwSZLZPgVcnZ1Gblj2qHWAZQsFyaJ9huf_nbqCkFj_lTrrkMua0qkY3tfKT1h8z53PVkKdgBJAMa_Ea5wlLzT4IjV3zMwBboE3Dkupz9MHRENbXa-K8LdKy24ETTpPrBW-mi_stBpX5RJ6USsSMnz70frfMPESGQulVvkXWC9DJkzbWMlgheaEIP-OE-Skb_wtukd9RXszrsFwxQ1NcB7ixxj5b7Zs_nlKs43xmJMR3-oMDsr4W0qPIX8veg3AvTgK7cq01jw",
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103423089034538148261\">École de conduite Tecnic Pincourt</a>"
+        ],
+        "photo_reference": "ATCDNfVZvuPtVvkIMW_cFpkhmmLwh8sQVnoZyJC9IxHMzLtnzUdR0Mt2acvCDl1OIEQbCdKhPLHFOnQOnGTKb24ByjhXtC7Ziq1mfJuU8mU3vuRd-NFUwtkDACN-2mZ8Si9jsd4Zi21YUbCi-hQC0_Jv-axgyJM-0dQlmRtaClZKDrr5LLWOfWkZMPjP4SZsasUraNG8RZQCw9tbSnQ9bax0NR0nTCxHLv2-4cfaRqqGeYfxFR_MUNXW_Nna-NZNK22YxV87FX-rIlWs_-jFlIjrEAS2BSDATcDRipBSpYNPf1Z0-A",
+        "width": 796
+      }
+    ],
+    "place_id": "ChIJU7oyDvVHyUwRFE1tWF8RqpQ",
+    "plus_code": {
+      "compound_code": "92J4+RG Pincourt, QC, Canada",
+      "global_code": "87Q892J4+RG"
+    },
+    "rating": 5,
+    "reference": "ChIJU7oyDvVHyUwRFE1tWF8RqpQ",
+    "reviews": [
+      {
+        "author_name": "Michel Couture",
+        "author_url": "https://www.google.com/maps/contrib/105193587852063666078/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_x3pRBRnRo80sTYD46wOb2lJ8MQaVnrgvMWJ_IyMi0x_9fw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I had to call to find out my account balance. I spoke with Kelly-Ann, who was absolutely wonderful and even followed up with me to correct an oversight. An amount hadn't been deducted from my balance. She was incredibly patient and attentive in her service. A huge THANK YOU!!",
+        "time": 1770136391,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=10712393764857269524",
+    "user_ratings_total": 1,
+    "utc_offset": -300,
+    "vicinity": "93 5e Avenue, Pincourt",
+    "website": "https://tecnic.ca/"
+  }
+}

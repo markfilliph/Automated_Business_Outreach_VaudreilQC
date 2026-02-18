@@ -1,0 +1,320 @@
+{
+  "query": "CMS Shipping, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340289.9789512,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "200",
+        "short_name": "200",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J2",
+        "short_name": "J7V 4J2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">200 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "200 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 4J2, Canada",
+    "formatted_phone_number": "(514) 956-8585",
+    "geometry": {
+      "location": {
+        "lat": 45.4091348,
+        "lng": -74.0455143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41026703029149,
+          "lng": -74.0440594697085
+        },
+        "southwest": {
+          "lat": 45.40756906970849,
+          "lng": -74.0467574302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-956-8585",
+    "name": "CMS Shipping",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106634093148849594114\">CMS Shipping</a>"
+        ],
+        "photo_reference": "ATCDNfXS-Fyk8W1xpFaX21X2BHKa4FZmZ7JmxhDSlmaOao-31YYTt9lf0gfU1DvFuGvaHW-RS2YkBRbGvRs-4d7dCAcifS9IWuT152LdPrnfALVx3sjN8fM-0PV2yvoy0muFNaMAhctNX2cFJDwA9n8VH_9hOLrO7x58F5fI4W8NTAeCBApxrSDC_lunPgpcvT0hynKvNkV43a0_IO873Dsn09ch677mf9KJWxiEj4PGwZ5NWVNCWYLGcv-UpY2yWwJEuN0nFRUpqmJqRjN1UT3XiqVEg9N0KcIQagnCwd0Zzi5V7w",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJR3OfxkQ9yUwR_4do-W2tf4o",
+    "plus_code": {
+      "compound_code": "CX53+MQ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX53+MQ"
+    },
+    "rating": 4.3,
+    "reference": "ChIJR3OfxkQ9yUwR_4do-W2tf4o",
+    "reviews": [
+      {
+        "author_name": "Katka Hanulakova",
+        "author_url": "https://www.google.com/maps/contrib/111467002631607073694/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLv4VIksossKhWraD2rJr0nqnsuMM6GO5dlBM6DwdMxrCTNg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Our family moved from Montreal to Prague. We were so happy to have picked up CMS Shipping company. I can strongly recommend  it. Great day to day contact, always helping hand, quick replies to our questions and quarries. Overall excellent services, great quality, great price, 100% satisfaction and beyond the line personal commitment of Joseph. Thank you for all you have done for us. Our goods went through clearance without any problems thanks to all given information and good preparation ahead. Congratulations, you do a great job.",
+        "time": 1710948918,
+        "translated": false
+      },
+      {
+        "author_name": "Shannon Harrington",
+        "author_url": "https://www.google.com/maps/contrib/106841319530054157384/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqSEaoF32wT903WiLrdj05EC2V5UTRCO5v1qxxYmPGBx_HZKo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "We recently moved internationally from Canada to the US (Montreal, QC to Hamden, CT) with our two year old daughter. CMS made this otherwise stressful move go as smoothly as possible for us. They helped ensure we had all the necessary information and documents to move our belongings safely across the border. Both moving teams in Montreal and Hamden were very efficient and experienced. Chris was super nice and helpful right from the start. I enjoyed working with him and would definitely use his team again.",
+        "time": 1725915151,
+        "translated": false
+      },
+      {
+        "author_name": "Gilles Mateos",
+        "author_url": "https://www.google.com/maps/contrib/118123865171778947645/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGkMnmdn5TjgbaCrC1Qw_qX5PsO4dPuNlW4eb4fcYDAnsaRQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "A real professional service, from the first contact till the drop off. A special thank you to Tim Figueredo who offered us a personal and human support. Very smooth from Montreal to Miami. He answered all request and questions even when he was on vacation. Again a huge thank you for everything. Gilles",
+        "time": 1727708405,
+        "translated": false
+      },
+      {
+        "author_name": "Maxime Cote-Tremblay",
+        "author_url": "https://www.google.com/maps/contrib/106080807055573824393/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcessw9NZhHeNCyoLytZl_5QOrU6YQdFKT-46vpCZx9afoAw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "For any cross boarder moving services look no further! Amazing service and support from Chris through the process. His crew was  phenomenal both for loading and offloading. Highly recommend!",
+        "time": 1723072447,
+        "translated": false
+      },
+      {
+        "author_name": "Martha Fleming",
+        "author_url": "https://www.google.com/maps/contrib/110930534239460254254/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXElDw_5xbyqprprKph7t0Q__isCr43wZgVXwqaoJpqoeoywtnY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "I wrote to a couple of companies in Canada when I needed to make a transatlantic shipment, and CMS wrote back within 24 hours with clear info, guidance and a solid quote.  I asked for more info about actual service and it was both detailed and high quality, so I decided to work with CMS.  It was the right decision.  The follow-through was amazing as well -- all along the way, with the shipment including container pickup and delivery, trouble-shooting and more.  It was a fair price -- others came in with higher costs and less detail/service.  Marine shipping can be complex -- after all,  there's weather out there on the ocean!  And different processes and laws for importation in every country, not to mention cultural and language differences.  I think CMS is amazing to be working across all that complexity, and I would work with them again without hesitation.",
+        "time": 1479408536,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9979885987123726335",
+    "user_ratings_total": 42,
+    "utc_offset": -300,
+    "vicinity": "200 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "https://www.cmsshipping.com/"
+  }
+}

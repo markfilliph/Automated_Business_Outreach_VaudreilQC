@@ -1,0 +1,508 @@
+{
+  "query": "SQDC - Vaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340474.4387155,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "22800",
+        "short_name": "22800",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin Dumberry",
+        "short_name": "Chem. Dumberry",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0M8",
+        "short_name": "J7V 0M8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">22800 Chem. Dumberry</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0M8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "22800 Chem. Dumberry, Vaudreuil-Dorion, QC J7V 0M8, Canada",
+    "formatted_phone_number": "(579) 638-2009",
+    "geometry": {
+      "location": {
+        "lat": 45.412963,
+        "lng": -74.038206
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41441053029149,
+          "lng": -74.03682171970851
+        },
+        "southwest": {
+          "lat": 45.41171256970849,
+          "lng": -74.03951968029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 579-638-2009",
+    "name": "SQDC - Vaudreuil-Dorion",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfUkm2PnRljebeY5bHub2OHWiCzQ7NjNFteQ1cmLlk4FqVIkJzj8qFqODovF_xrg4gw6-IMQ0bNLW62wap10i4XxkKX_JQN3O0w20b10i_T6idKhWe52VtMPvM8zpkAuaZqt-x2F662I0T92yx-4K_ShISuwBJtCg8_ihQyv8_l2z4oq5ttHbRz9egThFzjtSxDFrloxRuu1oYSj4GKnG19Waq18lnSmMvkxtmUbSy8adebn33ehJ9odMUPQZb0EHLnUQDPEJ8W3QSon48u0SBZQJdItUa6reDHIkecMsZUhd_C0kqwYXDwTZroUIS61q0tWMfgQ2eYcNujmvzZGsKKW1YVsZfDLnjLuIA2zbopMjV2c69-xokckMui3DjTM3XlXR_m9tg_GbP2WfXjwkaMgz7U4RuXSdIHNjFJ0tZJP0g",
+        "width": 3600
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118133550133642611554\">SQDC - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWezP3Xycw3wW6BiRIX2TalOP-X8tkNAP7xdvQMFwy3lXS9ZdGIo1ME5XsqRy4ZdjnHM4kqAQdozOnxQw1AhOoT0RDccRnXmO9JviKs7vXiHiw1Y5orgcqKHOm81zCfUAZ_OBWguCsvPaf9V-uOLd6647yev6hvD4BLk8fVHPo4YCfGmp-gFtnXPVuWFNXUDl4l_jzY48t2tQh1rtSI4Usq2O0QEce1xeU6wUJXN9yx1qHHwTAfsnONvu6pNh6sfe5m6rsQUWhoAehzvKDCc03K7vjm8fpFP-P_v4JuuChZAQ",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118133550133642611554\">SQDC - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWqRQ74jBNvIigPcU8LVURwNh5bGPR1UPkMP_rgsBt1gQ4Xn9fRpZMbMQAAvRRRxICa_mRIh9JKBUQnwIuzSZChu8hhsxmVmyozBet-z0YAnMxkJEemg5f0-u27T9c2QsioGD2zrLTB9t8pVrHYrxrMc_sK0566EpRgaBIqcXrj1jo9qjuy3mguk595Pm-8rmzAPrutR9cjrum2n47PYNvnhEThVd15e1B0KfWMqsRAGphxRmuwuaxXM83lFCBDp2X4JGxZ1XfCvyRptsq-Ng_se8GMaY7fxlKgRnA1LLvflw",
+        "width": 720
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114406111612260982475\">Arnault Laville</a>"
+        ],
+        "photo_reference": "ATCDNfVhwrKmVg7zVMw2wePMfRfcUsE8YFu71kFn1f--kgkeJ8pybMTwUDW2A5tV29LTc48m1vTLysXDv5uTiDQruo7BvzZtIXWAxH-6KikdM3o2mvgBQo20GwfVdZgBgxKJIHmGvoy0NfQX04po-6t7VKvBQL7bZdptC2g4NarcHb-6aQdmInFzzLN8NFauDAcQg0KyrvA5mgDlF79h7qh6j5UDHXswfOSGgxJsMkQ-_kO7Cqv07AEXaeR2ONteNwKVFUSAQaArgC8qfjb-TRWA0R44CqBFqr_ZzrAUiBbF8uZW5aI7fVZxYGIWj0osTqj-0Op3_KNQCUmxcfq3OclPJ5uDNW1r6QYcNk5hsz2vhzc5-m2qvUETHEbaNJPfPUOtbsJNp-hI6xfCXEyrZHw2VCubTYlbf5bxSD1ah4y1PJSgZwxf",
+        "width": 3120
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118133550133642611554\">SQDC - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXgG2kIjD-8sivrRUQAcgXxyfbqYM2FpgTdVCGk3MKXEzDS7DDCPFk8vbWEbVKCElcuWFK-rORBhFpaHO3DgqCPRoGCjdbpayq49SiAKgYz-X8vkLtEKk5-tHkIYif67eCYOqefgyNuLCYaDch8-770XSoO0sRtMeDH3YpCgHBmfzoDiKzAxDdSE2iQcZ-GizaPzzQYEmO2cEZblusBFOMgHOqZpgyYjUs8m5_W0mlYTaZRRQ1CMNq_9PaZGGxRUVY5szaDJoWgwfNIAYUhiyb4PBn28Qkpye2nY4NLCLclQQ",
+        "width": 720
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfV1NDEwX4-GCeYmKtdl09kh7sUW937b_3JA86o_pdcm3d8BuOZISyRjRtLfXG9YyKd6RRTV4-DaBQHC7KCqGRQ4ue2Fofr6nrt0HmPCmEyYfF26smtzgAGRUKZogIEkRhk6GT0SphYwPUszZmVZzPeXbz7L39waS38-VClbwr7cLgKiw0iqlzufJDvhHMoOy5hm426If9YjCCDrsSuE5lalWQCuMBtYV78uyrBB7V7jd0N9JVS-yWt6MYIuPljm_SzQ3sWpbgpdp_6m2EHBXnRhWVQJtzOZf1UE79kvSQfx-wC3hMXP9ucNZEXc9FW5j63IBd9E0QwEZeb7eco5Q4cpClDkxpgrzvfeDhBay2bVTbpww8wo-OUO-AvIvY8ytEvPLh2S6hy9Hdf21gMdGPfz2oGi6USuQOv9am6xdBDKtg0",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJnZ4iNis3yUwRqjZuK1W9sjI",
+    "plus_code": {
+      "compound_code": "CX76+5P Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX76+5P"
+    },
+    "rating": 4.4,
+    "reference": "ChIJnZ4iNis3yUwRqjZuK1W9sjI",
+    "reviews": [
+      {
+        "author_name": "Eric Hamelin",
+        "author_url": "https://www.google.com/maps/contrib/104436551334782098096/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUglAhRdMiGNkiFk6M2791Cg3edp-Kx4o7jq0yr_4gE8Fg1UP0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Vanessa and Vanessa were absolutely amazing. They answered all our questions and we're super informative with suggestions about many different brands. It was like talking to old friends while getting a lesson on all the things the sqdc carries. I want to thank both of them so much for the pleasurable customer experience and I will definitely back. Thank you Vanessa and Vanessa, you girls rock.\n\nEric",
+        "time": 1727624889,
+        "translated": false
+      },
+      {
+        "author_name": "Arnault Laville",
+        "author_url": "https://www.google.com/maps/contrib/114406111612260982475/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrg1kz_snwRV6FIDUx_HkvHGlYsbBpzrlDn19BDAEG0WjLQvKt=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Great service , lots of choices , no reasons to complain",
+        "time": 1673128403,
+        "translated": false
+      },
+      {
+        "author_name": "Christopher Karen",
+        "author_url": "https://www.google.com/maps/contrib/109222501287948304009/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ9GT20w7zpQB21ed8Wd3ZiY4H84YZteR4CdXIjAOv8v8wBOE=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "One star goes to the security guard working on September 16th, 2023. Granted I arrived at 4:58 pm which is two minutes before closing but as soon as he saw me he kept the door locked and went to the back to hide. He proceeded to lie to me when I waited to talk with him. I’m sure the company or employees won’t mind this as they want to be closed by 5:00pm however I made it there on time and was purposely ignored and lied to.",
+        "time": 1694898764,
+        "translated": false
+      },
+      {
+        "author_name": "kevin michael joy",
+        "author_url": "https://www.google.com/maps/contrib/110721621050473237195/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSyFrseGV3Xt4tOFPlSy-Kzk_CUCTQyhVfw3Z6TJYgqWnFeA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Much better than pincourt or point claire if ur in the area. The staff is professional, helpful, bilingual and smooth. I cant comment on prices or stock necessarily (tiny difference) but great location.",
+        "time": 1645227250,
+        "translated": false
+      },
+      {
+        "author_name": "David-Philip Gladstone",
+        "author_url": "https://www.google.com/maps/contrib/118327556817983109394/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJn1qpAYbY4D59gttj8Ob7aIWVrJukp1gcupmAH4O_iaqHslVjZ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "My experience in getting CDB oil and not any products that are THC latent and get you high is that I've been in Hawkesbury at shiny bud and the main core city. One is kind of like almost a head shop but the one outside of their main street near the car dealers is much more charming. This SQDC was only noticed by me by accident as I pulled into the Costco Vaudreuil- Dorion parking lot and noticed the SQDC. A couple of expert and charming ladies were helping people and I asked if they had the raindrops 30 mg CDB oil but they had something twice the size but it was about 10 or $12 more. They asked me expert questions that I couldn't answer. So I called the shiny bud store in Hawkesbury and they heard the woman asking me the question and she heard them answering. She said to me it's obviously a fair bit cheaper in Hawkesbury Ontario. A shiny bed than it is at the SQDC. Since I was on my way there anyhow, I think the two ladies who really showed expert skills and knowledge, but then so did the shiny bud folks because they knew exactly what each of them was talking about. Quebec and Ontario. Ontario. Ontario is cheaper for wines or the same price then Quebec but hard liquor is like the scotch. I go to buy different choices in Hawkesbury, can be a little bit more expensive for hard liquor in Ontario than Quebec. Saving $20 worth of gas and now 10 or $12 worth of CDB oil here. I am saving close to $35. Just driving to Hawkesbury 20 minutes away from that Costco store..\n.\nI have to say that this CQDC store seems very professional and very clean and very well structured and organized and I was even asked by security person to show my ID which was kind of odd since I'm clearly a senior citizen with whitening hair and a totally white beard. I asked why and in French and he answered me with some boxed answer for his request. No. Problemo but kind of odd. Asking a senior citizen for their ageid? Really!? The ladies were helpful and I bought my CDB oil in Ontario. But a very professional store and it didn't look like a head shop at all but it looks more like a medical dispensary.\n.\nNice and clean and very well organized. And the ladies were exceptionally informative and very professional\n\n.",
+        "time": 1692902668,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1000"
+            }
+          }
+        ],
+        "type": "PICKUP",
+        "weekday_text": [
+          "Monday: 10:00 AM – 6:00 PM",
+          "Tuesday: 10:00 AM – 6:00 PM",
+          "Wednesday: 10:00 AM – 6:00 PM",
+          "Thursday: 10:00 AM – 9:00 PM",
+          "Friday: 10:00 AM – 9:00 PM",
+          "Saturday: 10:00 AM – 5:00 PM",
+          "Sunday: 10:00 AM – 5:00 PM"
+        ]
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=3653190421249406634",
+    "user_ratings_total": 76,
+    "utc_offset": -300,
+    "vicinity": "22800 Chem. Dumberry #5, Vaudreuil-Dorion",
+    "website": "https://www.sqdc.ca/fr-CA/Magasins/s-vaudreuil-dorion/77076",
+    "wheelchair_accessible_entrance": true
+  }
+}

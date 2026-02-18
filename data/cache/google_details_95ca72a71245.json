@@ -1,0 +1,107 @@
+{
+  "query": "Citadins Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339564.6366978,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "400",
+        "short_name": "400",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6B1",
+        "short_name": "J7V 6B1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">400 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6B1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 6B1, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3927904,
+        "lng": -74.0270526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3944533802915,
+          "lng": -74.0258249697085
+        },
+        "southwest": {
+          "lat": 45.3917554197085,
+          "lng": -74.0285229302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Citadins Vaudreuil",
+    "place_id": "ChIJS_DBizk3yUwR0RTojS_YgGo",
+    "plus_code": {
+      "compound_code": "9XVF+45 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XVF+45"
+    },
+    "reference": "ChIJS_DBizk3yUwR0RTojS_YgGo",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7674371463795184849",
+    "utc_offset": -300,
+    "vicinity": "400 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://www.lescitadinsnatation.com/fr/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "query": "Le Jasmin Esthétique, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339996.8532634,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "470",
+        "short_name": "470",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N5",
+        "short_name": "J7V 2N5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:30 AM – 6:00 PM",
+        "Wednesday: 10:30 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "470 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N5, Canada",
+    "formatted_phone_number": "(450) 424-4441",
+    "geometry": {
+      "location": {
+        "lat": 45.4027274,
+        "lng": -74.0306087
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40414363029149,
+          "lng": -74.0291102197085
+        },
+        "southwest": {
+          "lat": 45.4014456697085,
+          "lng": -74.0318081802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-4441",
+    "name": "Le Jasmin Esthétique",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:30 AM – 6:00 PM",
+        "Wednesday: 10:30 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfXuAzQHl-hOvqWVfreoh-Klv-ttARDYTq_0cjInKZeOmhmqZCcjSGQ0CuBes1bShAqW8ikG4Usv3gTuHSFkCdNeLrZf1vbjUrJ0IItdQsa3QI3vBbdgJK47AfvG9-MAeWyzi3rfgRKspXHWntxP_bh-M-bydjWLxaoOHLP19w5VSjWECKxRJwrgCotMZHFcA6sd0gsk2uJmTHi195dHR8mrPFyx2LOIg-CsMmx5Me6UUDCZo3aGVEJNlsSRKhVLKfXBK5-T-afqIDeRI0oUbEGkp34D-OXOrqlCxCn_8sqFqg",
+        "width": 1078
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfWr6bTOo-2eftPnQ6eqUDj8PL3FW-iIceCHEKR6qTZMMQcLx_ClgW87B4TwAxt_QcNuzZkvfKTN9XiWNhnIxp5kI5reCntiBwizBTxVvnHvVlefay2ovzrkQJySvpya7xgNS-bCXKrPOND_uR1x15K_Md_nWKtGs7KSJMTRDmrywsU9jfwl2GknKYgXpgh84YFnq8aggqipYUzTCJv_lygTG990hUnhkdhX6lxAmBCgNAsf4MKWO0LyPjydp05HUQRnclIoyExuBeFH5mFm3-HeI6QmM-NTqwTMBAMU2my-0w",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfVv_oEzE0fo3j6j61SGn4lr4N-0tY0j6ngMna-az9Fmdmh_FEvdFOwjTR8JR8XMPf2TzdpvDHn3jmMyAqDC3GmwXsN5HpenBBCnwrZw6KyhySNebhaRktBXk7gIv3uLBDAwV9Xfb6z68Rp9jiWcFbZ35P98sJyZNUR1kB-RP_CDz2_gSEJKeHa6qMwQgFSQmAv4izdTqFMX6dHu3mXdTmjhrXftCQ6XSHOi5b1sxITPGalARYqlJIyQtGchT5LiX1ZTll4r2rGfKYTa6Bpk5uv0YxZyeucFRb2yYW-1B71Lww",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfVXJ-y4XEw3QD5k0ph9Kw14e6dUDPhC7uLiymsNPlV8yyt7BSnyVgDjmWaGChYgkZtXPCrmt0phAdizxhaUX5-D1UHJEMP8KCsAy-lT4V6a_MVbJlCp5oo2ncFNIWeoVwHCDqI51r6AzgoEGkN03LPTiiM43dUuSGBZfcD3KscDSwLd7kWSbcBEHf9Gk2cY1wuaKrSZG8FAuTwpjkiKQES934BKxR34j977OrqupeIC2TFphczWto4bI8KtSAiMBHaMjACOmKs7PTomicCDxavdFjgekjdQ8TPYuVPETb6OfA",
+        "width": 1153
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfVSvLTc3wkYQRi2uKEqQRApljdGUNiIXPkBiScY-D28yom3ss6vO1aDBDOG_fOdEpKJ6wNpMtTClKvDywNFVDYAWHAW-JPK8xMHcpfGSSSj5tMnTdZmy1vSbuMnsMiKsp3SI9FwlPFDJPnMOwHic0dxoGcC0iF8RypGBehdNnzS08KWwD4JLYHN8VeZcYGqJOXDnMFt3QokETZiJTOxAJKnUerShCvAnELm0vQGDcGjsMHijp8t9J8QQT6_OAj21MFzPkMRM37_RoJgHoamgLQptg76nip_v1kgqflzYzuXIA",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfVT06q7DrDd8h8ZLv_UhmDMPoCq3SPl0iPH38zGrPJfj1lWv5aPQk2VLTJD7mMExq-1Kd-D2ZNUBUKCcdbXDGGRqfE7l2u7dXMAGcvrSENAWYu-mYQSSASTgHU64q_S-z_DTyxSPAssbEhfDM2D-YYdSd5yYgk0UvJrgaf297IMv-3h101kyushlQS5jcCzTxD_1Oe84Gkk5lNRftFXW8ay8xq4PfQsa2ve3-RwGOhqVak0QQl3Qqzdvmk41zVB-gi30kDQdO4ZA2KxvzlZfMnRlLF47IPHV5YqoKxa9Xxolw",
+        "width": 1601
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfVU2JgmQcxXBwOZkuEiP6VUcSZnYNXOJPxafjkK_Cl9jvRwik65xU4otnXOMLnJ14BmOfVtdOC3KztggWDlyEyWGj--pOjvgWYlSyGUF9Emy9oIZYNuJ9vx9DssV0tKdGjfLTU64NcJX-x820wgjylw8rzU-rZQ31HQ4sajLxJ3sAQfYVewbmSPe-Cc7yJLOwkq4IQ2NU-EiZ5t_5dPTnTKeFOvQpXaQbzFZvceB5Tucm43YnVK3ASlwyqRwy9Jk2OlyCr6IJbm1gxy9FpiqhtXCJ0aEfXT-3OPTbQsjzCFJQ",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfWbtKAiF7C4vFbbla23WN7loPt5otPrb4k-48URYhEDlGIT3DMNqlA--6hkl1fFB00Zj8-D7-80VmPi8a1EDpWf2rlBJrUIwVWWYL1Wni1CSC2RMuaf6rsv50zgJSg-DOWpM-MNDyko4QYhhehn-kW89vvFABLy2ux3uRgJUN7AHN2iykhSZxQkVxcoY8QH4ZacraAfuYOBLU1xkawixXItwn-y8uF5cOLboNlnek3652VmaM9-03gpH5ZkAYcTogMrv1OdiD3YL6mj11yagvg-vSfiNag-2GnAh_QpTdhQMg",
+        "width": 528
+      },
+      {
+        "height": 2047,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfWCo-zIHBo-mubCAykRpkNdogFdqEl0MEEmhuNsn_yf0fvLj0R6_nTUPXknKechT8vO1rMfxoc1Lo8poljmPwRp7ouWHPB2jZYwktxCRZ-qmdkMsd68Ms1CCCY9kx11btUOoP94iFsqas1hAtDX08yVWMMLoTliEhUsO4jj7nbE8s7nqta_zst4KZtG5A5m6f4Ht1TZxDKvbW6T0prDcCHymM1FAfAUXbHJ-wqttzInhydBzqwLCmVuF7nVEXyKul_Z_uUaviwUpY2_ZWymMSGDqhOo4wsX4ScYkZevaGUsPw",
+        "width": 1153
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102072155485062822504\">Le Jasmin Esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfUy2i7MxnNRvXKl4YQqDtuY9JpAQC7H4r4FSMvZrmTxMr8z3tKUG5zldmNYsguFkBazIpSsmboI8G7ZgDTf1NNs1k7x0VXMhft6qvhBLjgrow9_ZupFa0r3k1W0VSfuxRYXRwSuXZLrSt8UnMN_BKsuSCK6HL_LN1P_88y-ozSDYZe4tSlMyBSPZEWux1C28dvod65I4PIeh07rtyrLmd3c5-T0jMaLxxQ1ri2aUBoVedtPoBB9vJqcjXLbSL2gN_k0PsVpEW1L3f1ZESdOxnGuTZr_wEsAzF8EY5hiLLs0_w",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJzZiBlB83yUwR4A8DwaZcVqo",
+    "plus_code": {
+      "compound_code": "CX39+3Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX39+3Q"
+    },
+    "rating": 5,
+    "reference": "ChIJzZiBlB83yUwR4A8DwaZcVqo",
+    "reviews": [
+      {
+        "author_name": "Noozah Ansari",
+        "author_url": "https://www.google.com/maps/contrib/105154741293603635240/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTPUdj3KDYl13D4t1QYBe876CJIWHM9Iczegn0xKnq7-jl1w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I had an amazing facial no side effects and the esthtician massaged every angle without hurting.",
+        "time": 1692973359,
+        "translated": false
+      },
+      {
+        "author_name": "Iana Kushnarenko",
+        "author_url": "https://www.google.com/maps/contrib/112399871668284146532/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOOjo2bRzn4Psxt3bWg2Ka2yFPtsKI9M5pGkuADXH5UVJptXD-=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent service and customer approach.  I recommend!",
+        "time": 1688856929,
+        "translated": false
+      },
+      {
+        "author_name": "Fatima Bouaza",
+        "author_url": "https://www.google.com/maps/contrib/105296798547289166065/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQEhDBiT0DT1qhUyBG4qjFt8ms8VrZb5EZRlXNenBCV5gAKY-fyQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I had my laser hair removal treatments done here and I'm super happy with the results, as are the facials. It's a beautiful place, warm and pleasant. A pure moment of relaxation.",
+        "time": 1684344494,
+        "translated": true
+      },
+      {
+        "author_name": "Radia Ferradji",
+        "author_url": "https://www.google.com/maps/contrib/107460056008386077946/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdaStTAn85nvXO10aaZvAqy5FJ89VzQLx91P40RAoBazk4uw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1738307784,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12274099705717395424",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "470 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://lejasmin.ca/"
+  }
+}

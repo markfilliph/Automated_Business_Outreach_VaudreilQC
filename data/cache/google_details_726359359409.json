@@ -1,0 +1,451 @@
+{
+  "query": "Eggsquis, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339433.5937197,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "106",
+        "short_name": "106",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7X4",
+        "short_name": "J7V 7X4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">106 Bd Don-Quichotte</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7X4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 2:00 PM",
+        "Tuesday: 6:00 AM – 2:00 PM",
+        "Wednesday: 6:00 AM – 2:00 PM",
+        "Thursday: 6:00 AM – 2:00 PM",
+        "Friday: 6:00 AM – 2:00 PM",
+        "Saturday: 7:00 AM – 2:00 PM",
+        "Sunday: 7:00 AM – 2:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "106 Bd Don-Quichotte, L'Île-Perrot, QC J7V 7X4, Canada",
+    "formatted_phone_number": "(514) 425-2552",
+    "geometry": {
+      "location": {
+        "lat": 45.3872606,
+        "lng": -73.96333570000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3886259302915,
+          "lng": -73.96192561970851
+        },
+        "southwest": {
+          "lat": 45.3859279697085,
+          "lng": -73.96462358029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 514-425-2552",
+    "name": "Eggsquis",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 2:00 PM",
+        "Tuesday: 6:00 AM – 2:00 PM",
+        "Wednesday: 6:00 AM – 2:00 PM",
+        "Thursday: 6:00 AM – 2:00 PM",
+        "Friday: 6:00 AM – 2:00 PM",
+        "Saturday: 7:00 AM – 2:00 PM",
+        "Sunday: 7:00 AM – 2:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 587,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115788913847143842101\">Eggsquis L&#39;Île-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUSwvpZcRmPIdzEFjqXYmW-VWZ9-HI0-IbXP7QTvugem08eOFPr-19JSp09-BqY1A60SDH-eYpMpLiIqLa5x12sDw5d1_ga74QtHay1AS0dzosb35ssWKZNf5ayOd-SgrDUSyiMDUQl54pJbA1sKPxNR53Sy8FLmJISE1kmvJSt2EEfzPB5msj3_XFLMHbWHzq06pQlk9O37GdJ2jy0ze_JSUmZsWcSgidEzNLIifCTE1x8HmjBuhrYrkhWkEw3U8BePMYlfuZKhgDPuvgz17p1nTS13nOdPAnmXxzqGeB27w",
+        "width": 1046
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115788913847143842101\">Eggsquis L&#39;Île-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWVaRHg_gvuA48rcEiNTqcpqaCjuAUS6zdVmx2fGK6NSfapqVnPGd1QXSC8nnVCLa8LNaJO8KjyRzXKS1lGGjSKqbu1KrKjr69_26HkjX1Dzb2Zj3PQMjXFZmbGKSPV2RrmrSGy7jifIGD9XCKzKOQSCNWSWIQomJXvw13UuPVG-Rl38U7tCovOVs56sqa1O_Ci_DK4K3aCfKoq33ZzNiZsTdbmImxcfMZZWQnessewFdnr6dNkD61NMU47W71d4EXpnO6irkgGW0XaGe6U4cj2AGbE5fCiDdg0uxHFMJUOeg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108627255175334957494\">Stephen Reinhard</a>"
+        ],
+        "photo_reference": "ATCDNfXo0RpbYzmr_YpeoTO5hXwXgdTg2P5usagCMXbam-n6KSXRlvty3pMjhHiirfUQqg24NsZzD4GURlUlTKXcb7MpLLqjLqlIK_SUWEzXIh_50PFbjQwG1twS49a76DC7qBWhtj3UR6l5erE1iu7EQMdEqEABSKFse-noRIikNNtRQNnQFKO6bKJQRUQVn4H_HHADXZp7LAspyZ8xC2_SXoOmP_8iL3AC6pj1-33VCmFyDDTyey73SGA2aMc090GTXFPKViyloVFj5b0u0hgP_5DO27yWhmmqwTJztbtjG-ssMAQDf9MPaQ_r-Vmo9p552hnfJweb0toAJZE7Otsld6JjDDYd2xuVGISv4YFxIwyvV_DOeHnaHdNU8AXceGN91BAxXj_i1ZW1rl2oYZEIe2Hjjzwz2M7hRFKUbOZg4VVBA3-Ydn3O37uGW6Egoiky",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113155888395638285871\">Dave Pearson</a>"
+        ],
+        "photo_reference": "ATCDNfUtl99hx2Av-GGxXxQiutJlmW9QMjDkz0UWRjzLSP7TnBQQ-jbG19ItuMog70KqagNhI9b9kM7fcwkHgiYa75rEESRupi7rDfi8sHk2YlFKOoOI944O6tzUClTao8hkqoweoTTQZaPBkdXdfC68cyO-acMWYFr6R2XNsV3eSvZcMqsbFu2Efb2FjgStAxYkpdYVyLUoMu8sZ3bx7gt6KWKW1NBMiauoOnTtS1_Eaur_Q2L9ErorWz87R3kEt9qvNlzg55EOdXZpJnX5K5EofqsKBU6EGqPvSU_t9FiJkUnX2VLRpytVwMHUuU4Ogf3PAv-djWovHmYCMvdP0cn0IhqcB39n3YeM5Eyf-8yHZB5cMqY6oN1K3tfqdNQa5mhqhVcThgxe-EOWLzqwg1-XtI49kLaHtbavT50hWCk-YnCuTQ",
+        "width": 3024
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114663381108599725456\">Alfio Arciero</a>"
+        ],
+        "photo_reference": "ATCDNfWG-xNGIECey2e_JWqxa4vL7801-5KhQGGQQYECVlYNsfLfxLEmYtIwHzmQrtV8SUekpwJw2U6igWjMJl17FpZb30TI0o_joP0VNpsih-gzomO2eEaeOEPYoqlaC4IPj0XMnLKlgke1ipus-V0EfxroDNW1jaamF-z1zNBiPpaLtnuy9jPQcXiERK5Qxdy1OpZ96W7SlJfiPyE-oEsvtIsDqOmhHKq_nJbbtPRLhFHYhoftkKyhYIgUil8bMNPqUR7PQrHSxsHhF0VavIJbtua34f1_GH7OzXwz1X1oq9EgvYZApFw6-7tPfNMMjOk7Vjcc_hzhlZ-MUKFpfhWAzJHOHMC3-AKseEUgEdni9RfjeRzDsrAPQPweLTtpgK0-AfNX6AehffKvxFEUy8d01w5wZFq6u03W8zU032pkfXUWZOg",
+        "width": 1536
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103913596010932016316\">Dan B</a>"
+        ],
+        "photo_reference": "ATCDNfUo9jpmhiH-B-jhirpLt8inzN5Kmzoqu7Gtv_oLqbsw4nK7uWM7viPwMNab63YvphL97jw3P7dmwO2jvOw3g0Yt52Yp82kwXsZvhe3HiuH3VHW2njCx1l6lYckcBsR3r9Q-z9CtO4_XpgaTqe4FqQqFmGxPAt3jQN0l2Mx__h-nlo9iGvt0N45Z-i_pU__zgiJDwZqXR43bRY514wV2OrPcw88Tgm1d3ps5KXmqm8Unz7wI23yRifvc-Ykuhbr6GMtg_EV43vS-CjPXQoGezErxnGP1dtwf_2DzfPu6B0jR5Rq_seewfVnu9hjblmj8x9CxclyjlpZEEMLpqHVhvkzFp4_S9EqsRpY2jwDsXVF2LAQpHaI-8PE6ZsBvHfJzDLmRIoqt0zY_HEoLjv21LIQa_7rv_oD374CNGjXJfbA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104453014550181319923\">Muhannad Al</a>"
+        ],
+        "photo_reference": "ATCDNfUi5L0WOe2YnC4iqYGtTjrdpt5Gz7OkKCrnBqUppENmybaxa1J_idFnr0LI0uklcX_Xcjv1_e2lYtFr8-9FNoR-WUOaFZshtzFdfiCPzqJoIVeY0jzSobiyk_O2C2AZesYcFpB-fszX45EDhGDlRTuoer9adBbBmukNZdmqT6-EXocfSGlAAqgEYfj3pr7olBnwU9TOzffh5zzzUIUUAFCqkSY3bfn90twSy5Rh4k4mzJoAjgjq8xXZ2paFjCi-jdkKKF0Xv-SJyh0djEPnkRnG4c2ac36H_3hiTK36JzePiE7NWc-9vEYDGMqpkpYYTgfxYDfARXgXI9iVdrJ20-_o12GpWVzMazK9Q084paWlmACoYE_s0Tn6OwbNvdf_BenR8wKcWW3PEa3Nkw8bhOO70sE2c_CGqlzw9MP1qUCyhUDG",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103913596010932016316\">Dan B</a>"
+        ],
+        "photo_reference": "ATCDNfVHbZClGsyQXU8Lkzw_T604ZJU7axAL85MYgHdTsMXWmoqHyTRAv36TkdZVsj3OE6LlsbFlQvuPr9AHJuWEqBiYbEt4aPGSRn9OHwTPIb_qvManENGy5TIZ2ks9Z0UGK2EFQe-114TplkljXviVnesg0t5v8HZPeQkWSEp_HQlGeV0BMQVYgaEm_uAEnGiyAh53XEsXbNvpQvwvvJZLLSOE7lYitx8jGheLWwqLmwkYrxeWO8qzwzFvV256a5veSTPACVfVLJbEOBNL-h-z6dMGCo1w9jBmKND3PVHgIgP1op7ywme_es5vY6j3SKuQKyONo8VEydz86rKrXkvAQbSPCXfC5rLWATqZHDpYL67E6mM17hBsCLjbWE1ymqNZ-vH0jkLTTo3v5OIktVkzVYKFKaZcI1ts2FrLh_O-Ghkz3oM",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfXAd3nuQBYjSHkmnFIhzLxoyfmKs6fFNk0CGa7ArZUYQUSqwmjAdYaPwAuqNJiaGS3koIzpx-3sgL2v0efJyrMLM1YrEyjeWvOD6mOVle0nxg_ziH5gHu-9j2SufkpgPLFkU6b6f9o9TLZZFyTMOt4pxxZzMMQtGs9cfqdcSUNfh8WhrnjFS0X209t9p-RahO2Ao8eJWVNfWGr8gMhR9S_6su5l60bj6ep4YKC_4QtDxj-QSA1cRVPPuEE0FxK7NrNND0guG5q0DexijMF4kPUN_kaRwMZ-YgUDzKh_wcg4zPUTW4qfYytXlOKop8B7HBjIULJF6PvRdE-716UGcs5gzUYWs35ow0nubxg9L6JySQDrhrwEnfTvwhz8Z1dtVd_OAEnaxRqhCp80BuxVcTanTv3KBjTbHUY8Oq6yK2XdyUrp",
+        "width": 4032
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115452613246350842895\">Jeffrey C</a>"
+        ],
+        "photo_reference": "ATCDNfWSbjcUv7MGYASg2vj1kOwFIJrkQzraxbCixRFPB7_MaPp3DBE8TTXUsLigu3LUgX3_Rjy_dU9h_zYDTXmz997N9Dpn68ghqlCxlXLQJ1vsS1pSWwgB2O78UyZvMLHkXwGi4JgYR0AKmZdvAlz-PF0Pc6668qR9SGBp_9gbqRHO5WeRIRqb83T3ioh_LH31nxTxhYcDtJT37tQNOB7O_O0N0fk6Z4yWusIMX74_YQZCsWMtivbiqO6EKt8mIL35z4HVPUBtLaV1J6DMblzDt1PZnQcP_fOKGZgNyl2Ogd5pQMuTmA5oOXKKm_jDLIpawTCudu1dmLVKuw4I_K7YDd81aZcl2MUYYS7_RPKazGeE92MKeRYp-WVJRUTbmKIUmx7MFTjc5HmfOA3bBk4pD_W6TYKdvRb8hjePFGPfS-OZ7rI",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJg3hzXnI4yUwR8xUGCAXOV7w",
+    "plus_code": {
+      "compound_code": "92PP+WM L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892PP+WM"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJg3hzXnI4yUwR8xUGCAXOV7w",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "sb sb",
+        "author_url": "https://www.google.com/maps/contrib/102796855905253728479/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhA_A0IpNg9ohnHa_fW8a6_I9L4VX5zDgjOLni2JR83Sm4zWNqQQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "This is a great spot for breakfast or brunch. The food was delicious, especially the bacon, beans, crème pâtissière, and pâté, which were exceptional. The service was outstanding, and the wait time was only 10-15 minutes, which was quite reasonable.",
+        "time": 1736193673,
+        "translated": false
+      },
+      {
+        "author_name": "Field Racer",
+        "author_url": "https://www.google.com/maps/contrib/101257358614349687732/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOnfgXEFhhGELu7iXBsGGLbN1fovtvIhftZlmWzc83odDQ3hs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "4 years ago",
+        "text": "We all know covid has been hard on the restaurant industry, but unfortunately this establishment I have to change my review. It has gone down I'm not unfortunately. Service is still very good. I've noticed that the quality of food, and also quantity portion wise has dropped significantly.. what used to be a plate full of good quality food with good variety of fruit has now become unfortunately I have filled plate with options removed , cheaper quality . As an example the beans I had were super watery and flavorless, what used to be thick slices of bacon looks like microwave style bacon. The fruit selection was not appetizing and tiny portions.. even the quality of the butter they use seems to taste different.. the only thing that hasn't changed is the chocolate crepe on the kids menu.. but even the free beverage that comes along was downsized as well.\nVery disappointing. Do better I will revise my review again.",
+        "time": 1635611240,
+        "translated": false
+      },
+      {
+        "author_name": "Daniela Marks",
+        "author_url": "https://www.google.com/maps/contrib/117853414141831176731/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6Bc9qrZw7o00mmgvvoaWy68Z1Q_yAUX9zvLS6bQ4z3RZV_IaqmA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "From the welcome, to the service, to the food, everything was eggsquis! First time visitor felt like an old friend. Our waiter was very helpful, the bus boys frequent and attentive. My friend got her bacon crispy as she wished and I had the breakfast plate (for big appetite, if you must know) with an apple caramel crêpe. It was wonderful! Quite possibly the best crêpe I've had. If you like Apple pie this unusual choice (I've never seen it anywhere else) is for you. I will definitely be back!\nWas back today. The service is still outstanding. Highly recommended!",
+        "time": 1661180424,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Excellent beans and french toasts! Cretons is good. The English cream tastes sour. Crepe is chewy! Coffee is ok; friendly service. Good spot to host large parties!",
+        "time": 1583322992,
+        "translated": false
+      },
+      {
+        "author_name": "M G",
+        "author_url": "https://www.google.com/maps/contrib/110556933914061905596/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh62hqwMcYeOIjErBguTSFX11QZC1r6KhsGumY_R51-7lxnc0c=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing!!! Crepes parfait!\nThe presented meal looked just as good if not better than the photos in the menu.\nWill definitely be returning.",
+        "time": 1723316132,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=13571542523109053939",
+    "user_ratings_total": 661,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 106 Bd Don-Quichotte, L'Île-Perrot",
+    "website": "https://eggsquis.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

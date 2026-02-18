@@ -1,0 +1,94 @@
+{
+  "query": "Dorion Gardens 5, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338453.4731667,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Dorion Gardens 5",
+        "short_name": "Dorion Gardens 5",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V",
+        "short_name": "J7V",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">Dorion Gardens 5</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Dorion Gardens 5, Vaudreuil-Dorion, QC J7V, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.378858,
+        "lng": -74.030405
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3801206076049,
+          "lng": -74.02866506159558
+        },
+        "southwest": {
+          "lat": 45.3774226470219,
+          "lng": -74.0313630221786
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dorion Gardens 5",
+    "place_id": "ChIJxd0qoTxIyUwRv_ueOJvSOtA",
+    "reference": "ChIJxd0qoTxIyUwRv_ueOJvSOtA",
+    "types": [
+      "premise",
+      "street_address"
+    ],
+    "url": "https://maps.google.com/?cid=15004536672649935807",
+    "utc_offset": -300,
+    "vicinity": "Vaudreuil-Dorion"
+  }
+}

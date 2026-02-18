@@ -1,0 +1,403 @@
+{
+  "query": "Clinique Podiatrique Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339929.8835878,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "260",
+        "short_name": "260",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "65",
+        "short_name": "65",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8C1",
+        "short_name": "J7V 8C1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">65 Bd de la Cité-des-Jeunes #260</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8C1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 8:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "65 Bd de la Cité-des-Jeunes #260, Vaudreuil-Dorion, QC J7V 8C1, Canada",
+    "formatted_phone_number": "(450) 424-5500",
+    "geometry": {
+      "location": {
+        "lat": 45.40319340000001,
+        "lng": -74.0370902
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40466498029149,
+          "lng": -74.03568101970848
+        },
+        "southwest": {
+          "lat": 45.40196701970849,
+          "lng": -74.0383789802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-5500",
+    "name": "Clinique Podiatrique Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 8:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 786,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfW6mXCW-Kxi75CH5sw3dVLljosOoWiAVG1eABJ4lqZNxsleJNV-OK5cF82GDQH2b8KpSeIBa0IRaxhMiGtHjlDZt7hbrnJxWbfsIBHF9CyehbenL-0Ij7xz5IEXtm32qAGkMVutekfsZ_p2jS-CeLdI3-8W5tk4kCNVpOgP1veX2DJW-hf1kEmbozaSHguaCTkO4woPMuCJkcYFoHYPd-dpgJBjcwlcMTwe90J5SrEJp5mlXxjQuuuyzHyw-0sCJ60DtnLHeSrg1PIeOGH1rwt3_QguY-ZLgwFviKLQq1C2zA",
+        "width": 1391
+      },
+      {
+        "height": 1667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfVGoMwFx2v7cIl4fia_uEaCjrvfr8j_rbqJZfwjXHNplCMFHBaoIXDW-ifmuar4X8AHZ1wlRYfy17McKwSZHMR45shB5UAd2qYcMGRNsLRbIEWXLYPhq1q7bFv8YSu4-1q1SxshPxHGPFPDF8wVtmYu3Dd7pyynLZfuqbddCm6Psm5ywDjmzF3Nua_JQJNSHXRG5aIi6j2C3gdMmlYitC9tQeV4an8mRfhKhCEeVPZCb3KWfvykJdjhX2KaDKMuk0P8jMfy6sWAXFTd8mYo2gfw769f3KlBFtpNIifZ93qKvQ",
+        "width": 2500
+      },
+      {
+        "height": 1334,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfWqqPa-f_gJNH_KbjmjndrThmm7se_lpVrR_Y8XNHbuzg5QNKTAuhB_PIHAvxiF0sgxinz1qNntRsWH_JhSVIry5Sp2F4qAOwcusaxX6ftpDiysYD_QpzOPZWbFrqKdI_VXObiTgLfdJyP9voj8Sc62chXCaVv-WAsoFDTlsTN9C0HfXvSFPC0bDKPgdka3Et50AloIDxGYpPFTEkxJcRBFQ5I6Olz48vsvIaq7MkiNdySLHc1DzpwIcLY4ijwJcYSVNj3Xf7GVjYy_X4ammm7rKAdbdVxjxXbFpt1vnbhB7g",
+        "width": 2000
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfWqlQHZf183A5t8MYEDx0r7GZtPC0I3-91xbqBn_GZKpEnMoqWc_k0r-QmJmY-ZdZlB8NIyaVWnoq6zByAVkt1tot2UW_VLX7pVkPEX4H3d7O5ADL5wtqAjsEj9D3WjIrk2IgPQIyFN5bczM31b7rMw8hOY4CDUVNY-kfJQZStK079QFcAHIXD-lWuYAygbhfxu0-t_85nQ1Z8bgLpTcWD4MAw1T3tPl7sSd4vVWHzAsxP63KcLVV3CjM3IXvkPvgsvLTofKr-y_-4eoFRZD28B4vG7xT1I3NkLiLmovQ5t5w",
+        "width": 1600
+      },
+      {
+        "height": 1796,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfVoGAKYKmdNNA5ecLMZjKFu_iVoCq3TathJ-HOBlGtF0jNcfGGmPX1j7ixw7WsRfo1as_ZQixPZoWUmbBuhg8bAkc3g7rkwZbJx--r1F_BKWauiHntukVXQgf1yaga9_1Mm0Yrs69gkMvaJTqSPGxtYqTSPj-L_2faAjMqRN6hUprsBOdG_BDMbA0pkYg-DyU_zQ3-R3l2YAu2n35MYusTvXT9U5nHwi9BykJ12VnyYrkHHy_B7mof5ceTljLlrULjmeW2mPDqoEZrdR_ZVIFakmXx8HfomILf6NaOclLBhJw",
+        "width": 2048
+      },
+      {
+        "height": 1297,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfVT1MaKpG40us6b9TZfjocLpRRrr2IwuGVqHVrKWeZ506-Q0AhTkeRajTa2Q__gIbf0Bqh3wzdW8-SJVgmTHKr6EqyEDLVkfFCb0vqmWLIAB2wvdNsqkVzaFQabVquccITQPpSFmZ3LBAnJARRoKVzz1-p701kBAZmu3N1XJDbHGMMAR-kS00WrsJ7l75BMqKDhueCjGq1CrbMq2xKvBxlVjo-Ek0Y7TTXcgA79EiBcTPf1QPVk_RKQ4aa6xWO0grTxWNXnAOLhJYaPqK8CR2DklCC3jWJXqcJuz1GgDjz7ng",
+        "width": 1999
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfWayiIP-FvnGrPKGXTLfzNZcyTAJT0F08lrlDrifXrbTHiEpvhs5xg6PhC9E7TFoRxNItIuPR5FwUN7i9lNAn9NOH4x0YXvnzSEZpnVxhwt6Wh47P7HqJakTjVNNQy22dZp-USmPnBh2m_pVUotSv_5coUmO-_d_lRKpBmtL6SMV29x09Cl9hXaYYmG5FxlvjBiHbVDekAxYL6PTd21x4TZldUJE2OjVBsYvOVtcmXeKg5D8oQimDdsF4iPLMePRli_766KAH9TojRNqetboGUDtqGjUUBWfwU1fFO-EpYwfQ",
+        "width": 1536
+      },
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfVFbLK0INQ4si3sSGX-WlQGih3XFIvLc6Q9Swo37Ro50aT19xoz8ViX844OtURTvEFqLuOY0R2SHIGeD5eyfMuFu_kqVpaqn0L7SsSXzWMo3Q6mdv8nLhZcx-c_mg0XC9wuSWVYyteCWrPlyNGyOUP_GZ6tpna2I6seC3aGenX2WT7xDd1u1_j0Rd0F0M1QKG4_q-s7bdEDahCQCcAXIXrsaEXZZW5zhW2J-mBEzKkshzHBnTRtCm01BbUFwdW_dB5GfD_uF2XPVvmCuhuA_WLz2dzHp02XpKkk6oAGO62HJg",
+        "width": 2000
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfUTJ1IKTKDFouG1jWRYncvAHSb3xWVbstDMk_7jVkBxEksawU8LmtIwcTYscuRmnHx8mRYbRk9M_a0kbtTL68Um4cTRqhtMlG0sNRk_20HNqArjeJpIa91zyegRbgXhbeqZ2oFlo7YPOKJbLmJQ-5EPnZ-olDDEgSZnoguDTQGVxTqN13s38aH63PpW6CiQRHbt1z_QqeXzv7N40XQHo6sHo6P2L0ab3p7xi2cWG5_6U5QYOi8gZhH7AIeGO9npUiTCJoRxD05anGUiktLqesLrh7aHckPNR-XWhZEkm6guWg",
+        "width": 800
+      },
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731573699983496262\">PiedRéseau Vaudreuil - Podiatres et orthèses</a>"
+        ],
+        "photo_reference": "ATCDNfXjf25r9M0uGQIrYDTeMnMH68DkHbU49gvgelGAbONTbA8gvp9exVxRbJK1meXpRtPcXx9aHm2cy4U37W7CmUyEEfiHG65HZEMjzwkfF6K0HBxz8rcdlSOjHZCY4TtiSxo9vt-ybfpZLCiTYK_StHUZUhk3zsnK8W8h9jRZxtkRnZHrgasylpkfzZ1MLriZ8SaMkns7dtXzB3aqs6HVLGSaYmdR3t1gh3ryZ_ODEWDJpfNAP8yvml5jpEkudJKYm_GohoPZpm1Ng_Fn4GhATYAWTiN2zTNR4S9wrvWzV9eMcQ",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJafukvkk2yUwRrRgrgX0vVGc",
+    "plus_code": {
+      "compound_code": "CX37+75 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX37+75"
+    },
+    "rating": 4.2,
+    "reference": "ChIJafukvkk2yUwRrRgrgX0vVGc",
+    "reviews": [
+      {
+        "author_name": "Karl Bastarache",
+        "author_url": "https://www.google.com/maps/contrib/114889913094805703506/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB3bsSf-DpCVK9APiNCBNka0U7cWEQLsiGbg10CGV4EZAIjeij=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Fast, professional, and to the point. While I had hoped my issue would be resolved during the first visit, a follow-up appointment was needed to fully address it. The reason for the follow-up was clearly explained, and I’m glad I returned to complete the treatment.",
+        "time": 1753142983,
+        "translated": false
+      },
+      {
+        "author_name": "Coco",
+        "author_url": "https://www.google.com/maps/contrib/100685342560823692160/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbZQEoK_tWFQdiVIUw-erB1-7PGDHFndrStUrt2tSqLxEAwfWh=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "10 months ago",
+        "text": "Been trying to call this clinic for over an hour.   They answer you and put you right on hold and never get back to you.  Really????  That’s the first impression you give to your future clients?!?  Seems to be the norm with them since I have tried 2 clinics and it was the exact same problem at both places.  I don’t think they need new clients they seem impossible to get a hold of.   I can only imagine once you go there it must be the same horrible service.   What an horrible 1st impression 👍🏻",
+        "time": 1745342736,
+        "translated": false
+      },
+      {
+        "author_name": "Syed Hussain",
+        "author_url": "https://www.google.com/maps/contrib/109362545422017561569/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLBmte0jTnlOuVRzYxa-3vP9ZXCOW-4x1rNv0JHN10qF0KtLI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "I came in for a basic foot cleaning. The nurse? Great. Did her job well – no complaints. But then the podiatrist came in. The nurse and doctor had a brief chat like I wasn’t even there, then asked if I had any questions. I didn’t – mostly because, fun fact, I’m not a podiatrist.\n\nAnyway, fast-forward to the bill: foot cleaning charge plus an extra $85 \"examination\" fee. Huh? What examination? The podiatrist didn’t even bend over to pretend to look at my feet. No flashlight, no poke, no “say ahh” for the toes. Just vibes, I guess.\n\nNaturally, I disputed it. The clinic manager got involved and fed me a buffet of excuses. First, “Oh, the $85 is because it was a one-hour appointment.” Lady, my appointment was at 1:10 PM. Bill printed at 1:40 PM. That’s 30 minutes unless we’re operating on Jupiter time.\n\nThen she pivoted. “It includes supplies and electricity.” Ah yes, the sacred electricity. So I’m not just paying for care – I’m apparently footing (pun intended) the utility bill too. By that logic, maybe next time they’ll charge me for the doctor’s lunch break and gas money. Maybe throw in a WiFi fee too while we’re at it.\n\nIt got better (worse): she finally claimed, with a straight face, that “the doctor doesn’t need to see or touch your feet to examine them.” Right. Like a dentist diagnosing your molars over FaceTime. Maybe next time, the doctor can just think about my feet from another room and send the bill via psychic mail.\n\nAt this point, I was too mentally exhausted to keep debating this parade of nonsense. I left feeling like I’d just been scammed by a very polite cult.\n\nIn short it was dishonest billing, excuse roulette, and ZERO accountability. The nurse was good at her job, and the podiatrist seemed nice, but the clinic itself? Not trustworthy. If they’re this creative with billing, who knows if their “sterilized tools” are actually just rinsed in a nearby puddle.",
+        "time": 1751683560,
+        "translated": false
+      },
+      {
+        "author_name": "Pierre Alary",
+        "author_url": "https://www.google.com/maps/contrib/107288986352013872489/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxoBYG3GEtLE_Zpz2fs6QFrKk7IVH5oisXX7VZZaur0yMoNYwr=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Takes a lot of attention to make sure you have \"happy feet \" when you leave ,and you feel.much better\nVery attentive and Professional.",
+        "time": 1767913406,
+        "translated": false
+      },
+      {
+        "author_name": "Tamer Toma",
+        "author_url": "https://www.google.com/maps/contrib/104197701379807898894/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVweLhwVFJls7UhGKZXVFRQy6ObZmv8zYNfXijTEmEl4fTkh1I=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Very bad service, for everyone please read all reviews so you could expect the service you will get, after my visit and following all recommendations the same problem still exist and in order to see or talk to the doctor again you have to pay again and again, my mistake not to read reviews before going there, waist of time and money",
+        "time": 1752607893,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "doctor",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7445628300034775213",
+    "user_ratings_total": 56,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 65 Bd de la Cité-des-Jeunes #260, Vaudreuil-Dorion",
+    "website": "https://piedreseau.com/cliniques/vaudreuil/",
+    "wheelchair_accessible_entrance": true
+  }
+}

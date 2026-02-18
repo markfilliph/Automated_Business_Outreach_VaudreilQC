@@ -1,0 +1,366 @@
+{
+  "query": "Zone Avant-Coureur, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340376.5495768,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "local 220",
+        "short_name": "local 220",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "585",
+        "short_name": "585",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P9",
+        "short_name": "J7V 8P9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">585 Av. Saint-Charles local 220</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 4:00 PM"
+      ]
+    },
+    "formatted_address": "585 Av. Saint-Charles local 220, Vaudreuil-Dorion, QC J7V 8P9, Canada",
+    "formatted_phone_number": "(450) 218-2202",
+    "geometry": {
+      "location": {
+        "lat": 45.4079416,
+        "lng": -74.0325916
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40921408029149,
+          "lng": -74.0313703697085
+        },
+        "southwest": {
+          "lat": 45.40651611970849,
+          "lng": -74.03406833029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-218-2202",
+    "name": "Zone Avant-Coureur",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 4:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXqP9i1_K8ZtHi3uRJTxnRTpyu-yp_bzENOe-QnDMmECt3cHoyVE-_F8MX41_4R6HQturmL-dwg3yk0wU5lyzkLM2aVmPAiJFDO4TQV_ISoKS6rG1hH7OkYy7CNWKj5_ehQhNrrvFA4OLKYXarFDxqBZQDi9YoZA09cxC8_GLTvDM18GEGDatsA5wOdcRyH4Xqk4t-YCSUSHHDN_UXz_UVoQvaJoOCCUz3-1FiJUgmH6K2SpF2aAr1EopE_u2jtS9VnSvmT7i6iBFzxJYTtBrOjqxK87c6NiZlcX3SoDhCQCvar75he51RGbNPsX6_fHfH28iOpmtFCEavhjVc78PmJBg8dowqsyordtelIls4qUIozXRXK2VTN-uREimHfdT9KVMiQrSuwD6VB28L0ItokKE06Dr_NrKzL03cXlB6JhLiI",
+        "width": 3896
+      },
+      {
+        "height": 3088,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101765257194053575980\">Maxime Bruneau</a>"
+        ],
+        "photo_reference": "ATCDNfWMM-nIUg2Uk1DEIB-gTFuOVSeH0IAXoLbw2DN480Z6bjLg_2CVRNYy_Wv7snpYsYwKI9Bt4f5gsHgeO5hdRvY-Nj5CM2XVXdG8CBANEzL6suIEz75wETjHD5Yh5lZxSxCHjAiXlCp0oHlfzfn2_jXD0xvlqBD-rQQt5aoZdlAK-RKg1aHkNf14vHJdL8rpBQ6NeSOy-nUvMVv7kHTrR8r4KOFPWVUdV1NefQt-_K_cfGIM63Zh01Lrd6EFEigdQCCWhZiKKb8e4CTohMXNbTfunytymXeF86LIZrT8tOh5XgiXQ84hKRq21w64gIxa84dYrtfarhFTJxCSCi5BbwFnOb84glukLS9p4XHlq1jMP-N_cI7pcQKHxhLiVWfx2WckvVhqkgqIRgQPjMvA4-u4qz7nB7h-pv8dKYD2wfjghf_84hW4fgxG0IcA2zx7",
+        "width": 2316
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfV3K5gBCnAhOi6tmA1_J7FcgsQGNeBOAvSEDV0NENWKDAL_d9-Qtvj_tgLobPDdLeprFBz0gvvzA5cooPPs6WEFk3a9cNCDqVvujX7uWcrqAxXVkhEYVwdAs2zf53Ah4AdhFHyzNBji5w8NIaQxHdm7oyh8HtlC6DHWsendStHAmRUoywycGYQRXomqhe0nnW5lNmEKtnxyrgsBQDVxE_mvaqmGqfTyOmDEb-ZvES5s_DZAFSKj-4FyUM-XhNnC8MLanvp59_n3MrSXKm3IZ1X62X4fVl80VESGJcIEKrc1S_R38KDEFCNKSIILeZV3UgbrMyqjdG7vsDG4EcCgqBPxlrghp65lNYDiOJd22SDedbfLKyUCaiilFQsATzQphZzfql2p9EK9W0n2CqPPgx590Lc51-46span3p0Yl1UDdmiLJ5AAokE1n7E49_Jw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJlzcOd2Y3yUwRpt8CHq6jpKs",
+    "plus_code": {
+      "compound_code": "CX58+5X Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX58+5X"
+    },
+    "rating": 5,
+    "reference": "ChIJlzcOd2Y3yUwRpt8CHq6jpKs",
+    "reviews": [
+      {
+        "author_name": "Heather Tims",
+        "author_url": "https://www.google.com/maps/contrib/115346123022304557959/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDZWJGwcPW447nNlSYVLQYPxlJsdXGNdap-37bzOTwfpoCZw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "After looking for a decent place to find a good pair of running shoes, my husband found this place online. First of all the service is really amazing and tailored to the customer. They are extremely knowledgeable and spend lots of time making sure to find the best shoe for you. Even better, they have a treadmill to actually test the shoes out, which I think is critical. I’ve returned too many shoes that seemed fine in store and then as soon as I got to a gym found out they didn’t work for whatever reason. They even gave me tips on ways to improve my form, stretches to try etc. And bonus, they were so sweet with my toddler who was very enthusiastic about being there. Super super happy with the service and I’m sure my runs will be more enjoyable. Thank you!!",
+        "time": 1736707522,
+        "translated": false
+      },
+      {
+        "author_name": "Chriscelle Marie",
+        "author_url": "https://www.google.com/maps/contrib/107308887621272485189/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvic510s9o6U6lK5a8eVPGofOzIQtf1-qrZzeaFcnqzNjWjXQCdg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "The service is amazing and the owner is super friendly and helps you with anything you need :)",
+        "time": 1753579552,
+        "translated": false
+      },
+      {
+        "author_name": "Phil Boudreault",
+        "author_url": "https://www.google.com/maps/contrib/115949452589328520619/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgrfrDSgKjte7w4PlYCn4b9A7C6mUdmKrsxZZ5hqF2CKJUAvoR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Great store with great prices! Plenty of local products. Alex was great, friendly and quick ... will be back for sure!!!",
+        "time": 1751598025,
+        "translated": false
+      },
+      {
+        "author_name": "Jay Weiss",
+        "author_url": "https://www.google.com/maps/contrib/118362261203964440551/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhkHKm036KhodhGQEuH7mqOB09_SzxU0lbZ23e81G5cMV1f5Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great service\nHighly recommended",
+        "time": 1709079846,
+        "translated": false
+      },
+      {
+        "author_name": "Maxime Bruneau",
+        "author_url": "https://www.google.com/maps/contrib/101765257194053575980/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKkZEugBVUd4IZiLOMTAnKvBLADqPt8lGBkO2tE-hoIHDjrw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I had an exceptional experience with Alexandre! He took the time to advise me on finding the perfect pair of running shoes for my needs. His service was personalized, professional, and truly attentive to detail. One gesture I greatly appreciated: he allowed my dog ​​to come into the store with me so he wouldn't have to stay in the car for too long. Such human attention makes all the difference! Thank you again for this impeccable service—I highly recommend him!",
+        "time": 1756493690,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=12368190444889366438",
+    "user_ratings_total": 39,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 585 Av. Saint-Charles local 220, Vaudreuil-Dorion",
+    "website": "http://zoneavantcoureur.ca/"
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "query": "Les Manifestes, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338487.8066442,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "no.201",
+        "short_name": "no.201",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "401",
+        "short_name": "401",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7W1",
+        "short_name": "J7V 7W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">no.201</span>, <span class=\"street-address\">401 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "no.201, 401 Bd Harwood, Vaudreuil-Dorion, QC J7V 7W1, Canada",
+    "formatted_phone_number": "(450) 218-6264",
+    "geometry": {
+      "location": {
+        "lat": 45.3800405,
+        "lng": -74.01970190000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3813640302915,
+          "lng": -74.0182637197085
+        },
+        "southwest": {
+          "lat": 45.3786660697085,
+          "lng": -74.0209616802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-6264",
+    "name": "Les Manifestes",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3243,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfWyGUHzcJ-5VeMCTA4fvpFy_MrL0RszqsOgtTdGdbL4B_RNWVZfb5JiqnmCWUBJHT2DWxs8O4VSUCW6NCMNEmP86loagW2pMhcTfl6P58-Us7Ksb4lfZoJn3FeISYQQNmJGIsNgwAL4tYkg2dLMrGc9CyawJlEntkKJTEzpLd2gm8_dgjX3pIUzZrccG4kRQ6keSMXPfuhEoAa0_QGvLuE_pF_C317ZzNhJIu5d_M1smA2KFdY7fAPkrHXCwypwaWdOBeX1ZeIqig9Msw-xLSRqfios0YHA4QBCBHMrSHAUkg",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfX6xbtIfEpFNLH5vHNTti8UQGqwnqb_2AFkrNTKvx5ymKZMXJTI7ixMlvWcdITTSKjEFECuyW1vXoUGyrz0oCOKey18wkdRXUWdpQkAL8MqkvF1r-BzOWjy76qamKDiC7jJ24EB-xBdmDxCSWJT0KsOJWl6yGmHDGkaZi-ka7955TGX9SL2Pbz334cNXT-ZyyKKyh9ElL8cKYaYb4NEVjPZQECAwUOHz-34x-u3nEUrdEjH6dPC-CbaFk9BQTR1P8HPpo9jjtpR1rNzTFZIlbmzg7w5fNvcW-9Z-q8IpGTOPQ",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfW-h5BIDTlC7nHwHW7rlgVK5DoecF3uhfqWIQmWoDD2Sb-O6I_4SaPNouo2wyOU-CdKvR6ERKJI8ihpRdT21i6EqyElQSpt3CFAd07qlE9ZWxsDvPQtx1G-uYV-GWGU0hSwziCipjYyp1fTYXSyxSAL0HuK0artvveQ2-5wiCdd5Ut0uEzQ04dZp6aGn6UbYU3Zdy0tpJzqUjfgiGDuPpTQwArJ47mGeB7mxLvpKBrnGuraC-pgy3pFoIKciZ9UQLRAO84UGg6Z-7-as8jBNFXxhoFoq5G9DMMhTdjNYhIT5g",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfUXBeB5ZSkDQ2U6MU-nTOYHcvQ6eKQsMX33QBct-znSllD8XCG8FCvHe5Bk4TZ6jOvMN_qcqzDCx5W7PdPVMCAT8lcK-b3j3nZZ1xvHOfgL19eBkhMgPFZe8MjL7eC3WWhmdEZ7I_ZITwQZkXfAacIxUqUPsVKqPeBbSUBeJTzGbJr-J-yR7lIQI0Zm0wrHvOkxLsuHSE0mT-j4ocXaOmNZcTgIF_14lfgX5eUSnSh6V7QKRuawZKMjAguo7kDe_whNvzSnWi8bKjTgpl_-jHK4jQ5paIF8Y6EQb2Rg9ovaCQ",
+        "width": 3200
+      },
+      {
+        "height": 2391,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfVulku0HB-o9RNwJRjt7r1LTo8Nrt7qRcuWcl2M2LV9jWxq70NDuMB_8vXBdQmAsck7w14fGZuxP1N7hGYFHe1mKP6MWUUPIq-HpltNAnupf95yl7ErMK-2X7m3F7qAdWdTtb8iggr1ar8Io2VEecweOtwf3pYZVhJ5sScUsYtWayUWsShrmxsRv1UgnZyNv2IGA3q4JixhZuqZcs4AzUrHnRZDM-dZQX31VIeuiB5GyzUixatpxgGJ-ynM1wnU4ARMzWDqGYpQ4cJvdN0dk2t1qUSjvJuDENGENIx9VkeA0Q",
+        "width": 3586
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfUh2ecIQqeSE83mmODZBuHqzJhBio6ma7s11Ml0o1KhUI5XpNvzJoxOFsS5-xCmLq6lXuUG1cJdXs4zMJLLiJiCWFXLyVgNAOCzdLyA_na9XS8ux0aMXbp3jSR4yGgqiwFW1NGBYyujBZhsOFtA4BeC1N-uUxtDN5SaQmULQTQz9Cpqz9XsS-XrBbpVs1AhRYYxWVulG41ZfrrTnt0PLeBt_sruKhMhIjdvxXeI2joKbeFc1qTttJsS6oSfFxqD0xFJAhW_IbfvWw4iN-vOjYLi8qflPcx2L3YIYec5IFvdGw",
+        "width": 3200
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfUjxlelIFXbQb0c880IJYtW7wZ9G4zTrCctxBYzIfirw_yEcD3EDA5NNWUtfaWaKA6XWjJMkx1ZYvDPCyVzpl5weYfd3TVxVCQRjkzf3i6fcV7BJqnT4otdEdGMFkcxzFmFXuSyuvgM_HrvvG2BWiY1YzM_BMwzkmsU2Zso9cmlctDwIijhjL2MBCpKECAiHoZ52IC8GAA_F2HNtHmCwQlQKpwpYkTRJ8hJvNFQU0T3CQcT9VgrRKysTLQG0adZDkxnjdrJ97GXuf9iT_W-YB4ovBoT7JCJnuycbpUwCo3MZw",
+        "width": 3200
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfUZ0M9GWOmioHTNf_3lR5NUY2AY8O03-o0aBiba31yJRTXRqkZNkNgsjpXORH-yox8K8TPzsCkcenGk9RAogaINKHi0xdIeCZ_WIt8B1L_NMobXCRz6k2Tr60MOgav9gDvmjv2UEGpNS7QIoqFtn2cfFshcJvOzgM7xJ0gIkrEkKql8bqdmsxJLQNSEGKRZI1rCK7A7EVlityxMdCw_CkASdyIbg8jp3M_vCDNHK903LJxQKOW3p2dCk53UEoTFnLXB0-8ctXgNejGmqExa-lv0EYZRO8Q9Q88Rl2G_yEZGKw",
+        "width": 3200
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfXBVmPMOyCw1jGNNt1zQ0uW3VP_8e02fGdMF8c3vS085x71cWWiIQnHKfdSEWusvDJ8fqqbVYKlNS9AyHjTnAyobTIprJ8lY3QEG0UYW3w7mKpujwpAYuQrpIRnTFzX30gBrjRLrJwI9hBByJSmB3wJLljZ8uPh3M7BQ5Ki9KG5uR7cMS28k-OFGlLgtL9fD96WAp9jTux9DCUfIZUDWDhnmke7_GlS_fZzJrKAivn5Zf7-ycrmnl09MT3XyiOoQnJPqJlfGFUjeWYTNJpjGIxSSF0ITm_yK_8VpHmbNI3sDA",
+        "width": 3200
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101890613659441762795\">Les Manifestes</a>"
+        ],
+        "photo_reference": "ATCDNfUg_K-y5G5kXLzUHDuJImskcU9cl740H5QWzHozaNJjNIZDrv_YnEMKlXA4CxLU23rraSZm2V8OUuY_MujoV-NbBzy3LzTPM7RYhIcxll7heGZmcXpWlhC0mYe_paGkvZ87T7__z0J1-iY6C4jaetkKmfrnsTqy3cn6h3VRk0SPyI3YFglhCWQsdHKqw_YCouHHYZlIqfnCF7zzKXDo4Xuq8hZoPd78Jt0NBQr2l8g4aaPScMucqQpvrr0f2nj1P5cFqZfJxZF9hOK-3dP9Ci9rGPWCblHLqJ1exiHEo7WtRA",
+        "width": 3200
+      }
+    ],
+    "place_id": "ChIJUbo9Cx1IyUwRrVXfNW20z8k",
+    "plus_code": {
+      "compound_code": "9XJJ+24 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJJ+24"
+    },
+    "rating": 4.9,
+    "reference": "ChIJUbo9Cx1IyUwRrVXfNW20z8k",
+    "reviews": [
+      {
+        "author_name": "Hélène Bossé",
+        "author_url": "https://www.google.com/maps/contrib/116600856676338532681/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOtzwJ2dGmGGk3M3gA9zdWwsq7H1w1HwAYaeeUUKs_vvv_SCLT=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I would like to highlight the excellent service we received during our branding project. Edith was attentive to our needs and our goals. Her professionalism and creativity greatly contributed to the quality and consistency of our approach.\nThank you for this remarkable collaboration!",
+        "time": 1761238606,
+        "translated": true
+      },
+      {
+        "author_name": "dbpromedia",
+        "author_url": "https://www.google.com/maps/contrib/114879445012670735439/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDM3QG6eDs2-XannLYt5Dy6cuOTsVtHHlRyy0kwnCSYj4_O842=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "All of our collaborations with Les Manifestes have been a success. The creative team is dynamic and efficient. The experience is always exceptional; we recommend them without hesitation!",
+        "time": 1758892752,
+        "translated": true
+      },
+      {
+        "author_name": "Natacha Gwizdalla",
+        "author_url": "https://www.google.com/maps/contrib/103601974400894089305/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4E4NGphY1POWoKyeUZR0JM8miDtJUMgxKpz3anDUtk5AS4qs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "The team is professional, creative, and attentive. They were able to fully understand our needs despite very tight deadlines. Smooth communication, respect for deadlines, and a result that exceeded our expectations. I recommend them without hesitation!",
+        "time": 1754921720,
+        "translated": true
+      },
+      {
+        "author_name": "Francis Legault",
+        "author_url": "https://www.google.com/maps/contrib/107269773569306520579/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSVD4oclxBbk-tC00PhevgsrE02gJJkYPeazCxRd_KfgiTTw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Impeccable service! The Manifestes team is professional, patient, and very fast. I highly recommend them.",
+        "time": 1757943214,
+        "translated": true
+      },
+      {
+        "author_name": "Jean-François Marcoux",
+        "author_url": "https://www.google.com/maps/contrib/109589168681488628201/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRncmkv1qaGqmA7H4_CQpRwdFFjiDui91Mh6O1vGdB7BNuD_vJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "A team that listens to our needs and knows how to take our thinking further with effective and innovative strategies. Professional, responsive, and always committed to providing quality service. A pleasant collaboration and concrete results. I recommend them without hesitation!",
+        "time": 1741107101,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14542040102950884781",
+    "user_ratings_total": 14,
+    "utc_offset": -300,
+    "vicinity": "no.201, 3, 401 Bd Harwood, Vaudreuil-Dorion",
+    "website": "https://lesmanifestes.com/"
+  }
+}

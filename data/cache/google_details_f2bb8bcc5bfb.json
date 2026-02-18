@@ -1,0 +1,203 @@
+{
+  "query": "Julie Bélanger, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339308.7803113,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "139",
+        "short_name": "139",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2K9",
+        "short_name": "J7V 2K9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">139 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2K9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 3:00 PM",
+        "Wednesday: 9:00 AM – 3:00 PM",
+        "Thursday: 9:00 AM – 3:00 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "139 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2K9, Canada",
+    "formatted_phone_number": "(514) 462-4226",
+    "geometry": {
+      "location": {
+        "lat": 45.3871865,
+        "lng": -74.012621
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38845813029149,
+          "lng": -74.01136166970849
+        },
+        "southwest": {
+          "lat": 45.38576016970849,
+          "lng": -74.0140596302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-462-4226",
+    "name": "Julie Bélanger",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 3:00 PM",
+        "Wednesday: 9:00 AM – 3:00 PM",
+        "Thursday: 9:00 AM – 3:00 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJU1U5_-E3yUwRcj06N0Nnnpk",
+    "plus_code": {
+      "compound_code": "9XPP+VX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XPP+VX"
+    },
+    "reference": "ChIJU1U5_-E3yUwRcj06N0Nnnpk",
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11069398472510291314",
+    "utc_offset": -300,
+    "vicinity": "139 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://homeosante.ca/"
+  }
+}

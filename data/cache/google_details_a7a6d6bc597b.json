@@ -1,0 +1,385 @@
+{
+  "query": "Vaudreuil-Dorion - Centre Service Canada, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339919.8321323,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2555",
+        "short_name": "2555",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Dutrisac",
+        "short_name": "Rue Dutrisac",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7E6",
+        "short_name": "J7V 7E6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2555 Rue Dutrisac</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7E6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:00 PM",
+        "Tuesday: 8:30 AM – 4:00 PM",
+        "Wednesday: 8:30 AM – 4:00 PM",
+        "Thursday: 8:30 AM – 4:00 PM",
+        "Friday: 8:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2555 Rue Dutrisac, Vaudreuil-Dorion, QC J7V 7E6, Canada",
+    "formatted_phone_number": "(800) 622-6232",
+    "geometry": {
+      "location": {
+        "lat": 45.40375400000001,
+        "lng": -74.03601200000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40521348029151,
+          "lng": -74.0347796697085
+        },
+        "southwest": {
+          "lat": 45.40251551970851,
+          "lng": -74.0374776302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "international_phone_number": "+1 800-622-6232",
+    "name": "Vaudreuil-Dorion - Centre Service Canada",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:00 PM",
+        "Tuesday: 8:30 AM – 4:00 PM",
+        "Wednesday: 8:30 AM – 4:00 PM",
+        "Thursday: 8:30 AM – 4:00 PM",
+        "Friday: 8:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUHd4hY3mM5XdHxxeT0-vI9dRwddKgV2X44-JsMxxSRKujoHVUJRDGU7luqMsiPua5I-oEar86K_dEf9LAosTDJTPZ_RQPc1fn7Y_ywR26gzv0nYAw9QxFyOndGx76yKK7oUttu72x6C6jQL9cA-K_5on9c9ShYQdTkjfngSWetrZSpZs5vyMxBGeTJqrduC16y_exILBCLOBhfozznQCPHvWGNMncv9msD5QQ3JINz4kHrvn42VTfJdp2g-6PbLwKRzvaw-XOu6bEiKprOQEUPlMfivqebcyWDT7UgnfjGEpsEPHeP8EbKFsocyQKKP2iygNZ3eGwnI_fTFMAxJ0HNNkj0u2i4yT8f2XmpuehBsycTuKN_SYlvuhg3TKaxXJBcp0_atoktJe1FMbbwarsMjQpvhzDo-pZYltJwxiwVuijd",
+        "width": 4800
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "ATCDNfUnlAhSfh6oYPvdmu8-orCvyhkuVtZMVpNvbuMUAxKeuf5SfuNu1aQVQZixhDawdmK9397bSL1ERh-R57yI5WQbbuxLNK_CdRSaXbySYBD1rEd-chpQOfiQT1CKelYintyccJg8McDu35sumtKUeQ5-wrN-QVwyN1KsjN-t6K_NVUoPcpTM1-Lv_yrvhcil8-mmdFX_rbKNCqtPo3J85ZqbZGpPyeyU0Hgkg1OssC0WBx1jb0bUEm4WCYyyY0_Xl7a37VgSLp7bmIj7-pvUQ0H4mE-AxY1l4TON9_VR2Ih84m2n8GmL7BQIK9XcpmIccNxQ2rigbyvvVuZr_z-0mr7GtO4v3frrBw86SoIbFJOwsb5jjjAfWOoZnm7uvaZ_47cKd9nFWl4ED-F8u-r4pSFlN7rZAT5rhEZXsrxPK9K7ZKSy",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "ATCDNfXuhhJ5yzKtLyD3Ax3djZ1qtonaBk_RGSBIAfasbzLPiKjnAP98dnia8Bkigtgje7PrRfgtgdUywdc2yFsMy2lxjeWRbrbuiGFegee0RgdVU9vw9rUOZz8v1W01MBnIV-LrqzIKr0Chq8gocMaLg8lu46MUDrhGtkOghFXwMuwB8Yr0NasL_5iTybMcwKUA4-pVlh9DtbcIEVdG_qt6xkDKRPxMUZ51BRUdnyNBV3k_y14KJP3Wpsrmzj_clh8qiKF1BNOEJBR1w99p5YarKYJlHscDKMlEm7KSJgSJy0mJFe-krtSXQ-fpazn4tr_WlBs7pcyq2DZWNL_hHnKaI7x5nL707tz6cOgV4CIYVXDbbUxWsfzBUOHh39LT3npsDHJQG_OsIjGuQR2Bn_y4Cvxz1nB0hwtUVZZffVyNVsI",
+        "width": 3024
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "ATCDNfWSQx4faFJ0hb27E2H-YN46LPNGpf6zn7tLXS4kvTKaHgwLYIkfAT7gKjQA19nvWEk9zJLHxwH59_otKhR87KV5NQjhtepeF_FyPiJwDcFYMv4yM3mCGHKUF85PR_qcvsdKdUWroNamwKVE9exgXbCarbxHMTQQ_Q9JfKskp03QGb0Cyie_aTFyIR_-Gwu0-SWlBiE48V857Ddx1JvnmRj7nkY9rFFDFI6mlokzDRAeSwODDBw7LxSd0wstkKKkRbNfSj0I9caHsv1IwwMa0Zpdn21gh2zNvdlxUUwC5wbmpxXlA-TjlbVPZ_hJ61QIAQz3G54ioR-4TkadYyoag6nmbWBsmMknDF-Wqs8zbTeOVmBgKj46tGlU89FtZecGuRJE1abQGGKzE3w1sMbLwjhHk_pV3GeYaQqVnijKiLg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "ATCDNfUsxkDnGLSEaIx_HJYecv6LIW5YEltBKGDPW14VLmYh49Oa5t03_aV_G-1CBLD9NjxPiB6Tj6p8donZFeuW_Q9_jswy8cvmFCSWrCGlA1mZqZAYsXOm2nGn7W1lVdfGKzCxDOGYL7ZtSYcwUOSCGvP8KOsPdjOHE0nkT6ZiX-valifW8U1qGp231kGMvojlAJJO7o98RjkwyEB0k4DaL1lA6yJhfkMv-ZuMYJpurD6TUdENFf9OOXmplZj1m5IbFfnaXU1zTR9LcN7WO2VlBYLdeNnNQZHzIuLQzldOZu-0yQrfJDBTeEqzZcB-7VSnAdYQj8sglJsHKQ2cwF7L-b_MrI3j06sDtajGlOCE6jFT_2gCNbDLGHJmO8MpjU8uUtjh8D3enmIZGQJc93GIqL2v2IdaGkcP_DgIo27LXjbLgg",
+        "width": 1137
+      },
+      {
+        "height": 1524,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "ATCDNfV6RQmFAh02LEmU9MKBrBuRbuDRLajTHFO9jEAAYgPNfXEA4ACijIjkTyaCBpUuPRbDhBl39cSiqLc4PM5UREQNCNp5jzJwdRdk0gNHJq7eO_OdZnYY5ox-Fymj7cdD8VBjhihOvJ8A51Qh5-fsUSgLm-5UI3F_M0zDBW2lRihSQfr_bh8e7NVdrya4PRtCc0DVCFjiKQTT9J1a0n8e4bR7xpT5kB1NmzD3h4BtpVG0IEXY4a14AHSLGnUgCuJyW3_Vd519g4D_tZHNZhxcltsdK4Mf2eRr3WPcGjTFHnQrt6kiQIDuiAnWBrjsQ8IbpJ1PEXeGF77rJUsFi62Rs6tngdEGOlEkctKq3F0b3l9SbVfNAy-EJdHwoLAjBCWtwtR6jL4_rkCdD1fjzcezA3IHpzn6qHY9DeN3lLwjg-0",
+        "width": 1133
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "ATCDNfWxLO1r4CUy7OIk3J8ytCgIr_M_wxQZZ9AW7oIZ-3ACLhT2JJZjy2MbIJ-B_Dr4jODJCt5CLV37aq7N4QbFp3gbaWShTRqb9nZBmzLQjfczEMV43JqKbOy3v4eHuz4UVEFsEM2He8gA2EvR6SYJqT69DMGHp40hIywIzaXBzz_kLWNyC0cKI63t01fKMPWlePKr8Ngaoiaz8nd3MkHhBb8hi0hxpnxFZSnbv4LkMAMIjMYZVSddByJWATNgmG-9U-_IPdFsXdMyDAq8pV0wR-J-af1zPNGmL1JDnzChGi9HdX2mN87nN2EJWGUWx-BInLMumsT63JrkWjLwpkhaljCivsm5QPgJRjfqKvNvRp3MRO_wGQD5XMysYCvDnEU-E1DMzZB6NgfKSH3EwshiLu69hTsMjPIOhQk3pubDLZw",
+        "width": 1497
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "ATCDNfUK7_J9Vdkw4pShx9NvrIo5LhRR5ID-kV05T5xSuVWY-99lKbzdEXf8JlsT0tNfszQ4oQZyyhBsRYwwn3ly-qGYM3Bne0nACK2CDnC2Q7Lo37bVZ_XfI1HdhwG2-URT348NqcZp7SjWSXena3k9gHjqWez97_Lpi7txR8mYRKfcH5cdM8c4VuQSEDlTYOcbV1o4H8OKrfrZbpKjHtemSsNNW93eChzMsp6eV6O7Mg43IEeixYwDS_G2-EYMhrWkPjyFJq9P891XFUX3Yb7SXEf2BKYuUB_hJyZF1j5zancSVgGbPBJCciphWQeq0dv4MU_WpBVumue3xhwyOK1uGwEZQTr35Up3q_Tx-h4QGyqAjP4rVbeHwkLIGaUURDdrbCDcfIh6i43_R-kIqc76tHUfBN9iu_rDaxLSzvvVhN0KFJpV",
+        "width": 1512
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "ATCDNfXqcXBgXxC-DmtTwOHlHJS3BqiB-og2E3vH1z5bpHgN9_KohZHn10hjQDyPrGJCmUkhZn4M3joSPK0tzlQgxjCM6GJLXE1uztiMZcsOaPMbdTBv62p4l5-nRaxTw11tlvW8WpWb_OTPmrrwjpMUQTuOPPwhwvl0vedp-VfUSOIz6K77kpyG-y8R6m3xvAwCVtDHK4-QyML523iHDcbIwViJbWrpDcXI5K6ZQGhGp0YE9ZQU4twBFNB6kCNxzU3JIqV3FsUQLHqwzGbY9DJHDhil40bnG0mcHBJ_joU9MW60YN5ehcLHIoQMs3-nJJLHfB4MuyeD1YaE_fAyPo7yRKRMwZ7izaszDWGELQScn2SlWEu60xaebLtmaZBr9L5BlEd5yTSWTAYOQVcMxMs-iuzc-2hpgrH9zfl4_hvGMlaCtPJC",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJT8hiQjM2yUwRBi9IDdxDlUw",
+    "plus_code": {
+      "compound_code": "CX37+GH Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX37+GH"
+    },
+    "rating": 3.7,
+    "reference": "ChIJT8hiQjM2yUwRBi9IDdxDlUw",
+    "reviews": [
+      {
+        "author_name": "Daniel Bonning",
+        "author_url": "https://www.google.com/maps/contrib/100957430724865790978/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV6dTarT_T2obD9IvPBhylOnmYtHIVWl68YDMg3syefWcHiCFd4g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Came from NDIP to apply for my passport on a Friday morning just after opening time. Time to completion was 35 minutes flat. The blond lady at reception was very friendly and helpful, even lending me a pen to fill out some parts of my form that I had missed. Nancy, who processed the actual application was also super friendly and efficient. I was able to pay by tapping with my smartphone wallet. Next time I have to deal with Service Canada, I will be coming back to this location. In fact, I would go out of my way to select this location. Opening time seems to be a good time to show up. There had only been three people in front of me.",
+        "time": 1763133310,
+        "translated": false
+      },
+      {
+        "author_name": "Lindsay Ward",
+        "author_url": "https://www.google.com/maps/contrib/112699668209678794787/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbe-4INovPKIGpnqV9H3pgNwX_FASgtig67MmTg68lVQr4lXURKA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Above and beyond service from Maria!!\nI went to have my passport renewed and my son's first passport. She was so sweet and lovely to deal with, talked with my son and a beautiful smile. But here's the real story (without embarrassing myself too much hopefully as I am still mortified)... I was totally fine all day and while finishing up the passports I got suddenly ill (made it to the washroom but it was bad)... we finished up and I ran out of there as fast as I could so mortified. Thinking thank goodness I won't need to return for at least 5 years hopefully.  Maria called me the following day just to see if I was okay!! How sweet is that?? The service was above and beyond, even on a busy day for them. So I had to review even at the cost of my embarrassing moment 🙃",
+        "time": 1765296287,
+        "translated": false
+      },
+      {
+        "author_name": "Nic C",
+        "author_url": "https://www.google.com/maps/contrib/111763259335208931927/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCzBlKWZE9TNC_4IBlcslxvjIgzoDrVf23chKmesWoUC6n5RDc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I booked an appointment online for 8:30am. They opened the doors right at 8:30, Nancy came and got me for my passport renewal and had me on my way in about 15 minutes. Quick, friendly and easy. Thanks Nancy :)",
+        "time": 1765290006,
+        "translated": false
+      },
+      {
+        "author_name": "Nikita Nikitin",
+        "author_url": "https://www.google.com/maps/contrib/106868251007559663696/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgl3jFE32rno4ojsvtHAS5skOMo4Rjrb_-rRd0JzBuuZnn4MmU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Applied for our social numbers here. We were well received by knowledgeable and accommodating staff. The centre does look a bit outdated, but I value efficient service more than shiny premises. Thank you.",
+        "time": 1762716878,
+        "translated": false
+      },
+      {
+        "author_name": "Lili Gao",
+        "author_url": "https://www.google.com/maps/contrib/100105523364611275880/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMQtdCoPrbu2nNmPoTwYsabOGeJFzhMo4X30Yx9X66S7X_cg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "I just went to get passports for my whole family. They were super helpful! They proofread everything, helped me to correct all the mistakes, and were super nice! I went without appointment, but only one person was waiting in front of me, I waited not more than 5 minutes. The only thing is they are renovating the building next door, it was not easy for me to find it.",
+        "time": 1743434436,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=5518391530807111430",
+    "user_ratings_total": 40,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2555 Rue Dutrisac, Vaudreuil-Dorion",
+    "website": "https://www.canada.ca/fr/emploi-developpement-social/ministere/portefeuille/service-canada.html",
+    "wheelchair_accessible_entrance": true
+  }
+}

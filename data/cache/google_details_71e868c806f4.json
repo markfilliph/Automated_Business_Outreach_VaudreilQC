@@ -1,0 +1,432 @@
+{
+  "query": "BROCHETTE, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340351.662911,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "#106",
+        "short_name": "#106",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "120",
+        "short_name": "120",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J2",
+        "short_name": "J7V 4J2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">#106</span>, <span class=\"street-address\">120 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 8:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "#106, 120 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 4J2, Canada",
+    "formatted_phone_number": "(450) 424-2441",
+    "geometry": {
+      "location": {
+        "lat": 45.4117608,
+        "lng": -74.041201
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4131603802915,
+          "lng": -74.03982306970849
+        },
+        "southwest": {
+          "lat": 45.4104624197085,
+          "lng": -74.0425210302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-424-2441",
+    "name": "BROCHETTE",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 8:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfVroTXuOFAQt2kbCjtwcKVSeSU8oY6_-oyRzCVVeYlIUoWsxslHhV9CkVahVldl8tKhXAie52pREABNJZ_Apruyup8GL9G0XpomaT3XuVpQ7d1zcKKJXsa3V4exrTKzyoQfOHXvtrr4k-KztEIVOTga_u1d0i9CG3_1yyBneZ08Tlmbfqz0ejNymzrW6VzGfrjc4h-55DPSEubZqmbz0HvO4zN20m0qDBrXqURxrnsLnPRH5AZLeBRu2m1PDvxaxCJiTqwNAo8gLt-8b_HXEpwzXzGAE_v43LeYoZWHODeQKmru9oG9pN-TISdq5QppEfsoRVdnrI4TzIe3aTAvuE5jvA-oVdR7vOohYCiGtSmWy4cg9zh5syB8YFuooGOnsYn8VfubAGHWOzRx54sA2pVtH4n_4peey2tOpHOuF_6LI_nA",
+        "width": 3600
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107439712357729016717\">Elizabeth Martel</a>"
+        ],
+        "photo_reference": "ATCDNfVIqeZe2SbzKMIiQKC7qmyxAOXUDThkuCIcFd_gHUKnsYmUb3DzMyskKhDmuMoV00EtjOZQ8ApPzzR1Taub9SiH6Yo8WTr3rvKHn5u7bPlr-zEUWi6BcYJSgHikf46tPb6A0DNtFvm5ZSM9oEJq65-VJJw9NokuyS1UK4miuVnUcj3QuRSLHvaQK3JfdENyHwdbZzy5SNRMjLhCsQoGZSfcOlg3nGGFD9blZv6t-wP8_Y3kl8lBjtLRhov9mmxWFwGk7a4DZ6ELWPCbfl_6PAOblO71MPeJbhyKOM9iioYfRZAYoSPulathc32LroUDzf7I2V9261pRZRfHrMtENIgXbiegbooOiePmwBqVxRy1RC6m0xS8t85LmWuAbcaz8iRYPYcCQJ5-uI1wVXjvPEBcvoyy4ddwmdRY1_CI8Y6XCiQ",
+        "width": 4000
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107439712357729016717\">Elizabeth Martel</a>"
+        ],
+        "photo_reference": "ATCDNfU6Fdi8aZiQkHf0WDx0bvfcKaPQfpo1cdhlp42mTLSyJvCyDodYgJGbjv8Oe_FSIXOGQb3GQklZVgnoR50HDjOtYlmdjThsg5YrFrgnRrOu8_ulWvIVBebD2JeXYB0ClrWuYN_XRkLYBd1MqYD_ToEbWffUDCstChQ9uVXXYD15XN6WccjN_mIIPfwtFtMGGHHBDEWKgThJO4zRoTlszRHCzjn9wyf1Mq_mEdNc9kw5c4gGIDs3B6C9LhgcqBHPhSFgAB4fkSUqT2oTD75L091yRBropjiseLXcW5YLS96VPzlWWFU3ocTllgg5Cdg_6-WJku5uHoHKwm-c_XFYl-J6QjC93aOV-p7Ovv1etsXJOZGP88CZrSV048icyE3a8W8OjQv99JJmlm9tbf21TAUNj-R4QBDuGik6AoPU4x-6BVju",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106715536991125134136\">Priya Suman Baretto</a>"
+        ],
+        "photo_reference": "ATCDNfVyahuxr4fSo5JIoQZ1jsLl1cO5HY5R6e6INlxNqXzGgVxrVEBqFYkdLUpHIEZ1mLt-tDawmB3I2GEsXnXXifXbr9hyN2yuosBI9PmvdkNunGYL6yDJpa3AgKTvTGjT5UGbLCv7DIQym2_Rm2sMN09ZpzHWcJrlNAhs3O-P513xlqImZN7ylBJ9S7v6NpcEfEK0dHCdViYVPwefPYEULYXfiRiIrQAcjiA-f1PITjNkxHCny4QC3xmyR-Z0zgoGKUpUoONlGdmCArYDehJ0qJiZL-LNhL4VlIFSHqCwpFDB9LMxiwNFjsnWScvH8tpY1QEiVAapgx6hc_GkYDYTnfH-3egyzPyT69x4odg4F5lQuAVMB9qhMZyMFIoaXr4eIJjk1I93avZvGwe3FlbwtAL_YNYe8-9zUgm6hRgNjGd2nw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106715536991125134136\">Priya Suman Baretto</a>"
+        ],
+        "photo_reference": "ATCDNfWR2BR42Cb0gGrqQjUdcG00JH1tfy7vGy0_J3X-sYCF5JOjecx0M8WFinGXlf-RK_v5UwoYVK08Dnk1s1PSaYNDbBB1sbAQ5AZWcZj44HEdrQC04I6gxV1zWOb6GsAPHT7cc8jXKVweU5gQgUWNlArxN0eHAYhu0oWml94zbMqB1hllZHEdwJK3ls7ps_Gn8J9W7RP77q1tvVz_jhhrkcWNdP5mlIGyI9TdvhwGEzTLjdzcQWTPoMNPO1Uw7a7kqG2FVSZS03CFRXd0wJBIGEzEQHbsTvk6BnVlsOPiDdU0VtPCaOdif_ymUBYI45WvwpsIkN89rrH-TyOE83qgQCk6F1Nv3rDMoi_dXrr3pOTWwXie66q_kACbLUmj10ILxhk9Em0XRUMcD37fjL2LBq0_58dRBVNFkAzZhJPqZvsEaS4",
+        "width": 4032
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107439712357729016717\">Elizabeth Martel</a>"
+        ],
+        "photo_reference": "ATCDNfWStMF3YekEDmQATp_lxObkoTUL2kTex_wAappOzKfBCjW2neA-3XxEcg2v6JD1AcZpF32iUJngGgB1fxs-wEX0BB8xlk7PlxM05ROMfXqQE1JETY-CAjYLWMPZiYXdxUzapgzwNJaBSCLYSel23h2_vMrJhsH80ODPJpLqZ5I1FAIRWzZ6iway6QiW6N4z2FieXBUJnmHf2sPJblncq3CsUGfzW1PnwZt1zs9bOakpufpP_LE_Q4S1gw579xe3xBHK5Pr48gOEPSo6hZ2shcqepVxDFHMMBdcxtycIi6FKJ8ejsJ3YE9z09bRjE6BTf6xjSjEN5dBGeOkUhDQXcbDshklhMcXhuOMy3i2wmSer1ruPCq6sNfpACaQrQ6w8s4ymn9KYr9v4aAVT8rAgF7-_TK_iBLixI9IKglXQFCQ",
+        "width": 4000
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107439712357729016717\">Elizabeth Martel</a>"
+        ],
+        "photo_reference": "ATCDNfUVbZ3KOYLvn6-aOiKfZCm682jaTtSPGh-qT2Mcw8HjqWzoA5VqybhVUxALY4ZYwkwnospyhYm8350a--BWv0CdZsWRKPgrry1hdxegtTpSavkPvbIzWrzUKAm6zXM_HQQNZFfqPAtODibvSgj0_-4pIYedgAIFcLwCyV97c4tySu-almVrAxBZpIHMIvEKt2K0GtePdDGqXQUQxGMobeeXPvne0n-eihZeyAI5lH5qo5v7sIjENGmpZ2YwoqW9XY1cEPU5bBna4L2ieRZNHv4XeR-9xMjpkhGiHwfM9mYXeCEf6r0sDaqHKxDEc2OWdGSSqnzwlWYPozFr5WuIV6pfo4QXNm83a2ksUFn8-bo8e87YoFidN2Jfmud3F4zQIMecmuVNPmzQQREs1hlt7UQodJnbhl_-uPcbRzNE2ldq6SFU",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111955452875349801443\">Mina Gerges</a>"
+        ],
+        "photo_reference": "ATCDNfXnapVqlj7LuhLvPKVJtQXjXMyaau59Rd6ma5j8FuDXGrP1qYst0cqoWp_knFljrD8_qi9RxLkKdg5Po-aN5vGAsq0qwrkJUSePc9bOuT1EABVo3C44dhqjq25IyHe1QRAnpYfbf2b5fzqVS716kpMPlW2Lv_QAM11sEXBugXrBO3dYfW12dbkX_Fo3OTdtZk_ZXVZG-uh2MbEwzA9JGAHnydy-DX1T_ijtVzQguxAA6BwZTRtuN8kiUzzLVdX0iGCCOzih-DBY7zwASQFdZ93Hmb5LQZ9YbKaVMa6h9c25ZaaeDkzgTSY9W0iFFjAVDNmg6_dEScj82uEZ2Koc_4QIpbPllpRm20Ee-rt51Kp0gHRU4gZPnmFBq1ai-5YRdit9VL3EE6-Y9qdaD37TX9vkUqrECJFQngu8kKgs5uO62SA7",
+        "width": 4032
+      },
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106007381758245624610\">Joe Putz</a>"
+        ],
+        "photo_reference": "ATCDNfVXHzS8CdEphQ0QuT4QaswiOdj5u4DHi6uajx-SCsjW2xDkcktd7m8depLXa2sZvRv0L0CExopYxeQ5PVzDvNdvNrI5EOuCqaLJWemSHCSG8OUs91OgGSINKR9QAvZssMY0j1-M9U3lX7T4d_tuOVndE_3JUV0yKtTBvY4nYka0di7EI_B_SP3YuF85Uv6LyCcjkquTtMtGU_XECksacuqgEC3yMCWXRJt5eqddaxT-BDjW8pJvGzw8q4t-MjbXiDDc_5A2PcTZIrS2um7DYr7Xn8w6OlMLSODAhTmqvUAj18KAGChB_m-QMdyYDu3IgJZ0Q0nkY-gYfg2wdg76SLdt1M1I3ZyUPu9-_ZQctQM1g_81BsqKPYEXbWDrdFhuoZ1QTTOR4eIuJ3NgbAxqvY7qZzmZ_JcAlL1W_Tql_6XPZWmmijkAcPLyzxS915Am",
+        "width": 2992
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112289494859227436342\">Abid K</a>"
+        ],
+        "photo_reference": "ATCDNfXpJIhT28T8px-Dds1aLuGs4gXv0j1H637J9ijeh_CnODafZBrjwmY1mBQX0R0vmjhILizO4Lvt_JXdTNgYp0Px_gt3XHbGm8yGFaFqTgctXa_eP3mMwPvII0SrkddSZx2Prnhm8cbHEbLJmNuWj6UcSArKL1JlEmu3EBRVWEJ5-qtfame4M9tlsTg1f5y1XNM8Wb42AM0FrmkwQVoE_xMj9qVvrZ1gFaJmDDAmSAoZsDDl45-1_u2h2x6lstdngj9LOqvm2_aX14S0X88gFnalPHkYCw-I-yNhYBTUTJnIEhhXodTwhd9ODagKP8VS23HwgQLQ7T7AdpjIqdYVBYWEAi0io3E0wQsg8tQ8HwRDtccMbypGmf5praMdX8qFp1AK3oNrr2ZgsM9Jebg4bFAQkHsI7LSJqa9CGyyCs53ofZRW",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJpY4Jkyc3yUwRBegB7ORGVUo",
+    "plus_code": {
+      "compound_code": "CX65+PG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX65+PG"
+    },
+    "rating": 4.9,
+    "reference": "ChIJpY4Jkyc3yUwRBegB7ORGVUo",
+    "reviews": [
+      {
+        "author_name": "Joe Putz",
+        "author_url": "https://www.google.com/maps/contrib/106007381758245624610/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJh8K-72W3-iv9enkuT1v5Hu77BYQR7Yr178uxuND6WVjV9UJw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "This place is so good. I could eat here every day.   The wraps are made fresh and to order.  If you want toppings just ask.  They have regular French fries and the classic cubed potatoes but dont let that fool you.   Both are equally good and if possible try both.  If you want something different add a small side order of grilled vegetables.  They are blackened intentionally it peels off easily like a thin dry layer of an onion\nThere's a small shelf of unique items like spices and sauces. There's a pomegranate  molasses that is so good on meats and pretty much anything you want.\nJust writing about this, im craving a bite of brochette with  garlic sauce. 🥲",
+        "time": 1768709697,
+        "translated": false
+      },
+      {
+        "author_name": "Stella Lee",
+        "author_url": "https://www.google.com/maps/contrib/112933884660064764003/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqwrNUFchBBJtNhlpLHWc2BIUfwtorZ-v4YF4wK84HgZAwQAR93w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I’m glad the reviews convinced us to come here. We got two plates (chicken thigh and lamb) with the house salad, beet salad, and coleslaw. Everything else as great and I loved the chicken in particular. Even the rice is delicious. The spicy pita was devoured — my husband remarked that what was usually the worst part of a plate was the best part here — best enjoyed fresh! Services was very attentive and kind. As others have mentioned, great value for the size and quality.",
+        "time": 1764390178,
+        "translated": false
+      },
+      {
+        "author_name": "Priya Suman Baretto",
+        "author_url": "https://www.google.com/maps/contrib/106715536991125134136/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7NV0geR55FAkxLk788gSZ3NW6dX9zZUN6uZ4mIo9DyNj_7JM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Delicious food with generous portions and great flavor! The service was exceptional, and the kind lady (possibly the owner) made our experience even better with her warm and caring attitude. And yes! Try all the salad options she suggested, they were all incredibly tasty!\n\nWe're visiting from Niagara Falls, Ontario so we may not return soon but if we're ever in Montreal again, we'll definitely be back!",
+        "time": 1744997471,
+        "translated": false
+      },
+      {
+        "author_name": "Elizabeth Martel",
+        "author_url": "https://www.google.com/maps/contrib/107439712357729016717/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZybC6nPnanDUVMAd3oHEQuocKPMkmWP4LB10nd1MadzItT7TK=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "My husband and I both agree that never un our lives have we had more juicy and tender grilled meat then here, it really is to die for. We just ate at the Keg the other day and I have to say that the grilled chicken thigh i had here was better than any of their meat, I swear it was just so flavourful and delicious I was moaning with absolute delight the entire meal, my husband took the lamb, and I can't say which one was better, the lamb was absolutely incredible. So not only is the meat fantastic they also serve the entire meal, with 3 choices of salad, fries and this delicious pita creation all for $20. Oh boy, was the pita spicy, but it was so good. I took quinoa salad + tabouleh and Greek, they give you garlic and hummus sauce. It took about 15 to 20 min for them to prepare thr meal since they make it all from scratch and cook it on wood charcoal grill, you can smell the deliciousness as you exit your car in their parking lot. ENJOY!!! The bill for us both was 56$ with added 15% tip.",
+        "time": 1742679454,
+        "translated": false
+      },
+      {
+        "author_name": "Ian Campbell",
+        "author_url": "https://www.google.com/maps/contrib/103430792317517627859/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1dC2HsOG2StXnN63kjY-TRcV0N98Kk81YOnulyiO1-DKL0lys=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Great food, freshly made with care and quality in mind.\nI had the chicken thigh shawarma trio and thoroughly enjoyed my meal, great value for a good amount of food, I packed up most of my fries to go.\nThis is a family run restaurant where each staff member clearly cares to do a great job.",
+        "time": 1756067758,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=5356265280853108741",
+    "user_ratings_total": 408,
+    "utc_offset": -300,
+    "vicinity": "#106, 120 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "http://eatbrochette.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "query": "Le Zèbre Rouge, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338536.8478343,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "115",
+        "short_name": "115",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de Lotbinière",
+        "short_name": "Rte de Lotbinière",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2T7",
+        "short_name": "J7V 2T7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">115 Rte de Lotbinière</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2T7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "115 Rte de Lotbinière, Vaudreuil-Dorion, QC J7V 2T7, Canada",
+    "formatted_phone_number": "(450) 424-2422",
+    "geometry": {
+      "location": {
+        "lat": 45.3789254,
+        "lng": -74.0123749
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3801965802915,
+          "lng": -74.01111836970848
+        },
+        "southwest": {
+          "lat": 45.3774986197085,
+          "lng": -74.01381633029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-2422",
+    "name": "Le Zèbre Rouge",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114105257941323672085\">José Guagnoni</a>"
+        ],
+        "photo_reference": "ATCDNfVd956dcH9armXa0h2Wo5JXhNYAH_jrIyau2jCZ5sSttjYqcv4xVo-8F7PloD-FX_nttQE5h25Y9eG-8rvuH09c0EAUovggHKshEhDepzrZKtKr8NNtGmMIW3bqSzISuLrtqtUPr5_Z4v8homB3ltoZIC6yHtQDvtAjjHZFz-q8bZfywu_8DdzjsHEt_q1zfEs6qWS4ZDK1SBcfHl4Qc2JZ6OwOovNPkzAP7Arlbif-CmcnQlx3V11J5JPN3cyYybdcMM_iAQsZBeUFIMkJzO2OOof1Ga3VkcEMBXsw5Vdxig1QEPCJ2vbh8DvrbWCT-zoLbmOr--qiOIP3dBgZ8s_zlwikH0mXP-xPdDE984IX8geDhNduxslKzK7VkC2afQnZp4vjF4DOvArNhIQ-z7um5PSnltNnQyJ8hVl1Ym0gMW4",
+        "width": 4608
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115106213759291088815\">Le Zèbre Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfWDIycrjMPlXo3hz2rYMflyRDjYnfeIYLWFjrZYAIJdwsPQYyunN6YBiwQ3RCnwGancReRpMDwofz6l7NrC7rQrdy32cEJxNtV9PtedP-yuCKPSi2HBflPofUuIBkl_2Y_syYhe7ULFcu7u7qWvSl-6zH8-JrVPMh5vXhQCRVd47iDafA-erNSEjhloDyFfy-JmVuiHochYCXzVQVnML7UEbTxHTvWChST5SEfNC_3Yb4iehAe8A2lRpga6eLE2lT7xwvz8nCfdsiMjRl_e4rxGR7r031YCtPPfrmq2MGs1ng",
+        "width": 4032
+      },
+      {
+        "height": 2142,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115106213759291088815\">Le Zèbre Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfXjR1WG-PoVfsF8bRkYW_iiLmIgDQyg6bQDTZtmCxOjMaldUi7caZHGlaRx3p3onx7EzwM8GWWjrbMzPIzdD3a3yJ12M0dqA36VFKk0FoB-msPKPymIToKxG8_ROYNAZHL3b-6YCzgG00rSYag65CggnPaPmziFr0bDWsDCmWeRIzP8TkPKmWSI3sDkAFtNxglj1hBWYEqxwIAydo79D4wxj7VQhfjK-7og-_439jqpoA_ZB_I5wL-JJ-Aw94IDaVfiCtTXvs3X37ljOeKZjAEDea2PxlUDVjPK1cm2wFOuEw",
+        "width": 2856
+      },
+      {
+        "height": 945,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115106213759291088815\">Le Zèbre Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfXxfAS2vITRoMQZpuxt6xKPEWAPXKAdAfAGe4xmOTba4J7t2krLEmBeTzOl1ySFNzgSpmVNbmzomHo_jzsKr3uG-A_bMHne_38wXHjcnsD-RjRcNaj7ILSPsd7CBn1HVCdAiyLqOTQUMUV9J5BfhSMKiF-a75vR4TLQyTS9C5UIfL2V3xLUZIOrONL3yk2oBq36KVVuVod2uvs_oAMAxbLM0Hf_4LiCIXjINXHN4TcfsGIAUa7Dx6Vp2oXUR-E6DjD1n0Mev-DIDIHcMcIlfs9VdUJVEGXFIU9Tkq2sh-W9kg",
+        "width": 1000
+      },
+      {
+        "height": 2142,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115106213759291088815\">Le Zèbre Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfU138ef8_TNy7BHCPQvnimdasVnxdok0ZdKeVN27KhMwDELxN97R-yc_tSE79x9yF_6cWkMU8hMNM6lFBfoQmnOEY3tP3D5LJUletCWJrmgbzPflN1NXKkGb1pOHMpikmISjUjIrfv9FgtncJ5A4J39DelvNBo35n0g1bIn1rps1tEteHdLbCa7whyzoCk5aPonf2QDKlfJz-GrZLeC_S9acdtxHbgkEpAzZgmqNylWHnnxEgCUUHcmVWqGVHVmFgdCy-HHqgA-45_uM2WEyun1nNQFytWu7Dz5QELi0rTdZA",
+        "width": 2856
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115106213759291088815\">Le Zèbre Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfWiUPZygHTJLGp7OburFIxR8tmekOv9cBp_-fWvE_23hFkvfAf1COazJRvL21svCC0nwOjEKpksoDz9mSzFoppn3z__fQ2Hu9YjExnBpMAPwQjgNaGQpML1TN_LuspTIXMDsXa4brFKygIUEj4cFfWNgZkzpcd_AZSztGd7WKPNVRBWpAxbB27xQiWC8FyS-fAg5ozFaLq187gMn5YYwk_6RZh1OxqUgDoB4hooSJ3nMynL7PgLdRzdDzNR92tsQP4D-tHqv7Og9vUwRaZcnfMVLhQdH7hp1wbHHutxWnaRoA",
+        "width": 4800
+      },
+      {
+        "height": 2142,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115106213759291088815\">Le Zèbre Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfXd5sW4WPvBaNDB83iCPTsWdhxhr9ePzUyCdRQhKjH_ZI_utYrARaNKU_NqEJ8axXpjEFpTs33uknoWr9EWLvstK7gZJ0shRYyqH87L0ZMKmo53h63QnkgpXvfm8BBpCeDA3YoOkjiup1k33qSFIq3n5um_Teug4CaQ7dL_HyQ1nVV4r7gnIAH6lriODPZF9YLh9W8NPtqBqQwTb8bDc6LodbSLvkW5_ynfjV4K2NFClvaopgcjSB9Mzr7g0gErHB7GxhvR1qmKKAzA2BUXJccv3zlkDBBdjg1hTFS3i13VYw",
+        "width": 2856
+      },
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfVosx6JUAhIoWXYgpsQ2qEyOXWjGpuhCOpZiJ1_VEqx2f80rC8KinbGgpHkzOF_SGJceG1S0KIUMMrgjjTEXf1QNVKNECrp7242pOa6dgsg0b4QBuhi530fg_qq0QijTDATF_AZX94eL_1YbTzeS10vwsRaKVDZ0uWTokejuXWPmgf1UAtmMkUycXrI97dcC9lLb5FcZx2K0Tbdz-vxVCEkIkko8LaLLv7KDYwmiGmElKID086xnXo4DmhEPhk-qRQeXd9-gDd5lAQGQ8_hkltS9x8YVjWariOI7FSyibfBzUJcTxx3nxoULM5UfZcZoGyxMQRs6Ov0AriyFiuWxmwNmppDye6k8cvzrn9sQEjQ065NDmhVu75G_Jd6s3YyLN6jsUYqiIYWVlhyFtu9bXwG_hTt3e_kWTVMzDwnBbqk_07n",
+        "width": 1280
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115106213759291088815\">Le Zèbre Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfV0mSj_YHzALrEx8RxGdg9-wIEaA7Qtuwbm4DonCdKlP9_SGrjj4Hvy2Z4cjMV4-CUJBmhfAK-h3mwjQDfAhF2MHf-lF1eqf5O5X7LTugkycdoV5lap-euTT8T8mzO63RPYSq465iiqCGd_0ONBkQSnjukFATJyblRJSTUrqD73AA2q3_Hb-93_z9n2O5D04cqGjQs-74n-QvyPzrzrWqLN2ONQ5RVhRCNQRawAAaCTqAmdTYTsnKmozh9YtMAYmFpZMHV9tHxc4GdnWbIac6fbfa5QvpD3DwJrYEOTP5az3w",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115106213759291088815\">Le Zèbre Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfV8GAdw7P577EoVv3QHhzlgVHTBmokuFC_gmrmPo_kNe7pZMBn5SuMIqxw1EQjJAcYSR2HceSJWxmFxMGvOTKRlqYBPV9DgSQD214-piItbhqL2lrQZcEiazwD8UcmFRsiB8MkT3gvSniC-dA7qSiniuY2R5AMsmfIsTyKOhgI5gCOvtffF8vlt8tuSOxPzDYuzEXuO5p51BnCmYs4DBPK2sj_z1O824gkM5qhhQJzDmJFjKLZ-tU4m1eWp7zaSLEfjavYxqX2B-8CbjPqwtEuMvrFjNa6Bqvw30k4eMNuyTw",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJWaitlNo3yUwR7sVZ7AB059I",
+    "plus_code": {
+      "compound_code": "9XHQ+H3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHQ+H3"
+    },
+    "rating": 4.6,
+    "reference": "ChIJWaitlNo3yUwR7sVZ7AB059I",
+    "reviews": [
+      {
+        "author_name": "José Guagnoni",
+        "author_url": "https://www.google.com/maps/contrib/114105257941323672085/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp3Nt7_HlwkZbU5h6s3WD3NkB7sf5OcHsUlhWCP7V9ZQEc2Ok=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "It was the only place available to repair my bicycle very fast, good service, good price. They respect all Covid-19 rules and I felt safe. Recommended!",
+        "time": 1621396060,
+        "translated": false
+      },
+      {
+        "author_name": "Nafeesa Salar",
+        "author_url": "https://www.google.com/maps/contrib/111195468360033626435/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVx5SPJ8WUjwpiaWLdrkJ2LldeGjXKjm2Zm9PYOA6GbK9C9EVJJ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Bought a gently used $20 bike for my 5 y/o and they fine tuned it, cleaned it and made sure the seat was perfectly adjusted to his height. Great service and very nice team!",
+        "time": 1746299832,
+        "translated": false
+      },
+      {
+        "author_name": "Jason Pepe",
+        "author_url": "https://www.google.com/maps/contrib/108264377437495314745/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnjlK8JWJeNEqnIxTYEFw2S_Ari-FYzR7w6pIXxd8UxmXhz2uZjA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I am restoring an old bike, at Le Zèbre Rouge I found a hard to find part for only $3!\nThe staff I spoke to were super friendly and accommodating. I would definitely come back here in future for parts and stuff.\nReally nice bike repair area, each station had ample space, tools were nearly organized, mechanics looked like they knew what they were doing. I would not hesitate to bring my bikes here for routine service.",
+        "time": 1626275269,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Kaisserlian",
+        "author_url": "https://www.google.com/maps/contrib/110990138319247821671/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8As9BCusyRlQEIvjsD8n4l1tGDvS8OF724pxNSch1I5ef=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Went to 4 bicycle repair stores and was unable to have my bicycle repaired. Arrived at Zèbre Rouge and had my bicycle repaired in under 30 minutes. Staff was friendly and very knowledgeable and efficient. Definitely a recommend for anyone looking for affordable prices and quality repair.",
+        "time": 1627767644,
+        "translated": false
+      },
+      {
+        "author_name": "Karen Lynn",
+        "author_url": "https://www.google.com/maps/contrib/112808460719341361109/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmGqWT1tnUqCyPHaZy3UUYHerAf9lrqWXHbqUxBNItB2D79w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I brought my bike for a regular maintenance after many years of not riding it. The service was fast and professional and the bike seems fine. The price is in the same range as other locations but I wanted to encourage a good cause at the Zèbre Rouge in Vaudreuil. (I also happen to notice they are respecting COVID regulations as well.)",
+        "time": 1624394128,
+        "translated": false
+      }
+    ],
+    "types": [
+      "bicycle_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15197243014899156462",
+    "user_ratings_total": 39,
+    "utc_offset": -300,
+    "vicinity": "115 Rte de Lotbinière, Vaudreuil-Dorion",
+    "website": "http://www.zebrerouge.org/",
+    "wheelchair_accessible_entrance": true
+  }
+}

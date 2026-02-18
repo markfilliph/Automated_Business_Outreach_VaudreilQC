@@ -1,0 +1,438 @@
+{
+  "query": "NAPA Pièces d'auto – NAPA VAUDREUIL-DORION, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338490.4683383,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "401 Local",
+        "short_name": "",
+        "types": []
+      },
+      {
+        "long_name": "1A",
+        "short_name": "1A",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "1A",
+        "short_name": "1A",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7W1",
+        "short_name": "J7V 7W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "401 Local, <span class=\"street-address\">1A Bd Harwood #1A</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:30 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "401 Local, 1A Bd Harwood #1A, Vaudreuil-Dorion, QC J7V 7W1, Canada",
+    "formatted_phone_number": "(450) 455-5781",
+    "geometry": {
+      "location": {
+        "lat": 45.3804016,
+        "lng": -74.01916159999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38172468029149,
+          "lng": -74.01775556970848
+        },
+        "southwest": {
+          "lat": 45.37902671970849,
+          "lng": -74.0204535302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-5781",
+    "name": "NAPA Pièces d'auto – NAPA VAUDREUIL-DORION",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:30 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfWu0snAFz89K3ejCSljmf7aToJuWxBsZBlVFrF_0PHmw9LC3uHgcpC30XtGd0J9m-j_PEdTeOchJi55r1UTuQsc6eTnL7zX4MOdqqNHQNIxk5ADrGQiT6jvPYAxozmvfAzoKrT0Isrq-lgC1uC8xckWChmFc2cMZG_0iadmDngQ5_URrGUMz_kclFTWjzDCdXqE_XlxXhbKkWm40tJ-kvtQV3Won1hebOICGN6M4JhbhG-UjznAcRMFxkvinLc7AUoN02WdB2vpcxnwZiiNJs38BpmKDTDRXvFgEZOjdGLM76wpnPJk76RluJG9blJ1b6wFw_tckhIDmsFYkSRqX27hQl5wWCwCRO3ltYA7HS6x5d-3aKJAubYZXVssIWrrxEmXUxbPMwk-91SUme4we4pZtuMGnu0OQ0DsZl0vmO1yZg",
+        "width": 4000
+      },
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109735232331676849354\">NAPA Pièces d&#39;auto – NAPA VAUDREUIL-DORION</a>"
+        ],
+        "photo_reference": "ATCDNfUqwnuFyzJ7fViNJljNfIKL_3YyaUSe53SvCFyi4ajXsfivfWSHADYUYVI6h-4YmMDBU1yr5UMlD7krbCFpJF0zdt72KrzksJvfo4c4jzKJmf59vnju8iMQt5HjG-WBfiImEwF-94xZtcFjDIkHHY9Nj38DoAsUEKES7c282VBv4hTKTqxQedq5ktnyZZpiyQWaiZeTB-5DndbytWrA2n7KdcJJyArKUVeq7MJh0auT91-We1j_nQ4ejpAnINn25qpc6YXwqCC-a7JQFF0p4UuqKDKoej5XeSRUyY8FV9yXnA",
+        "width": 300
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109735232331676849354\">NAPA Pièces d&#39;auto – NAPA VAUDREUIL-DORION</a>"
+        ],
+        "photo_reference": "ATCDNfWtzeqtZf0a3uuHhL9dE8Gz_XCVw-mFcmBbujVmH--NmEJrenZIL2XUQXmBcx9XWAJZ3SqgHUyFI4rDTF3etKW-P_XxK-MlMs4dGEkVBCRi6_kibbTfSmBQEWIJM1Xcl9EHGCKnApx2LBoEUobIdSt_JJzNhc2jEt97pIgLsp_DrosujAIRgZQ4yDDyV-SkiDXU20IuLV9-zIwWh4ypmidIxqp4QyNLLn2uXTOUM42k0iQFl7Yt5jMopPN53RrqJbxq5bOXOhReYrDjlcPSYh3GD4q6KEKjZ2zFjTQkphHAAQ",
+        "width": 1280
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109735232331676849354\">NAPA Pièces d&#39;auto – NAPA VAUDREUIL-DORION</a>"
+        ],
+        "photo_reference": "ATCDNfUSy0I_ArMwmQVQaMTtKmNOy8VP4GQkQyruA5L8IVxbUHtUNcc6kdo0y8UB4D12RI6KC-DK_kg3WZPKoNPHZOj5KLcn8Nq0racnqRv-E9D0dwBRQi1H2CLfxqGR01VUyZWyWevCYzNzfKg-2HSnUh140JwzbQjiG0SEfyOt6lIRci3t2hSygDC-sdHASGFTwxXam5Y8S-Q4bBHErsd7bBh8ayf0M9NbeWujJqV3BWuvd8Yp_ozPRJgz4fHRFNt6fDBW5UF8k7qX-qzb5oWi03SLtaJAwetCHQHKsDuf3sTEsg",
+        "width": 1280
+      },
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109735232331676849354\">NAPA Pièces d&#39;auto – NAPA VAUDREUIL-DORION</a>"
+        ],
+        "photo_reference": "ATCDNfUBzvUIgHzhXvWIr9iAfikX2qGLRk7hU6igXGmxMqwjoDkw5beUwUDlhKneypX116guSkTUOjrsTfAWo5Xsh4dZOZ8zsRkaGqgRVdX6UQGgmwi5qO0AnQcs55pTJRnoz2vWFglMm13cKPECLSlpNDSlQui9l_lAbiwMLtNAXgK8bifgq_YFC49moI0xk-jM9rlDwgMvaCyjpI2S-DFpTJOIwWyUrOZ6RLdVDK16hvO363SY3XW-G2DuRdStots5E0pCjInRU2qV26FA95I7HiCYd9Y4DIKd7GQINYLat77Glg",
+        "width": 300
+      },
+      {
+        "height": 928,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109735232331676849354\">NAPA Pièces d&#39;auto – NAPA VAUDREUIL-DORION</a>"
+        ],
+        "photo_reference": "ATCDNfUe_RnhQXKCIXe0BeOiKfJYS2myvTlEh6ag3FhlFEO60jU_2lsiZFl7y1sXFMKEaftazygWuUVKys_Zu_hDUdow2UbDdAK4JSoIOtsxeJytPiDfDeOL3becPg8PrnMNyWSWZeBrqsLr9ru5up3k3IPiCVJu_fYMsRlefRT6yASFsZAzjYmiYsuzmrFVJLs5f5eO_ZL_ZkY-DOgcP2Ux4YQZVeNUwxWAPmK-9eaJOvnvdlrTrmqRTnKEuPBJIwsU0SdVcxUN9Ff_UrlCz_OUzMDUb2hKLeoXerQ5gWymgXRbtA",
+        "width": 1280
+      },
+      {
+        "height": 928,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109735232331676849354\">NAPA Pièces d&#39;auto – NAPA VAUDREUIL-DORION</a>"
+        ],
+        "photo_reference": "ATCDNfX05nq-kFaCZn_R3DhtSytyoszWQay6G0QNuUNV2a6glGsMvhPSYDlri7Qo2JdG2BtboiQ3T1wjNMcaRUoxoWiMa1ORzK_FbrPEtlkP3mJ-rfb1n7BwQwcMmq1ZrCAF2yZim-LMKwnR4mwfsq9Y8CWpLqCOSyzvNcjdoxnl8Ccgdeb-HhF92mKSoTRypsmYR9rFge6zsXTOaPt1n4VrQgvX67dEYl9p9BGUkfyblYVGg40UQoudwek1789e6ylHMbF8qUZGdAEvbTlmKorxL9mUY1dXkfS_Pm6u65ivEWd_qg",
+        "width": 1280
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109735232331676849354\">NAPA Pièces d&#39;auto – NAPA VAUDREUIL-DORION</a>"
+        ],
+        "photo_reference": "ATCDNfWJj3X1CnQ8YEohF_8_vfzBIDAFBEnGPvQSV1JdgNDaiW2ao680lSOtPxS3QeU48uSZq8E7VQd4KL-wtFzmlY0DlO0nm7p4bNbsSNAi-AQsv_BHSn1f4n3KW8NBuiLqX2yUhP_gAYzPZN6sWZHArjTFGRqdrUYM0BCnJYim2y8HLrRejIRErKFRtril4VT6Ua1CdMA0tPXAKHXh7rB1YeO4wqYQ6O8Zx1QkCg019kUGVceen2bejm6PTMvCgIiY7oJUP8KVlW2uaMMROs2kMPoCGw8egyX5jbVDAyHdnGxAvw",
+        "width": 1280
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109735232331676849354\">NAPA Pièces d&#39;auto – NAPA VAUDREUIL-DORION</a>"
+        ],
+        "photo_reference": "ATCDNfW09lH66iKPeyuuntOrvU0hDe1LQWWE1aw2uDAASI21Ba5quByX2IAoZFUGPQCuZGsOCuzjpNGY-bEa_0nzKPhL0zO4YitkAZHHste4NA1MWaS5x3F8AG--_SENLepgTGxb48TzMJMr-WgiaNg96FpXskH0iToyYAzFj3_vVDGlsrJa1wsapEFh4QHU_g4qMnKZMPNykdw9u3g2hJGQcXHrhD6A-5zGfdorzu0zlJTNZ5u7TFwQUp3YLEkL83JChu4GBYdm-bZmkKn9clQJaNafRt9z3Nc3Q2jZr_RIBWZh0Q",
+        "width": 1280
+      },
+      {
+        "height": 928,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109735232331676849354\">NAPA Pièces d&#39;auto – NAPA VAUDREUIL-DORION</a>"
+        ],
+        "photo_reference": "ATCDNfU_hCjOXUTKz_biFnqaE4kxL1xHfjDznfqo7uZA7315Sr3th_el7fNFCPCz0Ef8ppdFOmKLijGeoRbM06KhpbWa5RIWOw7DYDVtoZos3fNvp7mHxx03T0kp2a5IbBzD2ZHR2ft1hxdM9lnKfsBI1mqFufYdVzmxtCjRNxFxMt3HfKV1yktpStg-E-raA3ZnWDv0q_-8g8r4lrGxVpl2YfGPPwEJRPpjTCrrjTKmfgHrsgqAwFa9nM2D_HgKSQpMUZd8OJ7QpSxVGbfQekH4Kx-Z3PyBcTupmm5Rrde9iITedw",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJo6oszxlIyUwRDN8bqsFXP0M",
+    "plus_code": {
+      "compound_code": "9XJJ+58 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJJ+58"
+    },
+    "rating": 4.1,
+    "reference": "ChIJo6oszxlIyUwRDN8bqsFXP0M",
+    "reviews": [
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "You can pretty much find anything you need there, if not they can order it. Good selection of parts.",
+        "time": 1658723645,
+        "translated": false
+      },
+      {
+        "author_name": "Anthony Fossey",
+        "author_url": "https://www.google.com/maps/contrib/116763051638259927178/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWr-GfYwBMY4KdtMljPGEJDM3Wn01FSoR5JmVbJEUjD7Yba42jf6g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Very good service! Amazing in fact! Doing a brake job, knew that new years eve was coming up. I ordered parts late Wednesday night, and instead of it showing as pick up on Thursday, it said Saturday. I call and they explained that if you ordered after 5pm your order was processed the next morning. After discussing, the guy said he would get the parts from another napa store and bring them over and I could come that afternoon. Wow, amazing customer service!",
+        "time": 1640999346,
+        "translated": false
+      },
+      {
+        "author_name": "Christina Ritcher",
+        "author_url": "https://www.google.com/maps/contrib/100726936234912769705/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnCDc5nNTAniRjMQr-8kbrP7H100Vws9vE-4NY2L6mn_2Czw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "I have NEVER had such HORRIBLE service. I bought 2 wipers and was having a hard time installing them so I went back to NAPA Vaudreuil for some assistance. The manager there was dismissive & RUDE. Not only that, I had to take my car elsewhere to get some help to find out that I wasnt even sold the correct size of wipers my car! THANK YOU NAPA FOR RUINING MY SATURDAY WITH SOMETHIING THAT SHOULD HAVE BEEN A QUICK FIX! I will NEVER be buying anything from you again and I will be SURE to advise all my friends and family to steer clear as well. Too bad we cant put ZERO stars. Thanks for nothing.",
+        "time": 1677346785,
+        "translated": false
+      },
+      {
+        "author_name": "george ghaffari",
+        "author_url": "https://www.google.com/maps/contrib/102858304129798102298/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEfq-3Qj717dd096-ZfiHjPFZ0108rhYfK-saUJYuic7ZLRg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good, friendly people work here. Happy with the part and service.",
+        "time": 1739392211,
+        "translated": false
+      },
+      {
+        "author_name": "Kevin Weary",
+        "author_url": "https://www.google.com/maps/contrib/117813823036354691712/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfkcRzeCTpfqbp0iawLUgPwaVQWLS-6RGDo0fygMp0ju3buQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I've ordered may parts from this NAPA location.  Never a problem, very understanding and knowledgeable. On-Line services are very good.\nAll in all, great people.",
+        "time": 1588887981,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=4845688213368200972",
+    "user_ratings_total": 58,
+    "utc_offset": -300,
+    "vicinity": "401 Local, 1A Bd Harwood #1A, Vaudreuil-Dorion",
+    "website": "https://www.napacanada.com/fr/qc/vaudreuil-dorion/store/1000651?utm_source=G&utm_medium=local&utm_campaign=google-local",
+    "wheelchair_accessible_entrance": true
+  }
+}

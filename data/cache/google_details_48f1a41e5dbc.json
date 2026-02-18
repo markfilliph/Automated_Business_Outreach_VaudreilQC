@@ -1,0 +1,451 @@
+{
+  "query": "Restaurant Pizza Rose, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340665.7991133,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3100",
+        "short_name": "3100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4E2",
+        "short_name": "J7V 4E2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3100 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4E2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "3100 Rte Harwood, Vaudreuil-Dorion, QC J7V 4E2, Canada",
+    "formatted_phone_number": "(450) 218-6018",
+    "geometry": {
+      "location": {
+        "lat": 45.4277173,
+        "lng": -74.1098673
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4290223802915,
+          "lng": -74.1083892197085
+        },
+        "southwest": {
+          "lat": 45.4263244197085,
+          "lng": -74.1110871802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-218-6018",
+    "name": "Restaurant Pizza Rose",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113016837685722024997\">Restaurant Pizza Rose</a>"
+        ],
+        "photo_reference": "ATCDNfVu0kmkpa1TFa9izC9JcXXTi_mJZPV2rciPoTtQPZbwahYWAdbpvE145UwPk-m-04f9klZtMNtsSwOMb74LMRAkkR2n1O_5tsg_rNtmwrdUp7JBm5Juttbl2tYcC-2f1zO3RMYxd3v3uL-Zhhu8UgKMTvCc7Z114tbYP6a6JNlZA1iXMc9CqdkHfplnLp6vREtDuGyF9avQ-wlk4a-iKaSyI554-tb4TCcAQ7rim2uK2V2pYKhM9HVErmedDnXtpsRmQv-Oy1zTwJ2IltiuVtFZ9pmcJDx-SiyzE7zJjf0Aag",
+        "width": 3600
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111132456109859395745\">Costa</a>"
+        ],
+        "photo_reference": "ATCDNfWwr-GRttWzkt5Q-HKcbTuJHXEhSbjpM2QxtAvoSNwMSK0niJRxUyGjz0l2cZ5LJVOTLjlQyhXBW0iIebs90PsQkCJ-k8OycMQBksX1vcBf4s1s0kbAacby7jSCxR5YueEEInc3idgvAT6LqHw8rchYumhgMoEEw6ia67rRtQErTHDP8HZioShXNweAi1kqpjk41J2Db2Ngn8S33arBL9_5-4U7waMbeiS9hGDIEKIGd-EfHoaQx-zR3mnrQVQnoCgUFDxynr16smNZAn2yAhjQqgKrpoY6ceTEE9d89r5F2obT9_vJvr7zEcIS3uCm_GYH7SBA9Piejn7OPDXIJHjUdFibuuiRmT9LBoZDvxyqpwTPOiphumncKDlcjkTWtbAaDMbOQUfeyzRfuqC5HjMIA4Dmm9mRYdGnprY_ZeOd2Q",
+        "width": 4032
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104292227570671365311\">hasan tas</a>"
+        ],
+        "photo_reference": "ATCDNfXrwFmlOiz7uO5ckXMqIFnJ9bq-rJe0YIKEcYRshsZH79kP0meF5Ehu-v_45TJaxjBvdDZelGspiVR5Zjb-TT68uxynFZgT4XOG1sH08RJ5c38u-JHbCx7jQzRqSxj0u7DgZYBkXaqais6FATMUYxDrgdzuvVwSJHbCcEb4vLnkt245meiZMNZgtm9sLIsIWic7XAJGHNEBmC8-lR8akkQDNZZbAjkFs-PbSduj1z9nSK6L1Byrutu4hbtpjTL1xu0l4zj-_WCSscArgGjBvQ8IorLkVxbxuu3rQxEmerZvSI2PSwIMXvn61ZcWkayRD6br5jfB7zjcul4Xyz5xvnoFm1tm4vJZKejbB6LUsPMxCmaNUsZs6uBWW44Suh652vdPNLSlz-HBG5FnrJTck26KMXWEe4JN8cxhnIylaOigsQ",
+        "width": 2322
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUfXq9a-5r4cEYfuVwujNMQjik--4tIODjPaDMuToDQ3JYj2k4VR0RPUKVBgb-IPXxlF1oDDYny7E1AQs5yn8SETQGbubXIrNNeIdW3I_0MVtCWE1FaVwg135OSvhMfMtuzu9ia78lphYSHCKJqFTd1h-kMkAW8EdfoQgABWodvRdVwAleA_iZdswnu4fJM0YzM08OMF8-kBFlmE4ZF2t5K3o2Vkctw9tzjhQ8dDoG_CdBSoDl3NJgxtTNND8bCFtJCle4BqH2M9kWUwapOGFN0MmWv8kF_MLbXjS0GkquOpsB3U8nU_SZCg2N4b2fBra5yiP6oBdmW73ivVsgWMgd_xAhUofUKVWgOESbacyejPzd_vH8frGDVlVvFYd5WOkwDmGEbcbK8HQ3_IgJu-KJ9Zwz_kaBjmzIZcAgEX6m5_Yo",
+        "width": 4000
+      },
+      {
+        "height": 3521,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113016837685722024997\">Restaurant Pizza Rose</a>"
+        ],
+        "photo_reference": "ATCDNfX5cl6smhs9p6DbiXPM0mDTMyP66iz9rWKP5EqUlobu_pLPNNrMFu2lEhK3Ad_LIFN9L3A-WJkUsKUzHP4m1ExgtT_xtaVBMrZMjFOxXA-C4LHG9oPGenwgC3lGR5T0QdCmw3Lbo-eoeq-TS49gy5GXdGkSIoILx29AK3t0z_sgjeDE8p9FktaVjFEvqOtyC-IjpzSzya1ND01DpHNBSsimNyqYQzqPG20ZsCntlaYYiIostRFyoyTVYayF60Hl-rRJPqZxxmGqZVd2wuHkgCQ7dx6Ve6R5aQtv3PYqA8NxbQ",
+        "width": 2397
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113016837685722024997\">Restaurant Pizza Rose</a>"
+        ],
+        "photo_reference": "ATCDNfVKOcrH5iw_3rbH9TuicEn1aquj5szSlkRnNhmjaAPVSyraVdoWGqyh7y80OUKJnUg54MqEonDY_NX5myPIwdlS_TsT2Wl2TukwxooKRuJkC_wFrOGTquWYRCNGVLZ8uGzKamXJ_U8jUXifUV3xJ76gK6D-Jl18rIniWgR5t6P4igFLN2BcQg7cwEu25zTzMJpkZGjJA0aoROaEcYtQ9yjQ_YEIqujwhA46I79aDV42QgYDEMQolsA1hs4wurHv8Cg1ka0O5JCJCpxdFhliSEKpo8TGetMKtk8enmpizkOGjA",
+        "width": 2356
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106832713346021663859\">locki yt</a>"
+        ],
+        "photo_reference": "ATCDNfWYdhMZ3_ZicPI30g-39IP2EdcOqxB2tWWcyHnb9TCSIR18bLK2KA-pgh_Vlg12ToCDQaMjTehI4H-c_JIPbINps-gqZm-Ox8A36QAhXQKz9064mabSaDlNuIkAnSzSvHxoc-cX19yTZQgK64wlaCVDa2jJ7gzAXLIkRQhf1S0NMt5wF6SMHyDxMXlw6UaOMkEXkxIjsQcywll3Vfy1CRlOPVjmiRF7bEwmO3wZih7stTNnFrwGM3EDYikx3eZfaEEvH7XuGq7Xod1Z5MRiWcu-S76hV0JIogOldRwScmYkeMrTQIqxdFjzABmxeBb_t_I20NC1QWUq58cgNs-MzJhVUtuF1XF1TcDJ7qlyp9Z96o9daFF6YHXql075QPB3pQ9w2M9JWYYSow85b_wv5V6rMbhtUdG8esp3Aa9EAp0FWgEo",
+        "width": 2268
+      },
+      {
+        "height": 799,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113016837685722024997\">Restaurant Pizza Rose</a>"
+        ],
+        "photo_reference": "ATCDNfW8dq9MZHJiy4AbtDI3TBy6UXIaV-v1YlU_mVlRjbviQ-UMlRHOT6wJ2Up-JkhAzXd7fr7b54blYP8cj9UF0HwtBD1pg1wuCOMLHOiczArk2w0H2RUmL0aqoZkJfiq2PRdqEKyr2HlV4khN_OEgidmNEaiy8T-NrOFZ6iPFvYGe8RBoADSM7WaEM-x_6IVozNPTlFB2koBMpED1scpUKcL42kqvb2mB07XTTe-kUrEqjC1pb6xI6-XB9RMr9ev3Hmyp7zxo0n6V0h223jC1IB6yTS2NSjp0He16V82RoIWvlA",
+        "width": 1241
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113016837685722024997\">Restaurant Pizza Rose</a>"
+        ],
+        "photo_reference": "ATCDNfVD2FUV5VzbEdsFq1D6v9s9A4Ly3MHtrJ4wgmNAI1bS_UHjyUexA0s9tJIHVUWngjl2w_Y_gZvFU05giou7ym_QOmrdGZi6nkTEpdMkrf_d07MM58fmUGvkcmgu6DO6auRThLOBkl2J2_zErWEMEiS2xN564cHuEd-Aj9-PdanKQs4oAODcD-sS69p6OX4DNOzep0-pqe0kF7G78igGr41HN0ehaqv6rgQc5Tx2Uj0bo3zc92s2mDa166PiOMteKsA0XeiJUPomv4n4MvPo3vlnUrS3PYSwDXjQZlOtGctA2Q",
+        "width": 3024
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104292227570671365311\">hasan tas</a>"
+        ],
+        "photo_reference": "ATCDNfU6KEHy5c_BTm8uz6hICtIXhzbUij5BGW4IHGv00PW-qNmeUMF-a-SdV5H4ln_06OsOEfAXwZXC2sEGIVH3HLXxb_w8cUWsRub3Xzu5S-hf5Zl_bmZfK0w5LkZFWaxcJpqIX4tu7E9JjLJvnS6sJ6pxDHfNTWIBe2Z9qQPZ70MvPwzL_r5EQZ7mM-dL4NNGj3_a0lLcgWwyJB6RiO6x6Smb2sv-Y2K3WwJ_9IyOTntHbIsAx7CY5E_UmXzsj2OaL_tzsDfPIm-9tkWpXvqNMPFHuO5QTNhO56fpW3JWdJsyNIL0cdZJ8CpdMOidiy6YG7DPiAaj-XqRI7DjEbZNV34ej-D-nx3tn7p1NcYoqO-TcDyKfp7v43GGi2imSjax7q-igrpsEL9kkICidfka-ZcUJVBlNc8GzTiVVE9SLo9sWVe0",
+        "width": 2322
+      }
+    ],
+    "place_id": "ChIJdX6aS7o1yUwRTMFT32lCKs8",
+    "plus_code": {
+      "compound_code": "CVHR+33 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CVHR+33"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJdX6aS7o1yUwRTMFT32lCKs8",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Certo Salina",
+        "author_url": "https://www.google.com/maps/contrib/100710007826762505949/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIW4e-FM7RBzPES2ioy8NfrQZcFFy91Zd-1AUDopJrGHJAoPw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We have ordered takeout a few times from here. It was always fresh, hot and delicious.\nThey now have a new recipe for their pizza crust which was amazing!\nOnce I ordered a sandwich that came with fries, I never got you my sandwich that day as I could not stop eating the fries!  Crispy and not greasy. Yum!",
+        "time": 1764186641,
+        "translated": false
+      },
+      {
+        "author_name": "Julie Craig",
+        "author_url": "https://www.google.com/maps/contrib/102710464643634986162/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLA4ycIod3ltRL6ZOdD1QAUIGaSF8f4JC_BV7LjFcHCVVWM7PI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Delicious pizza!!! We had one all dressed and one vegetarian pizza, both amazing. Steak and pepperoni sub was excellent too, loved the sub roll/bun. Fast delivery as well.",
+        "time": 1766797807,
+        "translated": false
+      },
+      {
+        "author_name": "Beyto",
+        "author_url": "https://www.google.com/maps/contrib/109693147071651645348/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIFMt_MJJA5IkVOFxZyk3gcTCvMAjsPc4ePiGyRLAgVLZTlg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I ordered for the first time and was impressed. The delivery was really fast, the pizza came hot and fresh, and you can tell they use quality ingredients. This might become my go-to pizza place.",
+        "time": 1756270097,
+        "translated": false
+      },
+      {
+        "author_name": "Gregory G",
+        "author_url": "https://www.google.com/maps/contrib/112403941079735527791/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbzqoZ5RwdHpgVAilYgMbWOICyOvykPNPkzVsI9pOovP3p_Wc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Been going to this pizza place for a while. Always delivered great pizza. They just changed their crust recipe and it’s even better!",
+        "time": 1764201658,
+        "translated": false
+      },
+      {
+        "author_name": "Liz Potvin",
+        "author_url": "https://www.google.com/maps/contrib/117446006302534521920/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXWm02DyUdOVdcCg2TnYkPgHb5lmh0u3Jo1ACv4RJhJkd0wwM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "We tried this for the first time and we were very satisfied. The app was down when we wanted to order online, so we called, and the person over the phone was very friendly and helpful with our order. The delivery guy was polite and friendly, their staff were nice to deal with.\nThe pizza is not wet underneath and the amount of ingredients is very well balanced. We are new to the area, and after trying several pizza places, this is our pizza place for future orders.",
+        "time": 1582656785,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_brunch": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=14927816937358737740",
+    "user_ratings_total": 167,
+    "utc_offset": -300,
+    "vicinity": "3100 Rte Harwood, Vaudreuil-Dorion",
+    "website": "http://rosepizza.ca/",
+    "wheelchair_accessible_entrance": false
+  }
+}

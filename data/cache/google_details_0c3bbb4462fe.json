@@ -1,0 +1,443 @@
+{
+  "query": "SAQ Dépôt-Dépôt Vaudreuil-Soulanges, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340458.2885287,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "22600",
+        "short_name": "22600",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin Dumberry",
+        "short_name": "Chem. Dumberry",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0M8",
+        "short_name": "J7V 0M8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">22600 Chem. Dumberry</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0M8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 7:00 PM",
+        "Friday: 9:30 AM – 7:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": false,
+    "formatted_address": "22600 Chem. Dumberry, Vaudreuil-Dorion, QC J7V 0M8, Canada",
+    "formatted_phone_number": "(450) 455-0051",
+    "geometry": {
+      "location": {
+        "lat": 45.414507,
+        "lng": -74.04016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41570738029149,
+          "lng": -74.03871186970848
+        },
+        "southwest": {
+          "lat": 45.41300941970849,
+          "lng": -74.0414098302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-0051",
+    "name": "SAQ Dépôt-Dépôt Vaudreuil-Soulanges",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 7:00 PM",
+        "Friday: 9:30 AM – 7:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2568,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfX6UsDRC63L3IX9osUqUJVtRIu-rDROb0AHfJ_tk6skFU1pB9FTgiZLAPLVZytlquniEm-TntKoOv8Jgy6fCHgO39U37YhxjUmoaO2pvnaJTt-g79zFDnCtVU5ulGoLCQkUOw_n22CoymomM8epwLw5KPBkN5enSJ6UYzgLdnxyHGTjUFMfFWbAoPbyocc4jEKSaJWMxBf8b4X8s_ahcw-t8eMzm94_KSQ5wviYkn62hi4UsHvFiNTp9CduzAbhHxD2RrkyqDFntuTdl8P7vuMn1gVKgImMQ_IxAZOB1v0F9F8Ucv8Pk3zvwUYxsMGOcXCeigZ14_P3gxMwLlfD2zt_1my3mNZRwR-0RF8Zd-ksDbllZ1zDqSUxgxRg0Wy71Z_3v0TTxxOHyS4Fn3yqF7d23145Bn7SgfO1EnyltilIyRU",
+        "width": 4800
+      },
+      {
+        "height": 2214,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108351389739126669125\">KaptainCanada KaptainCanada</a>"
+        ],
+        "photo_reference": "ATCDNfVH9OzRjc6pojY3zLLLSV2XcpRLxA82dtlL-mtF4cuigzBxI4XkF0z11jTP6_0778wXdQlxYnxVzneE3Le5b2YXOHcbtyLvns1JsdaUxxL-gYW_NKiGbzRQM2Og6ji85yObWDipvK04tWEkfMayvPNX3MqvpjWvdtWvr0mztm2kaz-c-XXBlyopTx46lWWP8x2yOqrRPOd1kgSb_VCjqdZIq8o1ro-E9-ITTDOZX4vuoUQqqM52-BuQEYw-1ucXYu-71UKQI5iEa3ZmeF9YbhJT8E0AcUcaj9yPGah6w8A_bRrImuiu0wlCLxcW2uVxJMEYs00OX9X6igKxaEuGC_QlW2MfpRKktsjFQnzuQ-GZrZ65WbfIOOXCEqn5QJopT4pSz4M3DWcu3LXMc5L1sa9gj743Mb1e-2lZgbKAa_vZpXiV",
+        "width": 4800
+      },
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109160274806729825588\">Minh Tran</a>"
+        ],
+        "photo_reference": "ATCDNfWpqhnXZhnwBiPryI2m0M4VYfY-paCBPlEAjETOstSzvvEjj9a8gTNc1zLom10q24kKZbfaMpt7OzGfpVkVm1TYsRIfk9eDmisG72lW8yHd6UVGMJ3c6n1dSUhek9VZVXgHaF5MoUgsRlbUsjQUDqLwSt3fvsOnOnIyLykqnHN6ZB--eqm6P51M6p9Ra4prNQJ2f7CABlwKRMkKFg_xqKhOcV1i7KzcB9BcjOt1vx7EJvVWapYjbm17NIWi91umEzQsmuahjWDy_GXdOZd8B7u3uDSt4l7RyAPykI696bi-G4p55T0N2foP3-2jbAdq8LV1oIehAz2-HLpSK9nuLmxWj3f4E8DhzzRmbSfHFt0dKgA3vsdQV9-K9DYt5lt51KK9bT87hiQvQCrv6PTJvSyS-qWGrMsHrVXWCoIewXyGPg",
+        "width": 2992
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103303902243243359786\">Natacha Filion - Original Account</a>"
+        ],
+        "photo_reference": "ATCDNfWWtlc-qk6FgpI9SyMKGYYGpmEt9cyOiTeB0pqjth20iexFxZgzksyan4kF7FEstLJNMLV4J7I4j8Z77KnAr9gPMTGnhFskn2iZVQVRW0vDz6uoRWJmIsBX0XklJgyoUbjWHcI_ryO_JkP0Fy_ZENRk_3YKbmr-TrptZC-e6Mbr2rbS6gXe4AQsQukFSbgR8F8HbzRR5IrMl_qXaW-cOOMjM_cSL9j0fKWKMyo6cjdFOZIRWyylhtIb6ji9rUFhRJ636Q6EoSDQfwg-YMnCFdKSXjV2h-n7ATu66DcbqSlwUXaj53qi0sf5Qm_uFBtjvScpU7Qg4Sn2KyXLCzZ0wbI2lPfWoP5mrhH4Bk3RQ9h_0aFQcrwegxjK-UjNuGmcraGphBFtkKrpzO-nmp6dWJKrPJcRLAspA4EGeIaPfXxEaw",
+        "width": 4608
+      },
+      {
+        "height": 2214,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108351389739126669125\">KaptainCanada KaptainCanada</a>"
+        ],
+        "photo_reference": "ATCDNfVbJIcM5Ak5ZoYUjDOkNIVGBwuH1Rxg2Dd7Q4zoAqoW1OT45D8kKNpFuVlw22N9YNudWifEwIDuMC3KT0bvsyVfMawTG8fLPd1FE4t9oPzFvbsmDMNXf4BXbnGiSJIafkuKjKPLFxZ-kENfXFES83_pd0XDDmJ3ObnBOkul1uYjSPtDerpbSUN122sHmN00mg0gzGxzSqQYJ29ZC0qih42oOyB0Wb2G0WExeDawiNDbLaqcnT7Enw5NDmdbauNkX7h0Vr914dtRGiqxQeLTcW_WjI_PHU12sumWb3sctboWoxdKsFe93C6Z-x2Hw6lBgoPMW4DlKDqsDOv8evp2JIu98XZFmqTaxScL-rvnVTSf10UyemCgCdKjPvKWRnMFZotDc-tcJavTDOsMdJ9twfY4mC3eQ9Y_Yu98NzvKv-Ht-Js",
+        "width": 4800
+      },
+      {
+        "height": 2214,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108351389739126669125\">KaptainCanada KaptainCanada</a>"
+        ],
+        "photo_reference": "ATCDNfWl2ybQSZV9ML8kSwqrptowgchAwfwNMZ73lWoh-AmMs-DWyROO5ogTNUyiX1ugY1M6evVr7kkvCGeNkVl246girBGiTrzIVXuBB0HI9QHV-Q2NegL9uIbwe-4Qwn00NhXOcnELYRfhuD3dyyZBsrOtCHGh953AUP0T48B9ViZ6Bxp7gRVNOofsSGM6MjdfOvY9SkZ4yxDuqBOG-L4Lpdh_cBW7Jo_fm7_9QPH8Mg0GuXdsd0rJMXNXCFmjd_U3M8m6EzZnmuHZnjOhEobtPJ7ovCm4qS-cgH2slEEKBdbihUej8Z9ejGmvmHd7p3ftA0XmE8IKk-rPiq478rqlY0LTXZANuECsp5itCdcfCdvq5wUuQUAO7G_AcR0FUB3w13qD10QIgIxxaXLuYgwuhg8saj8ePHxOBRXQsJYNC4_EeDY",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106618479454385453841\">Fat and Funny</a>"
+        ],
+        "photo_reference": "ATCDNfXecUujRPiB8VcmbfYhfLuwYc5ehlaM7SaZolVQpWotWrY2dZc0tDsyNovzm_5Vqfhn_DgQg2kJw2B81AJgNn1pOmTYrP3Ta-0SiexEPQKc23-UoB7tiM4tJAmTRkHrKub2X4ozb0UEoekTOM7ElcxL9ITuwdQRggtFLeZb9c-i5dz16ng7Xd1-GZJI6_PqNgAuu4Y5vseq0CwklSYT9Em1VZasA2ZRQMhYV2MT9ktmXJo3V9emYLbMfBdx_F63M_dCkwT9LApNQ5ViQi0czddOimvJSbMoZdznUrXOH_03-fiIsT-WPXMvvd4fAag-QOGC0A5OV3yHyB8se4S2ra7PX9bEuYTWgeHkkmc5Qb7e2Wh6bXDwIcnsaSdVL4pAMVVM3tSfa_bpHH9zDg9lJx88Lv7td2eaQQimMipZldrY0f9r",
+        "width": 3024
+      },
+      {
+        "height": 2568,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfWS8z6-Ynv2XZn-8sznLuIaKSdJcrEf0RqfidC39NckBhsSWSCvJOMB8VegMEDYgVZQU5W2tS68VBzafFKCfj3gUju5FqxO1T6L5sGzLzziT2yLp5AebxzDlEFU-rtEQSp2K3LVgcJk8FCUf_ajMtbQeDrJk0r5_CoC325oSthWKEDbceWGuD5j45DS3r1dBd41ekwX8K-fvQvEXIf8xJ5TVFHQTV-iOp-8Y7Rr6W7bQyCuBHHK7Ev67AzQ0YP_hdLaJkvqRXfOub1EoxQBDlMe-LDxJ7TyJ7oAl3VG2kF7lioR1M-mPQrYMvEdkL7r4R2oRtPpo-pgMd4IRj5NxUnuFrKJXivQlLgJjVEPJAZnM3yz7VBJnmzGMGGQm0KASmAqLpXaob1Yo4ybbJwqQ8yiPT00s90g037-EfEd7uCNyg",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103869732971444044816\">Alaleh - FoodyTO</a>"
+        ],
+        "photo_reference": "ATCDNfU4dzOYEapeahLVWxgskQ9kl2_8PHSBb_BXrvXTqU2x-Lb4zB6URSG4BwKCcZpDQhWnQhftP9AS3nJ1GjrOTPXthOJOpqQjV31wI2U2z0NQQMbDldLrIw6fl8T2VLOyKCD4jKQhsCS74DxSifAE6ktL8YNbW4ApGzN4ZWQ7J4WXUUPPy3X8Ghb509W4MTlOpQwYuZgoG91leHIfXAlpE65_8uHoM68vgvA7C_PqHl9fmeRX9dGynOSGIwDNmhbwSPPR8q0iTuGFp-O_BeWL8aUVhpCt6g-Mv4SpLTYX5Um1UiPdJkwqCaIx7IBcaswehfL7jUK5bzGsORkQah2wIrdaHh54Vf5UbMrXh-ua8bI3Z_1rOxhLzteCgTkR_EqO43YdBTFVRNLWaoOyVFEKtDWmQ8GNbeqQV547nQlRqlML1A",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103869732971444044816\">Alaleh - FoodyTO</a>"
+        ],
+        "photo_reference": "ATCDNfWU6Hmlz_yNtiX8yoDoqzXBR4kYY81eBOFzTe1Vn83btz9ZzgJWSe08eaw_lq2R2A-8qBHkIAw33x5jKq6IT-JTg6KMi0VIXTQnOtPVdJkB3DVgneBym3U2LTuYz5i3QmTA1QQfuPhh5G0e1TPU2n-s6O3oUIURw0cOkdPSMHMWPDvJMmx5Oc_2HcO_eLbQj8QasUciu3T26fi6RsT10Q9F7GWdQ4o6osebyaoNTFhPRD0sTPMWBTPR7YV014PpvlQjSkJEz-wCXsh-xr1QOedKdemQ-m2HuqwLYzSfhfENzopIy9KNp608l32A2mJhmZYplCMHo9pSJW28Qx9aYdmRlhuuRznIhWXP7WpP5YQjnQPVzqEdAdnttRLdmKfj3qqhLtguLEG9qM1NSwvLu9RHowqxBYXn3SQvWCXeYvmeSE3W",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJy1qahUs2yUwRb1KOX9uo318",
+    "plus_code": {
+      "compound_code": "CX75+RW Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX75+RW"
+    },
+    "rating": 4.4,
+    "reference": "ChIJy1qahUs2yUwRb1KOX9uo318",
+    "reviews": [
+      {
+        "author_name": "Fat and Funny",
+        "author_url": "https://www.google.com/maps/contrib/106618479454385453841/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoV9hrX6TydGSdAWrmyGV8NZoGaLAFGYwoqr8vL2v_FuJo0CRb=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "5 years ago",
+        "text": "Gotta love the SAQ depot. What’s great is that you will find a lot here. And the more you buy the more you save. The downside, the selections are sometimes limited. As a gin drinker I find the 4-5 options limited. And what’s there changes often. But it’s clean, easy to navigate and the staff is helpful. *as a gay woman I have had zero issues here.",
+        "time": 1608079464,
+        "translated": false
+      },
+      {
+        "author_name": "Jason Fung",
+        "author_url": "https://www.google.com/maps/contrib/101220245964096501202/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjdkT8LH39yvpEYLRtT4uRYxqImjRQgKALpRYNUlt6FZ5IYoWMAg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "Not bad if you're looking for wine.\n\nThere's an irony to the SAQ Depot.  It's warehouse style, so there is a TON of wine, but the selection is oddly low (since it is pallettes of the same wine).\n\nWe walked through, but the wine prices seemed only okay.  If you're looking for quality and quantity of wine, then I recommend you go to the Costco next door.",
+        "time": 1658265244,
+        "translated": false
+      },
+      {
+        "author_name": "Tristan LabRat (Mr.LabRat)",
+        "author_url": "https://www.google.com/maps/contrib/111870811971025612177/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVCnbEbP0f1xgTkdweOxrgO-fMWEmNxvi0oG3fDZVURSCp4CuiXQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "The selection at this location is quite limited compared to others, especially when it comes to the larger sized bottles like 1.75L for many of the types of spirits.",
+        "time": 1706912518,
+        "translated": false
+      },
+      {
+        "author_name": "Icamps",
+        "author_url": "https://www.google.com/maps/contrib/114619103787102712610/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7oRHeAFMyeSlovPewuu72IPNBJ6NHdnZDvDv2pTCHLDGvcQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "8 months ago",
+        "text": "Not the best selection.  Very limited for scotch and they never have Puy Fromage red.  Also the discount for 12 bottles is only 10% (reduced from 15%).  They post the price with discount included so make sure you read the fine print if you th 12 bottles",
+        "time": 1749238764,
+        "translated": false
+      },
+      {
+        "author_name": "Thomas Januszewski",
+        "author_url": "https://www.google.com/maps/contrib/100538199576158977016/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKz9L9qW271l5UIkMpVPAYRdpn3Q9EDh5sirAItZEsy4ISYBw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "12 months ago",
+        "text": "12 bottle discount dropped from 15% to 10% last year. But still well worth it for mass consumers and collectors alike. Could have a better whiskey selection, but that's just splitting hairs.",
+        "time": 1739824006,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=6908426013564097135",
+    "user_ratings_total": 795,
+    "utc_offset": -300,
+    "vicinity": "22600 Chem. Dumberry, Vaudreuil-Dorion",
+    "website": "https://www.saq.com/fr/store/23317?utm_source=Google&utm_medium=organic&utm_campaign=fiche_succursale",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "query": "ACMP Académie Crânio-mandibulaire, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340559.745302,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "11",
+        "short_name": "11",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">11 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "11 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.4148923,
+        "lng": -74.0221931
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4161270802915,
+          "lng": -74.0208166197085
+        },
+        "southwest": {
+          "lat": 45.4134291197085,
+          "lng": -74.0235145802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "ACMP Académie Crânio-mandibulaire",
+    "place_id": "ChIJAQBAnbE3yUwRyYdxVtO0un0",
+    "plus_code": {
+      "compound_code": "CX7H+X4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7H+X4"
+    },
+    "reference": "ChIJAQBAnbE3yUwRyYdxVtO0un0",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9059752420190554057",
+    "utc_offset": -300,
+    "vicinity": "11 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "http://acmp.ca/"
+  }
+}

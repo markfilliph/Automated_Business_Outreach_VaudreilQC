@@ -1,0 +1,340 @@
+{
+  "query": "Centre dentaire Île-Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339368.3570828,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "531",
+        "short_name": "531",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X4",
+        "short_name": "J7V 4X4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">531 Grand Boulevard</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "531 Grand Boulevard, L'Île-Perrot, QC J7V 4X4, Canada",
+    "formatted_phone_number": "(514) 425-0055",
+    "geometry": {
+      "location": {
+        "lat": 45.38749019999999,
+        "lng": -73.9670837
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3889383802915,
+          "lng": -73.9657039697085
+        },
+        "southwest": {
+          "lat": 45.3862404197085,
+          "lng": -73.9684019302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-425-0055",
+    "name": "Centre dentaire Île-Perrot",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116289061360375369707\">Centre dentaire Île-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWUWSGk9g4pOU7wltsP8X-G_LkvotgEj5L1U7EBnE8XxdhqG5KDzcHMo4sgV9NtrQSaFuIg2nD-yIAI-ZuVuLdGJqK8VJtk1XlTsxugNRQT4qmjMGZ-ITAGvqBnDmfeguqbKoVBwxe02JWFPdnk4JfNe9guUi4Q6WgdiChyyrFzVGAFjQJlJ4rTL5HblRJ0gzBC3_EJLo3soB4Qnpl_psRgwWadlPQ_PVG_Juvxcu0Yd9ngnhzOJMEZFKeDc5J-7xrnj-bcDdYffaaKcFjHsl69hnstMZRzqOSCrXNXyrka2w",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116289061360375369707\">Centre dentaire Île-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWN2D8heeSaaReOOUfOmTkjheZz1cCk4bTA6F_pTOdV8nhVafemqv06AV3Q6KtHUNFaFcS07pG2KqNysvJbx35uThk1e207AuwCr_93pTohXLNUXhgJCmTGpr6Q7vVPHKQCtVXMoUS3aKQC6fhzr50uKoM9Dbn9G9jSGGlcDz6wXvJwl3coI_XNl_AJvnoN3FlOR3NOtPrV-z94U5_KJpIzRJYGjf8Zg8n8gxe8FOo40SfiGuZc5vM9frEiMT7R-F8eET7KMSXF29vx89YlUCOO2F8chL2Lw8WroSdmBDgmow",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116289061360375369707\">Centre dentaire Île-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfVIRFUDkmrGi1a5_bzCySfCFKlDkU8oRbnzTImyMUHFLPrDGnX0l0UcJ6eju6p8pHUduKZ4Q3fWvHPxvumoSYlI2DonfeC04fftfZHVkywYW-IRFHw5oOzWAo5y6bHfKbVoHgtkTT71oP-kl0-Ge244eMy0V096Ge19njrmhz4sL97WB1xH2w7OUylGp0OYOxMF8GEjErEf3jy8jtXiySFb0eHEamyg892jF3PEuImxb3-U1BV6An84kSso5gi4RR3KIK-bmifjMbsvzyJf_TiOaIcSWHNPms7C_bql0DkE_w",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ8QBN4Aw4yUwRgNq5SY5mlHY",
+    "plus_code": {
+      "compound_code": "92PM+X5 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892PM+X5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ8QBN4Aw4yUwRgNq5SY5mlHY",
+    "reviews": [
+      {
+        "author_name": "Mavis Abrokwah",
+        "author_url": "https://www.google.com/maps/contrib/110527340894418522972/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJR0qxthrUGmtcAl4tJpCkplC1xOXxyDmJbhabCm1Usu4bWg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "I appreciate the service.  The staffs are nice\nThank you all",
+        "time": 1766145124,
+        "translated": false
+      },
+      {
+        "author_name": "Marlon Cabalar",
+        "author_url": "https://www.google.com/maps/contrib/111605830362437119377/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJolywg958-w0vPwf1yJZ59tf3r5M3qkAxc9kx8dwQqNIo-SQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Very good for the my first time at that location. Very clean place!",
+        "time": 1764201094,
+        "translated": false
+      },
+      {
+        "author_name": "Stephanie Piper",
+        "author_url": "https://www.google.com/maps/contrib/110840920915197607941/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZOdGx_nWlpbjPhWPROntmxFcMsK8cVaQ7dA5J22JODazxoxQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Amazing staff, great experience, they are so patient, professional and kind.",
+        "time": 1756312866,
+        "translated": false
+      },
+      {
+        "author_name": "Emdadur Rahman",
+        "author_url": "https://www.google.com/maps/contrib/105224671546650410817/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJw_Wn8m_zxnvmN12nTO4uIzZBS-QJW6FMyN28G_VJKYJ_lFQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great clinique and great service by Dr. Siva! I've brought in my mother for a dental procedure and the experience was amazing. From the beginning to the end,  Dr. Siva constantly made sure my mother was comfortable and relaxed. The service was flawless and the end result was spectacular! I highly recommend Dr. Siva due to his patience, knowledge, and experience!",
+        "time": 1737867215,
+        "translated": false
+      },
+      {
+        "author_name": "Rommel Matheson",
+        "author_url": "https://www.google.com/maps/contrib/108476952523670440700/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKv4Ydnbpa4NSuhed8SnX0onAorsXY0cQP2VfL-9Z6aYU5JiQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "The best dental clinic! I had canine reconstruction done and it looks and feels amazing. I also have my 4 kids (9 to 16yrs old) going to that clinic and they are treated extremely well.",
+        "time": 1749488720,
+        "translated": false
+      }
+    ],
+    "types": [
+      "dentist",
+      "doctor",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8544567154336979584",
+    "user_ratings_total": 245,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 531 Grand Boulevard, L'Île-Perrot",
+    "website": "https://www.cdip.ca/site/contact-dentiste-ile-perrot?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp",
+    "wheelchair_accessible_entrance": true
+  }
+}

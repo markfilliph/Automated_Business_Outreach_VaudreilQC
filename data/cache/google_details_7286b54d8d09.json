@@ -1,0 +1,439 @@
+{
+  "query": "Maison, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339485.192243,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "331",
+        "short_name": "331",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L6",
+        "short_name": "J7V 2L6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">331 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "formatted_address": "331 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2L6, Canada",
+    "formatted_phone_number": "(450) 455-3371",
+    "geometry": {
+      "location": {
+        "lat": 45.3910553,
+        "lng": -74.0173595
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3923305302915,
+          "lng": -74.01604526970848
+        },
+        "southwest": {
+          "lat": 45.3896325697085,
+          "lng": -74.0187432302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "international_phone_number": "+1 450-455-3371",
+    "name": "Valois House Park",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfUiDpSB_ka5UYrj2sCtSPZ-VLLnlsvmpGjEDIFnb-s2eRmrxO1vBdTPFYOOyQJASBBEODGf8BrVA0O_W2UkCgLNZd1eUimD6FlffZqSH2pwMaj9RQ2P4cu3MUCdwjQmxDiEVa7nQNPE9NvhFSC09cZ7xD-QLUQvAZLy28c1J0lNcgm8Nhp-el5stwiOpxZbLHMu6N9UCOztTTmYOtOO47l2gnre7-I9VRsMeW_iuFMPdJ4KLTTo_8wd7MIxm9PMtiF97T1XVllmr_TAVp0bZdja7Khakv7Rf6eVLc4iDVdFaJTWUO_a0JhFMkSIVWdpNW93n6WFKN9Yg5KD1x6cxGgOX0YSCEyLvvcS1tgvepbHtaN_x3SYSX9dptZ7PxDd6Gp6GunjoGob-f97UmSJwLtMhETomF3SXp-Amzfyr5ECGA",
+        "width": 1920
+      },
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114983649442283598089\">Tina da Morada</a>"
+        ],
+        "photo_reference": "ATCDNfX2GZyoZpEQ2kQpMFHq9TzS4h7vvdpIAx9ctMcES3sezRNafgDbdhvEfda7Oh315JIINQYnggFBGPtBBfJ8OVx579nDm5uayTbzTorhJjYvUlk2QXM86_7SqGo54dDP221_eFLodIXxdeS5HwF8iGiY0aNKfCOFM5eSZ_Qeajen1eD7xGMrDnrbj09kAf4xPQ--EuewlgWVVsOasUAXy5NNKYTWNGFiCuKty8wZs6L1NAnEaMYjlog2a15Qjx9AJz8MwUVqzAuHvLdAwj5uXWnY4ZcmJbOcnmDrvffAfsav4rj_hciASBzQ2KKIqf--sSsEDLJr5iZABl-9W-lr9wpsi3XeliN9LeTrq-rHjObG1vVwHs812ijOsa-kW6zhUzPbUiBPogtA1pk2KWzRf2q5HOZ6PikkIGJKB_gqTT04Iw_l",
+        "width": 3984
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100467393022558469723\">Dominic Lemyre</a>"
+        ],
+        "photo_reference": "ATCDNfVyWyokaptkaZkF4Y2zcA1tjNYMSrxZfM671UhDUJMMuoPiTXrRgCZNDEfypeElDe0urvz6VEJ-GhgLqyBuS7MdRa7l351JTog-5AehDosobXdLtqugmPmtyLYU2xo9yAwBksXezojsqqY_759rH371B8krO_R3AZ8eAFTzL8GuISKc_WTJJMaBpcP2xJrmpXB-GsfxO5o9DuDzZnWjLdMRC3bj3iSrhl60l7cbgVQQwvIK-RKEAU_RV5b-t-OsBCGPnpG64hGXsobvIJwVnJdaB_TNDoop7u4AHbl0lgPOHreWQgbd5NPFRCFt-VdSTfw3KEfJcSEyonob3eM4DlGKQ0QCbp6wq7GHvY6sDC6Xv9B32E1NDlolcF-uR4CS-I1a9yJrFKBW8O_FqOrr5GwRYO3g0a8gzrsa6pjcHdM",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfXsC-m47DqWwhPjj8qLuNpL5KPuzeMU8GnsA5Z-s2mAXMlb4Is52xDMhqIbb8II8NdVU7eHXziAyd1QQ09rssdQk7T6Ob9ZJ8oQkGwf1ig7yVFtMAFkshnWJR4hP5taeOzBpNosrq97_zlvPRJBuSqTUsrdIIS3_SlFkxhr7q8vJkh7qGc9zzw8FzkQ_hq5QZZzHXME9pyRBthc_O-_ymWu7U3im1rh_XAHFHgHhMRQ44NxOpwxJV5UwYObGwM0LigEQ1OvjpVhgtlADIILUq1iWRKlcIrav-cOENBSPgLBDIz3wp9R_GuzOuoqvFuzIbHyCo_-s4uN9ga77-_5Gwy0owKpxyqOiT-5Yv1erj5aIfoJAwJ9JKXax9RY2QUpEDXHMoAtI9tXqZbzkQZ4c96Vcm2Kg000P-jkgwU20CzGDnIO",
+        "width": 1920
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110894164410259278994\">Alexandra Negru</a>"
+        ],
+        "photo_reference": "ATCDNfXbhTlJQm6If6wBGZ8KKWsJ8jKErqNcfkHXbHtOpPjNf6sUNhKdFdnHi658xpfMQqd6msudMbTsWfJiYvhLRLWogKG8zFRbobpbBUvLLmht3L8VXECnvjcGMZ_k3diFwFMEdaf16ygfFXqU6zuqr_Fh_xvAQ6FwsawEuxNyrqeAm8srsyrUrJEbhAmL4TqFEut60VJMR_0L_OI27ettgcVukIco1GstOaVoyYHCHlOKewLFed7FadDaSTi0wx-tqBe-LgZk_m5CoFiLWrVgKW4zoVQDRbF2TnphUalWaw7uozwR94hYbWQz6oSJtxgBwWvlb7xIcleCA1SwXnPgHf4essZ_2Abz5fW4WwzdyzaW6WE8tB4rw-re9q4TD773yjLyGKNImNo1XNTLoEYIsU94pqanC0gwZPBYrmfwBjdlDg",
+        "width": 4032
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716022310176955856\">Guy Bourgault</a>"
+        ],
+        "photo_reference": "ATCDNfXLKDlTULDN6bVfM466kjCLcw_yaBjLPEXm_t8gFw8skI6mwrOYGiz6ud0NdG2_00-Mx-YuD4EIoEohghKLPOU5sbqJ9zanLiR28isqq2m8-AxMw6TAlpuuUxXC4xRWIBDu_eHsnq8NVGFRkh_vKC-ljB6t3NGMmV_mpJJR9KQNFoc_sQ-DI-gC2u9zvDSbz1yAtN-oA_miD2QC2V0itIZyw6jh0P-wUnhR223CLDUKyXnhxuMJFiOfRzAsrKV2Q2T7pyEW51earG_nqQ3Qtm09sWD8oLGEXmJml5_QFb2whOgABJkKfQTsvF3fYMlBMqPgtDCapJiaHYGDn2K1uY4ShElE2Ne0pLRRtJzSHXS9THKAMZn_ETs3jtjvx_L6Y0SA4T8XLwVLMnzh4LhzSvJ-3yMX998BNSugm_TQBY0",
+        "width": 4160
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfUUYfXeR160ZlShWgdei6yJ_71pUnz1FrIEQpRii5dEIi8dqDJegK2b5xKNEWao1Be1bhBOgnyf40VGX1AFbNez1NlSuLX2UrDUYQHM46n0NjKpQsaDtS4uZGSW-Dq8mQkmaA8eMoffIRn_L0xZt-cI_oNzWKhcBxLOiet4WCwFEuIws1RwlxQgAhVshLv8MfZ2AiTmFUmlNhsdrjPCeS_6R4wi_-jWYT4e9P4_RRbj92yOED_b3cPx09xCSEjQX9cE0kBfS3X43mkzmyv3DomQNOPTsbjo1ZiuJsIif3xOJfb32g0zxkOQ39hUKebi2IXwg2CQBWzxijLuPUOS20rIkw9HnVYH4V06n1zBpLuD9VXIchqFgR3AfHIIl0a0uzjB227f1eV9jIVyOjAxZv3oIcjo7QnwbPvc3x4QxfcjmC8",
+        "width": 1920
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111900485484158659939\">Charareh AF</a>"
+        ],
+        "photo_reference": "ATCDNfUj-O09MXWdb5cADnEvYPVmEZ3QeKsJ9ja5QEySoPwo16EM1ll5UO5zPQfZk-W3fGHFgByYAPbrbAgQ7yI6VmJXsCtqh5nutgJFb0JqgKWKLBmbVeEo_lOyGWluVKZ_9xDU_h2As_OybaB7BdiBkqIDC8UlsU9_L0pLNtx9uBs6kh6Ae557JZaJ0fTsLJkmVXnxy9w1MXe91o4NMXwrNBbzHWY-HziBP_5rVnCmsRv6FyIJWBKUrPyj7r7PsG0iFGPWQBFWOUDIZTf_ZlMvnkHmq8C4MueLV-O9ALBtmvAv3vrb9DhVjW7R-WEswg86RppSa8TfxIxP8d3EwMHRCQcYzglOP8Fh684evWO9Cu2EsgLFjhF1gLZpUHkDCHYD3NcUFKj9MOMEswi80kaBTK7rCkPn3yEc3QK8oGn5-UiJTGvE",
+        "width": 4032
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfXVyuV2xdOWUFqRXT3YqgI1VSrsLaCD8CvhecJxCb6cxUJAf7kDxuFhOo3YD-z808SjCl_DlJjLq3VTmJsBuaPkCspTu01sNmyW0MQ01ZvYwVlrht6Z9fAVggEBSKkCS3xRKxpAJZtxmYtZ6coyfDV-1H5nW4ymWLZxVSOeC0WRuly9dWmPPbFVCAkhE6z4VXWketuTbiWQ_s4AXRlSLIpZ8Djtxf8yCcFYtx48O6x_I7dnthG756f6s2e8NTOq0-7rNO7mNwGqiNK-G5Nb0w_DneiP0-bzB-77-EcdGMZbfxsVnph71Rv9mls-9jHVDlOnRvEthJYtx1eH-duUjNZZDN2x4_HJyJJplrSpalmIEA9fPhebEJ8ay19-35Uzlsh1khuMtris_H74wSLi6QSQTSH6wmncxuDnEEQwhIPwtOA",
+        "width": 1920
+      },
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117384683417936033506\">Maciek Weldycz</a>"
+        ],
+        "photo_reference": "ATCDNfUiyX939jW7T1ub4vLltN6IYnbi-XRDavhP-1TtLA7CyKeLrRrTLaWoNjhRmNPYXUAaHYS6_eHbR1crzNkz26Od_repiV_KbaXtPD9DBRiEpBsa9tuijOSYIxmXd353KIJQ-u1y1Vg4YgptHZr3RBzOf60e-zH6zpqEwfU-mQMvHjetyzHJp3HTCv-RbsER2kprsT5a9sHiALuvGYqUTv-cGPkBKXbpxjOrISVPtWB3jk3zyP1ke0IO37gEXgbHlIvu4-l83EQeVTNExIEZRIT0OvkkJpjK8SHirVA48ksVBkV1A8JpW09cSVNdF5WaMSYa2oUw9ku6kqwu7Q2di5DkaIckq4RqaqK5HZ_DgsfI5WlFuBZ-GA5A9c0HbMDxHW5Wyvn70FWL0jHtvmcgqiGTgDKoC5DoPJJ14434Qy6WEZ_R",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJe5G2o-A3yUwRcIPjMRGL9iE",
+    "plus_code": {
+      "compound_code": "9XRM+C3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XRM+C3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJe5G2o-A3yUwRcIPjMRGL9iE",
+    "reviews": [
+      {
+        "author_name": "Jamie Bourque",
+        "author_url": "https://www.google.com/maps/contrib/105182397921017723508/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZjNuomWT6dAw6L7oAletR2HRygpu9dx4IQrUCsWAtocDorW_9=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Great place to picnic in the summer.  Bring a BBQ if you like.  The city often has activities for families going on both summer and winter.  Reasonably priced pedal boat and kayak rentals are available too.",
+        "time": 1535072649,
+        "translated": false
+      },
+      {
+        "author_name": "Alfredo Bellitto",
+        "author_url": "https://www.google.com/maps/contrib/107334455825744777843/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQi8VE_5dxECEe2t1kaTy9-gy7__eL2kkL81EuLrke2YW6fItXoA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "It is an ideal location for a picnic.\nThere is a children playground, tables to sit and free parking.\nIt is long side Lac St-Louis. Bring an extra sweater. The winds are sometimes quite chilly this time of the year, early May.",
+        "time": 1620597651,
+        "translated": false
+      },
+      {
+        "author_name": "Marcel jr Bouchard (THEDIRTYSOUTH514)",
+        "author_url": "https://www.google.com/maps/contrib/107833055990750452706/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPiyxSsSCBDf-ORmGr84aj0Yz6ejYZF8hN41fqsOBzJyJETPhXgg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "6 years ago",
+        "text": "Great place quiet park and we found a table that we move a bit on the shore negative point small parking but few step out you can park on the street",
+        "time": 1565553371,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Our favourite park; hopefully it will be completely doggy friendly soon",
+        "time": 1569797024,
+        "translated": false
+      },
+      {
+        "author_name": "Diane Houle",
+        "author_url": "https://www.google.com/maps/contrib/104688378353244636000/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZLR0NO9OCm67FhDoEz5QL0zKrcNDleHUp_QkPrZcciZPmeN5_=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Perfect place for a family picnic.",
+        "time": 1720155986,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "url": "https://maps.google.com/?cid=2447296353490142064",
+    "user_ratings_total": 620,
+    "utc_offset": -300,
+    "vicinity": "331 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://www.ville.vaudreuil-dorion.qc.ca/fr/carte-interactive",
+    "wheelchair_accessible_entrance": true
+  }
+}

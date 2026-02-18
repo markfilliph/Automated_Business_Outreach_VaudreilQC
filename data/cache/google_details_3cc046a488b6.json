@@ -1,0 +1,423 @@
+{
+  "query": "Mon Boucher, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339627.681591,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "383",
+        "short_name": "383",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X3",
+        "short_name": "J7V 4X3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">383 Grand Boulevard</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "383 Grand Boulevard, L'Île-Perrot, QC J7V 4X3, Canada",
+    "formatted_phone_number": "(514) 425-4435",
+    "geometry": {
+      "location": {
+        "lat": 45.3907205,
+        "lng": -73.9619944
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39211848029149,
+          "lng": -73.96074151970848
+        },
+        "southwest": {
+          "lat": 45.38942051970849,
+          "lng": -73.9634394802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-425-4435",
+    "name": "Mon Boucher",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104096084957738254087\">Rikka (Frenchie)</a>"
+        ],
+        "photo_reference": "ATCDNfVlPs7HB4UW1tP5nnRdM05_C3QQ7BdDu2U-F6oIvt5k4TmPucRI7VKJuGcYP3hOmqL2eqSQYFW9xuiV3ZWlEmIsQLuBvwPBKzOh71X33YjGDiiTzUgXBxinJsN4KN-enXWnReqPmaUMFS67n7wQgJUlXtasVnbCTLGdFhVAQtBNUczDOXhVM_4gGi_SZNn4CTkfLt9DJUE73l4a9V0PYJ5itWGSrRV_Trlv2gtcc4dDiQ3brCjSsbLHd8idZjneSEfCB1hwueEpC4Pton4cgSFznQJeNqwXO8m7Oaz1Lo1h_nw-DfLcVfRhXWFraHPZC_GKAWJI5nB4l6-kDORm6T76g6ZZER0iR-0RdL25Bp1p2ynL0siN7ToK-7mK5i2E3FzcSC7WQDMgJ7-AhAR_B7R_wfi2g1MzIuKPX5jF-HjYJFM",
+        "width": 1920
+      },
+      {
+        "height": 1658,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104096084957738254087\">Rikka (Frenchie)</a>"
+        ],
+        "photo_reference": "ATCDNfWVziF72-bACnDUO5pprGPxZPX1mX24IGfRahb1kh_MB6-W4eolUJwAOfgJhiDUzN3WQZyWqLjdrAmKDzSD65qlqZZyLIx2YfmFujqqpl8Ypd4Eb9zztcpwgDdy1QbgzZkbx2RZsh76D7_HMgr2Z_tEXi4kpp6oi6oBqFfx8jTtE0XwvJaA3-T1nsh_4dongxbVHauFWmgRuaMH4fDedMCYot41UO0U-HkXPjvAeaegXlP1JRzs2i9IXNZ8tbUWLZODRQZ-wAojcwaqlNfNTZNajoFTwWqq3bMBh_FxjxSlrSfa57Lv-P6iYXZz_zJ1_hwH9YfAAuDPoliprj7N3UjUWD7AJKLzsul6e7j_EfMTNr77iDcu_LUnV91u0sgZ_Pc7gGNpzIN2NpUzXJfTR2sViiZRTdLPcVxiqvzpOWtaYw",
+        "width": 2427
+      },
+      {
+        "height": 1937,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104096084957738254087\">Rikka (Frenchie)</a>"
+        ],
+        "photo_reference": "ATCDNfULYKlrhzxDbfdYnMdO9ES7DD_LlsxN9NW8Z3znDYUTX_6LaIqeFZemdifhbGZbfMNPivR0ddv4sjCQ3oAgyRb38bpkQ2hjU417Eq6DuiJxlqCjX-rbiCwJWrMsTuZhv1-SVFHm5vayRRsRnCJSAWB1ECLa9Uqs4ai5Y7NYKRWW0slKsVJf_LqVY20Kl6X0KYXFTn2i_wZJv7Kb8h3Y63V7wbcGQqwLq1AvRfhS4Cg4NAhkZSGwiIZtXFv-GuB3hSgGBEzDojyjbXGSyTaXOcdT2PLIv2lWkqoIRQqYe-eayMpsXM1t5l2Ehuu4nrTVP29ZBxdblqUlRPFzTUhcEIJYzlMM7-GUW3NVk1dHWYvU1RF6PA478Se2jZMYdSedKljHEkWV8nCktlIIsuF510cBZRe8JmXanAEiscpEw6_z_JAD",
+        "width": 2582
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111824050560605181391\">Gerry 426</a>"
+        ],
+        "photo_reference": "ATCDNfVKRRdEpIe04g4ea87sLbmLJe0vdERw8mLXrtxkOW4TbkpxRkFrVeeGyCdObgfdI3bpheob_X7Ds4QcEVbfMKmXxSpHs3XEMFTQDNUUql2XsOkWnODz5IuO_dd8fZz4aCtBVgYk1myfFy8sO6y4GLa1lOUk1g6oGk3bUgsfrntLho3tqGHA8w7W0zJLw9hOFzChKKSsN1zN8B2g5clhPPTj4e0Cgx2Zbrw0HbS5adTMgieQr9epenjA9UZUEY1BpyDgQ1mYOBw5fbm8sAR_FNMuWhT5Gu3bvLc7jivCMqs5XKWXdlqHYgW8Jr-pQNMK6nUlqNJxm4UF-FuvNhZuDlZEvoiUIvid8F47ayJ7pj9DHoYzTjn0-6jQR8HfpYWBUzWynTggek8SqKaegRntNzNREZioCjISs7GLk53LB3Vx2u74sOPRLumLki7iCuoO",
+        "width": 4000
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104096084957738254087\">Rikka (Frenchie)</a>"
+        ],
+        "photo_reference": "ATCDNfWYQU-pK9ZEyzaucd1aQwNxfEpdzZAEkEWIMt3qH6tHE0owNzxkAtbFq4ERxTWXEqZYEr0VqeZFzBBF9xCn7Tdj0Oa-Uomdr7iM6RdmxAB3oks0vnc6NB4GWnF38Pa9CSO7wIsZk0oGdeycgUnApwlsHCRFNcuS7vzo3kvct0RXFwW24Kx90-altGKbihHuy3Ks1em2RrZrsp43uz84Q2d-5qLgAxsMyZKJA1XMcexd997g8_mXg1LVoCASNB9hbNxxElijTM6WQpZsxdFc1zugr4sRtEepd3qbkkZLR0Akjsk_BKsbkMfe6SCPHnvchYGm9kj3lL8R0nECCbgTTcWYRgTtht_h66nLbU0GC34f5d3Dc4K2zI_YViJI8M-G9_bdqttoBB-Px4wh2R7HrDl1Gai0swfOzipU74fptfIGKw",
+        "width": 3456
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111824050560605181391\">Gerry 426</a>"
+        ],
+        "photo_reference": "ATCDNfVS0aqYhfRj0RfH4qczeMxjAsUJJSLd-Rm-hbuO4hys3nb9Mcoz6i5w6G3i2fzilKymMHLCutfQwABYaKm8blVX4Cy37aY2Lwnk9k4T-9rZUhPy_H4v7llf1YomBrJtatcwAsCeEV3y4DUQ32RwKCG-UZnArNg7cuNmv2JA2mIPWwFd-eBLVMG8yhqQhtVr9tUziZgIrNSBzSkw_OCgo8Qar-l0VEIuoPzqp2G-6VSXLv6pBFaCG1kHDr7c-Pam3vEFnMHmHPFIxRMxf1e8VoczUk8cgKchHmO9RGJVfWOtO0Q2ege6ZCAXE38n2-NAHMHT0wD4FEgf0c7WWbdUwHdRpHHioApWjLmWUOjWs-6hGy44STCVQWCALOJsO6_jzUnyAm5_99dGr-PmWyuJWX5O3ObBVbfSmRXm-UROJwoyKxRoEzIsLTieIqVgYA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112202945147811515708\">Visar Aliu</a>"
+        ],
+        "photo_reference": "ATCDNfVKCM43ALA6se43DZ4AFaJNcimQV8Wy3gBqSnV6zQjvuvEzn4yq_9FNHPOxtjyYdNDRJ2kCPlE97_cWJI8jZPNl5YltgGRCHN5JOeY-50mYtoJzeI8J1xM2zJGGDhGwqxfWb6SYOaQxk9btWn9Z_H1kl2ipW_IGXsXdorySt1witUeHnJlqm3CfSFAA0o8u2kZypmTjFiYaBJEIkjW9vgYvRyGCjfLBuJf3lq8HwEE2bRHdVCVZrW2RCNuB5B0y4KIQHM74X8FM_mLwSx_-o0YvRu-Y613gfQVGk_xirIDBZo4fdK1vqhhT49Ns3GGh6u2NmxChYRCHstgTPqod8hFHqxWk7KOrXvp8aApSt6jUww30LF4Qoy8zh3obYPqh03c1aCawqGWM9A_vIJB3wZFTc3Wqg1DESNRg28lBPwBEsVo",
+        "width": 4032
+      },
+      {
+        "height": 436,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104096084957738254087\">Rikka (Frenchie)</a>"
+        ],
+        "photo_reference": "ATCDNfVi_pfhMgDGqvq5ypnpZoZNEGAA-1OA1Amhu1c6d0uK9kEVLmM_FS64uSqDc-2qjVGVQDoCosGFozjeg9M6ITIB-ScN7FfZNmiXRXdei4T_I0jLT3lmJDnKSKKjeqGVaQb61rsUsDeQgoGByrpEQzL3DoE-AURq_EPQGEAFPRLGDUGeQnDnibURK6pENKgdgktZadzmu05uYBSpui2WYzTjAwgTAamJgDTV3UkJqV1eRsYhYwRBuPSJl_N05BLNRc5KJkixDe5iTaGGmw3uUlIdH-t6-ajjHA3QAgidFvSMYPK6z9EOxGbItoY00p6_OVRTdiqJPzYWKYyp2b_HedrY88JuxmnGiF_xwpp5TX7AmF6dIgVGsVz7oG9ccFGeWetMB9qBDj0s-ZJiLPOZS-v2uDzYLNc97WCvKOfbMbS8Visv",
+        "width": 465
+      }
+    ],
+    "place_id": "ChIJhb0NFW04yUwRLdY1v-wWvQ4",
+    "plus_code": {
+      "compound_code": "92RQ+76 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RQ+76"
+    },
+    "rating": 4.8,
+    "reference": "ChIJhb0NFW04yUwRLdY1v-wWvQ4",
+    "reviews": [
+      {
+        "author_name": "Gerry 426",
+        "author_url": "https://www.google.com/maps/contrib/111824050560605181391/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsG2eIOqeY-cKpNXGipUq9ugNiofN1_zebY_l-lJW9jCkECA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "We don't eat meat often. When we do, I want it to be a quality cut.\nI haven't been disappointed so far. From prime rib roasts, to huge beef shortribs as in the pics I posted here. Great stuff.\nGood quality meats at fair prices.",
+        "time": 1756244705,
+        "translated": false
+      },
+      {
+        "author_name": "Edward de Langen",
+        "author_url": "https://www.google.com/maps/contrib/102617788806331044638/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf7udYqm6VUSSFSBFu-ew8hFPdrg92N1MJC2LOm6n9tOwxD8c98w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Great butcher. Friendly staff. Not the cheapest but everything is of high quality. Quality meats are yummy marinades.",
+        "time": 1757014408,
+        "translated": false
+      },
+      {
+        "author_name": "Jennifer Mcintosh",
+        "author_url": "https://www.google.com/maps/contrib/111456260714806658607/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpz7vaLw8vg52V4MQpQKwEMFxiJBFTdut9ax_4evX93eMWZiQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Great service, quality is high. And you can order large batches of meat. Even a 1/4 cow",
+        "time": 1759029461,
+        "translated": false
+      },
+      {
+        "author_name": "Mike W",
+        "author_url": "https://www.google.com/maps/contrib/108956422610253080015/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXiuhanJwQVhEDED9fYa6aWHLhIbCf7ddH6Hjo0d-Kp8DrAA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Excellent quality meat and fantastic staff",
+        "time": 1760029637,
+        "translated": false
+      },
+      {
+        "author_name": "Kelly Dashney",
+        "author_url": "https://www.google.com/maps/contrib/108849361833268489504/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmW-QTmdXmQEqEzig2M91D0LrxmEkJiM51i85Zy1Qyl_Gnhw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "High quality products and the employees are always so helpful when asked a question. They also sharpen knives! Now my knives cut properly. I would recommend this business.",
+        "time": 1742226013,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1062030293205374509",
+    "user_ratings_total": 82,
+    "utc_offset": -300,
+    "vicinity": "383 Grand Boulevard, L'Île-Perrot",
+    "website": "http://boucheriemonboucher.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

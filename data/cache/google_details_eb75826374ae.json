@@ -1,0 +1,400 @@
+{
+  "query": "Pépinière Cité des Jeunes, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338400.3644683,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "580",
+        "short_name": "580",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2A7",
+        "short_name": "J7T 2A7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">580 Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2A7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 3:00 PM",
+        "Tuesday: 7:00 AM – 3:00 PM",
+        "Wednesday: 7:00 AM – 3:00 PM",
+        "Thursday: 7:00 AM – 3:00 PM",
+        "Friday: 7:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Large neighbourhood garden center & plant nursery offering trees, tools, delivery options & more."
+    },
+    "formatted_address": "580 Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7T 2A7, Canada",
+    "formatted_phone_number": "(450) 424-4300",
+    "geometry": {
+      "location": {
+        "lat": 45.3818215,
+        "lng": -74.0960186
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3832614802915,
+          "lng": -74.09471261970847
+        },
+        "southwest": {
+          "lat": 45.3805635197085,
+          "lng": -74.09741058029148
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-4300",
+    "name": "Pépinière Cité des Jeunes",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 3:00 PM",
+        "Tuesday: 7:00 AM – 3:00 PM",
+        "Wednesday: 7:00 AM – 3:00 PM",
+        "Thursday: 7:00 AM – 3:00 PM",
+        "Friday: 7:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968109485316004023\">Pépinière Cité des Jeunes</a>"
+        ],
+        "photo_reference": "ATCDNfWDfNgk1hdiqYUEykSr3FmVXUtwPY3f3rt4HRFIsB67Gg4QDxU0WdW8Wd6UdRkYgZX6RFYYviQP00AsFBB74E1wRAs-6OC6SRrkCqYp8Whte8r4vuTAQe_LHUiXyXQJkL93kF4QJj1uuu9gBjH2ChM5HA-C8At3mf85AvTxSRmQSI7ah3GgTVj8hoXqMDs6WhwyNCpTqhaMNrO3jEjYlXTM-OZniwc5UtpSXyTdwyrmHKO7zWJuOp48wuUjJv-s12eTV1GbB3ZtvxahiTnl_WTqeCzk0tXuhxD_i2Nu-rQT9w",
+        "width": 3024
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111810942359091368061\">frank alibrando</a>"
+        ],
+        "photo_reference": "ATCDNfU7W6ax16sJ439XI9cHxvVxbz0yTi8xO5jwY82A85WJkQbsEjouWRkn2zTl03XUr3iQD3NJmNMuzjzgKFPJHbe-Z6ZIWk5ltUG-unl6RARjvurDAyKIFxjRNeh_k5tGqbK18YyjHUDyPcTGU0WsVbR66pzuWQvNVCN3Dei1nS_ONxMxTjnoX8DPCYu7hY_pewaEPpBnccHGg6sUcPBXCv_0a3TVP860rz5o6Jbj9jTNqq3Q2rpj6lqU2NYb_UaaKWr5DAzwsRUdZbwWOj9qrjjevV1NVRh0x3-M9O40-wP-RkyUy5I2llKnEyQVQvUL_jDAdHwXflCCWzjTTLkzpy-ScfTDBKwtX2GzU86lkp6kqZ-9HBvxn6YtaQVH2785kWdFrSROwHL-VgBNHGGp1V9CF_QyQ4XUqt8Uq4MfVkptn_wt",
+        "width": 2048
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968109485316004023\">Pépinière Cité des Jeunes</a>"
+        ],
+        "photo_reference": "ATCDNfUBGSXYUz8Pm0QFR1o6W4IHCf1wQKySnmDn1yO-1Vavnz1jMu92PNz-5UM2i5pgIE_pN74snDgJbnQOBIXgmGXqC-SGhzomRZKTpwEHmwA8jPaTN0DAJUf2_kuLMh2rDZ1vIaaNrrSqM4NeZHqJaSW0jfKzb9iRlNIetB0kzWCgRZbD92nem3j3NejHtEzzHeHWildD9ppof9TH7T5NgG5Tp6UNq4pcM8tZqn9KJVtnxOGsay_2GkEkdvS9qM42rb0eWQEMZcu-GU5hoZHjTAI5HFLZyMhXU6ZJySVkDXqATw",
+        "width": 1000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968109485316004023\">Pépinière Cité des Jeunes</a>"
+        ],
+        "photo_reference": "ATCDNfW5mubNXmaXlc2bK-AtROAIbbke0mT29qpYekLMCxRez37oIBFqUGtZMToGA9OnjsvyiJaGQN68mBsBwwTXH4XeYXQb_YYl280lQEdfQ-re7IKkodwNaLYkE0MJl1yzg6tbnIKz_3vqevtHCcYdv3czJfzmqrcoaJU_YhaBJZ_UmHP3J0RJHkDXUxDNoPUhLT8rD9b6I4NqhSGxI_RdOuAm_MkpK1WMB-BF7UorjLSoYC9-fQ64I5df_eprA6XgwlETpCuSjFSj0SeZE48LnjBxLU6VC0HQHEqJTZ5ZIhuAdQ",
+        "width": 3024
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968109485316004023\">Pépinière Cité des Jeunes</a>"
+        ],
+        "photo_reference": "ATCDNfXhuXGBbtEoU5oLQIkCgdy3kEgS1nd6SD8L9Lqj-sKuCUdptSErGaA2wsLNRYfesN8afnIU1zh0_1NCeuq15ZoNZIFmSNFPvmzuE6BF6WUueHXRo5uUtz-uA1UEn1DJnsIrpGe3ReuTWSTPE14yo2J4rsV-R-ElmhdIf9Uh23t0b32xG0M0TxchzmaMc3FROyQjuPxC0z14_PmsX7ckVFFZjKoryrBBXLEX8EhJRxY-40GoAL1C0OEXFnl7jNsv_jUeGA6frOrEEKCqeed7RIASh3mq-OnsDQ4Lwpe2eoUUWg",
+        "width": 1000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104099914740073383970\">T Ranks</a>"
+        ],
+        "photo_reference": "ATCDNfWEFYNVrOc2nFvQ8LdnFLljw1tNq4vy67aN7Dccm8mpizEuLapRtfVqPwdDbTC1aoK57fFhyBKGue5665CK49ZxWjoNa2QfMnHd8rFZpcNDGLIdwQQ8Rq3bbacTgz6NN0Jv-wbSnI7-9LXM8CYlag9Phicv55TBXj9uKh2pOwnIQZs6fQUi-PmMgd2-DIjT-HpXP03naNKOMyvQANvKtYsoLckZB-bxPhChusDpKUajhy5H4erNsvvFWQyWTu80hLxpiERGL0wC7nxEQOiawDhXyQ8TizFxB_qTvmgZ-CYTyY8lOgz0MVTYxF5hV4XTAQQRFQh_qLuNcc1ThqYEh4fOvHl-_fhA2DSae-3Lw9KytdDiAK3ph9ofAcS-EvkbUmaBA1-d3oVclOaBiOEW9MseTc7JEWQ15gGgegPmkuwsmQ",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968109485316004023\">Pépinière Cité des Jeunes</a>"
+        ],
+        "photo_reference": "ATCDNfUBlzyPsCcepNKDl6dNH6qsICZTgBzBITEAqkYb9fMf7EVVYHH2SdSjYa8eTkTVvJanowm4S9huGz5fe93gPmfisi9RkC8Jxg16oXNw9GYhihixuy7d5d5eI4Xohz-a2Cd2vAfBcRLTOp3X66iEhl_PZHMlw2rGC81E3KeCfBe_mEabNinA_Z_wJ9WnaDzLUiqoPX7U1AYYwhfX-c0lkoZ5ksg8eWw3PpKoVf2rFn7idr8-Xo1fMWflJfZj_9xI0SlUJo3T5b_L5AFs0SSiwADjWqr7ywIkszzzjkjdeXsI4g",
+        "width": 3024
+      },
+      {
+        "height": 864,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111810942359091368061\">frank alibrando</a>"
+        ],
+        "photo_reference": "ATCDNfXrhVohsIyoKIN6BAMnZ97TMjLun3_GOPKuut5jrljzLyXNWSfucvUhRebQgJBYjLbqH-yYlKGz9JO3qe7Uq3XeBx9up3TNRKPRJBsXu47xiiloCskZGKGKzmQ0IwZr623mFxskItaW6BSeX6HcUavy1qyjyPIl-nIwhHduU5IPy-cfxftZGt1ozKEZwTU-c6EcwPjDGjjxxRSjmbeICIVwQgbbLr6bMrjqbSjdRkX_3ekLz7lWL6Q-0p5YTYzyK7TJzft4NmOXEeoG1cJqS3qCKPB1M2TV5dtFf1Wpq00t-P0qvmpwNRo1v3CUCoz3tbEVOUldGkOwq1OILPIUZBolriF3pX2sgAu_mAGf6hcdGFCiFXNxu1BonMgxLo4bT7Q7sXAUtjWcgjbZLaixXh0kqzUeQFDWdz9JOzSe2v8v3Q",
+        "width": 1152
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968109485316004023\">Pépinière Cité des Jeunes</a>"
+        ],
+        "photo_reference": "ATCDNfX1wjfqOfDE3o78f6ciL5uUJURbL203e7HI6LjtPJIT5f0pfflNHH1ppLuzSJLmrsJ1lDvriXOFw5PokJ3jSi2jLRGmpXhLqfI-s2_IF9StEr-V2TUMVTPbWcOLfsRIyxpA4tfwclO3_if6FxQuMvi94B709a5vX-N-ck208Xi4AHY6Iv57CivGXei71uzuZdlstatB26ExsJpBzmqxpnXf27F1_2mr7d1YzU17rMGY6yPqqLBS9w5vlDlYshQPG778_55nsvstWvZJpw3t24IMgSXil0vRRC2RB5M3ix01dw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968109485316004023\">Pépinière Cité des Jeunes</a>"
+        ],
+        "photo_reference": "ATCDNfW0rbV5q5N2_S1xq-W3mFllmLFY_OhM2Z0Ln2H2ZxYSeo-rKw7Qkp1fwoTJ2eFK9Sl90FzcZIRLrNQwamkSiPdoJNL2eHtCKiFEFQZZ1JHUpzI21TDuVAQvuPBv_poD8V4WgjG0iMG8Oby6jtMuM4SYe9gXMtpYn41lUCvJ7PtwQ1sldXGSxj8VPyiYgvJyVSCertZz7prHVb5yyGmMqgB3yN69gfGHRBpLE8WqBAJMAULfUp6SeYQNi1JlsE9uzbeXw3lhbMdi98RUtXvaXohdk24S9sod4KjLOSqmGU0XDg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJY_j_8_RJyUwRfFDmZJXqUZA",
+    "plus_code": {
+      "compound_code": "9WJ3+PH Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WJ3+PH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJY_j_8_RJyUwRfFDmZJXqUZA",
+    "reviews": [
+      {
+        "author_name": "Harry Pabla",
+        "author_url": "https://www.google.com/maps/contrib/113516595876673298781/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQJppVpL-z3FecBrsxIUQhC2QVP6qVyHE-qe0PDR6wCccQR8Nc1g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "6 months ago",
+        "text": "Very poor quality granite noir stone. Selling gravel as stones - do not recommend.",
+        "time": 1753922513,
+        "translated": false
+      },
+      {
+        "author_name": "Steve Dennison",
+        "author_url": "https://www.google.com/maps/contrib/108451874100415523084/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP8V5x3wUSwuNlGgtcEv6EievbqlgpSnihlLDjIcBGPBj75CN1=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "If you're looking for good, knowledgeable people who understand what outstanding customer service is, quality products and reasonable prices, look no further. They take the time to understand your project and provide sound advice. Delivery is quick and they always call to let you know they're on their way.",
+        "time": 1748466775,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I highly recommend them for any of your garden/landscaping needs. We bought trees and plants from them annually. The staff is professional and very knowledgeable. Maria was extremely helpful with recommendations to getting our lawn overseeded with the right mix of drought resistant seeds and earth. We even went back to purchase fertilizer for the fall and nematodes to kill white grubs. I can't say enough good things about this Pépinière.",
+        "time": 1575331885,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Salera",
+        "author_url": "https://www.google.com/maps/contrib/115399289850721800029/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSZTQBZtet-GIDuBz9PktRFnPe8hwo96ey3rza7XAIY9541G45=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very friendly and knowledgeable staff offer excellent customer service. They helped me with a few landscaping questions, even put me in touch with some landscapers specializing in the work I have. Will definitely source my materials here once I start the job.",
+        "time": 1710536052,
+        "translated": false
+      },
+      {
+        "author_name": "Andrew L",
+        "author_url": "https://www.google.com/maps/contrib/104098188375684238999/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKejwtqOVQvsTWBcjbNiWCQrB_MenV7m43ZoIPOhUTT4mi6Gw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Received great service/advice when call to inquire about their products. Placed my order online and received a call within minutes to confirm when I wanted delivery. Delivery arrived as promised without issue. The topsoil prices were way cheaper than the big box stores. Will shop here again.",
+        "time": 1682700449,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=10399350941939028092",
+    "user_ratings_total": 132,
+    "utc_offset": -300,
+    "vicinity": "580 Rte de la Cité-des-Jeunes, Saint-Lazare",
+    "website": "https://www.pepinierepierrefonds.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

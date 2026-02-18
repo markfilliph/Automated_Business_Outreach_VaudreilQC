@@ -1,0 +1,323 @@
+{
+  "query": "Clinique Dentaire Charland et Dufresne, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339926.2698426,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3331",
+        "short_name": "3331",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9N4",
+        "short_name": "J7V 9N4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3331 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9N4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3331 Bd de la Gare, Vaudreuil-Dorion, QC J7V 9N4, Canada",
+    "formatted_phone_number": "(450) 455-5672",
+    "geometry": {
+      "location": {
+        "lat": 45.4046915,
+        "lng": -74.03884599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4061881302915,
+          "lng": -74.03770816970848
+        },
+        "southwest": {
+          "lat": 45.4034901697085,
+          "lng": -74.04040613029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-5672",
+    "name": "Clinique Dentaire Charland et Dufresne",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 521,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105744278188662560853\">Clinique Dentaire Charland et Dufresne</a>"
+        ],
+        "photo_reference": "ATCDNfULkbVRd3y0qYjz3jAkqpVq2IKu25lxbTtG2bnfcouQoBDZBg85S2ydE_bT0g9JTkOGRmBxG9_n9b6hw5pif6h65r6NNVwNitN4-NPQLmxZ2wDo7easMy9mH0QJDrZhJxdxn0mwUmeuNF3gR8oPmfeXPsowV8nL0ZxRJCuiAgsEIuZ6bmsj58AjBCgQ13f5sqMVIt3jYuzVbo5iKmlxTsWALv8-9GF-LDVEW_23ammDnoHxsXfaZZK1STbUrRKoZtQn9HopsKSBIFXVQJxDZP0QlQnVgAgxwEeZGv1YSVYyHg",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJP1QhgDM2yUwRgr7XmGaKP1s",
+    "plus_code": {
+      "compound_code": "CX36+VF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX36+VF"
+    },
+    "rating": 4.8,
+    "reference": "ChIJP1QhgDM2yUwRgr7XmGaKP1s",
+    "reviews": [
+      {
+        "author_name": "Lisa Lieberman",
+        "author_url": "https://www.google.com/maps/contrib/106846837675798868199/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJem_t0du0OkxzmyC9ziMP3vM60bgA2HZaSAvyvcT_3oX4lgb0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Words can't possible describe the incredible care and tenderness and devotion to their patients that these 2 dentists have! I am truly blessed to be a patient here and would recommend them to everyone! So patient, understanding and supportive...and they are both gorgeous too! Dentists like Madeleine Dufresne and Martin Charland are truly a gift! Their after care and sincerity are beyond words!",
+        "time": 1577673068,
+        "translated": false
+      },
+      {
+        "author_name": "Louise Bernardin",
+        "author_url": "https://www.google.com/maps/contrib/103757096318058631898/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCYVJoZcFOz8uNRgH54YZSDqd7eQqwY-IKV_cGo4YAMofdo2t4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Very professional! Great team!",
+        "time": 1765759303,
+        "translated": true
+      },
+      {
+        "author_name": "David Maisonneuve",
+        "author_url": "https://www.google.com/maps/contrib/111029314930918624633/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0-thR7wRmF2itVxscUEpKdMXvRLShvQNgU8g4LJxI0YArVA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I've been seeing Madeleine for several years now, she's the best dentist you could ever have. Great team and excellent care!!",
+        "time": 1736272404,
+        "translated": true
+      },
+      {
+        "author_name": "Sam",
+        "author_url": "https://www.google.com/maps/contrib/104861085595138566284/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3JCXqZJS_zR-QhOaksuhlFAQ_qlYkwIHYVBqT9SGpSyNAPA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "great dental clinic I like it",
+        "time": 1754630477,
+        "translated": true
+      },
+      {
+        "author_name": "D X",
+        "author_url": "https://www.google.com/maps/contrib/104156830723363805639/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHKyc6I-2SC-2BASEfGpcYikm3Vx7Zd-jprJH4ZpEopdwoqcs=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "4 years ago",
+        "text": "Courteous, professional and attentive service, but good luck getting an appointment within a reasonable time frame...even for an emergency!",
+        "time": 1633209390,
+        "translated": true
+      }
+    ],
+    "types": [
+      "dentist",
+      "doctor",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6575126154239786626",
+    "user_ratings_total": 13,
+    "utc_offset": -300,
+    "vicinity": "3331 Bd de la Gare, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

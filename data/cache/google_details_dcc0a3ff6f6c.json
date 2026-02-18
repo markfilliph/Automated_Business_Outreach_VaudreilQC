@@ -1,0 +1,437 @@
+{
+  "query": "Zigzagzoo Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340339.6300452,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "980",
+        "short_name": "980",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4R7",
+        "short_name": "J7V 4R7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">980 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4R7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30 AM – 4:00 PM",
+        "Tuesday: 9:30 AM – 4:00 PM",
+        "Wednesday: 9:30 AM – 4:00 PM",
+        "Thursday: 9:30 AM – 4:00 PM",
+        "Friday: 9:30 AM – 4:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 9:30 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "980 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 4R7, Canada",
+    "formatted_phone_number": "(450) 424-3244",
+    "geometry": {
+      "location": {
+        "lat": 45.4132156,
+        "lng": -74.04215239999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4143314802915,
+          "lng": -74.04039166970848
+        },
+        "southwest": {
+          "lat": 45.4116335197085,
+          "lng": -74.0430896302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-3244",
+    "name": "Zigzagzoo Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30 AM – 4:00 PM",
+        "Tuesday: 9:30 AM – 4:00 PM",
+        "Wednesday: 9:30 AM – 4:00 PM",
+        "Thursday: 9:30 AM – 4:00 PM",
+        "Friday: 9:30 AM – 4:00 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: 9:30 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2872,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104497600869756692195\">Famille Bitton</a>"
+        ],
+        "photo_reference": "ATCDNfUNR9baNtoItnnyFJ5BvFgMKkFPe1Pv4ry7_AoB2g_6hngotRBzqtdPlPn2O7AE2bPYVcd0j4TCdQdFzgc7FhKEU0VKuk6Jp46c3SRvgKLh3bJkfRr9JXJdLdas7bBC0Odm720tkuSyHp1C5cfuTtewgbnSyeLiVuxc9kNuwUv_6_BJYu_WbkjUxGXKIH4GKyrAhGNT_eKJ2MjOmGSwFzCaLE012gOxkD6FqboIADe6f0qJXn5n36osHPzpEi9lf4cWYsLhZvNWU7GsVImXDRaYwkDjPNFFM6Pi2F_eG6YZ_VAOXNhawrjwwvSXYKDu1MR-rgw_FK-5PpUBDsiMpGPCdOBZlShj3cKYKxtZq1moNHwa3-iMr3q6972nqm-PH7zAgDIGHcTByrI3Isn4j4bFnNPhC2Y3sJYcj9YVBBv3s-mP",
+        "width": 3830
+      },
+      {
+        "height": 2832,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100989903185357378560\">Zigzagzoo Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUcaptihH-Dih5KxIzB7jkpZkkYUcpbPfOYzu5SWA2DgTpyRwN4tTlEdKNzfB0_kyyOOugxarB31I0z0MEPnloDolOkA8iiK2H23dHUS4v78oT1gGQvK6WUJLxtR3OVDe9k5VLxveL6J3rpnvoo9O3MXgiVJYR0UelCsOru8T0xzsStJKahz9XW2Xs4mHDdWTdcWAYJXpnWH_og--kXm2LTBms2BO6rTcXfpBkw0Fh2ay4XisMajis-OxfIPZpy8m_qEjfsUDE4Nk4nJTLf0W9uJ9nPKo8VTkJ2wzkXgwz9cg",
+        "width": 4240
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106048760777539240570\">Diego Andres Galeano Florez</a>"
+        ],
+        "photo_reference": "ATCDNfUyC3YxZ8Sq9n24f_3nmJzCwb8OMRm1qp4KFkhyPuP7LNBNHBMcDcdZZN4m7RW6FMFbuVIdFa9yElU0p6JFIlBV5yS9wvjh5DMWIQ-_HdNQkLTP7BqzvJNyawUMfyTbIpEMtJ45eCDU83Orh_tKCp4eytKUIbHHVxEB5tsGAgrfwDrBgKjYBOsBdzPCGSGCQ6ChL5GTHiCkIuRWHS8KVdJ9QvykCm4JW1HXCjHVhN6DlOM1w_a8ZPr5n7Cckxt_IlCKunxQsQi4IQZdTz6U5dAqQhIUfMXNoSnu_yN46HuOI0aGZnnlv23K-LTSJkeV1iKcXdEZPV7aApkP4f4hSGVs70DOz_ZZyA-tXeWbFR78kh3UgHz--3lW7hVLt79uA4hXJRPVxUXYVoJet9sItU-8tDR4UFvdBZwPw2AW24hKnQ",
+        "width": 3024
+      },
+      {
+        "height": 2832,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100989903185357378560\">Zigzagzoo Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUPDH8IK2Dm9EtWw1n1JPbqMqbyC74Cf_vzwWFOx4J4gioPxSKCiGZTHwCBBpKpJCHCfORPZblc5_k2NZkO_MjbRsn6tSXiZ4nLfACr9Cc4gHlwP3B_Y6rUM9VS_5OKqzFADx2mH4-TMQeipQvSrHDVPtylero0whUAzXbGYyFHqwvuT7P3yFErv_hc6QgB_-yC00cTDiFWbau-ru7IHcuXot3wR5Qp8I9lnE5hVyG1F7gvardWzj9CPSudk3g54ubcCR66LDMhkYd6F52VkBg3MrdBCRXJiM5NMlGkzIRw9A",
+        "width": 4240
+      },
+      {
+        "height": 2832,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100989903185357378560\">Zigzagzoo Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVOsGUTYRbEEgDf4nJUXjBa3AuI0NvRFAMTEyU8BLyDCbE1F-h9DIz-9NfFdIDHd9eghyjFBy5mylQdsT_m2DwU3slWZLW_92GuXHnjSnx_wQJJmI7w0GaVMcEcpmiUFg0IsI-eWVyAPe704i4N93BSpORPVsEJlnRcw1eM6OUZXw1tdz1t0I8-z1dwfikFU5MnTo5Go2XCLx-Ssd6M_n4mpEcf9cwDNZThNeB4BNT9saQE0HOV2t0KfO-HdqykOI4q-QGnDU-pBLALyU50pB41KE85XDpVjTAKDLYCqBHg8Q",
+        "width": 4240
+      },
+      {
+        "height": 591,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100989903185357378560\">Zigzagzoo Inc</a>"
+        ],
+        "photo_reference": "ATCDNfW72OdVtggdZHvBfXqATMclnSddcQxGVnsBzdLTEkg7jRqT0rpHgDYZpPY7mxkpQ9avaRl2NlHwUMYXInx-dxdixE6MdKZDySsTbYf3hKR2VA3F8tHbEvsrrdyNIi3fcR0ky5F-vfLdLdaVJQnRAywINPT9SK_Tgdf8JFuHE603kN4qo84QWAXqRzheSS-JaJevHpdrB1Ky_aKOJvU-HS11uBy_vbXpoHhBxT9wGo815ROZaRP9d6n8KS927iQ2ku70NsM0Zc4pckZ5SqYSa-4zBqBZIs5OQlOBXCnf-sbY7Q",
+        "width": 1080
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105804639960068928504\">O&#39;keefe beer guy</a>"
+        ],
+        "photo_reference": "ATCDNfUQJb1f1e4kOWTqdcGLJAB5lC4XCw9LFC9kiHM7sgk6VdEFbhXJvwD1wBGpr07lqa-yM4sXY2QmkpHQ5wXISp_-ZCYS5lsGCV9bf0NWCmJHejIlukjLctSCAqqrb2Tpu2dFkTFTg5dGMPKzECRRK_G3pE9jv7cmPMwhIku2GQF4Tw9n24hqSCrwofNIPTfDpTmWcAe-fGfEI8e-sLJkkGIjTVvtV-R5Ij9TTiCyhfnX-XTd6gS4qe7vycO9XBPrdaQbsDTr1skZztmm2U7OmqTbRPVCyM-x69G2aN73tTx4naUgRQi6mZiqO17RNHx9CnVdzlwTAQRtIbX63-6K7R--tuch9rLkCB3rvfePBMKuMoSZqn-rPfsxja_8LJBfQa2U3pB-G4g1BbjZiJUJ9s2OiP6r_pEbwZ2ThJDz0cQfXexU",
+        "width": 4160
+      },
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112793858879771114316\">Christopher Cinzia Stewart Di Vincenzo</a>"
+        ],
+        "photo_reference": "ATCDNfWTqDpK4N-DwiE0TpBxi2m-N8sxgK8VHkcFhKe3QabmviOikKfpb4E8l48YXT6fA4lWfvwzxAfOs2wokrXOvaBeYxNInsdlvULRdIJF7Xq8-fEp_oz5IMZnmCx8DUK6EZvm-5H-voiRUz1-aEsZ2X9vXGTPeRqLDd294DBRId96iyOhV05oqKSpo-ke_QH-C3CEMIF55HkVpyobX9VrzsM310Vp5J3veD3XJYay5v8_9_ZbotPP34ic5pMxT3KWazexStouWCkf2f0IHrvGEMM8IC3KW8kCX-__l6R7izpjgJCVSkAnFj0HlojJlx6gnZ9S2F8FgorRnCB68V7p5GNV-wU3OtISuUWdwb4Mz-yJfaQTYmhC6bqf5xlJ2n5PQXp29KlBwh6WAZzivTnrwS_-dKkMSGrmtfiRj-yjeOOnwRQf",
+        "width": 1440
+      },
+      {
+        "height": 2340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106106239905503470172\">Tanya Lamoureux</a>"
+        ],
+        "photo_reference": "ATCDNfWo9JS5_ECr2Cej2RzYW0K0ll5VHQMtbVZtdqgGMAVdrmElELXJONluw4VnmPkOTaH68ByN-DE4N0W99eqASDqO45zK2DGPYh6B_3gRui08F_wX4vuiUBGc1G_OETwQxQvmqvOCKW3xgCXIg33Opb-kbCRwGwptSOjtzXnGrSGBvbNCNotZh3tx5qLeOAOiurWar25E_wKE0tPK9IvIwjsvF0BWF07hpTvkpnNGzd1KCiLlo0QLXNl8iqRvuuZXJu68gCgtfHcPNeqTxQPbyKPc04730eLEptDVoNETcP0T1Nn08jV-6gwcB4nyzfA5_f55xSvqByRTj3StgpC2JsX5u7xmnZNygu05c84Mw4Jtr0UfcI_9b9vHhglYsikjKK1JEC20aMz6OhbLE8ViHtySnf0LNE3kB0a1_3FXWrki2A",
+        "width": 4160
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108244192836135550286\">Marina Vasilaki</a>"
+        ],
+        "photo_reference": "ATCDNfUFKuNLO-cNG60bbkTqVi1tp-65PEtlnhBEUbBLKW3xtXk9Rb-Olkfy2UX6pM4KmDhBWGWQsfz9qETDHfN0wNDxdE0TqwoPhydMt9Wl2_JXJfpHBoptE0phxti7pANFU7Ehxv7zCbGYzGUVLja5H0vyTwOLkO04Ia2TxSe_rHHjtm9cBll4TlFapR7uTRt2IlmYG-O4whGsRSH0ndMFGux46qcol7CxWdGLhbRYwiZlDZ5EA4mqTWC_2P88ckTQWbs3QeRHuXxkwJFMfJrLOVSTNLSYUTvkun-4XuREL8S8dz-RDpcJnbShcINW_Cor8aS7WedGxynRy3NzBRK609--LYwfXoXKd9fXFNRezDT9oaA27YR4fW8MkawkqkLxjg5JBSgsMv9eKS2BMKt9Z07m6q4PipN8TIxK30HT6FwHAOE",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJ7c_AwUg2yUwRyXC79q35WHU",
+    "plus_code": {
+      "compound_code": "CX75+74 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX75+74"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ7c_AwUg2yUwRyXC79q35WHU",
+    "reviews": [
+      {
+        "author_name": "Fauteux Travel",
+        "author_url": "https://www.google.com/maps/contrib/101316651623239330214/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0W4iQ5iRfamjxV4PP7fvxuNfYpK6dZvXiDrVkvgexv_eOXvbrLA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Zigzag Zoo in Vaudreuil is an absolute gem 😊! We took our kids there last weekend, and it was a HIT. The indoor space is huge, with tons of activities to keep kids entertained for hours. My 7-year-old loved the laser tag and mini-putt, and my 4-year-old had a blast in the play area. Staff were super friendly and helpful too. We'd definitely go back! 🚀",
+        "time": 1769055393,
+        "translated": false
+      },
+      {
+        "author_name": "Mark Maceluch",
+        "author_url": "https://www.google.com/maps/contrib/104848410476171130105/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWmbjJlB3vojk6_HKmMm4t1AzPYgAxBsajrQcg-N3z6pnDStXH=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "It is an amazing place for young kids to burn energy and have fun.\n\nWarning: Kids get so excited that mistakes happen when they leave and put on wrong coats and boots.  So maybe write their names on items.  They just have an amazing lifetime fun experience here - its actually hard to get them to leave.\n\nSuitable for youngsters and they will go Bananas, burn energy, and get a good night's sleep after hours of running and jumping.  There is an affordable food area to buy snacks, treats, and drinks in a lunch area with tables and chairs where you can buy soup, sandwiches, and pizza.  They have various drinks from milk, juice, slush, lemonade, soda, and coffee.  No nut based items are allowed here in case of other kids with allergies.\n\nWe love this place, and it's super fun and safe for young kids.  They even have a safe play zone for kids under 3 years old.  Security wise, when you enter, they put identity bracelets on kids and those with them -  You can't leave without proper exit.  There is a NO BULLY policy, and kids must wear socks (they sell some in case they forget them at home).",
+        "time": 1716677707,
+        "translated": false
+      },
+      {
+        "author_name": "Noël Waheed",
+        "author_url": "https://www.google.com/maps/contrib/101050392765065947557/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMeoLvw5XVEP_NK8bmKovQEdejUjsw4czgUBYKYAlZNU--HSck=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "If you got a little one, get the membership, you’ll definitely go at least six times in a year and pay it off.\nThe membership is good for one kid and an adult so it doesn’t even have to be the same adult that goes with the kid.",
+        "time": 1769732023,
+        "translated": false
+      },
+      {
+        "author_name": "Vivek Kumar",
+        "author_url": "https://www.google.com/maps/contrib/104102384092164977240/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQSr5nv3DSySiLNQq4W-1dsB3p66zDdl56oefrNs5n_fHCfsmY=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "I visited this amusement park expecting a family-friendly experience, but the policies are honestly unreasonable. They allow only one adult free with a child with Annual pass, and the second parent is forced to buy a full ticket—even though there is absolutely nothing for adults to do inside.\n\nIf the mother enters for free, the father still has to pay, and vice-versa. Having a toddler one parent might get tired and other can take over. It makes no sense to charge both parents when they’re just supervising their child. No rides, no activities, nothing that justifies the extra ticket. I have been to many similar places where both parents are free.\n\nThis policy feels like a cash-grab rather than a family attraction. Families should feel welcomed, not penalized. I won’t be visiting again, and I definitely wouldn’t recommend it to other parents.",
+        "time": 1763222074,
+        "translated": false
+      },
+      {
+        "author_name": "Sandeep Sharma",
+        "author_url": "https://www.google.com/maps/contrib/106674991449368167685/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXixwUDeoSAUtd15uO9OmBBTkkvWWkMtHD1Qt6TGXjThf2oeLLe=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 months ago",
+        "text": "Here’s my concern: I’ve visited many similar places across Canada and the U.S., and this is the only one that charges admission for parents. Why is that? Parents aren’t actually using any of the services inside.\nFor example, we recently went to a similar venue in Calgary, and the total cost for all three of us (my wife, our 3-year-old, and me) was $11.50, taxes included. Here, I was charged $32 just for my son and me. That’s a huge difference!",
+        "time": 1763927239,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8455782825952243913",
+    "user_ratings_total": 570,
+    "utc_offset": -300,
+    "vicinity": "980 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://www.zigzagzoo.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

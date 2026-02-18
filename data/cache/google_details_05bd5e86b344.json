@@ -1,0 +1,417 @@
+{
+  "query": "Hôpital Vétérinaire De L'Île-Perrot inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371467.4104307,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "400",
+        "short_name": "400",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X2",
+        "short_name": "J7V 4X2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">400 Grand Boulevard</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 8:00 PM",
+        "Tuesday: 8:30 AM – 8:00 PM",
+        "Wednesday: 8:30 AM – 6:00 PM",
+        "Thursday: 8:30 AM – 8:00 PM",
+        "Friday: 8:30 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "400 Grand Boulevard, L'Île-Perrot, QC J7V 4X2, Canada",
+    "formatted_phone_number": "(514) 453-3406",
+    "geometry": {
+      "location": {
+        "lat": 45.3902749,
+        "lng": -73.9632255
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3915843802915,
+          "lng": -73.96186246970849
+        },
+        "southwest": {
+          "lat": 45.3888864197085,
+          "lng": -73.9645604302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-3406",
+    "name": "Hôpital Vétérinaire De L'Île-Perrot inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 8:00 PM",
+        "Tuesday: 8:30 AM – 8:00 PM",
+        "Wednesday: 8:30 AM – 6:00 PM",
+        "Thursday: 8:30 AM – 8:00 PM",
+        "Friday: 8:30 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 437,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110013116887271398156\">Hôpital Vétérinaire De L&#39;Île-Perrot inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXfpp_1y1S06Lf9X_ItqfA20-YvYHYvvnZQuhMMJ_xRk48zSfYmVDiMqCa6f_0UyIbGuMmBTuc32c8Y4HY163ijPB4lW1EK1muana2gf9i2S47V6Bza_w5PKQSIL12bkToAYk_RoVSsvNrdqy6FdPKxwmt1b_29NMhKBXOPTsClzLe5rO65-Yv6UqiEjftXuJgiGR7z4PT8ZmQHqV7RJXjPN7YuMLqS9oorH8GnLeT0m6nOGzQhQCPajpzeLX_z_ZiRf7qsWtZSqD5dKIBwnvV3jnt0Vd1jeeNKaNYlJNgXgA",
+        "width": 1920
+      },
+      {
+        "height": 440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110013116887271398156\">Hôpital Vétérinaire De L&#39;Île-Perrot inc.</a>"
+        ],
+        "photo_reference": "ATCDNfV51tHXxiumK2VFUBfWbZm27nMN7AaHtm9FcFOOYRiUzBDNYtFwmvdSjMX16EoBU6NlvVySKfboQCZ48Twvy4IwQo--_uM7RzJuk2jMABGU41zzi1lMci2f4bu9670TAyP5uy-MpMvdvMIWTnWBO5Ws1W7mkD8cb_xQXeqN2WEmJmD056OP4WU8p7lp2MmRrXAFs66lezaOr1EUCyBZvuElzmF_5WR5Bv4PW7gdDiGFkGJcltqtZgEq_smdiWLN8zX4DuFoN-0pfV-eVYDfjhzZ0IHW2TZKXFWyt-IIu2Ug2g",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110013116887271398156\">Hôpital Vétérinaire De L&#39;Île-Perrot inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXhPnhdYJRv-bDEE__rI9hLCAZqWPPdMoX5dWKrnorYSgWv1-mJZMheahitCO7FLxpeq_WQ5sbvRHRsNpLAHMAL_xbyV8xnl2UiK8Rrdgfu_nDP6tlEYe7QRw1rGEICZTzl1QCweXSxrrPpdAmsU28CeNgsX7aX1hnIyyyRRfxlQhW7sBaVc8tNPBTh0jApoFdMkxLcegE2O4W435ddt-KUaqKYrjwqINKUBsHvyBaCwb8K41o9dIvuK9hzrOj_Fa7O_34cq6uNq2z5Gy79dVRxtA1IYOVe_IkEOK9CwMiXIA",
+        "width": 640
+      },
+      {
+        "height": 428,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110013116887271398156\">Hôpital Vétérinaire De L&#39;Île-Perrot inc.</a>"
+        ],
+        "photo_reference": "ATCDNfWgFH2RvOqktSEGnf6JMAcXYd2zptlW9qVASzLNNDswghXSXCeVm_F42CQv4AfNyMYdqdWADTmIR_-9SO1hxPVhGMUZxZ8zXRQ0cilymCA0L9a1uuVl3GLEcy2fyEZ3JrfySQrIv98WSqJdSTJ0Ejr9ObzvFPbuptx9GpKxD_4VbFi8NLwrUrT-YKCEtS0OhZKc45-fF0DaCOPge3mZJ8zj-Zy4fD5PV2wBzR6TEsKrlSVCQviMz0x9nxPXGECzes9ZN5fpve3pDZvEjo0FOG2z-we53xlHbM5bxaQ1f8VsYA",
+        "width": 640
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100721311927441535636\">Marielle Harris</a>"
+        ],
+        "photo_reference": "ATCDNfVROeWUFcRVKKH5TDiEXIYvSASGOwLhjjU0k2Fme4ydMzCvSsjUG78QcMchoAni-Ax74NdAlkZIGLez53BawiwSrXDaqVbZEPdNh4Wmvxu4J4uChbhvFoxoP4Ppaj9gPQE15WA5MULKhoFxt7yLQvEZzp2czb1Ie028tTKgWVbkOS0zDgoBeWWJO62OsL7rsX__W6Zb4AryUO3fKiBvRuiRyzLgRZE4YDRsdO1AebDGpOqizYDYZsQ8LnXFcL0f7OL3aM7_-3_X9lPlYxOUzv4HVa4i9nV8zo-gC_cp95JNhzjV8rU3leeWbatx5sTycwJpbJQfCn5yoeXrxI1o5T6kkvU96n_5_PHntC2Dr2_yQ07LEvSzvEfR8oeD0-z9lBVQy8jqONFfIIHKKIWmPTi2-ZtLYVClkrLRPwxa6eeEJA",
+        "width": 3024
+      },
+      {
+        "height": 428,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110013116887271398156\">Hôpital Vétérinaire De L&#39;Île-Perrot inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUtq3EbMNn34MIEzXi2D-dTnFmkMgr4-xCtkmNJuQeDNiopt1xgtFcruSM_SZspVWhUMmU849vm_0QZi_l1VjotSTy2ene-zgVf_ISpO3K_XK1RtNOP-CMUorkO1po1ou0aGIpBJL8sV1IFulvqVIsY8YVpuDl7zuumLY7bcNozKl7iE-eq2H5czyU5Ic7oETn3y-tGQEkn0QsSkpvUd8-GRGKO9DORZ0BSI0IKjxuLpq_d8qkBaTlYlrEldG_GjR7W7xyBhWCeNXFV1Aj3s8OStY6snXyt_txjsP440PEk2w",
+        "width": 640
+      },
+      {
+        "height": 428,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110013116887271398156\">Hôpital Vétérinaire De L&#39;Île-Perrot inc.</a>"
+        ],
+        "photo_reference": "ATCDNfX4BMIoDxa56uAPxcjDE6aPy6JlIkZkysKS6By7YOUGThiJ0CGRlaQD1U7aJlieCSOaozobgsL201zc1IsJNAQu2_c-5JqREpdBQ-2wT6c-RAIoJsQn-wu_QxR_HQdKo_VAMp8I8Nph1jjpggDIfzOecIiGiWDaqeXMd4M7ksyDdtWqkTY9DcD1Bo-Q8mQeoLily6zCz-69tY4rbZGL7UaMAWugjEExpxXEk4iWix3QZ-BLz7rd_MqylliBLpnfAFdxwpS2y8cnvMmyFOhK9alMTe1idB_dQK_xP6MVldvxbQ",
+        "width": 640
+      },
+      {
+        "height": 428,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110013116887271398156\">Hôpital Vétérinaire De L&#39;Île-Perrot inc.</a>"
+        ],
+        "photo_reference": "ATCDNfWWs9kUbVjDdVkBOWCmeNyE7aW0zt_qcvuS4gm7in0IZO63uJAtm-50YUOZiNnN80aO2HAIO2SOpMTvp1LFKt0K8MlrldOpPibkHIvimyrExFllKR69f_EdaXwRS4hj_qVp-3T_GIMe_RgEj8ZvPWvLO91zVqZkKmgVA3t7725VjVZoDWek9OX1zJLXZwQjjVrzRrYrxfVCBwbL2scrjzXCjH7B5cMQ0AE-yOdDgWNdlSKHaLV7cTqluY7MiyVqfMxwD_qFa-lYmnmwiO7E_ZFDx31gkdBIM9yd967Fs4LUVA",
+        "width": 640
+      },
+      {
+        "height": 428,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110013116887271398156\">Hôpital Vétérinaire De L&#39;Île-Perrot inc.</a>"
+        ],
+        "photo_reference": "ATCDNfV2Zac8fZMp34nHKgxYiKTjoRHxyPu9oa_NyNU4UfjGm3fI6rCkbChT9k_Zdc1OlKMiexmLxJTHBEwbvTZ-5ZwJCL4lq8Dp0zrjh1EKr6y0C3qBTE-yy3xc0IPQg2zeatB0UsagM82OLM4AeUGQXkI_STS3NObvKviYWPYOJuHrEIHZsy54qAvmBTSS2BZdcCcoPrOtvlLRzNs2i319Exa-lff28oneTmaSYN6RPtMMTvSNB_RDrH5SoFPBVMipLSsUdPmja8cIUZ0z2ZVSKSNyVc0JRxMKgIVOrrMTkIlJoA",
+        "width": 640
+      },
+      {
+        "height": 855,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfUQ2vD4TyTCP3CY7uO5-NVTr1530VvNBeEeF801VEHZfBRajER-aaHt-HwNHQYtx_izpzKM3AHCHx4oFPzlYdZf9NLZCxVsggGQwiaS3305o9UikUsUTHmJc1DNUKcv2_oknrG5jsiEE_cxTMsLm2CdUz-GMrIEjOY37KcxyF9ETFF_brTUOJBNiufDYfSuB93hDAJ-fWqy0BnBahJ2Ulg8EVhq295t0r7tZt_ei3d9-JXkoebOVhnkyBoE1B62h1fRLLcHoukWSUrtouMfnnyf8kMh5q4jE3nrqsnolXKjgPINWuXY8-gPVv94JMCO18kQ7KfnLnGlKxjLoybq_lgZUDceKsD-rgUaXLEp4UT6FUTxPwsrAuQuuJZb2hZtcGxQQtTCyMUI1wY0zLJpaxrdURZTrR5LCL7Xk0l1EnHnfg",
+        "width": 1130
+      }
+    ],
+    "place_id": "ChIJp-nfpBI4yUwRY5NqdHQW4X4",
+    "plus_code": {
+      "compound_code": "92RP+4P L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RP+4P"
+    },
+    "rating": 4.1,
+    "reference": "ChIJp-nfpBI4yUwRY5NqdHQW4X4",
+    "reviews": [
+      {
+        "author_name": "Anwar White",
+        "author_url": "https://www.google.com/maps/contrib/113886526282791131493/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_WztU9BA6y194F1LwUMVR2oEbtcwzqSrYq3kWaKGXq5sTogC7=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "I'm writing this review because I think people should know how this clinic handles emergency situations before they decide to go there. Last night our dog accidentally ate poison and my partner took him to this vet. They induced vomiting which was good, but then things just went completely downhill from there. They didn't have vitamin K on site which is apparently what you need for poison ingestion, so they sent my partner 30 minutes away in a snowstorm to another vet in Pierrefonds to get it without even calling ahead to make sure they had it. The prescription they wrote down was for the wrong medication entirely, and when my partner finally got there after driving in terrible weather, the other vet didn't even have the injection form that was actually needed.\nTo make matters worse, we were told at the vet that my partner was supposed to pay there and not at the other location, but when he got to the vet in Pierrefonds they told him no, he was supposed to pay for the medication there. So there was all this confusion and back and forth while our dog is sick and we're panicking. My partner ended up stuck at the other vet for like 30 to 45 minutes filling out all these forms and dealing with everything, so I had to go back and pick up our dog myself. And they didn't even return our leash.\nWhen I told the vet later that this was a really frustrating experience, she actually told me I shouldn't be frustrated and basically tried to tell me how I should feel about the situation. I don't think it's appropriate to police people's feelings, especially when your clinic made multiple mistakes that could have been really serious. As a business owner myself, I think this is just bad business practice. The front staff were nice and caring which I appreciated, but the vet's bedside manner and the way they handled this whole emergency really needs improvement.\nI personally would not recommend going to this location in any sort of emergency situation. If you do decide to go there for an emergency, I would strongly suggest calling ahead and asking if they actually have the medications you might need on site before you drive there, because apparently they might not have basic emergency medications available. This whole experience was really unpleasant and stressful during what was already a scary time with our dog being sick. We definitely won't ever be going back there again.",
+        "time": 1768311382,
+        "translated": false
+      },
+      {
+        "author_name": "Vanessa Carvalho",
+        "author_url": "https://www.google.com/maps/contrib/108893960511969442857/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1h9yHlTMx6IBCf32GCtGUAelS7_vptkx0P5gfcv7MglXsf9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Im very happy that I found a place that I can trust to bring my lovely pets. Every time I needed to bring my cats there, I was so impressed how good the staff were and how attentive the Dr. And assistants were to my cats. They always call to follow up on how they are doing as well. Thank you so much!!! Boo (my 18 years old cat), and Penelope appreciate all your care!!",
+        "time": 1762649173,
+        "translated": false
+      },
+      {
+        "author_name": "Marielle Harris",
+        "author_url": "https://www.google.com/maps/contrib/100721311927441535636/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHhqzpkZ4l4q9gMahF49Cp4rhhskmY5S5L6CfbCoQ8KUOuTA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Totally happy to have found this place for our beloved cat.  At all times they make you feel welcome and appreciated from the staff at the front desk and from the technicians but what is most impressive is the knowledge, the care and the compassion of everyone.  We sincerely thanks Dr. Gagnon and Dr. Lebeau for their professionalism and all the care and support they give us.   Our sincere THANKS to all of you.",
+        "time": 1743120742,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah Gallinger",
+        "author_url": "https://www.google.com/maps/contrib/102669949237053697845/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfDx8PO9LWJx70IfMePlLtI7I3R20xEYlh6J0dzjZLyA39EgsZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Today I had the pleasure of taking my kitten Oscar to this vet clinic. The reception, staff, and veterinarian were all fantastic. They are perfectly bilingual, patient, and took the time to answer any questions that I had. I would absolutely recommend taking your pets here, it’s affordable and everyone is so kind.",
+        "time": 1757604656,
+        "translated": false
+      },
+      {
+        "author_name": "J T",
+        "author_url": "https://www.google.com/maps/contrib/103988878020531278923/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBI7v3bFTi3n-XzpScCIBAsE5CdwljLJkH54lZykPXP83R4As=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "Brought in our bird after he had a little accident with his wings. The vet took care of it with no problem. They push hard on the extra services. I decided to trim his nails for $35 only to realize I could have got it done at another location for only $8.",
+        "time": 1759337880,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "veterinary_care"
+    ],
+    "url": "https://maps.google.com/?cid=9142613407963976547",
+    "user_ratings_total": 200,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 400 Grand Boulevard, L'Île-Perrot",
+    "website": "https://veterinaireileperrot.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

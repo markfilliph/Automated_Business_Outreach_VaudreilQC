@@ -1,0 +1,393 @@
+{
+  "query": "RE/MAX ROYAL JORDAN, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338920.19765,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "suite 100",
+        "short_name": "suite 100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "21 boul. de la",
+        "short_name": "21 boul. de la",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">21 boul. de la</span>, <span class=\"street-address\">Bd de la Cité-des-Jeunes suite 100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "21 boul. de la, Bd de la Cité-des-Jeunes suite 100, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 455-5747",
+    "geometry": {
+      "location": {
+        "lat": 45.4142888,
+        "lng": -74.0252512
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41583933029151,
+          "lng": -74.02400181970849
+        },
+        "southwest": {
+          "lat": 45.41314136970851,
+          "lng": -74.0266997802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-5747",
+    "name": "RE/MAX ROYAL JORDAN",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1195,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107974663011578778073\">RE/MAX ROYAL JORDAN</a>"
+        ],
+        "photo_reference": "ATCDNfVAun9V3Nn3KkTGbBYm30eQfSqWhJDjRn0JCoqDw_uJ-kJSeDOV-_rgO9gKWCHGoDrV6TvZCtfni7fQaVh0osGx652XkVzaP4S6143X3LslyW2IGag8krzLHbDwrK8rQ88hS5QW9HaXHhxI7x9sWaS36WR6ZAMpE1xbH_aBWTJHtaeIqZ6qCDn7baN7VZE5BtGT4ziXWvy5zGZMV3LcL-YdvniLx2u2xCDf52UKjcEEAMBJpUmshfjuk0sYsQRvdJB1ApPr5_Sg5HXEaSZu5aUrFNTsW3i0JV9rAsZfoyErrQ",
+        "width": 2119
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107974663011578778073\">RE/MAX ROYAL JORDAN</a>"
+        ],
+        "photo_reference": "ATCDNfXHv1_GZ_7mzzpcbvJxIYUBmgX8DH08h_9cV1dJjr2J6vG_da5N5Q5KNI2EAKrI6Fc30GCgCdWzYDP5YytrjW2eB3XEM3EsbD5WUNJEcXWr3EnSJJyPXh6kUej4dQWhvjqpHR_W7G_sNA4-Gqh1eofxntgMOhgpL-nCkLUYHE4RrfjoYFx2kqauc6LiWBtZhpIisMGO8PNWDPqJFSNyQF38lmo6-XAD1G78HLwT0tI3XtokDWSI2VFEXiAw_6MxkN-jncI-G03FNM_NNw436DXIM0GCBdOgSFHSKz6tNc4B8Q",
+        "width": 3024
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113968013607653047765\">Pierre Cholette</a>"
+        ],
+        "photo_reference": "ATCDNfVTJkDn4gpghMQY-Rdt-geYmlFDDUoAOTXMM9AFaIK2QOK3vwm7660rXjd0nrKhWFw6sMBzMcsTj2L7KG-8QwwpLmDVOtMCfmHxBp46GkCrF1UwjWav_YUZEcvleBjV6E_5C6aQ6DANz8ornv7XHQgSW2yZuRFs3tfD2qvNusDDoJ5bNZ_XedbhNWvVapZAOkGR-XnZFZkrrZjBXsDKeL6ihtedANoHXqTyTizdf2IHC6WriNBs-UR3OudUq-_j9UIApm6h6--r_WNp7WnjSlr3jUIYwnVwsAr8by32Qir_STUXDJWIlqUGJ909uEmd4HZy_UJvpJlaIMQIOe7gBDx9qDxIHuokiWFoInKwwQskB_I3HuQ4YWL5QdLg1JXL5IfAI0hEvWv-qGo35FBj1szFLoSCeFdoi9zAJ3QIjSPgPw-O",
+        "width": 1944
+      },
+      {
+        "height": 2052,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118093313803191727296\">michel Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfWIKtK43IcAhJMVV3IrhtlyYDzAdTf1WPXpdzoj_tCXZQ5g0njbVzrTn1dHw2Yg5KhOq4xTl9eA46Md2xKKPuCD2ypcUOq0y9cnejD5I2Im9sxbMHZ1n4AcMzxNJJ98kZjD21kT9hzIuP-ISi3-t5UiE0NPesmA18RPIKFXpzqIEq-eNG2MavXjstjjAJBW07Iv741IYdzzykbj9kzn6VH13mQiIlezdRDvm6dQaqrO9G2jiUgpEM6B5dHVJaSk2cVIB4UZT8pgWINCzvA8nYt-GrnzTeUrnxy7s3EENnN_wS8TU-Dabo_ClaKqdX9nFRN02Sm7A8lbTbqrvtrQMD8t2u1u9bJC8vJh2m1sPLiI-XPKz7jD5L5QNH6tuHBqkSkgOuTWFRYGv7x_uyTgoQfpCojY-2F_0f3XUcSoYNI",
+        "width": 1532
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113968013607653047765\">Pierre Cholette</a>"
+        ],
+        "photo_reference": "ATCDNfWcGVSABZ6uMqBQhEH5AOe0aOp9jUozlTQWrGn4iSTnmYzlTRBpx849YNrgo9aOYFBpFqEI3IjTy964WWFEVvF1UtUKzmRbQbrhSkg19IS2MUjic-GviBSh7HeTQt_V71lDV7s9CteI42mIjddlklRqxDAf2sHRdQn6s5ddD179VFyc6HOenkte9kJhiVQ1jJ3HamMPUy9eSOg2gmQw5urrnyC98X6nIKNrzFYUr4bpWEZLgZZXdwuSSXtN6jlEXT4hC-2shEPlqhkeAln3TDnGK5IEg3L8hUZDo8zVrmw0HM_Vcn2C6IUSUH96oIT2cfEM46sz3JLIhxuZCtFNkJGcoDSi95gnrENEFukYZJ2bd3PTqZNki27Uhcz-H_7flhHDZFqWLs7cryfkOcP4_baXxhydD8ZxUU36PDET6Zs",
+        "width": 1944
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113968013607653047765\">Pierre Cholette</a>"
+        ],
+        "photo_reference": "ATCDNfXOTgttZwK0BcClmScEC56oKJ2chf76lsdHEJ6LgYwP5za7P7HkCPSn6iAKIAsAUY0qIpYaSvNjOgeFBzIftIx4jtneG2FgUzBpLuS2OK0USNCCzcTliXNluyUfjr_FcspCDMIblSn6wxR_gQwyky3h4c77qBbfPObJ4IH0PnrG5WCJmUUs108zNdoMBpsSHFuIlfhxWcKF7EjpmzRA0fE_W3jo3JCNFN2W_rpVsDzlTGKyDJ8tR7TDIfwc2jp_HmzD7bLXVRCQieTi8KD3OIH_DHmrHa66tTfNcV39GYyrpXXcwbzM3FOT8yg7_MKdI6OF6yQlGFkIB3rBmODwEMcA7MJ0XETgvOe_-m3Hn96uwgSboTcNitWHw08w2pUyeC-01ToQ5bu2ECo2JOR8IDhvLz63dTNmSzRvyb2Pjx8",
+        "width": 1944
+      },
+      {
+        "height": 1944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113968013607653047765\">Pierre Cholette</a>"
+        ],
+        "photo_reference": "ATCDNfUiJRQ4nDNdSKaE-drSvxtqdd3WIhYIHftTXQLKfxjIneZYoSRLDWtBxpvrKNFWPN1qn1bVP5Hex8c167p3byOuZmOrj_jghtdUeN0zBRPWJcG9bLq9Ll2yxDcLa7r5o06hrXZtGh9jGsS2_3YvV_OUixbe3PFsIc27IQZt3n7xJXD-3YiFIJnWzijwiosaFS9X11x9qs7baE6r-tIECrbhVggSMKejt479jdOCfOh8ox_Onxwprp4audSmwZ5cJTmu2YmWwmJz0nKxbqXRDJ8cbXsDwdlw_DjPYyMfWDonMSNafvTUKIx1zceAy8L2sjNDrBVmabZa3bcGNWnNBIaLIyTtnBFfVawIHYPO8yCFK6T71imBL_Sw6pF31F7muzXjUpKeTtZIcjYrZOUNFTLMu1xPuwQ0k3AKbj_RvT60Vg",
+        "width": 2592
+      },
+      {
+        "height": 256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107595955800306654713\">Remax DAC</a>"
+        ],
+        "photo_reference": "ATCDNfURAPevqIYMAv1qu-pOWJNtO4qskDE3oY9Xd8sBsZaHYathx3eHFG9Dbm9TRmEDqrbfzN7K-6p64WqQOG6Z1yfmmiKd0j-f7vHopDAlyT_9Jtlc-veohFpqDe2NQ4iA9-TwjiQrM_qplwx-0iHfPCjI2lA8K3q3Pod1401YPlHNEv2PNZ5tBy0jwIM9h-Gctkn7FfgabpEmnziL0mM4hsX9jYLxk5qM221yboNPHhQqOlV9Z8KTBzp3OJYXN59pQIsXoomq0ZZ0qA38Q1_e5Zi8HpDTa0ym2neO1shVTfCuNoHSdjjFPY8_GqCotJGu5nzQuaTvyfq2D56d48ZzSHyJwmOkvw0iwzDRM9GOAKfrNtVhqHmpc-sxwrWFLvd1wPPvSu3s8gks_rx-iuL3h-bVud48Ycb2XHFO5L31MsEOng",
+        "width": 256
+      },
+      {
+        "height": 2052,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118093313803191727296\">michel Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfV5HJjD5qblxsGkTKIrao-RSIHewXcBLtnaNFQlY6paNCeLD24bF6iKCkReCSEuy6piWPVNwQXMAAJ9XyrKX6Rdra9in2UP-Ov0rky7Z-2MqU6YfjICcGwc_Vz281lW2KIhtkglu-7Diia6NGA3SQ5ZrbQr-fs0JnkKX1dTOmtZDkvI9CFrjx7zAB3HEQhRc2Izd6r1EcpGj2dr_PAdMFxVkhjn5r3zibnmQx_iPXlIewZZ5y-chS350f6Ee1nCcsYUxZ6faTkDGP4ADIdCUXlLZZ-nb2X2xqhvThNzrx7axo5Qbn1gFmmkPa2TUf7n_oiTVZrUMq7bTe_7qHfCCxqAk_iXlNLdDYu5aXlZHBkE1i2m0qfXCHf4q72LHoSqUntYF1F4Mxrbhz1SOH3pzaHKJMcymmFdN7ZOGpRduEWsOvLN",
+        "width": 1532
+      }
+    ],
+    "place_id": "ChIJY-w7f7E3yUwRFWHillo391k",
+    "plus_code": {
+      "compound_code": "CX7F+PV Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7F+PV"
+    },
+    "rating": 4.3,
+    "reference": "ChIJY-w7f7E3yUwRFWHillo391k",
+    "reviews": [
+      {
+        "author_name": "Brandon Legault-Johnson",
+        "author_url": "https://www.google.com/maps/contrib/109097372980819390076/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqKOgZQ_9jGOdoWgxxTpce2QIIVrNCe_7bhTCt0Xj-PlxWDpcX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Had a very pleasurable experience dealing with Georges. Got the place I wanted and couldn't be happier. Very informative and up to date on his information as well as professional communication. Thanks a bunch Remax!",
+        "time": 1556488193,
+        "translated": false
+      },
+      {
+        "author_name": "John Wehrman",
+        "author_url": "https://www.google.com/maps/contrib/118109599647047550314/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJX6cRbIhh_CfEtiTn7ZWzS68ZXqKVY1Qk6ce8RD48PpywLXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Great team. Well informed!! Highly recommend them!! 10/10.",
+        "time": 1492612712,
+        "translated": false
+      },
+      {
+        "author_name": "Dufresne “Équipe Dufresne-Maurus” Maurus",
+        "author_url": "https://www.google.com/maps/contrib/104573125793331114931/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPSs3lrhWORXAR0ZcVGkSOXXbUGt7tlNSNpa9JLhwNQzHHwt0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great agency! We recommend!",
+        "time": 1714760803,
+        "translated": false
+      },
+      {
+        "author_name": "Michael Maurus",
+        "author_url": "https://www.google.com/maps/contrib/103988816875874005745/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtUHrBY7-_vqF3EO4ZlK1A9FlPRLxQGI_cAjElvnt3IGDLsQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great agency!",
+        "time": 1714665977,
+        "translated": false
+      },
+      {
+        "author_name": "Dufresne Maurus",
+        "author_url": "https://www.google.com/maps/contrib/114778916707850306513/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSgaTkyr9JKJn9XXMbk870EwugW76QXgxLIdIZ-sTxxpDdNrvW=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 years ago",
+        "text": "One word... dedication!",
+        "time": 1396985221,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "real_estate_agency"
+    ],
+    "url": "https://maps.google.com/?cid=6482711050841121045",
+    "user_ratings_total": 14,
+    "utc_offset": -300,
+    "vicinity": "21 boul. de la, Bd de la Cité-des-Jeunes suite 100, Vaudreuil-Dorion",
+    "website": "https://remax-royaljordan.com/?utm_source=G&utm_medium=lpm&utm_campaign=remax",
+    "wheelchair_accessible_entrance": true
+  }
+}

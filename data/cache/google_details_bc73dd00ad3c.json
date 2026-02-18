@@ -1,0 +1,322 @@
+{
+  "query": "Studio Dentaire, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340184.3752139,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "# 230",
+        "short_name": "# 230",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "585",
+        "short_name": "585",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P9",
+        "short_name": "J7V 8P9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">585 Av. Saint-Charles # 230</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "585 Av. Saint-Charles # 230, Vaudreuil-Dorion, QC J7V 8P9, Canada",
+    "formatted_phone_number": "(450) 510-1717",
+    "geometry": {
+      "location": {
+        "lat": 45.4075472,
+        "lng": -74.03226719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40889313029149,
+          "lng": -74.0309610197085
+        },
+        "southwest": {
+          "lat": 45.4061951697085,
+          "lng": -74.0336589802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-510-1717",
+    "name": "Studio Dentaire",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfUJ3iu8Fzwp9PhkiyecwW4usyHOskpTHVWAcJ9cgaWpBquoRl3W2H9tPXcyR9PNqYMESyWZQAAq2HqH79cw5caAjwXmt5J2xO6fpWNnAaTMb7Se1tdEcmBWdzx1LqUcKDrEc_cB3EBfvVi_cVKEwD84e5AkOwN0vRKuXkerP-PXbyr5JpDL03MMl-GQVrDZwdrc5TrNp8udHq5p6a5Pd4oQWxsakauXB0tbd8nhrpErYHfFzKBsvKTK-qIAz_UUTvYSoCg1jap6F7NGnyIyk7Ur0b_RZYy6IHDzFteUPjiQRv9i2VKBCnjngDXJy2H6z2dJVu4pHzefddYwq7tLYmE0K7M8M9I5RkzaZ685HgFF0xQO0AL7nec7kDwD7aRXkcZdHML1ICr95YgB0rmpZg7deHxpVgzWY-gr79_PBrO685Io",
+        "width": 3120
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfXcyKlWKFNeFrA7hQjICqe7voyF__KE9II-FI44P9Ltqdt57IltKmLkb_0e9cqXPQ5XWaxO_H2D36J7DHGdq15Qsz4kUtDpmnahcoIqMQ3qk2BvoqWZf-WD_JRnIrdLVcHFUvLxTFZJXaweBjIDtwHbxcoE4dAEGz5FUJVeFX637tuGJ8oFS7q-0PqEEki6jNG60EXKOnDMEoK09vJswWnZxVAtZtvsgTwXf2Ct20ZuVqHbdq47M8Ap3QjUa1f24eNQL9nStRs4NQjVSguqNW230PU9MBV7LkDTaYXpcCc5UIHDbPmR9nx4PjMbOL1p5hToCEFGbICoBbXBf1TDHENPsjtkQYj1jbupNFX2CjeuTN97hF6YVtxk4hAmQxpZSzdkVmcgeDAasRMYCHE8Nc7Pray_qBftU755rYrhYKlqxsf2LFeT32eOi1HcnDgq",
+        "width": 3024
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110446867876828958475\">Damian Fuentes</a>"
+        ],
+        "photo_reference": "ATCDNfVb7n0_SmjF3eSBKHh75ehlBirphKIhEucVLKg6JZRnoBPLwgNsQDNRMYP3aQFNt_MMXSCLdVoIxyP9oJWgvvyIFGp0VyCE7zh-gTZPIYFo5IT4LyEZjm-tXFPzNs_vmi4MN8ID9_gkE36D9RuAv_b2Nkjk5PX-_r1tqsr15sinxgjcEkYatUSDjP2So0MlCVfQNHa1LpDuV0jiFRifpJ8FK3ADUmvBweAJh-vlqeaLlAIo39lJkk10K-VQKJ6sOG9E1wviijr8G3G51H_MncoJnYq-_SH9HAa-qLGPdqAeN_iz1zUF4f7QQTWZDw-oSqFcG2vJGDZO3kKRUi0i6euN3WWgU_dPIjfUkyaRE_0gARooqx2FD60eTgA6YfYN4Mw3j7V84vvayDM3Ush3TfeDBz9MCnJruFfPv0RKo6_Xcym7",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ0Uwe58o3yUwR2y8vzRStm-Y",
+    "plus_code": {
+      "compound_code": "CX59+23 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX59+23"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ0Uwe58o3yUwR2y8vzRStm-Y",
+    "reviews": [
+      {
+        "author_name": "Mano Makdesian",
+        "author_url": "https://www.google.com/maps/contrib/108736069222144455359/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUO_fGDDTS2em8th_1gAuovOPxV1hEQhcuKznpw_BSqSwlI8pw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "dr. Elie Mouannes is the best dentist i’ve got so far. many years of experience, got my wisdom teeth extracted in less than 15 mins .",
+        "time": 1761187551,
+        "translated": false
+      },
+      {
+        "author_name": "Mehrdad Azizi",
+        "author_url": "https://www.google.com/maps/contrib/101807242548517139104/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0yiJX0EVOL5-AxrUnK3_3pl-PHDatNYcj2pbUOpnPf781E8c=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "My family and I have been seeing Dr. Toussi for years. He provides exceptional care and professional service. He is patient, knowledgeable, and honest, addressing only what's necessary without unnecessary costs. We've never had any issues and highly recommend him for reliable dental care.\"",
+        "time": 1722379092,
+        "translated": false
+      },
+      {
+        "author_name": "Afshin fallahi",
+        "author_url": "https://www.google.com/maps/contrib/105650333622832380405/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuBOg1G8EF4q1x_5zc4hdl4lZ3bVP8bCmVAqK4rXwzYdDg_JZ-=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I had a fantastic experience at Studio Dentaire today with Dr. Alireza Toussi. He skillfully extracted a challenging tooth with absolutely no pain. Just two hours later, I felt great and was able to return to work. The entire process was efficient, and the team's professionalism made my visit pleasant. Highly recommend Studio Dentaire for their excellent service!",
+        "time": 1706755160,
+        "translated": false
+      },
+      {
+        "author_name": "Jocelyn Jacobe",
+        "author_url": "https://www.google.com/maps/contrib/110935094630236164346/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdRKaYelICAvdIpKSkcX8bMh03EhF70IiGwqsqaLVXwt2X_g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "15 great years with Studio Dentaire, because the staff are very nice and most of all Dr. Toussi is the best dentist in town! He takes care of his patients, friendly and very smart. Thank you for the wonderful service!",
+        "time": 1706416595,
+        "translated": false
+      },
+      {
+        "author_name": "Albert G",
+        "author_url": "https://www.google.com/maps/contrib/106755707107562276460/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgesDEPKLVEgn-B5e8jjEeGROd6-vOCwapsye2JWWYDejMUzX9=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "The dentists do great work in this office. The employees are always friendly and helpful. I had a root canal done, it was pain-free, executed quickly and feels great. I've been looking for a quality clinic for years, im so glad I've finally found one.",
+        "time": 1705953341,
+        "translated": false
+      }
+    ],
+    "types": [
+      "dentist",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16617065554966949851",
+    "user_ratings_total": 35,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 585 Av. Saint-Charles # 230, Vaudreuil-Dorion"
+  }
+}

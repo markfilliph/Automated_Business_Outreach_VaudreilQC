@@ -1,0 +1,394 @@
+{
+  "query": "Luxury Auto Spa, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340297.4329114,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "90D",
+        "short_name": "90D",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Charbonneau",
+        "short_name": "Av. Charbonneau",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7G1",
+        "short_name": "J7V 7G1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">90D Av. Charbonneau</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7G1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "90D Av. Charbonneau, Vaudreuil-Dorion, QC J7V 7G1, Canada",
+    "formatted_phone_number": "(514) 700-6768",
+    "geometry": {
+      "location": {
+        "lat": 45.3849273,
+        "lng": -74.0141515
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38629883029149,
+          "lng": -74.01257896970849
+        },
+        "southwest": {
+          "lat": 45.3836008697085,
+          "lng": -74.01527693029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-700-6768",
+    "name": "Le Luxe Auto Spa",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfWas6jocpCEWNWWHkZlko2VtCDNhIR2ebgBMfLkMv2CO1FYouHLjrCqOnGZ4doOv0a8lSz3Xegxvq1yIxOEd4le8cBJmAxZSYmTCJw5NlYXkL7BYzV_jerowdMYbkAWtgpRTD0FDYxkTBDhmzblRZOTKdzz8TO5ko0p8jhv59JlgzulWs_QjTtEtd29x7WkYd5LV3Pdesoyr-BUjGiyf8_EUKitsR4n0EUfAX2p2b-eAGpCh_q2VYqEYvTTdCej1XTAt2MWAN6Y8dJOPbxijBvBrzbAGL_FqrpbX4INpjfAHQ",
+        "width": 1200
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfWFaN3J9auIQ_ZfJ--44eWhCoXXxKJZ6HkE9S79jk10I90z5-rRrkv1yvpGt_W4phjPq_yRE3-i4p2kS5ha6gb1QRlUni_-D_WtvAqPwz3twIMhCg4G6So_OaN9i2byMnzkH19z4J75jEXXEE5UDEUEntxKN0WQwSN_xT0YLlwyGVLjM2XOtNg0GkiBUYoItdoGBxcTfJ41TCyFEtsX-KbvjKh8HEiHgoWa_tr_XkBxnljwQOjYemNcFzRkN366IDRNxpyKeggg4Ja2faOa8wa-cvy_4I-C99ae3cfgUg4nIg",
+        "width": 3024
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfWo5ks9YtIkT60p5mZ8So7FgGai6lG6fOFC8zPyotf5ttIbK9Jaj2TRObN9fXVUTCW0CTiO5QwU1QhAqN44aOEOvWGXxqy4FVpR5DpKdud9KjVpeP_JjoMZiW6gkr6ySpDkORNyiLMy2mP8t2dgIq3kFwCmOtY6w4mMfDm-f4vSspXbr9CW0yEr7XX7Hy73-vzAb0J4qP537ALmcpr-v5iD30Dezdi7boMncPxmZFknIck4yjrTwQgf2AvpyyuBSV08b9FgtGMsOSd-2IadmnlcXBQzTp-MfPqjqM4XGKdLfQ",
+        "width": 1440
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfXhxR5O65Ujgl_ZPRP-LkT9MRo-EUCDhAFzqdrWwIJq5XQCG6DYg5kJynIFZHHyKvZJGp4jPcOMv_LtmKvmiOBpNdbh60XMupkSkKyu6oD6VfXrrt1mJiFWL42Ogg73BxKh2PDS0Tq84XCTcfY_5Kjt7ny_RmMjZtATQLz0F2r8uWrkwriPvNBJEOUYgQ_Tqx1z8ASVJATeRO1OxtKllC0cZE9T-SyGU-AhlpUoiDbWfPAVADpsd7ogHT7g7yoT38323veiyA9DxCXbn62Hy4LOjKwuKOxdwJVH_vFPlsUB5g",
+        "width": 3648
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfUzTU0C-kJWpINzEE7kQL1-Z1O8yqytQlS4LU-dUlYyHFPHMxcQ-PWjzd5TePLksEGay5e5BKDjtvcgxjlHv-ekleAhqy3ljjF8tDy20ekfaIfcHyPjKBwJl7bx3999y45krx_IWG6AWG0VBBJflonkPksFzQzUZ8LucehYa0yNB__iNgoZIAdW5J2xSkqwKqBREN4QIgG5Qfnzarei3ZkeY-YH9ZDA8Lsfy0myugHa1816nBWPLI66Tx6G1lnEqzmFhodkk_cwk8t8nCAIDCHgr5oGvMK05Xb4QI8u0bIdmw",
+        "width": 3647
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfXMmRQMNNr3xAzyrH4FaOUg8jt2BmUlGAefc_5aBJpN0kAtbW0wZBVm_b4NjGFRwta0bvg5dxkayZaH0p7MJAOnvs4bb5fAQAeupMyztLsQPxgRC04EniOOUacO4FnwQKnXSd33m20iVb-844meBpF19cX79za71_H_9Li0ChM79oVGnAH3sTCTuLiDmMKHlfl3KnCyqUVdHkLdumKds1vyVO5NR3m0nlzgKxgJIj0Fs3mc378XrGysCBx1uGQB7r35NkIHDuph0oULoopDwila3yww4-JJ-U4j-pUDh72MdA",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfVNPGadOBTDMMjvoVysB9JjbZtV2SKji3yZM6QakcTceMRh30M1S_CvK4im6QiKBZUd4BqruqTBu_w1toqkNwKzUG2ISQBB__wv1WmGP3nJ3Fx4C5UQ2oy3AAlDRW3xFAo_QXBsLXGwWindeEugPCe_tIu_yowCwpfe6pPIB4U_hsncVeYxvmsgo6KAIbfAwtc05BWY8hIJY_qbEGF1GNwPDmKyWK8wEq_A11RHsOzYbDygv0C_GeqvRNleSQ_NQFhC05Fz7XvHXQoK_bexgpRpvTSm1TyQk0KXzcqlcVbZwQ",
+        "width": 1440
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfWocR6Wn0YX1iB0I6Br_y4kLSXhUq4r_8Kk6buotrDJMbQCjC3hmLPv_KwcHIh5x1-B3wZDO67kVVxPfojshw9ewyoAN3YNeZkNTXkKhoeGCSlWo0x0THKSief0z-dWbNvAsNHZtI59aodZyYiBnlqmputVFj2pgF4dg1IJmogETwnR2Cz4BCDnEWDVO-Oobxiv3YBeC3cw6WRVqLE9KB-DywtCnl2yE-_xInWnS2gXUF5sIsAynv9cqFmWGGRhTQp7b5WS6RENVq8LqVv1Y6bKHLsrV5tR8BhWV3rH1No6RQ",
+        "width": 3024
+      },
+      {
+        "height": 931,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfVICcOk4OKfiJBFc9XZ4jpslQNrSGUMfIZKroQqCeY-_So8c1CziWi0q1ofuAXT-TL8RD2SwlhcEOEVl84BDW5tv_Ak7MHedVEVmJOxMExGXa21fkebcGNMTG19kYCOsv5jgKIxqdbrTli4-Lu_UuYkwsatAXRRTpqPLr3kEIPE63_E9b_SPzki5j4PRWupzdB1et-XKZ8qqwBLSA0ljKzU-8Iu4714QmKSGgZEnAtxBIMj91s9nXsrvLNP789Y7rsQW-jQxWXFbxZ0Ts4Ipwyns5gNkzJNMjk29YG1a5fRDw",
+        "width": 931
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101541548845312516423\">Luxe Auto Spa</a>"
+        ],
+        "photo_reference": "ATCDNfXguEXm5kdSNR3ZLn9VzelVx7V7TFVUrwZy7pHJaoGp6Obw8J4Jo3dpwWu2Ud3IQp2qss2-OdyMINDTdUXV9Rl47eTeF5HmX14NPdTGsOyWTGP-pGw35a3l0qyZckn3Uh6fA6I9WGef63V4XYaJgN6t2UgFBUVeM_G2hYFmtUztpv0h79u0tX_3IOp7AgSK15I3JDovWYbTm9qNuAit2pFB--UXn3AEpmsgIsg3nzX0OooRFdX6_KaXc-8vTaziAWrh2v8gUrwWlrmO9uPZCgHNFrKWlRlpVEsIs019e7Vjhw",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJV9rlL_NJyUwRSPW2dCUwtzc",
+    "plus_code": {
+      "compound_code": "9XMP+X8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMP+X8"
+    },
+    "rating": 4.8,
+    "reference": "ChIJV9rlL_NJyUwRSPW2dCUwtzc",
+    "reviews": [
+      {
+        "author_name": "Tania Molina",
+        "author_url": "https://www.google.com/maps/contrib/109524488309514714619/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnCeKO40bFzbbdELkC7OWg7f5ZePtsIFi0S9NJuJ7jliSvFQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "These guys are hands down the best in all of Vaudreuil, Pincourt, and Île-Perrot. They may not be the cheapest, but the quality of their work is worth every penny. When they finish with your car, it looks as if it just rolled out of the dealership for the very first time absolutely flawless and truly professional.",
+        "time": 1757007886,
+        "translated": false
+      },
+      {
+        "author_name": "Jose Left",
+        "author_url": "https://www.google.com/maps/contrib/107539952614788434286/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuuTy-dJDMAyavUQioqdqIju-3Aee6yiSHkSvnARSdPueYSQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Amazing service! Miguel was super friendly and answered all my questions. At first I had my doubts about the protective film, but he guided me through the process. My Tesla looks awesome and is now fully protected with paint protection film.\nThanks again for the great job!",
+        "time": 1762276896,
+        "translated": false
+      },
+      {
+        "author_name": "Brian Nizshnik",
+        "author_url": "https://www.google.com/maps/contrib/102470311119113451940/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2FafFDFbAw-yebf4U-Qn-KMS533cwluq4W6CZYENlOqyxp3S6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Honestly very good work from this team. My father was skeptical initially about the pricing for the gold enhancement package, but after seeing the results he said it was worth every penny. The results were better than we both anticipated. The staff is friendly and explain to you with detail about what will be done for your package. We had a few questions about ceramic coating or ppf, which one is better? and he was honest with that would be better for your car rather than trying to upsell for more money. Overall great results, I’m very pleased!",
+        "time": 1759004144,
+        "translated": false
+      },
+      {
+        "author_name": "Steve Hamalian",
+        "author_url": "https://www.google.com/maps/contrib/101367698984411525215/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1YOVCoIWzxhcXXSTP2Ytf8V4SoCjj8X-gz4fP6ax6cYL5x6aA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Took my car to Luxe Auto Spa for a simple exterior wash and to get rid of some annoying minor scratches and scuffs that were driving me crazy. I couldn’t believe the results — they completely disappeared! The paint looks brand new again, super shiny and smooth, like the scratches were never there. The team clearly knows what they’re doing and paid attention to every little detail.\nStaff was friendly, fast, and the price was totally fair for the quality of work. Dropped off my car and picked it up looking better than I could have imagined.\nIf you need a top-notch car wash or have scratches/swirls you want gone, this is the place in Vaudreuil-Dorion. Already telling all my friends and family about Luxe Auto Spa!\n100% recommend — thank you guys! 🚗",
+        "time": 1763511229,
+        "translated": false
+      },
+      {
+        "author_name": "Patrick Lei",
+        "author_url": "https://www.google.com/maps/contrib/101754295084064169873/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHv1K9tn7eBjD6pJoYclK3xTyMNrIHx6BuuDM1HszXQfiPslSLZQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Nano ceramic, excellent service from the owner Alex and excellent service from Miguel who did the nano ceramic and Pedro for the courtesy lift, WOW WOW WOW WOW WOW, 5 stars service.\n\nMy birthday gift for my Tesla\n\nUnlimited membership carwash really worth it, excellent car wash every single time, again 5 stars car wash, WOW WOW WOW WOW WOW!!!\n\nUpdate July 2024, just got my annual nano ceramic done, 👌 👏 😍 👍",
+        "time": 1721397724,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=4014730530254157128",
+    "user_ratings_total": 119,
+    "utc_offset": -300,
+    "vicinity": "90D Av. Charbonneau, Vaudreuil-Dorion",
+    "website": "http://leluxeautospa.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

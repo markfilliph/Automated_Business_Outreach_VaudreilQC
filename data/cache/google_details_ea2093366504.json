@@ -1,0 +1,449 @@
+{
+  "query": "Presotea, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340388.4213753,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "120",
+        "short_name": "120",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "35",
+        "short_name": "35",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">35 Bd de la Cité-des-Jeunes #120</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 8:00 PM",
+        "Tuesday: 12:00 – 8:00 PM",
+        "Wednesday: 12:00 – 8:00 PM",
+        "Thursday: 12:00 – 8:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 12:00 – 8:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "35 Bd de la Cité-des-Jeunes #120, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 424-8668",
+    "geometry": {
+      "location": {
+        "lat": 45.412513,
+        "lng": -74.0305174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41389763029149,
+          "lng": -74.02908291970849
+        },
+        "southwest": {
+          "lat": 45.41119966970849,
+          "lng": -74.03178088029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-8668",
+    "name": "Presotea",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 8:00 PM",
+        "Tuesday: 12:00 – 8:00 PM",
+        "Wednesday: 12:00 – 8:00 PM",
+        "Thursday: 12:00 – 8:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 12:00 – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104090007583375758462\">Presotea</a>"
+        ],
+        "photo_reference": "ATCDNfXh0gHoIJ8SA_Lwwg5AevL6lr16KEhxbgfuYMds9G_OCOZMOphEnpiNsjxJPO2FxG8BeI5Vg6nX2RLmCMhd3fPiZg8KwpmKUCokoBRR8xsqUpcMr7dZDPSA0dqwmD8mVaAAiPibjUWUuI_qOdBTmrk0DbN_H4OBfTyzWhXVAgqkJGxRBR_xa4oM6-HTQ3FWC5e9cDAhm7J45hpwVOhqQ8miv-VT99xC4ucNEHlyGNp67B6rBisaHhC2vQCc3iYqNYnps6ffvlvB_q-nCLTvRiTPDU3lxKnBOBp3e0omNf6bxg",
+        "width": 1440
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115311099830803826232\">Angela Huang</a>"
+        ],
+        "photo_reference": "ATCDNfXRXHwKAxiqtbyOpk3Rww_23KRZz781e0K5Hlpfj8pWT_eDiaEOmQrE5T2Af3c1_X_vrjd6f39djdiXyzJ4E5CsmritNNVu3yVgKbeLp0y5VrH0vk-WQjtOpl935E_vTQo5axoQxLIlKJ6JPwz9YL3paGU_P-N-Yx2BNAsV_iBkcjULJ_Wb-uTqkJa20a3_gE6SVDaJgnvCNRoItTb83Qxn0Foz4P3N1XoN36Aelyl8cVMIuZdCPhKfUNGlIauTQ_OqliuduaufupJbpUnJ32cMaJO_o-zxPXOAhzWK6n6EUIUpqFkLWgLeF5ZGhS_1jPpI9lbp6yLTCfUNGHIi64RIWE37gUrP2Bmrvy3KvbsCPH5e-BBC5UB4Y_1Qtcm284tCGdu_6Cv4ppw4c6W9r6FsAuQtu8JfDMrlFjTqlRWt5RoUi2RxGcKAj55wjUcg",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVAA5py-aolz5hfKP3Wvp5ZFQ5XypFIQaDo2msrIx9GjYdT0F2MbTd1jPOjPzkX2Izpuc1fadfbw9LhnjsP-iqBiqPS4RRkcDsiSEbzQNVxRH0CVvgNs2HyPd0Y40YBf88fIBgqOr5ByBM9YXFB-O89nyzJzEA_oMzmsJoroRA0nTO4hCnVZ_elU5LsjgAmdToGZFaszL6wnY8XEU9kWsd43SOza5CPESdhXD7sjuEh7qS3z6mkjvE3BvUBikbab4KxPpI1CnxxRdcAKYDtk0RaalhW-H39vOYEqdhQPp-_9BGNiJ9t78Sl8ALiNWPDyUrStx4bQ7TYbSQzavI8ZCr3U5VuN4MECf48ZqQ1ChvFwd5iylAnKsiyFKoLfXVZyQr3PXc_ar7mqlhdUhzpbJqpncscnuXFakFvDqBSiu5VRwsC",
+        "width": 4032
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116407730352302941004\">Mélodie Paiement</a>"
+        ],
+        "photo_reference": "ATCDNfUi3tw1MBYvITul8o4rVbw4jDpODQJbb2gOVQRsUYSi9edSsMZqqtHAnNpDBjKtM5MVIyiefxBessLqts0aVBNEJbFSalRaXH6we3TKENn_JDB4Vx9j5PCO8AaIixgSctpxVLBFselh7sL8GlTOHJvKi6xLIeM4MeNSNImnOPz0AT5J9SEzwT_oXCZiLb6PvqRjsqp6ycy2ghqPfk5GPw2LiIx0seb1xX4WKQ9SeEERDeCZl52DR1OEDWQzxm75POdinocSGzbP_oLvUBXyaZc5TV5dkAgwVfzr_kofRdjXGIciTTkxz-eCxU1SqUOKbTByKWL1M-O4saueZnDRb6RdRE28lMZzhn0WqWafh_n4nsctiG4UpBmHiNCJ5Kw85uKI7Vm0fH-_ilRMkoQAX1qsijsAfih9HX7ElYd7CMbjPxv9",
+        "width": 3120
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115311099830803826232\">Angela Huang</a>"
+        ],
+        "photo_reference": "ATCDNfWhg_GBRVVoVKLC-vn-hUfFaVKIRQoygSfW8sEcuC3QpF5HZXv9ud8LtBzOgGrDPl6BSBWdg5ob8vVxeI0-6z3I8nJ8DA1srv8MtC-MROaUsHKs5xKkIX_UJB9k5Q54mOOpp4f-EHaeBIN4RF9kSoSdNRe4CFk5fcqp1vokzBl0a_Yo6IgMN6qXRWapppVexZepfRDGHVNjDqmubEOwegWVjoKYlh2B0KIKfwDMYnmQHdxCGB_SHQ_2gNyZwFwEtv1g3ufZhQkQVtQxvI5LTswHSY6xFEjAVMvCVrrS6mn203Ldmg7aYvMWdEVTak2Ca_na_QQXQadTuJf_4IIeiMeyWtyXca8rd9Whfz98xyq7tStTI6L2PHCsTx5AC0Y2aYNPwLqri2BlKAEpxskO4zTq06wJJoG8c4beMnqJCq9_7IUMXKIzDuOuHcjFKjj_",
+        "width": 3600
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfWQbQjuZVMXGASfxbPtsgQzMX_MQ5KM349fV-jWdPLlh_jxCLZ82Vcw0VeULv9I3mHM8glx7ctBVtqDwyOeTwAkIwgOH34RKMCcwJRvVZnXHnryMQKolz2ftrr49W0yyKWearSyxLUDPN2Kj_O4xfeAFspKpxv_BDOh0eo3k3kWoQo98Kgucd5bpMC31C8IMD6_ypUDbzybrIJ5cWU9KME9pIg3IaCULha_HyKPGD_dzoFJ0wTAxVcsQfrEyXYastMNxAulmSH11r5ceZaV-ZLsCHFMJ8p7-nNt52S3QXLU5fVemph5MnElcVV-W2BXzaW_EkVka_qA7ro5caTKuD4NLdrg02XQ6gPnisLfbTXqAsemHsC9gAFlO99ZYf6DsTHBwUuwp4WSk3cj4zM5xXzqn3gHKz2GMXW1dqyFpq5SBg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVkOardTPVJoqByYqstPORdmLyO9Mi-vrAt0rHcYOtjIsRy_TimYXeFKiHsuQqPAkUfBpydRWNzjSCAhjAYrFcvQ3T0570FUjzAbKJCxMVTNG0HKMR879NcjyJF42nA8ZMpzuMLAm3YJjTWG-T6Jb5osOEgmxdpsorStEPemyUTRGYJjN7nEo3mcaQ-q4dDIoKO3Zp8WQJ2ViyvDLdawq3Uj5U2d3P75hLigj2FXSllx9WrMsQ_hoHC8lnLKY4UMKf35hmfwOjnH53sNdEp77iZ8cF4LR1HvXmMJHZP7jk9BupfO5-zRcOdYWS2aYUC7LgriTQzdJb_0WQW2UCdYobiDyVB8YjirBWjE5Pe8-Eu2peQkEkJk_904WVqJTQfglM2RzFZGvF3ls8K2aQD_9Ee_pMBXi5svkrlXYYAl58mXtEY",
+        "width": 3024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112751923448436869408\">Dana Al Rifai</a>"
+        ],
+        "photo_reference": "ATCDNfUS5Nv2fRf3_x2tXR3irUN_GiFo5Gyp_kWl7z_7MmkD5t_zGRzKBK3NIWj1HzoFBzMQNqsTByPluNoFTIrYpqllmJvY1qeUiUYVpGYHScD1FZBBWuIkdozLgu-lG7eePeKujXAnsN5O6m9sNFFdbMWpxrRa-pdr3voc4JEiWnOVDt-ShWgupctHiDIM2dkRy4BZ6D-49fP3_n6FsUIM_bV9CuK4-_OYx2xh50tQcZHjDIlY_rNo1-iQP-mnathNon7sF4_VVsudv0_e33JJt14VTZYD6TnIlYcDjlooUijaJlsP4n6PNPPjRkagdWXkOgtB7ldesMUyUrXFxKCFCNl2LbJtB2ZqfZu_vLySLoF3mCh-bA0pMZBIBxXzzXC9Xj73R6tJgArb9sZW_O5rmro9D8a7ZL9gdiruGBu0l3tZh6qc",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfW2Qv7Ij_1yF8IVHDX-EyojpeLbjgvVqPY4t57bsEGqatxCnyf-J4GblbNiUT4pGETdkZwhiZp9trGl8eheNeCNELIaCtpsfF2kcmAt7nUXa-FzJE7b3xmI8cXc1u1kgiQUquw4-4V1QaY3mVd9kedh3MyQJFCXXg7DwZZET92ghGA7af8Mu21piDB6sRyaHhaW6IoAD_diOtvzY51tVZ7O9EClDWLxU4o-1HsXVTzRUI5jsgpG2F7hfBE7XECSte7zfk73-q33i1UgzaZH4UaYKJmN85meKRc9WS-ej2NSN-ahgsp7lz8mKz0Gjtp8HU4Oni81F5KCKp14isHZBim6cU1PcpomffolB3aZcueXRILGiqbvsgRN7LpFxJRw_fiHNHjf-MsW2faieU-kZv_GBPrqZJh7N9X3LlLbk337O3M",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfUXFlwSWtKygcfuXxD-5uHvBDWo6c5EjTWcSh8SyAwER_LyXiHkjRaHP9TfWXtKnojZXN4YAyGP69vPYL5powiuqo3WitdGvRDhoCVFN1PdqzGOLMUjujq4FsUXPGAgJbiwY5cFCtaO5gryiD4YL5_uEdCnSop3hdFrg9Tb0jDaPKPUoczmBqYjjQI9wXYCfnit6ysiY4AuURSzlL2RcGJlEvscw085WDdTt26OML2PuhTpM_aJO66zAYUA7QyDh_qjPGv-43re5ENBm7kdCFI8ERZCRMZTLveNHmafdBBbYob7bHQe4NHh81qtPVzO24L-jNK2_7-QxCzT3bqA_BKFMex5-bjnibWwuo6BUnMQgXgjWMxgfBnFHd5-k6eMUbt2WlKIMnus0Hj5bMLLjYAI0HWVuyMpY9xbJtcvtwEjkQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJG6YuKJs3yUwR_Gp9Z42OwYc",
+    "plus_code": {
+      "compound_code": "CX79+2Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX79+2Q"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJG6YuKJs3yUwR_Gp9Z42OwYc",
+    "reviews": [
+      {
+        "author_name": "Tubol dugdug",
+        "author_url": "https://www.google.com/maps/contrib/112362842863318192832/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAhZc7iFslxR81nuFROyfiQjjkfB7u9kq-h7x7zyZWoQSb0h8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Employees are so nice!! I usually don’t like overly sweet desserts and drinks so it was really nice to know that i could adjust the sweetness of the boba tea!! Im definitely coming back :))",
+        "time": 1768782977,
+        "translated": false
+      },
+      {
+        "author_name": "P Kandiliotis",
+        "author_url": "https://www.google.com/maps/contrib/113793071851699669283/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLr5XR2EoYefoyRYMrrRMuwTex0YoSoG0iE3_6k-3SEmoNtUA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Wei Min is the best, very cool guy and best service.  I buy here all the time now.    The amount of flavours and combinations is dizzying...\nI find this place has the best bobba tea anywhere ive had it.",
+        "time": 1767035415,
+        "translated": false
+      },
+      {
+        "author_name": "Dana Al Rifai",
+        "author_url": "https://www.google.com/maps/contrib/112751923448436869408/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPBL_5YcG71oNg6TJYtpiCH78uP8yAnak2V_do6UW-CdmNbJw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "10 months ago",
+        "text": "Friendly and helpful service however I found the taste to be  just okay. I ordered the \"Panda\" milk tea. I'll give it another try, but for the price/taste it's not worth it for me.",
+        "time": 1744668505,
+        "translated": false
+      },
+      {
+        "author_name": "tt",
+        "author_url": "https://www.google.com/maps/contrib/103734057061984804998/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX86HyB86hJZ_nzQiAELHVcyGH9ZPDoiVgL3CZg6YSkVBIKj4g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "They got many new snacks. I ordered fried chicken today. It tastes just like the fried chicken in Korean restaurants. I will try other things next time. The milk tea is always tasty. They put lot of toppings in it, really like it!",
+        "time": 1729550159,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Nice mango drink with fresh fruits/mangos. Not many tea selections with fresh milk; seems like most milk tea drinks are with creamers. Cute decorations.",
+        "time": 1706996230,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9782256603603233532",
+    "user_ratings_total": 102,
+    "utc_offset": -300,
+    "vicinity": "35 Bd de la Cité-des-Jeunes #120, Vaudreuil-Dorion",
+    "website": "http://www.presotea.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

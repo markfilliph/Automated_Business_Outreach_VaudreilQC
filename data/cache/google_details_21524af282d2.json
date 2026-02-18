@@ -1,0 +1,401 @@
+{
+  "query": "LE 32 Clinique Dentaire, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340473.1108375,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1C",
+        "short_name": "1C",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "22800",
+        "short_name": "22800",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin Dumberry",
+        "short_name": "Chem. Dumberry",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0M8",
+        "short_name": "J7V 0M8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">22800 Chem. Dumberry #1C</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0M8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "22800 Chem. Dumberry #1C, Vaudreuil-Dorion, QC J7V 0M8, Canada",
+    "formatted_phone_number": "(450) 424-5332",
+    "geometry": {
+      "location": {
+        "lat": 45.4129638,
+        "lng": -74.03820619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4143355302915,
+          "lng": -74.03710441970848
+        },
+        "southwest": {
+          "lat": 45.4116375697085,
+          "lng": -74.0398023802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-5332",
+    "name": "LE 32 Clinique Dentaire",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110250197076332046917\">LE 32 Clinique Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfVavC0wOi6PnGB8ds1hcjVAXVu1ZWomSx9DN0YeKtTWwuAhE6iE5bKR1RhcOlXf-vhwWo7EbdfrZSWN8msqWN82y3ZsoEPcrxnZ3GV1xiLPeyq15o2H2X6XIlfBrrV0BrpYWClqpL1GEkDbzhrzr02RIdcW8ZKKRctaGb02cY75PEXL7ZtduEgYmHLcVfYl48SUl_MPv3oI6eCAWuLwlmEH1by_jH5cwn_u9GchlunBlYn76c8mNHpeolQ1JhnUf_Rj-OKaXTUm7eFkSpjTqqOWKZdgXV_N-ulIukQXz8hV6w",
+        "width": 2048
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110250197076332046917\">LE 32 Clinique Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfVo0dybVmPtDB1wTuyIQRydodwFiuu5cOS3sC9iYkg0udP_vLqxo0irEnXbhU3jDWf5h4yq3IjAWq3LLjVe80ol6LdKV80E4N0fFVtWdZ1PTkWZA4pk-WmUMHbUpYTGVmEGlJFsM8g4sdpfmZAKwe9lgjOkHl49XJrFGYnHqHqmD6jUNo0zsRuuiAXNM2jqmi7RFv4wOTciz8rYQ0qL79QLF8eMru-WSSMvUHzEKIxQJDUklvuRb2HUG2coVK-8kMtk8t7Bx25wngSLwXDSFBzOXsSKfPM3ZVs3JCaMg8Kx8Q",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110250197076332046917\">LE 32 Clinique Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfUo71428KDf4mJS_dSJSIrDLVNVRPr4VwbmAZ9ii29WAP83AUz8KpcUpAXqhgRDOOL3rX269qv1PAeXcwdn1yjSj34pFVfjZnhFwRqUTtE2yj3PIFPFNewPdnUwzhlaqd9tgWSwmnYEr5BJBOzpsNLmkhxPGgjUx0-x4DOHGiF6-q-2WPFgEmT5FKMH_5GSw_Gxv0yStaFKZnqmPT_TC3_Dk4lDNpWwaMUe0nDO6TR2DeyeWRK9AxNbxt6w9omPddif_fqHCWGJrzj-U5Lw_Mm4Myp_-z9sQriUQgixKA34PA",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110250197076332046917\">LE 32 Clinique Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfU8rZUDtUyvUUvObf1qNpAG2ptmdFRBpfoWfvQII6t8ZDSIKUPfal8DuaAxfs-7Kicp8JlGJy5dLre3-db7x0RsEKv8nWtDwYHJ9mmVF4GcQDJrNi1PHFC8bAcFQ47_Mat0CFs9Gg8UmxpIScoIlG_kkP63XPdXSEMg8zfZlYNPYzTc6ejXHFvDBnOJZ11laKvG_WZv6u4QteC5zETQkemwjDZNGfl1hLg0paVnybFF2La6rYGgkRO5wXkK3p-lnyVapZ_IJO5eqf3kcLEvD70FaJwGMh4Y9edvD1wnXuy7eQ",
+        "width": 4800
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfW38FttjBdMcRhEo9XtjClKmKZNvIo3OLXqcigfXAVygVVYZUxm-gcZNE7Zqrj6gUyDetYF0wBX7nfghWemfP7NnUH1vFyEqw80qCNfivhwxb_AvnJkkA2wTl4oFOBXk5SKaAhT3GxLAtgnErdyPkT0bBqOAg3txRX0vWcB95JoIxEZGRqir9FsLpyLtKyT3dRAi6kYAdCYnEp1oN25r0qN7cndjGnHUFKQ0g8FaZWUmFzgVzQVZ-W0gEEDWy5ARG-qTaH2_zrAVOphOWWj_fEgDS8iHkLcwF1oCsCmsL3ZEsGVZjkBm4DJ3OMlOwLdxvblKQLVcsFz-rXD6lyL2qbKGoevj45bZ0unHzlXGS9bWR1x_TmROWS-XZgOwOZ0oF47iH5Vb5KmkPtIdTyKCsMDq5WdBpWX-LXaYp1ePczObw",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110250197076332046917\">LE 32 Clinique Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfU_3pf34rEkfaWteAkCt5jVLivGs8SuBwwakUoca1mZgYC_uE8r_KX8a5pnB4RXMianvNWvF27QeY-_e9Wyw8meclthfm86t74O5KxIvgrDIaEPlnFLKUnGXL3SMkEwqESOEpJlCR5gQF6hoqSCBGCYbaghDY9jHpu8BHgLbfYW1kM8mnPUMzRoMnTMBQoh9fz63Duy70gIQELIRs8oSTXKKmMWGLN-VMgFpSTNNaGpd3g4tYvE8nodzrYd7Hp4fuM3sa3Pr6xqB2fVSJsm21i-N0MxIiv-kh-_BF5ddOxKXQ",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110250197076332046917\">LE 32 Clinique Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfURwEBK4eyjUu_qv1JPAPdujPKnsgTcSUGmYtW0jjYxdDeOMnqRVeHUG9eku3eByYHaKjcEWn5Oys8DhV0Z7pk9nUxyBcKg3GF6IvWMhzIIdd9HOaQQ_4JAnJ36aB_ntDqZ8YoC2C4KKZcQpGnxt_ja8JT98rhoO1F0l7OUhHXviS2mOPoZE_mZPf0ulLPsUmizm7x55wwVRdM5IK1ykjG64siPkWO_drfuka9hmGQR9S4ZqLXtpU4J0qN0kD0mYVrca19oXhGtfPEYDYTQ-BCI5jtx0_b4fw8o_qUqCBbp5A",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110250197076332046917\">LE 32 Clinique Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfVoxDeaDkTRLtb1LaB6HlzIjXCF2Im-ley-dmtRDWhHbSaOTpueXOkWXahx6dpETW16CPH9_hTTzo9u4_0LR4djez8htIKrg2JjaEb1JXfP-ZgOEykTS8bfFhbtob0-tijfe9Ua_NhOxwNPthvsKhHGjftnjHsbQ7HswXCDBs5S63zFPO7JVLEX-DQi-pYnRmZW7KOdvTVlShR4gSVZcJRJAbbFHw8q6H-QqZAKj1jStvqWQT9wGfs7RAbVEjTB92Ndt2A-mwiceyR_Kwd9M60-a-uvNlwSXDv1n7roKahZEA",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110250197076332046917\">LE 32 Clinique Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfWHKqAxJu_WEhnS1rc7EZ-qNtoi33tQxE-nmg2XQiOjan5PyVLkWR30rRvr3NkP3B82qCNIVjQKLq0oqx8WLagFQqYLAOfuTqnqCVAHjcOdwjJm_izMWYbcA2z9FZOwNN8B1XDhQsTrs7nn2zO9Nl6TWhokX4fTBaAN2dNzmtzJsTmNn8OlFmeFnKBttanywUaWlrRHWctxCV80T846AjPsdI7gZGvIjI3zvinpdzxbj30JCxjI2C7ulXEsniqFb5bxRiSGkapeXWZtXpGbKzVK7nfReG7HQItwMwwqSnNPLw",
+        "width": 4800
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105906328853026312704\">Etienne Lajoie</a>"
+        ],
+        "photo_reference": "ATCDNfUnGnB2Ss00bBcbHt0GG-D9_fc2n73iwCqW4au614A5RFhoPHQsQdPbEVCQZIe9UlyDF_A3dfB1z0mYmSnm9mTB6dXIBGm_oZah97hzO90vLVKTCtvIxAboHLQvL5Wig8FY6nBjFR7mvp5O8BauPeIRUZ6pzJuIpBR4Oc578SMW_U1Yj-pgPX3Hq0tjw5osHJ2szMJtuPReOa3wFPZFHeLVUujObvBljfALq-cyVsa3QT00KnHH4JCpi6EU5_4rw1b6hw-YYI26ChNe5zqCX_AjdZTaA7Gsu3zguURW4jcRJSzYhfE5Hdyh2LqoLlhXguOSwQnGEcKLj9mMRKC3WH3Td5MSLEEHCLdsklGw8CniwBZc-ckbnAMhhDFuJXLCquRtzR_W0DAdmnsg0gs-dM6OauU0u81HGJvKORzNgzgfjzDd",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJq7WQrU42yUwRUEoYt1E-GyI",
+    "plus_code": {
+      "compound_code": "CX76+5P Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX76+5P"
+    },
+    "rating": 4.1,
+    "reference": "ChIJq7WQrU42yUwRUEoYt1E-GyI",
+    "reviews": [
+      {
+        "author_name": "Heather Clyde",
+        "author_url": "https://www.google.com/maps/contrib/113751817856734741944/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPXXJXjX_RtTW-zD-SX-UiSx-byPsRsquVG1lqhPcNa28Eug=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I have always been anxious about visiting the dentist, but this TEAM was amazing exceeding my expectations. They were all professional, attentive and made sure I felt comfortable throughout my appointment. They took the time to explain everything and made sure I was at ease the whole way through.\nEspecially Dr. Del Vecchio along side her team Parneet who assisted and Vanessa who did my cleaning. They all spoke to me in such a calm and gentle way which made me feel safe and relaxed. I truly appreciate their care . Honestly, I left feeling so relieved. if you’re nervous like me this is definitely the place to go I would highly recommend this office !\nKeep up the GREAT WORK!\n\nHeather Clyde 😊",
+        "time": 1758762805,
+        "translated": false
+      },
+      {
+        "author_name": "Paul Cebula",
+        "author_url": "https://www.google.com/maps/contrib/107406184667911853031/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWH0akKB3fR2_hBTjKeeyS-x1-IUkE_7JRh8Fww2bC7cgD_IaGe=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Great overall experience! Staff is very friendly, clinic is very clean and equipment appears very modern and efficient.  They did a great job with my cleaning and were careful around any sensitive tooth areas.",
+        "time": 1764605872,
+        "translated": false
+      },
+      {
+        "author_name": "Hang Jessica Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101493232469951746040/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMN0rfMrJFh2--yEQRjMW_53m97PLOoDX5qBVzVC_1H9vZeGD7=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Overpriced, overcharged and irresponsible!\n\nI sent my young adult son and daughter for general check up and cleaning their mouths. My son have a few cavities, one need to be fixed/ filled  soon. He weren’t in pain or uncomfortable but he listens to their advice. It cost me nearly $600 for first check up and $300 for filling cavity. Since then, his tooth gave him pain anytime he drink/ eat cold or hot. He called and they asked him to come to check again. Paid $150 to check and send home with “found nothing wrong”.\nI don’t put down any business because I’m myself an entrepreneur. It’s overpriced, overcharged and irresponsible for their job. I wished I haven’t spent a penny at this clinic. Waist of time and money. AVOIDED.",
+        "time": 1758239859,
+        "translated": false
+      },
+      {
+        "author_name": "Surinder Singh",
+        "author_url": "https://www.google.com/maps/contrib/107268045965630942220/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxx3EEPI3KndqVmZGHoqJeiA46Je9Y2zdg_dSgxOp8FSP83A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "Utterly stupid service,\n\nThey took 7 X-rays just to tell us that we need to go hospital for emergency. Basic knowledge of doctor should be considered next to nill.\n\nYou may contact me for better clinics that will actually help you.",
+        "time": 1760018866,
+        "translated": false
+      },
+      {
+        "author_name": "Jessica Z",
+        "author_url": "https://www.google.com/maps/contrib/112076577770883060105/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAh02v0HBjLZ3N5zHWL2xBT-0ckeZXDlWkYbyGrfv2VFR_VQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Was a fabulous experience from start to finish. It was my son’s first dentist appointment and they were super empathetic and explained everything to him to set him at ease. Highly recommended!",
+        "time": 1755808112,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2457626542345833040",
+    "user_ratings_total": 116,
+    "utc_offset": -300,
+    "vicinity": "22800 Chem. Dumberry #1C, Vaudreuil-Dorion",
+    "website": "http://www.le32.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

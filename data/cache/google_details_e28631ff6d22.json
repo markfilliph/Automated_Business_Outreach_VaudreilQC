@@ -1,0 +1,392 @@
+{
+  "query": "Redwood Country Day Camp, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340236.7641141,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2604",
+        "short_name": "2604",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4E9",
+        "short_name": "J7V 4E9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2604 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4E9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2604 Rte Harwood, Vaudreuil-Dorion, QC J7V 4E9, Canada",
+    "formatted_phone_number": "(450) 455-3227",
+    "geometry": {
+      "location": {
+        "lat": 45.4116439,
+        "lng": -74.0943908
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4129902802915,
+          "lng": -74.0929950697085
+        },
+        "southwest": {
+          "lat": 45.4102923197085,
+          "lng": -74.0956930302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-3227",
+    "name": "Redwood Country Day Camp",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfUROBLwgkhhW20YOCfhiguOPAva-4gji83S0RvK8tnt6Sw32nw88cewuQ7GSgU51XL_Q9UqWFIRCgIfLefbo8_CfdPQKI-r4XAQT-XxYPApEVu7ljY5OiGv23qEdvUROJAqnalHvPQY_YXxaPthkhTczci-QXfxtLDPx_qgJTjtEcsEjxfhwnY5Zv84AusUUpRiclfa8obcJp3d6vHXlGWZeJWny8cxBgZbpW0HbChfX2APWMnB55H_1Ow3pm3vJnmLvPGbKb4wj2OreevRZaS29fKFA_WOiYcb_9bc_97WkQ",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfUv-4RS5sIvGWKqVEPUHaH57jHCvGdWCrjEefkphZJY6QuTVc_gEkMBE_oODEw7A8t6sFXSU4eEndpeIODPZKPb2QIq3riZoE6BocrMiFL-2Wk6HRO_DgTfvja1ppLOQxO9YYqqs1f8fOGQNHFl9xN0YG9le2xaA2z2okmk4EurJgdW5gICWVjKQDr62DSijL6vUAXRpXL1Lc3BgsPRSxxc6ewbQWEoWH6fuOjHBqpgxUcFR0nsyS8urX9Z_gXMBEVBQqaLQS3Zwqu97G5j3Bidc1I37T2u9eIojAMmQcx6sA",
+        "width": 4032
+      },
+      {
+        "height": 2895,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfWXdhYRKoVHJrEGsz1zcIJzpBQRsXfB5oOu7wptZ5CFYIRGu6t9Rbb4DELX9YYr_KCN7MuYwKm_AO8USSWXSObkq0FAvl7qex1f4wgofnqhrG_jtpKm1VzaweIsWOK9QUI-DNNlix1H9v4SCXLpOoN_zZR5MmxOlgXaKCkaNTjUwdkLg4xC0Ipx1lNlRgLeI3oKTJCoSudFnBns_7DpsczMNZqNlW6nC1wc-F4VcvDyysBQhJnVpp4pbHt6R4tgNVYhuPrVYiC1Bl46RHPH6nJhMLQIfoGXHBIEt2EQiQtMiQ",
+        "width": 3638
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfXOCfcLPjtJaQI5MAelice2wkm3QejkfVsGcE-df2Yq0dQ6-C_HYUzJrcH9mje1kY4qLWfHOeeRYmO5yBCGP4OHExeCuz4BRlRnZHcMPpUhj0usDcPiNKUyaYJtQ80pb8zkLSegOvO-ayq5gqeDa3U1GQ5cXqOxeic41o_Qco6EzoDUGj0P69q0sk_fAm9DQprAHANmXpJ5g2a64Kseqd_rS2rG7kqghcMDJjaw2mYGI-550WK0LqVCX3PYaLXEsNf8HCAGxkrhTtaj7orD5Nq0vQZGIziU4pC9TfN_Jl-YLw",
+        "width": 4032
+      },
+      {
+        "height": 2829,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfVKTtRtTEa_UlLAGfsX13yerV51GSwqFU90QXiDmhfYYOViMGomnV-MDmgcgs0IVeO6679oioeOXEYbQSEeno6mYPloILBb76nxDEytV4R_EzqDCcZsWH3QGoRFS1P0mvusmYXmQwiG3NxHmVUFQHYqHyXyBp7v_vifylnkmqdh8nA0_V0uvR3ssZaOedk1CSdO2g1Rhkmh8uzKTIkPGGVc2pOz0wJvQIsdaVFlKI8x0gdW1PBYdsVafely6x6p_0axVws2lhL3BNIugWKZfyCKbLdwKUMey0G5VccAJChPTA",
+        "width": 3775
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfVzsAQDI6Rmj_zMGbrn7wAS7OW1sFVYq3M9mn3QhxMkH4p4IiB4g1S0Z3UxLAz8f1Ht1_wUrIjtmIUApdFuSeloyZydpX7lels3Pp70d5lOaaXbJl71-BEPPtZ65Z_7n8PuZKfubfUi9Pl-BvjUrkKhScK6w73tHLyaiRue1q6et3XDQi5GImLQRKQsugOuc_iFJhF4yleVuOvSSq00LgaIFmpu9U32EPvydSGAokiQrUL3TZebFAsWqlfvhospwCJ8mWnhFSzSJvIzPeadADYNxmmrZKHKA3xVGJHuUyBBpQ",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfX-LLyszAc9NlAOsiuXT_Ugl0mV7yFWvsgCPJFX6Bc2aKFhdqXhkmQrAjTZcochKDb3TuJLgRM-de9vSQ7xvdMzneCEowI_XiR9LeJ1OPkbiggWYvzTI91KXeBXusDtus3AaF3zViwkqlb5bQRY0mqbDszZKz_ckWvqM4Pt6ZENqaXtXnQO3w5Uf8z3fSJuwz3FK7MfvZRioMFBL3a4zGDfRB3gH1dR8igeH2Q7Jk0UyE_ZuYzDiOlWL_u6OtV-xafp-cx3n9G2XKLIHMd3C8XXw5XB1GtBEGvwC_y8-MLgcw",
+        "width": 4032
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfXshDUpWsam8o-tFbvg__Pz5sz_i6LUBvZHYK_Km1TS5HISuaAHYLka-XPcQgJSToqB9Y1XuG6P9Uwvhn_edRdzKNd6cgLohSaBmnBniSNoYxnvH5-sb63ldvx9iD_hFs0_rOZ3B8Ja_fLEsnFHXHJovsI7oSycaTrx9dC5pjHVByZGhcPSgQ4c7n33XHDYHezf6pPl3SW7vMwpLkHSDz-d48BBVRFaBlpxwRw6fKbN9cA5UKZKZJrDoqMKRYyiWRyju_zLLKJPUvfiTOHWJJX3TpiEXhpt5fKxXcLiLOSR9g",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfVWFDKWrCELjP0fkthJY2ZdR7RcyGnFLuTgZAmLubwqW48tnQOudzPClmBORSPPtk87dnqrR_WriA2LQp-tXF7pRWSCOwZpcQLD_HhUAE4nmyagf8-KBSqjwgW7fvMrvMZu6rEldAgcqzESCFarHnKcg_L_-Sm6J1v8Gieo5D6tK_TFRPAFDUQ5VzWZ9ZDqKaSI3IJoH8smCSpj2y1qXOIN3-rcTjYHklrpxxC0p3M-JwUQnc05w5yoQ9Jbq2QRBvh0Rp4wIRE2TH9NGKobdCNESl6ucRIE2jOzwjVsXH6YfQ",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975392551951226035\">Redwood Country Day Camp</a>"
+        ],
+        "photo_reference": "ATCDNfX2d5vUKOUoke4pg3s3Zl-D-GeHjLgKV7fWjsS-DWBDb9-NKLl2PIDYbG4x_P84s6iAOimpBUB-UpXP5eX7X2JRVMx6CBHsmWZt9gTmOROt1z45K8nffBwsbbSLNCzOzoDCQw2OrM3nN38O1tUlHmlWv-H19p0xZ0oOJqKCyWiqWvI5ep8eK1uIzUE4-eHSMVtDfcQGMQtt4kMdVzNTd2m7kcoIc8tUz1D1tSFEazg_gfkBfntgZClgpuAt_smcgVJpBnN9pauST8_nc2Y6HRHykEl3vFCLqjHWBZHWZ-7Y2w",
+        "width": 1512
+      }
+    ],
+    "place_id": "ChIJVQuQwSgXyUwRayVrcoX8Z_g",
+    "plus_code": {
+      "compound_code": "CW64+M6 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW64+M6"
+    },
+    "rating": 4.8,
+    "reference": "ChIJVQuQwSgXyUwRayVrcoX8Z_g",
+    "reviews": [
+      {
+        "author_name": "Marta P (HÖJD Cabin / LATT Cabin)",
+        "author_url": "https://www.google.com/maps/contrib/107244917206314838331/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDI52ilHsXJim2hrHjV55wyFDg05v2dv_MCXPZXrO3LQrSlQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "My daughter had an amazing time at this summer camp! It was her very first experience, and she absolutely loved it. They enjoyed outdoor activities all summer long, and the daily swimming classes were a highlight. We couldn’t have asked for a better experience, we’re definitely going back next year!",
+        "time": 1755303394,
+        "translated": false
+      },
+      {
+        "author_name": "MK 47",
+        "author_url": "https://www.google.com/maps/contrib/100624736514546101856/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRK15AXqViBEbuDUT0maft6wu3wwWxEuEgXhmQ8fJOm_ZoIJji=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Best place for kids. Well.organised, safe and full of fun.",
+        "time": 1754717052,
+        "translated": false
+      },
+      {
+        "author_name": "Antonio Napoli",
+        "author_url": "https://www.google.com/maps/contrib/105883893864363744047/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoDxZYkCxGualKfrMmF0oTqhZZeYsqWU6p_rdwj2uL_q-iR_fD=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Best day camp your child can attend. Worth every penny.",
+        "time": 1565985783,
+        "translated": false
+      },
+      {
+        "author_name": "Sorin Dumitrache",
+        "author_url": "https://www.google.com/maps/contrib/117686032469473867704/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5dFUvGOfuOTfdsFdw7pVgHU4MIRnBBRyjfSmK_7Q17fJUGw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Wonderful place for kids, outdoor activities,  a lot of trees,  a great escape in the nature.",
+        "time": 1560118291,
+        "translated": false
+      },
+      {
+        "author_name": "Bradley Cohen",
+        "author_url": "https://www.google.com/maps/contrib/111804839675683882863/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6oqw82WcjlZbLaWr3l6Ntm043vrakRAZD2WUHhd7zik5_Wm0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Wonderful day camp amazing grounds",
+        "time": 1497307047,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17899552894087800171",
+    "user_ratings_total": 16,
+    "utc_offset": -300,
+    "vicinity": "2604 Rte Harwood, Vaudreuil-Dorion",
+    "website": "https://www.redwooddaycamp.com/"
+  }
+}

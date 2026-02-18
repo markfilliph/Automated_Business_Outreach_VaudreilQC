@@ -1,0 +1,399 @@
+{
+  "query": "Total Auto service, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338078.863146,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2860",
+        "short_name": "2860",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue du Meunier",
+        "short_name": "Rue du Meunier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2860 Rue du Meunier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2860 Rue du Meunier, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 424-3969",
+    "geometry": {
+      "location": {
+        "lat": 45.3721729,
+        "lng": -74.032146
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37361138029149,
+          "lng": -74.03067156970849
+        },
+        "southwest": {
+          "lat": 45.37091341970849,
+          "lng": -74.03336953029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-3969",
+    "name": "Total Auto service",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117855510070300754109\">Just B</a>"
+        ],
+        "photo_reference": "ATCDNfXGmF63BYNvwCvOfb-bgJMYSBh-dv_JSgM0Y3Y3O8vUZTD7nMTW3m0oBhS9Wj485AdJAoaZZoqQ6pEkMQm9aMskagQHwYTaRq3CTEz09Bp3n5qb5pTgp-erMGtvbvjxtCz-gNHcapHUNRy3nllBdtSSefU7JL_tRU9bOTd6NOtqcMnj34k1jx18YUluWegl1kLj5lNob652c4DTjOXPLubR3dVJOz7lBCAgEBpid1ssmWMLazHvTqf5CJli9scuV3FvYvVno-_vdGJwDwpGXKMna7aEI2LpO_mKn2_WDbirqz5sKog_5mAoop85kVU4mBPl2gIVKZ3RoyL0Vt1LTAMMGSPc7F0xlml9nM9J7eHIIXNM2d312rxwjSa9FCrxRXyPvOE3A7bDn9cJqwcaBvgXXGWmYyps88dSK3u7SxZiwnvMYHoXrt1cj_jj91mB",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114662486487515265829\">Ian_G_ McIntosh</a>"
+        ],
+        "photo_reference": "ATCDNfW8KsrTs68RJ8YbTQsoS699uVoerPSqnBFw6qh2W1JhqjEg2kmpknx59NR6POwfXhF26uq4Y0FZiNbAgy-Ky-DDqfUP5U2kGioIjKA8fNyjVD2y2g7XzoFCgFLZbF48Kee6F3FTiJXMbYS0yTxCMLJqhEu574PdXlf3ix1nBdQZwCTNee44yCaW9p0BUb5sRlFm2nQyJg8PoczwqOQJyH3Er_ml0-Cu6iOy-5KxFLZzMxDWe-t5aZTQbUln8RwCK9W1yy1uTfUhqcY7AKcagfowLdCV3MMR4RfFLdMk5bwQQEV9oHUNqGSgrzSxtcuh-VR3MJ1ljV_gkaIL7buyW3sSx-TgyjTukPt-8xLeKKF1KwIY6dVk_3JqzEuU-X9JbBGHJ-cpe6Q8llV64cKI0Ezj3EsFVqB0XJv4WuyhKMyBBIMi",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117855510070300754109\">Just B</a>"
+        ],
+        "photo_reference": "ATCDNfVKOReW60vCRT1nKHIcEG_U_K-MBpNqJtWykqPYVHdCj65tixRhKoTmL2FnZJxGX4VVc6ivtU_27KqGN53qhntErUqXOQ4u9kmvScjJx6PVcS8LyZv-TUvfSGV8H01ndxxuXxj9UnX24D0cdXmpmRcpX8VPD7U_nNTkDHmEU75Aav4SmZwGNZhz0URE5bhX4GdusKJpqXJzHigNew8zxpAZjsJBQ-k1uebKhMT30X3SDNyGUq1BjEZdjKqcNlbPRNCkWi1PgzIFsV5zBwF3BHtr6L84PHLUUSw44Y9z4M3gpGEHrXgrlx5afkliE5nYWWMyof3Pg-6BY5O9wsLsQpxgb6g62EZjm2VRA4I2hX2cQP3CyTqIuGIYLp-BaPtOq8cTTY1WUy6YI65UA4xPC5AD_2d4cgDa7uU2YIP-FJ9gt8Yna2M_g83LwKVYncnq",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117855510070300754109\">Just B</a>"
+        ],
+        "photo_reference": "ATCDNfUyco53xr9n91NKMNaM3LCkgkPZ14CIDm-eHLqI362exze5O1NU7hSJqw_UDbOMoZexFFAjXQIBj3lW6j-G_utICXDN6onaKE0qqH-fKlU-zqouRcNaFp1OiQkN09P310IX74C5BEFtW4LvtL2GZUJILoYm7hR1vA5HEjXSFmY_hR8SOs_MfIpKmYd3y7iv9Yb7yFbvgO3jpYHrqHF6ZpMOrSaUTwyFgXS_HLUFioPobeqwCkxb-NbCnqNgcB1a95dJLAiUA2nBvfSJoaHAzCzFDovEuFqO_24mBvjeT_bPgRFDyo5zWuIiYLNYsgefh_KG9Hi3l8tutexCzbUTjO-lb532N5ovZYkE3GeFJWGsDv6rTx-_HEd2CWC5JLHw7HvMEC5D6deJPDIdvx9_FmDCWJYgSz9RDkLPhb-Sv4y6dRTRpNXVfr56C5zrQ0HU",
+        "width": 3600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117855510070300754109\">Just B</a>"
+        ],
+        "photo_reference": "ATCDNfVXjmeCA5rmzB_YPgcyNDtTa3HvP9oJqxQM6U8WGRolmbjAC_d8-irK8eFfPo3pj_ul306FZygrsjWyXDLJa3EHt26iBc0oZu8M9qp0OxGp8S-_W_4CjkXHo4TC-d30Gxa7u1TfSDeoUsqAOk0p-SZ3yLdPEYspG70j4otBswPXHfMxt1kAAkEsWn_nWEN-ryBXYjWMsJcwDn7a7ruKS7VPUyHsI8uezJRnPQmH5jvx03jvBaujs5RSBCgAEgG525N7sHZcJUhtjUJkIlXKSM2laYAbxefx83pyzIsuCdjn--Kc8AJ9UYZ1LVr8UzggTXf0249zY2dmtzvhwZ3jk8FKTQ0-KL5Qe6PQmkKtUVoj8m2c_M7v5zevSGngVJVl20XyWXt1KN1Eie1JqEBxMv1mzeMAHH1C1SM4z2f08oTXMiJ8r9AT4tT6rY8k2A_S",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117855510070300754109\">Just B</a>"
+        ],
+        "photo_reference": "ATCDNfU-qrjnQUcMhoH03_NgvG1ucTufY7BVv4BjAGgvjw-N_GWLsRFeWCSY-dcO45hZ308Uu93HA5lQJvEw6cSUJGB9JKkQcp_q7BXxtT1R8KwBV66YV3wzu1K8E0Ilet81e1rUYL-tIeWoKekW0khlvL8nneSRRWDu2obFb6N0Ct0NLHI2TLBJTz7nL1sqvoAUMC-KTjBYpRkUk45527m7QFunVQO03ZCq7WkLNBtUrplLEDJN3_ZGNuisxUt0sfecL5qWveA0l7HetnUD9mWPrCBaAnaxP5vUZaTpaCJPMGeD3pyvbtFRbUIhOBWz87Y48bm0Sq-JutB5VduI4wgIIGAMJVbnikE7rvlOSRj4jO34Rj_U_Z4IBWKC-_pAfE-LfUyNwVREWp-UUn4le4JEuZPHVOFXgI45G77LyKQv-jZNS2_DZ8AD2WZOYVffjcXY",
+        "width": 3600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114465715920635305378\">JJ Sangha</a>"
+        ],
+        "photo_reference": "ATCDNfXRF1WSeoyWM9Ex4ZbxX-chhLyMXWpW8VNkOi6H1hoJ1tk30gWu4-ul_3tuzlOkx8UGNa2oaTSCc5B7fmjFyPhQXEFWOI3q0yXARAcjrmstuVcNmMlQ27wSOkMvgE-0hH4KVbsuZDq-kyIiaFqRkZfMqQnVfr63kRNpf_3SnuzymWLhzxc6LhU-SYH9NJ_LmD2h913ZkENtjHR_scUwxo7ALJO1rK8p6z1VQgqPkz27PJM-fr2OEJLBgfVmwDEF7GgOfyBUntcADn-bsMi9zQne5uOZ3TjfjGcen5i5sXA2ZOee6YeTl9VPAF25S4Z8udwrxVkByDiP91irk0MNVAOJ3bUWa2_-jAVf-xRx4lHKvDr39pBSLAyKo8oZCU1-rde0MGjB_9LmP6fcV3znrSr67Ml1pxqlskfy0rZ1Eqs",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ2WgawwFJyUwRaasybk6sv4g",
+    "plus_code": {
+      "compound_code": "9XC9+V4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC9+V4"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ2WgawwFJyUwRaasybk6sv4g",
+    "reviews": [
+      {
+        "author_name": "Ian_G_ McIntosh",
+        "author_url": "https://www.google.com/maps/contrib/114662486487515265829/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPB1K8Y4h08582J8icviSvGM-ZyS_UjvO0uLsumGnazJXoJmpG=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "First off, I want to say that Ladoo, from Total Auto Service is the quintessential honest mechanic... hard-working, fair, knowledgeable and caring.\n\nAs I was returning from my trip to Montreal earlier this month, I had a \"Service Charging System\" message on my instrument cluster. I looked at the voltage meter and it indicated that I was running off the battery and the alternator was dead. I suspected  this was coming, as the bearing was squeeking (not a huge deal and my local mechanic said it was not going to fail).\n\nMy first thought was to go to a local Canadian Tire for service but they were fully booked. They suggested a small local shop, which was closed. I then tried a local GM dealer (I have a Tahoe), which was also booked but could squeeze me in. I am not a fan of dealer service, so decided to jump on Google and called the first nearby mechanic, who could look at it immediately.\n\nThis was a total leap of faith. It ended up being a one person shop and the mechanic, Ladoo, was very unassuming. A few minutes later, he figured out that the alternator had blown, ordered the part and a high amperage fuse. He replaced it, as well as  a blown fuse (same as the amperage of the blown fuse) and off we went.\n\nUnfortunately, there was still another issue (a different story), so we had to go back before the battery drained. When we got back, Ladoo did some further testing and found that that there were a couple of other issues. He replaced the fuse and ordered a replacement alternator.  All for no extra fee, even though I offered to pay.\n\nThis time, he was sure there were no further issues and said to call any time if I had any more issues on the trip.\n\nIf I lived in Montreal, total Auto Service would be my mechanic for any repair and maintenance for my vehicles. I give Ladoo my highest recommendation.",
+        "time": 1691458207,
+        "translated": false
+      },
+      {
+        "author_name": "Mike Ross",
+        "author_url": "https://www.google.com/maps/contrib/100964898494041246974/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzVjBOIKgWiEmJCbaVltaS6dZE35tFfoB5EQpAhMD0Nki7eg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Best mechanic to deal with and probably the most honest. I once overpaid him and he called me right away to come get the money. Not every mechanic will do that.",
+        "time": 1750007637,
+        "translated": false
+      },
+      {
+        "author_name": "Just B",
+        "author_url": "https://www.google.com/maps/contrib/117855510070300754109/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVYJ6X2_NXNK4X1CmF0_3XYgLZqwctXwgmmC45xPJU0bVXITxM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Hello I went for Maintenance, Engine change oil and transmission oil. The service is very good and the staff very approachable and they explained very well things . And they give me discount for it. 10 out of 10 rate . Recommend this shop ☺️",
+        "time": 1747890158,
+        "translated": false
+      },
+      {
+        "author_name": "Jay",
+        "author_url": "https://www.google.com/maps/contrib/117844629019245227532/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXg-vlSJq9cQgsxtmr-4FRpolQVoqlRuJanwOB7ovTK7B1LM7I=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Best mechanic around. Very reasonable prices and Ladoo is very honest. First time was for an oil change and have only been seeing him since.",
+        "time": 1744396632,
+        "translated": false
+      },
+      {
+        "author_name": "Trevor Smith",
+        "author_url": "https://www.google.com/maps/contrib/113696870643430252259/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwyPbjhAv5WZAbH9iALdsIDu4Kd4lJY7-aIWDoCa-ENRxUSaTv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "They let me come by for an emergency fix on my coolant clamp before a drive to the city. Quick efficient and honest service. Will be back. Thanks and happy holidays",
+        "time": 1734806009,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9853783962566175593",
+    "user_ratings_total": 23,
+    "utc_offset": -300,
+    "vicinity": "2860 Rue du Meunier, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

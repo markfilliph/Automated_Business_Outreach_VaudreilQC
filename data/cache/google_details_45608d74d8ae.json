@@ -1,0 +1,423 @@
+{
+  "query": "Myra Coiffure, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338861.56208,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "100",
+        "short_name": "100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1X9",
+        "short_name": "J7V 1X9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">100 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1X9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "formatted_address": "100 Bd Harwood, Vaudreuil-Dorion, QC J7V 1X9, Canada",
+    "formatted_phone_number": "(438) 936-1351",
+    "geometry": {
+      "location": {
+        "lat": 45.3839845,
+        "lng": -74.0092348
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3854554302915,
+          "lng": -74.0080043197085
+        },
+        "southwest": {
+          "lat": 45.3827574697085,
+          "lng": -74.01070228029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 438-936-1351",
+    "name": "Myra Coiffure",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115464723005262417892\">Myra Coiffure</a>"
+        ],
+        "photo_reference": "ATCDNfVZAc74KO6FLYkCudq2_ahys2sgFhx9Mi3m1t1V7_Xe9kTXFkdoWuaWyGGwU1JRnX-jvNm7gGABX_bYg7k2uAHGmxt4EPgWZZZ2CETHvts16pSpBEA7B19UwxMmedkuIHmrYnKomy7IauU-Hric2eN2EEl_m_3LEWUi5QEs3sLr0SH_5auyMbSeC9tDd5E_F_2hjxMcHO64BcrDkku13cY82jv-2OdHk47rFVoB5uhbKfpa12a0RsYPx63JQ6zSiGYMHY14An4VTP0MTxfcQvQKv_-gXESsGFCSI9Rbz4a9Bw",
+        "width": 528
+      },
+      {
+        "height": 864,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115464723005262417892\">Myra Coiffure</a>"
+        ],
+        "photo_reference": "ATCDNfVyvk32V4RYyBUCaOnuZUOGkkNWLoD_sjQqs4v3xQT3fRj_7xNp4_BaM2uqILA-099xB4Aleg824rXth1gx_ubAs4DoF46xPUAerCJZaYduKp9X-ha8Bn6-la1LW3YqqR37Ct9I7bd9ZoWeeLPUfEiSEeHezNu-DkiZEQF0bnbswNOVKg882nEfFFBSAThz9kGn6YoWZFqX2OW2m1NxeNR1_bJfsP8eEQvHh7uDrDMDxLay-yv2gHw834_Ww7rt8gcypBRZdlWEJ8v0b6u_aUS1HhxutKDsbLAysdYrY0Ej8Q",
+        "width": 864
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115464723005262417892\">Myra Coiffure</a>"
+        ],
+        "photo_reference": "ATCDNfVduAF_ZErsliNyp3gRI-sXzEHEV9cm5ix75e2O5sr-QwTroGHXvGJ9i7Jlw18TQ4JLAMGIQIN-w7tZWUOyUONOFAjIvf4VK37sdx-wPx6LQW-qH4cRdnPFpMvot7z4tdPHtK_Kr1eW8T0uNa3OssvIruxGyPxfsgGnv6i2WIyPVcBsE9yHps45rGO_nBpARkm12NbcCYKw6iItRQaL_mAebEC6ATezLr5iz2viZbeVSKXkGGet6YIcRDgrH5WY8NLsJVEUrGwcKIxi_tAHWapLp6L9qkbLnHk120Z4txuYVg",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115464723005262417892\">Myra Coiffure</a>"
+        ],
+        "photo_reference": "ATCDNfWEmDqcz-h5E8VVu-E2XCLccIRRznavlTV2ijkJwSDwukjf8GKKaeaIScXeqBZJJP5M-XVcGenbvCvc0X__Z7ohj2sICOU6SKQlo-wRTCbY2cPW64lEej_MVrLsmoCQ6S6dvHEVad43Z69utqJTMIg0U2IGxXKB_gkvd5f_c7lKXAYgCblVBKw7I3YWn7up06mVNKu2_mkZgXSDPsAmx-AZO4RTPopzjTrrqGJLuaqceezABiUfABi-W_d7iNH8Ss7biExF2etnD29OQGyOfsKAVv_3saf-w1lYNOvXAyLRTg",
+        "width": 960
+      },
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100116976722222742358\">Maria Angel</a>"
+        ],
+        "photo_reference": "ATCDNfVrr6XvpMMM7iOk8ewcPZ4ew9dpxftkIlppuebsABB5ivtWF16mMYocOqJ5XYmyW9iHxuBe_0aDGlWzQut1MxCKUFILMYpqrkbbY0i4PmXWoxb2F0BPTpbIPf815ieWi3-smmXXI9jSnPIs7pRa_NEu03cAgdGcQmf6H6lUyv7FnZVnFxis0_W3VgSOqAneVyDW9k6vji6hKCvuW-GYyIphHk1ZIvFPRq3a5DjhTGrpVVKSRZahmAMJWz19N6fXBR1FrsEZ5FTnHlynYAqcUe1ReEjI2yqIzmTHc5QYP6T5oMSTcwZkR60B64T5SLm2wC9Wip1X_XX0ifMVkZqrzPEwukTNG3rjrxoM01KsfA589YlZ715-oP0oDVESf10m2QiXt7Ac26qCZFjtEMV9sYn_3M9AyCC9cUTivt21TfcoBYfl",
+        "width": 2304
+      },
+      {
+        "height": 984,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115464723005262417892\">Myra Coiffure</a>"
+        ],
+        "photo_reference": "ATCDNfUJeiUyvGunX32V7qDJUJ5lvaF48qJbx-eHZSQTN8UA9fW-bmh5bmi-KU1wN5Z1hZTdA4lQLpxWrNoFE4hofwn1Xi-uGU7aHDqkZbiCCq965-pbiylveM9jAa36w4XNyca988CAzPYzv7NrzwIYVGp8bgOOGnR2rsxaTMxzwkOhg48b-oYoUEypjk4mio2gn7civW2vOMkzFym0lBtAYfmWElYJETibM2KcCR0gR__qWKOChQqOyaB31kr2PUNflr6zC5pNA28gUfbt7FftOGw5bTNKw4wFvo6xdbPqRDsLww",
+        "width": 828
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100116976722222742358\">Maria Angel</a>"
+        ],
+        "photo_reference": "ATCDNfUjqhb4rOuh0AfH3oJ77HK0Nqd90RA8m-AmW9hwT-wri2oDuRRqGg059BMYUM5S6s7k3ZsIPyTWFMgVMOMt7lCAg9MMX7i_ZqQsZddRwPozprK3-mb-P6AP_CtNzTcyMK6odywMfUxLphfe275BW3Dz49nZgT4Q4sEFJsKpw7tmg41QOnYh3Nkg2MuU7vL62q4WfVzCZ8Do0lu-Xksj1ZQfrC4vfXYUTcZiYNkdgs8dee6u2dwHVd7lJd5X943LxuIvLdopz-E5G-ESpgp7cXCwGDthL_78ZBMsOsQ88E0d_IKC9jbdl2b-QGBit8r-GDAhGv1rQQpcu-GDvx8PjYgoDo0_h6huKvyDGHYDd0yJAFB3sKpSVT6YaoyW5REf86wjkG1rI8fTRVJ1gR5eqfzAYds4Oi1pTsI1qxABcCZ1uA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100116976722222742358\">Maria Angel</a>"
+        ],
+        "photo_reference": "ATCDNfV-EeZZFzxBDCc-Mcqn4txrJirnfg0FhYrCy8UR09iZvNBAi7Fq_hTLuzuGw-qMXhqxjUfPoZtfAsNRKU2ymSd5eobDWZXLtzvv4ScIZD6-VHpQX5YolETYcGPjLBzIs0WipUE_d1VDbxQGuU-hpG3qL7BFde8j6-jtvK-w2DbWocbdD6J0zb_ihtHdPh7d6odDLN0j4hX1LmqSecC21aIQnfnR0D_Cs0G-EG8hic_Rr_WXvT8S_jCH4noI1nA-Ce-rQuNQYvScghtGLZhg9LIwCs3NlUrdCmr6h7kc270zbaFalWCRVdY8aEWOxYZMvMwBgZav-_INu8J2iPiRvk2BL54chJC_XaPBI3DSxQIcyr-VagvANvT-tHxslE62Xg0Lp4pci1S8bW3NJGjFxdsBwViL3ij7sjNLCd6oVqzVfA",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100116976722222742358\">Maria Angel</a>"
+        ],
+        "photo_reference": "ATCDNfV_AQw8wpqwLSqA53hpk4A9x-8XVdBPUAN6oPcTPft8qMe0cNvCTtsFOksTyMvspYm2AM6rlJPix0Pd7dLKTzjHseB1OCp1ENyf18SLq-NmWpFfD1_akInl_jrsyH_IujgK8h8RbABRvEdg-ROMke5iwCVs1RgL_3uDZWNlaK8om0mSVbfrDpBYlqV0E4fWhoGaM9fmuAHG2JsQJ1lf7eaeBtYYKFwqzNWZpmGWGNu7WrBY1ey9te0H25Ny0RQ29aP6Wl3qwbVhXiF8udxgKr0RsAkDSij7yjP34nVf9UjfhRyn7hojtsd1pWBXzndHohsYekd1eba43ZBThY_AAPKbDpeRmx8xVxC86QhYXDW4m6I_1iRjEgzgd72dbCWbAEV_AiwRIpOQlqzJTzmDVr3WZYoEHJg22XCDdsLREUlgzg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100116976722222742358\">Maria Angel</a>"
+        ],
+        "photo_reference": "ATCDNfU-6ZuBekjEQEMBLB8AqJyrRmavjOTCyt_xTKzGyKmFUgOWNKp4L4nJ5PhkWxepyvkI1RhZvczgiucW6gqbC1MEsL6Wbn0pWs4sh3Fqvqa0cX11QWGX5xGUgWFLCCpje6eqPLJWV6rKm7dhz_5rrJIYHPb-Z-GgBSazJKnlf_7rOcVJeJ_bu-d03R0YkBzzEMJgj4xauXz6VQifZqst6RRrsH59X62Jl2u7p84veFznaIM0RQ1yOqkoiNt-2pjO4srsgG7G7KeTof4WKeg9Iz3mTrjypDozmLGx9fBSMWytI9fDYUeFzG5G6JmnhZP7bfUmmNW_TL3NZTmU7s9vwQgdKovvymYLi1Jg9rnZ_YrVQxA1z9C4x4RLs753YXXD5PqNS3nMdyW-76dl_ZtBeOhu52xFvOfdr_Kc3K4DYRU",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ94c0VAxJyUwRD_yQTWpvR50",
+    "plus_code": {
+      "compound_code": "9XMR+H8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMR+H8"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ94c0VAxJyUwRD_yQTWpvR50",
+    "reviews": [
+      {
+        "author_name": "Stephanie Xoxo",
+        "author_url": "https://www.google.com/maps/contrib/114772396040230269099/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBjguYLbugxLmUPrpNTPhv7Fkp84vXzSrn1LKfsJVVLx9iRqe8PA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Stylish fashion. Beautiful purses.\nUpdate open hours.",
+        "time": 1615502437,
+        "translated": false
+      },
+      {
+        "author_name": "darian ferdinand",
+        "author_url": "https://www.google.com/maps/contrib/105422519011077607337/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4MB7G5N_E1HN88XVGgWJuUPJMzBBx3uA4KFRoyQ4N8ctGBEV5Wg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Friendly,  clean and a good price",
+        "time": 1691413027,
+        "translated": false
+      },
+      {
+        "author_name": "Anita Egervary",
+        "author_url": "https://www.google.com/maps/contrib/110917497367285185126/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHredzbV4ToVQHthpXnt_M3VJBGRbWFvddVVcAkEFcbJUsaIsg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very pleasant, very kind, thank you so much for your excellent work 👏🏻",
+        "time": 1679591850,
+        "translated": true
+      },
+      {
+        "author_name": "Christine Tisserand",
+        "author_url": "https://www.google.com/maps/contrib/111572658188044465991/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDdqW0n2E73OsOrG9dgTIBe-rfCXFEMOg9M4wgbXiya2QONQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Excellent service, punctual and beautiful work. Thank you Mira.",
+        "time": 1640011177,
+        "translated": true
+      },
+      {
+        "author_name": "Myrtaud Brutus",
+        "author_url": "https://www.google.com/maps/contrib/112826283701124174535/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOcJKsQCe4TuM50BGTaflSaZ5TOk024lkyES5mUf4Q0-7klg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Myra is a courteous and pleasant professional. I recommend her ♥️",
+        "time": 1635097589,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "hair_care",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11333149489659706383",
+    "user_ratings_total": 12,
+    "utc_offset": -300,
+    "vicinity": "100 Bd Harwood, Vaudreuil-Dorion",
+    "website": "https://www.facebook.com/myracoiffure1"
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "query": "Ryerson, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340050.3884468,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "200",
+        "short_name": "200",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "rue du cheminot",
+        "short_name": "rue du cheminot",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">200 rue du cheminot</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "200 rue du cheminot, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 424-0153",
+    "geometry": {
+      "location": {
+        "lat": 45.4062767,
+        "lng": -74.0549468
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4074469802915,
+          "lng": -74.0537742697085
+        },
+        "southwest": {
+          "lat": 45.4047490197085,
+          "lng": -74.0564722302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-0153",
+    "name": "Ryerson",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 288,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113786167522167546185\">Ryerson</a>"
+        ],
+        "photo_reference": "ATCDNfXG-BWsOT_aEHpI3nXO85Nx0z5ZviwYGG3OVBR_ouzpKQEeftUAPfWlXf8F9dzDknLKwXDyR_A4kjbF5CkQ0BburneeYqs7L8VWCNgCBt0_r99f9F65QvHaZ6DbsSDlW15GGKGpo9smmh7CuMTBt-pQmHsgl_Goks2EuaHblu8BwL70j7_UlKcjJF7UynW7mZP9j3eXT3-OK_Ma8QQsaPcb6OlPZXoPiMC24B23fuaxAVM3LEM8RYvQ_wEXq55W6-YSXlGUN5dSw4K5m-a4rn3eolFX0dNXRhNPvYtai8MCaw",
+        "width": 512
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfVuzcsWMmEve7-oTY66WDUNvntm_cenPX-nWP51wyPr2wH0lFHFO-fPz_WqCkIEyIzt6qNl-HxthQmuBUSzFhtM4pN9F1MKr8F9TNpMoZshSwnc-JODlYNDGAir6VGcwwq75Vy2XLCfLlPYJQmUbKI9pjVAg_OP0WYvTfQoUjyeFcpYzsaWlv7CNuKpcVm4PfuYPG3ogYqYOCnRqeDw3iJ3FAdUS2kq3qBhVK_TNP7sFLIQ1J9HHnk_Yfl-8ThHTVrjerpqKx2T_eDRmXAJJbmlP5s25fOPahlhF5YtzbVMEccgLY5p32jgZOnickEhQkri34Gf2NPTUIgx_-ELyAHACh-6d44Cwg7Zu4eckdC_4xaZdlJpLimbiAshp8Cx3j5sfaVziLzrJSWUlSN6wdA9-a0HHRogQ7ZicAVRnm_Sszw",
+        "width": 4160
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113786167522167546185\">Ryerson</a>"
+        ],
+        "photo_reference": "ATCDNfXsAEgzXUM6W3ztLMlb6rjJJGvUOZgLVM-ZD5JkvpPy9VO5-Ppgin9vj7xB2JgSPJOvre3OWO-jms34Cc00zHuek_r7K97tE5yNmWcpCNGedVqnareGUCMTieYspKET5j4LoGplqLwTx5gwlcOfN3vkXkwn9emHv-zYQq1HViR0WhGxICC3KcUXgpDpUt1lbK3vBaWIvsb36zj5rxZLnJh-ZUdksWRXFreknDAopjvXKsMSZ1gA3WSZ2V2gSwBJgDXU-HjB5h8xRZNKOC-E1OfinK74tEcjnolMwvwnsJW35g",
+        "width": 960
+      },
+      {
+        "height": 642,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113786167522167546185\">Ryerson</a>"
+        ],
+        "photo_reference": "ATCDNfX-JzinkQd6z1uaAQc15hyRH9WZVUmEhzWy-X8CWJ2RWBR4mlLShhu7fK_cK58seH6oIcHtwJUuyXYtg2hHrU3w4lvRU8U-IAb4YQgsUiW4JF7LtfeHsR_dNyJi5IpUQZwPQbMbxZBsnMYHrqs928eTdAR-m-f_pAtGkZLwNoHYzwQEXmWL8QDn4PjIbUq0-eDh0e0xjaNazBQ4DkQtnGhVzup--VZK26yI6kSMiHnvCcoaBOJfEXjORiXbDnnFtfXOawGRkddiyzL2giL6C6aWk8OASN0IW1KThzcgwZF3_g",
+        "width": 960
+      },
+      {
+        "height": 2332,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfWzLK5NcZgjwSqHfLJ2EJ2u_iw34Qi3mfkLvtPau10vATWsToQdSr_tujLyI-1CBi0lO5swQmx6P0n-L2GPKhuNyna_XA5WZQh__-nBddBT4AYHhrq-CPIViJfxKO9_BYKSmrr_76Ij_dqT2a2yRjpE_0fKeUGH_tieUk9gx1w922He3UkKw9WntHiuYYlWw7GvESJZszERxFUupvNsGzecfAxlaT3F9u6hp0hth-ZG994VxRgkyA_4s73BD-CrpIs7DuyiQ1L9H_cPxAFmxhrtcvUAxAJq5LvwvQts7blW-6wy6r7sw_6WqOALVQCNbS5ASIcA5UTPeoXD4fgjlmDyErFp6LZ6UszZYfM4X4xZSGAI2T_aEXYV-X7TkFBeI68Naj8yNyjZvJuoR0zrr-zFJoemIwcRmFp7cneTdWx4yQ",
+        "width": 4656
+      },
+      {
+        "height": 1831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfUlUpvJ989S2ExOb-Kw1bZGTEAXHtmzaeyUk04xH40D_WUzV6Fi6YvFLtVJWANhyKWgSxo7Sznt86qT5o86dfeA4GzcFuwfvmOtcoQP5UPS46J-342wrHPPIbEHqvlZv7z33rAcRT1nmf_nbm8yMkFfbUrLNtmvDvqk85_gzgQfHTs4R6H73F0A70UtmyfZ08C8WYB5R2kSay7i09LuzgGknuw5fUDVFQ6pABkceZ9OJLPfcxPO3HTau2T51OIo6zQjfBWzGwNbVdUrYyQOfz0dL3aGYPLBmBXbqsqYeCKD68rH2hutV-zf6DKSkfEoRi1dy7zP_bRHUyX98dXnrHUDYSPFQn2rVYIWHOZnm8yjXO9wpNrChBNkpWFjnngNIoO97EayvtcnbTdmJv0vonNHf61JnIlfuycaC1Sy4T7b1w",
+        "width": 3892
+      },
+      {
+        "height": 310,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113786167522167546185\">Ryerson</a>"
+        ],
+        "photo_reference": "ATCDNfXhY1SFvqhQD1XnLIgxJVnP214vHUBFYHS-2cfZjQpY5zRPzoxmH_I7YjnZ28TIV02rqMOq3-V1AXQPuVtCKk59NfcfSABHeQrQjA-q-mi4n39MVn9jGVteF9NQN1DJDbj54jpymnze5qe_uQ9T1Smx8yQNYh900Ia1L6JTd5Q48hwI-umxzXXjCoMIhHXiRgfjjt0q-_uCOLeNUAWOv8wZlVMJSHnODSCmY0h5b6wpsZQy8eOW_b-aAWjl7dAne_g0fgWMtu1NzE5jRrV2ftGm2FMWw_-wwfSZO4agBl8F-g",
+        "width": 471
+      },
+      {
+        "height": 2191,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfVf8iQO-wKrC3KE1avcUdoH7PErPgbb6OlfqZ2u1AOf7RncX-8Qkd4DiUp6odcDIm5avWeXCQyJa6kiYVnnONFObA9TMNxyKX4J4EEsM682eM_TKN_UfaJQUxKa_Mt5Se9e_UIP6R_tBes06vNzSTza0zBlWGbqnc8ihh5S-y3hWE15PIHFMDXyMIveqBAWU_PiHj9LLZ5Sm7gV7FnZiYb8H0iAGmELWL7lD-Lb88X3tOATE0Y9Avjgz8qlkWuDvubaTwgklZzYcwzbwQSajLR7UlYYo_egRgAfgwh-gvy9vh5OWD4Pg5uo1bzpgK2pjURcCVW9GfiH-2yc15iuNshnThBJakYuyNtjfj1Mv-SnuTzSHf3SGc5VA7-Z3nmr0CVwmHYzTKAuHpa3p-q98T-LVOmnS6hWC0tv8lDwZz3r8Sha",
+        "width": 4656
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109647177466087631420\">A B</a>"
+        ],
+        "photo_reference": "ATCDNfU7kj_oOtC9cRxGn3PWsFyse5Jn02x4asnRCDhqApTZECqCvKyKemd_YP_ZoaeAT_8yOI3Sa3eUrzWgy10o5n5GT_GBnaynF0jnWZBJGfqGPjWct3yn9n5BhBKS2IvWOAajg_dMO_7U3kAZHNe8wjRPrCTVj9PzQ2ITLgVcMcSgQUsVr7JXqSjTo5r8bXSrKlPLUeILu5H2ckZjUTLlDvIRXZWppxBGY3Ivak3d3uUhf6yoylPeDo4xevOGaPg7l9X9rW4_SoK-zIVd7HhPvrEjXVS9RVjm20xwfN9t5049tx1bvX2DrJwyjOicqniLCNC7VFphvDWAHZeBe6yWqjmY_J70OFHjjWTm0NH_nE_JTywsGcr2mTUVH0Ek5wWgjs0VjGxA6ozLCq_mz0RKKELnZB0AAf2d6iKaNILX9FDaK0U",
+        "width": 3072
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfWSdyjFOSXULcr4ipnE_MRdmeuUOfmq1mlm3m3ZMk9ztw1aoOzq6C8unUtc3J11bilAS-vQKt2pZodYxnJYGlInRHOUb81LE6SJx43soKeVzJDuoHdVH21W2xaKftd6UgrBLuczqfXMKTtQ3aDyGzlJePo-4V33gFj2EiPeoeRnU4rlKGJgpucWC1GuoRBDDdv0KSuSJW5bSeURtQRNN9WRCpZOu0xsuuVgXne35M8FrhvOHCY5NJ3nwexGkV2UQ-Vxgq__W2n6aUhZn11Sm0fi83SCfVUWM4FjwTvuWm5R1eKNJxmo9owMSuL6PZf_uZUJmD4lTFxv06-_bPHLcZr9X0r_VT_G91x09Oaoo9Uu5befmSI0F5zuecIfGdnyqh5YGSFHzWGWxycAD1nfpu4AY8O0MlrstkTlpLR7YpDlqw",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJm3fdDjw2yUwRCaB1DeuBP1Q",
+    "plus_code": {
+      "compound_code": "CW4W+G2 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW4W+G2"
+    },
+    "rating": 3.6,
+    "reference": "ChIJm3fdDjw2yUwRCaB1DeuBP1Q",
+    "reviews": [
+      {
+        "author_name": "A B",
+        "author_url": "https://www.google.com/maps/contrib/109647177466087631420/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEc-5CdPeKl18xlkox3gIaeKou45jNw-5EQDsuNAsG3aOSjGgu=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "I haven't done business with Ryerson myself but I passed their delivery truck yesterday that had a load of metal fall out the side of it. I don't blame the driver, this type of accident is likely caused by the load not being properly secured at the time of loading. I'd recommend they review some internal company policies regarding properly securing and transporting before another accident like this happens.",
+        "time": 1710599950,
+        "translated": false
+      },
+      {
+        "author_name": "Gurwinder Sahota",
+        "author_url": "https://www.google.com/maps/contrib/105804538556719208732/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2WEs3yAjyZ6986z52NJQu_KKJEmfzLuvpklMRE5y8nerVwsk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Fast unloading .. its on the last dock number 14 …. Overnight parking available … washrooms available",
+        "time": 1695822107,
+        "translated": false
+      },
+      {
+        "author_name": "Sehaj Kalkatt",
+        "author_url": "https://www.google.com/maps/contrib/114398508138396270987/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYu35oeObffKQGqTkoH9ICkK14XjFqFhMWqVgX_8_pOkkqBsI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Teach some manners to forklift guys .",
+        "time": 1739286942,
+        "translated": false
+      },
+      {
+        "author_name": "IAM4HK 33",
+        "author_url": "https://www.google.com/maps/contrib/102562011978069187526/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwYj7bfZZSFjNs3efFFypN2VmZAuvDlPhSmIXhGL3mqS0MKp0=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 years ago",
+        "text": "Good luck talking to anyone...!!!\nNever any answer on the phone\nService -1",
+        "time": 1549987111,
+        "translated": true
+      },
+      {
+        "author_name": "Jason Fraser",
+        "author_url": "https://www.google.com/maps/contrib/118173791965127368857/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJw5vhGWfojgLvX4EJSlzhCx7GveH5QX3MbgrQvAnNCWeAh6Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1712932509,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6070713669261828105",
+    "user_ratings_total": 7,
+    "utc_offset": -300,
+    "vicinity": "200 rue du cheminot, Vaudreuil-Dorion",
+    "website": "https://www.ryerson.com/locations/canada/quebec/vaudreuil",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "query": "Esthetique Claire De Lune, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338605.7547832,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "91",
+        "short_name": "91",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "5e Avenue",
+        "short_name": "5e Avenue",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 5K8",
+        "short_name": "J7W 5K8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">91 5e Avenue</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 5K8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "91 5e Avenue, Pincourt, QC J7W 5K8, Canada",
+    "formatted_phone_number": "(514) 453-4254",
+    "geometry": {
+      "location": {
+        "lat": 45.3820101,
+        "lng": -73.9938836
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38330353029149,
+          "lng": -73.9925134697085
+        },
+        "southwest": {
+          "lat": 45.38060556970849,
+          "lng": -73.9952114302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-4254",
+    "name": "Esthetique Claire De Lune",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJryceU_5HyUwRxKyxSuzDAKw",
+    "plus_code": {
+      "compound_code": "92J4+RC Pincourt, QC, Canada",
+      "global_code": "87Q892J4+RC"
+    },
+    "rating": 4.7,
+    "reference": "ChIJryceU_5HyUwRxKyxSuzDAKw",
+    "reviews": [
+      {
+        "author_name": "Mimi Tabaczuk",
+        "author_url": "https://www.google.com/maps/contrib/115671849898690038646/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmv-EIxRttsD5OwcsXXd60gqA5Mo2iliKQulkl5t5aarUb0sE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Manon is amazing. She waxes so well you can hardly feel a thing! Always friendly, clean, and professional. Love this place. Best kept secret in Pincourt imho! Hth",
+        "time": 1495722092,
+        "translated": false
+      },
+      {
+        "author_name": "Erin Mark",
+        "author_url": "https://www.google.com/maps/contrib/114004493264903387406/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk0WiWt8UoSDyG_O1QIYn1Wr3h7hUGPNC-9y_xl7wPhgLAQSvH=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Excellent, friendly service, great prices, clean, relaxing atmosphere, always a pleasure to go here.",
+        "time": 1502331331,
+        "translated": false
+      },
+      {
+        "author_name": "joanne boyer",
+        "author_url": "https://www.google.com/maps/contrib/113777495784516318324/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIziChNy7qq3tuCNEtUgI34JJVU-q3Bi1nHvIkR5Z2G1kA1Bg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Marie was fantastic!  Very professional and friendly. I will definitely be back!",
+        "time": 1581700871,
+        "translated": false
+      },
+      {
+        "author_name": "Natia Weiss",
+        "author_url": "https://www.google.com/maps/contrib/100268877263490508362/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_3a4pPzDef2Zt7VAzfUKFmQZ4QnDTkef1YAD19o2k1GuXKxSsTQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Great service, Manon and Marie are awesome!",
+        "time": 1491879518,
+        "translated": false
+      },
+      {
+        "author_name": "Karen Leisk",
+        "author_url": "https://www.google.com/maps/contrib/109070436748433531366/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKsOX2FyuCtDWfLSgfv6bGD0JomeX5J3THC-C4iFLYr857VO4g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Clean, and friendly pedicures are perfect",
+        "time": 1571527053,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12394121594156461252",
+    "user_ratings_total": 17,
+    "utc_offset": -300,
+    "vicinity": "91 5e Avenue, Pincourt"
+  }
+}

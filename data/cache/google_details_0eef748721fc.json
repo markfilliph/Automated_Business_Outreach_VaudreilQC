@@ -1,0 +1,447 @@
+{
+  "query": "Chaussures Yellow, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371477.2440484,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local 900",
+        "short_name": "Local 900",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3080",
+        "short_name": "3080",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H1",
+        "short_name": "J7V 0H1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3080 Bd de la Gare Local 900</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "3080 Bd de la Gare Local 900, Vaudreuil-Dorion, QC J7V 0H1, Canada",
+    "formatted_phone_number": "(450) 510-3177",
+    "geometry": {
+      "location": {
+        "lat": 45.3976246,
+        "lng": -74.0562802
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3989978802915,
+          "lng": -74.0546850697085
+        },
+        "southwest": {
+          "lat": 45.3962999197085,
+          "lng": -74.0573830302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-510-3177",
+    "name": "Chaussures Yellow",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105911455532717535132\">Scott D</a>"
+        ],
+        "photo_reference": "ATCDNfVPeo3GQnhZSDSD3Iou3Qyx_rBY54BiXRi6V1qBNEeBl5zY6vUmqejfWw5BA5ZZd6MiT9k8wyq3uxZ80_SKw95dbiqapTjhGuM8DdKrh6I0wLBlK3_pNjp-wWnym60yf-PCFlBpyxbkn35tXkGo8w-ZYFSGOmWEWN13pF-Sb4KuiV9FbndIQwoOrRdbGEA3sOhlIcR5L_fLqARSehZt0NmZGkPoivb2uKDXgFIAXz_dXOw6HLLgtT4O0IYUkFJX9OyXpFe8m56pPUjw2V2OHGFb9jG4f1kXm3rYDvV3fn__t9g3rzMoCKuVbKtUlazMbBKUzOdvUFl5hU17TqUWyl_dFAYNrT_g9EKvsm2NZ5tiUufkpD9FtSA1c22lPZYRTYI86oApP53vVhYKAYU5creOxt3t3J7iyMgDW4hqxXE3aw",
+        "width": 4032
+      },
+      {
+        "height": 968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108034422866029285615\">Anastasia Laborde</a>"
+        ],
+        "photo_reference": "ATCDNfUSj69mnqK1Rwi4lma0WeelRU9awOxP4EiepWQBZXJbsnThmrt74pOjITtlQPmwDd1mD2FmJ-xYTaPdXb-W7XYZgavAKDn0XYRqSNfwCQmE92a_JOjd-6vXtseoleVVne7q38JKrYugAS98PMJx8sVOTI-zPCkS3tk_-zFYQ8EgXT_eMKY7ZC3bf4wMyixQ_L3JNmK7RAMLbCMuZH4hj3lII67g4lRauGogpDfytQP_1m7onOB7Sfyjbztc5UEU4aD68042fMlP7X3WVuTswMzEQedV6Pl2lNuhr7nRlHNbLbWurxfNRw8qI0BvfKZE7fKOUo7f2btfSNxh-avRAF6wIoJp2cxRuVD0ywoZuZHkOrEqOd0oPYiudZDlNZMxfHqeIcyb0V2nqxzrOiDe1LhHBNe0z8XxG424dPTgkhn1Bw",
+        "width": 726
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfVdDCHHdCBpypK1iGKS3mThNKNHS4xZrtiNDMbOmiR6AaAq3MKMcUUTB2SnPuJdUT0fixy59QsmF3Z07uu5JuFBKBrDtdX7_J7rKXzp5JIdjsUveFMc7fAaSyoRKqRBKlBySad0VcfbFMwRjA2tFV4jCYsUa4HMfBHbiaKW54gsX9UpIk2L-UaqP9N1rLZunfK7SGszMywPecUcfWXlbhO3Y7eRbcm6PcusahCihuHMhVIXTpy7hEsHx517m4tSqsG1fSaVIzXDWVmF3WeWLqQk_YWFLSW_BBowcdORwDMP1HGez4VDFkjTeh0iAHTp7dnO6ChB7ruLOtH0gSpY7q8iz1KLQRunmv-A3dngbR_v6zuEbzyCo1Ji5X89pd3K9-0cbGKmK2eWZCYVnl_cnELoIVf5exTNGrDnhdmPvO62Sg",
+        "width": 4160
+      },
+      {
+        "height": 968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108034422866029285615\">Anastasia Laborde</a>"
+        ],
+        "photo_reference": "ATCDNfVCVH9f1WLAkbUjNaeKMEErHvRVTjoa9uYqyCMwFkRLuaZGNSvrWf5Jm52cG8Y8dDlHVB35_WvLdfTW_8b_7TvJWtPnSJWJvQohr6JiJnonmXXT9jhwWiJZaV2wi2cuY_qO1-a4rE7KArGv-k55caFHuFBwtGEaT4czcWA0_c5gmSIifk5U0ubFLPZVwf0mua3ONihm7whiq5TcQ0z-Pft-IZeYyFkLEvm3C8jmLLYghB8jUhalHe7N5lGDUyAoU8bUJ9CXgfxM6HITVpx83_81hRk2kfw1wRfowlUVdp4RIAQafcnnmraCd0P_Ff6dtidWsvqYjSeExg9sR5m5pC8oo3N4xM1JQ0tVNX2PColSXzc2fGZKwwgK7t5rew8nmna86VYCIXrpYgA4Vu4yaxEGQxGhyjoDQ4B3wbm_9ic0NSQ",
+        "width": 726
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUHDgaH1cmWsoCm54C6TdJQtyfZ8FSbMmdo3lyX_IeAP6B62lR1cOcU0DZpufYik_tr66jBUUcr4xrqhNvtYQSjYinpRZ7L9QPsK9ACpaNea_WVz-ehuYS6eYU8B87MAyLU65TpB7MY34CqzJgJl_OnIf92QNAfvt5ZeHut8-nL18tg0SC3xIpQrryZwfQUzGCd8tQ5VMdQPbJOZ-K-b8WM3defyOgyh1qSRFNZzuymiAOC51LxicP_vdSipBpOA7xmbyPD0vOycZCZn3JCOd0enTapfO8c6CT6AN47AOiny6-739Wdmxi0mnckXfdy8P3_o7Hy-FFtdPn4mc4-QPOxbxmI-HfCkvRmjXdjFp7RxOgMkW2ekynuO3BF78xz1mIJ8ZTbX5HL_seusFJ3gVYL1I6inh_jBbNwAajk1ec1e_E",
+        "width": 4800
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108034422866029285615\">Anastasia Laborde</a>"
+        ],
+        "photo_reference": "ATCDNfULBJ6mk4w3BkImzL_9MvaJq32nrXfdKAzbxyTKWOW9F4XO8v4cGHas7FwSrVhqGR7SwL9frZhq6RiZ58_WbFe5mbgyIoZaN5w88sP20mzeHzRu0uSGQ_P9eyJ0OXoPKocVM5bNovKY8bjLXYgdi-WLUTWlzS0TXG5sGnMGy8zAfuVlapgt088hFoXks8k8uFmQfM8_Fym1Yyjr5U7c1cTI9cZjOHtL5UAxKaCZReimttxhbYF45jlEnnpH4Sco01cA4GRSK4z5qIcz-6h_scgQW5etpTV0jQtIL6DwgNo9dDG3UmR5h5Wx2whJp_uE2-_8yDK5ejYriZ4gObuERP4TzZVRjqHpHEZSI7itdT7tPnHdbMbT1XyV-QHLKt74MRPJdvLDo7ZnEuaHmAz9UydSABkuCwbuPUwDYTW5Ul4PdH92",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfUzPdX2yZL9iZuwB3NE-uvUceAg3xxH59lYjkiilwQg3hxR9QknLehzDvTCmPhlxY5UWUVq7RB8G6nTWhFxSG5Rv_0c5wXbmq3Vog3Kbf9in-Px8dcNBd3QkV61pNRNMtvM0qNSUgQ4laSwJX4k8LQqMF-OrBj3YEcer9lK-S6V5bPdIjmOrpGOSoBpycFYELMEXY5r-BnrJ845C1DmA7XCUbdqDz7O73ykkrEpIofXevzaJ-Uf60PO-DXf64XU6okKlHpMkOAuBTqG2aMDzsZ1KRQMgYAcYo5_-hVO15tc_Kmp2NHCYpcezzaSB6E0ifBpdaQR4-_0fYBvRp_Sz15FindBdNPLEaZQi3ZQ_uCuHcU_T0LGTKimMwBaMQd_2R-5FjNrq8-j1mmAXcfDjYAj0IVU9JyjYk0DinCZTMizN-SrbyV-MtRhhOnaTJad",
+        "width": 3024
+      },
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108034422866029285615\">Anastasia Laborde</a>"
+        ],
+        "photo_reference": "ATCDNfXpuNPeKsbj9FeLSFtJA2ADf7j3KcJOgvdTija0ilVgqOnS8H9T-IeBVMF1M0vseQZtmRfbcFWAPCRRboKz81zn0zBuED9HHWVi-K7Ym_yL11uC18dljZkKAdP1m_R89bPVtlCy3JKyojrwjQmy4pVyVCMPteiIVHTh4eNNhIq18mqFH9WlqTtzlx42hcl8XD9TOvJtOUIlxrHdwXVHzs6dgCDh3K8gKaOcBS4912C2a8iSl79GpA_rP4bWDwqRy9l7fzXuwFnefYJibGUI4fQhAn69nHs0MEDq6IuJr7VhRsNhaGqSiYhjMbrOkmTz72kwR-e-qVYBoDVV59Ajg-sgRVf0SbB7Dm-z1mp8g7aiML00XVbHuSvuw2uPwcC-vp0VHiCcexyi1Xg8R5YC1LucuIHxOnnXbdhEXHBiT8Pflz4",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108034422866029285615\">Anastasia Laborde</a>"
+        ],
+        "photo_reference": "ATCDNfXJgZJaZvzGpSKX2tdBRBDRKm_ieBPGOMNMLepOw8B7bqbj7yeIgDqKMW31hEQfiZpub6dsDuuPGJvjmCnMXtC3O_4GwbYj37FqbJIvGBDbgi4ZDO9__xpZH0jzb01CWtO2GCT5Dtr7v_XQnMHvDxpK6kgtkOCAN_KrXceaHQzAkjiGmRb1BwlLJdpXTXQsCoLimqs7ZFJEEvZCXI3hdTjHodRo_wTSCMAczeS7m0XcZpVF599YXZTnAtvgJvwf9TD-FMHhBVHI6e9c0bSG9V1-RVaQ5mFMAikG4e7Jy2QsJAVJJpGR1Bc2_GogV4acASrf19a7OCGn9_HpAWjS7GeXpvD-W4gxYrQNLpnKxsHH_4zgmdmdQv8d-Pq0i_WPFNYJyh2cLqkk-euCgPX3aKvI6GNbuSPp4v6HIADCgMrqqB0",
+        "width": 2048
+      },
+      {
+        "height": 968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108034422866029285615\">Anastasia Laborde</a>"
+        ],
+        "photo_reference": "ATCDNfV-h0KX9zV26dZcnTWw50Vn2Yt3vT8ROt4YtTVZhzsWO9cxt6nw8d3Xu5JghxyKTjfPAZJ4FMXd6ngkOjdoCSEPNeAH9NsmoMw_lQ1XQXhEkHVLsg3zySYVqDU6OoQ-wh45GDzF8PgFFe0HzrCdsOXL5dszgcro7ODqN7I6JTH0WbsQsap_PZEinz6C5PBf3mm4ci5kNhTY35vdaeOZTcNO-o4PvgGXQMoQchaGPBRYdDbrcyn9bdbknO2GiM1LipaK1lYBVFDVSoE2CKdf9l8t20ZACNU0_EWyyxapPEh3LBt03i0v_5kW8snyTHuBKBOSfo_rN5-NcKTCPl21sQFhsN8rrWkANxVwsRwlbC8aQ5hPFAGLhPC9ZX9_oyyQXY_04OMrsjjzOGpocpOXgKXpfy_Miur3JMixnZfTrzv1uR71",
+        "width": 726
+      }
+    ],
+    "place_id": "ChIJeYHw1SU2yUwRf2UfJBiSKBI",
+    "plus_code": {
+      "compound_code": "9WXV+2F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WXV+2F"
+    },
+    "rating": 3.3,
+    "reference": "ChIJeYHw1SU2yUwRf2UfJBiSKBI",
+    "reviews": [
+      {
+        "author_name": "Janders",
+        "author_url": "https://www.google.com/maps/contrib/112416861128266348084/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjqOnd49E_XVA47I4XWpAjfyHj-tsIqNNYfCDbTIYBUijVEL8=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "The older woman who works there (said she was the manager) is very rude. The main Yellow call number she told me to call was also completely unhelpful. Shockingly bad customer service.",
+        "time": 1768452721,
+        "translated": false
+      },
+      {
+        "author_name": "Cristina CV",
+        "author_url": "https://www.google.com/maps/contrib/103883127593302382203/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOliOF8tD3k43jiDGsSRdR9Jq3czSwfOVK7a6G0D6Af7Uw8QwlKQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Friends of mine came to visit from out of town and wanted to go check out this shoe store. As soon as we came in the blonde girl was speaking French to us, which my friends didn't understand as they're from out of province. She proceeded to give us attitude the whole time we were there and told us not to touch the shoes that she would have to come get them for us. She made us very uncomfortable. Will never return.",
+        "time": 1768516882,
+        "translated": false
+      },
+      {
+        "author_name": "Jackie Lovely",
+        "author_url": "https://www.google.com/maps/contrib/104243592099854967731/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU51DazVX0wvj0m0AwcEQzyn2EIw-wUAWMlug4diH_jls4-j0tg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Love my boots the sales associate was very helpful and patient with me lol tried on a few.",
+        "time": 1768702745,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Kaur",
+        "author_url": "https://www.google.com/maps/contrib/102147826805276593661/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJkHr3fGevWsh8TqIMXX7dtULVlTBi2Gg2W8YMBKtLzh_TyaM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "6 months ago",
+        "text": "Hi..  .\nI am very respectful towards french language. But when it come to costumer  service i think need to be good human first I don't know her name but whenever you go to store she greets you in french which is very nice but as you tell her sorry i dont know french she just give a attitude . Well she help you but seems  she doesn't like people speaking english which make you feel very disrespectful Rest of store is good have a good stuff .",
+        "time": 1754166247,
+        "translated": false
+      },
+      {
+        "author_name": "Hasham Malik",
+        "author_url": "https://www.google.com/maps/contrib/115783728689878909594/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIFO6xz8-RQ-k54cOJ5VFZD8zSLK8AEH-T5G1xDEvZJ4fcgbnm=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Came in last Saturday for a new pair of sneakers. Marilyn (I think was her name) was an amazing employee. She really helped me find an amazing pair that matches my style.",
+        "time": 1663869575,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shoe_store",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1308456324134036863",
+    "user_ratings_total": 78,
+    "utc_offset": -300,
+    "vicinity": "3080 Bd de la Gare Local 900, Vaudreuil-Dorion",
+    "website": "https://www.yellowshoes.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

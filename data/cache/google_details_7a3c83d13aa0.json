@@ -1,0 +1,425 @@
+{
+  "query": "Gâteau signé M Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340195.167373,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "unité 7",
+        "short_name": "unité 7",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "578",
+        "short_name": "578",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8H2",
+        "short_name": "J7V 8H2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">578 Av. Saint-Charles unité 7</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8H2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 3:00 PM"
+      ]
+    },
+    "formatted_address": "578 Av. Saint-Charles unité 7, Vaudreuil-Dorion, QC J7V 8H2, Canada",
+    "formatted_phone_number": "(438) 523-0176",
+    "geometry": {
+      "location": {
+        "lat": 45.40615710000001,
+        "lng": -74.0337523
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4075500302915,
+          "lng": -74.0322667197085
+        },
+        "southwest": {
+          "lat": 45.4048520697085,
+          "lng": -74.03496468029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 438-523-0176",
+    "name": "Gâteau signé M Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 3:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100085720761656400381\">Gâteau signé M Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUXS8Kj_xunL_0LdHpOoh_5aDL5fdAKLst_32skxrOgawHxFsuW5jh-sH7fl9kELKlTl6B94Ol8QcJdGb85iCpX3i5Ex4i8FpMzKUCzbKmGhpe0DoxM7rBeb-rPq2MHjO6Yg-tyY210l-pbSxdWOm1rVmwN9-0zphPTzmiejrY_3pHh1pQ3mQjQsjT_KXPt1H3oVPl9UpysSw98Cw2JyMsuhtILea_NovzYcKrD3dzXzhW24MJmksmrfcUQMAmTig1q10FTz3WURojTx1_bC8VsnbKP75xpED4iZRrw_8AZxg",
+        "width": 4032
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100085720761656400381\">Gâteau signé M Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWOc41Mvv3AR-Th4BjHXS5JfDARVvGevFJPbauaVHqxlDC1axJmZVi9xDi-yxnp_sHDG1QL_U4Ps2YWIPwC8xBy965VNFxfpqYnF4Ii0sWsUsPBU3OIgZXkO6RsvIbITz3Bk2RmPGFWCDXI50HJrz1naNBtBZPLvzPUDM1qjCiHAPwRZiH4eaaOolA4zpAoYPI2xM9uCs0EZlsiUdSvBCs4tkvLmng1lSw0wSUQJBCRdMdUArkaet9wkPp8dUsO7YkfQ8SbwvbdyJh2K2xxzYKa1tJpCqQ3v_BOiJzMHlbN4g",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100085720761656400381\">Gâteau signé M Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUR3iI9wkhRdLXLpFVyUWcsyMiEskdd12ws0lUal55wHDRsBzTT74TpZcHkRPD_GZkMqEiI-GTXshqFA7vQhbw4SKD2Jl-h_C4yBQP1F2hY9oyiG_zFiVSV6hRhHhfwe_BKBzOGoSn43rlA_K2rCshlapT1S1NViqUISKV_yHvGiphtHk5rfPoiUWyb9IzP8RWelDfhHJhhwPbGrxX8GPMHcPiCY4IExtlYmr_fOheLWLFpSUiLf0jzRxUTsL6w_Fhg1_CnzLq7xPQvY5dl3Kp8snc3BTWKRyOVlpiwDXm-1w",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107985426651481005585\">Kira Salez</a>"
+        ],
+        "photo_reference": "ATCDNfX3t2b_smguFHH-e31pk2xO7NyekU67LkPntbFUkW7z0M_yW1F4X_5zioxpg5hQDutJqn57sTeos7xTLQ72TnKORbmCBhdxDlRBVhk5_tSAgKHcSIM3SYSaOkF1Qx7pTGOoJem0QbWZKbtecuEs8GxGtsWnhgRoNQI2AGiSuCkhK04_uAwBA74Xtg_WoT6XosFm2wV0yTADhyXYRtT0DXmUxcWn8tlhg0-xgy5mGYswK-ujmzOM-T97xeaUy3t31Yk73aHmdsUmR11C2WstY87oOQ0lz8oPv9U52RVbfUM_MaZx262JQ14ORMWa4xERXJ2JRTjVBTF0iyM3Z0YHsw5dQajOoObHgr9XP5oRurKtysEAui3Sef1BwOkIgT3KBIOZExI6ASnGhdc-y8xhTdORfXGR-o75cZOXotCgR9E7Eo3km1NsChvQYcZoOA",
+        "width": 3024
+      },
+      {
+        "height": 1694,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100085720761656400381\">Gâteau signé M Inc</a>"
+        ],
+        "photo_reference": "ATCDNfX5pnATwrckHDf0sUhboxh50zQ3YJ9v19NnYp2ssReNVdn6bOneh545ZcgoCpTMt4wZGmwtG-rZ_V194jT93z9V_0s73arCPiiKRSalBo5B3wI3HloMZ0Jz9kuEP9eYcEZGtzct_rgKvB5AZ7ZkpVFv-W-icg-5AmVV-CPCcvw-Gy4IqvYiaATKhG82LBojJ9F7Bk5OfUMri1IqtclDN8YbHb6bdZRDjOvLqWsM_QYWyvAisRIrWGJdrCBvGrsiKI2R3ST_Ev04qYd3HintN9s_nqX-X1_H6H-oTJ3RnO_zoA",
+        "width": 1920
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112958853370268124002\">Ashley Ragnauth</a>"
+        ],
+        "photo_reference": "ATCDNfVlbxBuZHqiwUyJu5nQKBogcT-WqPTO9KvhtPZeRifmBuq7jfZ-VC40noVUhyxzq9ViDh7RJKFm2RzZJfiwuy22dpckEuCQ2zdxEJTb_HydqssQqmVj9lHzCtHBhVPDENn9Q7LfPfCjqPxTPnDRI-sY2mwZch03X1DuSXh10HfDIxuTwNWtsWR5NoKyMTkDZVwlEkc9rGrZqRTOnLpYyHN1ZBTOvqRU7FMMOIIjEZ1Itk1N6aLMlH9ldW7ckBPpmlPVLv1fqu1ywSLziy9d0A59WGZJE_ke9_xq5Sa5xkDDR2u04_022GhvIdtBiDmtC9Swuire6M7DssdAHoZTP7S6l9fLXcWvJPzVP3aePqcvatLol-MwZsR8KT7ZIniySqGuvxwWEslcWLr4G2YQMy3ulVD05j9Lxt2552cUB-w",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108126290361423734026\">Camille Chalifour</a>"
+        ],
+        "photo_reference": "ATCDNfWxUIPTyDFp5biTMySqpadDnoZRudvJAl0DOdssZdiTJVfXtTSBHxye4uW6ZqcUlxCBqnUJQl-LQlTNu_meKRmpyUL0lLWp5NfwQY4n1AoUgMGaE0gW7iNBnapch4f9iE3N374eqk84lhOo2gf0QiMZ8VrzXvJU4NZxZIsQrKUII1jn7DyQOpikBxTdV9mvT1tW4lkTDKH3YP6AQmuvhz27xtu3NSjhurmfW7W4po3NfTOTGwtcybb-WIU7Fdda7nxcw3Hlh388h83wlUdI6ITCPon_gSLq_f3waBQIAjpgN6P0m59Ayou_M2KS1cnHmJZM4MgW8rAv_k184PyCBD4eODTV87XFQR_vn_PRNetvnDF6UgLnOFZIsBqm5rxPbMjHLo8qtBtqSk9s8qg9YkHk59_Ewn-RidBDN3nDnSceFItt",
+        "width": 3024
+      },
+      {
+        "height": 1264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100085720761656400381\">Gâteau signé M Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUgPWJXduRe_ErU4P7wn_iRDpsavRfrJlM3jN7YeDu3T0MVmgPkUOmxxYIn2te2Z_8zbVtg3mjtG2BQlqSoR74sLZkEKmXB8oXA80uPw_hfga-K2nA24ZHp6Ct3nQxLqPWrGxvcYRFrsJQ5s-3Anm6drfNy1_o0HeXf3E5nhsCoCC_CDL6w5Y5hfBvlH_nge7ZX_LDNXGA3lzVKN8IKCl_-YRC1vVZO6SpSU1FsA0f6PzcWqF7K_u263PdXRH5DLPVSXh_dEY4NMvgDNVbGMC99yDle_h8xMAENXRMiCFN08g",
+        "width": 1080
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100085720761656400381\">Gâteau signé M Inc</a>"
+        ],
+        "photo_reference": "ATCDNfXX126YeAEscaxMxW-gO3GezEdJCgvDVnV1myMRa83lRILEggIJbNxQ5ev-OjeiZ_EURkTmWxSfcQgg0EUT8BxciWmFvGeYQhjnjST2zepMQ3lu9ZsI3TiSUBn3ZIR-rL_l-Uy6SSx2KkkVxeNuUVZnSm0eluyfhE5QXRhmfH1N0JIrnj2ED1pqnkzx-LBvih4j1HRXiArku-HOPp2-B6gq6rqZhem-nenSwCaUyzl-o6tS4dRsuLJTVziUM9yxq0xLQY8lKahIJvZCsLZIiYzFm_ZcyDri-9-krcPMZaFJjQ",
+        "width": 842
+      },
+      {
+        "height": 1541,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100085720761656400381\">Gâteau signé M Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWIJ90Sd2pTYh-TxuwV2kmHj9OwMpGadidWqHg4cCBot8gHchIFT8dRTnd3RRas_eXazhPvEYYz__xaRhcztdx1oLpvG5uojtGyC4DQZ8rU6h7EbXD8w3QLRD4e4Vwcb79eRcG6q9ig09h4Vfw6yZBvmEyqGXTHovLecufI8nIREd2udPmkthxkyCPRZoYNIEU8bf1SfmW-9UZ6We1XnjDhiJCYay076vKssH4NxF0tHdcY-TBorGr-u-uRYH_MOkW0qMcUJN3SsY2PNgJ9xDcnuQHnlXmqmbGePCQNBE4DlQ",
+        "width": 1170
+      }
+    ],
+    "place_id": "ChIJtZVgsy5IyUwRkSyMrDXzISg",
+    "plus_code": {
+      "compound_code": "CX48+FF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX48+FF"
+    },
+    "rating": 4.8,
+    "reference": "ChIJtZVgsy5IyUwRkSyMrDXzISg",
+    "reviews": [
+      {
+        "author_name": "soumaya A",
+        "author_url": "https://www.google.com/maps/contrib/103084767447442273851/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNVLdz38WVaxNdoaseZZ0622RYQoGcz0GPwjIStFyZ2nIL8WU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "I went drove out of my way to go to this place because the reviews were good and they looked like they had a lot of cake options.\nWhen I got there I had the choice between an Oreo cake and this vanilla cake. I got a 10 person cake and it cost 58$! Which I’m happy to pay if the cake is delicious. The cake was boring there was no vanilla flavor. It tasted similar to a grocery cake that you found in the frozen section. A little dense and the buttercream was very very very sweet!\nThere are so many better bakeries that make better tasting cakes for a lower price. I am disappointed I had such high expectations for this place.",
+        "time": 1763340826,
+        "translated": false
+      },
+      {
+        "author_name": "keyiana marques",
+        "author_url": "https://www.google.com/maps/contrib/107861327988642027689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDoo3T93RIpftcmXkyn4k--s5ACHqxU5wiXjdWTkCcsRsMspiQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Melissa made our wedding cake and was able to make our vision come to life. She and her employees are professional, efficient, and crazy talented! The cake was beautiful, tasted incredible, and the process was made easy and stress-free. I highly recommend this bakery. ❤️",
+        "time": 1756472891,
+        "translated": false
+      },
+      {
+        "author_name": "Natasha Badree",
+        "author_url": "https://www.google.com/maps/contrib/112462343394982399182/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0RE4v3fVnNZfQ2Ufkx1rqg7bW-JNdsDodA042XUOE1D8Ttg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "I ordered cupcakes for my son’s birthday we did 12 in a variety of flavors my husband said wow these are moist . Pumpkin spice was delicious all the flavors were great.",
+        "time": 1762455189,
+        "translated": false
+      },
+      {
+        "author_name": "tim curl",
+        "author_url": "https://www.google.com/maps/contrib/111085336009541136839/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwFK9_82cRpAxc_kV_TSukdZKJL4Z-4jn-vJPZZypEeiAxXQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "5 Stars\nI ordered a custom cake for my wife’s birthday on fairly short notice, and this shop absolutely delivered. They even created a “For Sale” sign for the cake themselves, and it looked better than I had pictured. The cake was stunning and tasted even better—everyone at the party loved it. The team was friendly, accommodating, and quick to respond to my request. I’m so impressed with their professionalism and attention to detail. Highly recommend to anyone looking for a beautiful, great-tasting custom cake!",
+        "time": 1758501388,
+        "translated": false
+      },
+      {
+        "author_name": "Teresia Lashley",
+        "author_url": "https://www.google.com/maps/contrib/106309917872485211052/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKR9ZxHYJWiM4mADXDUZQbjYJ34rrBhH6i8UAkmv_qpbMoWHw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Stopped by this cute and quaint bakery near us and got two mini cakes: smores and double chocolate. Both were super good!\nThey were also really friendly!\n\nHighly recommended if you’re in the area!",
+        "time": 1761770043,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": [
+      "bakery",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=2891859847602252945",
+    "user_ratings_total": 208,
+    "utc_offset": -300,
+    "vicinity": "578 Av. Saint-Charles unité 7, Vaudreuil-Dorion",
+    "website": "http://www.gateausignem.com/"
+  }
+}

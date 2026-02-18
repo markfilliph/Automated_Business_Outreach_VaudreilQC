@@ -1,0 +1,456 @@
+{
+  "query": "Poke Station L'Île-Perrot (New Management), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339646.7486959,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "102",
+        "short_name": "102",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "15",
+        "short_name": "15",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7X4",
+        "short_name": "J7V 7X4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">15 Bd Don-Quichotte #102</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7X4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "15 Bd Don-Quichotte #102, L'Île-Perrot, QC J7V 7X4, Canada",
+    "formatted_phone_number": "(514) 453-6666",
+    "geometry": {
+      "location": {
+        "lat": 45.3909424,
+        "lng": -73.96446730000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3922402802915,
+          "lng": -73.9632685697085
+        },
+        "southwest": {
+          "lat": 45.3895423197085,
+          "lng": -73.96596653029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 514-453-6666",
+    "name": "Poke Station L'Île-Perrot (New Management)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfWHbRWcnERzgW-dPX5gGtGl9yTL55_Y_5e3I0DLuVjqPMHwemj9SgyP0foHz5nqgPXcG0KqDl062fwzALeexF8dJaOSEsYmzB8bJCNPMfRf-k_Hp1D328OjBXeAj9wYwVES92YO43JibZAu5d5S-UQPdLkwOJJd-uHL1CQ2E3z3oqvgdSqNhlw447TLBPwsCIjnYkmgMgDvPCEKHUT4JtFL5jhAoRzcmqs7BLU54A-kTaTA9ClHyprzE-6NAFHCVWNKWu7PR09rr7bX2n1lFVQCUoMiZipQ6VPm9j3aoxRqXgi8JnkLGNmKtaPNVGwfuBlKoYIwrjVmPAeDReaS0fwLNgLwwUvKXDm_jhoB4xV4fEyiX1Mbbe2Vdiuw9tY4nFxjPwEVB3h8-cSkLUZeYKa82YQ7QMoJ0zxrr4n6DCw",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112344838756260321762\">Jonathan Lapierre</a>"
+        ],
+        "photo_reference": "ATCDNfVPVXyrxU0OAagk5rPqoeBViJ8OJx2a8tRr_Xef6_kxkBfR_uNEVpSXHA5khnd8hpYuf6b76XbW5nRiY1w0z1TNexO5pP8stvG0I0oX2ujAls6tY_pmj85h87-uL6v33pPxLUStLGGPJWDSjp5YxLNROjub6cVaVsVOPj4XvElkoqTv6pUPbWE6XGFL7HKlB1Zmezj_EstATUzz2MhP3pfZHQOAdhxC5j4MZPJao3QXcoKsoKHq6T2AsJ5wAfrTiSfDcavwxuOY4CcAhj5WUHY9Y1yCDgnKSGMI9rWv7W3B4nFKqvApNRIgSCnWl6z54CzxDso3vip3w5314Rs_h-2jXtRUdQrEuJ8b65DezKBKRPWJeQPV00tjE53MmpqOw_LOaNL7K3GiY8pB55D7j23_Msp5uOFNBx1FgLW8-MMP6hsfakJR3fbW6xeH3A",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110924514710135332886\">Jessica Kim Desrosiers</a>"
+        ],
+        "photo_reference": "ATCDNfWTCDu2gYuk2D00YTyMtNyVGBLJuEuMgOZNHHf6igxKv3d6DX7sRIp_l7hbkYu3t9QCw_4Ewfe3aARWWIMzqXVk19B8GRep_rr-wsLv6p5kNcLYnC-sng2N9cS29e--uwnctYVbKNJty_-7MPOaKp2DKTORQjchWIDoyd7I1hNpVy3QolhfNvtUePN7wiFSQw4Hc4X9YHJm8DROg9sZVSFB53zRrwBZYtUNAqy6cdq8LOQif2bLD8BCOoa820Oa7XRZLR2A5xsg_FFrZjco2xdfAoIREQXzk1JBFnFxKqHZcze6FcexgkTJa3eWWdkchn93Ru4p_eM2Tij3JjohPqGh7Y7v5KgzriBQFGS-q498LIh_RpKzJXYEbPUQYOojKiEepjNd26aQdaDRMtLXhJGKy8wTIZrT7n5wIeMmDdznfk22",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVtmKqMggOdijI_ZGtFrcCBjOp2OIuRmrYbJzASu9rRD72zkSgBnZF2yHZop-7lwI2lWC4rr4aHtRnyZj37inWN_SjsbweRnAAjYF8pHBTfPYHyoyGqpo02dvRaied2Y6dcRG61Ee3_gaP5ojrm0Ae4oaXl8B0Vo3d708lSsfgW6djnbVq9xR0vlZIcoE1Xfbiu_zZNxVNqbnLhBmwESA62cSJT84wVWavLPOyQT0JhJAdxrJXI6M2d5Jj40WL4fx4BmDefw2SE1n0vhvI-J1JXpfCy2PRdO-bTyFeH1rq7TSDvRKpFHeykoro_GvZfo5p8D6Rv8c09WByUJxVvybO9AovMNTPeQfDjrqQupC4s0wkjhWHabiSgqAK2Y9gG4YCJ_DkJJ7aQifQItJ3mCQZ_po3YLzuWItto5Bxe0Y8",
+        "width": 3024
+      },
+      {
+        "height": 886,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116863694139047253577\">Dahlia Ly</a>"
+        ],
+        "photo_reference": "ATCDNfXGY0bmx849DJAv4ypEn8QL2KpgH6TsRgwn-_N1ahL7pBjxJAtM03SqlVWqiytWUhUwU43uqGx5H3YkzffVXB-IvUt6xfHXzjOGfRKks1oq4Sy5kbLpOAVnNjwxDwqlQlP18z7x1ftUKy0-lyXJvJ_oJ2tBBAdp0mAbPf5l7ra0HqtKg9SSuCdTS0vTN7j6hpca_LuLtXTn_b4pUi67rn_HrlT10OkSUZtfHUTnLGZpqNQKZDLvqONximrAw7Huouu55DRHSkaEDlS0zSXFAMRxaL6UyLINz-xsIlG2nLhioZFE9SsPblyOBYNIVjzkuVJQx4ObTkCYQe4I_hLpbmRXi9kS05WA-UhZ_xOV8XE0d1i6GMBtCpfRnM6JC_9UHzZmS4Tdv52Qwq6nK620PKd8PSTD8xcbYu0ULdD3SurOMA",
+        "width": 1079
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVsL4Kv_uw90x-A8XHv40tw1YqH0sid9y06LO0-v8yGr4XUilEUCzZhzA4SBWYritr97FdB_s0pF2g6DyaDu09o0t-ADS1nvz_nONZD5MWiBQ9L-bLK44M8_L9Hi1uCQC_bRYr2arrG59maEpyv41A51Io4bXx-Pom2V2AUZBQRyZSSxzfOWgz7K74CWEYvAsn9VE9UJKWnJQq7DvphjJF7ZNycRCnf6dOKxVbFumbHr7wnCBfme36wiea3glJKwkL1tAQE7_vzXkUJ7lhH6Vc3_3BdUbKkJDxiWHZ2Q73Pk-vWKTFuh42sdlo6c4aEfOrymrr4mb8jgFvV6ZHmJJbsOi-T9G9QZ2W-1RpMJEWhu5w3ESfUz7TlmQ3Hx3u6uUXStnX0zhYNXOUfVDKuK7rXlFDNrlZabAG_FhRzYVtGe0pC",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113526619919503047908\">Peter Crooks</a>"
+        ],
+        "photo_reference": "ATCDNfWowRcTHwnVI-3apE3ujKlJmxHQR0W-mRcCHzwwmDNpFmPci89WipCXTISJ18gebuhyH8D79bD2WVQdF7mBsqQtBNanX2kcOiVfhlOTo63N94JMw8O_nGPME7HQzQiTSHjsGmFqCzuY65hB_U3aMUqz0Dbh0RgU0bJUkOmGpJIOKQEY0q-Z8g0mR9tVFm4UbMW1N8Yc9BdzwMO8g7fjKxrlTYsWRkqCYZzd4-P9948g-j0PhDeCAw0R9TKcutQiA-rZQKoCzd7crMtM0VM54_RZv2fN2ROC_F2gXkF7eZ1pJ2J7-PfkrYy1idXNnCAv3R0QO_QrDF3xfCWklCNcUc6sdNY9XRfqHFPbXwFPc1f9akVygAwDvl15sjZVSe5JFSKywhplXKzTt0Eur24xv9VNu2s8zAw0-gr6Qs0JXAe1pA",
+        "width": 3024
+      },
+      {
+        "height": 2256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103211957506790224288\">Lei Mark Castillo</a>"
+        ],
+        "photo_reference": "ATCDNfW_UP6UKDg8ud88YlNcKuTpjUTTXqLOEsmjfQ3_Dfs-zUW7tdJaZR9Ue0txnHS5_RzTq3MJfunEDcFk_5ERcOzoRWK3k3v0FAPS_0o1kjuV3mMCAJXMQScak_c8cBNR5QEprXeVTGmAscB7uNnY0kSk9f-pszLIFuTGAHY-ggSW3cC_fP11K6fzC6pJov6_k8ECzdVLQC6K0UttF0BuvvWsEdWukRuIeFwyzZnm9Y7Dtiadm62cdV_mEcTYMx7Q-4eX5jB1PQIHcdRIQiwL9bs0xEp2kcuBk9XzJYuA8-8EAMBLfsPVOUf_Fi6hehtNHnbedCJJRvCRLgZLhdFKUghFxHZV2RCxH-XGQFPZhznGPPY67_nZ5_8mOPq2YKekWaVhw2i6PRPp-xk_tyrweLcQ-tw9c_AX2zr3B2e7ZEIt5bJJ",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100494383875724249059\">Julianna Ciesielski</a>"
+        ],
+        "photo_reference": "ATCDNfU__mCYZ98sUCtN8kY5pBwdEPYn5lRgOrZBZt0h46-WFZrTUskdIJUvZZLoTZm48w8c-VuXcOgwgXZ6XT1JAb9e71qHz3pawPtYjwx8zCvcAijwivrKjmqHhCyTn90Ww8bIszeCAukDbZ-HDnbyjz-5rGhxoNqwEnwGTH46Oj8OCS9mhu3XE6GrICM2VqYDbQLPd_x1LELvHxnU4m-WovH4KvgBO2gOgVr1_oPYc17YQMNAiKRG4ybxbRUfeQMd9yiZs-nFX7eEwDOQMXDqr0upN7RliEHjtMwjLpJ_tsRuhjnfuOASIS-peirsxIf6fQMuKeior3TBSi0IyHlKqO0IYBwbK8-4_U5ft5aN0vaYKYsdGHBECQpYV_0qmaomJZQMB-3yV1F3gxRHTxv4SvFCt7ptVmoIJM8E_Qyvg7nSNQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115164241118300764200\">Carmen Wong</a>"
+        ],
+        "photo_reference": "ATCDNfX64YQwkz-qTB9p4i6k6S1ppWtYNy0W8mTcdLpklXawbKhEX_wvuBn4uWhNAWQjXr6R9-gb0ukgLOlMaNNMExV1q0Ge893Xuq7QtA4hbY7L_u5FfsPtyjt1kemMbrEtWUUiQm5BhNmLYvlYNAkHmE-yF0t4Ah4r9PO6Zv_YI2VJjuNMHliNIGKXJy5f_d1uuKbD-A-F9zOkVWZJM2Ss3RJ1FjvlpS5yBhVWYqYDz5tdtpW38ryabfUpxDGKHJxljq4CxPqY-jtBPd2mjl1VONUmRC0n0E3gRWV1ROh_-mQhrBeAFTUYnUtpUnJGzffTfxgaMP4XxsEB_gMXLCYZJzGbKOwz-8CzQAu8sCcuoHOi8G0R2B_a69wehKldn_CiAN9R8-b0cJ0oMU22wz5n-VW5JpREExboPoB5i_g9QXg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJMxcWMpg5yUwR_5IA48BThpQ",
+    "plus_code": {
+      "compound_code": "92RP+96 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RP+96"
+    },
+    "rating": 4.4,
+    "reference": "ChIJMxcWMpg5yUwR_5IA48BThpQ",
+    "reviews": [
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Ordered online, but they didn’t see the order. They were able to make my order immediately. Should have just ordered in person and saved the time that trying to order online. I was worried if the food would be fresh, as there was a review saying that it wasn’t fresh. Personally I enjoyed my poke bowl and my order was fresh and yummy.",
+        "time": 1641769421,
+        "translated": false
+      },
+      {
+        "author_name": "Lei Mark Castillo",
+        "author_url": "https://www.google.com/maps/contrib/103211957506790224288/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU44_7Dm6pXjJkAyghdXL8r28hBEf9JR0YO2LBFPMbWUIEYBSsV=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Located between starbucks and Giant Tiger.\n\nI tried the \"order online\" option and it worked perfectly. And it was quick and easy.\n\nFood tastes delicious, great flavours and fresh ingredients. But as always, mixing your poke may be difficult as the bowls are that standard size.\n\nPackaging affected the crispiness of sweet potato fries, but sauce and flavour is very good.",
+        "time": 1623949590,
+        "translated": false
+      },
+      {
+        "author_name": "Christina M",
+        "author_url": "https://www.google.com/maps/contrib/102618572535335585933/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLj5DbUHLR-zljzV7jgEQD8XBqwderhMLBLWhMmyZIq8-6r9A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "6 months ago",
+        "text": "The food is delicious and tasty and you can see a difference in the quality since the new owner came in.\n\nThe only reason I am giving a 3 star in service is not because the girl who was there did a bad job, in fact she was professional, kind, and was serving everyone with a smile. Though i personally think it will improve everyone’s experience if during rush hours if there was two employees working at the same time. In the time i was there, She had 7 people come in and 3 phone calls - again shows how delicious the food is. Two people working during rush hours would have been an excellent way to curve that mini rush. Hope the establishment can make it happen.\n\nThank you",
+        "time": 1755179298,
+        "translated": false
+      },
+      {
+        "author_name": "Rebecca M",
+        "author_url": "https://www.google.com/maps/contrib/105916133917989129613/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfTQYQCJeRs1cn9jCGNQGUVrunzYIXRu5zv9B57ix1xxp_Pw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "I never get sick from food. I've traveled many places and eaten diversity of foods even street food in other countries. I've eaten poke at many places, but the food here must be CONTAMINATED!\n\nA few weeks ago I tried the chicken poke bowl and got super sick!\n\nToday I wanted to take another chance and took a salmon bowl and also got food poisoning. My work colleague had another time a chicken poke bowl and was super sick!\n\nSomething is not right! BE CAREFUL! Stay Safe!",
+        "time": 1630537922,
+        "translated": false
+      },
+      {
+        "author_name": "Gabriel Valentini",
+        "author_url": "https://www.google.com/maps/contrib/107161078354424715823/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtoXv-qTZLipeGNalKdq94UiTFivR1c1LCvJBkG6tz-TqD2qes=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I'm really happy with the amount of salmon that they put in their chef's special! The spicy mayo and the rice are really good too. The service was also very quick and friendly. My 2 bowls were prepared in under 5 minutes :)",
+        "time": 1748041118,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_brunch": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=10702333652399854335",
+    "user_ratings_total": 87,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 15 Bd Don-Quichotte #102, L'Île-Perrot",
+    "website": "https://www.lepokestation.com/en",
+    "wheelchair_accessible_entrance": true
+  }
+}

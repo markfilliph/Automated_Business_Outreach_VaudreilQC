@@ -1,0 +1,366 @@
+{
+  "query": "BDC - Banque de développement du Canada, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340513.714534,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 206",
+        "short_name": "Suite 206",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "11 boul. de la",
+        "short_name": "11 boul. de la",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">11 boul. de la</span>, <span class=\"street-address\">Bd de la Cité-des-Jeunes Suite 206</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "11 boul. de la, Bd de la Cité-des-Jeunes Suite 206, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(888) 463-6232",
+    "geometry": {
+      "location": {
+        "lat": 45.4148937,
+        "lng": -74.022258
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4161252302915,
+          "lng": -74.02086506970849
+        },
+        "southwest": {
+          "lat": 45.4134272697085,
+          "lng": -74.02356303029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "international_phone_number": "+1 888-463-6232",
+    "name": "BDC - Banque de développement du Canada",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1191,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113161965664796234803\">BDC - Banque de développement du Canada</a>"
+        ],
+        "photo_reference": "ATCDNfU8XwdC8z0OUl8HkTj8qaouBv9IAvbENNwVzYmZWOqWSY3cKz2xQ2WAwwhK757FWBUSpLe_TPkUwJN6tZBdLQrVK52eO6bpyUP8pmkox6N43oxm00sAVJcqnnH9k60Bn_-hHL_IDZMlSgmeZYp1n6bIVqLUo4FOY29woPNo0mstEH-mu7K_02C65xMPL2x6ZGGdmzEHhVCygW3Ra9kHfkbJVo7uariZhGSeMaDJSRY3rBRxLuyIkpGFOOKBuD01d_0yvM8dIDSjzbRSF3b0edSlfQjU3KSQHUTJnrHt_llHiw",
+        "width": 2119
+      },
+      {
+        "height": 354,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113161965664796234803\">BDC - Banque de développement du Canada</a>"
+        ],
+        "photo_reference": "ATCDNfXjlw3pZ4o3IaGQGyzyUO3jDLUJIO1tB5FXlSy548IBG0rOkDcR7e8N3drEkJRnjqHIuu9oK4vI3lSatfZMBu7MnHMQTPBIpOsOWhCJ8OfZAd9PYWU0BbvcY6-FZsaK3c_zkS59qqtv-pxFk2RCVB4_ujHn__tKjKyesIHc-MwMcsOce6AFW3efzheyy0NUL1oNKFyjh_LDvFfQbUCWumq98oMpWSU4qe0FoWDrMdjRMk4q2Q8eYfS-Jj4ipj7g4szh4fQjsHWoRAcp1SPbUxfE2Hl-pDecVFeElX_9NVGtKw",
+        "width": 354
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113161965664796234803\">BDC - Banque de développement du Canada</a>"
+        ],
+        "photo_reference": "ATCDNfVSfENFuni-gWtTvVWbTKutbKLWRIzrhbEcJKpilfHcw913FcZN_SF-R1ji2k53eMlDsrMZsxGiGB6iLyqY7MAI70Kzc3l0E38hZBXLyiulfC19cYMj6jFEYINSFEOscpTZHKI3XHG-DbKbSLqu9LLX-a6BBXzoZUSoRKa2XUmNCElYbWj6DlTKQs6voCxpK5PmnWXvcA_3lnWL7-hnH1bHzaihWsfyvZ7MMm9-HiOCBWSEfWgRPHR7H6HDbJO15eQ-SSsBm-0A7isNJpOJT--TP6v6qzWv0NjXD5ssFhiufg",
+        "width": 1024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113161965664796234803\">BDC - Banque de développement du Canada</a>"
+        ],
+        "photo_reference": "ATCDNfU00tCUA79xxGo3-4azXD4Koo3vUf2oIXzRfLCLKOjLpEu962tGOZHHriBrGywHs6qSC-eM5b8ufhkYo84DnC98TZvvjh1KJ-L4EgHSrka5yEn1KzNYEY2trISD4wSdyW9rDXI1p2IqNW3BW7dRvirgokhZpproAc3uUvZutMI3ETG-MIE_TeyLLHiziBAKqq5atJ1zP6LXSsCJQefUVWSEnxKDW9HDHBzex-CcUBAhuONHFWXDEjJXcVgCjpBndjpXnoAtDfiWzAoZyNB4inF8UL5d96j8wMAOLVNwXoSeug",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJBZPm4zo2yUwRzy9MIYqTsYU",
+    "plus_code": {
+      "compound_code": "CX7H+X3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7H+X3"
+    },
+    "reference": "ChIJBZPm4zo2yUwRzy9MIYqTsYU",
+    "secondary_opening_hours": [
+      {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "2000"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "2000"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2000"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2000"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2000"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "0730"
+            }
+          }
+        ],
+        "type": "ONLINE_SERVICE_HOURS",
+        "weekday_text": [
+          "Monday: 7:30 AM – 8:00 PM",
+          "Tuesday: 7:30 AM – 8:00 PM",
+          "Wednesday: 7:30 AM – 8:00 PM",
+          "Thursday: 7:30 AM – 8:00 PM",
+          "Friday: 7:30 AM – 8:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      }
+    ],
+    "types": [
+      "bank",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9633643299395612623",
+    "utc_offset": -300,
+    "vicinity": "11 boul. de la, Bd de la Cité-des-Jeunes Suite 206, Vaudreuil-Dorion",
+    "website": "https://www.bdc.ca/fr/centres-affaires/quebec/vaudreuil-soulanges?source=directory&y_source=1_Mjg5Nzg0MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+  }
+}

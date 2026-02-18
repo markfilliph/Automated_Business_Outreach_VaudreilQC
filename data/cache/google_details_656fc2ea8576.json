@@ -1,0 +1,394 @@
+{
+  "query": "TMS TruckMasters Ltd. Vaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338222.5551019,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "975",
+        "short_name": "975",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Valois",
+        "short_name": "Rue Valois",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">975 Rue Valois</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 12:00 AM",
+        "Tuesday: 7:00 AM – 12:00 AM",
+        "Wednesday: 7:00 AM – 12:00 AM",
+        "Thursday: 7:00 AM – 12:00 AM",
+        "Friday: 7:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "975 Rue Valois, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 455-2578",
+    "geometry": {
+      "location": {
+        "lat": 45.373289,
+        "lng": -74.0408339
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3745702302915,
+          "lng": -74.03946256970849
+        },
+        "southwest": {
+          "lat": 45.3718722697085,
+          "lng": -74.0421605302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-2578",
+    "name": "TMS TruckMasters Ltd. Vaudreuil-Dorion",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 12:00 AM",
+        "Tuesday: 7:00 AM – 12:00 AM",
+        "Wednesday: 7:00 AM – 12:00 AM",
+        "Thursday: 7:00 AM – 12:00 AM",
+        "Friday: 7:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116125195874993677758\">TMS TruckMasters Ltd. Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUOIS6scV2WeCyLr5vm0xfi7zUVY180D8t_cZz6XP6tdaKUzBohajpGpOoc_e_uBVtZqtFSbddgzcXGZKo2JdoSkKQW-d_l7jAQmbj_Y7SnhymSIVuWVXAV0FbhWXScz5v8DVGH0pOcH5P-WW_fs2Jdg48aQLUlzjRBfMkBzFWpM19fLuvOIzAmT8R8da0EzHG9L_QYgskLji_xZyErBc0N7rxyVjP63CvgNcQsujZZZih_9RbBzSOqxQNmR6Vy8IF5CoTeaxRtktjXVrzu9bDU9j_S6Ood9PCKk-ll0F70PQ",
+        "width": 979
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116125195874993677758\">TMS TruckMasters Ltd. Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXDzWadqAgHpJ2as4o-Y3BQ1aX2pPZwR52ceep-9nUPz6gvvNbUuhfaJBSr7R8UG0EkjV7ixKU8OkcRfkh9sXC47uzjN6l-R856Xb4iDZHRne8CyPUnqtXRrRn8fnPhJWc15nDTDAks-SF9xdrxj9jTQ3jzksXps-pYmylEJn0uGGcAVaPr58ZZE-fJG4qhu7JbyEHv3ZRMK79YtEeKQAAY7gM_rIgg9Led0pfDbt1udrIjTy20QVzDu4JYjYbRDYYHnk0vu616twGo3Q1TkbDymeJ6vISLydXVi20aIHeUZQ",
+        "width": 940
+      },
+      {
+        "height": 847,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116125195874993677758\">TMS TruckMasters Ltd. Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfU7zAZIr7QDTclXXZGHo4UHDDNMXhrb-0sjN3JjUTiFpp88IqXm4DhhVhNiOkH_6xx7StiwKedA97f3Urt-a4hzH4eG1lQsVX77Qc7wpFmQOM46NkDWyvwScwilMUrJmmkSkaXfspm9Mvcpw_4Sz27wKBrlELLe4joiNnWmYwwt9Ld5RSxbNrtDG32o7OLaPwNm5nA85KgP7wCpialCksQk1A8L9RW7-ZZm_0Y-FO2dhFSIqRaGCK5kHNW3PcIOA3cNOgSdBOBI8kapEcoYUuGSwz2fBHGlg7Um1zgXacw_OA",
+        "width": 1273
+      },
+      {
+        "height": 847,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116125195874993677758\">TMS TruckMasters Ltd. Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUb1u9DdmT6U32gwMqJTXOstyQWoUPtv2swFoigHiIiM6AiXOF4ntUU-1o14guz_Z7-R6RCDOb-Qb_hyS5MWkLwAxDnM6zyjsxgKKcEsZGMTuxwNq-La2f9uEaXUQpzt-zRCzQMlSzm0f0W5hA6utoQbZI1GqeVDIleRw-hmimrsrLsKLzqQCYLYZkfacnGVuZFo6C9oczI7XvXGbTLkwypILfljb5eKaUGd5ePEP_GS7ogX0udv94Sf1P_-r4Rv5rrv0KdM-islr4ttGGk1t2qnN0i-jYHCfEj83R7Nh_POA",
+        "width": 1273
+      },
+      {
+        "height": 847,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116125195874993677758\">TMS TruckMasters Ltd. Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUEy06dlVYt_f4JPN9a3Qbt3jSWEEMNUrOHh_pV7L2AYaBhBvDj-17UbHD7PReveYeal1sUBexfzBmxytyMGsS7EEdkna1oN_5esWHam-l_xNfBOvJLr6vk60D9Wxnn7nE5Q5YqfLXHp5TGbG5k4gK9g8bbx5uADZJqFgeUYiGv54ydYvs66A2SeLrMhxLk-nVXw-ele0YNy0WVT5aIAwC7nOBkP4pUCg7xuhZkrOl86bnWIW2iFdN0CpPa3VPhI57b30LUvAZPy_J20yVHQ2D6ySU3G4tDmS67MLKaoS4nDw",
+        "width": 1510
+      },
+      {
+        "height": 847,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116125195874993677758\">TMS TruckMasters Ltd. Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWLlb2VPnS6OX8hBcgAFKX0AORmIJC5MYtmlGPMP0q6CWcOJzwNQxXxuCiG5GV_0q91ADfQoWwhx6z9Gb_Ps_9hQg7hFORsh2deIa50ZLsi5zhmIva2QXazy3T-8A_8uu6yI812yIHL7MwmZJcTWYPYG2tRwUyXb4j33Gze5Ln8NBTyWcWtmO9kVlzcmFDvGrpsLm9Yw2BBt5qomEK4Yj__OGuh8kTPrZzlG1qt7paqe-5RW3ExVkuHdREYP708fhPwMSEdrysblx1cwjqmWSkChcWB70kcMBgp9FW9ycSEwA",
+        "width": 1273
+      },
+      {
+        "height": 847,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116125195874993677758\">TMS TruckMasters Ltd. Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWdUgwHppsX6aV2qBXlhz_clbt4Eq5AoHdlbaX6SABbOZ6pFpJcwyaqFk9XywV9HAicAlfAe7XfPH9NDnu8vPT_fxIh-8Sd619ACvfYmMsKJi8gyyopvuxIgh0eu7LRHxC5Ud6VluWZR0PVceHbSo91pBEeBi_V2o0pRXvcfH8cDAjvjsBLyVI-R8WGDNQ0ptLZIWchy1UxwhgEBL63JPWl2Xn8Hat20CUrXJGI58ys0LM0K7QkKfFu8-qbo9fBa9ru0-olFg6K0yMoMPa_Yn7qK_cfuIvj_gL9NJwmHyFWZw",
+        "width": 1273
+      },
+      {
+        "height": 847,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116125195874993677758\">TMS TruckMasters Ltd. Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUU4yeXqJk99n19khe7YIgXiSH4uBYRcW1ZLG4LGyr_4o9_gS8_fl4vbum2OTF4ktkDvgxfXnd9kxCmQ07NDIaSuqZGW6yVNrx1qnn93VZbzsfnm9KgehQQTXzODUl48GxRCyLzOjwAA6I6luN-D1ThN3rzMWpf1K8HCjhL2hnAeNn4aPg7jDHzfAI3b1GvBmpxuzWxBlv3i1NosgDRRNDALUN4iGxEYuC4WA5NXIN-7otpgwAoY3uPdzRGs9Ax9fkvezkZlnD7zO9YMkwwEv801GZjMDGxNWfo_yuWPJGgZg",
+        "width": 564
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115396844965749082879\">Mkhumbuzi Dlamini</a>"
+        ],
+        "photo_reference": "ATCDNfW727T6afkIU_Fty5sbyvmY7GARg3HY7dsaiesJQJsllVx09BDnZVB3v5TzBFir1sa6b2y4ZK4X8Mw8sKh03k5qqpcLK3mDwKItB5GpsjzO1kYw6Y4gD3Gj73z5-uMOGZMiIHxt18h1GNkcMqI3Zhd_fbMXbvd52P8wvQ5OwpeWP0UAFeBXhEdehG68228WpEB_2Jfl8PfByiJZ6i0KzPrmxTaTnQFnEr4ORVPbrauZfj6MoBCRei_R7Nt15XGVMQveix_uGGBC2U2g2RWFfNzLkZbxecVkC2ZooAnvOtN4_BRtXo9b9Aqo4mKU5m4b4sVz71g6-cy3v7xBVbWL5Ud8CVpVNQhjF7keCBJs_dvHOhUZKdlMBem57jhGMmuRUhuJYgEy90lv2nfIB7yuifWlaOcIrF8AE6bTiH2ceKql-Q",
+        "width": 3024
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116125195874993677758\">TMS TruckMasters Ltd. Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUdg7iGRu9aecSId721nVAHjp2lbrxka1VCnxdc2GzQsfbs8IsMXkmTvkRwpb0pm1h0W_vVQqJbTTMgjEPCBzd460cEUvZeEDfCTU_d8Ljx-VHmNF3ZDmtPdqIR_k0vB0aMEsSU_dSYQhni0qH1zQeve81RjreQzs8ZzTADfMnchF9uCi285I1D2UNdzdADz_HIcqIPX4ljeTqFscv4YPbjXUibVK47MgsbDS8koLOoIvm-R0i12ITU8S3VvoKiSu9Nixc8OV1iTtknEAKgRKGd8I0UFDbQGju_9JJX5Ch8iA",
+        "width": 940
+      }
+    ],
+    "place_id": "ChIJ-QKoIUhIyUwRso5GGpRP09M",
+    "plus_code": {
+      "compound_code": "9XF5+8M Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XF5+8M"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ-QKoIUhIyUwRso5GGpRP09M",
+    "reviews": [
+      {
+        "author_name": "Alain Boulanger",
+        "author_url": "https://www.google.com/maps/contrib/106179434954571894823/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsw_vpe0NNBwT0IkSe3MMmMzB70RQHwtjCuvGDqqA_RTjQ6g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Truck master is a great place awesome service they always take good care of us when we have a breakdown or general maintenance  great staff at all 3 locations.  We're a winnipeg carrier n they always find a way to get us back on road quickly and very good rates $$",
+        "time": 1726652655,
+        "translated": false
+      },
+      {
+        "author_name": "Gordon Reid",
+        "author_url": "https://www.google.com/maps/contrib/114663423535091709707/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJS8jKE4vML1uCWyXGUcAXJIvV_VqEQROrYhoBWsd6RRYBPKw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Easy access for larger vehicles,  including RVs .  Knowledgeable and competent service.  Primarily oriented to diesel,  but can / will do gas engine tuneups.\nBrakes , electical ,  lights , tires etc .\nHas pit to facilitate under vehicle work on heavy trucks .\nModerate to expensive rates.\n\nVery pleased with brake and tuneup work done on my RV .",
+        "time": 1694391002,
+        "translated": false
+      },
+      {
+        "author_name": "Jose C Goncalves",
+        "author_url": "https://www.google.com/maps/contrib/116008196296918794369/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyvtC0ggiFP45HVpPSvOg5DzR0Yb3-FG-LRN4HiB5wdH0SrXhm=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "Staff is ok, just stay away from the idiot owner that thinks he's a mechanic. Couldn't change a block heater plug, says that the wheel fender needs to come off. Asked him to change a spring clamp, refused to do so. BTW, that block heater plug, took the next place I went to literally 22 minutes to change. It helps if you ha",
+        "time": 1701997977,
+        "translated": false
+      },
+      {
+        "author_name": "Colin Easson",
+        "author_url": "https://www.google.com/maps/contrib/117241433540905986719/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5Yw45gzyyORk3_mZ-ixEt7s0TDwjcBRQ5Q3wITLCCjrFsMA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great service. Quick repair! Had me rollin in no time.",
+        "time": 1728213588,
+        "translated": false
+      },
+      {
+        "author_name": "AbduALLAAH Amir",
+        "author_url": "https://www.google.com/maps/contrib/116837139527457491691/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkctXbZM-wG6RruWx1g1KGjodCPttJPvm0EBfK3GjMBGwoEOH6=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "They are very nice people, professional and they know their work. Great experience always.",
+        "time": 1681896662,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15263631059603328690",
+    "user_ratings_total": 24,
+    "utc_offset": -300,
+    "vicinity": "975 Rue Valois, Vaudreuil-Dorion",
+    "website": "https://tmstruckmasters.com/trouver-centre-reparation-camion/vaudreuil-dorion/"
+  }
+}

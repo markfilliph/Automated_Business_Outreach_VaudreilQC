@@ -1,0 +1,340 @@
+{
+  "query": "La Vie En Santé, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338086.8699918,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "224",
+        "short_name": "224",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Vallée",
+        "short_name": "Rue Vallée",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8R4",
+        "short_name": "J7V 8R4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">224 Rue Vallée</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8R4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "224 Rue Vallée, Vaudreuil-Dorion, QC J7V 8R4, Canada",
+    "formatted_phone_number": "(514) 691-9126",
+    "geometry": {
+      "location": {
+        "lat": 45.3708131,
+        "lng": -74.0252383
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3722359302915,
+          "lng": -74.0239600197085
+        },
+        "southwest": {
+          "lat": 45.3695379697085,
+          "lng": -74.0266579802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-691-9126",
+    "name": "La Vie En Santé",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJwbeV3ukZyUwRDDm1s5d4SF4",
+    "plus_code": {
+      "compound_code": "9XCF+8W Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XCF+8W"
+    },
+    "rating": 5,
+    "reference": "ChIJwbeV3ukZyUwRDDm1s5d4SF4",
+    "reviews": [
+      {
+        "author_name": "Solmaz Moghadaszadeh",
+        "author_url": "https://www.google.com/maps/contrib/109896780160624878373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJanDBClOaUTjzkb_XG6wyY3s164tHlfdUUzCq5RO-tNvlBAA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I applied everything the naturopath told me to do and I already see the changes! Karima is really passionate about her field and has a lot of knowledge. I am grateful for her services. Highly recommended!",
+        "time": 1659042340,
+        "translated": false
+      },
+      {
+        "author_name": "Jasmine Tajeddine",
+        "author_url": "https://www.google.com/maps/contrib/101876906974448854267/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzv_z_EgBdPW4r5WlRwPtAHWOggKaOgW1IIJNmmTIVdh7FoA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Karima has been absolutely wonderful. She’s been a huge help for issues regarding health and anxiety. Highly recommend",
+        "time": 1673020843,
+        "translated": false
+      },
+      {
+        "author_name": "yasmine chouman",
+        "author_url": "https://www.google.com/maps/contrib/109286217972602952884/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSGYdXNDqPm4NNiga23KblTO_JsPp5hUPu-MMt5ZhHR5ob4oA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "very helpful and really cares about her clients and takes your situation and caters specifically to that !",
+        "time": 1672864563,
+        "translated": false
+      },
+      {
+        "author_name": "Kenza Archid",
+        "author_url": "https://www.google.com/maps/contrib/106788564759411640149/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxnRG8X5E_MF4gyLu2yTKDlRs3IYj-FtBptzXusKsDwabjgOQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Karima helped me with my skin problems and my transit and thanks to her relevant advice, her taste for doing and her professionalism I was able to regain radiant skin and a balance in my lifestyle. I highly recommend her.",
+        "time": 1761066323,
+        "translated": true
+      },
+      {
+        "author_name": "Yacout Ben Saltana",
+        "author_url": "https://www.google.com/maps/contrib/107312311428317104956/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqDPU6K7p2PCm2XXewtu1j-btqanQb4lzQwgN_dHW9nwymOw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Karima helped me tremendously with my stress management. From our very first session, I felt she was truly attentive and empathetic. She takes the time to understand what you're going through and offers natural, simple, and effective advice. In addition to being highly professional, she's warm and approachable, which makes each session enjoyable. Honestly, I can't recommend her highly enough; a huge thank you to her.",
+        "time": 1755085837,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6793812630838786316",
+    "user_ratings_total": 42,
+    "utc_offset": -300,
+    "vicinity": "224 Rue Vallée, Vaudreuil-Dorion"
+  }
+}

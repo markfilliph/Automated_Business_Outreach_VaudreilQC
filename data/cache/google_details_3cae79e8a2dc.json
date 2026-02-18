@@ -1,0 +1,407 @@
+{
+  "query": "Photos by Motti, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338436.3334024,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Rue de Tonnancour",
+        "short_name": "Rue de Tonnancour",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil",
+        "short_name": "Vaudreuil",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P5",
+        "short_name": "J7V 8P5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Rue de Tonnancour</span>, <span class=\"locality\">Vaudreuil</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 AM",
+        "Tuesday: 9:00 AM – 5:00 AM",
+        "Wednesday: 9:00 AM – 5:00 AM",
+        "Thursday: 9:00 AM – 5:00 AM",
+        "Friday: 9:00 AM – 5:00 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "Rue de Tonnancour, Vaudreuil, QC J7V 8P5, Canada",
+    "formatted_phone_number": "(514) 592-9416",
+    "geometry": {
+      "location": {
+        "lat": 45.377301,
+        "lng": -74.041506
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37864733029149,
+          "lng": -74.0401623697085
+        },
+        "southwest": {
+          "lat": 45.3759493697085,
+          "lng": -74.0428603302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-592-9416",
+    "name": "Photos by Motti",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 AM",
+        "Tuesday: 9:00 AM – 5:00 AM",
+        "Wednesday: 9:00 AM – 5:00 AM",
+        "Thursday: 9:00 AM – 5:00 AM",
+        "Friday: 9:00 AM – 5:00 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 684,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfWLVc-t7VqGN0s4v_1NYJNKJir-jww7k0bu5Cmx5K4CA3aOp4oMaFDNfSLxCOO_97jeofW8VX-Bm_GiJOGFMxCLxKwueSLaGtX8_091ITeg8ghjPo_uuMzwziT9-uNeFJgwTA0xXNqqlR4fVaVHMfsgaTs5y0rLXRdz7sxrPOSCsKsokEjJ6q9L9uEh5RehTexesGjXK8hm-7Tg6LC1jdpVcwBPhMjhFd-F63KcWdQU5yyfY7qowJzr9a1X2MvoOhNBVW64z2xYw4qS2eGpTaxPCH5s88hWIftYYrIPQ8iW6g",
+        "width": 1024
+      },
+      {
+        "height": 3521,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfWzpYOM6v074fVRZl3nUpyljvinKOfN41zjU2iHilefUcd4qb7u_9PGiKSa-KLp6S2teiohF-nX1ldymnAvNYxcc9j47B5eztYy5z-qm5utFzBqvQcCayavCKUdJ7XTtoLzeLz7jeXDX_hpnYhZu0LJEHLuskixuomcc57Dza_cd_fSpOeZrdP2f3Kb1BtGcv7Z6esRhiqg9_4sp4MbvuxzrPrQmTZZrirhTDIHVm9RaDUUmBly2GaxqH8SW9Erc_ReuMgptwtuRszC7oIxkcGf5NpqCU-mZnNGAylFE91iWg",
+        "width": 4401
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfXShVs2l-98_caOHfSkIIcPJFr6zH-ylbuhjHcc9Btbg8-enwGS86uaK171YZ9tLzeEapncPd1v-GiIy2SyJRkbLnCDupS41MKdHczE2XlqVyTNpOmV24DyTLbhCwlQiqF0YEdw4JBp3Hei1Z-w4FSouGB2vi4W4LdLmuqS4IJoukOXP0mrzcoVQWc5gsV9h0yv7YyTbhmxUr1XdZaVzyWQE3sGevLFWLqQu889hngee_umoDVZbpxH6VMUcYAbBVjvVlo-6UQlw6QJDDMdSI8iDdHFeCZ6cUhXblcFxjGweA",
+        "width": 960
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfU8M7gTo4sZhnAIjki8xN_ela027T1aF1ir7UfcdYniVGpnS-XrnINYShKrR-KFga9icI6mcYuauJLitR3u4eZd3oNiis3d3iN863hfis_PrR0VARzPjpNuE5n7cPzHDnRMlfq0v310BQ7x7LeinEbHmcEZRnswm9c12oCajxuUAZZ9n3jrAexgoQoGJ_04U6NdfNTH4-vgRrIIqlvsTVfS0ytGoJ85pnXZer6KWHQNlLIcqmkLQr0JDrGIG_lZVYcM6DrNTfXPAN5Dsbp2M9vzsNYybnH9wKQQ61ZIfFHIzQ",
+        "width": 800
+      },
+      {
+        "height": 534,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfXcKd0veLG2ODOyx8Q_zEmt5nYAetYJxuk6anLNAIZEkFfDkLRllbesvsdnHYWAznlyZjUhP1vcguy1QYZsZvGfOfIyORMKo2FtNZxyzAPWGe8f2LrWZuZx0qzKZEZJBtFLFdfHlfzRRTnVrH0AS5iErL-YCBkGO6Vh8r37QhcsKiRKGft8oC6waLVKTZ7WRXUgG4fEoTeOaEVWJS71bWOCYLQkkyW1SsZnCnLvz-3vxMUD-hVViwv1XEyjikQH92elpMYDlBQvf1I3lE0_YKnQInvZy6FAAZF6uu8PW4Aq4A",
+        "width": 800
+      },
+      {
+        "height": 684,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfXpLuEYyl7ASo65vOO3HmyJbnaiJtirMW_vmbGpSrkRZT9VWk0SxyBkX_e-8M51rGgfKt-6SsfidXTaqQHuO42n8FE4WOzqnORdyT6NsUeZMLB-_ftrY2GkVgNlkcZlsOFDwYAvBsyP2lWQszs6-agFb9SHAKW-C57msPk7Wb_R1LMLE1FiQMJ0lBB-CSTIRjPzpIjXISs4ONv4_W-rBUuTvqzBsVMnoCtJuN55L0gbMZQVHOsNGxiWiF5FDU5SxHqqL_5EoKRi4jTNaDuJ03UVnhzWBXPLF5_oYhaJvIQGEw",
+        "width": 1024
+      },
+      {
+        "height": 598,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfXEbaR185_NVs-yGKLCQ4KSFVf952oXKvG6TP50m8ZgCUXVLZPN8cVvCgcfdvClQvjwkPzIRaByQ-RZNzgGyHqhq58Ifro9gX3hyHz2-47W0ZNKIzLmhR3JaclKpkcoNVevl2dd6SRfDC5Y0cPTNWBhtgVUSBLuQPk2klLKZhAu3Ch3PKjI8_Oxw84icpXqrV95kMtAJUBGBRsFKeFVORsF99-B_Eet_YyOn4LQSEOz2DLIvToGDknNUOsMI31PI8imoX1rdYwgYhXCkOl-wzQ4vWvqRpQ-UcHln7J_wJN6YA",
+        "width": 900
+      },
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfU9DS5bI469fT4evMVe9MZXsPXZRgF0Cy5VzjynXkZ65lEPui5g-4F8fAZRIPMAdnUzoPrMAsMNJVE2ybfqHle0oqKe9MWzAEr7dT1vbSpL0UvLtj191nZgevjt2HT16dKLVbU9UMG0d7WWWoq1nn4o4xfpj2uQwpjTKXj_MGWTrR-mdUDd5boh1n_HSespSM_6JBtnhZtE_wUtd_51Sx3KR_SZ9Tv9Gfrs97TyYPs-aXlKB3eKC0UIqdPMVcipljT4XHeg6_MeYorEiHWJcKxFCJkzmQt6gdHS-PMhFjG7Xg",
+        "width": 598
+      },
+      {
+        "height": 598,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfWkSb896hpdgBza-9cagEy0l8CAN6v2ihY_7C84uGcRrwsaBbOZCIbgwZ8t6cqpqBCWoKnflUMPK3NPKYoAJHevtp4XjCr3m-phbBsbSpNGtT1FuyDb9tjnVojj1jbz1OYfZq3I_mpIFWKEDjuPYgAylRl2s6QhB4yXqsHL2ZavfHiEjGR6j09KI3aHX03wVTwhHTC_LYh3Ul50mX9bTUQbdlerqmzsjvhRoOdNwzAbwIWSJkOAUjAZxTU2ZVFrPZZ32JiLxyInpjgIzugN1t8NVifNjcmk4mv1zAJBVnzhQQ",
+        "width": 900
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109424387838335190644\">Photos by Motti</a>"
+        ],
+        "photo_reference": "ATCDNfVIIyUEGEHK5C8-XeCkvfQDYvIgyQHNDslIkECXp-lRci3-ciN9_WaG482TpVB3h9Va9hEmKXX4egkTfTo_0MdtszDnqt33uLII2P3P-Md1EQpNECqtZKnc9_7o1DVdk326KNQEpzq3LcnJ9JHFzjNktUSkeZ7lHX9t5r4nL1Z45HDI1g0iXJ7_w-OuncvOArTNc9seviFvQJuuFKbTeBCo73ikRcd85fSCg7LqrgGH5B9BHCtL2JenULSP5vAvcwWC0dvVoEAUxTP42LWDJ5BxVCxNxedMe1VmrpBiRndN2w",
+        "width": 665
+      }
+    ],
+    "place_id": "ChIJ8S7QlGk2yUwRIY8k-9_1xf4",
+    "plus_code": {
+      "compound_code": "9XG5+W9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XG5+W9"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ8S7QlGk2yUwRIY8k-9_1xf4",
+    "reviews": [
+      {
+        "author_name": "sharon jung",
+        "author_url": "https://www.google.com/maps/contrib/107463038912821050810/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVziZZ7d7XKtLslXwPuEdwfL7HUlyC19gQx0NY7YjkZwjJads=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Motti has been capturing moments for our family for over 5 years and we love his work. He makes the kids feel at ease with his playfulness and his patience. The photos come out beautifully and truly capture the vivacity and beauty of those moments.",
+        "time": 1719233075,
+        "translated": false
+      },
+      {
+        "author_name": "Catherine Kan",
+        "author_url": "https://www.google.com/maps/contrib/100142383790042481176/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaBEDb22MgZYCbxT8u8gq5KkciPu47MsiNs2T8S9ONB2hARw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Motti and Maria were great at taking my two daughters' basketball photos for the Cavaliers Club Basketball de l'Ouest (CBO). They were super nice and accommodating, responsive to my e-mail enquiries and even offered to do a reshoot when I thought a photo was missing but it turns out, we simply forgot to have them take a picture of my daughter and my husband together (since he's her basketball coach). The customized basketball cards look great! I hope the CBO hires them again next year!",
+        "time": 1711759953,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Joy",
+        "author_url": "https://www.google.com/maps/contrib/105327216425746648901/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsOKO5BTOuMGlJ3rwTBAUu4ijEVR2darGsV2SBVvIimyv52eUz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Motti did a photo shoot with our High School M18 hockey team!  Was very flexible and great with the kids, parents and the needs of the school!  He was very helpful with the parents and had great communication!  Will be using again!",
+        "time": 1714735857,
+        "translated": false
+      },
+      {
+        "author_name": "Lisa Kunitzky Schneider",
+        "author_url": "https://www.google.com/maps/contrib/110190710606359017348/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWydPJkBu-U8v3MU8cd9k6szKlvzIm3-X4_t_0cZ3ayKoXJzJBC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Motti was an excellent choice for our event! He was professional, quick to reply, friendly and very accommodating. We are very happy with our photos. Highly recommend!",
+        "time": 1720114526,
+        "translated": false
+      },
+      {
+        "author_name": "Heather Wise",
+        "author_url": "https://www.google.com/maps/contrib/103345192791560398458/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPyXLFaTqKn42g2c221zeDG6veDm7UyLXWDquRuV0R510U3OY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I had the pleasure to work with Photos by Motti for our annual Club Basketball de l’Ouest (CBO) Cavaliers team photos. Motti and Maria were an absolute dream team to work alongside. Their organization, creativity, and remarkable attention to detail truly elevated the entire experience. From coordinating schedules to ensuring every shot was just right, they went above and beyond to deliver exceptional results. Their passion for photography shone through in every frame, immortalizing the spirit and energy of our teams and players with finesse. The entire process was seamless and enjoyable and these are, by far, the best team photos I have ever seen for our CBO organization. I highly recommend their services to anyone looking for outstanding photography paired with a delightful collaborative experience!",
+        "time": 1714321249,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=18358349798385684257",
+    "user_ratings_total": 36,
+    "utc_offset": -300,
+    "vicinity": "Rue de Tonnancour, Vaudreuil",
+    "website": "http://www.photosbymotti.com/"
+  }
+}

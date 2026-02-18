@@ -1,0 +1,315 @@
+{
+  "query": "UPS Access Point location, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338317.7446673,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "480",
+        "short_name": "480",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7H4",
+        "short_name": "J7V 7H4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">480 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7H4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:30 PM",
+        "Tuesday: 8:30 AM – 5:30 PM",
+        "Wednesday: 8:30 AM – 5:30 PM",
+        "Thursday: 8:30 AM – 9:00 PM",
+        "Friday: 8:30 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "480 Bd Harwood, Vaudreuil-Dorion, QC J7V 7H4, Canada",
+    "formatted_phone_number": "(800) 742-5877",
+    "geometry": {
+      "location": {
+        "lat": 45.3780377,
+        "lng": -74.0209023
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3794566802915,
+          "lng": -74.0196514197085
+        },
+        "southwest": {
+          "lat": 45.3767587197085,
+          "lng": -74.0223493802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 800-742-5877",
+    "name": "UPS Access Point location",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:30 PM",
+        "Tuesday: 8:30 AM – 5:30 PM",
+        "Wednesday: 8:30 AM – 5:30 PM",
+        "Thursday: 8:30 AM – 9:00 PM",
+        "Friday: 8:30 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 424,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107487615856300822913\">UPS Access Point location</a>"
+        ],
+        "photo_reference": "ATCDNfUJLEX_u7DsWqAf-Ckj8WNYY-1_dHCv_UABt4D4Zdg1xWi7y1rOLwSSnW6xgfrP1W_KRHmpMn7zsyoqkWqqRWLa0F0jSzvLXpJQUGpJmOYmNJ6qyA597yfgSo0BwjIP4z1M69S3WHiV5kRANQC8TOjOSGppmjVSQGh4TD8-OLdwcx_UaJiRUAHWQxAs1XCRQLmcST3x0FI6gegfnE72C545CjlOgO-h5lItJHAW_Ax9bchIPdsT9vjzGUD406P2CqqDhmT4HBbP9tk82CyobNEeoV-yXaaFcz_F2QdTuCNpCQ",
+        "width": 424
+      }
+    ],
+    "place_id": "ChIJUcilnSRJyUwRh6IjCxcmjIQ",
+    "plus_code": {
+      "compound_code": "9XHH+6J Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHH+6J"
+    },
+    "rating": 2.5,
+    "reference": "ChIJUcilnSRJyUwRh6IjCxcmjIQ",
+    "reviews": [
+      {
+        "author_name": "josee leroux",
+        "author_url": "https://www.google.com/maps/contrib/104673824849851094174/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu_yhGOcjfsmcH3WHk_BYIBPu7QB_WxBDHeyqlYaBjMepfkYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "Closed there is no UPS counter at this location",
+        "time": 1758659266,
+        "translated": true
+      },
+      {
+        "author_name": "Abdou Bellahcene",
+        "author_url": "https://www.google.com/maps/contrib/109428613453033129148/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmdZVU9BTdRYjW2rqjtLa2bm5uhAuah2ox4tYOtaIbDhXQ1bg0Eg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "Not easy to find",
+        "time": 1757909564,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=9551050790158967431",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "480 Bd Harwood, Vaudreuil-Dorion",
+    "website": "https://locations.ups.com/ca/en/qc/vaudreuil-dorion/access-point-location-220218.html?utm_source=google&utm_medium=organic&utm_campaign=rio"
+  }
+}

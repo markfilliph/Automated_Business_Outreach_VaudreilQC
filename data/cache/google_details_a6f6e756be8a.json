@@ -1,0 +1,395 @@
+{
+  "query": "AlloDent, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338610.6000042,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "116",
+        "short_name": "116",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Cardinal Léger",
+        "short_name": "Bd Cardinal Léger",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 3Y5",
+        "short_name": "J7W 3Y5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">116 Bd Cardinal Léger</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 3Y5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 3:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "116 Bd Cardinal Léger, Pincourt, QC J7W 3Y5, Canada",
+    "formatted_phone_number": "(514) 453-9810",
+    "geometry": {
+      "location": {
+        "lat": 45.3815652,
+        "lng": -73.9912202
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3828588302915,
+          "lng": -73.9900063697085
+        },
+        "southwest": {
+          "lat": 45.3801608697085,
+          "lng": -73.9927043302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-9810",
+    "name": "AlloDent",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 3:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117216745194944771761\">Normand “Tom” Bouchard</a>"
+        ],
+        "photo_reference": "ATCDNfXJ6GzCmYYpeWVf_sem_0F20tNuRl5CK7KfCTQ8aNRH1PTFvFSG5cooNF_2Nj46IUXpAL1vFux6vCqL265_2E2otpA5jJvlC88E5gOr5mj1wLFmW6b_tJ_kgAfPm3MkZrmjlWyHktanf_1GmQ2SF4SvlmLG4ZK7hdrlsy5X6HpId5EUB17yoKBqJzqjd1xMKIx9C6AvCdMdGcDii5X2itiQXDWoIvmspeXN0_QjniUP9rxEbvf-OL7MUFW2d0GkQv-oswGzkwMazJCzNN2mGmLc47a366sW951JTeDI1-guaV4STbSGLSH6OuODt_yXyPXKFusQeT9GQyTKsmoH9g2g-sVYkwzY6aWx379jz1L7sRWUN1xvcFOxZEsBgOx6YhQg50jEdwXQ0TV4xSeJBUHkm0d2zradshLgfWVH-gNapg",
+        "width": 3968
+      },
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117216745194944771761\">Normand “Tom” Bouchard</a>"
+        ],
+        "photo_reference": "ATCDNfVhhB3a2_UlXcQiJm3-zDC2pzyPTwT1X2POjP_pojOKECzwAJigq_VNGFIhSsEAz4pRgy51YvEIvbSDxqk5smHu9Gtuvh67VkZLZJ-ndZ2h8VDgk0yNVZJIv_X8urW0dK5i2WkguYPLo9jgU5pOJJOKOIdLCdTq13OSDLP0614iYLOkGCuWre3fR186Z2uyUYg-oSxm9QgWvnZmYvQxnjcOjN_N9gDrBN7SCHK3nQBOzw8IQ578RJl9XP7MWlnnCfZdYHlTWwIeK8PswbdK_dND5PqbrWqm0hbDLL7JlgU809QivETq5TdlLAe6Yb-jPZByMICpAi6I2WXRIK6lWIg2-yYeC6BxIxZqF51IZOMu78SWi--r8144ovvf-Y2-ihU1Hrdh-A9bQREobXFs9_RNDhVcpqX6Ga56zOIV9xL5qDXM",
+        "width": 3968
+      },
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117216745194944771761\">Normand “Tom” Bouchard</a>"
+        ],
+        "photo_reference": "ATCDNfUAZv24ru3ZagcXTLnvE3BfW9j6F0zuu78HYxQ6iTZmS0Iai9GyU74lqoa2KFkxevNoyiTRYDqrRzkRxWBK4Dd8BFcQRYkNclsM9emdqatwwoc7IBXsbjApjjtBl-f_xKUbgXo87VKaVqC31wG8wgYr1HPTgFiUyCBQTQTq5sheWFb4W4eACFBbB1OP378mk02m3pm-kLDdVYPDZ5p1CsbtJKvc9WDg35DBXly2kP_BqbnO58ub4hsn5ZAliESyJ6pnW_n1CTMkvmwcyFq-8XuaczN9B4cAH1VGypa52e386RtbUKuOCVnMQ52713Tis9pmQiAdv6UBTo5baIVWOh47lLCLCIwGqMoUrXX-nEUsK14qpT7PLmEy6WKS5tOOfRw-BKFeJWLFxq2Of9boMaDEyFpG0jcwKFozlyIjjDQ",
+        "width": 3968
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104407142771626003948\">AlloDent</a>"
+        ],
+        "photo_reference": "ATCDNfUKbm4hOS890KwVN-gY2mwgASlfKtwrVE-GT620aEklnIdhP3sCKAHuO42bZ0JxBD8CC9bxE1b4P_5R6_yL7qHkr7Fez-Z_IAT71alS69zvbXjeaBYkQRVDDFaWBma1miIvKdcRSMcRPMiqqS_U1rdIqIBxgXt1cwa-Eel2DjdNpgA_ueIxeYz05rgxZKi4G6VKA6eshCMgNdJoq-7OuILSaF4ew3tcC1siWRxyvJdvSxkjJ7v51Wavwo_S8t9MhppAMrg6Ei6AoVsiURMIHzJMF05Mb7Mt3RSzirvyK3yUTA",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104407142771626003948\">AlloDent</a>"
+        ],
+        "photo_reference": "ATCDNfUG4KO046CBNosNUrxP9zLSZkxVcISfyCvzhAQebZrv6X5T7GaSCTvgTbh4t6-ItsJJoUuCeAV_pOf0YcBwLsXThHcRmLqDN3dlgfbKFLfMVOHhryUu47tJmjQ32tzWID5_iN8UD0IM9c_AjrIV5oTM97BHhTIwLGU83d4q7VouXDlc_ASLkh8__reliYSR2Zxqh-yTqxhPLae-GGSMLYHsOJVdxhWCVU0Q8kFw8kAyzA94FWTg-NfK5P73ak3uYhvbA-qE83ZWU8Epd10bIHxYfGaoiz3G5xS22lxtMXPKew",
+        "width": 1024
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112175735869060946255\">Hellboy&#39;s Sword</a>"
+        ],
+        "photo_reference": "ATCDNfUvFEZ0B5E5nQo089wlQXoTzc2PvtyJPyGpmaLbJQ-JvKIs33_yxVvIHpsOax3XRsxXt3JwyEO4b0nx6wgFJzZ9Rg19mN8ctEuewL0q4Jbn7vhfha2H67L3iiyv6pEKJv_2s8aL2e0e8n4uZCz4ZgvNtl6UJgbgZ5yk87W89581xyXQejuna0seXG48U7ElaoZXcgrH_CuC_iD7auJNgbIe7mnRdGANisw9rJ2K23VsZcjwFfJ_Ger0Ljv5byNKTYoo7plXCKN-oD8uW9SEK_RwI1NkyBf7bmv-TtA-vdAUwzOCDqpGM_2bNX-X1FzM9LxWNKf0S7grJ7UrrQywCcGlM-O3BB7_giqBxjQ81MoaUcQrm6IRzbFwZX4feWQeogWxZRLXoUA5idsEyheZKQr_o-f8DrI_H9TEipQOslffX1g",
+        "width": 2240
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112175735869060946255\">Hellboy&#39;s Sword</a>"
+        ],
+        "photo_reference": "ATCDNfWkx9OrPXi2AHfQrNp3SbYVDYrtp50cfZa55WkmM-jhxnYxAj7GqA6au1O5wk7L5k74CjVbpFc5lTDAHbcEfZVIk5aCrUKiAeboumr6kRWtabA0g7EtNy9Xd9ZHKkglHrCPcW2Nn4lAx2zIA1t0lIIf84IvMpA6d1U2Lc3gOZeQiTUqFOmv_Htj2hnOlSfeGhiQqO8Q1dLnQ4uZmLwse2gdtL0l6PB3RGLVmYoJPLCta4zKuPDeU6Yty9jHIX0qsdwhGQmoHFzltReHnBa7S_1-UnibEKA_L7sdWna9wqH9PyyngGl0XVctPv0GRFAZJtfcxAfqjJMyAvGhV22DLEpC-QTKllVPN2dsylfxzw_Zrk_SIHhx5kusX76HaVn5pWO3MGKxR1sBjtzSLT_ECblPHUPrH5uOjkJ5hRg",
+        "width": 2240
+      },
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117216745194944771761\">Normand “Tom” Bouchard</a>"
+        ],
+        "photo_reference": "ATCDNfUqEYpP_L2RIIVTUHjI4tqbcirDC238N3KwzGEyOJQsI8dQP3LHwcUCHXnG8X7o6zVXLtPSVrGIzJif73fg6QmQ042rQCSXdnhJ3CTbbFHmXerz-NjupNDqJW9xY1tft3iDcpgwUpch0pIjctYq_4mFlkkJSBvMvE-m6XSIanxfYix1WMrKnQvvgKkFZMuUfWh_jmAoLVUy4xCe_S3y7QnYu8DtBOfRRQ-E4SD8lnGwlWZCmuHqoVsmLg3NUFPToSJSLPJ5s9Y8HxYNJgPhm5SiQTe5UFroiThRmYzEVf4i7UW3ISrWTL6PhsVNZhJCmT7SDyNU9F6TyOM1jXk3amUam-pDkWWWzwSAB2t5XMBC2mQtxMr6bzVjt8MXCz8kgr04YrwAQUS4prn_Nw9T3VCD98PcsrLA_CZROeoNgclUl15A",
+        "width": 3968
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104407142771626003948\">AlloDent</a>"
+        ],
+        "photo_reference": "ATCDNfXDheIhvlU07Zkbp5Mpdm4lFHi-NIVZ0pBAPGDKqKTMpAq_edulydhT61KJbBvCEUbo3gEtNPDV11xACN8P7C0bqod_DUsPk_EKCmmZn1LZZmvpViobTWOeB17zY-4RHRc0b-T5lRCDLZFe14u7_D93vBuP93PdP_XQHvdigp6L62hRSa9DSN5PBArZU020LKZSiTj1JPn5U3axfUuc47JCDFo5S4vi38CdjcbuBfwrSOoTh1xbCWJRBNDJkZtRH6wpR-2lfTKnqA7QpqmiAEIjgptphlT5d4wuVRGhIZztAQ",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104407142771626003948\">AlloDent</a>"
+        ],
+        "photo_reference": "ATCDNfXTtpJYh54C9Su5OhOZVvd12b_MP6jIRsdYjwfgcIMwDzLDysrdqBniJUKMImiGLBcMLBr5tGpW8HdLCoFs89AyTBXHbhyv5ucF-8CRFzO1N6HdMGFcPz-gI18O5LuyEIdTB0Wi8eximeMJfl0ilX24PqCy305ucXi9B92YHvrUxJxGUao7KdcSVWKniQjIHXBlisdnPiUuIo5mFlF7vsIb4NBcqztCI0PFY5jQB1KKTYd7ELpk0qSuoiqn3a8oEeLN0Z6FWOO9zBLfC1hp5NuUb_ysdHRmJyl7avvwxHiFXA",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJjWr9Hf9HyUwRur22K1ffhtQ",
+    "plus_code": {
+      "compound_code": "92J5+JG Pincourt, QC, Canada",
+      "global_code": "87Q892J5+JG"
+    },
+    "rating": 4.8,
+    "reference": "ChIJjWr9Hf9HyUwRur22K1ffhtQ",
+    "reviews": [
+      {
+        "author_name": "Stefana Budeanu",
+        "author_url": "https://www.google.com/maps/contrib/104020315330629727311/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3XbGJBXE9n80n_alIZF77C_gKcRpjOEC8YKMVcHT3vVZxSg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Today was my first appointment at this clinic. Warm and friendly approach, staff very nice and accomodating, the dental hygienist Melissa was absolutely wonderful  and cleaning my very sensitive teeth, which was expected to be an uncomfortable procedure , proved to be fun an completely painless. Dr Sabrina Bouferguene also very warm, professional and caring. Really pleased!",
+        "time": 1763664646,
+        "translated": false
+      },
+      {
+        "author_name": "Victoria Adams",
+        "author_url": "https://www.google.com/maps/contrib/110903110269900357162/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN2bfjxdhh_lLm5_GtaFEs6p4mHD95h_9PO6IQoU5MjRIWKIo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Today was my first appointment at this dental clinic. Melissa, the hygienist is SO warm and friendly! She made me feel so comfortable from the moment we met. It was like having my best friend clean my teeth and take x-rays! The dentist is just as nice and so is the secretary! I absolutely recommend this dental clinic!",
+        "time": 1700703389,
+        "translated": false
+      },
+      {
+        "author_name": "Crystal",
+        "author_url": "https://www.google.com/maps/contrib/116364409437562258610/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwRwHHtx9cpf7hagdty3tApndXycQd4L0mpM1zVcxBVttspA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "What a wonderful Clinic.\nThe dentist was wonderful and answered all my questions with patience.\nIt was lovely to be greeted by the wonderful secretaries.\nI highly recommend this office.",
+        "time": 1716409713,
+        "translated": false
+      },
+      {
+        "author_name": "Glou Glou",
+        "author_url": "https://www.google.com/maps/contrib/101195967185145066458/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq7nOP89S6_GzgRIPTvyMtveD6INvZ3kmxsXFWa5v5hlYIkQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "6 years ago",
+        "text": "Dr.Dolea is very gentle and patient. I am usually stressed when I go to the dentist but I was comfortable with her. Her staff is just as great as she is. I am so happy to have found her!! Thank you dr.Dolea.",
+        "time": 1560546824,
+        "translated": false
+      },
+      {
+        "author_name": "Dragos Iliescu",
+        "author_url": "https://www.google.com/maps/contrib/102906247887407182676/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFs74xrQ9aHAKyjSCJvmtbtAOerOeS9KukIInJxgKC4kKjmQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Patient and professional service. Extremely nice staff. Doctor Dolea is very good and careful with her clients. We go regularly all our family and we strongly recommend",
+        "time": 1558450671,
+        "translated": false
+      }
+    ],
+    "types": [
+      "dentist",
+      "doctor",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15314173148408495546",
+    "user_ratings_total": 22,
+    "utc_offset": -300,
+    "vicinity": "116 Bd Cardinal Léger, Pincourt",
+    "website": "http://www.allodent.net/"
+  }
+}

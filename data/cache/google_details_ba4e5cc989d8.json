@@ -1,0 +1,319 @@
+{
+  "query": "Logoplaste, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340256.7828412,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3801",
+        "short_name": "3801",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue F.-X.-Tessier",
+        "short_name": "Rue F.-X.-Tessier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3X4",
+        "short_name": "J7V 3X4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3801 Rue F.-X.-Tessier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3X4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3801 Rue F.-X.-Tessier, Vaudreuil-Dorion, QC J7V 3X4, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.4106663,
+        "lng": -74.0568413
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41186693029149,
+          "lng": -74.0553433197085
+        },
+        "southwest": {
+          "lat": 45.40916896970849,
+          "lng": -74.0580412802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Logoplaste",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102029273258897537965\">Sukhdaman Singh</a>"
+        ],
+        "photo_reference": "ATCDNfV4uG_C012-J1RMS7h5Y86FILnj9D-tJZUpeqMtMfQr9hFHwRQdPJ9j3GEQmvO41D_RvX7Bf1zCElhvrQo4lc2rYSrkD_VYTDs3npNPEpXPP70lpYrT9mrqXj4FnSeYP7Pz2HQ1Zm33kMIsvPLAKCM4Gk9qrqUiyrfR--M2ps1wQoWrA9ZSwgk1r2MEuimlDVZorqdH-fyC_Ueu3szAF13s7P2xVbEKnIlBDSOLfJ-SAmJE8p3zcvpzcEEdolpedPIWsjAYZKask7Ah3QXfVUv-CtUjqo-9rSuyUtlw0cg1KGhzTONX_8tXi2PHTd8bZY6C4UsVEvoCbjpkjXVi__QvrHTg3LrNYke2A9t1NWb5B-1i2VAzekKbM0WoEbQw2_uJclIP6pxgPyVHzUR5U-rf55UaKspXXPjDXyGfRF4",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ3ezlpbI3yUwRGHwXeqd8mo0",
+    "plus_code": {
+      "compound_code": "CW6V+77 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW6V+77"
+    },
+    "rating": 4,
+    "reference": "ChIJ3ezlpbI3yUwRGHwXeqd8mo0",
+    "reviews": [
+      {
+        "author_name": "shami Singh",
+        "author_url": "https://www.google.com/maps/contrib/110891078500729267648/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsAB9d3UZldC2ayH9DU9JizqI949GO4oi53qE8IySONZdb3g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Close to dock num 21 and overnight parking is available 👍🏻",
+        "time": 1752162397,
+        "translated": false
+      },
+      {
+        "author_name": "Harkamal Sandhu",
+        "author_url": "https://www.google.com/maps/contrib/101721391408904867182/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzoNVSLBhRjO1N9omyuOnqX-VzXd1F46LRvWO5JKBMGe2cr-k=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "No washroom for Truck delivery drivers “ shipper says its a food trading company can’t allow in” atleast company should provide portable washroom👎🏻",
+        "time": 1665747385,
+        "translated": false
+      },
+      {
+        "author_name": "Sukhdaman Singh",
+        "author_url": "https://www.google.com/maps/contrib/102029273258897537965/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIInPwZZDDRf-bYfqV2Mo77kAYAki6xiw3pxmNkyjT0Ke5Y9Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Superb service in receiving and shipping.  Very quick",
+        "time": 1594899314,
+        "translated": false
+      },
+      {
+        "author_name": "Joe Putz",
+        "author_url": "https://www.google.com/maps/contrib/106007381758245624610/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJh8K-72W3-iv9enkuT1v5Hu77BYQR7Yr178uxuND6WVjV9UJw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Great supplier for plastic bottles.",
+        "time": 1599535491,
+        "translated": false
+      },
+      {
+        "author_name": "Kamaldeep Singh",
+        "author_url": "https://www.google.com/maps/contrib/102595481517245095653/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb6Fs2NycI76y5Xi1KiVx8-Sd5vWmDUSc31vwNbLjjBDJkpvs=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "No washrooms",
+        "time": 1716818103,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=10203604964511022104",
+    "user_ratings_total": 8,
+    "utc_offset": -300,
+    "vicinity": "3801 Rue F.-X.-Tessier, Vaudreuil-Dorion",
+    "website": "https://www.logoplaste.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

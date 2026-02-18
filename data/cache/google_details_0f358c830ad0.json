@@ -1,0 +1,351 @@
+{
+  "query": "asmodee Canada, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340243.7720916,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local 100",
+        "short_name": "Local 100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "4001",
+        "short_name": "4001",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue F.-X.-Tessier",
+        "short_name": "Rue F.-X.-Tessier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">4001 Rue F.-X.-Tessier Local 100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "4001 Rue F.-X.-Tessier Local 100, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 424-0655",
+    "geometry": {
+      "location": {
+        "lat": 45.4099137,
+        "lng": -74.06261080000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4112692302915,
+          "lng": -74.0612495697085
+        },
+        "southwest": {
+          "lat": 45.4085712697085,
+          "lng": -74.06394753029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-0655",
+    "name": "asmodee Canada",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 506,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112561845745547042013\">asmodee Canada</a>"
+        ],
+        "photo_reference": "ATCDNfXsBaBgfOfo1vsWVDwsdt2xfP1qoL-0czYmVryyXNkr-BewjgAh8L1R6_P2DrlHQO-E-Ulaujagyg9OOhrRHpxFBYyrT9vxSI3hlGFjjj_sAwEwQHlwFE8qMeJqvdD_H5cgzFvRL8PjPOgZsoLWKYIB3L9xoEo1EUmZ1A7iR7qpf3nqR58knPUV6qcCxYjPl2JrYU6pOEKFChADPfrmcLhKpMRzPDdEOKDl7pCZWkFncyjTn5YoNWlAoCj5JL-MlgsoOKsIwiF4xg-LIfH89LzstK0FyDMcuN_5xZ9ac2E4NA",
+        "width": 800
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118362261203964440551\">Jay Weiss</a>"
+        ],
+        "photo_reference": "ATCDNfVyzpa-BLykiAcg0NMwd2vSOjaCDz5n8eqAOXCdt5GuufFiHCTMB05wQbEyN5XvXwMn695jSj_gQbj_-3SMSI2TYEWzVsbRuUjmSBaXxaqiOz4O-g0peHEMYlhiRRCdEV--GGBn92cpjE-_UcnJ8tyubAV92ZmzBLSDSPbGQY2BH7OxqhG0CPhJkGZ4xerijoLzMtEXNGC44tI0I-QXoCN49SQuNjiBWQTHhTrlJKnOsCebaEtiqXtPROTSOdUISfV2y7iJ8FB3zJm_ErNmogIfFYK-f8ZAxzBjSZXOkFFG3WBfx8kD49vSDLUNU4WfcpwNEFLHBgzQr5XBwgi57E_3c2cAVCCdJ6qY1SpjePNei6TRZtPxMwWTcWKGlijODJAfTC-JNfaGoPqMJ0l-v-0DWivbVsHUeGs2lSQi53TsNg",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118362261203964440551\">Jay Weiss</a>"
+        ],
+        "photo_reference": "ATCDNfUmMbPA60kJ9CM5f24XwIry0uca1nmpoEELFfjHg-eWuWy9eYwZz4t1DVbDUYBnAXQE3c7CLQNMICe65HgmOJ2VfhZQr4xR1Srf5wgDQHqDv1T6boO9nLFMfa15LJBb0GM4Copy3gwSWTjp0Fr6al5dJ-0q6L0rLNt0f2PbzAKMCPkHIC88mA5ZJ_y3v7ufPBq22QGFwq9GqRepsC2hZ_06Na8OUY3sxMyiGzpFh-8EXYsn_Zsfj9-QGaIZjo-B8MEc4WLosgKJmxXNrth5eMMjzKOvvTEzTaAjL9uaNSwpctiCsolpUY12StAdK9QKUuzI7kTxlVRlKEivAECBf6Uc8pPrr2aAFEh6ec26h8tPgrI5o5eqSF9tTcbDXuzT9RKH8ZfIWewAvwu3rm43j6oReU5K8MSZQheEcfLzX6dB8YzR",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115812782769416862242\">Eugenie Gagnier</a>"
+        ],
+        "photo_reference": "ATCDNfXmezo6mUxKgpCmh9gSz2G1iHar2DOwgwJr8ERWkqCG7pl97k8p5G3vh4m4V5hazw6IMJ9_amQYzk4Vx3_3yDX6f7gGr23jHVUoS9lpg9RL1dYAeWQJSIia1vjrD7MO-hs4E29TKCZelObUdY7c0MK7cr2W6gSFcIkGcRPxRF6O61e5rDucdtuwj1i41hX0YG9XSVN4wHIUPPy9F94HE_BWaM9SRB1vMsSxC7bTmDdUZwOj2QJ7hJM3YneY3ue8G_44KOYNx6PbUmDVdxi1Va3Kr8xJ8brS45sBNBEbEouhAZsqKbFsOY_nlYHM-o7dDQLBC1ekuqe95Fr9tUZgZlma4TArk9KqHZU0cxaEcMQ2UqqEbD3f7BSDyv2RViqenrOuOqCMHlrXsbTfzXx3zX_C4OuCmMnX7E5wAQu8LWIk5g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJrarqChfJzkwRE83UklrMciY",
+    "plus_code": {
+      "compound_code": "CW5P+XX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW5P+XX"
+    },
+    "rating": 3.5,
+    "reference": "ChIJrarqChfJzkwRE83UklrMciY",
+    "reviews": [
+      {
+        "author_name": "Kamaldeep Singh",
+        "author_url": "https://www.google.com/maps/contrib/102595481517245095653/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb6Fs2NycI76y5Xi1KiVx8-Sd5vWmDUSc31vwNbLjjBDJkpvs=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Reception is closed to door 11\nQuick unloading",
+        "time": 1766127669,
+        "translated": false
+      },
+      {
+        "author_name": "Kosta Matzaras",
+        "author_url": "https://www.google.com/maps/contrib/109949835307914762963/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlZ9Y62oBK0nAvAJSQ1NKVUYMlc_mFUPVps0SRzG6EJcFQ6PGK=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Martin is one the finest people I have ever meet.",
+        "time": 1714406152,
+        "translated": false
+      },
+      {
+        "author_name": "Shahiraman5850 Singh",
+        "author_url": "https://www.google.com/maps/contrib/117193447023966403635/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5Z0LA1o1Ahk8OLMn0rKBG49xQEm16yCxlD9jslRH_psbMng=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Fast unloading",
+        "time": 1751119125,
+        "translated": false
+      },
+      {
+        "author_name": "Richard St-Hilaire",
+        "author_url": "https://www.google.com/maps/contrib/105407115280781696977/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYtIiBfkOeIoz-KZPZMGUwNbrFp6dWmi5Q4JacLRakGZwOyg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "I urge members to avoid purchasing the Chromino game, as its colors deteriorate at an unimaginable rate (in less than a year). We contacted customer service, who seem to have no interest in replacing the game.",
+        "time": 1768424888,
+        "translated": true
+      },
+      {
+        "author_name": "Eugenie Gagnier",
+        "author_url": "https://www.google.com/maps/contrib/115812782769416862242/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNaQCqcD286A7oL95p6uxaD8SgPDUpogaqIcoeDvkV-GtTsAlcaA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Great company in the distribution of board games, I have always received answers to my questions and their variety of games is incredible.",
+        "time": 1749060193,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2770501410168818963",
+    "user_ratings_total": 16,
+    "utc_offset": -300,
+    "vicinity": "4001 Rue F.-X.-Tessier Local 100, Vaudreuil-Dorion",
+    "website": "https://www.asmodee.ca/"
+  }
+}

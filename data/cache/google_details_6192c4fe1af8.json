@@ -1,0 +1,423 @@
+{
+  "query": "ABC Clinique Santé Vaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340180.7214348,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 110-A",
+        "short_name": "Suite 110-A",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "54",
+        "short_name": "54",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">54 Bd de la Cité-des-Jeunes Suite 110-A</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "54 Bd de la Cité-des-Jeunes Suite 110-A, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 455-8500",
+    "geometry": {
+      "location": {
+        "lat": 45.4054796,
+        "lng": -74.0385546
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4069485802915,
+          "lng": -74.03705711970849
+        },
+        "southwest": {
+          "lat": 45.40425061970851,
+          "lng": -74.0397550802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-8500",
+    "name": "ABC Health Clinic",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117428037420074514740\">Chiropratique ABC Clinique Santé Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfV1dRoYQO626POvYe8ETeCJG5ei-46KFk-t5r0BPYBY1PVKmtX9C3pp7ulcQ7Ayr8v-wMC0NDUzbqTvihgzti3HGMuIjsV0XLbeD6vkXa7NA0Paa9JHjNgHa34Z27n5_MR9_tyHxNuIvDXOxvi0m-MKKv2zi9eJbRHlDggPK9BmsYo7ZdzqY3AtXVAfTZ5Zl_-rDl7G0n0WiX_4bE_SUFhBUZ-G9ldmqaRhcDvvVgz7rBs6M2NRBsJpWZumNZn30sYaPmeV9uEUQ9nyfwy5hMX2Wg_Cc26IKvLHhne1j5bCBQ",
+        "width": 4800
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117428037420074514740\">Chiropratique ABC Clinique Santé Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVRuLPBr5tUvUujz4NGTTCY2mfYzyX49ZN0HsmD6nd995pct_shaM1ByUjxtgEoQyHwwogtdam8EqopCg_jhylpweuF7W4Ke89odzbE9mmtk3sQMciP3Qrl14Mp3gDcZ4SVLKLe0YLbzaUJxMZmtwd7Y8gAcN6O6mVsPv4HwYAo13IZeeZjsEIPzv7rccGlWGmp6jgvBe9Q38FPHHJoB4obTQFyEeg1ndhYV79WFoCmgvS2m565Tj_4BLFQf_r2mOEW812tKXPlMLMw_JToGIkIhNi95LZx-y20Vq4q-g4u1Q",
+        "width": 4800
+      },
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117573949523473850277\">ABC Clinique Santé</a>"
+        ],
+        "photo_reference": "ATCDNfXmxi9Fgjpjd48QqKalrag2JX8WMSMx0A9eUrsfIpWmg0N8cphhBQtiyOdZShJ2-81rjeyyAdgnPdW1wwPqLD7ioUe2IL3vcUDtclEXMR8l1uffBrkQLz1rG5uFhe2mz7jQGCP6plFLMqbjDF_9dFmGDXGOAHlvBA8VXi8gsHkVD5Jf-rzUWH4xJw2SFB2IepwZGnjEvAHRNq2yJHso8dugdKCLzY65C502GF4HEFVFB2hChNYi29a3VPpPGJauvCYJlC7PxAS1z92ClzpQruKHVelzkatVmJ4WSCyDMwgyKVe9qjc-EvYHkZnnO_Dkmaj4EtpLVXw7YU6G6jzD9eFWqo2l04FP5LHVJntxlD8m-DGnRm9D1zbg8iPCWQIj1MBxaAl1J59FFFMZTtaQUOR5MFSFv3--WFPeFN5Gjh8kwQ",
+        "width": 1280
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108156962290040215375\">Kevin Fortier</a>"
+        ],
+        "photo_reference": "ATCDNfXmCv-adj-009Zml5rONyYXhNaMUOMEIRJ6niITdwL1XdSRH5d0Vs5_te4p35M5dNSKVzh9ZDCr4DS1x36y_9wgxv_VIxTLX4H4bNVDnWscN0MR1nmWQ9SkreikkbzcmG_NwoXVPVvW4FSmYqVOI1qhK7HeR_kIt1zLEUV_PTpxgcCx5UTgKhtp-g9HPGeWpQ4u2P4WygEMOvq9GqKFkfEiMDkwzfpAus2eOn-ii-PntQZS5njTLp74PNv-pTLo1vOF6UKTCyr6NeUylG7n90s4HVuGZSZkCaMkFJVQStWd3TSyZnwAuTroSOo3UOMHXmJTLw4xAKSz3t_cE0TzipPMZGo_n0HoYm4CxBt-aNccKvz6jvIqDOTv5G-53kWsjZBghv5vbkyF2YpBeADHZY18lMNl0L962UMWiFjQcTtwiA",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117428037420074514740\">Chiropratique ABC Clinique Santé Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVkZwHu3rqdHpD4DZqfGl3z4G7E5iXfZ2wqhODt01Y-z_CqLBGRGflCfymuOSXbdjLWfuonzVxNhcygVLYxXFgJfUr-xFZYkFrSEdYnRaHgjR6X8Q20ThYsHgs9_bnsmzZMmGqvqT_giI4Ty4X3mi1sBn9C2-oGEuazgZ7kQUzAsSSCYF0S0TFj_dIvGTM6VxBsW3XINJL9PwulDnl88h7xYxHZfGuBXun5v7Bh5tA9rYIidZjGxJ15Vy5-DWSQe8cmgYmOJ25-KYU_CbDNBbZTizzZ95Nwfs9Md4sKUhZ03g",
+        "width": 2700
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117428037420074514740\">Chiropratique ABC Clinique Santé Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWlTRUsv6058MBCLXyyn_vep_5spVkx6qg5AviCeYU9Nb2gy58I6FCJ-v5NzrYiJPneXE5UowP2wuGxvRZFut4khf1xf_Lpe7M20SC5y2Y7w9rJu8utyL2xSZm1UwKS1X67Y84VWtXt2l-QPRdMHNCFq5i8DKeUdj8tSYApUSGjoTTxlFD1lqnAi7qJmoGWYi8i0bzJ2A8Gh0z3ddZmHVTwuIWTDX2VKW-ixTisoBPouvyRjNcNGYsMB-fJx91MQYpv3JqZWYr1z0JaBoXtuoAOo1YvXfZlUJDSJGlR6jx8-w",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117428037420074514740\">Chiropratique ABC Clinique Santé Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfU7Y9RJxG32uNDSUK2gOd7UNReLUVT7aOoWVxPf23gENUZwLAW7_Ygxlaii3eMsEVdKA8T1xSXP2W_qfOFoYHAzYQaZ92yeDuIfoQjBnDgjzA3nWpXIP0W3e3TPZhUGQEzO1HKDpUVk8PI4uKlZ_qteu_wJd9LVb_4awfRaBP5M21MoErl4TGtvwQl_M4p3bzKbIMgIGL8kYjsUe5oejY71GM7iW8UI1MwHYkcWcYkj578JW9MXFJeUKzQJA1DPejUbetLYDIkXIJJSQkY8ZUtad5FCuW8zyuU_vZwkbH1uNg",
+        "width": 3200
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115883276535779532296\">Natacha Belanger</a>"
+        ],
+        "photo_reference": "ATCDNfUyKHg2ATjzdzutu1IOL57S1KJYkUNUT_L5f5l_-Jb81lwIIGvIpHO-cpffH55zi-cuglR9UjE5s03q7KLUKRLeMEIHgybQQva1Corj2nYQpNg71x_oJ6GfGvSVtDgz1j6UvqeB4CSrjls_A1-lsajWQeeYBSjB05g5jnqpHenU0STTGvvFK84AVBrHC0FG24pjFW2BTFYQfNCR5xGvp2z4740-_LnZ9ukUkiOYuTpSDCUBniKVyMMd3ziVu6-bFhE5xRbm4kOyYJSICEy2reZFdxdTAboGfx-PgfDQaD3uqR8rd89JWzHa_-EYmdXNrpS1TgoRVMp9NaNZ0oeekbk-P_zdP2wqgklpz5-zF7cEN99xm6ATU1Y3Z8vkhJtieaJDSaL4uGG1phHsxTN4pD7dYbefNuZNfpHnCuIpuKn7eJV4",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117428037420074514740\">Chiropratique ABC Clinique Santé Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVXH2jZzShaXuyqeLYRJQVwohHt2L7hFttRl867IVaPx03MvUl4EQAbbtZShvlwILTvgnBNVaJKsZtwPdv3E3S0bPDScetXYVmcf1z98-6DMpDvAF4BwdyPnqk-6Lo1Mm6zk34uW5k7HFvw9MFP_Hp3t2VpZPZAo5Jsv_6DrpIEtDAwUyfhGfuw_RsUDLPe89Iwn5n8mQe14oAvblCZ687GpJd_di8XGAzmms0mqwkqXt9W7PPu9EXAKUwTsHysv0tybTr5qkajzFcHFd4KulssWW8-eCmARVpIQqTX53vPXQ",
+        "width": 2700
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108156962290040215375\">Kevin Fortier</a>"
+        ],
+        "photo_reference": "ATCDNfX0pVI2zkxYUoxXLZC7rmiRgs5fYuZxQH3PMAGjzyxtylbC0j_tczDkHcAi-zaf_LYkwsUSiSftCy7U_2aQV7EG_okxhI_1UvN5NFF9gQBrSoRsfs9scDWAIN9_Vpi2-2eU9U_k8Q-YuRzOYuRvvxvv1DrrqTf-LRVWNldH05bymxbxL_Y7TZCJz048CGTmaqEC91XUoybxBNa4DO6vw6G55boHsPfR8SIy1aobD5r0wFBW4jTB4HmPU4Key6eAUcviNX6ercqEkAjLE_No-vJ_DDK0-qYJ3sfmOWrEViJ6ynvWQr_4BGOdALr2W9HnlX-Z2hXsnXjAWaCoTgi-mLgu4XrtGFbt_8DAu9ZCh630HF-9tlXOXxJmuHaYzPOHEKh6EBoKDKUTLgh7OPNdQvQZ5_u4RGxc_LICrlNfErPqu14N",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ_dshkM43yUwR_p1oKzG1a4M",
+    "plus_code": {
+      "compound_code": "CX46+5H Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX46+5H"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ_dshkM43yUwR_p1oKzG1a4M",
+    "reviews": [
+      {
+        "author_name": "Dana Al Rifai",
+        "author_url": "https://www.google.com/maps/contrib/112751923448436869408/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPBL_5YcG71oNg6TJYtpiCH78uP8yAnak2V_do6UW-CdmNbJw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "It's an excellent clinic, I've tried several types of therapies (physio, osteo and chiro). All is good, however  what really made a difference is Chiro with Dr Farima. She's simply amazing. She listens thoroughly to you and tries several techniques to fix your problem and alleviate your pain. I can't recommend her enough, she goes above and beyond to treat patients professionally and efficiently.\nThank you Dr Farima.",
+        "time": 1765487927,
+        "translated": false
+      },
+      {
+        "author_name": "Dory Chamoun",
+        "author_url": "https://www.google.com/maps/contrib/118231376512444962779/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZp4gkM6m1fOBU47dvLfMpYV39P2UQjpuPvtV9HI52yJmiFKhC=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I have worked with ABC for over a decade. I have seen their services continue to expand. I love that they offer the full range of care that anyone can need, and at any age. I have gone for myself, my wife has gone and now we are fully entrusting them with our newborn. Our newborn has already had two adjustments and we saw the improvement after the first one.\nAymie Brousseau has been excellent in the advice and care she has done for our baby.",
+        "time": 1726515961,
+        "translated": false
+      },
+      {
+        "author_name": "Franco Puglisi",
+        "author_url": "https://www.google.com/maps/contrib/106982951322842700210/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ68WmaYwdBFPOjpXIDSwegrMA9ZdXKw1h_29Y4dO7cA_9p0g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I was suffering from foot, knee and hip pain. A friend recommended I go see Farima at ABC. I was sceptical has I had never been to a chiropractor before.  I must say she is really good. The results were immediate. I’d say , I felt 30-40% better after my first visit. Farima is very knowledgeable and professional. I highly recommend her and ABC.",
+        "time": 1754438383,
+        "translated": false
+      },
+      {
+        "author_name": "Victoria Ak",
+        "author_url": "https://www.google.com/maps/contrib/111459887715476414074/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6E72nh_0CZiMxJMCuSG21-kkq_Y-hhVaOIei2aXCaegqz5uQd=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Dr. Farima- the moment she walks into the room, you feel at ease thanks to her warm and welcoming presence. She takes the time to truly listen to your concerns, making sure you get all your answers you need.\n\nBeyond her expertise, what truly sets her apart is her caring nature—she genuinely wants to see her patients thrive. She goes above and beyond to make every visit a positive experience, and her kindness shines through in everything she does.\n\nIf you need a chiropractor who is not only amazing at her job but also an absolute sweetheart, I recommend Dr. Farima",
+        "time": 1741202402,
+        "translated": false
+      },
+      {
+        "author_name": "M B",
+        "author_url": "https://www.google.com/maps/contrib/113980782935584549434/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCcVthH-cSIVaqJoXETxsiQcUdTa-eYVLVpHW_A7M7ITOeTg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Appointments are on time, professional and knowledgeable. Definitely recommend! -Monika Bronson",
+        "time": 1763342233,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9469861864262901246",
+    "user_ratings_total": 326,
+    "utc_offset": -300,
+    "vicinity": "54 Bd de la Cité-des-Jeunes Suite 110-A, Vaudreuil-Dorion",
+    "website": "https://abccliniquesante.com/clinique-sante-vaudreuil-dorion/",
+    "wheelchair_accessible_entrance": true
+  }
+}

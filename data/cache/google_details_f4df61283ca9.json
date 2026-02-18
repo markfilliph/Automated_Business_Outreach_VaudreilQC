@@ -1,0 +1,333 @@
+{
+  "query": "LOB Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338252.830437,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "640",
+        "short_name": "640",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Chicoine",
+        "short_name": "Rue Chicoine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9J4",
+        "short_name": "J7V 9J4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">640 Rue Chicoine</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9J4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1615"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:15 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "640 Rue Chicoine, Vaudreuil-Dorion, QC J7V 9J4, Canada",
+    "formatted_phone_number": "(514) 684-2626",
+    "geometry": {
+      "location": {
+        "lat": 45.374239,
+        "lng": -74.0262742
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3756175802915,
+          "lng": -74.0250646197085
+        },
+        "southwest": {
+          "lat": 45.3729196197085,
+          "lng": -74.02776258029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-684-2626",
+    "name": "LOB Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1615"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:15 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100864612308122376132\">LOB Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWHu5FdEpGe15t7np6AhEAnXorw5ICcat4IBYb2TLu10r4KLNEtGgJXPqoDw9ksbRbyTJHla4YF1tIXkCOKnKyB05vraKHLuKGNth2CJwnHRLlsU-QNACBCZskNgLBWiGp-MSnDgN1lOVIlpFtreq_9Ij8iVK2m6yUTjKb8OJ_mGtTxlQOK-YABhxN4zKZu-oQIcMEl9BqJmh6AzcjFaCl9VH4I7dK9xKEnbj2hTqJ9Cd5R0RdSsVAwBkE_YcGY9eQ3HgjfDLyoPXzpCTXzWotMlqwgszN8M8KSbgMGJPeBAg",
+        "width": 3840
+      },
+      {
+        "height": 1420,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100864612308122376132\">LOB Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVCwk6RJ9dMMT-qSTVcJ94WG4fNZv1B7BQUiqOuslK79p7rvn_EDHvXCX4Wz6eGs-tkRvjqRzynqn4be0vQy567bOLmHe41H4_WL_qXvl99RR1qf75bTUpWCDbQx_kfbLrfuUc0PsmGw00ExXY0KgMeYKo_r-ydpWU-8Fpf9gIafeBS53OSW0mGZmw-Ws0RUwgAu6rr2G4rNDgYq9VlkW43xiaZ5DIcm_s7TIE4nz7qZCmgxanLjdh6jk049R5fuM5xp1Ey8jXp-f8O5KG90Y3aum1Xuz-aHYnPmypjwJiq5g",
+        "width": 2774
+      }
+    ],
+    "place_id": "ChIJM7GWDOY8yUwRGxK8YDytpgY",
+    "plus_code": {
+      "compound_code": "9XFF+MF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XFF+MF"
+    },
+    "rating": 5,
+    "reference": "ChIJM7GWDOY8yUwRGxK8YDytpgY",
+    "reviews": [
+      {
+        "author_name": "Curtis Killen",
+        "author_url": "https://www.google.com/maps/contrib/116269928189193275175/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlQjWAW_oIi9uTUefhsx9oj_zCFCFdWAh8Ljb5B3U5VK1vf0g5=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "My company has worked with LOB for a number of years. They handle our phones, IT security and much more.",
+        "time": 1594919710,
+        "translated": false
+      },
+      {
+        "author_name": "Shawn Babin",
+        "author_url": "https://www.google.com/maps/contrib/106835659224700716665/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmrwKhtkKP9x-dIwfnRgZgbcSIycQdMbsg5_7k70KEsN_3TA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "LOB, excellent service and a great team. I highly recommend them!\nTelephony\nWebsite\nIT Support\n\nThank you to your team!",
+        "time": 1574984030,
+        "translated": true
+      },
+      {
+        "author_name": "Centre Chiro Hudson",
+        "author_url": "https://www.google.com/maps/contrib/101954590023311073033/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgDZyhgl9cwUkHxt4Dq3wd0Q0Ne7uqJ2lKI6mqQkc7deREjwk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Friendly and professional service.",
+        "time": 1586046836,
+        "translated": true
+      },
+      {
+        "author_name": "Kongo Ya Sika",
+        "author_url": "https://www.google.com/maps/contrib/113078711513778145898/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrL79lFNPweUQBiKaGYdVIM1djWPBOvKuAiT1s6oIw1u9crUu_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1686218497,
+        "translated": false
+      },
+      {
+        "author_name": "Julien Nadeau",
+        "author_url": "https://www.google.com/maps/contrib/103152705449959668326/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU9v_1S46KdJNebjuSb4r-W8QYjRGzD5xB8BTu6ZAfYEyTgbjE7A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1578783299,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=479260885194117659",
+    "user_ratings_total": 8,
+    "utc_offset": -300,
+    "vicinity": "640 Rue Chicoine, Vaudreuil-Dorion",
+    "website": "https://www.lob.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "query": "Ryder Canada, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771337956.874558,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2399",
+        "short_name": "2399",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Henry-Ford",
+        "short_name": "Rue Henry-Ford",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0J1",
+        "short_name": "J7V 0J1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2399 Rue Henry-Ford</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0J1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:30 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2399 Rue Henry-Ford, Vaudreuil-Dorion, QC J7V 0J1, Canada",
+    "formatted_phone_number": "(450) 424-1094",
+    "geometry": {
+      "location": {
+        "lat": 45.3716132,
+        "lng": -74.0499932
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37323943029151,
+          "lng": -74.0483687697085
+        },
+        "southwest": {
+          "lat": 45.37054146970851,
+          "lng": -74.05106673029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-1094",
+    "name": "Ryder Canada",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:30 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2527,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfW5ypzkgRweCToo3Fs59TyzUnShfIqOhQjML5DMWV6G2IGn1xFYmknEHdPb3C0jKSXApbAUnIqahneO1b6EnHMG1AddOGtwXjDkTmdQh6fk7uC1ELAjLGT8iUsRthnSwj3-7KGlW6E8el0KJLv07KLOMl2KQ42yhbohLXj-YTHGowhyn-VGqEoB30iUKgCCKFcqVxRHJTJ78U9NQ-WwsW0TM_4J2UjfWYOcj_cxcELtJ6vJRh1vIl9kyo6mul2VfgtalXCzaNiCFTm-9q-V0hwaj5T2A1AbJ--erTsb-KOiGImallF48V3tBj93qvO_j4NDt3Qb-KYglNXUdAUjvq7cbbe9mJvfcFDD09Hcv3smDhHrAyGZhWqv7ZEvAmngB0cp9M_XhaDNffkb4blqB2-XDFGHWEfS0SoaYPmJO8LIxrmP",
+        "width": 4800
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108103392114257709197\">Imran Sharif</a>"
+        ],
+        "photo_reference": "ATCDNfUxpDoc5bK7qMinQycnC3oUc8RHqvByXr_7u02pzisRqLDKIqQpvGvbPTTnlXKrDOTmMe4xzmThY3cxqt7bNvAx5VI7ML3sEI9lcS_ivRrV5-mq9jJE9wTMhk4s5GIQQCIi5wMhX47VaSeBoQXuLvMUPm4jQIejXpm_HRsUtlG-WR5-JUQHOGJkNr9TQFhQAiRlE__rmtKmjItYM_ICjM8qTmAPvUK8ueViKYUa5nZil6hqqgYx2AHslGaL5ELE4-JXdJFGsaA-0GMo6_MiR6V8Znhoyr6_oOfs_zf34VIy4LIDx0DkPsCXv8nMTIvuc9tkO2CaL2auRkmmZafGrnd5JHij4nWs1Poym1vUFsiRr0znpyETKhaM2PGcozg82IjtRCkXGiY9WtLrTmPzJmzcnZM2tJ6iIdkTDTxLE6S2sA",
+        "width": 3456
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108103392114257709197\">Imran Sharif</a>"
+        ],
+        "photo_reference": "ATCDNfUSmOGti5pSy2Ay2iy-WM9zWTZ-curZTb5-lHQfKXa4Il91x2w69OKZ8w-oNTZcUWhlUGc32CcS4r8XTCPF4MtucI5xrfuhTj1EjuN7hQE1J07WAH6XRs-EG9Pz7NUhc0giLSlGEQN7n0a9VOdbHzD7s6unVoNplwJxqWSP2yYtf9y7e-RJmiWarNE2q_XYczEXcVGRcE8AJT-6aO4QnLJjJXFT21XgnCPVEJpuZLnStrMk1D0BQ8YX5Pv8EHbDsng2y6T0g80IDZ5Av6VpeAJI0x6lsOZW8fQ71ciq1suiqlTuEf48q19xPXVs2GX3h9C2yKu5BBOydLd7x0wD3h-lOsXpKOBosze-Y7byXGr3selgckolSCJvh75OW7dZeWxfOznJE-utsvRFOkP9YLrzCnNBzIflStk-fwHmGA_jFw",
+        "width": 4032
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111259644950253502928\">Manjot Singh</a>"
+        ],
+        "photo_reference": "ATCDNfU1YVp16iEL6Y1RnlXEIIU-ine8RxPXojolqixiD2J4Tzc_WGaW7z2aCAbuRvryANR5iUbj5CTg6P9AwR1qwUzGJRYfBs7cV01zRn0LBqnPz1f-EwhaVYtad3Ak5W7WBgstUeeVEjPh56hHvQXQfqXz7N2sc3yeZ88XRDlXpnYOcakDypYct9OZdHacb3C7_6d0gqqZ8RIYyKETD4cwb9COQ7ZfA9N_I1-baq3VRh5Flsiw57lbLUkFY8-RsAPaDUgmSgw6eXb08rOfp8cODMbQkhJnLNje_y5T4Jx5L9LPDkOsfHe6KH_KV8LmQDq0IAzwveLP87mgULeKGIE85MCXzwrDu-mZHxAU1iprGngYPamXyQLLybzkOX0ca2rYJn0VKjSDHbTzuw5u_2pG8DmiI7f273w04v9C_rGNGa6fSQ",
+        "width": 3840
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108103392114257709197\">Imran Sharif</a>"
+        ],
+        "photo_reference": "ATCDNfWMjCtHT5jiKDUt3Mdwa0lEbbOver-vA3mRI9s6XK_3SkeynQO4ZbBsQwhbGltUeeuATe6EWyiETHZBuMIfk1ruy-thr5xXMa-13QVx1gi4fEw34rZlSk9cKPGOHuyJPHHzqlMAhJnL_GKsv5v_5i640R1wpBjr6_lm7lcJCTIHb2ac1id4K_i0s3dobmx6LOzHo5CY78fwiQvvxEo9npRjsD_VsQRVHOGBzCAsVpN9BWgaBicsmOIdXKSLZ-IJKhjYQxtSz7ihfSx8o-ACkMIkxTqbKKwvFLJRX90sjF2BPHrZF7r360eI6JOm_C_M17G1L_7C-ZoJnsG8XktJ5GvN4jdk-O4ooOMMZIWUHBwgko93NCLprhROPyDyoNowGKcEnEIYWKaW-0Ri-_UDTkZF-ErWgHcNZjaNW_BBMhLuHA",
+        "width": 3024
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108103392114257709197\">Imran Sharif</a>"
+        ],
+        "photo_reference": "ATCDNfXgDQ_DjwtCILoJKffj7M_moq77jOUzuNF7UaoFkVJyiFvp47OFut8nKT1fzuKeKj4dXKeNQBlE7A-fX0_0nj7x6nQli6bRIoBxwamYOsI6BQPXD4ynsVVFGRgNgN2iLOVTgmMFuzMMlKtGLSyK2nMtVXJo60sYNIblSgYfKAVtceQ5yXjFud6O12GObcPqi7FBomsl7__hHpUAv91lUW3YPxHqP16YDUXX3y51b1OC9xNx214Df6UCRpdV9K3lXy0UaMQwUFtxBRdJmxil7CXNXf78JDXIYVcucOxp0GXQ2Q5BaOArmaa7zjVBOA26JqprUVs1EgI0Pdeiq-1H7CHPoVpLAyPvifuEzHiGcVl7DYMsX8Kbqae7AU2dOoa96MnQ5tWivXJQfd4RpwwPQXerAtRkivIhAKYLJH77QK0oE7fY",
+        "width": 3456
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108103392114257709197\">Imran Sharif</a>"
+        ],
+        "photo_reference": "ATCDNfXvX84c6UjzEc-H00YQlS2U9SwZmQvM4l_UHhgraWOevMW4_B9wbOHK-0geOR1ru_kMZLNOhFBMvyHRBs3_6C2q4BfbuZR_CIk0IluBEIlfJag6P1W9PfuK3V0Nq0x3rifQJbhiLW4QYy6AVxUJ8hoBQarjW7Le3I7p-vNRlr0mrxXk68j5sst_fPsw4eEwfZgv7CGbAQpx8bhdIB7THOrp3972yw2VNeB5PSoPWL-zP-nvCv1aZwhycJ8Vm0Ek1qR4XJ6RIe7Jsxy5L5rrjhZn9EIv146SPChwAgLo55MUsjJ5UWmtS8AWA2C07YELPnpgTM1hGEcUTNUdVabbKKZ9tci9Z5c-UrR5OZFv_YgkSTSP9uQl1YerEhzFHCIbcsNjW2f1TP2PbpfKlNecqPGBx6WnHKuLBct7fYzUOpHHGzk",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJpYA7_9JJyUwRUPXEqLB4D0U",
+    "plus_code": {
+      "compound_code": "9XC2+J2 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC2+J2"
+    },
+    "rating": 3.5,
+    "reference": "ChIJpYA7_9JJyUwRUPXEqLB4D0U",
+    "reviews": [
+      {
+        "author_name": "Darya Nurshina",
+        "author_url": "https://www.google.com/maps/contrib/102578498388448798221/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1p9UK7HgK6eULjbbCjfgvj_8lCXjBShFrR2G0FUZlNeNvExYu=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Made a 500$ deposit which I still didn’t receive back almost a month later. Came in person to solve the issue, but no one was there. A sign saying « will be back in 15 minutes » was hanging, so I decided to wait. Half an hour later - still no one. What a half ass business. Avoid at all cost.",
+        "time": 1621357901,
+        "translated": false
+      },
+      {
+        "author_name": "Teodoro Lalli",
+        "author_url": "https://www.google.com/maps/contrib/104087348310180588706/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0fwIp3tEJzQO4q9XTXVMBYyNPkqKigr_b_HiQ7HscYoYdvygW=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent service, purchase of a Box truck was done flawlessly and Benoit Gagnon made it all possible. Great Five Star service.",
+        "time": 1706204944,
+        "translated": false
+      },
+      {
+        "author_name": "Amine Elbak",
+        "author_url": "https://www.google.com/maps/contrib/109249831983991353793/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyj7aZZw9PoFSs3rzUN3rKXezXGmLThjTJLSLg_JBijyi3Uw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "I bought a straight truck certified oct2019 , supposed to be in working condition , The truck was delivered with new inspection saaq . Took it to a prehire inspection they found a lot of problems , thats all happened in 1 day from delivery . The Ryder sales mng cant do nothing about it i had to deal with warranty departement in usa i am still waiting for a call 1 week now and no answear yet . I have been calling every day since . I will never ever buy from Ryder",
+        "time": 1571935504,
+        "translated": false
+      },
+      {
+        "author_name": "pierre sylvestre",
+        "author_url": "https://www.google.com/maps/contrib/106385756865578770522/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIl3szDLqjLW4jjLlzopSY2hVAoNfcn8RqjImn8A7Y6_h8YTQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "inspection donne and many faults not fixed or just ignored terrible and all they say is we followed government guidelines . My God i had a check engine light on picking up the vehicle that wasn't there when i test drove it ' brakes where almost finished tires , terrible , and they kept saying  cost me several thousands of dollars . You want to save problems look elsewhere you will save a lot of grief 'time and money .",
+        "time": 1590161415,
+        "translated": false
+      },
+      {
+        "author_name": "gurpreet singh",
+        "author_url": "https://www.google.com/maps/contrib/110410439070617562510/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVhUO4SKqcTbsaALnm20HVql9h_MNSURY7nBGGxkZUhD2BNOU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "Good if you want to buy trucks. Nice customer support.",
+        "time": 1562733038,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_rental",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=4976328813408744784",
+    "user_ratings_total": 24,
+    "utc_offset": -300,
+    "vicinity": "2399 Henry-Ford Rd, Vaudreuil-Dorion",
+    "website": "http://canada.ryder.com/"
+  }
+}

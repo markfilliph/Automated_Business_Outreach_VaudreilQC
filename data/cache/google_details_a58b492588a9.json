@@ -1,0 +1,436 @@
+{
+  "query": "Senneville Sailing Club, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340628.631349,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "104",
+        "short_name": "104",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin Senneville",
+        "short_name": "Ch Senneville",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Senneville",
+        "short_name": "Senneville",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montréal",
+        "short_name": "Montréal",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montréal",
+        "short_name": "Montréal",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "H9X 1B9",
+        "short_name": "H9X 1B9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">104 Ch Senneville</span>, <span class=\"locality\">Senneville</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">H9X 1B9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "104 Ch Senneville, Senneville, QC H9X 1B9, Canada",
+    "formatted_phone_number": "(514) 457-8645",
+    "geometry": {
+      "location": {
+        "lat": 45.418576,
+        "lng": -73.968452
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.42061283029149,
+          "lng": -73.96700136970848
+        },
+        "southwest": {
+          "lat": 45.4179148697085,
+          "lng": -73.96969933029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-457-8645",
+    "name": "Senneville Sailing Club",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 521,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105844809923947357327\">Club de Voile Senneville</a>"
+        ],
+        "photo_reference": "ATCDNfUC-k_Rx6HACHHIfMeRarDk2azrpGM-lZrWTHCArqRp00Kn7PmC8rM6KMV0WNqRds6vBVeeDXB0Y3iGWfPot4UY03W0WstSNwfw-byZh2ndfiDWILPlCh96xSnds9PH5cOqn2elSKEoAfRSU4DgeJmtmFi16aT5bO-UIBmc-8oOp6YyCxH63Z9vc932wRPhlzGHLF-iqnMXBr83R9ka_l_Y7AWZzmldbAIbaZ3_UbIdu81S0P27ylTm51WC9RF9fU27tx_QO-Wp2B9_J7ocaov1-5RBgJwAgaAJbfb-jW2Pdg",
+        "width": 1024
+      },
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109133135180820724283\">Yvon St-Charles</a>"
+        ],
+        "photo_reference": "ATCDNfU50J4tZIgvWP4sT6zT5aahqINUTGojESIf47je6OoQ9_IP8Wf7arBNbWtf3Gxg9DqF8rfCgmXohPLcPqfFgpLWLDdcR1kL4HiZqQW57oKgv_s-ULkqQ53QgCZ_ivshNVwkVD-9uQqFrIOmW810SH2CVuYygyis-aZV17g7UJFYqRXdNKCW33f0_dYVsZLD47mUC0ym-hxlbW7HVwyDj-dO8wlEq7TyDNJPdDeSrgxopENTT02WNbEHGQLeJk1kISx_CqL1zk9luCxCRc40Z2kKLWiNlgO2GvAiLcIfcbkBXZEdq0AGunwYvT0mPAzC8UMssxPTrYEVx0gVIsBIZnzyeS46T_18N8f2tAh7Jljh8mnnp_-noypydVl9YfB2bqPJjRUer9OWhTwx-Njljy_naTF-pfQGzERSD3dk72M",
+        "width": 3264
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116347302445378001452\">Jérôme Benoit</a>"
+        ],
+        "photo_reference": "ATCDNfXwfk112P8m8q_LJZnLG-91B7uyGWCZskxRaGVywkB6EHo9ekJh94ruXIoftsfdHWqh4sefONz5dC73BwiuNbK8IMtunhpOiEM_Tllwy0uQ71ftdvAy7KqGmRUNp_JJRJFSpQmLb8q9vtFxpV1EexW6J4FglYEzuDVIrlgPyaqGK6wCwG0YuYuYMJb5lgxcpohTQhmd4NvBpL5WwDBz6EKViTKPcOTFTf1CwZQZg-p4BwyMXrMffBNdebyB7mXkbiUeP9fIXvFTYGeqHoVzCUPmaPU2yvZw4crECYCASO2_APh8YVv_CBmwh95o2ri3I6NmUwJRwfLIAG_puoJpt_yzDU7lprp-qhpc_JDxOuvEWwE2VVi69gZXSOkklidguO35CEvqp-bJVDhYMkOewmiG_ZYqtSjtCYxdR0i9gsl6f6KLQntsLKU1kqhygHub",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101607132199105084306\">Marc Philibert</a>"
+        ],
+        "photo_reference": "ATCDNfWfE8vfcHwTjsdZpxPXoxgyWsBYAELRI_leExf5ifV-QpInHVUoFaMErDGAtXWIM2pDGlAFeVdOvrGvCkcoebLPid5Qb_UvkQNX9LVEphr85JCXTlz2IsL5L-Bhd6uX88ku4nLEL9_AdovpHmGJyhe9_SxKaeaUvttOLniFs6uRT_fwl3Ylu0enmKZ8eX2689oaS7MbzDPAa3VzRRpfDAzcsekPKHclA7bQmPJRYrIaJwwhSjvvWGYjtlQL-3ceZVi9DExGh0uUJroLygbdPwZMA39T0fZiDs0rYdCFt1vBK2smjYaAi7Ar5YXudrieIZ6ZEDj6_n5NzGzawaamaL_kJlvJIRKZRPJX_0XekSXw0lBv_1g5OEY4ihh_vid_d9APHUIXz76bmC-_2RPlasmAWHHcJKdVc0UsPM2BP5XtAg",
+        "width": 4032
+      },
+      {
+        "height": 1728,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109196522758156323412\">Andres Hauret</a>"
+        ],
+        "photo_reference": "ATCDNfV3Uc_izcFbHjUpeJAq7H5y92Xj1HsoSBMCHKUmRIBofo_yeXfc6cJcmS_eoaJ3voCUn6t0jH-EnuOByXUCmhz3Cq52cDgBYLf_g2Bw_HVblVi-Ms1moK6_3v6C3GpeCAY8ZYHt86MFM4X14BcIFxvKJsjKhzved5LCOh8lMnbC7As4uPm4Bvk1DLGlGaYjfTIS6-boP2079bBx0su2keQlDdpkJJj0-OepSiGBfXTloRPJkAiZRhwmf3Ozb8ELRweECNkAqlYXU92zxeq_35U5iUslxmkfS_oHiXpCShzD5Zi9m54P1ySQdVLiaaiwVR0TO7IRGgKhMYRT2IXLVNIQ7f4ihOkHtisGmbUbOPCLjMrM2Uwtk_Sz8pfN-WjiOOFRVp9aLIiYWDcIRYVs27Y5yJ3mbhARX3NkmMrxOqhmjFJ1",
+        "width": 2880
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106708270043588217995\">Sébastien Courtois</a>"
+        ],
+        "photo_reference": "ATCDNfX7EEKdyNgeP6JygSSh9AUzt3aW0U6YI97iTcLvC73DWrzt84hH8wdTeo_n88BpQntX_8JnoY8NvZrB403Kzoi_smkDDpusfkujkG57McK8KW2CbW_h-obBhiZcAeaf0WRUtUjBBl9lphPW7P852zBryyTxcu22hRynW1s7H9QC5EufbNjkvzxWPOKPwuDZyXp38YQr-AI2MoWipx-vvfVkkY9ghPoMF086Rr8ckvjNR4ruZZTPlYWnCP1uc8gDvn0tmkh9UPV87Uoxbqj2LJg_5rvzpawiJ_DeskdG22Ad-8FgzzEX3GdTgu8Knw1vT9uL6OQOB_7kT11K-fOFhExlVagOr32Y8kVKHU58ORKEXhN-enrBh4R-OJRkChDo9q3QJsDfhn3_4hqVnTn8B3k7USwrXpfEBhezuBfeXqeKRg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106708270043588217995\">Sébastien Courtois</a>"
+        ],
+        "photo_reference": "ATCDNfXJFgo9zEsdAmaxWFtY1OfEUMTyENNAUNx3dhVE8kTb8CxxPBNr7AvvsqNppFyXEu-BYhTPUHIjJMTQIxk6wcmO3sZ0FyE2PdnKDicJthgY9sWk0IDHJMSJbRd-GFouZMLOWkhf3V6bVCx9i4TVWeiNxdk6V8vP5B2GARBtfIxk4ord8Q-t62e3iuaN_m6yIVYelnspjqXU9XwL2l9dqWEDo-rDOrdegX5haEA37LnIHPY3wNg6RrTVdQ2D8VncANjc7GmXNdvkslFhMlH94BJmIYXKbg6a5IJCAspufMTatgkofJotY2wtmZNXjU3atAXszsYXsj7tgh4EZEg-KKGFKP0bNtUKSl-B-MEUQyyH6BofMB-oo3VKOzXQtqKPt-YAbtmM_dwvhcuyWWk304sFP69CUGC0h1G_JMnBJF85QWp8",
+        "width": 1920
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116347302445378001452\">Jérôme Benoit</a>"
+        ],
+        "photo_reference": "ATCDNfVkC5mKJmiB3jvliyR2TPX2ApuyiiaC6Lv3jsVHZ40R7qScnG0tN9JwHvFf0uAFYmncXfuBLE7TVoT9DzHTCmNstkYE6TwmzOdIQTMN4Lk_RF4mS5Sw0kvtYOYW97MoowjML92BfGZnsT95mLHzgXewhPnEyVnbODyUw1uKV0fGg-fvXi7Q1oV5liK69sWUfri21sJFjbjVfuNc_2I7EsyuOnv9vOT-cpv9hgczGszY2o33zWeJDKXJWZSaD254qmE37gNGLG_6fDdppMSSkGJPBCxw4803fF0RN8AYwYsD04i5z_i8fvFEn9LySyB5siI5HSZQT4xZWuPKX0GVaOUrECyztWPBb7ifVQdvtSAEF7N6gqd6AFDgqoHy3rFG900cjTD_BvyAYUdHjfGWr743GLHyfFijcD-gk3miwoQuKfBzaKXNbcxe-GIejIik",
+        "width": 3000
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103440235815513290856\">Aurelie</a>"
+        ],
+        "photo_reference": "ATCDNfXyWCDk7H2aNdsJnqyVQaNTz2SPO87GkoXyuoQR59z7ls5JDS7XiC9PUb4agzWVQMiQjswk_x7pI2Oz9-TGD5XlL49b3offhKRaxtEw24e8tscwSYQFb1yqlSqKLp-ReaVEboD7AS6QLBVrWER8z-FLka_2dxTINiDRSN2xybBGimLClkEOxmyxC9GPQCWoTzmzkbUX0Wdes7dKe0YkHSFwfIKeeUE2kJRrnSVhNAA1FpqPQ964QKY2jOWz2OxPFKHfhfeQzYPqjbEQam413AOuJVSS0l-xO22K_aZDwSdueRymfsasv4US9_tSwYpL4Gi1n6QZ5itJvkZkhLhIUJXctVhF43MoZS1LS47OQaaYE_CyT07l0Kf4il3hNVxY5jthoT0k6EgAaA2S31DKgCZiZ-7btecYfULuOLF9Q0O-Bg",
+        "width": 2160
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103440235815513290856\">Aurelie</a>"
+        ],
+        "photo_reference": "ATCDNfWHiqSXSk9oVGAfwIsTgIHyR-aif4DrUXHbaBvbh_Optge2hzYab3-AJj6yH7o5TCdlICwdBCyuprINdERG5dGlUD5r-oSvTlstjOqvt8PaFVe6zoM1rySXdk1R2V11jOYBoKhLCI4rHV8hVhrkLYSHJdc4AzB5TZvDzdwN4q0KsQPnOsnZmHsHDM91NmSUefvl7wyQiEAqh8mOzoq2P-BwkBrR3S-OpqRE3FZftcSSsB4e6k-tCWpAQBarAbuAqxT-kYWrFIo4uwL_chJgO30cdLt5Lth1LRsb16tDmk4DTuh-q200Qz3hOLDMmz2FTFyeZHWiBvcD_Sjm07ixjndiPAhIMeGlDz211NuEYi_MahSMAy86VrgatFL8QHq9g_3hTqhlhbRVplv7A20qiCKZG2HUAsZQ_WXqAsQtcAhCTA",
+        "width": 2700
+      }
+    ],
+    "place_id": "ChIJ71G6otQ5yUwR3Q5nFa-7-F8",
+    "plus_code": {
+      "compound_code": "C29J+CJ Senneville, QC, Canada",
+      "global_code": "87Q8C29J+CJ"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ71G6otQ5yUwR3Q5nFa-7-F8",
+    "reviews": [
+      {
+        "author_name": "Daphne Badilla",
+        "author_url": "https://www.google.com/maps/contrib/116941904031605451866/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXs_IvAn2UEjbebeHeLW5ixbTLuE3Ab-nYOVT7GqFmhW4x_xWT=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Very nice and cozy place.",
+        "time": 1759761982,
+        "translated": false
+      },
+      {
+        "author_name": "Roger Brassard",
+        "author_url": "https://www.google.com/maps/contrib/103176532598940692032/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0NfxDcrLRg-zeKPOBE0peVfZdvBwHOsE9oC7V3nzbtqlXHS49VA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Beautiful place easy access to Ottawa River and Lac St Louis “St Lawrence” and Lake Ontario. Your in the city of Montreal limits but it feels you are out in the country. Never been a member or been in any buildings, just a area that I go for a nice walk.",
+        "time": 1559669009,
+        "translated": false
+      },
+      {
+        "author_name": "Tony Aveledo",
+        "author_url": "https://www.google.com/maps/contrib/101988242845276487834/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXibvARVZJ7FIDwf2M4eP_g-hrrH5PLrgqBb7p4ErcsCkAyBw6Y_Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Beautiful place, excellent people, wonderful lake. What else can you ask for!",
+        "time": 1528634502,
+        "translated": false
+      },
+      {
+        "author_name": "Claude Chidiac",
+        "author_url": "https://www.google.com/maps/contrib/104557220397207243967/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfxEX6Bnby6EMJzJGKieVpPGL80Gvb4mJ4Lpnry2ADR6gsmVJl=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "More than a club, a family for sailing fanatics.",
+        "time": 1505175983,
+        "translated": false
+      },
+      {
+        "author_name": "Nathalie Dubois",
+        "author_url": "https://www.google.com/maps/contrib/106045955559069126635/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSAHHciLrqg8ey-o77r6phaMra0jbuuXq-yI7XlQIywUlm5JBD=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Beautiful sailing club, beautiful location, private club, family spirit and camaraderie.",
+        "time": 1632844730,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6915483588480143069",
+    "user_ratings_total": 23,
+    "utc_offset": -300,
+    "vicinity": "104 Senneville Rd, Senneville",
+    "website": "http://cvsyc.ca/"
+  }
+}

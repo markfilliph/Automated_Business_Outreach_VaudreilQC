@@ -1,0 +1,362 @@
+{
+  "query": "The Erb Group, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338713.5496948,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3001",
+        "short_name": "3001",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Henry-Ford",
+        "short_name": "Rue Henry-Ford",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0A1",
+        "short_name": "J7V 0A1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3001 Rue Henry-Ford</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0A1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: 7:00 AM – 4:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "formatted_address": "3001 Rue Henry-Ford, Vaudreuil-Dorion, QC J7V 0A1, Canada",
+    "formatted_phone_number": "(800) 361-9438",
+    "geometry": {
+      "location": {
+        "lat": 45.3861927,
+        "lng": -74.0521337
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3876258302915,
+          "lng": -74.05034586970848
+        },
+        "southwest": {
+          "lat": 45.38492786970851,
+          "lng": -74.05304383029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 800-361-9438",
+    "name": "The Erb Group",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: 7:00 AM – 4:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115115400642962223990\">The Erb Group</a>"
+        ],
+        "photo_reference": "ATCDNfWU238cuSJg7AyYoA9SEFc0dg4bGVF4uA9xGgSJpa168q7UPsEX_adSMAuxKbMj9BVZa7J6oVkg1pd0ST1c5tUmLPuTiY-IDq6eEwPSr9u6iG5RAmZYDuJx6BEWD1IPCsGJld6Y4wLJxrbtwi3H0HDtppW59DKXtfLyGEAj31rFtZETkOblS5Rv2syfZ6X4UmPIcCUKyCmiSADQBRop3f2I-oV55yiBCo_wNBaASVplCR1IHg1AG3M9w6xUmyWRH6z8g_5LJNV5iFP74zhHjkGb8jChapBuS7aDe7ieJUkgUA",
+        "width": 4800
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115115400642962223990\">The Erb Group</a>"
+        ],
+        "photo_reference": "ATCDNfV3U_dyqGB659GBTE-W3wsq3sx2J8D_VpXbU6mDibQAHq03h8AZBQUIv1cR9ar6-e5UXGejZbh8aBy8R4LhXp4W-RO4mUKfevb_StcQuA2Iqunsn_ApDNj4MX6OjLSKjTio8P8JF05FGUyHa4CmPV09I0I6B6tuC651l6aoRn3bHKhgf_4cMT5p_ad9dAuL-sx15r2EkWl4osUNyY1U0DGapsMcWdyqSHJwjoeUXuAdlmbIbI9SVUboqbrMZVH0U_M4j6vEjVbxrEvgrEPwSy7X57rz7dmelURlPcUvUX8EyA",
+        "width": 2000
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115115400642962223990\">The Erb Group</a>"
+        ],
+        "photo_reference": "ATCDNfVpVRlqqHtIJN9pKMY1yvED_aGMl19MAfaHUM_xOJ-TfxRDBhZ9PHXZrpmGDbFkJdAa97U6yjnvYkDfRmXzsBL2pksq0gfR4tePoWKOaWHyeT3rltkfXj1iITjhYec4M2G6sWrq1QJmiQZWOI8E6UIC60XNpaF2ospEBl1GQ5GGmvXUCSS7-AznLf2hPq0PRB6Oh6vxJXwagyCHunU6RvpZGs2hOo7fmoLloeylkw1i8gYrGBN4w550DpiK2290kbysbMrc6tlBit-SCsW70H5rxwcCyiNhvHGQEuqj-Wfx1Q",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115115400642962223990\">The Erb Group</a>"
+        ],
+        "photo_reference": "ATCDNfVkGSMtVv5DAxZeA0J0K8DGETGNFWV9kRBYmaHMHwi_sHyavZuOPScL7WlR04E5ogpJJtAIlDveXnsHVpRD29RjZg7u6PhEwrE2jN_QkXVJ90hxDUt1A0NAzbyjoZcAukNrPqM5Mxijfae2weNZHpi37ZdlebKjkiXauPkX49ZLee-wc8h1r_kr1pBfKScpuTf3eARk4-NxVAvEIMqqkkoDwqKUgsqeKXb6I9FJPcgQ83E7lf4_GxHDlhrtmMSxqKDHWW91crbMvRa2fkdAZwfZ8IkdmBVcQc_kPl3dtWpgUA",
+        "width": 4032
+      },
+      {
+        "height": 2254,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115115400642962223990\">The Erb Group</a>"
+        ],
+        "photo_reference": "ATCDNfVcQLUXdvOB_0HySTA2lPL54gCxJClTBV9yyVl9d-RRUyAfRD5zp86-h_W69Rv3zQxXgRqWbHSIEvG8Kui2LHmso1WEc3JGBdhqMeiAQRJ5RO8lx-SEtlv4on86hknTuQSOMyRn2rdcVc2J-piItFF3EpTYM6ZT27futa474YtiOQ-mbB4vB2Wr95yCXBaUYMi-JOGutAyOr21grFegJLzeox6aDxPi5ENr7of5ms1a-Woe0uSHY3z1hrc4NAD7SqNlyoPGaLTOjx2oqcJP0VzETHm5Dexux84nW2tYH4cKUw",
+        "width": 3005
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110598469215949887538\">Sebastien villain</a>"
+        ],
+        "photo_reference": "ATCDNfW9XpPVE90W0RxDQyBfYTkzD4qRwJWhHY_PjB0tN1yeZLvENSR2Lrcc7AA0KNtywBfbnW1h_Z-bR7K_tUvxKj4cRVBh04soupdFUlK49CsuTzgpjvHOtxaO3YS-xcIcHxYkA6NpcZB_zURORDLta5wWVbS3S87JU-3e9ZPaTKFxR1ymINtZ0jz3SM0IGSZV1MeNrTpKiOg782AvOBuNeshbkjcc2BFMOvmb2RyPu14wT6RQbC4zx5jw4X1xztpYBMWzU1004YW-qsDsLBqdELxakhd6YnimakDQCOup4K578g0WfgCAz8O8sdxGekkDc0YqWK-wW6p6TPaouFNP3dQQe_0_cOUp5MmPHQ86oNN1yDsIipN9MRPqayzARkUG5L0RrhEsZ4ldGNdwLIMW0dPVPgi0w4wuizL2O6fELLk",
+        "width": 3096
+      },
+      {
+        "height": 1728,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115115400642962223990\">The Erb Group</a>"
+        ],
+        "photo_reference": "ATCDNfUG9hKis6oIxAbL1iHyHppsvq6cByWq7OTJYlbvaNew691KmtDGcE5xf2LSq63OPqvM5BWGDmg5NP_VD6hb_OOLKN_8jP_ELrzmFVMPHHRUjiNtoFwPds1pzKY455UzgJ5hfnLgYFWrroczQj7oajzApX-aR6EA4qObJB1M4sq-zhe_K2l0s_IfH4G8NfZBv74DcEh95KBEkZfgdx13WaYuryBpZFmYUUBJKgqBLAodLMRI2tUseiWKpoOsgVwq1Kya2Z3BGqsJHui4Jqy9aQQwYQAUr3E0wRsHCOW5rsnNxw",
+        "width": 2304
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110598469215949887538\">Sebastien villain</a>"
+        ],
+        "photo_reference": "ATCDNfVR_uD1dJQblYkgq0p-oW04r5McWktmR8FXN7Y9eUvw2HDBnrQigML-mHo3ZqLwNkgsnvhDrziv56M3KK1Jmh5FOObeTa9PdOAkvAtxgrPKweVVaTyCxolp6SUvMJnKgn8rFQ5HBLP-DfmMrFFhjw37CTveqU2nNEgorRikO3Lph3fruLojkc6VrAidLnaKWo23IyHY6uxXmjhXDR3nas97-MbDSFWfHfjxoFDzbgFsavbyqbbQ_DShjQLvQ427i-pCBtfxYKCAjldBD7ovYf7MBYNQQQNEv4hGDaWpAlI1M48xLZpoR1iYyZALSlsMg_uC54dFCFWfFceFpbJlILLzcMujbXS0BBUaN5SaGT2-kkHyGzVThXri77heTdHbx7_r9Pl2g4eJWmkKPXf9etrKNHkApbCemBoSRHKVKZ5HiKdK",
+        "width": 3096
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115115400642962223990\">The Erb Group</a>"
+        ],
+        "photo_reference": "ATCDNfXDbK1S2lmda4k4uZCCzosHdV9YHlJsFh62_spqpXpygFWjYwMTgZd3MSvz3JcIpcKtr3yO2tlqybWCbucP-3cgB0Rs5wiKejVWCIwoc19-Yu34egbHDwLTBh_l5gbqf4cNJeEMWhswWEFSpw-Q4stCHhXKC4HCLPl_fmgNtgHYSw-tQbfYBsxoJkPwJhOL9ifQAbVMzrgfrG3m74ZMEQhKVPPHegE_EMpeFVl5a2OdG8Lz20uQ4P9HjmkIilJzX-vfgz62rbgezKJt6qJCMvDWuq3hhGN39ZOD5hKv4DY9TQ",
+        "width": 4032
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110598469215949887538\">Sebastien villain</a>"
+        ],
+        "photo_reference": "ATCDNfWRFO90o2PIkQ2uvRkUcCQIGv-H9-Eqqb4Yv5RClOvLyL7ISsbPkQJ-y15ujOW2ug6FgAGVaCRygnH4m9ntUXvoRTnqOuT27q2JM_Dch06rJ297FIbaBuUnw_MWrr7GIFXFz3MtnyApEw-vxpFnIwe_La_69ryB82brHU5SuhKcB-15ftxdi9zmfbIgDv6WHHHEVCfzQApACx349mDwLFueeOFAh-nBxpzOtPY5zTv4zIUf6TuKjPXDhITlA5HK1NTMIdMvAMRZPVLzCBy9FG_wSt7g1PRB45YutSKcrNnbXGL_fIjjMgHm0Oz6E-bAzS-Gf04FdNDfjjZEhDiDsDJVHyJUKefRXv1ao8JkOkXY6SAmpx-Xqp6sHS0fOvshTGQXSWxA9ybAOaJk4Qwj7x8p0ye-yseTttg4GWMel9Jia4Ky",
+        "width": 3096
+      }
+    ],
+    "place_id": "ChIJOXdXxNNJyUwRfjPWK4aAlA8",
+    "plus_code": {
+      "compound_code": "9WPX+F4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WPX+F4"
+    },
+    "rating": 4.1,
+    "reference": "ChIJOXdXxNNJyUwRfjPWK4aAlA8",
+    "reviews": [
+      {
+        "author_name": "Colin Strachan",
+        "author_url": "https://www.google.com/maps/contrib/114258964123383046955/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7cuevb4JHoh3ldLsyiAucJMVTcn3r7lU6Eh2jeJFrFxPDeqLu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Total legends, in my opinion. I stupidly missed a delivery of frozen chicken, and the company managed to route the driver back to me a few hours later. Very understanding, great communicators, and a very professional service. Thanks for doing me a favour even though I screwed up.",
+        "time": 1744430587,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah",
+        "author_url": "https://www.google.com/maps/contrib/106883226973619731883/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJfGBjjsYpICEkByGJPZPUGFXiQj0PnfCaL-uidsH_agGdpc_Ifg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Edit #2: And the problems continue. Driver arrived one day early, I told him the order is not ready yet and to return on the scheduled pick-up day. Day of the scheduled pick-up, I called Erb to confirm an ETA and the driver cancelled the order!!! I'm livid at the horrible organization but have no idea what other transport company to use for frozen East Coast transports.\n\nEdit: changed 2 stars to 1 stars. Yet again, order was picked up one day late and two drivers showed up the day after. The first day, the driver took off before getting the order and told dispatch that the order wasn't ready when I had clearly said I was waiting for him on the dock. This is also the fourth time I've attempted to update them with my phone number and they still call the old one.\n\nOriginal: Previously great service but lately trucks are late or don't show up. I've also experienced multiple trucks for the same delivery arriving, when I only need one truck. Been using too much time dealing with Erb, like rescheduling pickups because they don't arrive, having to figure out why they sent multiple drivers, or listening to some drivers anger over their poor work environments with Erb.\nI constantly have to remind drivers and dispatch that they need to call upon arrival instead of waiting in the loading bay for something to happen.\n\nThey need to seriously take time to fix these issues.",
+        "time": 1576180827,
+        "translated": false
+      },
+      {
+        "author_name": "Christian Sommer",
+        "author_url": "https://www.google.com/maps/contrib/117221708452023898140/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIc6PfqcaSpBg8CITDA_7CRL9DfQndRpEids3MViS-8A1fC5OFO=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Wouldn't work anywhere else.....they take care of their drivers 😉",
+        "time": 1650579788,
+        "translated": false
+      },
+      {
+        "author_name": "Accounts Payable",
+        "author_url": "https://www.google.com/maps/contrib/116783304865205847013/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyh9OC4UvesHZOgDHGrIB5XUSQ9XAjYUILvoIEyaE5xA-M_g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 years ago",
+        "text": "Terrible company. this used to be the greatest company doing QC-ON transportation. its now a total disaster! everything is late, over promising under delivering! they have caused tremendous damage to local businesses and refuse to take responsibility. must have real dumb management! DO NOT USE THEM!",
+        "time": 1536010384,
+        "translated": false
+      },
+      {
+        "author_name": "Tessa Janssen",
+        "author_url": "https://www.google.com/maps/contrib/114735603960352308850/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZOQzFniO1il2G7_I20FBrsNVLFA5aVWDa-55UVBJEfrSCxQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Some of the best people around! Great attitudes, inclusive environment, and no shortage of smiles. What else can you ask for :)",
+        "time": 1718379480,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1122663520871527294",
+    "user_ratings_total": 102,
+    "utc_offset": -300,
+    "vicinity": "3001 Henry-Ford Rd, Vaudreuil-Dorion",
+    "website": "http://www.erbgroup.com/"
+  }
+}

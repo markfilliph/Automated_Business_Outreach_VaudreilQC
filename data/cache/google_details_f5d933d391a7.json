@@ -1,0 +1,391 @@
+{
+  "query": "Encre Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340481.7591763,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "17",
+        "short_name": "17",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">17 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 5:30 PM",
+        "Tuesday: 10:30 AM – 5:30 PM",
+        "Wednesday: 10:30 AM – 5:30 PM",
+        "Thursday: 10:30 AM – 5:30 PM",
+        "Friday: 10:30 AM – 5:30 PM",
+        "Saturday: 11:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "17 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(514) 783-0697",
+    "geometry": {
+      "location": {
+        "lat": 45.4144352,
+        "lng": -74.0247531
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4159922802915,
+          "lng": -74.0233525197085
+        },
+        "southwest": {
+          "lat": 45.4132943197085,
+          "lng": -74.0260504802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-783-0697",
+    "name": "Encre Vaudreuil",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 5:30 PM",
+        "Tuesday: 10:30 AM – 5:30 PM",
+        "Wednesday: 10:30 AM – 5:30 PM",
+        "Thursday: 10:30 AM – 5:30 PM",
+        "Friday: 10:30 AM – 5:30 PM",
+        "Saturday: 11:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116875761697349715697\">Encre Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVEghnXKsK07XxGQ23pmI88MBoyxW2_j_x31G3Zn1iI04hd6PqasOxvx2yTJRXWQXiJjKdHZjxgotITEDxjJWFltEk5vxv99wK68OmuMEktfeZtLqMdfKUv5LeXwU1hZEYjUEOU-4JjCH79YKLaeykeQh2tfTYg66q-_bkNGfoBj7R0uWuwYZGd3VW6pycn0Qq9QYFehRcHGumfOmw_J7en5OMM-n283SUCUL3J2zWI1nT-HFwL-Atnn6R0K0satdJZ080eAsrSFZpvC0QFwqMnIsQT3xpdEOraB72zDt9h0w",
+        "width": 3264
+      },
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116875761697349715697\">Encre Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfV6ROnM63pm5ZLeogi6Skvga9AjqbQNFfnUgp44htToYov5wUQ2nixWbY0ANrrQdvMYG6zMahAaj5yfX-hmrgPFMs4Sd3uvahA6QbEH4z7hhSaBi2oCcMz6tsHUdvABUHDrmq-0kiP9r1jinMwg1eTjEw_PkwraybNsej_xXcs-LDGX7b3i1lr6O1iVZ38BCLsgz9sly4qHXK2DQTbGeZh-B56nVWj2IHrQelPLLfsoDxH-DUSmyL9GwBFc28wy4uIolDzksvy_D16rHYNnRlOELx2laqmXGXNH1bwaCtmW2A",
+        "width": 2048
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116875761697349715697\">Encre Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWudd71Pqk6tDR9siQYrmZDlTyPcU-9qL4ZaZwFeyzVz-V7K0_GOHaWjv6G7zKwaUEUkzgm5C-uSsCxBB2n73uvwJkybSZriVZAJ8grRhtjBmzpFD-EvF5GG70urcghIfmAa5fgyrTY0-xsTGaLThb68NXhC3gScvcTfJPVgSIgA91mfC0wPEwFgIUFDbucui8j6LujTwuxSEcHdP5DxmY3LmeCdudWxeoEEE4s5y3M_7ldVb9g_cEm833vYJaab018kqWvrHOR3yE-5ijEmMB45q1w_XFFLhOKIonM_ahFsA",
+        "width": 1600
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116875761697349715697\">Encre Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXylUj38QeFJEzCwa-2_H2xnVzIKxJqeKG2umTbRlqi4tRHTqMG5yxPfiMWaUA3mn7nD_dSJYlAbnDzElJwNeq8MxrA2i3O99wIXPO0m8qWiF-4tXwVglWvueJzvRcChsgdQt1Tg66vrWfAV79_nLRKNQ4d7ocFEr26ZyqR8QuPaZjAnqC_JvqEuBJ8PF-2T_pVmW7LK0DlBrfUQ_0jsQJhW8AQfjY5oMVAt0RYpL5-u-Dc4bhfTuI0-hpvbWS2JsTjwHQ0yCMmEA3Xg70CkXshOhsjpb61V3HBvAwWNuI--A",
+        "width": 3264
+      },
+      {
+        "height": 776,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116875761697349715697\">Encre Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfX62RsRjJsZCqh24at3t67DfNcK4ScNnOihu42wWhCCu9wEwZHoPfzbuxUAbV-nQ_G6zXAmrq9Wt8o7Q6caBbuIW2sp9oqq8STpez3v09n-Q4Bd2ca0FOAxA1KAYr46yCQQI4uFsYjvEo9h9jthdWf1osLP8AqdHDQPgYGBXRLFnk15IHi91d6p-X1d7VeW6e1gbh0iyirrkw7zoq5JZa3n8DBXKWl03M1pQOW0U8KqM_GsgXygld6GGy6X6VbQ5vaelwny-TMgQlflGZnlWi3BIq8LlLPQSvb-28ZBOn3nag",
+        "width": 1000
+      },
+      {
+        "height": 1980,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116875761697349715697\">Encre Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWrcxQTxiGUR4YcDkmVA3qVMPX1r3gAkmQGkAkK1RVBVSVFhbGtOQeFyfTzO5584ANR8NO6znpXWvAyiJ_o_Mzcf7YQSc0ma3hw0c9FZaiv8BQUBfHaa9HzyniTRL6laR0zfqZ-njRShR16W70qUXHECO5JejpdM2W0uUv7y_bQvLFnv4SZi6O0X6GiJkppoHpDHDYH6PASpf9VjZp6IQKejKKqzFj1Ymj2HVwkE3LIyJJX0LWiMpQRH6SkRQ3eOBLBMoL6ROBeL7AwlCoHr9bS79lExlELc6TTgPMQPiXKoQ",
+        "width": 3007
+      },
+      {
+        "height": 847,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116875761697349715697\">Encre Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWp9QuX-IJJB0A2ngPJOChb40Hr4lws_B9uG4UPJ9XeuIsNbkmFUrVUm6PKuL56qWHS4e9JIrnqgsWamkp6cSKDeXOkVaxD6J0AhpG8JdRKG089yVOXevhKmCxd0FrYwegGd6zU6Qs17EwZMxGJyQFN_RywLO6G1U_wkQkKIe0rKqtPtU-BxpCNO3u7Ph5ap8An_zpDhiY4EYkvPq70HIJ9Q8hxWOsTBVGQ5fCK_OMOAqWoclf2Scfk47kmXhFOTM1kfWzCUyFw8NFO-sMsRn4LqO93QXW2VWXNfHkfAmxU_A",
+        "width": 847
+      }
+    ],
+    "place_id": "ChIJG85sz7M3yUwRFl3PSQjLoRY",
+    "plus_code": {
+      "compound_code": "CX7G+Q3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7G+Q3"
+    },
+    "rating": 4.8,
+    "reference": "ChIJG85sz7M3yUwRFl3PSQjLoRY",
+    "reviews": [
+      {
+        "author_name": "Imprimerie 3STICKS",
+        "author_url": "https://www.google.com/maps/contrib/108592940415553625782/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQ6GJbFsFZopAQ6XQUvFX_5-1Gc_jGXXjxAF2l8JDKe5ctHd67kw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great service and good prices. The owner is really helpful and if you are looking to save a lot on ink, I'ts certainly THE spot in Vaudreuil!",
+        "time": 1733612552,
+        "translated": false
+      },
+      {
+        "author_name": "carmela scrocca",
+        "author_url": "https://www.google.com/maps/contrib/108894074529942171215/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWR1-7_yPS0UkHBwPJdnQYXVC3yRo3PAq7Z2zrEbK9T-CSo6miX=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "My first time into the store I went to inquire about the process of refilling ink cartridges. I was met by Allan and he explained the whole process and what to look for as not all cartridges are refillable.  He was so informative and transparent. I returned with my empty cartridges and he was honest enough to advise that they were too old to refill and a waste of money. So I purchased only black ink as this is what he recommend  for my home office and at a fraction of the price of other big box stores. Personalized, transparent and informative service. Thank you Allan.",
+        "time": 1616431289,
+        "translated": false
+      },
+      {
+        "author_name": "Tomahawk16",
+        "author_url": "https://www.google.com/maps/contrib/110902095147547558651/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyU_aWAsOEkZlBq5oixHtzoAR8UNbzyawxQ8ea2L3s6l21PQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "A pleasure to do business with Encre Vaudreuil. They're very knowledgeable and have great products. The service is friendly and super reliable, and they take the time to answer questions. Very informative and helpful, (from the first day I walked in to today). Recommended.",
+        "time": 1556650717,
+        "translated": false
+      },
+      {
+        "author_name": "Christine Chang",
+        "author_url": "https://www.google.com/maps/contrib/104044566112186697874/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlGw3CBEup7M4bgjaKSa-g0duuUD9r2q_PK4p03l_NfJU63TyG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I've been a client for years. Great advice! Wonderful service! Highly recommend. I guess that's why I keep going back.",
+        "time": 1642810077,
+        "translated": false
+      },
+      {
+        "author_name": "Jacques Hing",
+        "author_url": "https://www.google.com/maps/contrib/105314653661960967757/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKkRuar-85G1gMJZdMAh2weD113pNLDu0BcV6U61ZigY7zk8ZH=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Great quality products at very competitive prices. Fantastic service. Strongly recommended. I will definitely continue going to Encre Vaudreuil.",
+        "time": 1515981699,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1630807776543333654",
+    "user_ratings_total": 50,
+    "utc_offset": -300,
+    "vicinity": "17 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "http://www.encrevaudreuil.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

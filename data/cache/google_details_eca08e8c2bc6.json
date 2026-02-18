@@ -1,0 +1,400 @@
+{
+  "query": "SOBEZONE, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338294.9711006,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "440",
+        "short_name": "440",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Chicoine",
+        "short_name": "Rue Chicoine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1Z3",
+        "short_name": "J7V 1Z3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">440 Rue Chicoine</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1Z3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "440 Rue Chicoine, Vaudreuil-Dorion, QC J7V 1Z3, Canada",
+    "formatted_phone_number": "(514) 332-5373",
+    "geometry": {
+      "location": {
+        "lat": 45.3777918,
+        "lng": -74.01933060000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3792161302915,
+          "lng": -74.01805461970851
+        },
+        "southwest": {
+          "lat": 45.3765181697085,
+          "lng": -74.02075258029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-332-5373",
+    "name": "SOBEZONE",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2398,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101461558568814018212\">SOBEZONE</a>"
+        ],
+        "photo_reference": "ATCDNfVVcEqs5DKRkmgew5IALb2eStYAER0_cQla78Q0Zo07J3016MTHsgG3j0BWiPsi2fksPCBZe1jU676HugPGo5ojHEERXzFZ4leDbe6n3HnvhyuBrOrJMhHIIWQGXPjvb7XzIp7nYzVJihmU1Hcre9N9M8H3ZSP1aDOpFAcSckrqbgCoI09vdSOENkfEirnjKIQuvRsTQjunRRDJhMdmUZzn2WHWuofXKJST2MYqijtx-_0lLzcRb5oVdChm3DRGyYelUSQK2wMari_rJH8U-8MIpQaTyVbaAcijvjN5UeSHBw",
+        "width": 3600
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104656752703154447126\">Kim Lamontagne</a>"
+        ],
+        "photo_reference": "ATCDNfXPsVj-gvtOrGrZIOAKHHi2m0hAOHOYo6YPAaXH1q8JfYvqNU6VT-KJO2vaHR0DGdfL-aCbgL0F6mBh6s-Ll79Z_wRgGW81_WcXZqBIByZn7bbZevwMMxw2cIL2XAAhbAp5kC7yC8jpVwI3O3hkc0o3LjieRigg7Rv6jFSJGHaMybPFTD6MPR3zFHWfqzX3gYONmRGQKgSpovEj7VztqN11NuPzKLRXhbVnqV6AUxbp-fAkNfOBbDVu-ZHg2EoP1FsXMxettCS1lAVsgh0hN0ub8gM37kgACiwLpp47GuoWyH6M2jNUehKqYn-z36mDyv3t0H8HlH7oT6PG9ERDmXBFxHHpZVlPjljoDYoqQQd1MWHebd4p11nk8MhSfNxN2cQvuHJGEWfz8uRVQRxznjaAkbwjKeCu92NTh5hWCoKiK57XhHy8e3ntv-PLGvpS",
+        "width": 1125
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102443861908395909223\">Marie-Michele Thibault</a>"
+        ],
+        "photo_reference": "ATCDNfXGUh_WyjaOoM50diODQ2j_isV7vhvzvhYxes6MOeEowdL02Hv2cCKHX1qGg4-BD-LjzK3HvnHL2YZBdLc2QliDy9F-FROptoQ95SL6VdAnIgMkLwIMFUTXqkxcv-y-hGwCAxLUt0cMOZWiOF1s0P85hQMqrS-zRGPizhmSGylHYv_AByXJI3edNum-ALutvSFOEDyogLsxbMybUUcE83ush6RKcC4-bnio6pGASjbq1KNDYBCJddkdM3ZXecpY-Vq-nI6M6h2svZiwObmOAtKB923Y6BccpgjjYmeemSkg41UuZAUI1fYtyg1qdrr1lqrzdwu-sFI5nUTqIS_FpZlVy6L9p-RD5l2odcDOvhBHWGf5wz5kKtsdmVtZMT5aUKTK2bBeCahWNGpuN-8siBIsmJ-54FDkEjJWukhIhmE",
+        "width": 2016
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101461558568814018212\">SOBEZONE</a>"
+        ],
+        "photo_reference": "ATCDNfWEfWPRNn2q2-miIBQe1E4wjsWBCWQlwdRaHee-cVvqO6mP5u_nMvE5Y9EwmW4Uu2QiIWo0bra_zJmlUsmryfLnvcgqLIVUedIxcOUaW_uW19L1jnT7ng4j9oPKigddtCqbPLiH0c7vEqWH5yMbbdkCm50XVx34QhqVQACvm-c3Mbicj_yZjWp4P7AqFkp5rVpXUD2lHTCaSxmoC1OCjeKw_06-RvL38mmgBxVnr7CbpxtQEQ8AalGTaN3THsa3YpHn-lHOm1rQ82RTni_F5HLHD1qcdaRcYxDs0DybUoAUnQ",
+        "width": 3200
+      },
+      {
+        "height": 667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101461558568814018212\">SOBEZONE</a>"
+        ],
+        "photo_reference": "ATCDNfWyHpKUYFRaqxyEMJW5o6qiXnwD4As-d_H8jpOxp0R3FayMANSPv_uBLxhv9ElaFqCQ24vJrzZCtQemoCvtIaDviDZzBwKlXHwfGNcv1A3xPbGnecd5JkmQH2f-FG0Qg2PHWGQqgLumf8JFLzGRh6loK-GJ5qnaiGInLj6m6wDh8fBpWvEWB2_TGseteXG3b_to-Xk2MxaSgEbYp4ahYUB6pugvpCDute92h_XJ0so--2AI0uRejfe3zJwD4bhQpJ3lboUqR_WKJ3Rs9nGrvmy0QS3mnMH_sjC6kI_p5IW3pw",
+        "width": 1060
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101461558568814018212\">SOBEZONE</a>"
+        ],
+        "photo_reference": "ATCDNfXvjQKdX0a2fFrWestyaPJfTZHhu3AQBiZSdFP-AN_yE7T46c1Q2ivO9fH_AgxphXR4tp6x3wnGgQfEcOZKmqGBxWM84QWLzdOM6cBs9g2tuzVcy9dd3uWICb0Vzgsjkmhi4WlUc_u_OPpp-6sv3Eutet3W3QJBOeFi-Vl7f_Uv1aolYk5zdghhWrvrkJnxlPYFr5L5LpDLU_4bkligRfjZfK1QSHYfTukpo1uuVeJk3xidANjZrM8UawlYZyy6UW4ip5RjaWYF5eOLWm1y5ngyY6efUerFJijO9zPpsNchng",
+        "width": 1000
+      },
+      {
+        "height": 1642,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101461558568814018212\">SOBEZONE</a>"
+        ],
+        "photo_reference": "ATCDNfVX7NI19KvnmNcFPPWAU-uNQ2C_K-nzlzRjSDzBw5lTKTRWg3IBGmmcFz8NVuFonp1wC_H2hLFof7PdzBKQixmU4Im6Le9QrwA5yoN2VfE7KoYULXmcgfdouUZ2bM-TWetRm6HwHPDXUFozSDCrcfEZXAAmjvuN9hSE1Ij-TashzGvm14j6tlWPdDtuZz96Jl7ksSf6Ntkap8Ce8Vmw0LHjzjmYbTd9CCNNFfcUXfvr6HkePkP7yfs09tXLqj9D6QSXZT6F-ldYGEhhz3N5NJEaiR0YvCKKgQspdqDaTFVzkQ",
+        "width": 1642
+      },
+      {
+        "height": 523,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101461558568814018212\">SOBEZONE</a>"
+        ],
+        "photo_reference": "ATCDNfWiiybn3MKk-JrV-kblS9ODbTPeRK-xaTlIZxhPYxiM-18PVWZlYttHQwt9uanmKo9pJJCdX7LT41h0tPrCgZrc-hvgYjrUr0XFL3wwrwWaRb4ftJgN_ap8GH1rUlNhG_DOJJ4_4ZSsFwPquQR0LSRPYHdvjsd8-1--EdZF-0Q7VaVun8cqc9Jc4vu6lwCj4x4hNJwvaTizXz6p1x21cvSAUx0KD7udTvU4aVi2Zl34T2dOeghFCo7FiNOOjShTA8Qu_Uzgd59O9J79QtOFIR3Fxm2LL_6VX7JOKIP9Lt8POw",
+        "width": 1000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101461558568814018212\">SOBEZONE</a>"
+        ],
+        "photo_reference": "ATCDNfWRzcToBQlJgmrzp9BpaWXaJ62zyelISejaZO14NhqskrNE91v_4YxVctAMONZNKthhLGFbQc546lcJ9Is11O8oSFwDk-jU-vOvxSVFQ1_VuBxYB_B6VKWbtxQ9VqAa5LshyGJHc5EzjWk75nB9znRCn9oAAS8a9JX7ToyXDXVY11YZ9pkSj6TX3vCYyC-O17q6Xf7M-G1foS204pmKMB7uctVokaKpvU0YR1nNrSOIEtuy5AQVww7ZdpLhuadevov9TMOQ3Og4sJGZfG6tisy0gtZPLWEEUt1zXRaExRYBVw",
+        "width": 3024
+      },
+      {
+        "height": 630,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101461558568814018212\">SOBEZONE</a>"
+        ],
+        "photo_reference": "ATCDNfVKhCAmWBORauGxx4R3l5aN5QkQ0JHMOvAs2rpMSu_E12EkRZ5wNDSxvp7BzKu9Y4elCdIUd_Qy_8Egcn9xnRjzWd46uBeMibERnGE1yults5jlnDxJZ2SjbTlA3id9xozk4FxxFuxenF4zqELNc_CCcAXCQmo9I199OCa1P9VWfC3fTWTb-0v2LfEVhN3tZt3nlvmA8A7e3pCQ9VuriXlQUkdMD4XOpsrMVCy6pHZvJ67ejkTjWxvOIerqOk4G8D2oWSlKVXQHaN30ExmOuV4D1kj-WFqZNa54r2K4kAtDDQ",
+        "width": 1656
+      }
+    ],
+    "place_id": "ChIJvSllJG88yUwRaXziAIAxlfs",
+    "plus_code": {
+      "compound_code": "9XHJ+47 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHJ+47"
+    },
+    "rating": 5,
+    "reference": "ChIJvSllJG88yUwRaXziAIAxlfs",
+    "reviews": [
+      {
+        "author_name": "Kim Lamontagne",
+        "author_url": "https://www.google.com/maps/contrib/104656752703154447126/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAOJlKpV5Gj_eKkAR8Bxj9Hc-fMf7oknNbqTkve7DT9TJJqbXY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I absolutely love collaborating with SOBEZONE! The quality of their products is always great, and their service is just as impressive. The team is always friendly, helpful, and on top of everything, making the whole process smooth and stress-free. Every order has been a seamless experience. Highly recommend!",
+        "time": 1757342269,
+        "translated": false
+      },
+      {
+        "author_name": "Charlotte Longden",
+        "author_url": "https://www.google.com/maps/contrib/111846718042325916466/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzL-KmSDYyNT5-f1BlBtnvcFykMWjPRXkoZYvIVEvinFWkQlOx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "VINNIE !! Was such a sweetheart . I called so many flower places and had issues until I talked to Vinnie . Got a dozen roses and it was a great interaction : she deserves a dozen roses . Thanks Vinnie for being such a good person xo",
+        "time": 1759348022,
+        "translated": false
+      },
+      {
+        "author_name": "Ambre Cadoux",
+        "author_url": "https://www.google.com/maps/contrib/113304111547200280721/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTgkiOMIJDvRnzBM9RmeuVHzJN5WtmKmdlbz5cv68VppT5uA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Dealing with Sobezone was such a great experience! I needed some gifts for my employees and VIP customers, and they were able to help me with a very short notice. The options they proposed were tailored to my needs and budget!\nAll my VIP customers called me to thank me and were thrilled with their gift!\n\nI will definitely use their services again!\n\nthank you Sobezone Team!!",
+        "time": 1611179990,
+        "translated": false
+      },
+      {
+        "author_name": "Rita S.",
+        "author_url": "https://www.google.com/maps/contrib/108435354810974927465/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxaOrUtW21pJ9XUW2cVt_RMlyez7JK04OVyuj7QXgdmIe-PIE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I worked closely with Genevieve and her team at SOBEZONE to curate a VVIP executive gifting strategy to my most discerning customers.  SOBEZONE did an exceptional job in coalescing a luxury catalogue for a very niche customer segment. They dived deep in their research and were very meticulous during that entire process. I look forward to my next project with them.",
+        "time": 1620144232,
+        "translated": false
+      },
+      {
+        "author_name": "In2Blue Window Cleaning",
+        "author_url": "https://www.google.com/maps/contrib/107714587294708380430/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLwGvxa0OOAhU9y-dLFrUINEJT0Q74uZvF1q81tY1ipUItP4A5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I just got the finished product and i am simply amazed at the quality of it! I will certainly be working with them again in the future.",
+        "time": 1685302407,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=18128450300890217577",
+    "user_ratings_total": 42,
+    "utc_offset": -300,
+    "vicinity": "440 Rue Chicoine, Vaudreuil-Dorion",
+    "website": "http://www.sobezone.com/"
+  }
+}

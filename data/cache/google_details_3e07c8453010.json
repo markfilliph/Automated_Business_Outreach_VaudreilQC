@@ -1,0 +1,408 @@
+{
+  "query": "Radimed - Vaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338293.751478,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "600",
+        "short_name": "600",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6A3",
+        "short_name": "J7V 6A3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">600 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6A3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:30 PM",
+        "Tuesday: 8:00 AM – 7:30 PM",
+        "Wednesday: 8:00 AM – 7:30 PM",
+        "Thursday: 8:00 AM – 7:30 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:30 AM – 4:00 PM",
+        "Sunday: 8:30 AM – 4:00 PM"
+      ]
+    },
+    "formatted_address": "600 Bd Harwood, Vaudreuil-Dorion, QC J7V 6A3, Canada",
+    "formatted_phone_number": "(450) 218-6111",
+    "geometry": {
+      "location": {
+        "lat": 45.3771492,
+        "lng": -74.0231678
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3784892802915,
+          "lng": -74.0217162197085
+        },
+        "southwest": {
+          "lat": 45.3757913197085,
+          "lng": -74.02441418029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-6111",
+    "name": "Radimed - Vaudreuil-Dorion",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:30 PM",
+        "Tuesday: 8:00 AM – 7:30 PM",
+        "Wednesday: 8:00 AM – 7:30 PM",
+        "Thursday: 8:00 AM – 7:30 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:30 AM – 4:00 PM",
+        "Sunday: 8:30 AM – 4:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 563,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104276035193152950845\">Radimed - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXZtKScRVrezod2R9H9Emipb2csl_dWUzGmxXsI3JHyORYlGWOfbG1i7_0RpHmVfbJw16Qvn89fny8Dj1A_crfvT511yXWU5DaVPast7-MkqQyWB7kAdAJPGZQgzODPMegifEcrdvfE2IWGyhf38SWDxCLXODsJYzEukqUWul_s_MrhrKSPxVns3y7ZR_H0NUHZRYpleAvUU7FdU_UGNk6oMnGsmRLgDS2KAQU5PTcd4OtW8_Q-MkZq7caUoUrkM8UsPTwpljm5ijoyKlhCPYcXXXGvMYHt7h3cb-aKj2FkHg",
+        "width": 1000
+      },
+      {
+        "height": 562,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104276035193152950845\">Radimed - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfW9lHLCohd-MNeWHqjAeVUFD9iLdB0vLTLDGrSDdFLbulx2FYH_9V_q99lIDYxc0FF8q6jFoSsN5xG1z0x9xvn-6ageHJM9LVdJwdaUnli0pQs5du6Rqpcegg8GDbaszRDN9eQpka4JkMtQq7Qdu41RDCnA569PK7XIbXquUJuKASDSPEG25FzK3yAu4GU9q227cycRDSRjg8_8t2DxHO3NpVICoyNgtyTJny-2COZocsJkjxnborQH6eO1KXgfylfOBAkNgArQvOvWdxmybWyK9MnYrUV_oMUZ3Jp_0nt9Qw",
+        "width": 1000
+      },
+      {
+        "height": 562,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104276035193152950845\">Radimed - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXQC_BXC0B1basoWQU7z1nKwcq8d_Nn5LlCWCqOrZJ55o8DqiraTk3zPs_Ojmve3ZHZ_JarnYj60mPGu2OcI9sd4OkMBK1mHIhpgYbAgjBN2e46XwiyObDNGyXz81tdrj1MQtZsW20MHzbpPvh4WVk1LA9cqmeNr7xPdxGzqZxbYYAxK4d5d0hJ1Ta1N2kEVVxDk_Id3c--s4iICJAdNSvMfG-OsHfGOrjGCOzKE0oNr3obxaz5r4YhbPp0Y96OyeB6da9WNCraTsqR9mXkvr07r6BuG8_LI-u7OdozIGENiQ",
+        "width": 1000
+      },
+      {
+        "height": 3204,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104276035193152950845\">Radimed - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWYp_exr1wpnlQOX6MBHfa2l-97WKRqqnIQNbSyA0z9Ooehg2-rS67RK52TSbA4pyr-PWMaosOmfxaTnrXnHQVp5nBpYZBUVbuEmlufYGFhORYi0dYfk_BPhvjE9mAX8CUWwdTUsFh169ptDKmPBFatIRagT4IFtjJWyFZ8VsFlNXm8EV6OPDbZqoadMytQZD-xU1hF4WuTzyQeU7YJsU3FI3aoBYBptXxTpgjRuC1DmSBmRWsBCkKZ1_yx2QQe-SXNMTuomp1uxJAsu7OYKQr-cSaqIyxDHkyXuIhrv7Y_ow",
+        "width": 4800
+      },
+      {
+        "height": 856,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104276035193152950845\">Radimed - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfX7UHTD8Zpz8Ue1AmqrGT5ts5sZJBQlxZQD-M3rJvwwyqBv6Zb0CgnF6w5Tx_B2VD_u5NLHnO2r783yr9MtTjcAv3THNYFqZ5lEQcSIavo60KoAY813v9GdNlKwMhZJkU6sldcmSctFU6vEXeLRQMBuH-XxchgRDb2PEkWISkr1PMDLeilo1mCRZZAGOgBM4xY9fojZR4Np6gMQR3oRrwDV6rH1Vr2P08b1YAyyOYPi65GUrutW6SAxT5tKxOtZfUfijFzTtFAvvHVgtZdIO_ZougVNlYNHX9MYo3vE8P3Nbw",
+        "width": 856
+      }
+    ],
+    "place_id": "ChIJb0KFuBdIyUwRB6ghTNzSDq8",
+    "plus_code": {
+      "compound_code": "9XGG+VP Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XGG+VP"
+    },
+    "rating": 3.5,
+    "reference": "ChIJb0KFuBdIyUwRB6ghTNzSDq8",
+    "reviews": [
+      {
+        "author_name": "Anita Stevens",
+        "author_url": "https://www.google.com/maps/contrib/105889064901450724176/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvT_r5QbK4zujEvtgHzPAUg61sd_f6O-1cf-lub-96gKLMGg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "I had a bone density and a mammogram scheduled on different days. The jacket provided for the bone density had the ties cut and was awkward to wear. But the technician was professional and efficient.\n\nThe mammogram technician was extraordinary. She mentioned that the machine had been upgraded since my last one. She was gentle and explained everything. It was a much more pleasant experience than past mammograms.  I hope that they have her train everyone who does mammograms.",
+        "time": 1705943269,
+        "translated": false
+      },
+      {
+        "author_name": "Martina Vx",
+        "author_url": "https://www.google.com/maps/contrib/117027370720496198406/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhwZkjh2KoqKkw24LcIgX0yMnGkr74gIIc8dhLLsGrljdEPQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Terrible service at reception. Completely ignores me as I am the only one waiting at 7:45 and responds rudely and condescendingly when I ask a simple question.",
+        "time": 1750938853,
+        "translated": false
+      },
+      {
+        "author_name": "Philip de Belle",
+        "author_url": "https://www.google.com/maps/contrib/105484916674921948402/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6dfNChYTJ-VTZPOSnL4kOVv2ExRCXVnlsw4NOXafzqp1Fyn5k=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "In both cases I went physically to the location with my requisition. In the first case I was seen in 30 minutes and for the second,  a bone scan they gave me an appointment for which they were exactly on time. The service was impeccable, the work was done quickly pleasantly and professionally. What more can you want. The only glitch was me !! I missed the sign that asked me to wait in line to be called. No one yelled at me and I'll know better next time.",
+        "time": 1639165876,
+        "translated": false
+      },
+      {
+        "author_name": "Connie Z",
+        "author_url": "https://www.google.com/maps/contrib/118227030500823362605/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKy2ZdrlHxb_ezTOY0RN7rptPaWxEN8aq0y6VXWwtYNMEpB7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Had taken appointment with 3-Lacs clinic but when i showed i was told it was at the harwood location. Called when i left 3-Lacs and over 15 minutes stayed on hold. At Harwood there wax a line-up for over 10 minutes. Hot attitude from the representative at the wicket as clearly by then I was late. This young lady was full of attitude, not just towards me, but to all her other clients as well, as i had to well over a half hour for my turn to observe. Unacceptable customer service. She was literally yelling at her clients so everyone could hear. Got reprimanded by technician as well.\nMoral of  story, ensure you are clear on where your appointment is and if possible, choose somewhere else.",
+        "time": 1670398555,
+        "translated": false
+      },
+      {
+        "author_name": "Dianne Laheurte",
+        "author_url": "https://www.google.com/maps/contrib/104014667728343074955/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQBGJqdUyFc6L2suT3cQjXdPNshoG7KQOAC9c2SEp5uMEFuSsTaA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Had my bone density scans 2 weeks ago and my mammogram today. The staff are always so kind from reception to technicians. Marie-Lyne (sorry if spelled wrong) did my mammo and she was exceptional, explaining what she was doing at each step eventhough this was probably my 10th mammo. I appreciate the wonderful service from all of the staff here over the years.",
+        "time": 1717611907,
+        "translated": false
+      }
+    ],
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12614251449923250183",
+    "user_ratings_total": 84,
+    "utc_offset": -300,
+    "vicinity": "600 Bd Harwood, Vaudreuil-Dorion",
+    "website": "http://radimed.ca/en/clinics/vaudreuil-dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

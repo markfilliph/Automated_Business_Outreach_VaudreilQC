@@ -1,0 +1,461 @@
+{
+  "query": "Bar Sportif Biggs Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340633.7196674,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3100",
+        "short_name": "3100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4G5",
+        "short_name": "J7V 4G5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3100 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4G5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 3:00 AM",
+        "Tuesday: 9:00 AM – 3:00 AM",
+        "Wednesday: 9:00 AM – 3:00 AM",
+        "Thursday: 9:00 AM – 3:00 AM",
+        "Friday: 9:00 AM – 3:00 AM",
+        "Saturday: 9:00 AM – 3:00 AM",
+        "Sunday: 9:00 AM – 3:00 AM"
+      ]
+    },
+    "delivery": false,
+    "dine_in": true,
+    "formatted_address": "3100 Rte Harwood, Vaudreuil-Dorion, QC J7V 4G5, Canada",
+    "formatted_phone_number": "(450) 218-2300",
+    "geometry": {
+      "location": {
+        "lat": 45.42641440000001,
+        "lng": -74.1098666
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4282646802915,
+          "lng": -74.1083383197085
+        },
+        "southwest": {
+          "lat": 45.4255667197085,
+          "lng": -74.1110362802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "international_phone_number": "+1 450-218-2300",
+    "name": "Bar Sportif Biggs Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 3:00 AM",
+        "Tuesday: 9:00 AM – 3:00 AM",
+        "Wednesday: 9:00 AM – 3:00 AM",
+        "Thursday: 9:00 AM – 3:00 AM",
+        "Friday: 9:00 AM – 3:00 AM",
+        "Saturday: 9:00 AM – 3:00 AM",
+        "Sunday: 9:00 AM – 3:00 AM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114023751498044961975\">Bar Sportif Biggs Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfV9bN60bHm6Fme7Y2gCrLAepgW0_yXyxG6krJ15muySCWWmhsuq6XDOlhbIqZdUZOQMPbB60U5nkFlBKTtyklFNUsp_joj8ATmgRf8mqcZND5ZEcGYwJBsYs3fhfB6IMsMZW0lUM-RYoyGwQyHhvDuV3KhEub9zsgEyPWNfJiv9D9omo9YdZ1PY5wLj0UhtV5gYMgo0m8StVqeYzUGY23bdW579j3lBOUugNbfZqTqs55FVYOaUSzNYF91hHAQ92bk7UZcZyoK1Bf88JuzrSQ_MPaDuepKLtFx5IifkeWL5fg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114023751498044961975\">Bar Sportif Biggs Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXSNtAdvxkEtmCE3yjzQA3yY-kAev_9FUNm9h0ygbDE7-OJO14HaoRcWxOA12uOIbo4VhZ0n_heEShNARFrRdSeAiWmcccKDgjrGBd6mZQUqSyj53P1gJc1dkrjURXKuIUDNUYozz24VAltfkis6I6Akk_IcyK8SMKYSAQK0Y7iaL3Tw_cPEOIKBRWs3RbngtGmsymcy_bnfprq0up2EFZlkJdAaSorgCSkxdnct0erDXCbRxMFofkqEAUyWWEs-WiEG1Bgja0AsRlNragbvg1PeRohf4H0n8pVRxlm0HRbPA",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfUSEU-BizoYw9SIsliUy4WJJcH1L1eNeQGHzAUYJQdb2oJXSPRxjmqY5lBZtoAt2fMGLIx5UcLV66moImZY7TVOyhuCClp7_Sl4WH9WKEi2GqZPdy1zI6YTtpDUeXVT0scrf6o3dbFzzeGvV6fxWLIfC2aqBkB30uGwm0TtiiS3wCl9q2Md2eFIwiMSYxekC6r2mQ8nH-BzgLnFGZLUhXAeDU52N5dPWPxH_AmxQh8i7FIuRXPCc3vlcBKlzT7Mg7TPwPw5VsDkcU6YcBVUlVkKroD_VylRDGLHDkugi5-kkaikYUs199xiHFwkpQDPgHBJLxYT0n1mOJxyXKVLfMGp4-MTCAjk74h_iGGO65J8qJZTZ0N_TO9RxqB61qxtL67siw17WV3LEeQ8Zj09C3nXOkqsrQodK-6BgtVQGI8r5xzx",
+        "width": 4032
+      },
+      {
+        "height": 966,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114023751498044961975\">Bar Sportif Biggs Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfV0xhtHYNS7164LRbEW6SnYDsLMZDNpOT_aopAKKf0BAfUPi3CycFfPa2J89yJPlXc_LpgXubvl7UDZ5oMOBa4QoOPQdwZ-0tOn9HR8ZuhwfRX3Mnq9fwePqFT8oWbsxrov6m5WsIwSqg7XdSgY2pYWvLfmbDCvrDUO90mHFRNT_JUtPZsk5xSHvWpWJyofgIUJF2Ervn9CfXckAud0Aeo8aREvmPxnRsGhoiRPSEMFwfjV9S1J6dokljLWMeYMTnkPBmTCz7VR8MLiA9rLTUqWiSAC-5nwdG_6ERkoFk3tmg",
+        "width": 1283
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114023751498044961975\">Bar Sportif Biggs Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU3kHV4M7sF3Esj5wv-MJmQ6hpxv_ZuzHswS8Q96cNJh6haYhex6jnUTNysQzAgqxFP0y-A-2fRKafiW-30knkflaiyW_JQ0gsM2xcJdA3KMhxGqhiUNtmsKorqtNLXcKgbz4ioMONyEQtZR-MjvCiaPJGWVRiGMcsDRYtbxw1p4VqC3i5tCuMA-c8ZoqNUPo6afLcynYu8klFB1utKLB64L3VXKtU67SLyTxmLMHtz2ORzzeQq9ICZrp_pNaKPhjcsuMmhJJ2oaW71h_WQ7JI3wGnfiQqTN6KqBvdmIQQ84Q",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114023751498044961975\">Bar Sportif Biggs Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVIq0y2LoXTFR7U7KIHp5JkMm0hokLTFZWXjNQ14wKh2YbO_J6orkyAL-ODgETsszKb7dx65u9hJr84CNsJEibVHIan8ELRGJBKGbow9OxXCna1BLUlyI4vfUTVuNCfhUTAdOIakPQAZ9iJCMInS5NfNoEwgvEE16G1QQ2fk2ltYFXbxX-svSIE7t1kh4b_R5rBFpNsYs4IpV-5u5UMI-efbWx-yQTXndaGm-m3qpsLiyQ4Ar3qfpneTmJ6ue07B4B2dNLfi1I_tad0BMP_ofA7-DdGanK740kPRQwg67YsGg",
+        "width": 4800
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114023751498044961975\">Bar Sportif Biggs Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfW88FENqc6AmULK1wOfQeI3Fk0C-Ka60tGrDQ7wrBKoJzy7MrZzE0iPsbMdnCUircIxNvvQjvYAipYfXZn4AMPgWVig7na-6ObbEJrZ-6vnTYXuBBYsh5VGhvM2aGM9z-aq_ZTJ_q6BMvbmRRQentZHFPxQVN9jJGKz6O-jrADt3kt1YT0h-i6LLl6Qhj_BbuxVEcaEC3Q_pH5MQV5JquzFeedUkCkDOpUwRDINSgC5XpF5rmYMBW-FsNerAlbVd0RJrOmRW7RkxJcblm4yhgQwZaaYXMzvZBCT1GrIRmeidw",
+        "width": 1440
+      },
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111779428171614196609\">Shirin Nur Roslan</a>"
+        ],
+        "photo_reference": "ATCDNfUtKv_2xT1l6Z6tcNKsn8s72WKjuCGB1kRoc0FSLmnUWd0hdjZjxDmmi6jF_GJlm9-SI97I6-2KP83TYZrLv3zAYDRNA8JLjZbXABiDfJclmRebK-iLoGbsC5XFlYYgu5ltKF3hj4oNY_ji9nyTkr9KcpNkGB--W36J5wAVJ3JLtYuS4pOjL3bk9LSHWyy_IwL1Rx4RShej5ip_BKUBsKTULWZpcYw3LSa-7cwggNgWAagR0wpIOB1965ox4Z54miuToXthPV4ni-PyTP_ymgKpQQTB4-rSMheyM03hEwOa1EioCegFbhXbQYp0kSRdqkKojBVwSNDneGrT5R_JDuANHmHNTpr23DjmDB9xS5kqsMtMXIzbrCd5PZ1rD3jE7rTpkzWQ1S7t0FgdO2Lk_0bl4fPZBweAbSJUyDgEUYHhXEXymodrqdCOS6IFpRx1",
+        "width": 2992
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104175713708770341289\">Laszlo</a>"
+        ],
+        "photo_reference": "ATCDNfWLDDtukRW5rf3dffHpV6xU3g2P6ECADsX1UJSx17rKkHm1cV4UjyCCS3PWJn3WkyNeeqKGYGoBXhG9z8hQCr_GkM8dU4PTaBv5NB9Gq1Sx-XHVUvqTD5tyFmuIobbAE_vARBzjTXfjXqPRWepOXomELUC1FAZQ37iHL-ndgdrQ2b5hqybTbZECAH9gwltE9edyxLm1XEK7w0tUl7hdV_mXcAWQg4HVc1lkw-xR5BwdshF5shZgFWQEK76DqCV9Wl9pbTB9AFN9O9c3ca4m5TPfLtXrhbsVVxtFEMcJ91goAf2nBb4IViz8hg9HTkhYT1CYQ1d77ctvVqQHYbkQY5RqBp0zSocO4Je8ckgZ72PgTos1NwZj5bDMgPNhKxir1TbPhSVTZyWmVt8F4wD6RGxpMrgPf5hUI0dKr-sb2DU",
+        "width": 3000
+      },
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111779428171614196609\">Shirin Nur Roslan</a>"
+        ],
+        "photo_reference": "ATCDNfUUorczhh2gIkXLQZL5IRM8uzkfFSkO1saTDya7UrVqig_5BqbmeoikNvaWVlaHjwj2HNegYa_hzUMPjXfT7zwhcX_ENO27HwzvGWj7EBZAr75GnUHeBwoRnTb3457i1hCvwxyLT6q4fj2IWgE9C9OiDnD7ibhzN5kF5vvJY8Rdt0-zE6ft9AIF9veC5cvbhr2az1bT-V7KHs2s2yw3B0cWG7aek5EnGpaIlFHrNfBlK-WL6C0A6XsweGGQRrc23pcuGL_r6942ABJq_v82jBx8dAmYIughbIH-yw3kKlw2hbB_hMaynR6XaGwU7iYES1mxXtnXmMVu1WIX0x2OR4F8ax3JLlmiCoAp94OBPCRdEDNbFECIBEkUyF2NF4FBTwyqEGo6tgYkOo5Rgi85dgaV0fcsnbPyEOfGxZU96K9Bn3CDRUSOImBj6UIR5A",
+        "width": 2992
+      }
+    ],
+    "place_id": "ChIJdX6aS7o1yUwRe4tj8Xo675A",
+    "plus_code": {
+      "compound_code": "CVGR+H3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CVGR+H3"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJdX6aS7o1yUwRe4tj8Xo675A",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Jasmin G.",
+        "author_url": "https://www.google.com/maps/contrib/117366626289458110984/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhgBq1MndyR3WFKQybJBAbL8plhk6HVxq7fqAd_e75JpXCWDM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great service, great food with large portions. I was recommended this place and rightfully so.\nThey have a large bar with many tvs. It's a well taken care of sports bar, that has a flannel, camo, jeans vibe. Prices were good too. Beer selection could use more craft selections. We had a nice dinner of fish and chips, crispy chicken sandwich and 2 beers. Total was about 65$",
+        "time": 1728920042,
+        "translated": false
+      },
+      {
+        "author_name": "Lydia Ningiuruvik",
+        "author_url": "https://www.google.com/maps/contrib/105752325692501913115/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJTljzApsGNUJAIw4coBKFIhDUnyHQnKJ8uTEFyjpuMk_jA5AC=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "What a truly discouraging experience. I searched for a nearby bar close to our hotel and chose this place because it advertised slot machines and sports on TV. Instead of a place to unwind, customers were subjected to harassment and racist behavior from another patron. What’s even worse is that staff and others allowed the situation to continue, creating an extremely uncomfortable and unacceptable atmosphere. This is a disgraceful establishment, and I would never recommend it to anyone.",
+        "time": 1766810736,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "We ordered onion soup, smoked meat sandwich, Big Mac wrap with poutine, everything was delicious! The onion soup was a hit particularly on cold windy day, generous cheese topping and tasty onion broth. The Big Mac wrap did taste like Macdonalds Big Mac! Super friendly service and very clean smell in the bar. Would definitely come back!",
+        "time": 1701035623,
+        "translated": false
+      },
+      {
+        "author_name": "Frederik Boivin",
+        "author_url": "https://www.google.com/maps/contrib/115683250726479024551/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxMtE7TUULqz99IgAGL0y-1M6NwdGo_P-UD2Kz8_O4wDKO84mazw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "A Ghost Light for a Ghost Crew\nWe were closed last Friday. The chairs were stacked, the taps were silent, and the only light was the single ghost light we leave on by the bar. Google Maps knew it. Our website knew it. We’re pretty sure the tumbleweed blowing past our front door knew it.\nBut they didn't. Or maybe they just refused to believe it.\nAround 10 p.m., a car pulled into the empty lot. Out piled a small group of friends, maybe four or five of them, their faces primed for a night of laughter and cheap beer. You could almost see the good times they were anticipating evaporate into the cool night air as they approached the darkened windows.\nThey stood there for a long moment, a tableau of modern tragedy. One of them held up a phone, the screen's glow illuminating a face of pure, unadulterated disbelief. We could practically hear the conversation: \"But I knew it said closed... I just didn't think they meant it.\" They peered through the glass, cupping their hands around their eyes, searching for any sign of life. They even gave the door a hopeful, gentle tug, as if it might magically swing open and welcome them into the warm embrace of a bar that was very, very much not open.\nThere was a palpable sadness to the scene, the kind of quiet defeat that only comes when the simple, reliable things let you down. They didn't seem angry, just... deflated. A collective sigh seemed to hang in the air before they shuffled back to their car, their Friday night dreams dashed against the unyielding reality of our locked doors.🚪😢",
+        "time": 1756204257,
+        "translated": false
+      },
+      {
+        "author_name": "Natalia W",
+        "author_url": "https://www.google.com/maps/contrib/102620231813306335529/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuUyqtw9BwA4rY618e4KWd1YypUMHnrGWQlqte26lCoXSJnyynXg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I showed up with a group of 11 for lunch and they recieved us very well!\nTheir lunch menu had decent options and prices.\nI got a burger and it was pretty good. Fresh bun, real ground beef patty (a little small on my opinion, but at least not the squiggly meat frozen patties), nice and crispy bacon, french crispy lettuce, a nice french piece of tomato, with a side of fresh real home potato fries....\nStaff was very friendly!\nI would definitely go back.",
+        "time": 1559257480,
+        "translated": false
+      }
+    ],
+    "serves_beer": true,
+    "serves_lunch": true,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=10443630360605723515",
+    "user_ratings_total": 300,
+    "utc_offset": -300,
+    "vicinity": "3100 Rte Harwood, Vaudreuil-Dorion",
+    "website": "http://barsportifbiggs.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "query": "DETAILING SNJ, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339022.5145364,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3666",
+        "short_name": "3666",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3666 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 AM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3666 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(514) 516-2769",
+    "geometry": {
+      "location": {
+        "lat": 45.388305,
+        "lng": -74.07998289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3896216802915,
+          "lng": -74.07852951970848
+        },
+        "southwest": {
+          "lat": 45.3869237197085,
+          "lng": -74.08122748029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-516-2769",
+    "name": "DETAILING SNJ",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 AM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfUjC-tcNbS8YTBwDdm2S8QxkAVubossw_ZjWcV_lq6qQgqiRcrmj1WjPX2PQbVQdf9YwiNnaWoHKrbnAlSBr1co4lcQ_Qt6bd60zoxcP1JiDJNbiERf00L3Awi3rZq996pTOtPbvWRr_cwDPw6ObvGLysZ5-aWwG-gDr4G1PSWf34frbn6GFq4ljYiS_dwiZlus8SYBKtn4AoYMS8an_8BwH1myNlLh1ZWsbJ8pWfP-mTkjhSVHgkneW-nNjUPDzE1jvox9SRu4YxkNyaMn0yY6j-1mx3pyHjlvbd6d_yzEmVr-lsJdP1iquvHq_BCNmfJH34wdX8nsS0VTMyv84TQIOLcfwrguB9gJQLDA0JbHEW5gI9njzhzNcVS6iPAQTBTdwBoxiS99JPjOKk-4ledCsWH3YYxDFP7UrEcT2q-VF8lC",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfUmf1AmWNrMR_j1QGb_ZBhwJ0zXhxLCGdSDgT8VbhCjk7YWy-cZ5Igu3TjONWk_TPHIU_OlvxiM-x73o1jMZa4sQh19wX3hqEJ1RBiLkY4AcUCw5-6X_3Q0i05XP0LLLcW08Usbkl3Nbeq5I1e4U9YAUwYZmrvaqO8SOT_petAFmAxHOyLWpOKMd75NIm04P0jVnM6GFdfnecwM4LfOtYbXFhwa2r42x_albIn9zKnUqEIb-7NilHIQv_odFnYd20kElQGwqj_s1sXIrVljad2aTtZxH0Jt6TDpya1lg-L2VoXOsWhvk1ttOkZwTx7I6_ol2f_li4OOYTN7t39jpjdgk5DLOqItwLftOz0N1GC2hNaorbxyPC1D5lXbtXwkqd1IHqYI3w-1w_VWEzG9JgdUTN7i0HW1C3_Ev7OXYUst3w",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfW9vKaJ5kjvkDSG5jv-WKYkubRviLdRq5YNwSh4U7g325Tb350w7v24yxlTIck241epUKSgcKiZMvOANO27_DmNn_LYkUM-nLtfN8f5TwFEKrcTU3zwr5_JW-hClH8DaU6VL9TpulaoZvZRCZ-A1fzfDXVLO7kxEp8i8gRexCZuUVXwxrVLX3kSaVK1Tp38aGFNfHTNssHXgfx-yJzHIwpL4yfJt9lEPnf3CY-oGdMKanY8SW58FMPc5XBdsHnr049_W0iRDXxFVGCsbpXVj2uXwNAVGkr0wSbboEerzlrDgkVydUkJx0neIWqCH7nTHCTE743tIdSwjX3SSTnjCNqzL-gVJX5ywissL-zx0NmmfJTY66K8GfjSkaLbNJlM8blQnP8VDZ0u0A7wzUv-Ps4aRUKF9Bnkx_l-m1a6v7c",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfXiHehBAhA6HrfEvGEfzlRL2wZXnsfrSFByqG0GGwvFdkNBWrisAJ9dIKUiNt-CdcrMtEETkBfA2HC3n5yqpgKY_zI-4TwC5vsvhOLCMeJKPWFCe6H6JxYzTK1jzvElJuOtMgwWeNzNK-XpcWsCMhR77nBxJLRG707zIWseaW0lW9ycO3RsJHQCeqZizP6cZAX4D5-mY6_BgAp1_Ti3tlKdFC6J_Gejr8DbHOx5lBtZNCrui7xvPmgCgw0qzzgNIToLddBIeIJ-1oyJdcXWwG1qcgXhMkNN5S1_Uh5_fdbJUFQ5u4bLzQlX_oNDmyUN_ZasKyQCoFcY-EnST2QLeH7hp4jmjYUBRpBSPtJ9MwjIiWxhpab0d9WarKH_hoLEIvJzh3CIJQoyfe2-WEuWTi6bLi07pov9kIfKPFDwn-CIVlF2",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfWcvLhfJUc9mQ1AhFTOZS82qJUJYcpU_V-0ZaVjKOHplCyFbLLqIQXs0TfrJLwK4BuDztWyu2LC7ATHijD6zidJ_QyYVQrU0bP1pRxsULbmnzYuH66W4jgYTDZCSup0ayhYnY_sa63jWov6iPjadhrDZZrLiPnDyBNNMK3Ypz8TUVQgANXr3ZEZUxwDLexfCmywRLzseGQJcfY83d_GNPtg2nkt37VrKJhEpga4L6k42uYqK4Mlbbn9mmKi9CeDn7j_kpEk1LNZk0oWLWxACHFvjc5HA9tQI1MT8kyzfv7YjNmdsaKHISIQ529Qz3mvSGS_pkyI-A-71p2VHdxTsjSCrwFaSUXrZtQu05T15LogJcRQJdKQF05bBxEgkyfSGWEBv65M9taNkRotSCZboS_6-YEA20uHpHERhkNcJ3RLO_x-",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfWKqR-F8kyc4UDyu-ACb9gopypZN3WpgkDmZHT68eaH40ER449_jCAYvlsm3MmpSEjlzJ8dCYBNaHP71oOokHsPqnjJwiJFpaU6RrNruBwH6aHjSpBeSnqYYxySePPL4CTyXidYIsiu2LgabuqG6tJUeX_8N72PHJfVD86i_Ap6rH45VHK3F_hGndnhrxGG72PPtw1o4775Z2iaqm9u0-6O2Muxdl2Bxhar7CE9pCmGRRGaJSKief_Gdv3FG1HvVydBUejDY50IdQDk4vq3-6IZgEFysSn5_twug8XN9gBHjG89dHUGiRYN1Yzx6CJe8dmMLodZLzXhgdFdE7FtoNOLAm3lClkfwI9vxkf595ZoCeOqeXfQdWH1TTmLJsT4l9pAr4YDomHcvb6Qkc6RD9pZxXP62deOCJqT4GWVvwoKaQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfVTWB0ZqH1tmOq5wrY9wiYJuqUDUlWuXBDXCl94TdLjIKdTvoFwy_26mqtZJS9oMBDWqqgkTGuipEUgCoUVprcofsGlHP0FxeOYwk5_FBA72IQENJNpDNFUPZP98fIE1pi4XgbHQ0K9fHk_Sai8oiiqrLam6Ek1Kk70w3LdVzTTfw2_iyEEiaQLWLRm10JSIFaFzBAV4llLlojBSN-bbHxfojkCTGEamof1ih3RPPUiX2ElE9qHSXmFgZ5hS7gn4jmPhMi8LYiAf-9sRQy64OOZT2I5r4qoYW4EDqUgjPyFJ0i_d1JItutk8GfzVvwc0Gnv3i_lcODXu2kfUKCEd4aQnlXnHZIlzqH8Eu-dEcM0vA9bPOFT1q0pfOBabBZrAm_vWJyIXdJhkyHvI6jtRG5rMMYYD7ISVTBknThT7FPHqw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfVx53IuFChxONyrpRCHNX7eMmXC963Qf71wGTuJUiY79X-AEHD0Pwur9OUzD04Qqw6KE47_AcggZrKZtClgBc5QW6S2z15OtJN64fgSUFuWL_GDWKe2k6HHYOD4W3c3QwjpBsCktpaMFTEIhEo278hL1Imyw3ntx662mceuqhyLxs1ob9H2pH9KktiNGeFijKw4l2DvAe0xAcvJh9K8M55qZure0OVECQwto5Or3lZjCHXPZgeRsvNRw9piLbQFL_XNICTr7zVmMGbtu0kW9Cz0Mz-xNPz6neuVeuMTd5kI_qCiDPhNJk1mXvKsD151--m61bSKfXQvHqciV19hHteX6V8uGloRANc5Hqdxbqc0YR17geMjFHyTvWwJ_cYjFCzQEEZEv_fhPg2wBSiflWpMAxn8RjfMv7_EOi2UJRzrH8g",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfVZGZ1Wthj24AbObRMMySe1dBzcPHsIWzBaLRWSuwH1YhwbSDdqF03dfcx_fcxPufhnklqJuZsP9tCpVNcZ8Ex_i93Xpihxww9BzBdikwhR0PQKO8NKkgj9NlqtHk8LkrsOlzoMqMO4X2BOfvqzxC0fAjWGM6rWs1fbaOtv4dcXD0x4aUY2-qIghsVxTJ_OiEtYveXwNo_cf2F7ieyiYtsdyW50dSkvz1pbNit072vXH0GGSD3TtSCPujmPdcnsGcpT1FcwY5mkzHMkpIArJUFxSU4X0zsZji6UrIvBcpb_t2vHU0yuveIELyxIiL6UiDzmg4KqrIpD2Nc6BDp-5oElrat5X1JFobbIQv-z45n13NREs2z4jinWU06X6OyVXRSvc6uQnFap9x7BWC8hiJbm0cLzRs-v3xTr6J1u-j1RbQ1f",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141361591139095723\">safeer ahmed</a>"
+        ],
+        "photo_reference": "ATCDNfUj23Ke9wvGHT2eeN78x2yghtcHG7VpzAbbFmDkW6nNXAinRw8_bDCQZ68fbv_90QsPUmhBHYndj_9yg4veoLVt0aaH7i8e1f_M5L98udoaAnhcZQSc8YX7dix5SZ-9Pw6HhrVLzzikDaw4FvydxxBfwHjenL1PGaqMtI_JPNUOGIQF0gQkBR6suyaDBrFh1gW-1V22eUqxBqvThFleAFeRrc0z7TtiAXko5bpHE61Xnuso7cULukuVccwFrQ8JqTYlD285Om0HTBVj-kx81prF-rAq8nfgwH8WVE_vX4qsnNtXsXGzcXOs1j4rQpPifGpOEFRjdwy8TCLNJnv9kRiRUISkSgvwHrf0_kdRYL6S7-XlPSKimI9C2T90nq4S-_TEv_jz7tMm3Kcgpz22Zjw_BAUkQfvBCjDYgPsXBoidANxI",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJs1_KQBFJyUwRrCGR4QdWBzs",
+    "plus_code": {
+      "compound_code": "9WQC+82 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WQC+82"
+    },
+    "rating": 5,
+    "reference": "ChIJs1_KQBFJyUwRrCGR4QdWBzs",
+    "reviews": [
+      {
+        "author_name": "Ali Alt",
+        "author_url": "https://www.google.com/maps/contrib/116273481848942002661/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6-rP-kKVlfgRFevNM0jPEsQkOcGIidaa5GHMC8fhPKXrGKg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Brought my car in for a detail and wasn't expecting the results to be this good. They brought my car back to life. Highly recommend them :)",
+        "time": 1758739579,
+        "translated": false
+      },
+      {
+        "author_name": "Yves Brunet",
+        "author_url": "https://www.google.com/maps/contrib/112607601154871485456/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4hIsG4jkpnStkDz3p-8B61aTK0YjFYw1ZuvO23_zSCSvjJw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Excellent service, very curious and thorough, highly recommend their services, my car hasn’t looked that good since the day I bought it 😀 Thank you guys!!",
+        "time": 1758731762,
+        "translated": false
+      },
+      {
+        "author_name": "Hattori Hanzo",
+        "author_url": "https://www.google.com/maps/contrib/103984097134405988387/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTP6x123mNS83IxEeQ7nfUcS0SOls3qoF7Br687q1brAbY3l0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Brought both cars for complete detailing. These guys are perfectionists with their craft. Did the complete in and out engine bay even undercarriage and missed no spot. Visit their instagram if you happen to use this app for video content. @snj_detailing",
+        "time": 1710550802,
+        "translated": false
+      },
+      {
+        "author_name": "SebTheEdge 1",
+        "author_url": "https://www.google.com/maps/contrib/108941057135701439378/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKWcXxd8JUhZ-XCNbAxagdkoH_D6u_7lXmz68z0HA4cSC_X8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great work got my 20 year old M5 looking new again. Good customer service, and good end product I do recommend.",
+        "time": 1713711843,
+        "translated": false
+      },
+      {
+        "author_name": "Rupinder Khinda",
+        "author_url": "https://www.google.com/maps/contrib/104201708227930475615/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0huWS9teNOU0qZn05jsCRtM-IFn8Z92XdXz5wbWtJ8JP4Cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1715467174,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=4253462964923867564",
+    "user_ratings_total": 5,
+    "utc_offset": -300,
+    "vicinity": "3666 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.instagram.com/snj_detailing/"
+  }
+}

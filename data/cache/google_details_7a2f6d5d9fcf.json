@@ -1,0 +1,418 @@
+{
+  "query": "Qashqai, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340572.7901168,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "7",
+        "short_name": "7",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">7 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "7 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 455-0444",
+    "geometry": {
+      "location": {
+        "lat": 45.4151871,
+        "lng": -74.0186258
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41670903029149,
+          "lng": -74.0171404697085
+        },
+        "southwest": {
+          "lat": 45.4140110697085,
+          "lng": -74.0198384302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-0444",
+    "name": "ALBI Nissan Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113483509567662613961\">ALBI Nissan Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWtDGMS6lcJQXV36qC7OKMa4Gs_EWpMO-B2SFxJQ76TEor7q_BNSGRuQFClAQ0-z7VsF89kQEvzZM0knunlk48TKccpF-EuYe5StK3rURqZOUSmgGBQYTzIf8dWM6VV-C0vFtxC6dDMHAGrMbBmz90mFAoUFpyH9Cln97Hc4BpmavAJqGUtsF_eJOQokdsF0Xt03s7Y7ozrkq2xBMkDhQp5izhr6Oo8A2ZNrNOjZCBFqw0Y-3G_rDyGYGCKLPvkom_SZq2D5RTv1MQGc6FEUrikI--fbOlS9dFUFOdAUgRvnQ",
+        "width": 4032
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113483509567662613961\">ALBI Nissan Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUnE7IPyLjCatrvkBQUgSEL8uecJXpqPl6hGYibh7Ot-0l3NFqy56Ln3ueEjGJbNYk4kEGaMC4MqjskcWRTZvq0Z6BvzsmGqh-nsKOPrbwThGYRvGgSKOQoOHSc2njeu7nV_jM8Kkp3plEPRB2xvC21jvZQFtieeITegr4TlowZGgJ_vJOA6vNRw5go-DvcFwtOZfk5ZRULoQF0COYHEJfH8vq11X6veyWkoiHPBzGC1CCjzgVXy0Fd-__wVDxRef-Ut37TZvUOSj7o0r51SPF68eZ-52R0Nv9hvZqAZUA0mg",
+        "width": 2000
+      },
+      {
+        "height": 2040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108340232779386665318\">Shelly Sathler</a>"
+        ],
+        "photo_reference": "ATCDNfWrTuOBn0rGijPh-7GIuo6YJf_WytPq6AFMZCSdKKybm7EJfA457niOU2Vk7U4-rNA1ramZUA5xil49ttz8vVLdRB9oBcPq8YhFf15BzF210htrqWnHeVohOqYme7ymsDbJA5Pbm6Ean7iIydouqgrl_teLIKp4-uIaa1EGaNN7T-wAvtWAJcvlwphdzNQCT3_xH2v-KelTbg5St81r76xbJxwM85nkE-Haze97MS3aa4QLyMXxoVpqEaakgXtj5X5iHiQ4Es_XixMWMpTQtbESTAij66i28wzO2r_hU5qMDd5xcSAWpKZaDuFLCniDhT73erOm9mrs1OlJCdY4NKuK5A9ScDStZqE0wv4z1o1Mqpj86edu3_783JWKGfYLG4-pt0CZN4mu_ymZe4mpU_qr3ioGY3CJyFi-iBat2ygebsLHp1K9C3HdVdKFwS9Z",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108340232779386665318\">Shelly Sathler</a>"
+        ],
+        "photo_reference": "ATCDNfUi3Bfpducg7lsBMSKOYDw60F3NGiDaZVvZYE_tgoihcnVutJu_7Qj_SykOCK2XUaOOznAg7z1R1oszX0VaEQR898EbkevRVqe0hEFgRWnxZytAMw2RsR4RFANh_fBUaHVkbsOcKgkUbqJfypKmItSAXOVCWoWQ8vivEuMQgfQXh1PcJjf-86c1depBcvvrfhsL5UZrf5xDO5NYPHbLtozkDz7Arhwu3YBjGQ3DU-Z-cIQVKBi61CxtDy6zGUVdmBSY6aQ9UPTuGwyrVmw9C3ESHV23kgKwnenrdpkOguKx8Kt-EWRLOFwJ_lfN2MQT3aeSOAilnGA_LC6UEg1cAQvEgVG1FHMaxEnD9Gr2RDVqVE7blSQoPw-axWl6e1HEn9zOa1qoInCEt8ESXrOD2dj-ZshlELIbuSsU4RtSh25eGuzg50cZ5dYzcrbMI5Gx",
+        "width": 2040
+      },
+      {
+        "height": 2664,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113483509567662613961\">ALBI Nissan Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWOOL6GkBmPoQvSA31y4pQdHrQKj5YimFCo3xw7NGQSW5l3RbP3onPJNgY058_ZcoknQFrKqYcPJ-QYFW1dBq-140Vqz6aaLlMDnfeaIRQI-zwAsQdE-QdA41D3Zru_41xL4d3vbGPoyh5zZASd0wcW3bHCUFNWaJREKy5a_M1Rn_5SlTZyaXqqPh2cm142UpcV212xZHlN5GADktKmoKQtypCgKfpJmCVjhnpvg6GE2pwJbtsqWpYw1yNTBQLaCPVE79eo8fQy16nGtggSTFBSe91Cr608xcbdxt8PSQgKpw",
+        "width": 3658
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103454134704299405211\">Amine Mouloudi</a>"
+        ],
+        "photo_reference": "ATCDNfV-fMkzoszpa6A0tqbJRx2TgpJYBVEbGUxvVjnXz58Yc3VJcYBhiXRpROnFPgxs1JR7bDXCgp9WDTySgf6_Oyu19MUKMTTTCibCyG3fPOZLA5jMy6CRoNpEsG9vBdeP5XdsCeRSDt_EFQdJnQUqp9gybOzvnC_42su6MWEfCD1tgDCzC5PzKsXTnKyjsyPaYJKRhOMUjQahDgRutQopzravD_ar6DRlc2umSou-gmnx_Z5Y7Ht5r5CwazGpl9N6XcCuDwaw7xFHVmbhQloNjl75tY9vgghmjnZMKm5cKyv1d_U0hTVM5KJvByBWnRCJ0z8v6eOGpdGeY-RMPM2JOp1FvObfosaRwFSRgHYs7T7STiAt1r35kwdaN25jjafzuWix1i2ZiwSYfOWm7u-sYQGrjNUugs7ND35xXKMtayA_GXMvOa8-eZfN5wzh5diz",
+        "width": 4800
+      },
+      {
+        "height": 2040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108340232779386665318\">Shelly Sathler</a>"
+        ],
+        "photo_reference": "ATCDNfXCH_k3WQyimdKr8U_9Vg4TxO7CFMt3nYF0KOX2Pnf-1Y5X1a9AQ9ldbDndIJ6ewJLwqGtaKJgw8YGsfONLLhHHUf4-yvd1VGacIzuVLLxRGP2HEJ5dcVIBe8FfbD4ofzwy_Il_j0GRl9LB5xVThjGd8raLRH5psrivE33tusAHkjN7R2mFqd1Co2ZdbIA4jXN_b9Y2q5oMv-Qp4ft7XgHgyLttX1W36MhGJRaR2dbuLuXPqChH5ZW5-6rbegh3cMw4NLxtBt8wBd6fWU1qpZjjVAqQWW2CH3mJqafB-jps4Jq1xPU9HAhJHvHCyO2FTfOZoV3rHZAcsQpQe3Dslch_QkXV5i51GDAeYuBd-B3bx3jXjzJjxjyXiloN3-zoKxEjTgM3PRC0S0dVFFiKeshz3Uj78CcwcVoNmkYvHIIYy5b-HGqLpEyIlwX8aUwu",
+        "width": 1536
+      },
+      {
+        "height": 1217,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113483509567662613961\">ALBI Nissan Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWkFkauS8rbnw57aN2dgQxuZb85L1mLKxVUKVJWKOgCI5yc8w4TCEobdQGMtXMiE6Okp8YHhyrZa8x5XXKfFxEczkQMqzAAyflzttpiTyigJfCXw2Fic0r4ZgbPYAdoKFqThyGmUkLJH-0WFKWPojkP9k13J2OdM0DFgWRkxntRzdFK_Y2EqlCZhM_A7nysxw_-NMhXPSVlTKO8fS8sOcLt2wBygwPJDAZn7g4EfQwcsyNSOJajf6IUdBQFd6aWjz-W2sbYlVnk2KzuoGx2TJSRdCNVNg56FCgvTrUy_gSGpw",
+        "width": 2000
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103454134704299405211\">Amine Mouloudi</a>"
+        ],
+        "photo_reference": "ATCDNfU_vsVKXYT-rWufB54993Wfbz0L36s-fRW-eyCt1LS4qeIyQTqTpPBwMjc69ufUZKzTNnpPP8AWJJ0s5aJJkRH-hbSSgGftVGbSw-GaHk8GnjuC9e_bI7wIgaASCIsqsGKv7srLgFi34F39WZ_3zC_gzJHjuY-qJo2FycADZudflzp4Hp0uFtIW0SF5KLscEourYbBVvw2uYA1QziAhzq0wk8U7GC6mmbiQO7VvOWSSSWSZM7UoD36bUT9mu7vONhB9IN5f3m_zBg1gwYTvYmGMXA8kufq_x2Ad0FAmuDyVhLan5I38xQHgLVRahrlTcfOPFXpjhd2KBlsXrM_l2bxDhIvAVChNf-KagQkAmPtRDg5JC1w1yJ0oRhBOfQLcMjoK8iPzSNnHQqU4LKw5d1CsOmhZ57kEVTgHBtoKn8w9NKlhkE5IxdfuneirwbMB",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116886186204822430555\">samara Alencar</a>"
+        ],
+        "photo_reference": "ATCDNfXguvCs3QB9zcDRR0SKynqK5hipwwCc4ulGCNODuIKLYIAyPNFHv4Ax1jqwPsymgpN-9_E8S1cYfAIkdnlYxj5UCV2HHgqzvXJ2kKTDLpRR5QYBLr8XLs518sr74CBZrEW67MUZjC5tcw4uyBQV6gu_SkS93UjxEwFgf9flSHNgWL8rnc8gXDppKz4t2jrANEKZWJSZgf45Qh8zGTXwPI1RGYE4YNs76GSIdLyQs9ohxPoDS_uNvebia4XVNkxbkP1KFnq05hELrkU_ajLOy1JYWhA77I8UpOXZuyYjcuIMPIG1NdU9qB6YMCwiux-_W14198Eg3NYwnZdMDdEw8Cg_L-JxzNWLTdW_QfYcyCHwleb9EIxZjgApRkFv78m_XeE0YbkdQaDyO6XRnHK3JdY1JxgXppo1CLRo013VL83mrcid9ET0zDHYoqW-VJBJ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJCzajmt83yUwRvYa0Uxggn8I",
+    "plus_code": {
+      "compound_code": "CX8J+3G Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX8J+3G"
+    },
+    "rating": 4.8,
+    "reference": "ChIJCzajmt83yUwRvYa0Uxggn8I",
+    "reviews": [
+      {
+        "author_name": "Shelly Sathler",
+        "author_url": "https://www.google.com/maps/contrib/108340232779386665318/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUhabIX8w4Jf2awywDb-RWldgFYu2eOVLES2hvbNe9nUy04sFl=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "We were drawn in by an online promotion and a sign on top of the car we wanted, but the advertisement was misleading! We are deeply disappointed and do not recommend this dealership.",
+        "time": 1762304558,
+        "translated": false
+      },
+      {
+        "author_name": "rany freg",
+        "author_url": "https://www.google.com/maps/contrib/113005018546852809503/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1gGLhW7XA8pjTNm246UD-MDW1EfUe8tmKbNGhXg2BAX93WTb_hw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We've just leased a new Rogue Platinum 2026 , the whole process was held by professionalism from all teams starting by Julien and Samuel in Sales to Marie-Sophie in finance and delivery! We really appreciate your service and attention to details.. we really love the vehicle ! Thank you",
+        "time": 1765921796,
+        "translated": false
+      },
+      {
+        "author_name": "Stephan Rohan",
+        "author_url": "https://www.google.com/maps/contrib/109380633517492525016/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfviltg8WCkOsze3KfXrLlQHSOCdvpbokvZElxYYRtJUsw306uGw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Just bought a used Rogue from their used car lineup and it feels like I bought a new car from their dealership. Even when I was still shopping, I was welcomed and accompanied throughout the experience. Kudos to Benjamin for a smooth sales process, his patience and follow-up call after delivery,to Kevin for the clear financial info and to Marie-Sophie for her kindness and professionalism throughout the delivery process. I will be back for more!",
+        "time": 1760014996,
+        "translated": false
+      },
+      {
+        "author_name": "archan ganatra",
+        "author_url": "https://www.google.com/maps/contrib/116626708784373455547/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvTq2w7QCMUPWHsTrr_IXu-6EnzbqdA8NYtSezPaTIZ3qL5pI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I purchased my car from this dealership, and from the very first moment I stepped into the showroom, Khamhal made the experience easy and comfortable. He took the time to really listen to my needs, shared his expertise in a clear and pressure-free way, and helped me find the car that suited me perfectly. Every question I had was answered with honesty and patience, which made the entire process smooth and stress-free.\n\nHe carefully walked me through the lease versus finance options, offering insights into what would work best for my situation. He also went the extra mile to secure the best possible trade-in value for my old car. What stood out most to me was his genuine concern for making sure I drove away feeling confident and happy with my decision.\n\nI would wholeheartedly recommend Khamhal to anyone looking for a knowledgeable, trustworthy, and approachable salesperson.",
+        "time": 1756610248,
+        "translated": false
+      },
+      {
+        "author_name": "José Villalta",
+        "author_url": "https://www.google.com/maps/contrib/105765063759857994502/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGK4prZw-m1bo8_5Xw0XUsAjNDtIIKwodXxp8vps5H6iQ0Ig=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "⭐️⭐️⭐️⭐️⭐️\nExceptional Service from Khamhal\nI don’t usually write reviews, but the level of service I received from Khamhal was truly worth highlighting. From start to finish, he went above and beyond to ensure everything was handled with care, efficiency, and professionalism. His attention to detail, warm demeanor, and willingness to help did not go unnoticed.\nIt’s rare to come across someone so dedicated and genuinely committed to delivering excellence. Thank you, Khamhal, for making the experience smooth and memorable. Your service was nothing short of extraordinary, and it’s deeply appreciated.\nHighly recommend!",
+        "time": 1753983039,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=14023963053510657725",
+    "user_ratings_total": 146,
+    "utc_offset": -300,
+    "vicinity": "7 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.albinissanvaudreuil.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

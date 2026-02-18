@@ -1,0 +1,393 @@
+{
+  "query": "Herbages Normex, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340614.3579788,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "15",
+        "short_name": "15",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue des Caryers",
+        "short_name": "Rue des Caryers",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-sur-le-Lac",
+        "short_name": "Vaudreuil-sur-le-Lac",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9R7",
+        "short_name": "J7V 9R7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">15 Rue des Caryers</span>, <span class=\"locality\">Vaudreuil-sur-le-Lac</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9R7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 9:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "15 Rue des Caryers, Vaudreuil-sur-le-Lac, QC J7V 9R7, Canada",
+    "formatted_phone_number": "(450) 661-8037",
+    "geometry": {
+      "location": {
+        "lat": 45.4214776,
+        "lng": -74.0334535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4227714302915,
+          "lng": -74.03218166970849
+        },
+        "southwest": {
+          "lat": 45.42007346970851,
+          "lng": -74.0348796302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-661-8037",
+    "name": "Herbages Normex",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 9:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110367201319952272763\">Herbages Normex</a>"
+        ],
+        "photo_reference": "ATCDNfXn7XKPyZaR8fQbWw8Ml118HbJ4-9ub4YOdY60q9z5RM0HTIt8EqjA7UIe4hcLCajzrwr1oTQV8lmajDRe4WGlThlU3zLr0g4Xm-wdFBwlSxcVm0Bh-QPlh3ZGg3Syc9fgxU_QRN5wdrIdjfNGqUffM1MrB61t1icSpvrAFnD_5vCzU4ExU3gR8X72c-IaueF26f8dpPnG8o532ueFnAsil1-VPXDhP72fIniXmcZT3ERkW_McqqrH94onvkSrrrwjM2VR9pHV8FkWWG-gprp_r2KkS1b6TtQAA1QidC0W_eQ",
+        "width": 4032
+      },
+      {
+        "height": 2870,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110367201319952272763\">Herbages Normex</a>"
+        ],
+        "photo_reference": "ATCDNfXYtGfmIBzu6ttF7-elkFOCgM_bKfBFjX5ZaWrqEV079O6ciA5R9FX31VkhA1-oDwcUE-AWeSmPd6OUywZ5fggnT9A-_OyYzmsfxG_bQZIVRpMolKsa4iHBzFNviaS4UuwwLWEblHY_AL_k6LwPToGnOKcQy_omS1pENTnuMgKxCkjJvfeEL8kwZH2dJKy7YIqSuexbVX5rMnNQsKA94Ke7Rvp0Qw7DDFFRKA75O79XTuzVmOxlyxdLqXA7oKzccY2F4L6dlPTECkBuuhZASPkqEAgSWDJuJ2IVeihf8l04Qg",
+        "width": 2256
+      },
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116611881551265177034\">Marc-Antoine Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfXMf_8Tl1zWALk27zDhu4_sr5SckekSW2xgEaGVMGP6VVHsxC0Le1j3Ich6wb3BerY8wGfE26NQpiYUDJ1cnjh4Pj8HvszOAJ__owM2jfMmTmdKAsUzkcQ3nXx3wstafx2yZwAvjM6u04E4jnqo3rI29I4zYDQGiHQ1GttPR8Fa3yUpFmJ-dD7vs2_I6uX1U_bgDKuZRpAMBY_-SSVmsIFzBX3sdPKZmJVmTb2yToa192M72hzxxa4g07fztWnGrWnTypXanNhOH1bq9_eNQ6W7Eh3WVs_xTtjMSLdw5HsZ5Xd6OKxbolMKOrDlcbpEB2CgcElD4KfV1u3UacnzEuMARbO-u4B95fK1xoKi4TgxwyMaCgW_S8jSEF2XrfT9rOdTIF9617pgWBVtXuDPtjZ1kYXPd8gG5dbqhfPGsFHis0Kg",
+        "width": 2976
+      },
+      {
+        "height": 2384,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110367201319952272763\">Herbages Normex</a>"
+        ],
+        "photo_reference": "ATCDNfV4xZ4aWy6maQfPvJE7AReRDkFo_gFuZq7LWRwkU3gb_EwCHk01sXd7PbxYQn7X2RAg9e6jsOXBO76DnLqZyLkmk84EGXy2q-o2m3XCQqo8F7sMgfeKqOEZgiTrVeTqNkZ_jqs7aNn9bj3wjyBdE106M5rFG-u3EeFMr19c025Bjzxoq1vVEr6lLj9FIqdcxGIXT9jwKIDGOJjuyM6vGkDa4exZcp1bPlGH77_bMJiWcuYaJNJT1ADyVmClJJy8ySa9U_OfTuJS0yEkLK9eSSRwBwheOTM3ZITMIgHVbvvmtQ",
+        "width": 4240
+      },
+      {
+        "height": 2384,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110367201319952272763\">Herbages Normex</a>"
+        ],
+        "photo_reference": "ATCDNfWh7P1SRsC1IhKcXprnxVJNUzl3I079Xz4mZ_BAfmWnH-L640lWDvzD-EY_IT4kUNulAfYoCf9DwCWcS1rSpOY4mAYvJFZzo64YmZEVjxJrqC7o4uIPFW5PFpC6Y8TeEQ3cMjF8kF9O6y7ceMQG8BaJhouJBmJQu83Z_S7424JL8iZP2ma_uF5s1UO0DpiMuTJ2bb1pNREExL01P_M9Ni_Cfl1DpRmRjjTlA7ti1LTiphxB0MaS8NRYXwDSEcAa3A5-pyu2PUHsGaT4S0cg7LnWDbLwrVacyLn_JFvkhsZDWg",
+        "width": 4240
+      },
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110367201319952272763\">Herbages Normex</a>"
+        ],
+        "photo_reference": "ATCDNfVbwe1p1uDxM-hosXCAk80iW0kPSGMWIiXsAe3iEJR5ll_nJgiNVCemzH4jaLbLXEbQxiFeeicc1C-Qi1F0WdAyexKy-2qR-k2ieXfZWWqYzB8bJ5ozoGEF_Rz-ZL64Ivm2JOlk8vnYPa4Z2j_GobUphHjEfWJloBEm5WiLcEyYw2d1FMtULxn6T_Bsgc7CZozsxI8_7uQqj3ObAaQJ_4oylTyXId00FRA9g_BFWGI5ILMSeOn5ZG1Ke1PKJzam8iUcntoFLR7tBGXnEP1KZ1ZNvDQzbyDrL5SE86XyaN439Q",
+        "width": 2976
+      },
+      {
+        "height": 2357,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110367201319952272763\">Herbages Normex</a>"
+        ],
+        "photo_reference": "ATCDNfW6hBhEpP-7Dun3stLgXddYM1JR-iqC4tZTpeOvk6lzikNJySJmpRSqYnBGtz2jHNw2X0RRiz48qlZzQx8zhj_cH-TMeAuloj_9wKrZuHNpa5J0lbGMNbocddAl8HqKPGUES3O_jSzdxXaVo4Ek-T_48fgkLivBINQUDRE_uUxsfnRYmzfbgDij-_FvSurXdVt0RGv0AymX1nnaR_1LInOZHH2_UlJ1ETAVH96f86nxuWLQiVcdib4755J-69AQ3zNomf3YuqW7v99LTXRgWHXEuoDXskTcE-w5FzEv3339YQ",
+        "width": 4192
+      },
+      {
+        "height": 2357,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110367201319952272763\">Herbages Normex</a>"
+        ],
+        "photo_reference": "ATCDNfWWCSkJcUfnTLDjQV2iNaaYPoJ3pD2UCsL5GR16YlhHf2SLoB016BbQ8jbKWgCn0Yauk-TzzuDRpcJy_eP8bI91kSr6-aoLTZsdOF9GKjkrzfktPCYwyHtAMT03NRtZgfHRkdlToJ0ojcCbLHwPq2o-6SAhK9LAMnkG_35P7P9E93wzwFpeLBWq03RvZAi1WKCy3210HMitVpn9r0yXR9FORkzFhSnR1p4IGpMCniDgzbsy0EEZwV07RgTUlvOctPCqb9ZtFBQR85TwsN0HMcjVLOXMx3oJlOu0l3b1VZ_qgw",
+        "width": 4192
+      },
+      {
+        "height": 478,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110367201319952272763\">Herbages Normex</a>"
+        ],
+        "photo_reference": "ATCDNfWYQE31MjChpfZnc9rc4lyl_Lnp5woIW6i7Kvxnl_NoLjhUIxCkfHLbMD3V9pq24hX6jdihDqDuurgPvLwdmfY0gXwVtHGPg8S0ZaAoPWwXlEq_tKU_sAZ69yXlW3q9iq8UQJzXMzdFznwNWCmapf3mHNR1gXuWuDEpAGJ2VtTP70i7ppOaCd3IindF9nQw3Bc1jo6uMiyCal6kJRzjq4y-nO3X14uYKbxYQG5ffxkF3tPQfuGTZB2bEplarzMZ9SyxzkNYl_0zugNcnYCZKKCMCaVASKIQeZ6y7lAkK2QJ3g",
+        "width": 798
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110367201319952272763\">Herbages Normex</a>"
+        ],
+        "photo_reference": "ATCDNfWmced8ygBmCRpM7pS623LSAT8Z5A8VPmR9sHT7mktHsmwL387zMIcmMNnRLOdjnq4xjqkapXxXgQzq5X0FU_D9hTrOzOxr2LuTyniqtiy8EmcHhpkl7qppKZpN7v56U8tK4Y3pWTmHg8qeWuhgntWcXDAZsictmTB3aanKkUTFsbjrMKA0jCaoYaIb5PPq0GPNdSEz56l2Su2fjLtFH7mJCDp93WQEKSNsQPyf69_qV0oO68UwUONrm6dys9qAKjp-3idd-C2kO0xG9DM15Jdp92JTlxWBmjPN08LDqYggcA",
+        "width": 940
+      }
+    ],
+    "place_id": "ChIJWYe6oWY3yUwRs3yIfuN909E",
+    "plus_code": {
+      "compound_code": "CXC8+HJ Vaudreuil-sur-le-Lac, QC, Canada",
+      "global_code": "87Q7CXC8+HJ"
+    },
+    "rating": 5,
+    "reference": "ChIJWYe6oWY3yUwRs3yIfuN909E",
+    "reviews": [
+      {
+        "author_name": "Seniors First",
+        "author_url": "https://www.google.com/maps/contrib/104065695890515342902/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGQgGdHw46pAki_SVH9duSJzLJieinaDEoRcImQwgLLGLElA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I first took these products “la Cure” in 2005 and I describe them nothing short of a miracle.   After a trip to Cuba and two years of daily diarrhoea, Everything was cleared up, including other ailments that I have just been living with thinking they were for life.  My severe allergies completely disappeared and never came back.  My lactose intolerance is history 20 years later never been an issue ever again.  I repeated the detox several times with astounding results of success.   Herbal remedies are definitely number one over pharmaceuticals because instead of masking the symptoms it completely eliminated all of mine. Five star 10 out of 10 and I could not recommend this product enough",
+        "time": 1760643239,
+        "translated": false
+      },
+      {
+        "author_name": "isabelle brophy",
+        "author_url": "https://www.google.com/maps/contrib/105090155793344972402/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgJQ_yKpb48iZnxZxaO6uE4yZQlOLhSweKtV-7NrEXvItkWzz4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I love the products you offer and especially the quality of your supplements! Your products are pure, and you add silica, this little-known trace element that has many benefits for the body, to the supplement in question. Your products are not coated with derivatives, excessive food additives, or added sugar, palm oil, and other ingredients. Bravo! for your product offerings and the rigor of your customer service and your online services, which are also fast! Let's support this great company; when we compare the ingredients of other companies' supplements, we understand that the best in Quebec are Herbages Normex!\np.s. No, I'm not paid to write this review! :) A loyal user!",
+        "time": 1749875190,
+        "translated": true
+      },
+      {
+        "author_name": "Vickie Dufresne",
+        "author_url": "https://www.google.com/maps/contrib/101748019687205515821/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVPxBJ3BlTCbZmvg5PBSjzx0gG4Im4yXP9eIn67tmLqv69Td6P=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "This Quebec-based family business offers highly effective professional natural health products! Plus, their sales service is simple and accessible! Thank you to the entire team at Herbages Normex!",
+        "time": 1749825731,
+        "translated": true
+      },
+      {
+        "author_name": "Sacha Bouchard",
+        "author_url": "https://www.google.com/maps/contrib/117018717812276462935/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3vAixdJiH1C4RJ1LHWirh0e86ve34oe1bThjAb3oo6WhB3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I am very satisfied with Normex products. I have been using them for about sixty years. Without them, I wouldn't be here writing to you. Traditional medicine should be more open to natural products that offer only benefits without side effects when the dosage is properly controlled, like Normex products. In my case, where traditional medicine couldn't do anything for me, Normex products brought me a cure that allowed me to live a normal life. With the excellent advice of Mr. Normandin and then the new owners, I continue to take good care of my health. In my case, it was a matter of survival. Thank you, and please continue to help people take control of their health.",
+        "time": 1749845149,
+        "translated": true
+      },
+      {
+        "author_name": "Carole Paquette",
+        "author_url": "https://www.google.com/maps/contrib/110670739111281607362/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFN7geD8YZ9tpFoHOSQDg-dkSD16jXycUrlTppdv-2uQawlw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I've been using Normex products since 1989. Effective, safe, and top-quality. Every health issue in my family has been resolved with these products and excellent follow-up from professional herbalists.",
+        "time": 1749825045,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15119566790046809267",
+    "user_ratings_total": 37,
+    "utc_offset": -300,
+    "vicinity": "15 Rue des Caryers, Vaudreuil-sur-le-Lac",
+    "website": "http://www.herbagesnormex.com/"
+  }
+}

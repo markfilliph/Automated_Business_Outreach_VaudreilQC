@@ -1,0 +1,402 @@
+{
+  "query": "Clinique Physiothérapie Universelle Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339947.6141145,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "#100",
+        "short_name": "#100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "2555",
+        "short_name": "2555",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Dutrisac",
+        "short_name": "Rue Dutrisac",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7E6",
+        "short_name": "J7V 7E6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2555 Rue Dutrisac #100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7E6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2555 Rue Dutrisac #100, Vaudreuil-Dorion, QC J7V 7E6, Canada",
+    "formatted_phone_number": "(888) 394-0967",
+    "geometry": {
+      "location": {
+        "lat": 45.4035263,
+        "lng": -74.036911
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40489228029149,
+          "lng": -74.0356741697085
+        },
+        "southwest": {
+          "lat": 45.4021943197085,
+          "lng": -74.0383721302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 888-394-0967",
+    "name": "Clinique Physiothérapie Universelle Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111819345861039151796\">Clinique Physiothérapie Universelle Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU4vA0a58GK2EktfrrsJlnn6yhmSV0ZCc6ERkBTugWL7PgVtO3MUZFGMQ8ELLR0KAQxpICBlmvuNEC_ikA7-p2AM1rQa5F4J_RZNJ6gs3G7whL4VfMkE2_v43OYqCj4iisAhW7KVDsarp17Gwmb791NrbT3jOuanTvH1O_gTvTqhXGlF6j4UJNLTVYyH0iYzxaspTBE6HlU3pR-J4qvf0uklEIMgXDR-DWTA2UDDWtkysY64wpCymU1fvu_XsbrHGZDCluWnBHPhMG6ryX_Mk6MuElVr4Fo83b_v39VmJtSMA",
+        "width": 1200
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111819345861039151796\">Clinique Physiothérapie Universelle Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXiwwBrZg1dPhR7xDDKz8ZZL2r-SrKx4gEfncED3yaRShTHZvxDdkYBWGKrQxoFRgsB75IjWrVIpke9lOSOVD8GKHj1So-vsEzPV4Q55d9yvRtlAQ4IbHVJ5dm32VMNz1mXam1jB2YZaPhdccxYP3-LmnvgBscBeLxdlJw1pIHEoy2XMOqbibIR2jacUHacP5DgO0X5-UsS74GR0EZHzdCBfwMReEZ1hwGnfDpySZuXARB4XE9MgVScZVV5CieUjCTjSbHoB_rovc4atpTbGMymhOreQ1zXB8PgU7DqXheRBA",
+        "width": 4800
+      },
+      {
+        "height": 1522,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111819345861039151796\">Clinique Physiothérapie Universelle Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUJhmA8mTgRJHFncNBOHLePCNv_aObRgkSezthjCR721_9Ee6vw-RXoKk65kXs5z7hJDlgQFOZxjlLWw_kE4UayEGKeV5_N9kWEGoGbaNpUeZzY1QMQ4VLzu6-i8dzJqZpcAZ9hoNJepFnQnDYif31DYpXwVKkXQQpw4fmSagYt_s0lVKbi2Tebk-zzdNWuVCMGlPQOZ1krJVlQv0asc6VCud-_M6GVV8osZkf_uBlZgddyIpEt0tuio5H3v611PmessNZtnDjc2edw11MlPUz-FLMu6ZI7MjX8vsdASAS6vQ",
+        "width": 2998
+      },
+      {
+        "height": 1522,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111819345861039151796\">Clinique Physiothérapie Universelle Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWw4ZtK8u8NgoO45FsRp8RJt9L6_9eWKKawC6kwjSyCvjkCSI8A6hVk6Q5nivVHZT1ZyGbqSOk9gwcq4O5HvvkquZA5pFlgqUfye8EMnucf22r-V5l1eLGMZbOmIUcJDsab39wf7L25Z07ueFBKjutjoX_63OecmumYs6wSs8-3izccFyz2rM5-TPqhe7SfT4QwXsqNXQo2YEZ5k9iSJs976qApG7mbmrnjkD0U2faigvZKmJ5GKn7hQAYIF06iC6bqUPQ26IVdJsl7t1xhGd48YkK1kF8skqFIHFV00kyIlw",
+        "width": 2998
+      },
+      {
+        "height": 690,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111819345861039151796\">Clinique Physiothérapie Universelle Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU3lrG_PKBZHMo_5uypCHmuRxqfrwkBRdr77eZIIryYsIoG5y3H5CoYu5KZ54QHz3qzpF4BM15v3YO-ReTSwAmDVKI-QQaUMY6KuXqPdnX-XCuydlhezbsgpenjAfb_IpBf2-u80T1CdRZ8msPzKssNIeticug_vvWP0fXbwmFuA6JA4k1ZCAPIOshTHiqP-Hq1rY1nbhmfUyduNec_-AOb19c_r6x3M0UNYjH6GZP1tAly4UbUCJR4EJgyOJp6aBIFe8YN-xVLvVj0p4Xuk5kcQiJC9dyEtw2mr515esRlwQ",
+        "width": 1360
+      },
+      {
+        "height": 690,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111819345861039151796\">Clinique Physiothérapie Universelle Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXfuE_wALHZed0EWDfBDIKnSROgWektOMG38XDuu8bX3i0vjfbDeQ2WM9vYCZfYsC3DKp2izfCu5hOuHOPn4163FUkhBXki40vOW8DO_U1PJNj1ES_lB_ZdXbCkHFM5THeiN3QaxUMWMsxPcR62NQJaPPd4ZmUWCiklOpTyN4NB6TO_vXIwTsZJMmVb0y9-9kN-SqIUs5XitfT6NtAIE7clw0pttIUr42Q9JYnHpiOovBkJJdMkuKi1jWgVwJGIyw7dU-2KkiTYXSf3F7LF0y0wzZEvKsSgc42KpkyhMmIgUw",
+        "width": 1360
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113003193546170194162\">Noah Lachance</a>"
+        ],
+        "photo_reference": "ATCDNfV9OhTteELCT2QCY73Rl3RCwzsSKzmszF4ZpfmOP0GObyUBngbFLLyUjyi4eEgr_wi69FwUQemr-r2YJwXNp4RGAsaUX8E-qdyHq_acdkhdxPGrpYITY1U2CLaQEeX0DCp1WTHlYl00HVDV3GbYLtbH3m0UzcUYDR2OFxkg_zwhMJXRmU78VLTuwXhG7wdws5ZTzXrn0V7cV-xPwDGAcvi7G10iHuy9hkAgcl29KlKWz2I0S4y7ty3Qsa4RGYvtEoO9VB6GXfNEpg9_V9Pgp8E86MAgjdq03acZ_OPvG959767bkjynS7ITXXeqIrDf4QXvcaOjRVzwd0K_RlxmES4FSXgC7RhSEb1g50CtAlwxHvkicbVyN-aU0plNYMJYfU6ZwocK3grtF5BFDKHkVU2rgeCjlyN6uku5dbTeYdj9-Lum",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111819345861039151796\">Clinique Physiothérapie Universelle Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUxv0MZnkFKVKedaZUcJzACm_Hn7rimqa0oaQgDGFqPKTwJJd15ozFg7yruthBZHcc7k5o9aeS8PCLxyBGEjiiH-rKGmrofQ2SqX6dMDYEe4uvGDd0MBG5asFPyzLPC-bvyAa_04T0vVJCkKmry6bhDNvMyUNYfsdp5Xu-zqRie5nBTDH17YMjfJrVgHa0QLhPJxFAOnzrtjSR3gZajRFhGgGsIBMiOwuPA3HRGCMOEEXr9JVP0oSxDTENdAK7r-XC-4iKakRi1R7CGDjaph5svvNw1V8WwgVYAHHYvIBD7hg",
+        "width": 2000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111819345861039151796\">Clinique Physiothérapie Universelle Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXlWAIZR3OPzUiev4CXqTR0MN5LOYelIzeg4bBwFjFQUHQlQvqSFKberPtUDePrlDWWO43QaadxxD5m63dJCN8UYPT0Oxh8i6A1O_teGVhbo_-FpIqA-v-EuwLJXpxmsfwMkm_DFJmP4e3_T9XL9_Wh2QUE0Z5Uko_0FO5wj2zcok-y6j1STTD6UmtbWpUX_Jl9YcTySKkCz9AEDOctv_yucuTeTK7Zu0FF26ruo4ZmtSRKNH1qAclEJgBMS6DfpLsODCWq-exd-O1jtt7e0mWPmx0SPC_JqB8aF7usRCgcSA",
+        "width": 2000
+      },
+      {
+        "height": 1522,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111819345861039151796\">Clinique Physiothérapie Universelle Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXvgn3tuhrJs6-GqvPI8dBIdX8zpxYUa67srtrAz3Qx8O8oyIXGjlqxFyi-BGAzkf75ALACPRtEilVQyHpqcC-vlHuNGNrV_aTOh23xaTUmRduXqWY8chHzeASiox9yAZ-DB7Z76IDpry2Z-HGU5No9eFHs2Y5iNuBUN9JZoxBF3jkLCKWwBbZG_RYujstE56FxIUkWPT1vu8q__IhXGA2zXCmyKiMv6T0ofNFo9orI04B5lCq13WVVwnXjVyZg7bTjSAGrYXkoQhoyUQkaKngipCnYj1ZwZW3bDikT-JM8zg",
+        "width": 2998
+      }
+    ],
+    "place_id": "ChIJ0Uwe58o3yUwRXKVXJvartf8",
+    "plus_code": {
+      "compound_code": "CX37+C6 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX37+C6"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ0Uwe58o3yUwRXKVXJvartf8",
+    "reviews": [
+      {
+        "author_name": "Min Roma",
+        "author_url": "https://www.google.com/maps/contrib/114573584524457763636/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBKGfVmg7c1q99hU1f6W_v1RKQbDXP1rgOrO1JdPFw35c0gA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "My physiotherapy experience has been truly amazing. The service is professional, the atmosphere is welcoming, and the team takes the time to explain everything clearly. I always feel listened to and cared for, and each session genuinely helps me feel better afterward. I’m really grateful for their patience,",
+        "time": 1763050680,
+        "translated": false
+      },
+      {
+        "author_name": "T Bourque",
+        "author_url": "https://www.google.com/maps/contrib/103057978632483379814/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjFrzq_fldv9LojAEJswMneeRq74Iu8dwGyR-0ZWWmTWaQjg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Great atmosphere. Everyone is kind, organized, and talented. Forever grateful to Eric who helped me stand and walk on my own again. Itoro, Carole, and the rest of the team always brighten up your day.",
+        "time": 1763432536,
+        "translated": false
+      },
+      {
+        "author_name": "Brenda Siriwah",
+        "author_url": "https://www.google.com/maps/contrib/100756429020116911374/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGwJ5yvP8NJTghLZ5mwXx0cYeUyBjytefvCmYHllNMIPwFpxPR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Eric is great and very professional.  My dad really appreciate his services and expressed feeling much better after his sessions.",
+        "time": 1764786146,
+        "translated": false
+      },
+      {
+        "author_name": "Robyn Santos-Hufana",
+        "author_url": "https://www.google.com/maps/contrib/116875800096374093898/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlXSrg3rIcrQes47CHIpwtlAaMN-jgJ6JXMb1pGtJAX-FArg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I've been seeing Carina for the past year and she's been so professional and dedicated during my healing journey. She always goes above and beyond! The rest of the staff is a joy to be with as well! Ten stars out of five!!",
+        "time": 1763569914,
+        "translated": false
+      },
+      {
+        "author_name": "fuwad mohamed",
+        "author_url": "https://www.google.com/maps/contrib/107928581687126239901/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4mZvwZiXGMq_5-i2yB20YPVnA3YCpaUiLzAw02oG50iFPFA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "I’ve had an amazing experience at Physiothérapie Universelle. Alex, my physiotherapist, is incredibly knowledgeable, supportive, and genuinely cares about his patients. He explains things clearly and tailors each session to your needs, making real progress feel achievable. Barria, my occupational therapist, is kind, attentive, and truly skilled,she’s helped me regain function and confidence. The front desk staff are also fantastic, always friendly and welcoming. The whole team creates a professional yet warm environment. I highly recommend them!",
+        "time": 1746203539,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "physiotherapist",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=18425822524149835100",
+    "user_ratings_total": 564,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2555 Rue Dutrisac #100, Vaudreuil-Dorion",
+    "website": "https://physiotherapieuniverselle.com/cliniques/vaudreuil/?utm_source=gmb&utm_medium=organic&utm_content=montreal&utm_campaign=quebec",
+    "wheelchair_accessible_entrance": true
+  }
+}

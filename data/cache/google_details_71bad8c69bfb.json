@@ -1,0 +1,392 @@
+{
+  "query": "Salon Ève local 430, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340378.9451032,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "585",
+        "short_name": "585",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P9",
+        "short_name": "J7V 8P9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">585 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "585 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 8P9, Canada",
+    "formatted_phone_number": "(450) 455-3161",
+    "geometry": {
+      "location": {
+        "lat": 45.4079416,
+        "lng": -74.0325916
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40921408029149,
+          "lng": -74.0313703697085
+        },
+        "southwest": {
+          "lat": 45.40651611970849,
+          "lng": -74.03406833029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-3161",
+    "name": "Salon Ève local 430",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109895082934300529928\">PRO Business Photos</a>"
+        ],
+        "photo_reference": "ATCDNfX6m8YHU_Tbxwk4ByvRo2nP6cO_SJphBVzVy90YN4o_cE9DuTSjY_pGaK2SkME_uSAEPKqhwfa4RL6eOg-6hSzkTF7o66M3xr9nA0A2tUqUlVk02WM1k5kSVo3YsKs_L047VZxTPQdJ4EVRkCx5z02FvBI5_oSkjRhR8Z76U1wat-AXeznityZVlWRhwpnRZDtsykGRdq0pA9GSlGjzpwYsacwdnOVSK3_5i3yQqqyCHuiuXfqpTktcc36sqQN0Cke2LvAR3bAf_5A_o_S_J6X7ry60oy5Xwzh5wPfFay9DMDOBj-RQU0cvJvUNf_m90lFwWntupmNwMHTDELVbLstJwjXh5t5kMrAcbod-42mKM4-d7Kufsa1Gmblt0zP80LSqbfAftFXtOWRB1UC1UI5hHbYVmidBpxAbvZDE9EhfwuqZ",
+        "width": 4800
+      },
+      {
+        "height": 2818,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109895082934300529928\">PRO Business Photos</a>"
+        ],
+        "photo_reference": "ATCDNfX7wJcf9s76jjD7mpKjWc6vhbUzqQi2cwfmqV2D9ADrk58ykp6qiv1AN6fWQB8ZASB_8NhvXEQVLi-9y8GXJ_bm06HLHCwuVC-xlw5F75AVkcXVet6uuW0D9sP8vpf4Ndxc5xPRcZktaU6eidXD5smg5Jmpmxgt6oSf8cUX2v2qvfFezY3Zf6XdTbQZj66ABmAnqDoupfCQS32pYJVkIfiHB3P7V_kPg7w6r7rUAbsORYrCX0s4bFzpJcOYkpTpb0yF3VN65UBdtTPm-B3BlV-pn2fn17evKD7ViA21pOzJtZo4oASyqiayauzhQCGAMFplK9yW2Lntcop0eGQaB3_nhMuNDctjMNtc_mBKyMktsAHL1VMRgyliqV7whe_EmOy0X2yxDAeCjYEJy0ceKs6hgvmUqGEDq4MdA5C7PmfnVs4",
+        "width": 4680
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115702725869036238266\">Philippe Lafrance</a>"
+        ],
+        "photo_reference": "ATCDNfX9cBkJNV4dN7oNK4rEH_2iN_hRfYruKMmNExo7hL_BOpUg_ZVZTRycuO1f5349Ul-DmwghFMpmSHybtvHJxg7om4rlJ12XUgbMWNqIq1HSeO0beA1oJDsFZlEJw4yJv_70z8GeBmnl6RdOCQGDxx7q6jlNmeyUFLs1luaSvL-PA5tmCj3Bvfsf--nNUoriQDy8Mc8Lohkf4h4ELr2_t8DI-yaGTSdOQanDTi2EP03T2pfYhNJ78i0q6gGf4ZN1rlaoLLFM9M3ovxWOnITEqZdUQUHYKpiIC-RAQTmL3EZhYjIgscHSPTsvrFgj5hPLGBWYwJdV8dCct91nqY5HGb1BzgznhumsM_-F2q-g06xcFu9R5UzssDHq47YhVc8EajlU7mIjEayZ2pCiw1vwK3xZnAovnsPvvCad13I1s1NITw",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109895082934300529928\">PRO Business Photos</a>"
+        ],
+        "photo_reference": "ATCDNfW9RSjVymQLPzt7KXIvstw-hQy2LnQFymnkmggpSul7qsn_Z3-fjFRxZVpAbw8gjYzmHQwfjjQQpjA_Y8ArWOClVJ_wV9n4IPqJEvtpNgR18Bxs40yIYGQsQcIF4DGh-QiMHRqNQrsdX6iRe2aTQ0h4T2fdhDpi0a1viAp2k_NNmuLalthJs2pBHO8rYCLImAkW_bNhN3T2Qe2L4t9WtreM8cUb8p26ERIJa0YkjBGshWqnYgBnSKaN4lCRejgrALcDspIDPOSvSabj0Ncpj25SV3Y62SNP7YeA4x0sNtPlF6SGXbHpGZqHvT6LSTpCTAa4nHrPEXIMbngOaViQv7SHM1xhLNvdsL7UDDP9zLsYYdqzbfnVH3efOThu8M2Ef8eR94b85OS4GdUQWnjCz0L9pIfTpZ579CODWf4V10HrdnEA",
+        "width": 3200
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109895082934300529928\">PRO Business Photos</a>"
+        ],
+        "photo_reference": "ATCDNfWQTKVAAprVRr9COIFycsLzwlBsxT7UrWpMPllzpZ4x9eQvw4xQ4R55TvL-VRFd9AW5V5XTJBNrksjw1Dl1lyM7Qa0ai2zkqyiPmeaYvS62IKq_hl-HSFRtSFayv4-eEJdTW9mMUR11w7m8XU2LzIL13iJDYiMj_AnFzrQNB5jVfEDvZJE-JqUndH0DzLK8MkrbLeO06kYT2tVhQ5TqCT8dPDe7i9Jh6uafd7uTi4jxBMyuziuv-P-Xj8TPTMncl7hMSwI_F0-vssZ3tY69lIGbAkDAnUgjmmTGyzho2sf0Uh-LqtGSOcVcY9TRMBWrTTidv23MKy-98-hk7LkOTy7aKUxtypMQ7-UBsEVBVcpY8rO8ii7h-uw33bnErUBxqm34yJ38iaRSpgt7gOhfdkqxhPO3dTLjMCylylzIMJGYD3I",
+        "width": 4800
+      },
+      {
+        "height": 3560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109895082934300529928\">PRO Business Photos</a>"
+        ],
+        "photo_reference": "ATCDNfUlzeeLy-I05fJc6NhibAHSC2qUah8awSchJRZfFRBPbh2-unsh90CzPizVHqg8LjBE0rB6PzPQG-oRnL9NmrqJKwU4L_T0UrM9-VilsJXzMsCt6zO3-aoriQPTMUP4m29NT9H1_zXrhHMynjQ1RDVZgTOQMIwgw_Y6NRQSq_VAmSvqNC5uRJoEM6fFzw6O2EE85EWJ414Vho3UnJj77z5f9Ynsev24xfOF4KCkD9QJHekh0I7gIg8rpWAEMNHrLY1jfQfYNdQC9wl3DbYcnF5YAs25lxPo8CjC8fUrkmJ2wNBwsDKboP-lF7iZyJROjKdRAt_0XzXmO6wZ5iLke2Qfl_-OIUa6YmPGkDMhp8TWxqce_HgIRoUtqetXE_kQuG4-97wnIKb3l7VsBRTqCXHL1muST3-CWQAUDXaNaCAbNWnK",
+        "width": 2952
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115702725869036238266\">Philippe Lafrance</a>"
+        ],
+        "photo_reference": "ATCDNfXHN_vxXxOydfS1RO_a8-BQ4XXCcmTxKqkDfaghtiDzabj2ks3SFASKS9r5lzRd9Js8F9zkCn4dVrT-cnk43IAwp2m3wwX-GnQyRVqoIayafoaxGO6ORE5jdCgY_LPn491xbxOG8Ws96Ij3SqOZPkhz_tnIi7Sr7u6dGGqIGlwWlw8cjbeUzP6aVewK-yRdAJrpAfam38Kj6SCj0VFgdyPMOeXEGw0fG4jPW-eQU5Yc08CuBJ5LyWh86B2Q_Hb-DumWrPscBOySN_Exshsvk0tOi9Dm2yC5iLPhC02NW8btL3zxW59OQ_QNRjeloaYzuOEiL3M9ylgdVhHy0_YJDttGxZU7W5OWpMM3tnz0mBSCwkLhsqS4YfXpI-VYpwBWCY0EFuisVCF8BQMQHjis45KnmudU2_0yHu6EQcy49sw",
+        "width": 3024
+      },
+      {
+        "height": 4422,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109895082934300529928\">PRO Business Photos</a>"
+        ],
+        "photo_reference": "ATCDNfXl7zdrlrmh8ym5K2z9C-XVrpc82Pv0E4WThS1XS7zXaF2XHVDluHQ5GUsKb0vyaSuHBR4d5CYsh7J7_e1pJNtrhd4n5iAJ3ZTcM7FakMnlzPpe0WtrLwafqSGZTo9FN-OoSc0qODnw-GAloO1dX9EMRvH1ZhN-btkd2WrWNcy35wa6bU2XmDIjqndrrOFpzb05Knybts_oRbplbfRPZ8z6xvbfRxX8Hztmgt0pqqZSHoWqeA3uOonBU1ikJMVghlJ3mQR1fyVrUKxW-OSmwRkUt98U1ATW5ca-nSy_7lNjFVhqmRUIAvUByde-cXt-SZwa66FYiNNDCPtvrUKxQBbhu8gAJWwq45EDRRvDuqqxI7uzTTMnyaV_S2_8m6n39TNQejYwK19AEE7KrLasgia_z9tlBFVWF7WIx5TT5WFAqC0",
+        "width": 3128
+      },
+      {
+        "height": 3003,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109895082934300529928\">PRO Business Photos</a>"
+        ],
+        "photo_reference": "ATCDNfU3eNfP9girZuGh47Pt5AqOSQKcLziwG0u_pEcxCEM2VHi6LKaWts0lFZP1kihRvPRFab4Ukh5MF2UhTNI2ZGf5g3d2Oaves64YwWcp29WgVhfyOmlaSM5taFn0iQFdGGqe3T1Ejh4q_6UfC4wlO_6JNDVd4ZmoSmHPRHE-bjMk_R0ssqkhl98qdBhUcKFlKHkHrmtWQvl-nHcVRNKjFY4hCF6kUaDa3twmfHkEuHxflJpRC2QCJE9zDqe_C1c2BCLLhedlP14aOza8iQHGiOua-gBo0lM1_lm_JpSwyO6PmhStlSbipBKstaqhpZVg9iilXbchITtJMBKVg0zV7Wu3mQrlc_8wVER0agzSANAI95aajlR7OWCQoLx7_yaWIVzWk1q6lY1BLsDlx3BeAcjGv_7dZF2S_0VQfmD9MAVvDZXI",
+        "width": 4800
+      },
+      {
+        "height": 4098,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109895082934300529928\">PRO Business Photos</a>"
+        ],
+        "photo_reference": "ATCDNfXzz7r2SMpGCfzbv596q9BUtq49EHMzjcZYWHzGI5GDm6Fyerf4hm-LXqAuCag8RywG28OcCoPkiRYXvpjBAIJGKnbcLT6b2NBnG__GB3OhoiFw9BU20NmzuEwbAHxJY0h2IYKpk4TJWldm-HnY4T2GnaLy8xNQMN5GcgMu6ihWynnnhlbhxCIunNfp7VRXKTaaqBYfZ3SdQoqEW-0S4RWOoMb73fuKb9WZDl71Srbh0ZaGFMVgI9GF26ZpeLt81x2Wjem5n_sPlGKiP2NbO2OflmEG0itfIX4HdIaGc0azO9vKfarwWskgClCeA_s_V6JBDV_7xWHCUpljyxReCrmSkxn6xZjKizxruq3e3bBPo6mnK3UZ_O2fnrsYj9XR_p0lNl_HEchVNaDwewFFegYhjjS3j14TAXFt0FoH0qJJmHvs",
+        "width": 3078
+      }
+    ],
+    "place_id": "ChIJhZEp6Ug2yUwRxj5p2ryWo-c",
+    "plus_code": {
+      "compound_code": "CX58+5X Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX58+5X"
+    },
+    "rating": 4.5,
+    "reference": "ChIJhZEp6Ug2yUwRxj5p2ryWo-c",
+    "reviews": [
+      {
+        "author_name": "Patricia Godin",
+        "author_url": "https://www.google.com/maps/contrib/117677284955620085348/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVObBWjt9ngXMxzyhZAcemXEbUCPAnLWzuaYqbAMWDt74AaENgb=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "I went here for the first time almost a month ago. I got the guy who showed up about 10 minutes late to my appointment. He used a CAP on me!!!! The entire time I was in pain. He over processed my hair and completely ruined it. He was even hurting me while washing my hair. On top of everything he bleached my favourite summer shirt. I felt as if I was a nuisance to him. In my opinion he took the easy and fastest route. My hair was not what I asked for. My highlights did not reach my roots of my hair. And it looked funny. I do not recommend him!",
+        "time": 1599949732,
+        "translated": false
+      },
+      {
+        "author_name": "Hee Jung Choi",
+        "author_url": "https://www.google.com/maps/contrib/108626532750759743549/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgkZmirtMJI0JImDZKFpLjTYGZAQFx6OFz3-7oHL1_17PRXlXK=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "I went in and showed the hairdresser pictures of natural curl that I wanted. She turned my hair into tight noodles and completely ruined my hair. I’m still struggling with my hair now 4 months later. I will never return to this place and I do not recommend her to anyone.",
+        "time": 1641109067,
+        "translated": false
+      },
+      {
+        "author_name": "Tara Caza",
+        "author_url": "https://www.google.com/maps/contrib/105829097352991524578/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCDmGUbfdalOHNtBJg8hEFf7-RePgpDchkPTb201iQxJX_Uw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Amazing salon. Christelle is fantastic for colors and the perfect cut and the rest of the staff are just as great!",
+        "time": 1525546785,
+        "translated": false
+      },
+      {
+        "author_name": "Danny L",
+        "author_url": "https://www.google.com/maps/contrib/110414274444408002312/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrivVL9SBdbQ3f8Q9D6yqomBAPnQxQZALaXUF2uO6dlyf-QNso=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "The staff is dynamic and the colorist does a great job; after a few visits, he's so funny and offers good advice too. I loved the result, thank you Philippe Lafrance.",
+        "time": 1559415246,
+        "translated": true
+      },
+      {
+        "author_name": "Kathryn Lepage",
+        "author_url": "https://www.google.com/maps/contrib/109908060111091650250/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFlWN1r3em-jCogvNp48zI51ylKCARhEwB8Gsts_CUVQk4aHSZIA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Amazing hair salon!!! Christelle is THE best for your cuts and coloring!!!",
+        "time": 1514882749,
+        "translated": true
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16691350381827538630",
+    "user_ratings_total": 16,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 585 Av. Saint-Charles, Vaudreuil-Dorion"
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "query": "Waypoint Convenience, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338947.8011866,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "90",
+        "short_name": "90",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Cardinal Léger",
+        "short_name": "Bd Cardinal Léger",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 3Y4",
+        "short_name": "J7W 3Y4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">90 Bd Cardinal Léger</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 3Y4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 10:30 PM",
+        "Tuesday: 6:30 AM – 10:30 PM",
+        "Wednesday: 6:30 AM – 10:30 PM",
+        "Thursday: 6:30 AM – 10:30 PM",
+        "Friday: 6:30 AM – 10:30 PM",
+        "Saturday: 7:00 AM – 10:30 PM",
+        "Sunday: 7:30 AM – 9:30 PM"
+      ]
+    },
+    "formatted_address": "90 Bd Cardinal Léger, Pincourt, QC J7W 3Y4, Canada",
+    "formatted_phone_number": "(514) 453-6621",
+    "geometry": {
+      "location": {
+        "lat": 45.3843527,
+        "lng": -73.99228819999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3857090302915,
+          "lng": -73.9909084697085
+        },
+        "southwest": {
+          "lat": 45.3830110697085,
+          "lng": -73.9936064302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "international_phone_number": "+1 514-453-6621",
+    "name": "Waypoint Convenience",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 10:30 PM",
+        "Tuesday: 6:30 AM – 10:30 PM",
+        "Wednesday: 6:30 AM – 10:30 PM",
+        "Thursday: 6:30 AM – 10:30 PM",
+        "Friday: 6:30 AM – 10:30 PM",
+        "Saturday: 7:00 AM – 10:30 PM",
+        "Sunday: 7:30 AM – 9:30 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfVZ-eIqXMDIDt0CGSZYnxEECD7SItQz7LzS1QPVeSr9_CybaiMm33TFUICcqTdcqTXXklkhCA-vF-N1j57PMnR_nmYb1Ii9b6iRpBsejpxnA3mC3HnTQQXf0GFPAsAFzys31zHpreARn4Adnp70aN3d5BXQhN0tftaQ1DkpvoaCZI-PYTtZz0mEIsPdtNyzFoI-2jOh7A4nAgbJ3tbD8ea5fj6d7LxIEIveZOupj-VbN22MRCe0yo7E_Cl_lLM8xL8UpJDk3KiAlKPeL_EqqEYxCJZiedAh4mLTK_9mEOZvSA",
+        "width": 299
+      },
+      {
+        "height": 448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfVC0qIzeLpFs2jGZq3QQyhZFhnL8HQoJF8zb13ySkze6wT3c8Gl0ukvbwEXbWu5AnxnoR5RV47ADrSdh_QOE-b7Nez0Vbiga--VH6gXKAM836B2_oR7YWihSoJMxkLOuolPE50Im2FZwfgsj_dR7E7qAPGJ1vsEHv2jm_axFpeg4BTcmjcguVLOVIkjZQJAD_dpX6qVZO4LCcWflCtlk4lSVUmbQcx0zsZ9VVLcaITbEWgjqlvqJnUFlNlyIHrodwX8HwUulxl4AgrsFmG1pOSAwjp2wYDPqb1tnAmVqItgOg",
+        "width": 299
+      },
+      {
+        "height": 2856,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfWdQjbor19EHGXpyEMkLQzZMLLUIuq24ntD1sOOz-I8g5qC9aVLAwcFbSJyWfuZvqurX1B73pZPCZJon1zE3DT_y5Q_7ZqtYYvj3cTK4RkiezHJC3V6eg4R0A3GinUmbjKSYTBs9je1mZ4I2EomkxBQIb224HnZcIwa3J1ZnWj_8cHi7_SwZ6bn7nfYx51EJ3bkNVZmRsCnJ2FOQ4W9r5d6yvFstyxse7OI0V6kGZiw7tJ5qlhKwX01Wkuvgj8-65klcB8yzRaYz13U6xEKH3McbTeUsDq4C3K1n31ipPlVXw",
+        "width": 4286
+      },
+      {
+        "height": 4286,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfX01-Yi8bM6VpIPJ5gNJSqaERtOldEMMmHnBSH1uf41YP1ihdfY-gtBQ5I76t1MmpDR_W3RM7-FqzuVR9vk8K7AkZqAnb0lLt-VrJoWAwBqT9ATy67BSth3gT27827C9Zq7GJjH3JayOlnWD3Nm3SmtVmfuPqXKfCSvudO5bwLHD25y0QuY5PXKmRwU8w90BRZy2Dj5ymIWYmRrdtop8mFOqRe424j4dJkZzuOdeGv2slYzzOwxQBBi1DIvmxOA_QslXX7pSWmY_DbEFlI-yF7Alsck24ubNPvX-D1ltiOBLg",
+        "width": 3767
+      },
+      {
+        "height": 448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfW21CPszM8STzFXqjtHULUhgaKC4A-blLpl4RrS6CpE8zOzjFZ3Nytl7XI_XRkkVwgS2C-I-bvd8eQUi5kkyh1HKuxEUL6ePKnYkfwVoeNg9W4zkMP8euXb86UfRa2CEuVEzneHE41U7OWW8DkW-LERKGBaMoGzwe6H0W3wWcSkk8Wr9KyabU9F7r4PVB5MLUNctKSopW69AX3_FHNdSN2S2kyAneYJFUZnKstVSvAjTxNYjzg14c-T8tyXNZciUqsST7ErYe4VPNA9D55bEp96IjGPCwo1LnoQCXHz2PtQNQ",
+        "width": 299
+      },
+      {
+        "height": 299,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfVYdNeS0g6n8LBOjSquykgJKA_jWrRsf9Uvds2XAvG5NppGzkYt78QbjwAc2aTbmTuzaiGOV-y-dS2yBWpmj_RcOtk-SgBoOjYnSjCnsSzbw7npb6LZ06pI5l-eqAHvb7cZd2f1bWo_-3_RKCKsRKtTDnfpxd3YMrQ75WGzCGxbO9mkmmjB2t1XvzwikShqm4WrQjtV9pgMURdo4KJTFzedJOredAMdoaZ8IyR2WqROaM0X5j_xuUdBoRhfJz-V4BzLP9VvuTq4BU8ReDAU6W_guobtXdzS_48_RNuUvDP41w",
+        "width": 448
+      },
+      {
+        "height": 299,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfUedFfvtU1uWA1LY-khSHHVf-S7NhDTJEyVIYsZExRNdLGpuZ2hnr_Wh6SXT5IdcYY6im7lKHADVQ8vmwT6c0-8_hx4rfnb_TQqq7BicZrnthioO-7SRDpZR5sO8XtNxHGs6CP1uqxpuWZYS1YrpfHX5gj8ojBX0_5vB3QUPR5xuTzXjjsnzJ57by0cj7KycNNeLnT03ztW3sBCjjGgS6dDbepj8FIZPP_E09I33rwxlrIESK3FOL86hNHGFmYgz4ebfW0RE4jth1qSmEdndQ5Y5UaT7cMp6CnBxNrWq6mhqw",
+        "width": 448
+      },
+      {
+        "height": 3166,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfXYvO6dz8i66E7o8xCt1ZYZHv14cHfiVcZrkwABH5pmF4RKf3R4D6hJtDlvjvT8yeAAXQht23tOvUhQHaFI5Ws0CPTx_5L7_X20zkSN7gRAtOVQcAkMK2iFFgaUHIU9qJ3Z9HFyMG5Lpx9sPiVqjb0xRAbZ9z4vQsh8Y80nKiND0swN_YuAMfSHO5wegcFs4ejPBPRscQuDgP1XADPfTgdIYgUG8dLdhKTcC2ax232tM9uACTHHstwHqqX0YEXg_sF5jj41IOD1bzBHE5UiifXGF9PDj5k8WRzjuRRwvJS5cQ",
+        "width": 4750
+      },
+      {
+        "height": 448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfUe_2SFFXSWhbt0nFFPXT6Dzx9d79HYnGIF49DrffLVlA-5d7s-tBxVYOgDvEI7NtPz7UTdb5pINiQnity2JS8UMnN7eR8UqHnZgNNoKDURFYxH8S4yqehJqYqQqepDuXp5MHS0pjbb-gRdvIlZyeYpXUJ_BNfolYZlREKn17bvntDvrzn7LRGAIrAwFrUcFyt6dPwnClE3qY4co5Ex-DaxFwJqqEmaZz0TM4x7eHrLvBu_hibQduLpmSekGQlfsCrEocaHo9HMdKFRMUqFU9LF3mv1VAdqaUCDkar1XezDHQ",
+        "width": 310
+      },
+      {
+        "height": 3007,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668566414215407538\">Waypoint Convenience</a>"
+        ],
+        "photo_reference": "ATCDNfUSp06dbVQTMAXiIXMx_uU8JpbdYVQx2AriJOovNoXhr1e-YvpebqcxaYC7ZWicEsjDKXsEzMXtcpRbxMCccYeHLS91KEfL15w6Ldd1-spcd1y8Ud1vW9kGsxmv93nBImC0Sr25qdmzgX9MScc0Q2MERyj5Qxp_jQkPVkQjuaWpMhrfNTPeKJWIKoO4wCms4nRVsXg5z9Vmdo9TSzsuV-2Ye-aKGi0uBA5QfAhB55R8_5Iu-im3Jds3EtM3G48xKqIfrE6d1xq0pSewAYs9Fb9_w5YTylXz-331QKdp03fO6Q",
+        "width": 4512
+      }
+    ],
+    "place_id": "ChIJZXT5Pzk5yUwRzzZ29cxn1BY",
+    "plus_code": {
+      "compound_code": "92M5+P3 Pincourt, QC, Canada",
+      "global_code": "87Q892M5+P3"
+    },
+    "reference": "ChIJZXT5Pzk5yUwRzzZ29cxn1BY",
+    "types": [
+      "convenience_store",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1645053893886228175",
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 90 Bd Cardinal Léger, Pincourt",
+    "website": "https://waypointconvenience.com/"
+  }
+}

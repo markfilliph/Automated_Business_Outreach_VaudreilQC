@@ -1,0 +1,316 @@
+{
+  "query": "NAD Company Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339884.1043448,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "450",
+        "short_name": "450",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Aimé-Vincent",
+        "short_name": "Rue Aimé-Vincent",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">450 Rue Aimé-Vincent</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "450 Rue Aimé-Vincent, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(514) 612-6084",
+    "geometry": {
+      "location": {
+        "lat": 45.4038157,
+        "lng": -74.0522388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4051573802915,
+          "lng": -74.0508842197085
+        },
+        "southwest": {
+          "lat": 45.4024594197085,
+          "lng": -74.0535821802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-612-6084",
+    "name": "NAD Company Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113860110827749011542\">NAD Company Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVbvNy9n17l6QJhRfGjpFVlnbvGC7z9RYOIpvMEuk2uGugwbLYd0YZsVOzBGIJ8GNVu8rf2pqONvguXd3t0NWREYYhTAw-dvcCvZq28V-6Ihj5h5-kEqSOlbbrKRMGm6Bf1rODdOWqxsAO9TjZNXudoESVB5qaK4GRVZrY-Vq36F2dk0ai6QZJTcsV5ioTaPQjw1AWiGHMQrGUFPcn7VWz4u_mYPFi8CSu2fho517_gPIG_0FLY4YmQXM1hajXkJ8oeBXq-jVBZft3Kbgy76jKEJOnAcSYAFS3yBxE_PoBvXQ",
+        "width": 3968
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113860110827749011542\">NAD Company Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVWerhcNbOhJI9nryxVgrPGaBaSv0C5bmERoKsq81me2KKLv2iWSppS-gwUtxM3cE2aWMsd3xA80fpggmdyMKjPN1y0e38oTrskV_JtcSj77Q_YywcWFXAed61ci0X_gi4oGjquL1SDFkP3RWicLvrjIWnFLSfDtawLi9JIYEQrlowTiuG-LYRvJVW7jkgRMSm3rRXvmzEXo6kzNtVIpIEcaUTZtdb8-80m3Lxr5axNEqGEMJBqZk1Xpsf26yP_6Vgw-oirdU4IvKBOq5q6c6v7JyHLwgkYtAqKBeuLFC744A",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJseJNKDI9yUwRYmLbSd1F34g",
+    "plus_code": {
+      "compound_code": "CW3X+G4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW3X+G4"
+    },
+    "rating": 5,
+    "reference": "ChIJseJNKDI9yUwRYmLbSd1F34g",
+    "reviews": [
+      {
+        "author_name": "Peter Scopel",
+        "author_url": "https://www.google.com/maps/contrib/115517404786113361203/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnjNQcPAaSG_qHMAZdgSTBPGncjxsj9JgfQzdjjx21oglHfe8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I’ve been buying Dumet Olives from Healthy Planet for a while now, and they’ve become a staple in my kitchen. The quality is consistently excellent — firm texture, rich flavor, and just the right level of saltiness. Whether I'm adding them to salads, charcuterie boards, or just snacking straight from the jar, they never disappoint.\n\nWhat I especially appreciate is that they taste fresh and natural, without that overly processed brine flavor you sometimes get with store-bought olives. You can tell Dumet prioritizes quality ingredients and careful preparation.\n\nHealthy Planet always keeps them well-stocked, and I love that I can rely on them to carry such a great product. If you're an olive lover or just looking to elevate your meals with something simple and delicious, I highly recommend giving Dumet Olives a try.",
+        "time": 1756751921,
+        "translated": false
+      },
+      {
+        "author_name": "John Plescia",
+        "author_url": "https://www.google.com/maps/contrib/104786258663614774144/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIb29LfXZ6iVr3VTzJxU1d121KGv_k4NFvtl0xYVGEil5lPQ4g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "NAD Company provided exceptional service, great communication, and outstanding quality. Highly professional team that truly cares about customer satisfaction and results.",
+        "time": 1761766961,
+        "translated": false
+      },
+      {
+        "author_name": "Mario Miozzi",
+        "author_url": "https://www.google.com/maps/contrib/104037987293920692935/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhMYOYJ2cwGaNhHIhtFIgXlHLA0xRUzUNobD0WvLLffrpa1Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent service, professional team and great products. All under one roof! A++",
+        "time": 1761767149,
+        "translated": false
+      },
+      {
+        "author_name": "Sharron Luckman",
+        "author_url": "https://www.google.com/maps/contrib/108932842681128632617/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnB4gNF7hvFUOj489lKbKcAsEqNwNVwPU7OEUQJbolUknb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Best distributor! Vast array of products! Quick delivery. Great company to deal with.",
+        "time": 1636235440,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9862678525693878882",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "450 Rue Aimé-Vincent, Vaudreuil-Dorion",
+    "website": "https://nadcompanyinc.com/"
+  }
+}

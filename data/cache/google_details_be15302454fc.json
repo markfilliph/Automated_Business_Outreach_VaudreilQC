@@ -1,0 +1,449 @@
+{
+  "query": "Mondou, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338946.6414778,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "#2",
+        "short_name": "#2",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "22800",
+        "short_name": "22800",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin Dumberry",
+        "short_name": "Chem. Dumberry",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0M8",
+        "short_name": "J7V 0M8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">22800 Chem. Dumberry #2</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0M8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "22800 Chem. Dumberry #2, Vaudreuil-Dorion, QC J7V 0M8, Canada",
+    "formatted_phone_number": "(450) 424-4630",
+    "geometry": {
+      "location": {
+        "lat": 45.4129638,
+        "lng": -74.03820619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41432693029149,
+          "lng": -74.03712156970849
+        },
+        "southwest": {
+          "lat": 45.4116289697085,
+          "lng": -74.0398195302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-4630",
+    "name": "Mondou",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116915700630646711469\">Bob Marcy</a>"
+        ],
+        "photo_reference": "ATCDNfUwkQjmEGUJU3m5y-GIcMWd8pnYNv2FpWVnLiYAj0E1eJGVRN1c-9a_Z_cBHxVIVUSykVDnnDpT-sb-oEPnMTtyAYRnJz-hZHsv27IpT9rseQgdpfxYq9j-pFdP3O3Y2wfAdrIE9iv9-23p50pcfYFDnmRvdWHEYw423J6Nq4ec7za5x6fZudxep39bNlxYHh8FwnLqsAZASTZ-blb7-9DUSRAUeF_4oAKa4C4R1v0GHMpUvHCLFPJ8VI0hMiS_qQWOKE_GzoIN84n40kYp0OXIR56Kxo_ybN2erjuy3YKTiA59pBTNzFdCH-rJOUbpsXosa2F-35xdzL3o6qZjzaYLXX15GsG7MYx2VVi-eIjE-qOfT-lGPf1lfARE5-cS2EjPdinsKV2-MBWsNWF2SBfinytQ5NK2_90Xw15yDVsyLg",
+        "width": 4800
+      },
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102648583981668377251\">Mondou</a>"
+        ],
+        "photo_reference": "ATCDNfWIIYX8KZG9YlqxhgkTx8Oa5-tZOGIPMVtrAuOlxPlsK6BLLKpuaZ_5Hk6hA3hltWymg0Vdu6rhclJYEpxqBKwVe0pxPiMEGxnTZXlxL1MQ9hRFLk4OzILO-DXQH9uDJ3M9rct6bV1KqOjtvrhqXMMrC8JEqf8Do0wPORXAEfxhtmyXI1rgR--ppJhD9Vphq3wmQqU4QIWRM4-t1GjzCdoWUH0OJPmaNtX2a9X8IfYPa1bQTFfk8KbDcHZIAGR-xUAsq5ZgeyJvc7VFpnb9OfIDc-T-XjYlkqYLRRQ3bqveag",
+        "width": 1080
+      },
+      {
+        "height": 1328,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102648583981668377251\">Mondou</a>"
+        ],
+        "photo_reference": "ATCDNfUeJKqdKrPcd29DU99fAHYFtbWHnIaikST4bJ_6JgUfHnJmK2Gv-JcynurcOmi0YQogYVedT8SNlyzk9FbZiQTZam2RhLFAixm6sbLOotbVmPSdh_O9f-BBcmg7h2qg_9C7_gKlKghOLyr07MrLKmjswumesMPawHfYhjk3H81r0-JVCTrTHJa5SRvbO1V9vSwXL9No1DDbcsFtPsKYrCxeVyr6OacnWOJ-iCIoq7uFYsYv18BiRP5Cui7x9sRF4to7g6RB-yaGZuMeVexBTIO-osUGXsItErq9WdmaDziyZw",
+        "width": 1999
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102648583981668377251\">Mondou</a>"
+        ],
+        "photo_reference": "ATCDNfVKn4eK9vtDX3WE3AEY1hmgoPpuJif18ijJIVEjU1SCYGdjTs0IWK1-RYP2vXY5Mpup-5gWcEWUnboxwuzy_CYt_nXp2vNoZVAxaAQVeMl4D7ixn7cfDQjN22MtoREwX_jGbXaxYfGTU9uYiuc4Ef_I4XNp4kcRsYaFYrd1ac9H7g5SqzFvnHD2ZO91jMXii9DCwZN6IC5Ev9Y854z7XLTxvBHLikvYahsIFypDmRGmBkzBlAhmLVso9JuocH0RKoyrczSbcre-r_mh5-7F3VkI4ZNxQ69ntaWAhMo-4o3tkw",
+        "width": 2000
+      },
+      {
+        "height": 1925,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116915700630646711469\">Bob Marcy</a>"
+        ],
+        "photo_reference": "ATCDNfXSwp7KFgVs0ybYZbKAIwhKHZWPQShYZgXFVfFCXi-cT94JZt-aMnuok6aYmZwUGpY_lhheuQ5RuT__uBIygktUQHNT9jMycaqbM6LGGuGDbdofi-CgSTh19GhhNiDUHb0kxXqleW0Mk5dIyKFXw7liw2brvt7ZMWtyh5iiht64leZf-noLmyevcj4gsEJ6LZvr08Jp9Y4xbsylLwN9FeYSTdtHH4LIgLWteP2gtFc9CF6SlMn_0TF5tTJzxta5X7uVRUlyGNGSd3ak4xyFS9eIQQUdVMvPAb_aVkukSNEq1gnf_FnHB6sN6RyRYqG9NAfLVmmQOeej6IDc8wyH-_nngYc-JGjaEPPBFU29mah_T5nXpnfZDKBPZFCUR454EC4I74uwTLuF-AzayT_OtNpEg_NsQTyE8BHI9iZm9TU",
+        "width": 2048
+      },
+      {
+        "height": 2136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102648583981668377251\">Mondou</a>"
+        ],
+        "photo_reference": "ATCDNfWEfiaIXBNxgVqUbfCvHjnBK7xP4bZhKUw4yqlpeRgZEMMPW21fJl37l30GvH_CzXsP5mJF6SXiNz5vzuf9veZOuvzVeNm5C9BMcMGXl0J4pxyZ88vLaPR-5B3PLweffnrURUUml1nZO9CsX5D2cjRS5nGYxOcQjH4rmDvM4uhyo7HQ53dk31ja3ZdqyQe5vk1fOOmE7OHTpR0VuJyx6x5JYw_OsK7D4J5GZuep8MLT8sXAp0HFhredtODCyzOVeBDNAFOQT1fCF3t4_3VkCWvq0VEpR5p92P-WSX5BvdneZA",
+        "width": 3216
+      },
+      {
+        "height": 1658,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116915700630646711469\">Bob Marcy</a>"
+        ],
+        "photo_reference": "ATCDNfVIbjSVxyCEys1AwOZLdrFBuYeKwLPbghNbISQe_OtO3EKeLyctGxhinHjZW0BLwMX5wU0Fqkj-xx4WJlRpZugkH3QpRnMLZkf7orwFaRx8jpJGsQpeM7AEs0wRkBX1G5tHmP6X1MJlr5GUCTWF3TFIoJk-BRg7TD2B-FrQici2gN2z-1qHWxkqD73UEylHMT-aC-lA900CJ_Ti-L13OzRZKUCSzxXRh5jKQCuLivEKheN8ovRT4SWokMmYGVEbmq2TGuVZVRNso1_vN-mik1oOvmPMKY1JEPSblOixSIxMTG2Esep8lAynG5q_Ao5pf-tJUsGtJJDfVXtck2ccYkerr02c7-axs8krDc19pHHzzGZKiwKFHOIkhzRtw81TM-HHhtfHo48Mh_5DgbM_uxAcqydeWuN9ecElaWTXIPNtLQ",
+        "width": 2048
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfXv7tel1jtayG8HwUyXQEphc8tGDKNvRolaS4efl8q_PTAjh8lKrahqgjayya4ToGg6IxD5hM4tTyZ6icexy7eFdYTJ1TVPnPBWjF_YfRE7L5h1zMZsP6oa91uJHcW7i1XYpBoPhGopMWG18ubIztTs14kdesDpQmIC3hotJk1Rn6Xw2h4XoG1HGVS8n8xgjuq0EDLYDpOar373y4y3vw7SmtLxxmToPhQxo_q_ZOWE3YtNgiaYSr_rdM9l1xdZr1MhWr3ufvFw092_q3TxaT4Zogf3u0LOVdTEvryuEBCgyivctxnRpCw0DJioLMlkq1ARJk9kso575_Ohk_cbZBEfNCZA14I-eIEb26UbBHQC05q_IZUEIOYtrjkDPcetZUjOaaEApxQD5nDuxpB6kHuzxyFtMoqVImoMJ0BEDyo2ew",
+        "width": 3600
+      },
+      {
+        "height": 1355,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116915700630646711469\">Bob Marcy</a>"
+        ],
+        "photo_reference": "ATCDNfUsash-JIvQiuU8DfVd6xvXA2riU9T0qkBQfIppWKh3m9WTp_-LsA0xmDvteeuI2ptkhfw581WJg5tsdHpPCIJ4EgcjchQcZ4UeXLf8L3ODdLWfn3ZvP2w7-7T4xSCSVmHDLH2rcmGbczW3H8PWr5gQlr2AlKiIcxMjVaCYjNiY8b0nD3h2d2PFOIyu6apAVgVTdpizlS8KzVrMSjjvmn6k7pYB5i_cb4i8KU3Veb2rc3QNgXO_iHwB6PrafTKWnTqnT8mIKbOUpzLXas8LpuYOoHp8PyH2_Ukx3Uz2lnZmjNLoQV_GOSgKU5gEEouoXknKmOOV4k42zFkbTxS6Yz2NS01UOgaTpVu8tV5VGNftli-RV5kOoOfPlhg3M4ocC2xGTmTWM0KRUHi5VZh688OiX5yafHmj31L1fFdw8ZBOQg",
+        "width": 2048
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102648583981668377251\">Mondou</a>"
+        ],
+        "photo_reference": "ATCDNfUt9n3drN29xByYpUrm55n0pc67sOmtuyYAzlGCi-LEFWrb_ThMS32oxWrVwkChl_jpYrf6_34Skuvla9-dcIEUO3WU8Hayrnys8LBGByNnVxFGo8PEwRuGlOKt0ZgKu7lQH1xr2L5Vm_3-2AcIHzgKzM5BLeQamoyXfnXCa5wNwoxsB15Cr6dz-fz2KTI2gyWmPK90WF36SyqQxn-Oa1cfWYmNqBAlyKF7cGr2Volqr7b4uyK9c4fUh4O8vRe_2Srhp3x9eAYkUkVrv3cHN7vX0ZVDWt3B1NX_5MEOfzhVOw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJkz7m-DM2yUwRyBI8MF-ll6g",
+    "plus_code": {
+      "compound_code": "CX76+5P Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX76+5P"
+    },
+    "rating": 4.4,
+    "reference": "ChIJkz7m-DM2yUwRyBI8MF-ll6g",
+    "reviews": [
+      {
+        "author_name": "marissa a",
+        "author_url": "https://www.google.com/maps/contrib/108339360338202558602/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaSIKwUqkD39x67U5JUCwohzsUo40uq78ojxdxajBQAabgmGWd=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Unfortunately have to recommend that anyone avoid the dog bath at this location.\nPlease keep in mind that they do charge $10/ Hr for use of their facilities, unless you’re a “club” member (I.E. purchase over a certain amount annually at their stores).\nFirstly, the hose of the high velocity dryer was completely detached from the machine & was reattached by masking tape..\nThe grooming table was also completely rusted, as were all of the adjustable support bars (which means the overhead bar could not be adjusted), the table couldn’t go up or down either (which is a risk for injury)\nUnfortunately for me & my dog I only noticed the severity of the equipment’s condition once my dog had been bathed. He is a large long coated dog & our appointment time therefore ran out before he was even the slightest bit dry, due to the aforementioned.\nWhen politely raising my concerns with having to leave with a wet dog in -20degree weather I was told by a staff member: “I wouldn’t stress or worry about it too  much! If dogs get sick, it’s just a runny nose”…?!! - Floored to say the least & do not recommend.",
+        "time": 1768617176,
+        "translated": false
+      },
+      {
+        "author_name": "pedii purr",
+        "author_url": "https://www.google.com/maps/contrib/104473051988047873730/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzaSaE9_UO7Lo1651xBLSatlYUHyOgeJA_ChT3MuUJy4ZLTg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Very nice staff, and helpful advice. I just have to say I witnessed the event with miss Laurie- anne below and I understand where she was coming from, however the staff offered her multiple solutions and did their best to accommodate her in her return .All while the lovely staff was following company policies that they cant change and offered to call client service to try and make an exception for her while she was verbally harrassing and visibly upsetting these young kids just trying to do their job and make her happy . It is unfortunate that the ratings went down of this wonderful store because of this review . This store deserves 5 stars in my opinion.",
+        "time": 1768883685,
+        "translated": false
+      },
+      {
+        "author_name": "Laurie-ann Naughton",
+        "author_url": "https://www.google.com/maps/contrib/101363601787278208300/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKM2TDTsWso6OID9p4bS3RRVdHSfwYjMYQ_JKFMW61p_5W=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "I honestly can’t say nice enough things about the staff that works at that location. I go in with my six month old puppies is a bit of a handful. They’re always super helpful. Super understanding Cleary love the animals. I wouldn’t go anywhere else.\n\nUnfortunately I have to change my review. Absolutely loved going here, I bought a pair of Canada pooch suspender boots for my dog on sale and was told. Don’t worry if they don’t fit, just  bring them back and you can exchange them well they didn’t fit ,my local store didn’t have them so I called three other stores till I finally did find them in Valleyfield, Drove out there to pick them up and was told it would be $35 more because the sale was over so I went back to Vaudreuil To return them when I was asked why. I explained what happened and was told that it was normal to be charged the extra because they’re no longer on sale.Funny, but when I explained the situation to the manager at Chico she understood why it should’ve been a straight exchange. If I buy a sweater at the gap on sale and two days later, it’s not on sale anymore, but I need to change sizes. They’re sure not gonna charge me the difference.. It doesn’t cost the retailer a cent  to do a straight exchange, but in this case they lost a customer by refusing a straight exchange.",
+        "time": 1764901466,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Offering nail clipping services, very good service",
+        "time": 1759584024,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Super friendly staff, always greeted when entering the store. We had an issue with our cat not liking her dry food (weekly puking). They recommended vetdiet as a replacement. We've experienced little to no vomiting with the change. She has the occasional hair ball and eating too fast. The product is more expensive than iams or friskies but your paying for quality food which is healthier for your pet.",
+        "time": 1620666561,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "pet_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=12148360348104921800",
+    "user_ratings_total": 388,
+    "utc_offset": -300,
+    "vicinity": "22800 Chem. Dumberry #2, Vaudreuil-Dorion",
+    "website": "https://www.mondou.com/fr-CA/trouver-un-magasin/mondou-vaudreuil-dorion-2043.html?utm_source=G&utm_medium=local&utm_campaign=google-local",
+    "wheelchair_accessible_entrance": true
+  }
+}

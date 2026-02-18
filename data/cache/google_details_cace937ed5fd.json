@@ -1,0 +1,345 @@
+{
+  "query": "Charcuterie Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338433.8367183,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "152",
+        "short_name": "152",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Vivaldi",
+        "short_name": "Rue Vivaldi",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0M7",
+        "short_name": "J7V 0M7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">152 Rue Vivaldi</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0M7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "152 Rue Vivaldi, Vaudreuil-Dorion, QC J7V 0M7, Canada",
+    "formatted_phone_number": "(514) 659-1498",
+    "geometry": {
+      "location": {
+        "lat": 45.3824111,
+        "lng": -74.0451507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38383773029149,
+          "lng": -74.04387846970849
+        },
+        "southwest": {
+          "lat": 45.38113976970849,
+          "lng": -74.04657643029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-659-1498",
+    "name": "Charcuterie Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3612,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106997553940885103668\">Stephanie Lanthier</a>"
+        ],
+        "photo_reference": "ATCDNfUBVQs3DobZCLXftlfkv4gNQ2sSOZWixqd17PVtfY2-JO4H834sAOGg_Hpbr3gO8pMbJH9WjlFFg5prLp-59syXjcPyAxocoqt6OfMnDBiwmhCLyUsgrbIVk-85DQH2y7JpwqS2ptBnJSjLpOce07YO145Rc2lxo5zSL-kCd6BwhjABMR1_iZpl4LkJ-H1WxQFdXhv63_kZwMJFFfgAmkJ03GhG4RYHQ748clsd9bKgPJcMA8LANSmH8BcAVVpnIqj3m2PAQZ-6Ttb0wCIJggWulXNZOODnF_OAp0T5QH76qd-1RsQvI4064Jr8ER8mDNQPQp1m8I0CIBSo0AVtIBEmmG7cXbnIRUJouwfq91_MVlhJMnuxHEBH7bY_6nw4-4V5BB9xeTuopwZMvAjJcsoz0uRN7G5NkITAZp5TS2rn6Q",
+        "width": 3024
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111305536098158183977\">Charcuterie Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWWstvn7jzH46fQSDXtzPh_ur0M1X3fqC3jxf3lL92_p78Jn000AVDvgFpho1NlxkNZRCoG-EsqBf6PG24EEs1Y6beRDn1arEO3kHQzRCPQiwWdQAWzwReVWisxd2LAyivcXRRIZRnEU6P1ZA2CBmPi0Dd2_I25aLDggblUY4WkLZdbCUCRb0bukW3YTM_oB9_VQSb4eqRK_HItbYaCkJKdvPzBwSLFk_QtfiVpRpjh2DfxO2-Y2H5kwN8wKwqMFscyS826Dfh6clEDu9KDwHydKKYbLh2VveJvwoWAJYTwPQ",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJRfTL_ONJyUwR07qSkxrdQcM",
+    "plus_code": {
+      "compound_code": "9XJ3+XW Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJ3+XW"
+    },
+    "rating": 3.7,
+    "reference": "ChIJRfTL_ONJyUwR07qSkxrdQcM",
+    "reviews": [
+      {
+        "author_name": "Dilany Mailvaganam",
+        "author_url": "https://www.google.com/maps/contrib/108745660099594822465/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKemMnLDRh9D2HVqMD_T3gL9hfEu44KdumzQU6XuVAGQ2V39A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "The box of goodies were simply amazing! I will definitely recommend for any event you have planned! It had a wide variety of fresh fruits, crackers, chocolates and etc!",
+        "time": 1633305707,
+        "translated": false
+      },
+      {
+        "author_name": "Jesse de Peralta",
+        "author_url": "https://www.google.com/maps/contrib/101659296365904855491/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhOTEKOJzp4m6M2xNd8OLnbvUMQOV0Xa5ScXNAS0WyAt_CZAM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Thank you for an amazing box!",
+        "time": 1630031455,
+        "translated": false
+      },
+      {
+        "author_name": "Kevin Billy",
+        "author_url": "https://www.google.com/maps/contrib/102031520029066027167/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDz6vlJBddXT0JWohAGXSIURi-DNa6GmOeybHUxlKwEqcoUw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "",
+        "time": 1749048865,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14069769817096895187",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "152 Rue Vivaldi, Vaudreuil-Dorion"
+  }
+}

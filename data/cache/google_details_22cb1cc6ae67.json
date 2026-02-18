@@ -1,0 +1,475 @@
+{
+  "query": "PSP CORP., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339834.9167998,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "85",
+        "short_name": "85",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Autoroute 20",
+        "short_name": "Autoroute 20",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5L7",
+        "short_name": "J7V 5L7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">85 Autoroute 20</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5L7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "85 Autoroute 20, L'Île-Perrot, QC J7V 5L7, Canada",
+    "formatted_phone_number": "(514) 767-6625",
+    "geometry": {
+      "location": {
+        "lat": 45.39772079999999,
+        "lng": -73.9600001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3991102302915,
+          "lng": -73.95872941970849
+        },
+        "southwest": {
+          "lat": 45.3964122697085,
+          "lng": -73.96142738029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-767-6625",
+    "name": "PSP CORP.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfV5_mrf9IAi57eZ7F5EsguFAWlpBDZHirnLpcrSL9Ab1Bnlo7Yr-LPkNNfPwwfcilW1PsVkiegqkIu3_rwl21W0fLiXfm6bi_2dAvG_Mr1WPu_oY0ruhq4BNXjxLXZeTA-c8nJsUgT3YLDE3sBO1hMW7FKcZz_7KMwLdE3I03bg_yffdL28-Ea7N7H7fq7ZNl8dy-k3QyiamxVr9bb1bJPHkg29TqOgQ0lV0vGzeKF2s_kifB3yGGd-xrDbhzvG1EfmHwEkBvyNNE5fAM4HFKeureCMSbVVnN-8SfdrKE5DMw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfXCa_WhvWHF13j2T0-beM61t0MwIUNWgYmHK93F9Q_7FexZPSMaGoDOi5h93-8Ci-aOOQpsYLH-zHNbFF_M5rM8_N3zcRFmKUs1JHiIMIrFXixX5hPVCvpGHTwpPe9Czexu9NSIGruvBbCQHZlUEiMFKYKqRGPK0_1qgt-R38y154rEA80ZAduh76WOYAFBSNU1hlrBMIfoIDYzwW4NH66Y7PA89rQxxY1oWL1w0TPKCLGvgBOYaNvzSvO4RrC7p6KpY9B5q5CuVd4E4ICo34onzdFnqHzZjhWtrTy9xe2iIg",
+        "width": 4032
+      },
+      {
+        "height": 825,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfVuX3l4OlqkaWBI0bee6zixMEeV_y5Kz7TTu0xdb2ZQ0dhTFBLKBlilEd9BqNMarkERV7ZmP6FhaG-CbEvhILtHU-tcIjuSoyDjGG61yjfFncYx0jMZ_gBAqd-7pEsICZYtAzi3r4pu4Q96xaiyhtTuKd8sJG59sossNIgTLl9CMKfNSuoZuBlISGzAO7-RpimFyzCEYQkdH7RG5XljOFNLjxV6otruM_T1YpuoquPaCpGz87R8daiCuIwlt4jr1a9mVT57Xt0E994vKr7xsB0a34cwXuoJtJ9I0pam7aufDg",
+        "width": 615
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfVpHJL_JaaLwR8ePsYaKz2c8KJSsA59NSNweEHdkUv3hnw45EUEVStu2jvugWS2R856QNEan2DL491lFRADRCxFj5sOoMQqUOM5E2SluJnmV_t2bviGS-6N-5gLrXufp0zo6ycOlg2kCCYk1UlB48VXYFyJWV3bBiiZ61oM4Lr-5dolq1HzqYqlM_1qGeUnWjC0Dr4e6M2C1gLMhxJYh-sTYSbrCj13oG7aKqi9yPxhm36gc2yoC5mfFpFdBnv9eziB0uOrvADx7wMz90qL2LJ8FSxf_zGRChHbfG4T0DsqBA",
+        "width": 3200
+      },
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfXPmY6S8WfJUwkj-JcUsgvCnW0QuvEXLSgfiSQyqV3hRgGZ2wDy43iq8kFG316nezkVBSDZW-mLqhb0J-3GS2yKFlehyKk--mtiBSn4gPo3Q1U089YrJIO1_ydEsVrDi3haZdSPjVCeFuJGAb4lCnomcGPy_HH8lxSeBhBo9qrkmjonpLVR2JCu-WuTAUqDFKRlaiGzwPimSvch_2vD85c8FTYZRw4SscJhOMxWpkRqPCnTJ0inImahs0Q8BTuLIX9Zub7EsQwmsTPpMNHV30Tf7JrHDZzqnKg95WVrAWMLnA",
+        "width": 1037
+      },
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfV3QY7APM_rVICqZCZ0c5icQcjA9rfi0FqE9kduHZ_DoZqciZ2dp0XJF5n-Mlbcw-bZCffZKh2KAaf2j83vEBr4gMtROB6gwI2KN5nkv3bq5_6LY_tWRYSKudHJeULey8-aVA1cJUiup6QjYzPxV_RSRYzuK8LtqJh6qpm7eBuZ03uXZ3IAKCOlI47L5Q1ueOOW1a0ZwN7Wy3V-Gcp9FV33oFDeYXIeXuQgjPcoebKPJndQYTwri7gEEw8Z8OJtP0K5KR6qfCWlydfCT1FK7pc8dufgpCxCKDspsDNvNczkDQ",
+        "width": 555
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfWD5etbXbN21f7QplZYgAbhWXloTWdvBME44axUwNlvpYKZ0SbE89_KE9_OngoZXplUzdMG3ENWwJwIwb1X0JEYZmZkILq0GDA9l669U3DEYW1Kq08aD6qHDoUDUsSxZV5XdfIzKLHVcZj34mp8DJsPNjrWdjAYbbUVVVk-HRYXSQl7TuZbyY_9hIGoCw-tG0sdRvlCpyl_K-zWin0PGbOQuUpIfHIOLMMcKcuttN4X6vG8FiYzlVnayMW0OgvGWrBQL7rNetWHiFFdg2jQE1a8-E-yLINwXpH028QEEcZLvA",
+        "width": 640
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfV8vvuJEkAxuHhUga_O2ZLOdZGYb66BPn6xjLGSSgk5DXf65IHBfyzi_F8Ce99QhNIurjfM8vPzdz6FvO0Fdmv2fqeXUqzZTsLJFFpJ49-xRF2HlFub1G6BPX-tXEy0G-frgrORGaaXNNtH19vzwgUKSQatlzxMX1mi_WZ7TvJ6m83vv2AeagSJo6D5tzB85ylrcSF8PROmSqyU1lOLcRqVyKdyyGZqPXuM_AcMGgo7PBurE2F5pyYaCkAJrB9TQK1EMomegPM2UVLnQvWbV0KCH2WpIYCs4gTJXnwALxG2tw",
+        "width": 4032
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfXgA4u4wRXORQspp1V1VCiz6lT65gdNO3rgJA8LOU4NkBi5rKVZYe-rQRxexZ9mmJ0cv641cLxj3Hyy_grsn8Oo1KVRKYVPITXR-C9bpSc7f7r4c74i23xamacCTKXEyY0QQUn2vp5Y8-dBsHv1H4Cc6G5V9u4cf7_2IQ1UffZ9WYWthmchZxuIHg1ztKNHpiACbFNtWTgWlXUbflx_jWXpUmVk7gBLrSmv_KiLjLovY-2jCesV3Oh5sgWHvk5MekJcdByL_sJ_6g4COCxgr1K4tIOeWMU8SfY2JCKq_DGSbA",
+        "width": 4800
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109872239009258720218\">PSP CORP.</a>"
+        ],
+        "photo_reference": "ATCDNfXvYQwBakzYqLUxmsQgmXa-msWeGdEiHQnx2q4H1tWiTVGrx4rmEn9udUOixVB0LFTJvD2joI1dlcYRYa88YW-onwi6xZS7g33_ScFM5F4rIJhsASEm3fD_vVb8u2ELQjBS3Sw_8rDNSN1ityLSg3FFO_feLdUD6S7hYP4dW1qYYddAKILKA7i49b-VPhZSkWRq-JbyA_alVIMyv2kQgza2c3qipyo6d5bdmiPeyokCbcCQkktGZFCyTPiM5OSjPuTFUcb7aJKWxnsTQPLiHXr0so6lUpxsjv0xJUkIsHghaw",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ_xFVkyoRyUwR3dRRujoT_Eg",
+    "plus_code": {
+      "compound_code": "92XQ+3X L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892XQ+3X"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ_xFVkyoRyUwR3dRRujoT_Eg",
+    "reviews": [
+      {
+        "author_name": "Onyx Wagner",
+        "author_url": "https://www.google.com/maps/contrib/115725703228966572470/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJawrf_5_cBXArVAxSBkS_1KHnP44CyRDLrHQ8WDZIgtkhEwg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Absolutely LOVE my new boots 5.11 C-8 Storm with side zip. They are so comfortable and fit to size perfectly. The Customer Service has been the best that I have experienced. They went out of their way to find me the perfect boot - exactly what I was looking for. Thanks PSP Corp.",
+        "time": 1608574630,
+        "translated": false
+      },
+      {
+        "author_name": "Mosquito",
+        "author_url": "https://www.google.com/maps/contrib/111363862549237364194/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULhhznQLqRf8A1zb3CP-AxGLLMZcgKcyBwaX8vx2tOildVIqwT=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "10 months ago",
+        "text": "Made an order on their online store, never received the product despite being charged. Sent 2 emails, never got a response from those. Called them once and they responded saying it would take an extra week to arrive, but it never arrived. Never got a refund either.\n\nEdit: Just received it, although at this point I would have preferred a refund. I've changed this from a 1 star to a 2 stars review because the issue was resolved, but I still can't ignore the very poor service.",
+        "time": 1744380252,
+        "translated": false
+      },
+      {
+        "author_name": "Michael Kopiasz",
+        "author_url": "https://www.google.com/maps/contrib/117043521390948993513/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzggBjIOrUN8039JB-oPGUEkAl4AbbL6PtC4h4VMjae2BAig=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Jason's communication was exemplary. He responded promptly to my initial inquiry and quickly addressed all of my concerns regarding the cancellation process. His professionalism and friendly demeanor instantly put me at ease, and I felt confident that I was in good hands.",
+        "time": 1717604809,
+        "translated": false
+      },
+      {
+        "author_name": "Kev Juste",
+        "author_url": "https://www.google.com/maps/contrib/102395724836380069295/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp_Y6HRuUiLEvMwRaGBbXf8JgEA5kmsa62Z6hTmGciBspDvVjp=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I’ve received a top-notch, one of a kind customer service from Jacob & Claude from this store. They gave me great advices, tips, they had great sense of humour, And on top of that, they know their products and their stuffs very well. I highly recommend this store to anybody shopping for any law-enforcement and Canadian tactical gears products! Everything is certified, They got good quality products plus they are expending the store! I really wasn’t disappointed and definitely will stay my go-to store for future purchases in montreal",
+        "time": 1701274345,
+        "translated": false
+      },
+      {
+        "author_name": "Sebas Baril",
+        "author_url": "https://www.google.com/maps/contrib/117504452896222188592/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-goSaHhNSa54OPR-zku7eZOdUn3oGg0iszkhwrmHjXcIhcA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "My experience with them was a waste of time! I shop online everyday and there are way too many other amazing options! Customer service has a different answer everytime, never too sure what is happening! Never got my order, got refunded a month later!",
+        "time": 1719535158,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "0900"
+            }
+          }
+        ],
+        "type": "PICKUP",
+        "weekday_text": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "health",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=5259099607816852701",
+    "user_ratings_total": 58,
+    "utc_offset": -300,
+    "vicinity": "85 Autoroute 20, L'Île-Perrot",
+    "website": "http://www.pspcorp.ca/?utm_source=GMB&utm_medium=organic&utm_campaign=gmb-website",
+    "wheelchair_accessible_entrance": false
+  }
+}

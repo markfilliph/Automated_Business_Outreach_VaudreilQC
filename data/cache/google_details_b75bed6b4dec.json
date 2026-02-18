@@ -1,0 +1,418 @@
+{
+  "query": "Veterinary Clinic Old Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339257.286561,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "204",
+        "short_name": "204",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L3",
+        "short_name": "J7V 2L3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">204 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "204 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2L3, Canada",
+    "formatted_phone_number": "(450) 424-6469",
+    "geometry": {
+      "location": {
+        "lat": 45.388563,
+        "lng": -74.0147143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3899946302915,
+          "lng": -74.0133359197085
+        },
+        "southwest": {
+          "lat": 45.3872966697085,
+          "lng": -74.01603388029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-6469",
+    "name": "Veterinary Clinic Old Dorion",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 532,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109003251227049379101\">Clinique Vétérinaire du Vieux Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVjrmwZ3wFuxrOpenhxPIAVJV3TWVxtaeITa2qmgl2H2Ei4Dd5ZZa2_H7JW4AvJc1cpJ07-kFv_9Uug9-0KVwRab7GH2CehUFqZYdbqeXuv0enKx2-HN7nug9DDFYbmZob3MorEb5xtkqPINXdLePYsIfHHI04wR1A60fZXdz2yYyqyRZoSzEisV50dDwAX9d9dcdFkJJhytHObwRWBwJ5D7jIZhMQdk4v7a_GlrccxZPfn4NEUxSpSwyGIC2NoXLjqa79Cxd7APMJlzGKgTOcQBQvQR2b1YowtPS470RxIBg",
+        "width": 800
+      },
+      {
+        "height": 532,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109003251227049379101\">Clinique Vétérinaire du Vieux Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUTZetSOax-lb4iCTeYFFcSmitcEAFjGmD6kT7l0R7EDTAeSyR9--0XlqVyrRpG-PVG9tMGO8FnlKn1HI277OUUNnnEYjvxRXYM3Nnw4y5IrOO_rq_EmZc-Cz_75IA5-OoSaAuxLoWRNB2h92Pu7HzXFc77kajl-RolHLwK1qhvBJx4xyT0gfkyOHT3Z5e1Q1dKChpwrX-60UKMzQQSCAqyynglyvxVolxciQGFXVSwRM4wE8QkL7cVrBkeDVeIOft9CZhwD4bmtcC9gB381gozU_8jzkTuyEmIQWdQaBqCyg",
+        "width": 800
+      },
+      {
+        "height": 532,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109003251227049379101\">Clinique Vétérinaire du Vieux Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWvCO1STUGwiUxvn0BdlGCc4lBRkCXNgyrpff34FZ3krxPdIhwxFWVBp5egEznISjm6uZ2buUmWjy0B-s0rOGNHXrh52x8WZxt65Rqd0p76864sY73E7cAUNNGkiAwkJPmW3HfkLq-WGicbEl8ZcwACwgmIQJBHD8AhFZRQKGPrlu9X12Y4ObINoAwzOsQLl6WBoNf93pKx7F87ywHCypxWHEGo2XAD70w5ZiHT9C7rCFlNXGScLn7duJHc5VVFhbyFwnRSQ3QgAEggFNEn3AKQxESqAcZ5XfgHuIxP-GfeBw",
+        "width": 800
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113822576593558509343\">Mathieu Chalifoux</a>"
+        ],
+        "photo_reference": "ATCDNfWpwuG0pWdE4mnJVxQ8ynduDAQyD7cOLMx8-VyLxw5YCag41gixGfQy5U3F2uaNdIznD6z2Ht97PpROMJG6gp2iP-D9j63iDSO21BM_iRO0XmtWGJjWRd4SR4g3SMMC6m8W60HHLGgMWD4MliOomzPtrAVlq3mih37gCWPzjcmZUtxZ_Yni3snv3qgc5KvGhKi24c2tWm1b2bGidhxDRR9dTpKdqHYETY2V_1LZQHR3fysyjVcCz_hb6ZJAY9DhLG4IN4alJEoieWUgtPfPJNZc_m5-jxuceLinC8xW0Iu96YRdJJ_msWSmljIOPWS_3n4Zy3bvVaNRBdkbkrVxkuD1eu4GNcLb4NhxEieglRZ3SyiuyKrjVGkIFgnu8WVdALBqCxVJSiX3bwoYJv2KqYoqBnZWPWfViYShWQ51wBNu-ReWmOTckkilIF2-eg",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105924450162395177716\">Ana Arian</a>"
+        ],
+        "photo_reference": "ATCDNfW4BqTKUJ7b6q33HywGKcWjkzD4kPawZhEcHNB-KZ1hiobNjQ-5k2N-QTfeIlGU-44anCkCuq4WRkhCxxV_1JgpMzR56WrGcGWDRHQBmo-7Yd2d8ToGq_3SFKOzdsAD15RTY_qxkJsaIUZVhC7pYmpSSh-Cxat31AZZ-a3SjX2orvVPgLYjMHlRUbEvgy63o4RdMs63f84gXXfjaRCFbNjcfr1BlCeM4S4LxXz1O6xzdvuFHMBU4Ow8ujO3GTBet0hmvrEu13ghK2FvODV17JiypQ52KAWAcia6BeJGMyoO7opsbelQZrpW_kaqMUOZwVrQzUYrvi8YWTynEhnBSj5KifSAmeB4GXn_Ml-xXr33WXoPGbZJ_PseIW9AQ--5klptG8tYsmqNkGS7WLUt1dut0BgSZsFANeFiH8yFqi4WsraZ",
+        "width": 4032
+      },
+      {
+        "height": 532,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109003251227049379101\">Clinique Vétérinaire du Vieux Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVJake-ExDjNsrU2IXS4FRficXIhuYcNnunIqDozhN-pQ6EXEhVCsxFux5S1Rn_zHRxiUNUw1JfgBIVxDlV4lvI197IN5jxPrTLd_HRKcbfgvxWPdRZNjyR6vkVcIhqxeEHnMufWF5nhBK5TE67gxhtJ4alqnBoMzurA-b1WZZdIHoJpJn1O6CGg0h9itL0rNPJn1BiOTgYzGfwv2IFDVsGaWfHRd9b0nfnD_wUD4hCWsAHurVCJ-QtZWze9as1IxDHgAx1I9r6DRygFvUosA-UmH4P0qvHlGCiyeFNStMK8Q",
+        "width": 800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116013931384710326808\">Amélie Sutter</a>"
+        ],
+        "photo_reference": "ATCDNfWAlkBowIDvCJDUdsTv4hzQO7WXdFdbscW0PX9GFePR4cgNUNBzbI0xFXpdS_Cu0lafAabZACL_c54pEmnjbqWdHYRyYDFeGaYkynMVWgy6_9dc_yutae_3Vdf7rJQJhO-4-nKQ6hi6bN9YWPZwJpTKD9cGWbwKtgqee7zr6J2VQJ1ofcX-qBsM_0bc_s8p9nfHTrRysYa0WAA6yLuuXbJ9lwv3AV5UApLpMhgWZRCTtjZjJl1rGrzq0fMxevNjPyC7b0Pjzl0Gb8dnotZhstMHUFbXONKimnSTKOWbz7r_rviwR-vDxa3R-KeFD3pqvAENeeYPP_SACeiP-K3Aj8ClKBrZDi6ZtctRcTnPpyzOkNWb6WGxd-TtmMZnmCIkSW2_tmrVLwihTGta2M0jnn9Rq4hW9XQXDtCRy_gVD3tH01T2kwKVHkWhpJ-P3QWA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111340252331436065796\">Kelly K</a>"
+        ],
+        "photo_reference": "ATCDNfVSGIg3X0dDBRssw7dFrTaPyqlw8PZnNP-CqgaWErs4iB_ugk8RMVUAMugskFOOvRzedAeWcm_kDdkY3AtfWxcCzgFGrLcSnrnIJUy7ImFw5XzH06KM4hK6lQcnxXgWhxWJsV_NJsT8Cr4-PWRGP8924_ad_Cmh1GTpm605c80XeMnngk7AkfuktgWbiAUNTqofvvSQPctIDswH8jsyJnu28tNZxuImLG9s4qDzulnh1w074DM9uJ64Gw0lXd098iAENGwlppfyEie5g6Hb1aat_nVuSWfVqZrjGv5UmhD7xkObsLorbPkhztG4b1gZWhYSKnVDThTrLqtgLhnWyb5UMYKWiOzh83Id58goPOZrZgHWx7v0RN-3oTrU9lz0RhIIcerABvcQ0Q2UCz2vw96pQ25M9-71_8RH4wKVZBA",
+        "width": 3024
+      },
+      {
+        "height": 852,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107563664161294934515\">Dominique Bruyere</a>"
+        ],
+        "photo_reference": "ATCDNfWNIi-gj3io9ZUTB7Ha8FairMfnERzoK1s4ph21InLD-1xFvUBwAhcBvY6xRjt8k5jW2lIosCbAUjj61bj2aCK5m_rkrhPCot84HnD35fGb3lHpp37L4asJK0_FMhk-hR4aV6KgyyqYeyBjKgsD6vJ0LCwtg9JTozr9xe7yOJlTSJdv1VymDod5NqDXvr59YSXMEKyLUPrEwULOzxnNuKx5a5M-9f5rhR7bqvkN9Ah8M5jhLNAO0Ul6lYcyBHDnggWAi64F-e4cSI-Ej71tFVtCCYzCuelRNDi0yJdUIgOUoFYxGfkD6Xtnxr-KTGv5rdMvOgNGnXH-eQGi7P2H1SJn_aG5lq8RaAs59aAWsNknkVBkqTGgpyzQfm-vMilgu0PWjWUBDibSruTdT4AEo0zeoxJTXfl9V1A2qUG963vrIRWp",
+        "width": 640
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109003251227049379101\">Clinique Vétérinaire du Vieux Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWRmZwLGTVdy2BE_PcuqA-VO7eOAQwJCB72pSt2b2Wtspsdu225CR3bo5PlWi0M7AA_q47CCjtSx4lNavw5ZB5yDXGXpy5Yqjoywjr9nwDhuc0HmiDcD2v5MRoHntjT26bnPQzFd4_HrK8bUY9_N3Sw39zVn7e1K_PTpbkaQgyKrpiz4OsnL5V66QYzEUZlrz1Gu7fJnbZ70gJT1V_-zwLa_lk8fJFT0BwWDzk1dlRgaQAZeMA3cKv1ZIFbBIYyGXmKEc-6PBJw-I7mz5Vbi-0NH_cjdGi_JjHoH2q07iqBiA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJP-KRs-E3yUwR7nSJVNoy7l0",
+    "plus_code": {
+      "compound_code": "9XQP+C4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQP+C4"
+    },
+    "rating": 4.1,
+    "reference": "ChIJP-KRs-E3yUwR7nSJVNoy7l0",
+    "reviews": [
+      {
+        "author_name": "Mathieu Chalifoux",
+        "author_url": "https://www.google.com/maps/contrib/113822576593558509343/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqIcj39VluPwqqcoM4zAjTE39siGwLuT2jSITM_cm39uPfkA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "My cat was neutered and came back with a gaping wound on his abdomen instead of what should have a been a tattoo. I would stay clear of this vet if you care for your animal.",
+        "time": 1758748957,
+        "translated": false
+      },
+      {
+        "author_name": "gary lawton",
+        "author_url": "https://www.google.com/maps/contrib/107051936179612834854/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocII7HZTv6BI8A-5QAZBB9wtnCMfdLEFb0uS_mz6qySgRm06NQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I can’t say enough about how great my experience was with with vet vieux Dorion.  My dog really snagged his dew claw on Tuesday this week, our regular vet had no space for him that day. Trying to avoid the DMV I called around to vets in the area. They told me come in right away!\nSuch a friendly, caring  and professional staff. So appreciative.",
+        "time": 1762554753,
+        "translated": false
+      },
+      {
+        "author_name": "Alison O'Boyle",
+        "author_url": "https://www.google.com/maps/contrib/102342372402452442984/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEVy-my-qrAHuUHGJEmVKcnnJKiE0a2iOhrepTFrKjppYQgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Had my little chihuahua fixed and they took very good care of him, kind staff and  pleasure to deal with.",
+        "time": 1769105692,
+        "translated": false
+      },
+      {
+        "author_name": "Kelly K",
+        "author_url": "https://www.google.com/maps/contrib/111340252331436065796/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGhlFVl2nUNsZnHQueACzAlU20Mz97W-XbPHCa681bFE-o-dJTRA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Brought my mini dachshund there when she had a UTI. The receptionist, technicians and vets are very friendly. I had to go back multiple times for this resistant infection and never felt like I was overpaying. The consultation fee is the best in the area and they even offer referral bonuses. The vets explain the treatment options and costs before doing anything so you can make an informed decision. Highly recommend.",
+        "time": 1517536015,
+        "translated": false
+      },
+      {
+        "author_name": "Alain Jr Lefebvre",
+        "author_url": "https://www.google.com/maps/contrib/111434529116086280987/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHMLu4pOewLAymD27fRZ36FYbIu8Ze0g8g-N5xCeh3oD07t6dZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Have been a client for 12 years, but will never go back.  Called to get help for my 14 year old dog who had blood in his stool and diarrhea and they refused to help or have him seen.  Extremely rude customer experience from secretary.  Please avoid this place at all costs!!  They don’t care about your loved ones.  Horrific experience.",
+        "time": 1730464995,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "store",
+      "veterinary_care"
+    ],
+    "url": "https://maps.google.com/?cid=6768403203286988014",
+    "user_ratings_total": 85,
+    "utc_offset": -300,
+    "vicinity": "204 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://www.cvvd.ca/",
+    "wheelchair_accessible_entrance": false
+  }
+}

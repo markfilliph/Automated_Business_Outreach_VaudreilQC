@@ -1,0 +1,451 @@
+{
+  "query": "Amir, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338478.993485,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "48",
+        "short_name": "48",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">48 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "48 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 510-2647",
+    "geometry": {
+      "location": {
+        "lat": 45.4084647,
+        "lng": -74.03867509999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4097879802915,
+          "lng": -74.03730176970848
+        },
+        "southwest": {
+          "lat": 45.4070900197085,
+          "lng": -74.0399997302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-510-2647",
+    "name": "Amir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 965,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111758054995502396558\">Amir</a>"
+        ],
+        "photo_reference": "ATCDNfVfFLX8qMPPuoA5VhPgaiAr1ZKF1F2iKp9IMvr9LX2uzMuAZT7N2xXYBvHh7yCAVrwr808XJIfsldsG8SyUj0ObqA6Qlxv9gGAf6BPFoKkUetwQHuR_UeABtvn8gtU0diSslMJ4Dmno6e91W-qCpASRtVmwUas1jhqI1nWWIQ9hcUnpABL7nl0tq2qdjWpchmncazpGzgYdfjwEwObsYX-wq0Spb9wzI-kdkafa6-V0cPlos8AxlCy_DnonDYOj5pXB0_gqZ6idJ1AylpzgL9OeJpgAAfGtYpu1ngYYzYuM6Q",
+        "width": 1714
+      },
+      {
+        "height": 3909,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111758054995502396558\">Amir</a>"
+        ],
+        "photo_reference": "ATCDNfU_8cuQxNyH1C-o4u8Zwr6M3p6fRd6MtXn3pxka_ItxSTL0YJfKILh9ZPYpnjcnS1NMZ54Jnd6imjbWy-tHBF4EWmvHFN_IK8BsMqFSfcnrqSjaWxsbzyy4AV4yrNbNEjrokEKuZre3w_zKZilDOJyhloX2MfCARgNwUUCnNSf_EbXHoMRFHbOxweMN8bpkwBzd-nCAqg6zzYgdwZMl5wRps8BOJuZy5Msz8kewzHPc1L2uL1cCdlnRME7CqrHiAmwKrQXNxLzYezyNAP8lqbWg9BfS80GUv1pBxXt5D5El5Q",
+        "width": 3909
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111758054995502396558\">Amir</a>"
+        ],
+        "photo_reference": "ATCDNfUsNC5glXxRMKeKJAjHrIpSKlg6Mbwuqk3tpu_89N3AnEKNCFmUGdWXT_mgTwRQsGFbJXt3zRCiXoqDUC7GQFwna7SQiQX3P6t6rKwsKtX7ulvWUeMogFVfvf7UxTJB2Kc_HFWI3Qwc5fRtGc491gyhAWESpv91askmkoM-VMQNRdAuviT-PN2T-BVmoCHVrAYTK7txj8iJXFDTq16MwBuAHnZcNa1Uz_i4brs94u-dponQJ_AYd7w35Ro4Lpnze8LHjTojnkd8_9KGpyOHy5n245O-GBKcV95l7P1yEcaMKg",
+        "width": 1638
+      },
+      {
+        "height": 4240,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111758054995502396558\">Amir</a>"
+        ],
+        "photo_reference": "ATCDNfU_ByVfO3kgPZB3LkAlY2K4wLfhGCCiJFjHkfhLwvz4zCqv1t0DdDtEWiXyYhhlBzKfMEdbH1eAryuY31vzco1NUyYwmXwrhafHDe8XtzVbclSHBArUaYjgI7tWSS_u8q_iwucHNp8lcvQEzwyeYKHURAZTQHccHgSbaJhMwWVkb6pmVRiBLc0JL_IBJLGiIOMttwGmtoAnmPqPUD0AYQ5ypE2TcFIiBcU1Mjz2VkEL2WtU0Tbl12-Q2gFQGVNJFuweqrF-EOQsc8dzMnWYmZmyL0nM2QU4MZNboJ9fGn080w",
+        "width": 2832
+      },
+      {
+        "height": 4240,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111758054995502396558\">Amir</a>"
+        ],
+        "photo_reference": "ATCDNfUH_5KqRDZO-eXMKc6gleF3viU4H2-RCNHYCqYma_Nnjh2gCKLqXDj-zWRgoE7jyeVHtJmjiI5T7nqVVybvx_PGsO-62wjQCg6WIu59gSJBD98ZYjtSmbpjPGBlUy_djHaSnRS56AslFg7Zg98TackTELpR0lR0zd4hGWWz4wniLHlNsCw4GEvfDPUSMPkRf9pX7GBGG749alk3KEwDYqNKgSa0qDo4Xt0gUH3mOR5lh8jD1npWLb2R_G5RwiQe1TrFTWRAngjb8tfa1hQpXHP7JvkNnNUJgMyXnjoGCfLzNw",
+        "width": 2832
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109518713387718534621\">Jonathan Daudelin</a>"
+        ],
+        "photo_reference": "ATCDNfXd6X-M0NrGYeYuzd-Tphg_OhNYml-YKvHqeq8G23zpSvfY17WP29jxCc8mnrZdF_WdimUx4gQzTiOQpUJsZoURwmiRqNzMERx41SLtYv99OQdcN3Xb4Bi0qm1YDXREgGBrRYB67QuzP7q8ihotzQ5H5ESWR9kkWk3uIXXRRtPgNl6UT4BlMg63_WvRCFNgRcLb4OjqIXZQMh44dLq4X7xY13nwSngEEK3Sm_IAAhhaITzbGBhG9MyTZ_EebQjOfMtdqny-74y_OP93AmqiHTbirOJlGNtUHXT06h0SVVF2mnRv9HUiRiJPRhDcszHhD4-VKqfu3vKWYoBAX1j4Ql3xjfloxiPCU_xOWokTJwYoNrR2rJ26z663WiB-cwDjjavSjV7qxBrKfdfhlsC-MtBBvNnRtvkPynC-NUgmR1rYbPQLxHoS4E_YXFbLF-yu",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111758054995502396558\">Amir</a>"
+        ],
+        "photo_reference": "ATCDNfV9Bx64y0ZZ3IajPZmVjteUduynBOZUeRQqwaIxkMPS6dkR7kkzFtftEl0uqHrrfzwTzvyu5oJfiFua5uAWtUeu8-D_AssmqJJOi2FWf767pndhARdITQ4dsSUZLKt4kXAmlOWFMdDpaWteoE2bbX7hCmQ5Dq59Oittp5WFIUVN7cx-HOBTvfUB0eBrjlFnh7hPvC2_1XlPq-P-gK-in_jVbchwbLdoM3hd2ZG4Oo0kGJ6N0n-qJ2wllr2MGeofZ90KcDc11u9FNBVMucJNDT_JzlNx7jxCxgMrjykB5yQj1A",
+        "width": 3024
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111758054995502396558\">Amir</a>"
+        ],
+        "photo_reference": "ATCDNfU7_oFqf0ZfDHAVAGmHPHHF_3cZCW4iHb5Ym8bGZbIyRGOLucpOGxyE8lnRUjcBegk_LHSCW43k6gINWwSZZN58KCOQ6V3Z_HDXu0m4MEWhkNGJ6jaBoz7DR4HDBGe6gPCZLa7wKjQDPfhlnRgC_NaHBpVlDlG4iUCBQG-Zl9-H9gngZ4V6-rCF7WPo6dAyK7lkR_J_gw03vg1uZgEOmA78YqyYSCbv1fPSP6ZEQcxVN7erM9-T8k7Nf-oypwf6gE2Dj-_i6eQOCWQvuaorIM3FbEa374DhgcW0IQYskbsgNQ",
+        "width": 1178
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111758054995502396558\">Amir</a>"
+        ],
+        "photo_reference": "ATCDNfVNyvi7B_9UqSwCIQY3BarA1Hhp_0cQrE51FE8SuWG-RNv69gC8Cbc5yTRrYdP9riOlvwConb55rg_jbH81-3jU6VIq1EzV-icqKE6ZHziftGMgc4nZ4SgzCAromUSjdd-Tz4-yUwd1w3QSAsfmxfz2ZLuNh2g9B-accomKIU1H3FiFK8kljwt3JO5QW9mQ_zDd9HpijCcJl63XF4q56-T3fzxRN2Zd0fBV6bOa4y4QuRV0f_GLdmEv_K4aaTuddE0-pmGx1HFaSDsA7-ACOImt3E06AYsUyBkN7xc8LZ8cJw",
+        "width": 1080
+      },
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102116960717955152762\">Si Jia Huang (Jia)</a>"
+        ],
+        "photo_reference": "ATCDNfWay8nUOu5SiBKkiiWOUpSdff1jEJDte4zgrxLev09BoO8geE42Ndu7AeiSVFqQqqK5KpVLkRnXZEVeOrUIBE21et8b_P8R_8GBptNfXYMmqxuTiad7Y7eZ67wiGAvoXmgcxBXpNActjeQKOE03sLGvEAs1gB8XGkvadspT2XB4KqyIprPuiO7S14npP_-DcpU-9SwaxgE27p-8EfYaYtw_8G2GrfvkMz7ozx3lJawtaRZyTvycfZf7ViYUoDgWa_UOp-BQFdyFb_CGE_ItOAOr3o-l5tSwmxF-D1DQKJjHVSzIf0ixNbKbo9H4jlSNM27RbRWk56FEkW4G0ALX_cOjZdInogHSWXqeioyV73Ap6q0cB4vItdhhPFwLQgk3rd6CoMOE_ubYfwP9_DFkMCjRwBFGfoXFdvut-5tnWnd7rjZM",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJD-rRoDU2yUwR_hYJe6pIwUg",
+    "plus_code": {
+      "compound_code": "CX56+9G Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX56+9G"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJD-rRoDU2yUwR_hYJe6pIwUg",
+    "reservable": false,
+    "reviews": [
+      {
+        "author_name": "Canadian Critic",
+        "author_url": "https://www.google.com/maps/contrib/107786003063405743324/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwtmRzHhc3TwFMTNQZOWiI7WCIelOHe-MM1gdMm0VOuur72Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "Good is good. Portions are fine but last time I visited meat snout was bit generous as before. Service is okay but sadly I didn’t see any smiles. Little coldness observed when no tip was given during take out (tipping is appropriate for proper dining experience in the restaurant and bit take outs, so please don’t get disappointed).",
+        "time": 1769925130,
+        "translated": false
+      },
+      {
+        "author_name": "Natasha A",
+        "author_url": "https://www.google.com/maps/contrib/101433544138371552715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-Ti6LyoJ_fMqY5EmZju6ZP21_Pw_oHlV82Rq-6rFmETN7-sw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Fantastic staff! I got a mixed plate and asked for it to be customized to my brother's liking, and they pulled through. When asked if I'll be getting anything for myself, I said no, I'm treating my brother and the owner gave me a baklava on the house 🥺 such a wonderful experience! Very generous with the portions & delicious flavour.  Hands down my favourite location!!",
+        "time": 1720745762,
+        "translated": false
+      },
+      {
+        "author_name": "Jean-Yves",
+        "author_url": "https://www.google.com/maps/contrib/101082139119795058254/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtrzK5PnD-9ZOX_963IKbaLg7l8KKaIdXqhi7PhQRHIVIj4Kb6JQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "9 months ago",
+        "text": "Update: I ate part of the wrap and a few potatoes. Nearly all went in the garbage. Second, teach them to wash their hands before making a customers order, it's not hard and even common sense. Check the camera, you'll see no hand washing. How do I know what he was touching before? Hand washing is a must to avoid cross contamination. Also look at those potatoes, hardly appetizing. And what kind of email is that?\n\nCame in to order a shish toauk wrap trio. Employee comes from nowhere to make my wrap without washing his hands. While choosing my veggies for the wrap, the lettuce appeared very pale, not looking too fresh. I receive my trio and sit down to eat. Potatoes are extremely dark and don't look appetizing. I take a few bites, tastes too salty, I didn't like them. Throw in the garbage most of them.\nEmployees should wash their hands everytime they touch a customers food. It's not the first Amir I encountered that. With my experience, it's happened at every visit nomatter which Amir I ate at.",
+        "time": 1745471386,
+        "translated": false
+      },
+      {
+        "author_name": "Bri Wilkins",
+        "author_url": "https://www.google.com/maps/contrib/101796833748385435521/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEFqEoTacanuqr4Z30YLuCGn2rLWN7WawtzZxVuXPh6gJ2p5Y_=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "The food is amazing and the service is amazing, but the music in the room is sp loud its hard to even hear the people you sit with but great taste in music",
+        "time": 1769817649,
+        "translated": false
+      },
+      {
+        "author_name": "Лавандовый Пломбир",
+        "author_url": "https://www.google.com/maps/contrib/109456341555653947297/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCSQcUp4UrDxZQRZNK6yDBcxyY6ySGT2W6sEpaCU8c5ewiBsU8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Everything was amazing, I was surprised of how energetic the staff was even late in the evening. They were very friendly with us and their kind service made me feel so much better ater the long day of work, honestly that literally made my day. Definitely recommend coming here!",
+        "time": 1754536905,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": true,
+    "serves_brunch": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=5242551338281801470",
+    "user_ratings_total": 594,
+    "utc_offset": -300,
+    "vicinity": "48 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "http://restoamir.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

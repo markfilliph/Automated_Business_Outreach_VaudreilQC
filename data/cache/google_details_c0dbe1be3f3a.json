@@ -1,0 +1,440 @@
+{
+  "query": "SAIL, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340365.0704691,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "39a",
+        "short_name": "39a",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">39a Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "39a Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 424-6868",
+    "geometry": {
+      "location": {
+        "lat": 45.4105804,
+        "lng": -74.03066559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41200218029149,
+          "lng": -74.0295672197085
+        },
+        "southwest": {
+          "lat": 45.4093042197085,
+          "lng": -74.03226518029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-6868",
+    "name": "SAIL",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3235,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103693194587279408307\">SAIL</a>"
+        ],
+        "photo_reference": "ATCDNfXBu77wPayBOJxFLR2gGqyKgHrDx51Z_aai2MJyq1q_qZnktULYMLgID4ampiAT6Jtq6ZB2M2IAIgqaKaJP6HvZ0UvPzNFgWkCitYPKOeQZ50UbXnmSzC7uv_AVLM9bMa3rp_PLtaMxAVFr5wo3-0SM96Soz-JSzHJqI9SBXvXvGSu24mXL3EcPiCcK4-NopafR28Idy6MT9kbOknzbOAUifUaVTFHicTZNnI4QPaJl4LzQc1FDaxvImgzD5nqZATheO5JqFCq1_ttzIWCfhF1_WzqUH3U_OAQog7Y5tKeAEA",
+        "width": 4800
+      },
+      {
+        "height": 1872,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116761229955748749118\">Doris To</a>"
+        ],
+        "photo_reference": "ATCDNfWWar7HLtYdWBVFL9s3lbcF77pvkQsi884PuLwGKeXuDlYF5d_aUSSQGqjmYOu9I8wrbJt3n8PJYw0uD6Hay3l-J38rBKoVwwU5qlPRF3aH6H0El5JaoN5QeIhdiwoBkKxCj_5LqZv_ORWqTXbWeX9vtO0f28fq6tAoRMDX4N5NHhnhnCrBXdrA65b2GrHweDMv3hKo7LWK2gdp3Wi3J09pZAzrAzd2f5vp-VZ0aiOzASvK5o6e3u9gEKUi-JixxtBmEwbVpKDS1i-ncxHYsqJaF4xobFLsk3e5iEzT-rszoaKJjjZr14HtoKOPj123qPRdoRyzMdmGXckVq0LO_AiPw8MUxW6iBRxJqqQFrleapsCAwDqSueyVzaJ4UxIGXETwpvTrtA58Lh6ZIuJTyJ9pBM2TlHlv2xroQJp9KFU",
+        "width": 4160
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103693194587279408307\">SAIL</a>"
+        ],
+        "photo_reference": "ATCDNfVl55AHWgsTFYSowM3Xj0oJPNW1KBeaCvFCG6vbXvsjAompi7cH13TrtKiydQ_rE3-NdGSItArFfikq_TXCW4t5sWJho63xnQk8TcWogX6NRAJjJAlx3e_v6_kupht1iGoswTDiBBZzQ6oSf2oWb1jRF553k8kHpjQY_j3A4zhuduNiq94pzRDHxO4OQHEtwjpw492VgpTMCCTLTgmR8g2YI9j0ORYF4xkB7darMkacmfk7aVhD0Ikpd7NQvZoXQ4QiOMhkZOlXaZ9E7NAEqnnZjHH33d6iVZ4FvLKjptDhbA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103693194587279408307\">SAIL</a>"
+        ],
+        "photo_reference": "ATCDNfU-P4bcm02LqEoivup3VdkHxIbakTpTFcg3CTdxIUAc2nMrAbUl324t_YrAAb-4nB6uCvwAQORtD1SlLB3ZjpRWKoLC-lbEjh-yM9cbI1VlgCMhXXilbCLWHCf6Lw3x9TKdxvi7LvO4ZYagrnlZrSS7tyRulvoiERK3x2NLvHROIecQ8N56TeIiK7uBvsFY0h9iW-ir3sWfGBVf6VUWDrMEVRABI7nsl-BKyqeY7G0iknNVHCW0k6OIerkKjNEKKKfbZ-KK2S_xy9SWGswPTw1o8TZP8XaoOHHosJB_PBpZ1A",
+        "width": 4032
+      },
+      {
+        "height": 1632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100738662282757045027\">Nathaniel Yong</a>"
+        ],
+        "photo_reference": "ATCDNfWn9vnPYyx-NnPGg1fbRIcX_yuXbE-oxsAe_bmJ05f0MA-H-1hT7f21Dq-cH8ofGRURw1GPG8kB5JGp-hZKUizMCQo-XsED59q0n4m6fblho5fd54rvdRA94jENOt_rpwKU9e5yjnrJU-z59CaQu6iygbQsTju5HkAk4dqdA_Q6akrXl7eGp6SZcZbyH9Wym8ulhy4NrJ1xsTREtED-EVJIK1Gia0UqtBPSfHoQUi-yow1q35-KS1AtWy5ijtRCD4dQuZj0UVouOpGV-uIUMXf4CAfqox235-RfShvPnQN-U79Lqv4suxsXCIBTjoh0Um82Kk_-CUVyPxF8C780DIGqv5_yvHFEtfxygQ_W5KzTizhMal3GeWtt12wteEjo_GGIXmF5WPTTRasWpkuxIqRnt6wdxaVlntb5LYJJ9sBu4nly",
+        "width": 3264
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103693194587279408307\">SAIL</a>"
+        ],
+        "photo_reference": "ATCDNfWQPRzMeZWDlG-I0EVuiL4XYz5UprUOcDqgXMBJyrA14Lcb7O8qq_9-bs-lKMFs312AAWl8BLG2DRiviCQ3290M1o-eV2kQyLGEWPoCx_HIiIY7jtoKCqkRiwgsZE4LwEXAH_D1-KeydwIuZRWPDnKJTycAckfGoAy2jfTCQidAsjR9Lar0R6Ub8byPoQ8aCsVUVgx44N1etP87RwOfGd6_QpkY15wBjA1sGx1lGGgroVFEKb3is_6LpNngFHrMI9JxxHVzWIKFeHYTqFnbh10t1HULDYHAxRKTU_ZI9l_vPg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103693194587279408307\">SAIL</a>"
+        ],
+        "photo_reference": "ATCDNfVvTqEPsUPLS7Z8yr-ggs5MvY5DdYLV9jwER03RWKW_8-NBbNm3mQWswTdomDJo63cW2ucrej0D_IbR-ddi6jrgyWG9ITc5XujG8IuJ728bgBcTJ72iKv0asxeOhY4aLHLKAAe_xoOAaB4qHBFlHuL0GxUYpiOAnNaIQi_Ci5AKbygNJhJ1RlErgs0lQcJ-z41XwfZKqnueowFoW7bGkUUiPt-Yw2n-iPo9YhQP1egxy001LSg-mh2HYYHe-LS_PZzWphJmd88WYcly_76hGJpoYjm5_Wdsjkw_zVkDycLNWQ",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118033403764774056091\">Alex Libert</a>"
+        ],
+        "photo_reference": "ATCDNfXFRYrI9saAMzYTTkLRDj5EG8HZ_HIBis--jRMUtcF1_6fSaCjcpObhCQqW66iVlAsP9tlMdb-CE2gjaezwEMtVHWJ-3ehrVN23ypRbV-yIMN9YLXVMG9EoAlZOm3lbwhefHttyAd7Sp16GnHGs14cZP2w99v29Vx-0FuiHrkDlAd6LakqAbVi796I0DOLrJaFlFr1jUHqUZ7z2vGys5_zioezi3F-eHPzgLsiAnZnQXqkoIs9aWOA5x32xtcIEi8Fen2yvYqZyy7e8zFGZI6pr5fvPXmK0MQY3gzpJp7eUz-j86ipFSY8NNETk_J3pAGinpqSDNdR60LR0zCx0O4GRAJFIpAM2DcZGL_mJEeFmdkihwE04PNVb2kPJpmSQgwjAT-dz4K1iw5TOqaMIPNOzDdEYY7j7VdQ1ljHCb5Y",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115288450889168763376\">Bonnie-ann Roy</a>"
+        ],
+        "photo_reference": "ATCDNfUeaAM22P9m2k5gaaWdHSmlJFsjT93GSq-r1QVPuLhp6LI77s-cWoiQ4dYQhIv1BEI-SqTSEnaVYssnt98wKjMYA8VD_VL57m6XFXn7wZca6IBzA3hyz9IPyNImP1Krhit60sokmFVUFtmJWk_2YwUKczAD3dTF1x4xbb2CTTnCydW46gRXo-Lqh20Tpzf4MfFZflxgvWO5Ect6_yzirB6MYGFk0M6z15cV8cWC9TLf0GVPMl510HFz5LPJE7EvH4nhMKWkBa9rUhicIWpjtTKy0NfWXXYkx1kOQEFDOVyUbdzOlG2o1BCwqTGId20Sl2u4bnh8T8GGIjMmKZ0mhpTZhJGSZkHc9hWnvUkyNrkxdkYNkEg-gLSlg9H_gDpHkzGMfMOR3I1yC06jZC3Ztvb_n2ivRWflD7OBKZRq2H2XEAM-",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103693194587279408307\">SAIL</a>"
+        ],
+        "photo_reference": "ATCDNfWLdTfMUsDTkKmGZ9JQRlXe5--aiXxlWq1l1Eq75aaFe4VlJZMVggCpRuCne9Fu_LuzgeVqVxa3C7PMZ5SA0202gc_p5e4TGIqTbhsm1pxKvImKs5pw6HDrwRl0fRFxtgxXHuygRbPA_POsEZR_NHPUYx76wjrwx9uwIr5pngkBPEARpHQOkHU74dNWJjVdwvvAC3nQBPEH9ru5OymyjioTBNKxJSHmgCg5BkuAh3tC7yYbjTYO98-wCp_jRPV9dQoIs-vyfrUw7AZ-txsNjOES59T4AG1rdHuOb2Z1D1yQdA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJvY_x4TQ2yUwRaON9DwLfskk",
+    "plus_code": {
+      "compound_code": "CX69+6P Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX69+6P"
+    },
+    "rating": 4.4,
+    "reference": "ChIJvY_x4TQ2yUwRaON9DwLfskk",
+    "reviews": [
+      {
+        "author_name": "Danyka",
+        "author_url": "https://www.google.com/maps/contrib/104174569973888201078/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVK61-tCMnm9-R-Ad2l65Aj22B1mbmrVqRMRJhAqty4nII2FKY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Worst customer service I’ve ever experienced. Last weekend, the older man at the hunting counter spoke to me like I was trash when I was just trying to buy bullets and a gun, with my kids. He was extremely rude. I swore I wouldn’t come back, but today I went in to buy my hunting license. The woman at the service cash was just as rude, acting like I was bothering her. On top of that, their system wasn’t even working so I couldn’t get my permits.\n\nInstead of leaving, I decided to check out the hunting department again, and the woman at the cash actually told me multiple times: “The exit is there!” in a rude, condescending tone, basically kicking me out of the store.\n\nI’ve spent thousands of dollars here, I’m an avid hunter, and I was about to buy a new firearm—but this was the final straw. I will never step foot in this store again.",
+        "time": 1758305965,
+        "translated": false
+      },
+      {
+        "author_name": "Luc Bissonnette",
+        "author_url": "https://www.google.com/maps/contrib/109501047331828704373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgD3GfyE4i71PIwLZGJmENhZApiM76OpdHYr3MatX1nFaB7A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Beautiful store.  Clean.  Tidy.  Perfect place for outdoor équipement.  A little pricey but generally good quality.",
+        "time": 1764718624,
+        "translated": false
+      },
+      {
+        "author_name": "New Mood",
+        "author_url": "https://www.google.com/maps/contrib/105633853857212917605/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_IW-1mtuAp7jZOIV62j7ihKicmYfg8mr5wITX3_PrjnMHfQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Good collection but understaffed. I wad to wait more than 10 minutes to get assistance with winter boots.",
+        "time": 1768688432,
+        "translated": false
+      },
+      {
+        "author_name": "Keith Wilson",
+        "author_url": "https://www.google.com/maps/contrib/106933531267523473914/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzRI0Q4zolcb9Gl-5hNc0GIw2EL8DWfQNBp6--V-1Cskk9Ng=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Great knowledge of their products from tents to rifles to kayaks to binoculars. Always greeted with a hello and a friendly smile. I spend too much to justify here as many others and as a whole supplier to many outdoor products they could be a lot more competitive in pricing or add some type of loyalty to customers.",
+        "time": 1657676554,
+        "translated": false
+      },
+      {
+        "author_name": "Silvia Di Marco",
+        "author_url": "https://www.google.com/maps/contrib/105285783259787423040/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZ-R08rwh3RF3Ye9RebX6Y35svaaJzTdxGuyV7NyLIY3C6tcM9=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Wow what a store experience...great place to shop for fishing hunting hiking camping almost any outdoor sport and Sail has it.  Take a friendly picture with the moose on the 2nd floor.",
+        "time": 1598807257,
+        "translated": false
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=5310552110566073192",
+    "user_ratings_total": 1429,
+    "utc_offset": -300,
+    "vicinity": "39a Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.sail.ca/fr/nos-magasins/vaudreuil",
+    "wheelchair_accessible_entrance": true
+  }
+}

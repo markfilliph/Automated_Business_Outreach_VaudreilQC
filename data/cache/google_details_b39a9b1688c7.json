@@ -1,0 +1,349 @@
+{
+  "query": "Les Premiers Pas, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339292.1295314,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "80",
+        "short_name": "80",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Trestler",
+        "short_name": "Rue Trestler",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1W1",
+        "short_name": "J7V 1W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">80 Rue Trestler</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "80 Rue Trestler, Vaudreuil-Dorion, QC J7V 1W1, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3867997,
+        "lng": -74.01046819999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3882144802915,
+          "lng": -74.0091793197085
+        },
+        "southwest": {
+          "lat": 45.3855165197085,
+          "lng": -74.0118772802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Les Premiers Pas",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfUUxpkkgyLsAUfA00-tSKpJqOuBBUNiFX1iHKVxno9wMeegP9VddYG7BZGYa072-gq6WyAVG_KXxmKN7Q0u7OORyMRpVp1HoPEJH9MJrdneluZClOHmrdOIqHH_JKfSZtoXasCL7W2qV7eG6kfa83rcUxc2el7-f6sdzWzFjidPKKIGn9oi9kYx4CU2Rp04TPVHGrA5gX2HZK3PESnCI06OFFVx1LIMZ8SMq0n6T5rwcF7kdBa3aWKZefPyX4AKRjTb2Fdlzgb_csQyfpyaS-SbYYSJzgdj52cpPVX3FIR02Q",
+        "width": 4032
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfUT05NpXGa51iWTbRSvEIwgp-JdVBGrpV_fKpm3fp65Q212HalbDmxzVTq3BKD_fsrjpHtEQFRWHmN2D8ijlAQvQvy9lSNxsUC8T8MonIDL8hUOMGgsRqrCpmQ9wIipeeOm0k4ZlQsbTsiIV3eMeeqo_N5ZjCycKEKhWDAIE5vt2x5de7HhuPeh3yI67_XNQ38YGCZNkUCcig6m2wwW1xvpP8MDnOR-iw_uWmzGGEYTRNpXE7QVPBo6EuJyknS9qcSvE8NlIOIfE95fCAjSkg3jsHj_gXgCs9KT1m9BD3zI6g",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfV-w4Hl2IkKEi6u9CSDp2zNaHydZeOXdeizEJHqz_g_Q3Mto3trM3HEMj9ziHtQ1Mi3_xnJAIGSZnVdQRi72q8a1_OxkY-GCv0Glna-WNqioNfzV93NBEzXivbhrIL6JpEkGPTz2XtGMIX2yLDyPBbNBaw_N8L39KrdkfplICwg1-SDYFl4VPO_6ZiTOX2WMcR7nL2NQXJHczG_R9QuQMimvVMsOpG4F82ecWnAYGZ6aiZ3bwl25o_ZPTFA6dbxNTNYHI6lKw-pAuWWm1Xiae3yojbNbDNkHDKS5tXmrwmMTw",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfXIkEmsYkHDTt5_w4c4XxEtRgA0IcmW32-CcyXCq3CgDHbefIIGdvRPton5uOO9kmayla9dCTdT6OnVmRj2yHvzOrWN5di-0XLwOobu7kVwLerFIewR__n3sQ60EEzvKlAioKEn404T3EREusLS--bUwhbfsbyJBJ0obky894ZgTYTo673_sTPTeanOQ7RgIJUj0WtuzQYuBfsfo8JWAkPdnEaLjM3ujKtJJkSl--4wXwYjSBzwZ0231QcgX1uEjQcysXQoLAIDy45gs5ptLM9kMmaYi77PvZVQTwxAQqnmPQ",
+        "width": 4032
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfUozPHr5EFIj60Bc4-2i7wkSw23YcMLRAYogv9pGHSrAbY1oGonizmCkdIVKJrJ8lRR0W_GDDrPEFAGRHuO3pIBRW6poD7i4z7E9VyzQ6ny9uNBvOhRt1UTimc4sRj4PrgTTfftg_LMluR6s6Z59ZXunyf7H0A8FTteeXjDVTSj7qtfArZ9p_wpEg0xjNe-NWrq4FLwpW6o_L0k61Lyw0J6zJFgTSkuk_PVqEVcur4f-ehUJIfj3kiVFCkJM0XsEVDnQ_qRJeSXJKK6q2xgPa6BMGyroMRSultqO8-CbZPv8A",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfVPyv6zvivjQ6RTUIgeviJZFd5xDehno2fdB-Klz4AXL_Kr5GTFOqiJMyfjNyQyh5MR9iph7D-ZJJdCRIQVGpjO4jvY6xMxF2tnPZyvWImdz5y-jHqJILAy2pwLwQAELfPIZTD5IUyG1Cq3aenYUTciQsPeTAJ71P6qzBWp-oe0f7HRHIhnhhKyCCBGpXwrmgrwDXCf4RprJLcZHyo5sQdmvb4uTbXb7vMn9bLsaAEXTV6jnxvUZ57t-gR7nWpQvm2MI8pgfkezcoYybDjuctFq8dr11pHp8whd88ul4Un7AQ",
+        "width": 2048
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfW338cARU4Nky1ULYuK14_ypEkCwsWS4WCoKYaR2qgmcsE-YTnZYU_Z0aM14IM0WydacCK5yFf4nTJWD5plOBRxC-ER4Khm__gsTzcmyPhGqeVoFyzVEwNnUlD7DUbXT4RyVMt_4ThCO6I71KUbF8u1Xc5lxkcvwCIsIvnc-SB8uBj6WzHo-ETSfRo3YXS9j8gdesszJGiMojh9p42y5IcAxQq4oi_P6RJeiU3MJKXfNrsAqG78x6lkZzXXFTMHhSYlLBgc3eOph_ik0J99Fa7ZWvqHXin-AdUNo8q2IvUvTg",
+        "width": 4032
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfVyZC6ARG1sixLgtoDP9XUhqxM44j4DfeCQ58F0_eHEzDeDFKJgtN8ZzYaFz4CPqCAg5Vt7FXASp3hgdVhGNDNnlHytV5CyPDco5kwk-dt5Wl9MJDams-XQmwylBpxreLnRddRQh8-gkm4a1O-AFxA-IrgZ9afIIDTZQ8N-BgsvKw0MsDMNIZdqNtUvScpmncw5BpjVWRlagwNKxsVz_oDAKkxXBgCI6H7U4MCVxxbj-PytweRnyBGzkqfXZVJGk62SDknbJwVq5NKw2yD_K_7qDj3zC5WeySLIfHFU5I_dyA",
+        "width": 2048
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfVTxx4hFBhP1neAiesCuYgcJHFWBIbeQcyhsYOwdOMm8K_iGtdBIgP34icNneoSFcYa3dM7jRqC9G1n40nHBrtdn3me0bsQJVKJTHTTHpq_QB14Z7CccVLPAn97POYm7iQR_zC6W2MmAo9TxSGOtcNXpeb4assIMVFrQLJiRJNpDKPG4w-ghs8XGV2kIpgqJOttqNeeo4Dwa1noa1Epi8cabvOEVtPF1Wd0_-9ffm47wq5jQR_1vRr1-tSUHeM8RelI3AQc81ZTrxki6Fvbs7uoJFvUwUWV1fj_RoKkfIGqRQ",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113318175385093176060\">Les premiers pas</a>"
+        ],
+        "photo_reference": "ATCDNfVxyAQKGxKU_CQkHJBU4dn-v8fSkf5HygC6WmlQdDqDWYMXh1bJXFZT08n3BlbVbQc5zGOm9J27do2DHEmh4L72IFK1rxnh4TvcFDnwKvkhMJqVx2g0j1fuKUzO5tyrHbEcwsg66ZnS2Xh26OkF0oaGXDz4FGrfgfmKWcDdEl5Ip2Rq8DdF8tXIpSh5_rY7d8hMaVomQt5ZzaVpkgN-4_Mcw2JKP4wZoE7dxK8n-m6CAbHPD32-FW2BywsI_kITH6yjOi_iUlO_ajUgdMmtsu3IEtfvWr9yCZBfK2tT8kSeKg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJuYHZybo3yUwR0riXD_oiQIA",
+    "plus_code": {
+      "compound_code": "9XPQ+PR Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XPQ+PR"
+    },
+    "rating": 5,
+    "reference": "ChIJuYHZybo3yUwR0riXD_oiQIA",
+    "reviews": [
+      {
+        "author_name": "Ikram Khalfi",
+        "author_url": "https://www.google.com/maps/contrib/111493760009253007413/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ90iddxbFl3i0JU58PUmATIfu6tQFdBro8ijtYo6r1vb6D2w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "",
+        "time": 1754330366,
+        "translated": false
+      },
+      {
+        "author_name": "malek been",
+        "author_url": "https://www.google.com/maps/contrib/117943659070706446473/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPoBUyGVdXfHauMfzXm-dxpw3trRMlQaZCcCZmPwStziAyfk7mkg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "",
+        "time": 1745452064,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9241424892763027666",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "80 Rue Trestler, Vaudreuil-Dorion"
+  }
+}

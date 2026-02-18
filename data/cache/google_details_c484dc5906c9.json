@@ -1,0 +1,344 @@
+{
+  "query": "AeroMotion Canada, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340286.2814534,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "suite 100",
+        "short_name": "suite 100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3501",
+        "short_name": "3501",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue F.-X.-Tessier",
+        "short_name": "Rue F.-X.-Tessier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3501 Rue F.-X.-Tessier suite 100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 4:30 PM",
+        "Tuesday: 7:00 AM – 4:30 PM",
+        "Wednesday: 7:00 AM – 4:30 PM",
+        "Thursday: 7:00 AM – 4:30 PM",
+        "Friday: 7:00 AM – 3:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3501 Rue F.-X.-Tessier suite 100, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(514) 697-5872",
+    "geometry": {
+      "location": {
+        "lat": 45.411863,
+        "lng": -74.04798319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41303438029149,
+          "lng": -74.04695811970849
+        },
+        "southwest": {
+          "lat": 45.41033641970849,
+          "lng": -74.0496560802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-697-5872",
+    "name": "AeroMotion Canada",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 4:30 PM",
+        "Tuesday: 7:00 AM – 4:30 PM",
+        "Wednesday: 7:00 AM – 4:30 PM",
+        "Thursday: 7:00 AM – 4:30 PM",
+        "Friday: 7:00 AM – 3:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107147148047434097479\">Benjamin Dalpé</a>"
+        ],
+        "photo_reference": "ATCDNfXB9DnQNJaYPRqwcIE_FeWiu9tO6UWGVDxVt6m2V_OxcTgAswLfv7C0JmwKg50ota-rt5GW8OV8W5nRg-SB76at0KBJIj3xzmiezxMAAVeBxTwUgM5CFFNflRo1cJ5ACHKT7FUWqfHVLZ2GsGxgelSsTtMkoBTRjkR8dyffqHdoyBhIds5_bPpT1DE085w5w-G7MBF-XH4ZbQt-QGsQS8LLcYkaL7SFD9iNE-Q6-8Ii_TntvlEsctztrrKnaxIDNux9PJ3dzjAY_3WbMeZmALnNTDlRlpXm4GvWWstDKqsOhYR1gEceI9wSfNQpIKZ_pmLPW8Qs4rDfwqg_MrCPk49XqEeyuEOebBHFs7x5GGawR7xn_cJNfbQRgKzB2jLQg5_wJ-GvdQ9sYh4DZPmhRBH0dcq1oX7UFYH8AKI22zGLxw",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115846826929623985295\">Jocelyn Dalpé</a>"
+        ],
+        "photo_reference": "ATCDNfXgv1f_-vaqFoG4coo6O0qqO7xMRS5GGX7zYdTOHfZ9YilyQhQSZcGgBzgGXDGBh_iwOuYdQXNePrsFZQSejiyW2xCi-pD4StAsiit_AANMcUmZe-mrxw8EluNNfDVJp22WzHaVTn6qjUtQU-d4_Dj9iucxp8tNxqS3ZXfhkhp45HuBMoEk4Zxt4SHqaUUg3rBH7XSFe_FPry5WTN_2NLWOzfQZcZ6nCyXnlDJ8qZKhPeL_qyNuX_EZQVumqB8rVl2vasDWfijPjr_VPXUV06kWVNQSa8V1D-mwS522HJU3rhYeuy5jWffe8KUypTP40w1I-LDPz1eN1m_PSP9B5ZLU0klDfObrlUgpMnIDZOkC4sJ0RxiaiJ6qY3eBEfzILOMgFZPXnhtu7F8mECRCPgoYfuQ2aXmN_onKDTyH7JzIXnyu",
+        "width": 4032
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107147148047434097479\">Benjamin Dalpé</a>"
+        ],
+        "photo_reference": "ATCDNfWkrfFmp89QYnETsn6R4yUX5tHB9spbzCeTIRjeEbjFHFP3Xz0uF47xGSdlek14ZJzHcg5gLliBxUC1XGFYlY6wRilQMIa7MVPhuoSWAMecZNsXxvaNNvbYeTSs49nkrHpr32PZAaD-Ad8kqVbKZk7BPKg09OAzsZR9cn3_u6GrTE-8KK0BToWbZGG8Fgg49iqcx3sQMdTsdrwAODIPooya9LIoqRRraGKTcEkqZdcZLM1ADSjjIJKXrfKIDQYpOiUp7be214SpYIKy44PGkHQu_CrbJOQ5UW7mVtvT9cXkGDScVbToCiS0ixqmbWQHhsoAfwWe4FElA_y4lOPqiNdQsErQQRk_U_5bvytx5iZKQHCI17RKwTOEFtnsboKU3DmSSQMNNgGaOHHolOt5b2LivyqxZ3X5ky4IyC1zDegHHA8",
+        "width": 4800
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110989976365880909806\">Neil Haché</a>"
+        ],
+        "photo_reference": "ATCDNfUwldQbYhsz0V2wOZjMH2Vwi3eUV_UuWaRaByIry305_2OIt8Rk_Jewp6_BZ5gejqLNa-3VX1ZNRM9_6DBJzh9BDmQVzsGDVU_63FpYCJU2caJL3tmFJJeFKsmuLVAbGKn7y1N_zbM0J8dhlQjKMGYTbnEyYfWoPOZTCe35cQRivZhStZRr5He12DkLAyhejfEB58C5IgU_T-wN_FATwVfxx0Fxae0fvgdfuIFZpBIK03olIgwS2N81zTqxL-HCSPCZXQNRVfyNGjNPYexizFEXWLGputhT-pKBO-V9nJ7OnjlmW48NEKBcNHUkeB_h8sJ2aI6QLFXSdTtyUDjMOY0NXjsa1w6JW5OUcnRq_1yMVvzokZCfCLi2ynxPR3oKmcbjSGLA5T4NwktaQ8PX1x2w_BBc0ZgYcY64iFjhxe9Rk4E",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJo1sIOic5yUwRm2yfV78cxPY",
+    "plus_code": {
+      "compound_code": "CX62+PR Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX62+PR"
+    },
+    "rating": 4.6,
+    "reference": "ChIJo1sIOic5yUwRm2yfV78cxPY",
+    "reviews": [
+      {
+        "author_name": "Jocelyn Dalpé",
+        "author_url": "https://www.google.com/maps/contrib/115846826929623985295/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-PLBBHabnlN1h4S-5MMpFDMiwkW89B4_Kyxj6F6niMZR_PA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Thanks to the loading team.",
+        "time": 1655837059,
+        "translated": false
+      },
+      {
+        "author_name": "Emil Milich",
+        "author_url": "https://www.google.com/maps/contrib/112562612487029371058/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUH5funUUCvtBmxreMJFnpbVGnoZvDQjdTIJFhnaQ-9qb5bg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1652842729,
+        "translated": false
+      },
+      {
+        "author_name": "Benjamin Dalpé",
+        "author_url": "https://www.google.com/maps/contrib/107147148047434097479/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL81oUq5bH5N9apjPZGSHxsTA9pnvFEAGdk-_ICoEJrL5h-xw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1643998342,
+        "translated": false
+      },
+      {
+        "author_name": "Claude Black",
+        "author_url": "https://www.google.com/maps/contrib/115523096589861176560/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDWviWSI8YY3zATycQSHV19rNfVVkzovrgy5J9dVlz76smYg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1619107021,
+        "translated": false
+      },
+      {
+        "author_name": "Isabelle Chaperon",
+        "author_url": "https://www.google.com/maps/contrib/108965767738758598651/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqWLCRtZU_aB7D6LRXg68YykpC9DfhtDGBZLbT9s7lOG4OIVeK=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "",
+        "time": 1503369751,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17781368836899957915",
+    "user_ratings_total": 5,
+    "utc_offset": -300,
+    "vicinity": "3501 Rue F.-X.-Tessier suite 100, Vaudreuil-Dorion",
+    "website": "http://aeromotion.ca/"
+  }
+}

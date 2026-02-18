@@ -1,0 +1,322 @@
+{
+  "query": "IZ Reflex, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338860.2430544,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "001",
+        "short_name": "001",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "100",
+        "short_name": "100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1X9",
+        "short_name": "J7V 1X9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">100 Bd Harwood #001</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1X9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "100 Bd Harwood #001, Vaudreuil-Dorion, QC J7V 1X9, Canada",
+    "formatted_phone_number": "(450) 218-1911",
+    "geometry": {
+      "location": {
+        "lat": 45.3839844,
+        "lng": -74.0092347
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3854547802915,
+          "lng": -74.00800551970849
+        },
+        "southwest": {
+          "lat": 45.3827568197085,
+          "lng": -74.0107034802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-1911",
+    "name": "IZ Reflex",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 404,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113811937332783968771\">IZ Reflex</a>"
+        ],
+        "photo_reference": "ATCDNfWCyqaItF59OL6wkciXpqBUixVYng9fji7fQ_2b_ljRUWSrJ4nxt1JEbjJhVsUYqP39PLxQwWjOFDj_vmyb8Nctth-EmbAeIT1isea5rHEthaAXfk6ftFR0n1jmY_r2tfWtBCiQ6PdCN0PYnUodlx2ntGRZ-L58mUdjZ8TfIC0PbXWj1TPMbDf0sRGdS1guCDgQ8HCCmyfD0TeDd18z6ZuzKLnNrkIuOnMQ3UJ10L5xr5H-5VRK_5KYaLcbKP7J_AUviGNzWlrFxbIAhx5OwUGEBFzFgqTuW4klf1aF3MdmOw",
+        "width": 494
+      }
+    ],
+    "place_id": "ChIJ3U4AIB1IyUwRA0yKPyIQGl0",
+    "plus_code": {
+      "compound_code": "9XMR+H8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMR+H8"
+    },
+    "rating": 5,
+    "reference": "ChIJ3U4AIB1IyUwRA0yKPyIQGl0",
+    "reviews": [
+      {
+        "author_name": "Jbcsab",
+        "author_url": "https://www.google.com/maps/contrib/108614900318292139471/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiRV8Ys1r7yUr9IInJwFDYVxLDWkDoxzRJKURlwj3koTewEA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I go to Ildikos location in NDG.\nShe is absolutely amazing. Her work is incredible. With any physical or mental help, go to her. I will never go see another \"doctor\" again for anything my body can heal itself with.\n100% astonishing. Love love love",
+        "time": 1583962638,
+        "translated": false
+      },
+      {
+        "author_name": "Dan Dilio",
+        "author_url": "https://www.google.com/maps/contrib/118384048070924164039/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn6TRrp91L6b2lNilt_7yoCNUvfxwdFTGq-dyxaK0NVTrZCBE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "It was my first time visiting the clinic and i was very happy with the result. Ildiko used a reflexology technique i was not familiar with but the result were excellent, i left her office feeling rejuvenated and relaxed",
+        "time": 1622811689,
+        "translated": false
+      },
+      {
+        "author_name": "Aniko Victoria",
+        "author_url": "https://www.google.com/maps/contrib/102095469814801430347/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-g95MAOYavM_BcMzcVIgf6WuOanW0QHPqNFDp9343ktZv16xR=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Felt instantly better after Ildiko’s treatment. Highly recommend!!",
+        "time": 1698805898,
+        "translated": false
+      },
+      {
+        "author_name": "Kiri Naturo",
+        "author_url": "https://www.google.com/maps/contrib/107253351210500376773/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAh8eXht8EsNwbEUqC5ZbEZ626GJTXrwk9yf0KKkZz7-ymYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "",
+        "time": 1493206870,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6708692334202735619",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "100 Bd Harwood #001, Vaudreuil-Dorion",
+    "website": "https://izreflex.ca/"
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "query": "Tutti Frutti déjeuner et diner, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371498.572806,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "585",
+        "short_name": "585",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P9",
+        "short_name": "J7V 8P9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">585 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 3:00 PM",
+        "Tuesday: 6:00 AM – 3:00 PM",
+        "Wednesday: 6:00 AM – 3:00 PM",
+        "Thursday: 6:00 AM – 3:00 PM",
+        "Friday: 6:00 AM – 3:00 PM",
+        "Saturday: 6:00 AM – 3:00 PM",
+        "Sunday: 7:00 AM – 3:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "585 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 8P9, Canada",
+    "formatted_phone_number": "(450) 455-0046",
+    "geometry": {
+      "location": {
+        "lat": 45.407941,
+        "lng": -74.03259100000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4091486802915,
+          "lng": -74.0311626697085
+        },
+        "southwest": {
+          "lat": 45.4064507197085,
+          "lng": -74.03386063029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-455-0046",
+    "name": "Tutti Frutti déjeuner et diner",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 3:00 PM",
+        "Tuesday: 6:00 AM – 3:00 PM",
+        "Wednesday: 6:00 AM – 3:00 PM",
+        "Thursday: 6:00 AM – 3:00 PM",
+        "Friday: 6:00 AM – 3:00 PM",
+        "Saturday: 6:00 AM – 3:00 PM",
+        "Sunday: 7:00 AM – 3:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107175690956206466392\">Nathalie Lamoureux</a>"
+        ],
+        "photo_reference": "ATCDNfXYg-KW35t7G3n3bXCrzpx9TNyeC8Zo8Ik6AYVq23w0ph-v9a422ID2c5DO1SJ5kS7-OuThLYvPwl_4JIGYEKSX7MsNmZ0xVSbUsuxMv5mPXT2CmF8vO9XZ0IFqNRjdmWqWihWOFxYTCHuN5H_AVm9g48dK5Ovci2h0NOdux55aE5Lx7MZi1-gfGnLiXgiWQMPRIP_aJPKU7UtB0eVRN1S8WWzNmLEDQc1HarIQaSSKwc-U3PBIvKFVhnnO8n2DgqW4H6yE4f0cOoit5-LeDB3qv4FvF8KtPYjKd4XchS-tQ7seFkjpypFK8d8v3Nm7HziVYCF-7n6isF2SV4ghWKO8ueIrHDOfmb291Hqb-ibbsQrZBTRy9D_dLf-v2lWsgk-CBA1kVQYv_RVkbm273p41r0NFMm2tLzv2MYbn1v4",
+        "width": 900
+      },
+      {
+        "height": 676,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106617187694248384527\">Tutti Frutti déjeuner et diner</a>"
+        ],
+        "photo_reference": "ATCDNfU820gQ-mihk-_HIybZ_X7xDI8XuE41PXnzXoyXDUcTf3YjMTN9ApYKtwyf27KwSWVf0xTqmEqvAGB23QJSPioSHYxedg42l5MRWH0KewFU_kWQKDtenBs6ADeSGWPcO6UNmNzebV4u8AyAg7hKBiEkIjBeu_ptpNioGcbTFBV1f_qOij_fimjymJPb6WqrQ7olBFgNMXy0FfTPLEgVvbJowTStgpWqOgiuKeEtraK9PXQb2_noQSysycAbW2wsfMoWjD4smWuq7eJyqm8D4OUYD_OYbg07SluhF-YPEncH2A",
+        "width": 1200
+      },
+      {
+        "height": 530,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106617187694248384527\">Tutti Frutti déjeuner et diner</a>"
+        ],
+        "photo_reference": "ATCDNfXR9GqVdA9yEKNSMk4_-Nt26dcU_ix9vrWYYAWZ8a4PISn0YedUmjFTadd003cFz19job9syXxg0TNOxkpzJWS74HL0NlWYe71GXls_Yh7zhyC8lLrMv1Ye_Rqq9Di5x27ejVeFMkuPxhI68qy4X5Rg6vRCZ4EPvRgBRiuKGvwBT0emLLZCFamVxIJTHqbs_FRwQZdU6mNheF_vPdBGmZiuAZGMc6KyQ94-HmnccC4VrmNneSvIu_MkMB49ULrHU7lp9UWFp2JXAl24ROSzB8n6auoPag06JtIdhNgyGvCNvA",
+        "width": 940
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113467940273113460124\">Dale Samuels</a>"
+        ],
+        "photo_reference": "ATCDNfUOo6HAw5ps7y01FogyH0chMLxY2QQoS5QJ5YFwPoz6Gz6HnexwuKA1Mq2rgCemJRfhBBfg6UoepMM3ycd2SzXemyBwa4Cj6wTL5lkHJ30e7OYkTeCek83MqlJnUE63Ozmj-8PmNcRlJdQVO02ahRx655s58mCVf48ud9WUrSGUnotX9Hl41acfrdY2HX3NBviELt6SWQ0XPAI-yc_KWWbHdMm9nWSvFc8i7-Nb1lt4OVGD2oy2Ki8xFJCj6nvTsYbs5wcvsAliUnrUcuHA1ztIz5qNsThfp0yVYPG_XXHAWGAm1C2f1fS34UKwkMuzDy_xrzXJyYnI_OAn_eKnshvlK3d4gO5zaAVMUdqF1cqK3Y3bQ22k6dJgZFEDfULV4flSEgBrWs2aADMQEVwBLPB7l5O8o1EOGuIv5G4eQ0HDYthPj0P-60q0EO227x7y",
+        "width": 4800
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106617187694248384527\">Tutti Frutti déjeuner et diner</a>"
+        ],
+        "photo_reference": "ATCDNfV_QOwPQvRACc82vt94oTGf3DiyVDbDRDMdXuElffPVFj-CEHGb922zl442vUx3lDpv-pEOaHeuCl_9DKc4iBgs_P8-RNtAtMSlLUs83WHdHv009mZmM0Sjjg3zsXwDhZYB6GkpBcyc5EGCtoPInb76v6QkvxNjJbLiniiz1WEXU9EXNMiEAZ7Lfhi0TzEhG8xcp1LbTvl5T6smeSiwvIm6yVR5NwGwhHSQNVLv8lqt-FThgyICfb7z7xhd2dPz9yyFgFaHuI0dbfYO_HQBExeygYOrsxE25gnHssN3HXepDA",
+        "width": 720
+      },
+      {
+        "height": 1008,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113946046092865303079\">Zelda gaminggame</a>"
+        ],
+        "photo_reference": "ATCDNfUgWxUCN80I4hUipze0w6RoNNYMZiwImRQiEtxCospc9IVGuBfRA1xkRI7cLjZCLA8QBFBj8e2UOfyCye5Z-EPshs991P8mDnSDn95T-Ti7X6OVSohrR-ceFrv8CDL4o9wnkBFqhWSPpCGqgmggrHAHe5RcjDc51Dbg0Ay_l4rfoJK3jfDUlsKxkJLd9gE8pTKEFyFNEuC48MrVcOBEz8uelo2i_qsWlsrjgZGZsHuun7G484n-OC72Ntjs2_9RtwYlxWEnaI4UunmQbNQpv2OnKS7dJHWBvMcrqyKOSJxjG_Kg7fIshf8__PD3Hh3xm47mls6mZC-NVxZY_QEttueBc6FUphXmrYalmaSWt_upfcAmXLZn1VOqVRTzUINBLTy_vDX3PKvVgPkJwKK3rXPMH7yS9Cqk5XWfFbF7jvh6DDVOgbYstEemqF0Kt1Ba",
+        "width": 756
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106617187694248384527\">Tutti Frutti déjeuner et diner</a>"
+        ],
+        "photo_reference": "ATCDNfWEd2vyLlimdy5Fsh3dK9h9mrbzz6WaOLlkTtHgyOoaQdQ9-z235vVFVAdWhFDg-RS-s8gIq80DlNwsQY0ZyQn9WpZVQD2xuoMQP7lv-X3rd__RRTUPcxn-3xW9WoChsMkDwNHJWB9PR1QvzYGbI2euIqVrNhYzH2A7lij7gWoSoE7KVtLgY_drff8Q9vlL0gBxM3CJDvXx9UlfNYfkgrwXz29oVAY-zmR3VSVqTMt4d0xsdFW3r7AHYVVoLLgVv6Fxi1HdElf0jYTgga9zU0Z5hRyLK-Q5k8BSWpf956WT0w",
+        "width": 800
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104791759527511479331\">Alexandre Tremblay Parent</a>"
+        ],
+        "photo_reference": "ATCDNfX9lYh6sijZ5jOgQXM5Dz0GUi_YKin9YS-TgOWo9w61mjuusAN6MAdT4jxTeU4z2kjtsjE9PwiU8FSXt1kxiCUCGpJJOrRsJe9yMJUj4NbuaqbSp7yrKHn6PplelqA5un1gpmDCtympYjcek6cIDry-C7PhXTg7Pnl9ECSgwZoESLDsA-G0l5cEyvCgSe0XXbcB9wfvf9R-zBWCQ6vr6xVk18lZskqQZL6RwF9lu1yPZfZwmFx36WBTQbws67iyg7A4BiKD2WshB9anwhpIVlrd04Ar16_rrmDiqwN6nPXB6H3bfuUGW0ueag1qJAU6F6q29BtNM_FjpFOOa0L5c4sineSs1NkPn4Mmb2P9_SkqJVLwvAJVW88ZMIhFzSDCXO21UrNqGK7SPzAxo7wZEytQw8dkayfjMaLVdbg67rbQ5w",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113149969439514849784\">Tim</a>"
+        ],
+        "photo_reference": "ATCDNfWgaBTLS-uNUsWMk7ezraKz4iu-Ih-oTHtoOt31y09vKND6EXjfv3Si0ZGy9busl4vnsvycyxGL3Lm4cL5VvEmuzp0HTCiNuGfL40yZo_pgoOpkOqmrz55I7SuNt_l_EJJOnq1yRS3NIu3UabSZ48jrs0INgPu0gUUrBNgCt29hnWDrp0pdXfVDRBMGhpnyk7SKq26u7k3hGur3lhakLcyKHMtxUvUhrBcoVkNjdLChBY22CUPta-6rl0bGJIbFpkTmcFKfoZ5eh8qerRkPDbBRm46KjagMDg_JmHQs76sBndooRIL2Gz2wBS4CVRt2KurLdJ8WP9VNOIt4jga-iH1BTo68iUeh_S1pTURkGC5oXy3jLj7DxeLhwOK55xU5kScxJnePMEi28hnSXnXMkj61keEsZ3AKzal5D3nNALbXow",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116357183955000433282\">Jenna S</a>"
+        ],
+        "photo_reference": "ATCDNfXAGJiFBXjtpvukjyRsKonNnY2NSP3kSt146V5aaLdh1rIUC302XyQdvuaNvbvbYGt-Psa21VHHRgu41cX6W9deaeA-wDL6WY_HLiu69x-wE1uG3_74xA7st2FJTzUS2Zq4K5PP5B3CSBYIyRNsd7aqXlJtCOO3nQsWjQAEyKeI8sDWQxc1-gv0KFLsjlcsYtW2EMGIuz781-zMpAOkuDuzeL7VrxgkLXqu8oPlfoFEpKsorDc64KpQ6inQLC6KW93d2PU_YJKjXCKf00Mgx-paOWDmwE6S1at9AHZvKUciIe9TjG2vpvRvynwfXDtmvy-A2z3DDyt7Xlyn1qE3laW86BwB_ypr15X7NChlK50Ys89C3GPjYshwnXX5HYIHQJ9EfqHXPVBsRFjxv7TXwRAb_bjK0B8A4QZrIqT9rdaMxR2qL3wPVY0EH9n3i4wp",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ0Uwe58o3yUwRE-qPJoP8eJg",
+    "plus_code": {
+      "compound_code": "CX58+5X Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX58+5X"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJ0Uwe58o3yUwRE-qPJoP8eJg",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I've been here twice in a month, first with direct family and then with 10 people. Both times we had the same waitress Caroline. Super nice, friendly, professional and always smiling. The food is great, prices have remained stable and the portion size is large.",
+        "time": 1760393014,
+        "translated": false
+      },
+      {
+        "author_name": "Dale Samuels",
+        "author_url": "https://www.google.com/maps/contrib/113467940273113460124/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt_rTy8GoZnMzwqvtiA3gCAxC37-MGNyCIAc58dJWAEfx8dcS4Fg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Very good place to catch a quick breakfast or lunch. Staff is very kind and patient. The food is very reasonably priced, freshly made and tasty.  Highly recommend",
+        "time": 1753721344,
+        "translated": false
+      },
+      {
+        "author_name": "Kanth Kanthan",
+        "author_url": "https://www.google.com/maps/contrib/112124225778940997200/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxfdsAKyuH7wWR-vSVOBuNVB6p3KWexlX_qdbWmYhf1UDxlg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Nice spot for lunch and breakfast. I got free soup for lunch... I am in Vaudreuil-Dorion more then 2 years.. we never receive tutti fruit flyers.. please we need flyers card..thank you",
+        "time": 1764961057,
+        "translated": false
+      },
+      {
+        "author_name": "giulia",
+        "author_url": "https://www.google.com/maps/contrib/115497058112742538976/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAdRstWRjjF0Ywtcpr0w8kZl_Pbhpf_M2U1AnK4CilZLrGHw=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 months ago",
+        "text": "We went on a Monday afternoon. Our waitress was really nice and friendly! But our food was terrible. I ordered a bacon and sausage bowl which was okay (I would never order it again). We also got a grilled cheese Benedict which was terrible. It was cold when we first got it, and the cheese wasn’t even melted. Overall not a good dish. But the service was good!",
+        "time": 1764622448,
+        "translated": false
+      },
+      {
+        "author_name": "Tim",
+        "author_url": "https://www.google.com/maps/contrib/113149969439514849784/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKz74BMaggPllTWgBAqergFH55K3VNDxb3HDQAywObTK9P4AA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Very large selection of many different breakfasts and styles.  Great for a group of people that want some things different.   The food was good and warm.  Generous portions.  The maple syrup was not real maple, and was a little off putting, but edible (consider Quebec makes around 40 percent of the world’s maple syrup it was a big let down).   The place over all was enjoyable, a solid 4.",
+        "time": 1695520749,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "0730"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "0730"
+            }
+          }
+        ],
+        "type": "TAKEOUT",
+        "weekday_text": [
+          "Monday: 7:30 AM – 3:00 PM",
+          "Tuesday: 7:30 AM – 3:00 PM",
+          "Wednesday: 7:30 AM – 3:00 PM",
+          "Thursday: 7:30 AM – 3:00 PM",
+          "Friday: 7:30 AM – 3:00 PM",
+          "Saturday: 7:30 AM – 3:00 PM",
+          "Sunday: 7:30 AM – 3:00 PM"
+        ]
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=10986808931188206099",
+    "user_ratings_total": 570,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 585 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://locations.tuttifruttidejeuners.com/fr/qc/vaudreuil/tutti-frutti-vaudreuil?utm_source=G&utm_medium=LPM&utm_campaign=MTY",
+    "wheelchair_accessible_entrance": true
+  }
+}

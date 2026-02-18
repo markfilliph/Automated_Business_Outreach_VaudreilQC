@@ -1,0 +1,365 @@
+{
+  "query": "United Rentals, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771337977.3063593,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1035",
+        "short_name": "1035",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1035 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1035 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(514) 613-5530",
+    "geometry": {
+      "location": {
+        "lat": 45.3723182,
+        "lng": -74.04415019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3735576802915,
+          "lng": -74.04294436970851
+        },
+        "southwest": {
+          "lat": 45.37085971970851,
+          "lng": -74.04564233029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-613-5530",
+    "name": "United Rentals",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfVz5CRCHuB7FOA7VSqo5s6AQkdVAv087fRidmbw_7-7TaZNd4YKgEVwCkolVYn7cUIkxtGDDWAxILcP9HtnpfefyomOXUXbvaRnLJw6YJpljTLz7JcIJHcYvMTON4-3cIve0pf0JSbcntzkF6vAJoMSwienRz3lqrfb1e39d6I0TEzNqpVxMXJul-Mu2IeB6gK5ZIvRtpSyIrbC4GurWseORaiV2IKh8iUuntTIedJckvonZy6KGvNKjn35Y42otaJd4fdItr1pNx5YcHuNE1uJaYV6PuEfXSS2_Zy6uYHJVQ",
+        "width": 1024
+      },
+      {
+        "height": 687,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfVRHTAliHWulfitBuOtNRFk43o1FFwgb51OoOnpwoWSFo-P9LrPKpYIGOh1l34AAp6S1HeXqn__QOSPFWhzGbxX5KVF29aKjeTJFLLeXdPiuU2pXRN2xuUY8NRqb2fqjJDbKAQiIsA3M8-FWUvig_kg7jOVCSJPp125KJKjHPUyU6m2rSQni7p-jbvHJCKpkTuyg8w808o1GCIc1YMdvYhpbJ8hKZm_BqadY9arycvvidHbJ3zXHFT2AHvtho1AE3eF0myZ-QpVaI1OulbOJiUIu9qs-94WUns3C0-lp3_UsQ",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfXV4dgt_8grSeDHzCDeqSSxuuBtqUuw5zmt_TBvsXshuW4VjXRxiKVqcAhBeTlflTKp5i_Lm7jlWVtcUF_axqXUrG38xMkp-8JqKzvqz2oC-auXCLercYFcOAweNQfoDLeb_0KvMMYezQulh62KyTK7XH2yB1yV_Ht1hkqEkkLCUp0BiRMPAilO1PthPiIMpmu2juXV9J6Ab3PUMgRdpqoee0GcdxK-CeHsaI2zA9vkL0GXDYqsIjyjYepMs2c8pTQqkVEWKRP2-rDVOJbfVjX4dUIxR2cocjsjFXgOR8T_Ww",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfU-McFl9FsGquuWxqF7J4D11l8sU62VW39MBXrR7Ilvnir2DFHJTiQx8QDGDJHcG2Usm9kkHEj6alUZca3bzvb-7NNUvZoGJ8N_wtZP735BlZV5fJuCz_j-POs5fOST2SjsPFgxz4MjXhOpzppefSQWbIpV_yXgdQ6GPkBENyMJqewq-qsM952YjwcCOdHYh-9ijj7D8DzAP55P2_M6Fc5C1k8RZjZYx6FXGRtY5KcM7i1DAuxY94fTSRlN3IzqicHHjOHbip5u7ddwSokBLf8rSLByNiyNih4VXMNpwGbpqg",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfWk_UPtsIpkoNyRx8pdveGPvimqxSWkUKmzJFytusgDGwfj76TJJQW5YohefNgj7Eu44e_DYa1zw2RvE9meI8pp9Hsqou36UKNFuEAJ2ke84H8nTudMOPIIxN_cdzUE3Ur8DrBpgfaI7qTC4Gf_NgQTzB9FIWfxJihVEv5ZvRTwQ7SGMCoySv_IWfSYpgGJrs_zzKfmvmOmkVRHDcOB9dp20MBFctBYhartiuULLi5GFNDTiB7vm-d_19gAeMoT0Z5iCeh_IrVsE1v_R9xpVNzpcMhwodQ-68bjZ-CK7uQB_Q",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfUuIcIZZpmB8Q_DaQE66HfzNGJeEEn3SG3-AGH5VSLcD3A3PpDpUPAmyY_Rn5I22oJAzCyLjO0qblj3XfAZDcEf8T7pi71aXpOf5CkQhhz3Q96zsbVZOydk2l7ooW3WPfLgX5ywcsmRxJ1pNHc-zsZ1UhCZ-txiA2rYfqsKumD1RDFZX3843AQoj1x1oVe0XAMcAe2LUsqAhqXmukwaPxWI8vXuZKrNol1kkB04jixuelZIZ-4k4ukCneZ2O3L3U_Z3paEOxv-jDN8T5I67V8ncEmP1DOB22ytuvkJIG2YoIA",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfWQB5xJbbnZA5txWjMf3MwLCxjnNgwC4ZDsI5TGT6IoAsLi3cLTRuLU6GjtagGS7XeyVijdiJQ5Q8hSeESw1GVOi22ApO0nYsc2cpeoU01RzYKMG47PEsD_r8nPGfxFTpBZCZ-pS2iKU2AcfLp9AaxCZha_YrWX6al587jzzhTYQm052DT8d7rQwf0R8K3e4Gs6nZdCqh3b2s_zaYOHVkVUC9396nHgts2AS2purr7Pdrql5gs8-gA_M3MOOtQIOjOA6uhEpoJ9uD46FkbtISnT_g1BUm4aOSSaK-YS_95KeA",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfXRQOgdwCMJcsP1IyvcuVyIdv5hZCCV_N9v_N--erd5rcJUMZqrMWeqJtKla4L0rt97yLvx8EmN00zuj6YuAbqQjGjx7WheOnz3ApxjHCm_g4UeMyAA7F7fHmP2OhKdGkHU88cH62MDTZzKZuhqXERmZ0ZBTT0yg6mnTfPUIDuJO0EpkeI-JWc689rh9FJGzwjYfEV4OEh7uirqcA_RtK58XKxbI-ciFgT_D4A9l1yLczwBo1iH1as_Q7b7ulfiNA8HXmIrKCthLlQM2WXSw75sZ9a6tELANwww_J-WDvSaqA",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfVDVDtST2jFB9eZMLj9SKreAoRYm6kv_o0WxudnUWMsd0JQEiNNE8dXAyFne1U_XR-ELns7P2jdijN7FgHLaOXzUqXYWh0XFNBY81N1IjXB2w7mPuGBLW-HPksaUc29x0H45SfJCyYO-w54hFaJYQPBx2fmsW5HaZBDicDAkAj06Ui0zrcqT6Fr1Rle9Bv_I29QlJnyQBfUm4XOJbJfr7D9qq0_5q9YtkNvlEIcfx_VmSFlYmk1s-Q2leYUmNVgNl1hsHJTUC3pH13095GXnPKqOwXJ9CfFV34darC5WhtVBw",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102793948669517240176\">United Rentals</a>"
+        ],
+        "photo_reference": "ATCDNfWpftHNrbDH25MEmX9Jz-11Erq-UqhXUebFbE_CA5wBBCRMi83LNb5Z6J8hBAylCkfqzPhofvyPSQezHgbAyj3z35gktmoHXL2oobqbOqPia7RhzcVEnsO2pxgYuriYQUAJVtL1mQNvdsh76mP-6Th0VuINjxkfmkSJwhXxv-X0nYQth98RMNtzDHfwAdrkq_6OMMj1LliobfUB9GaUfaKSm7Yu6pzVQ3lqGHNhA0NPyyZJ7ADyBZP--DPIF5tDOBqtlILj9VB0-iXD5VdYO__tyZnltuPSXaDXR69t2QFMjA",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ94oCEMVJyUwR_qetLuomHik",
+    "plus_code": {
+      "compound_code": "9XC4+W8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC4+W8"
+    },
+    "rating": 5,
+    "reference": "ChIJ94oCEMVJyUwR_qetLuomHik",
+    "reviews": [
+      {
+        "author_name": "Sefi Dollinger",
+        "author_url": "https://www.google.com/maps/contrib/110884562145212205499/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlgUlMCEFlLQpuU7wTcbA6xgQAV4QVsjZE0SMNncP3t27lWw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "great staff and great tools, super efficent in and out very quick.",
+        "time": 1760733754,
+        "translated": false
+      },
+      {
+        "author_name": "Bilal Sultan",
+        "author_url": "https://www.google.com/maps/contrib/110546185731999782895/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXwOGReQSY-3pAYcjcNien8TPcfXRq_D_-z6zTeoI0exdAKA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "",
+        "time": 1760764329,
+        "translated": false
+      },
+      {
+        "author_name": "Awais Sultan Shaker",
+        "author_url": "https://www.google.com/maps/contrib/117513436287243541593/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLf0hbkBXAwURCv0nA-3htD7gUWdB_ywT-4qYoM1e0fQS-EJA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1717032795,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2962848392103700478",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "1035 Rte Harwood, Vaudreuil-Dorion",
+    "website": "https://fr.unitedrentals.com/locations/qc/vaudreuil-dorion/equipment-tool-rentals/19c?utm_source=google&utm_medium=distrib&utm_campaign=yext",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "query": "O sur la Gare, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339726.1471076,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Bureau #104",
+        "short_name": "Bureau #104",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "50",
+        "short_name": "50",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Toe-Blake",
+        "short_name": "Rue Toe-Blake",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3R6",
+        "short_name": "J7V 3R6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">50 Rue Toe-Blake Bureau #104</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3R6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 1:00 – 7:00 PM",
+        "Tuesday: 1:00 – 7:00 PM",
+        "Wednesday: 1:00 – 7:00 PM",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 1:00 – 5:00 PM",
+        "Sunday: 1:00 – 5:00 PM"
+      ]
+    },
+    "formatted_address": "50 Rue Toe-Blake Bureau #104, Vaudreuil-Dorion, QC J7V 3R6, Canada",
+    "formatted_phone_number": "(514) 291-8620",
+    "geometry": {
+      "location": {
+        "lat": 45.395681,
+        "lng": -74.049386
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39702483029149,
+          "lng": -74.04793401970848
+        },
+        "southwest": {
+          "lat": 45.39432686970849,
+          "lng": -74.0506319802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-291-8620",
+    "name": "O sur la Gare",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 1:00 – 7:00 PM",
+        "Tuesday: 1:00 – 7:00 PM",
+        "Wednesday: 1:00 – 7:00 PM",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 1:00 – 5:00 PM",
+        "Sunday: 1:00 – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1361,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113231672757617463069\">O sur la Gare</a>"
+        ],
+        "photo_reference": "ATCDNfXZrsxAmzgAMFPlc7dXCQlWWUvUGSlywHsEh3CsBagfS20GTXRO6BlegoqvACh7iFI9uCe_2zMWQcUYJu58E0WnDjxJMeeH4fe1Xumxi7ZhabiL3GSIvZFx_1IRL0BWshbnKmRBpov2byqPZpFfdCuTtg_n-2NqtTPwkCjxsaps8vJJZ_OloVPJM0gxwLtyU8UWkAvImCWsJZgUMTo_7aGW6ID1QaCWtSKlNASl5AbJ-qj284ZrRQlINvnF5UFor16HgauJCBZW6Bp5YBQ1zhTc9bNQgBnQSMioKAIg-IC9AQ",
+        "width": 1720
+      },
+      {
+        "height": 1364,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113231672757617463069\">O sur la Gare</a>"
+        ],
+        "photo_reference": "ATCDNfWFuFbJjO19gOQm0gi7_G3eK26lZbpDdkqAQ6g4QtRC_LC58K0GfE1Zg_NIaNqJs6TBFc15tuUXyyWEUMeurP_0DKsitFSM1bBwrA99__Ya1eO6sPGmIRLLac4LLFww2QCNyFROE398nqzfh2wHFsiVBm7TBgP_hXs1dYSkCyXMtVRQiTMhd7hU8Zj35V1OK0YapCQQPgdvJO1rxPLlN2xjfdW2WnkEgrHP58Z9FlvHSiHnAhLW7HjtxaqExx0-SzvmxlSi5EApvS2joTCBs0qFplgWCpjNlf4Gpr4_L0Ghaw",
+        "width": 2048
+      },
+      {
+        "height": 1364,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113231672757617463069\">O sur la Gare</a>"
+        ],
+        "photo_reference": "ATCDNfUtFXxhrcv-Fngb3ULN25qtCbgxXbzIJ7Pp78CcZSXWkeg4GcoQqgO-D8C0Mp6VVOBmNe25uMzf6_y1Rc341eC80FFW4HdrZeyzFn1LyOokfP9ITxVLq3p6dS4tSoEWI3N0j3jShYcJteN1LtehBnhyABO0FGfN6ehdiMt-4IvlcDafbj5f7UC83WTNYQFk4kaSZ90r4yhXZR-jdWrEt_5ulLn7sCRfxNdGy_6uyl33jv--_ba49DrwAaRO_Du1j2w7RALsdKJHXvZP-k-uQ9IKPRxrfbOH8u-wlmPZlM2n5Q",
+        "width": 2048
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113231672757617463069\">O sur la Gare</a>"
+        ],
+        "photo_reference": "ATCDNfWGJLudOFOxEfNdC74HqUl2QDWy6wPlde9iqzrGCxXJoDaoc8xyxc-CtFXm73_YcCdgwTmHA20lTYBqEqae3Dr8LQIGOiOmMT_8YnvhMR3f0Jy4eSugObsKThdfdIstgtZyWaoR6VeIlUqPbVC3cMyrMN26vEwUbfdeBOehKeAPveN612Y3SQTY_7f1zWEBA31F0YU9sqWo_rqyREEI8G_FzApsFmqLf74US9OFCasA0RKkqXwbB-tEN_NuwOXFOXE1kga1te70LuelGE4pelAXOpkuc8bg0ogXCd-ohDtLlA",
+        "width": 1080
+      },
+      {
+        "height": 1364,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113231672757617463069\">O sur la Gare</a>"
+        ],
+        "photo_reference": "ATCDNfVUjdGOU1LoKF6_AmuHxDVX4o7c9qZA7_V-cKAOyauZK1iH4faYzrSWiL9P9tZeSVlP-xkRfncbQU9Q-s5S91lm4JYZUPWFa_9jZ3bAGWau2I9hfXQQoRsrTOABans_5VQZyMvj8qoqdPNwBkFoEp4K-D6AHwJTDq4wdOkVi7YvY2fva1weAAkVs9XrajbDxgQlAD3uYhWD2d8AjJRZafDhfvNjaLGVv_REP5xfPDT9SIa_jTM59XZdKdWp103gmJtF-dPH2fdaqjQP340eT7Jg65L4n_Gi8A9DO5w0GIkpQQ",
+        "width": 2048
+      },
+      {
+        "height": 1364,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113231672757617463069\">O sur la Gare</a>"
+        ],
+        "photo_reference": "ATCDNfXFdmirOYeSUKD_T1VNA5GsfNj00d_ziEU6bGu4kNq9K33G7jVHqevAqH0V6Iw2pZ2cuIiBdtQRCdZ5ZgR_En7jGuz1WKoFYGhms7sjIev7aWDEy4mpF23hIbA_Vhd_39PVRwIOQbe_G5mKPSXEgP1KqeC2sA5xYfX5n-sRXc6Dl3_jrkzyQzxqTsAKWlNm_nhaz0db77IbocDHXzjId0xfvMzIitwNjHZl8wmIffd_eq9PMGvLlnjNTjaxeuzIzFgP_n8zZEnpIe-7wgs7HVTbVl1GAsoCPolciMxLSgJltw",
+        "width": 2048
+      },
+      {
+        "height": 1364,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113231672757617463069\">O sur la Gare</a>"
+        ],
+        "photo_reference": "ATCDNfXDZBXVpHJFTjAj2cvC49jgngdEFpv12CHoFnN2n2UMSk3OeNy5UGYRZG4x3hBE0hJDofuKX5hOK-UHYgucjYvFvn1ZuRp_dNm6SxonL8KJS15CERRtKW6tUCI5hk4v2-CpGc-flLvGmsRc6PW6nLNPYDJNcugNeH_DKVYUUkoq_j2VrcQazQeJQR7ee7JrN1tyDkMAkfuouN-cM2MN2UDdOZcqZQQcrA3EO5iXWOkj0JIJXBVicskooVBMta7XqzAQaVf-Zxhg-a977pGDE98gp77TOGNN1gDG5GA-8kVKHA",
+        "width": 2048
+      },
+      {
+        "height": 1364,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113231672757617463069\">O sur la Gare</a>"
+        ],
+        "photo_reference": "ATCDNfVgKLc5warO6EQHeUTrfhq7B4RRCgfuRda-fOUrIlJG8YFsfZgpLlv85XQBFubK2b6oUWZf4q8XMmfU7PaNrj77qWu4cEZwAs_L3EFTurLWBwrZOUBzmOMhoDwEuyIJbQj-U6YNw163K5XQjLNDCAbXzV5FwT7aQ4hYFMuz0jzQQx_lVhlNgA0HKkQc83lSIA7jv38cvwdcl-UKhtuTj4hTIOngNc7PUQGfq4m_W2b8vGUmEpt2OPtxvhIXtm6edJlDPr-GFohgkQJEhjfSCgqQV4TBZi66m2YmcOoDkqoWKQ",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJa_bbxgw3yUwR3BDdMIETt5Q",
+    "plus_code": {
+      "compound_code": "9XW2+76 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XW2+76"
+    },
+    "rating": 4.5,
+    "reference": "ChIJa_bbxgw3yUwR3BDdMIETt5Q",
+    "reviews": [
+      {
+        "author_name": "Jean-Francois Duperron",
+        "author_url": "https://www.google.com/maps/contrib/104252480102443150528/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIaB9t0w72wrCJfOCPoDEDmUK_TgFGxuuCIh8NIVfpJsdbGHKr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "",
+        "time": 1759953285,
+        "translated": false
+      },
+      {
+        "author_name": "Andre Carriere",
+        "author_url": "https://www.google.com/maps/contrib/104103579377692563421/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLVlsopOx3AwfU28x4iiB51PXQ1EcV2m8o9ZoJf8mA_4a4n3ek=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1729113161,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=10716055283942887644",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "50 Rue Toe-Blake Bureau #104, Vaudreuil-Dorion",
+    "website": "https://osurlagare.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

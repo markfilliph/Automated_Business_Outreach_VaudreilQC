@@ -1,0 +1,400 @@
+{
+  "query": "L'espace BM3 Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340313.5815492,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "102",
+        "short_name": "102",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "180",
+        "short_name": "180",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3V1",
+        "short_name": "J7V 3V1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">180 Rue Joseph-Carrier #102</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3V1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "180 Rue Joseph-Carrier #102, Vaudreuil-Dorion, QC J7V 3V1, Canada",
+    "formatted_phone_number": "(450) 455-1119",
+    "geometry": {
+      "location": {
+        "lat": 45.4095117,
+        "lng": -74.0445196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4107160302915,
+          "lng": -74.0430275697085
+        },
+        "southwest": {
+          "lat": 45.4080180697085,
+          "lng": -74.0457255302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-1119",
+    "name": "L'espace BM3 Vaudreuil",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107242357729335753029\">Stephanie Liteplo</a>"
+        ],
+        "photo_reference": "ATCDNfXHSTrc_TczNpcDc85dxSJC8ceHv86HjSdXh_yPN_3DuoJGmDosP6kvRO85IB_P5HqibJojbHzCIl9qsM9Mw-ElWDsYMTB2ZiwVwOAIqYcuth1yEbN8hK0xIG6ke1EM7KsscDh3SSi4K6IwNOFibhvIY4edtq7fzzqdOkWca4fvATiXdnfpV3V1RtZq673C_r7C9r0-44cD82PTV9XnNNSx51-eN2t6aC8BmhaTi03o7ymcHTxU3nmq1ywVASraIeB6ZffNuDnlfGVpjt2Ae9F7FXzOt33ZI6j7epYMD71bjaaEc8YwAPaZW5WdHgReJZ8X2EmCBTG_AEWpGaQuDnLm8T7GGghOkaS8HWux18vZjz8_pzem5dkISrsw2gR8IyxLk297x4g5DWNSEVSfRE84XvhlVvqkHlUlzl-T1oWfof1RP6Rez6zf42X80tOD",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103912152139995491\">L&#39;espace BM3 Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU8oGQj1TOpwpz95tsCZId60eILcF0ltgBU--i1GlIBao_ZBYGpO6KqA6qp7rW4q4z-dyfF6afPSdH0yqPRcVSJjc1JHLYWC3nn4r0wRbTUrWuxbsE3diDItHg4DwLrG__AVSivDmJmnMZDD83RGOzzlJEux5BrMel2BdEKP-YbaULqBUVvULmL7jqWBUsAqlbGO5by8ZkZ-hcgNGgE8Dbv6maZp-43ROiU0GYu3Z4tY4ZCezujNWyP2_T4yzJVSoyfHomjzTlqaA4Az7yLF8t2oQjmKelcT6XnnA82nOr8vw",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103912152139995491\">L&#39;espace BM3 Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU7RiXz0POQeWylXJ8l-q3NH5yK9iHqIb3-E9rDDFwGT4v7_oR3UhE5Ay2ulYZzqx67TxzbhD8ane2ToMpWF4SL74xjYBkAzsw0NDIs8O3n39j_uGaVDyMQYVuvEmiu1r-sgb71zXzFzFEIY63zTE3mWLLjojIaW7rKBIh3ajRJUWz_2b1Zmn58JcOH0jZuZjMg2Sofr7YpHTCpk092tlftxu3K1tCBQ8tM6XDj9j34DScSZV2jVVTvxi7sJI2sOPxrx5sh4tWVokQDiyp8msbyDhcuLAMb-DtOkngz-Ao7ow",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103912152139995491\">L&#39;espace BM3 Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXCStZb7Z7TNJp7-gBgTYfpDdCA2mF8XkrHUDE-94YM9yG-OPTUXNMIDnMSNZgvGlIJrW81on-jpmQyfUtO0D-w_Lty1x-_xebZmXjkZyPp2PCdy9YAnafxFJQhj0r_kyg0p139fCMONtGU01GuvufjfINVOwOYWSLwnownvuaPBE1c55-55TPzs9vNFI9Qd-Py9H6R-jT29I3Q1auscgp1DTIclPdiQvl-xNdFfBGHmIZH66nGJm83pTVIaKiY3DDNKbY_vx8is6kChCZWPMq6EmWTtTMdLnqi3uMq4teGfA",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103912152139995491\">L&#39;espace BM3 Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXQBWOwsaBWcoxG3EZFelaB_AUsBVoa6UlwKIuSz9oxovBw35-xidCk1NWDqqhTJ88aOjHxjtyZz4b32_9wlCeHpFd95lkmAB4V6Dmtbpu8xelund0fyVsO4NH6nTf5fgKVI7ENYyIaVjlWYSiFxBme2LBnU9pDTX_WGHh4QkCvmCNm9nwUel91YYRvo7LOLEsTXmtLzImR94JYmFHMH-TZzUaY64rbk38gh2X7MHcifY-dg0pQxcVfOqzxsClRp6YOvxWJM759PLgGW23yOUXZlD8MRyG2AAxsVLZFxgiA2Q",
+        "width": 3600
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103912152139995491\">L&#39;espace BM3 Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXyH2F0TW2YxjEuBHEhFBDx6VJqq8C3tWCfUUUfnQQr8vQTjrDN7DO553PEA94ds0YlfphVGIm4sF0J4J5UiKjmkMEnwWUa5BcwSpfuGLDTIazzbldbuyCRI5JLLksDyBr9pyePap6ORwdjzml5SKp79DASjfWwGhYpQaw4dWR0KRIDNwqoMM5rxeYrB5guyLkioBczDF7dOOogWjACPl3T4gDKOgjE176_1IojOQCGoA1-7aaZjEi-Zi8RZHNh6OvNkXfB0_6z8GYmW77LIBz5Bh9eTD_FrrgjdgbWdqsK8A",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103912152139995491\">L&#39;espace BM3 Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWlPzRlROUXnE3woBkMbKo7GWVPT0xIbR01982UddbZD9y6rH8XpkMnCsLG3HIGmvSefP3hEOb-WGEzP-HfhJrWES1H7rzEr77fduzfAQg5yfCxNn5I4fuDkWBVQb2rDPS37kx_8KAK603XOmwgNxkyRmRLD8CKW_XGDTwVmHjCjez4CQQ0BE57U74VfsC4y_cnRZI-f1ojQcYgAaA0weBsk2uw95s_JwQc7aMvPokl31MuGgycikzcMpDrVO0oVojz-vZreuh0_v2DYqtrE1VrcZn2GxAR9LLY5aw5PM7bkA",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103912152139995491\">L&#39;espace BM3 Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVLA9Da5VU_Bod01euNNx5OdzSvB9Dd-o3TJbCIlAMwgLVD3MC1Pf-MYhEKN8J6rBo8MggGJdzy7heyUJjtGdlER894fCoQ1zhbcYXsP-pMklawK6Shj7V__S3mU-eukrKtvzAKtLEL2V1vH4xk9kO3OYXGN8cR9MSx-fsYOTyUdHHYYvHjLMDAyCkSoZ1iRyfdMxskSveia7OBgoYH_6jsFrITyjbIpf5nR9VpopOR31ATNzHQEAe-7W7jfOoQhTYqacBHIyQolhp-Hftl3OffAqMfH5I_suTwiODJ37VDeA",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103912152139995491\">L&#39;espace BM3 Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWQmrS9mo2nBIDCWVyyK7SLwrfolWj_uEIvqyfD1-MPrEx9iH-XYUnxKTFuJBoVlcagIjVR8clrdqMgGYQmphFLrQgYM1deqO87paW6O_BpQl1Kc3uI1ctHw23HAqhHS4vajctowBfEIZjsz9Ld-hNiN4K2RsT6RCRMo_Pd9k3xnxk8NF3a49jFUiFIFlHSVEZ63PPKkpXOKWS6SSszf-64xsKP10xT9AygumX4fmPQfDDoZLFUhJQVIviUku8CVV6aQTBMQ7ytV5GaunVl0HqG3LOgBf4_pQjzPnTfZGiNbw",
+        "width": 3600
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101103912152139995491\">L&#39;espace BM3 Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXh2E1h-Q8HzxP3Bptfj2w5Tjvz4nsiAZ_8LRGNvyKbIyeFEIPkrOEeesO3-1B0jgoAGRdo8IkqrfNXRw2apjb6rNC4_bGNefDQZMxVvFJAR9oEv2eMU89uhk7UKs21EzktBA3pf-XUoepPMYwskDZ5NdDcilLdiX0SN5tpyLT1cWfNWqW5M6cli0ZfGLB2pbjtkQL9x1IXpSczh9qLFdCCkXhe8OyIq53_CFphEFzg90Hg5QuDI1YL-C4-LmBUK7_kHi1mj44mSiXHd2xxmllhINJZOSMt2kJLlfaui4k0jw",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJUak-chg3yUwRydUtOVgHIFU",
+    "plus_code": {
+      "compound_code": "CX54+R5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX54+R5"
+    },
+    "rating": 5,
+    "reference": "ChIJUak-chg3yUwRydUtOVgHIFU",
+    "reviews": [
+      {
+        "author_name": "Stephanie Liteplo",
+        "author_url": "https://www.google.com/maps/contrib/107242357729335753029/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq_AVO-25liiwXk9rtr-qtKBg-2yzewJLpslq1Q5N0cmOomg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I’espace BM3 hosted my surprise party this past weekend. I was blown away by the beautiful set up.\nThe communication and professionalism throughout the process was wonderful but I was not expecting this level of set up, It made the day even more special.\nThe space is very versatile and can be used for a multitude of events.\nThey are obviously very experienced and organized.",
+        "time": 1765815658,
+        "translated": false
+      },
+      {
+        "author_name": "Carissa Thomas-Desmond",
+        "author_url": "https://www.google.com/maps/contrib/112687730486445505529/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWs-EbIYaWnqSSJ1uy6zeNULkcDRKNuotmMiGDR7SJgSY5GKQo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "absolutely incredible woman owned business! These incredible ladies came together to give my daughter the best party to remember. Laura and Cassidy were animated and friendly. handled every situation and child with patience and care. they embraced my daughters love for science and went above and beyond to make her day special! highly recommend and i personally look forward to having more parties there in the future!",
+        "time": 1759858386,
+        "translated": false
+      },
+      {
+        "author_name": "Kajal",
+        "author_url": "https://www.google.com/maps/contrib/110884425141280833690/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0SIjUNteOK9lihDrGZotiKsDmrR5fkxGzSyLTrzqCAlMzlA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "What a great birthday party experience! Amanda was amazing to work with, great communication and so nice 😊 The place was beautiful and perfectly decorated for our son’s 6th Birthday. Everyone of all ages had a great time. Laura was amazing with the kids 😊 Thank you BM3!!",
+        "time": 1762356531,
+        "translated": false
+      },
+      {
+        "author_name": "Susan Collins",
+        "author_url": "https://www.google.com/maps/contrib/104413917164157781200/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCm3fC6xM9quPzY6ZzN8jHLj6RopM8A2JCBI0mJ4bGIy3PsA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "we wanted to thank you so much for going above and beyond to make sure we had the best experience at your space\nfrom the beginning to the end was a great time 😊\nthe balloons and decorations were amazing\nwe thank you for all the extras you did\nwe highly recommend L'espace BM3\nand will definetly be renting again\nthank you  Amanda , Audrey and your great staff\nsue and george",
+        "time": 1756914941,
+        "translated": false
+      },
+      {
+        "author_name": "Nelly Epshteyn",
+        "author_url": "https://www.google.com/maps/contrib/115070249878455184365/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO7OisQl31bHRSDM29jh_EIiMP7ItCYuVk5GUR7RYoQpOZug=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Amanda and her team did an amazing job hosting my daughter’s 7 th birthday party last weekend! From the balloons, to the decor,  the staff everything was perfect.\nWe were all very happy and my daughter had a great party  👌",
+        "time": 1763579026,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6133910767976437193",
+    "user_ratings_total": 18,
+    "utc_offset": -300,
+    "vicinity": "180 Rue Joseph-Carrier #102, Vaudreuil-Dorion",
+    "website": "https://lespacebm3.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

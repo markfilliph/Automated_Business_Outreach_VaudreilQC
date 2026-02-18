@@ -1,0 +1,330 @@
+{
+  "query": "Paulauto, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339343.941939,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "144",
+        "short_name": "144",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard 5e",
+        "short_name": "Bd 5e",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Terrasse-Vaudreuil",
+        "short_name": "Terrasse-Vaudreuil",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5M3",
+        "short_name": "J7V 5M3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">144 Bd 5e</span>, <span class=\"locality\">Terrasse-Vaudreuil</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5M3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "144 Bd 5e, Terrasse-Vaudreuil, QC J7V 5M3, Canada",
+    "formatted_phone_number": "(514) 453-2177",
+    "geometry": {
+      "location": {
+        "lat": 45.38867519999999,
+        "lng": -73.9868784
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39012098029149,
+          "lng": -73.9856094197085
+        },
+        "southwest": {
+          "lat": 45.38742301970849,
+          "lng": -73.9883073802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-2177",
+    "name": "Paulauto",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109438706681242414466\">Anissa B</a>"
+        ],
+        "photo_reference": "ATCDNfVa63GYsueyS2ie5FjwZZlDRN6BeXRRF1anI8WKc4PxkD-MPt29Vyhdn1WuYFmO4fx12NovcfPxVA3jfdZ_CPMw7G7hsjZDLpaQqa606eDSAznh3I4E6_V91pavTYsCzUKdLO3azq4oDaeU3pUr3hgCmbb0Dwz1wheNYMhRNkMDgG8ydHzoxnoSvkS-6-kBIQ3whPkVKsKf5R17ll4Xm5HOsxb9F_UGmEWSBgrooqE4qd0h3pwc6BvevmKYSc8fd2vbdtxZOgrnfjcGncpKRnD5Kd4Kb3WD6AC04sOigTXDBT77rS9uuHxxGc0abOKf0nLFIPpHHtjaVfUAd-G6Asyzhi98hkDEbvztlpa8pzOOybwWisWVUc3mJSaoPeQ4HEEyup5NBTI_dFjxctrmzxq928CFCQP20jD-dm0bMt1ybQ",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109438706681242414466\">Anissa B</a>"
+        ],
+        "photo_reference": "ATCDNfVCud8zXNpECX-hJz9QYrw35Sm6YqjPK53dLzaRg4xLD8euhYxgF4XEp2c0pP0PNbBHeM1qhVc_KECamYNZHaTDk1RtpE2lanA6y55EUKWNvv6Im73KS4GUAAM0DqssB_Jq8sbKyhrvfTaiokaQVuERPxL0tsbUC0ZeExZTYXpdBpcAZXDT3q2RQ26UP0n1i7j9-Flnlm7xCQv4JkI0DtE28NC5AX7H5AotPEFk5Z7G_1RKFafrHplbttn48KLzG6o5Dny79r2CZuafEn79dRjyw0IGo68r8_K57DqSSRRnhIembvQN3DJHOe-HoWI6CEP7x7-FxYdd-qGKGWONL-RCQjcNNpTC9Fg7X8JRf9sSYOwQbr2xmM3PTS84YqjYwzzd8iHS6RWDq2v_UMPNGEI5Y06HNSzcy4MIL1r3JJo",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJn4J_wwM4yUwRoIIS85omQqM",
+    "plus_code": {
+      "compound_code": "92Q7+F6 Terrasse-Vaudreuil, QC, Canada",
+      "global_code": "87Q892Q7+F6"
+    },
+    "rating": 4.7,
+    "reference": "ChIJn4J_wwM4yUwRoIIS85omQqM",
+    "reviews": [
+      {
+        "author_name": "Dan Lauzon",
+        "author_url": "https://www.google.com/maps/contrib/114455884734504923301/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7Ph7um6rz_aaMkKME7MCLM9pDgGI_M4b81cKijTGjGaIyWQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Excellent service, friendly staff with fair pricing.\nAfter dealing with Paul and his crew I am NEVER going to the big guys again.",
+        "time": 1732585093,
+        "translated": false
+      },
+      {
+        "author_name": "belegose",
+        "author_url": "https://www.google.com/maps/contrib/117134086794019687640/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8-PpzJg0kv1OjLkYfr0HjxiIok86AzC6-MLpx8q4r5Q3NAg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Heading back from Montreal to Toronto, sick spouse in the car so really needing to just get home, when the car starts making an ominous banging sound.  Pull off the highway, search maps for the nearest repair shop, and see Paulauto literally 1 minute from where we are.  Describe the symptoms to the owner who knows right away what the issue is.  Given our situation, the woman in front of us in the queue gives us her spot, then sits and chats with me about her garden while the guys do the needed quick fix.  She describes that the guys in the shop are experienced, capable, knowledgeable and trustworthy, and she always bring her car there.  We're back on the highway about 45 minutes after pulling in to their lot, and I got some great garden tips to boot.  If you live in the area, consider yourself lucky, and take your care HERE.",
+        "time": 1496347071,
+        "translated": false
+      },
+      {
+        "author_name": "Greg Rajewski",
+        "author_url": "https://www.google.com/maps/contrib/114625243787701102864/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPW_dfMeZwzyJWY1ZoULxdXTKlYkM2mGKjStKTiMbI0RP6l_SAsw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Superior value-added service, reasonable pricing, competent mechanics and ... Paul. 😎 I've been his client for over 20 years and have NEVER thought to go anywhere else!",
+        "time": 1553906203,
+        "translated": false
+      },
+      {
+        "author_name": "Elaine Abbott",
+        "author_url": "https://www.google.com/maps/contrib/110532882100188643407/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwFj1Q8dWC3deNr2G0NLn5IHBI0ASAUpGpZbAWQ45JdnKlKw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Paul has got to be the only honest Auto repairman that I have ever met. We love you Paul",
+        "time": 1699096122,
+        "translated": false
+      },
+      {
+        "author_name": "John Matheson",
+        "author_url": "https://www.google.com/maps/contrib/112827181115599515034/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq0CTz6PQWtN721QxOHxm6411d5Vw-3n6sHAjaSrVQryLNLg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Faithful customer over 25 years. Wouldn't consider going anywhere else. Friendly fast competent and economical service.",
+        "time": 1640880241,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11764007623590052512",
+    "user_ratings_total": 38,
+    "utc_offset": -300,
+    "vicinity": "144 5e Blvd, Terrasse-Vaudreuil",
+    "wheelchair_accessible_entrance": true
+  }
+}

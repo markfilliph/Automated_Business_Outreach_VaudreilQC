@@ -1,0 +1,387 @@
+{
+  "query": "Pneus Mobile PIT-STOP, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339185.882237,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Rue des Roseraies",
+        "short_name": "Rue des Roseraies",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9G4",
+        "short_name": "J7V 9G4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Rue des Roseraies</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9G4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 1:00 PM",
+        "Tuesday: 12:00 – 1:00 PM",
+        "Wednesday: 12:00 – 1:00 PM",
+        "Thursday: 12:00 – 1:00 PM",
+        "Friday: 12:00 – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "Rue des Roseraies, Vaudreuil-Dorion, QC J7V 9G4, Canada",
+    "formatted_phone_number": "(514) 616-5743",
+    "geometry": {
+      "location": {
+        "lat": 45.3899112,
+        "lng": -74.0340173
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3912330802915,
+          "lng": -74.0326919697085
+        },
+        "southwest": {
+          "lat": 45.3885351197085,
+          "lng": -74.0353899302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-616-5743",
+    "name": "Pneus Mobile PIT-STOP",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 1:00 PM",
+        "Tuesday: 12:00 – 1:00 PM",
+        "Wednesday: 12:00 – 1:00 PM",
+        "Thursday: 12:00 – 1:00 PM",
+        "Friday: 12:00 – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117149945184099164902\">Pneus Mobile PIT-STOP</a>"
+        ],
+        "photo_reference": "ATCDNfW2YJuBHdaGjjV5Ad0nntTTXnfuoFQwtmkllqVKOF_yUaFDwdTOWKDsXZp7F2azk7kjtNynFfXLSuy0dtI8BlDOrcP0Ya8ho8zLwNcx9b8aLbhA0zO39J-zVeDv2mMDgJyG0s57wgQbCDdBYJQJsSf-Izww5yPZuTZgRzRAjgx2bKJm-OWzWeOrlFqnnSLu7KN4wHNPLUg2hEzpoQMB01PvAq870UhGsGZyEh2NswAi1yBGdvSSzOtpKgD_dRgzkgRExZWrGMt5g-K_wGBGBnSpQg2_emRZChxH3WrwhpdpZQ",
+        "width": 1440
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114699804166446974235\">Cristofer Gabriel</a>"
+        ],
+        "photo_reference": "ATCDNfX3ObbsfEyD2j2Xk8atkPu4pvWLwKAEddR45-bjQcwUS9SQ-XYX1ovr6qPOq7oC40-x5HqTHCpiUaBQtf1coWrj8PQlTpuKtk6OiynzHcldQlLuxdfei3FUryQ-S-biTxR5PGj-febNIaOslbNCQOuRgFKarmrICHvAwQlPLtBdffrVX67KDAI_4MtgL2hss4gyYxHops8l4REbU114wqzVNbQcSLsnp8dMIKpM8feI3llrYS5v5e2kVUmse7WK9IH2h2mL9yMafXzzBqFaCQH6c9AGds-JC6iniiCugPpIUf3LUxbJxIMN-dLV4wtsu35CXDNJpLrM-mp5IeGd02HsrM-MgwmY4n6gALzq8rIzI6yp0T7Ra4npW6HyDGguN4-B0grZ-Aqz9xnhl2lY6TqpfihjNWceaFpVGQIZPkFonpdm-84uxMfUvtqDlEwt",
+        "width": 3024
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117149945184099164902\">Pneus Mobile PIT-STOP</a>"
+        ],
+        "photo_reference": "ATCDNfUVh3F4fp_Ljl3wH8deOp2fOjm4BinRkKerVutULzIVit2VNXZ2vzF6Oa0ZpDM1RYxmMytsONzOG8e4HeX9g8ZeLzSW9Z1TGrHcS_iKZPBLJETyWcmkN0qTxTy_kae0vX8Xe7KnYWaLhK3XyF_5qGxN742e1nAuVWazvXmqg_opwowSitRVTfZdScgaXerMVvF4XsZNqqi9Dt0VI4LltO_hcSYHdU6rwrPMrY0i5t7iehkCx7FhaYo2k56ucVyjRvGPfWzyt-qVJBgRI2o79lKY6km1UgY8YjNXcpFY5LMpXA",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117149945184099164902\">Pneus Mobile PIT-STOP</a>"
+        ],
+        "photo_reference": "ATCDNfV5GhhMvucst6otKg3ETHTXQKVJmaJuNLZLy3HfrJykoeMWfKCq9XcPqiFysD6YisN29U6z50AH925dowpyEft7vUDyzRA8Wmz-qP9JXL8wpDoTZgtM9p-dFrVnplnVjCku6QRWdLVnTFa21U2XI9AM9TFKUCCvxtlKJpjfqSvnXrgll67VnI-V4RkJZuL2xueTZJ83WOORkwHVvW6P9MmGgizwu_qvhoLhDPou6wWj8B1z4op_0xCWuJF7LEv4x23AejQp0hsWfw5n2QssYAtGekIe8eUV_3cMMjrZEl6kIA",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117149945184099164902\">Pneus Mobile PIT-STOP</a>"
+        ],
+        "photo_reference": "ATCDNfVMZ9Q6vX7yHnwthGOSLUP8NNdQc8yyTJG11rqQjEnNt7H_xzha34GtR9EBMZ1LQVGdKSjGTTs6pHkTywBnCqcpm0H-7wQ3UGik1W6TpGG47wcCVKbVkdvnJTCXJOiYoK4AcvTHz-SdVscYk0Z7os_5a00jB1TGSZEiWAjCY6-GzwJesUf3TUs77r0dwJfnKtU_tYSh_Z0F5Sz8mAovhu61yUHUu3bDVJloI9UpwqI9y9Q_15nAMXzjaPAUCHCHlFpn29ZJmIuvHZ52zVZNpKWrarU058255yv0m5v5vrShTA",
+        "width": 4032
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117149945184099164902\">Pneus Mobile PIT-STOP</a>"
+        ],
+        "photo_reference": "ATCDNfULUpdZrrUP8JtXcWflIN0cNdQ8RKsvcKO6JVvPLt2J33cXq4Kj0LZmO6mJgeb0x7yiwjF_yjmfjg9x0aHBuFc7AskzIWMJyCA_jrqGWiH2OFkbWcFuuBey9gNAXRhsOv2t7Fycpelco1trZ-6_mPlim1_t0qSHKmY03FswL3YJLzlTnD2z3uwWsraaf7MzsSOT_3kaw3tpZ-Py_jrs09933Ljcx5Zqn8SSKzdGaiaeH1ofsfk4SO3nimrnbgI3POHyPUbRy-FihPQEoiQ9_yrMiu2mFSuCyHoB9cwHipPoXw",
+        "width": 3999
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117149945184099164902\">Pneus Mobile PIT-STOP</a>"
+        ],
+        "photo_reference": "ATCDNfW1jPaQzaApgHcNWDOn_50L0CQDJu3_4UiwTHilpfbYIkF-kwsRaGNl5KB9sZGZM23DoypV5KAgm2ds1rypQrg8zCZHMvR0ANJ66XBbt-DNg8RV8qAT2h-qsc9lAGfuvcFHSwYcVs9xXjbvoL9IgqxX2Jyu5bn4OtXINMhGJYsLJe2-JBKLOmUV2BpDIcmC826ApkU2kkgI-1ijt61x0vNIcsWLsoQpBQAD78n_Xe1DB_UAEbOs1CEu_WrIVKCqnUBrKDJwRJGlixOE6gh8NU23mibhjiLoWxzx6xnGUCDAZQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117149945184099164902\">Pneus Mobile PIT-STOP</a>"
+        ],
+        "photo_reference": "ATCDNfViD1oJeQ6dKA2-o7pziHPfdYRGne58xEjhHvuoPHNpJyNqFTXJAE3wiQJ2YIKjf56BDbH1ixQth8MINUbcD8gADGPLxx37-Gv8EZK879RFMXWobvAXImTHYKUQJM19d2q1Zgo7xr7woqD_wIUD1NWqsTyiIjbaIoIV-u5AWu62PPu29lD6m6BuHxyI-uky0Ay5D7i-Hoj2SGe8uenQKWpZCsOnuYwW3IKJaxkWIZABDKGX6Mt7iB6pfXrzwYnbbjw7sxTjouGuko2GLD2i8vhl0yfAx48L_DYQeUUzolxMiw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117149945184099164902\">Pneus Mobile PIT-STOP</a>"
+        ],
+        "photo_reference": "ATCDNfXCIquHf-eMMGAueqS02TDrvM_HvdfYYQ6l7Vgz0FcCvzgOxRYnX9AIUMQvjPJ1Yqvkr5ga48KLRDBFOYwxqtPxbuLceds-Yge16ONvGAOyUQTbU-QRlqHS8hFZ-C4Cd91uEbcofn8Vs2IhEf6zAl28JmGs4Jrwl7KSScuak5wBkosK08SObt5KzcADG9esVZkT9IaoAchj6mh0mbgUybRt_sfg9bARA8HcvST1fr1Pijub9-B_5jmY5FwuT0BFASfrBRj7Nwov7omkZGnQr0p1VRRDKwK1hfqFx-LTnl2L1A",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111063575413410321205\">Patrick F</a>"
+        ],
+        "photo_reference": "ATCDNfXt83pfd5nWgaf2TYJVMDz4jG51fFPlfLk7anjLQEZaSiOneL5gF1YkPlvhnEdxp6F8yA4DTN71yP5z0AAcvgLHBj3cwX_7lSGuVCUPpUY0HEeKwgTtY0altG50vmqwN7NcAREPGftum_CinIbatsdPZWW75VPL7CiB2tvcqi9eBtGwyC6HQ0g5cGsSM6RBo8BUzAzOFXzpB4f0sHC6vK5-Hvnt-4ivXy8Kx7L-uM2xjXB9SyGicD6T1we-RY2S0js1L-ti25IhXYOo7hu-QJfkxgGIMkl5nIXGWReeFe2Cke_RvnPoRNs1F3uEtThMvIfxygv8dJBMbpX27xILQtVlYd6ZaHvM_Y96LK0JsWD8hds5Qte-gAS2KN_naT-xA2RJqJjYGshBIsoSIB_seGXVHIDuPGAte9aPcMXI9o8Dqg",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJvaZL_GE3yUwRDvmFqvdpAy4",
+    "plus_code": {
+      "compound_code": "9XQ8+X9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQ8+X9"
+    },
+    "rating": 4.9,
+    "reference": "ChIJvaZL_GE3yUwRDvmFqvdpAy4",
+    "reviews": [
+      {
+        "author_name": "luda berezina",
+        "author_url": "https://www.google.com/maps/contrib/110987168895366343384/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJf3eHg0QkzkGUwdNVzU9JG2mhkjjrLDLL0i7ZxS0bgJOG0NQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Amazing and fast service! They came straight to my house and changed my tires quickly and efficiently. The team was professional, super friendly and highly knowledgeable! Felt like VIP service without even leaving the driveway.\n\nHighly, highly recommend to anyone looking for a smooth and convenient tire change!",
+        "time": 1743530496,
+        "translated": false
+      },
+      {
+        "author_name": "Patrick F",
+        "author_url": "https://www.google.com/maps/contrib/111063575413410321205/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7cmEy1O6uIt9ZUzfLwzFZvjK2ufLV2JfSdghjOdohWoctCqhw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Had the pleasure of using thier service today. They did a great job, arrived on time, very friendly. Very happy and will gladly recommend to others.",
+        "time": 1683421049,
+        "translated": false
+      },
+      {
+        "author_name": "Cristofer Gabriel",
+        "author_url": "https://www.google.com/maps/contrib/114699804166446974235/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWt3F3kvdcIOI7wrd-RQX7jqAm-7s5_OfqRNsPmunphKJIHwQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "The service was truly exceptional! Very satisfied!",
+        "time": 1752189337,
+        "translated": false
+      },
+      {
+        "author_name": "Adam Hunter",
+        "author_url": "https://www.google.com/maps/contrib/111469366046981798161/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwBZn7YW5ANSTF-eeY_u74pqYvLu6BiIl_4LvYFN_gwe2ptRjoEg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I was travelling through Montreal on the way to Saskatoon on some less-than-desirable summer tires. One of my old tires gave out and I knew I should replace all 4 before my trek across the country. Pneus Mobile Pit-Stop were able to not only source brand new tires (for an excellent price) but were very timely in coming to install at a near moment’s notice. My tire had popped at 12pm on Thursday and by 12pm on Friday I had a brand-new set installed in the driveway of the place I was staying. Excellent fast, friendly, and efficient service!!! Cannot recommend enough!",
+        "time": 1683301294,
+        "translated": false
+      },
+      {
+        "author_name": "Victoria T",
+        "author_url": "https://www.google.com/maps/contrib/108734803267195804087/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1tDZKPwcD4pBik-5h2IowV1KDU1IpDQW2NinZFgAmVu2yvw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Excellent service! Showed up quickly on a Sunday morning and got the job done (flat tire / repair). Would absolutely recommend. Thank you!",
+        "time": 1725816124,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=3315610263113562382",
+    "user_ratings_total": 40,
+    "utc_offset": -300,
+    "vicinity": "Rue des Roseraies, Vaudreuil-Dorion",
+    "website": "http://pmpitstop.com/"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "query": "Uba, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338056.9335825,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "829",
+        "short_name": "829",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">829 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "829 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(800) 363-7889",
+    "geometry": {
+      "location": {
+        "lat": 45.3721999,
+        "lng": -74.0352008
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3734130802915,
+          "lng": -74.0337089197085
+        },
+        "southwest": {
+          "lat": 45.3707151197085,
+          "lng": -74.03640688029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 800-363-7889",
+    "name": "Uba",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXvPQ6MUkEbgxxLkld_81nTzGj14XhyJWzw7sQze6Pyaq5mNGTYzWfzQPoJ3DRq-Su2KCjdSSkch4bU1rOX7negIPMRG3oLknEVmpw7RBVqCPClCzzNYm4eNIY6zD95bzzygHzEgyj-SKe_RoXEd4d2Z3RE61Ns-OddCANeqMUqULkxM7lkI4WJoG9P6F26sEHLU3ZGhxjpaWWQqGMzSLfaH0DpwdsR5VXIIfTxDe1YdT0AircHD30X3iA9emqzHwhegLGK44vs7E0KNqNyHqSp42bI700Z_hIqESRLk2jpp43Ww9QsZ0VkKunJC4rn3mhjePmT522tlHRnroRFykM40_AFnOIPtv_DgYcHoxuYiTyBTbLJbNNqkIrvpuw0cYydGqqjtxb9eQD982ezczxfeboVA4FczDnrACBmeRVvvQ",
+        "width": 4000
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfU1_HOBxwsvgdCxCOe0fMw0gC-_9uTi3QuRAnx8AzzsDUAipxRLAtcPFAIp8LTV0O0jgmW5q5IO7gxslXWtFQqXx_fs-6IL-nX7w2r4YlA4PBmgOW38aWBQdYGWxsX2r6co4NlfkEOdTLXVaVXyLv8xzcC0tzFvaXZA6bESa0DFLxCRuutwRE5fRwIvckmO4HwEK5zUB_9zRhSRom_4CefRS_s_hlkDdcCSc1UBjdF4naeqd6UI112P1douIStDt5utyGH57ox1plKYyrhKwV2muaGg1gprVxCp94iHZ5f4KTJpKwflUwQTR-LttKr--Z5sZ6Pd7TEepo5vBC7hjmj-k3rEk8UW1O32rTQgh6WK-Zc1AE1erM2pYiMXBu4-AtXbsQ_uCGq9NbfB9Em9xJ2oTuHcOD5arv7L6F9dIoM_FXcp",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJLRjZxzhIyUwRF1a_CKHetVY",
+    "plus_code": {
+      "compound_code": "9XC7+VW Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC7+VW"
+    },
+    "rating": 3,
+    "reference": "ChIJLRjZxzhIyUwRF1a_CKHetVY",
+    "reviews": [
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1658803853,
+        "translated": false
+      },
+      {
+        "author_name": "Nicole Best",
+        "author_url": "https://www.google.com/maps/contrib/108239938707167085783/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiasQ8MaEw7ljmhPSwRextLtKVrFJjV5d44hOr6HO6waF_z1FQ6g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1643796068,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6248144841264289303",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "829 Rte Harwood, Vaudreuil-Dorion",
+    "website": "http://www.uba.ca/"
+  }
+}

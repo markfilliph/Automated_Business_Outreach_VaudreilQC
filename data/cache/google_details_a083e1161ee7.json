@@ -1,0 +1,412 @@
+{
+  "query": "Pete's Superbike, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771337996.984318,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1",
+        "short_name": "1",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "904",
+        "short_name": "904",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">904 Rte Harwood #1</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "904 Rte Harwood #1, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 732-1222",
+    "geometry": {
+      "location": {
+        "lat": 45.3703417,
+        "lng": -74.0375833
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3718001802915,
+          "lng": -74.03633116970848
+        },
+        "southwest": {
+          "lat": 45.3691022197085,
+          "lng": -74.0390291302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-732-1222",
+    "name": "Pete's Superbike",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116380834521081072878\">Pete&#39;s Superbike</a>"
+        ],
+        "photo_reference": "ATCDNfWnBSYTcfROmA2pYeP8kb3TLHux7wbfXX6Sjv9_dVAZtSnJeWZNGoh_pT_MwsridjZUALnlujaZegPaRb8IR3i4fGaBAF34OHIupOWh9zkinBav20fWB73yfDFCq1a-mcDvC87_P_-WF-uqg1FWG9Gh8cSqjodSTukKPOw6BSUySb8JiUNiRJpQifom1pcbbrK2yHDFsuVmWQOPGAcTMd3zLaLqXci7036NWq4t0UxB7c9IUvMMksBvGPQuxM_5sVYt5ydcKCR6AoIPIm78J5et_-CrC_YRf53Ol5KJb5w4sw",
+        "width": 1024
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116380834521081072878\">Pete&#39;s Superbike</a>"
+        ],
+        "photo_reference": "ATCDNfWvWJM0jCOghZBQCURnlXxOMbFraxtGgCqQ4rwjTJ4u3TbIV36OX06VY5b9q0LctFyT9_DgI5CDYK6cJCgAN4x4Zlv0Dkx6CLiYZ5XvnlyWociEIV8vl8t6_ZSGe3KSbZ0c0ki_C4a1L6wySSEXiLR0xh2uV4BgNNs3W71d5yTi5eWKNgK1Ga2nWt4TKNd7vhHoos4iGwfXxOTTCww-wCSZv5oo_tMt8PJUp2mp5H2ykHDnXWiC61Dzid6GnWLqk8V4YNNfKZbEHLCHC5wqAYALWTlXSvlY8s13TZLKWQ7WoA",
+        "width": 1512
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115614082599981478535\">Pierre Patenaude</a>"
+        ],
+        "photo_reference": "ATCDNfX_66ISSbr44qOFF86YPhIXn8IYPc6vDZwBvcrpq_W_NPrigCLVo2wpFOlDNlT1_-7rSHINX7LU37kGT3CRwJE9HvG1xkFY9HnLn2BJk4-y_LHPnhHG3eOLJmn878n1ogHU6t0Fj-gA4vNA6GpFYi1_qmICiNYjANPew-kuh7Lrp5BzDN-RozDJngfNm9QmhjBT5KDWbK-5GDnMEiL28Q3S8imxZJvdfDqyWH7t5Ul1ZGjxnWhorts0mBuCJhhhIiKK7kQ2Z_6Rku9obmk5Tr_i7aZdQAqYIHo4wHGTjlqWWUJXJF6PLnGtahMBOg9h620bQAlpSdMhYukcAcgyAhc7eHz4zVaFlihRSnDyRS2YqsOYScAZ_9LBtmJE5KMzHJnlO-Mvj5KCmZgclGVWqb4nuXitSHof6Gs-zKb9zCHhBw",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108238634753222597343\">Ludo Ludo</a>"
+        ],
+        "photo_reference": "ATCDNfXWJR9s4onStM4YqDb6KfV_8duwfu0qucwu6I3AM0VVytFgvyog-qKnxveE3a698YiB-TONXruv4o0ML9Ng0I4SGHLSBWE56DNcIGioaNka6dEn3QQlwdKkgkuRj4mGN_gT51wV3MJ7IqCSG4JLkuG3d3PR2U4D4GvholLUv6o0J_I5fICKSv5ch1_ZSNPrG4KvsdXUEiA1IHrdi2jjiYvHnnl7csAHbbYUk0adwhOO4cc0X7cCU3YdY8Z7dTTDj9ERqvPIcmqPuy9ZTHcdbtkGVfPdlZqiier9p2_biH-CqWW8FPmidHOGrEF1Vy9RT8IStgp4TLsM8pVPc62wdEkwQWr9--mPFg47TJbhgVbTjsH5Qin6IupXcVEaPpavXxHVbGoYGNBzlvw8LQt7e5p-L0gBqOOEj7vcrXZCJ1JLGw",
+        "width": 1920
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116380834521081072878\">Pete&#39;s Superbike</a>"
+        ],
+        "photo_reference": "ATCDNfVCDd_KGNSCI8x3SOjvoB_uZ5r6jZTtjIRCP5EZjiMrgHENiArJFX_R8RPk1HEvDd9jYeVw67gWAEBGAZ7GWyQv0DF1G8C3c4J-nhlXkeV_PgbN1omKs3atZ6ZhxKA1HxlPi8aQKDe9dVZwcVM0TwxBwuKcnhO1_3-n6CP3SuGzJEJ2JwWtl5YI7IiWu62LPiwrmkMb1C_ISc0A4CGfcnE1RMRkp5NCA_HR1h98oB591I4S4pIxak_DWjGTDlL6_McXL4F8t6KlaakOwt09biJHc17p0VIy5Az9FnYxxxvEWw",
+        "width": 1512
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115614082599981478535\">Pierre Patenaude</a>"
+        ],
+        "photo_reference": "ATCDNfVZric3mClOArHcS0LDKKhac2l0RARXttuZs6IlBnzUUlubAr43RP5rWu4XqM2kydQSw7gOK1HlwLITvtA6EG7dQSs4cHiBQnmMwYWOjpwtqlUZDtgRN6zbmov0rVDXtCmKwTio0_IZ3jOb4_ml1HJNeLd-Ojy_ee85lLVx-7TAy0SzqrKr3zfE-2LP0TfCYtvY-A5VQuGMhrtjH7LVX3L8TubrzR22cQBTIoTjv-5xZKtz_YWTvyYO6NAop-Ubj2wqiDREVo64kwO2H2izP1SKF24IsqhvWmwTj-tyPtXF3EJGo4WhERKNb7hhNgyTuhQ8qzvG3cG-fU5UVDRgMbN-yskOei1u2jQsrn3zOcqmKBYZUc1n2n2OacY8V-jUmsE6_F0xPTwUPxLloKmukP8Cqm7YHl8Figb1yHcjQPg",
+        "width": 3024
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116380834521081072878\">Pete&#39;s Superbike</a>"
+        ],
+        "photo_reference": "ATCDNfUou27YiXDLpufvEMb2N38Bh5i_byNeUx6HkklNGxE33-q-5EFEEbngb8NH4P-W6UmVsObnFBYeO9V7z_L3miwmLnnFn7JbBs3UdwGj5zQkoYUy_4wTEsKbrO5ULHgaRV6DXova_U_Zjyo__RgBhMy93KLi7DuWxEIrVICRr49rs0mtk13a6N9hEbbuZAz43GDhgjq27jLeLCtyBdBk35GVeTl9Rg9Xn7_Co7qFbjRDxQqOUoDyv2ge8GvHen79eixdl_h5KMgCap4_v5JTW_R94KErqqyCU-Er4aXex_NEzQ",
+        "width": 2016
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115614082599981478535\">Pierre Patenaude</a>"
+        ],
+        "photo_reference": "ATCDNfVIkJJ5ClaSwgeTSyAbQQsjFfBWkWACwBfRHBxKSAIeiOZ4mnZWw-KWn6hr8anx_ngN0T8bPKTx9-QXGNr9fXrv9TriQegBCbN29MJe_FlMR2DT3VEH_C3MYF8aPvmKyu1_ocVGtav1U_pk2D3xUksf_19amB-I2Uei50dpAeB3_wMuiDmdaffhsWhukOmTvLIb_qIJPMzZ0fXf3mU0hUR1JwsGEE3laERyMGDKiTnT3pFV5RBNhgccfhNw9y2Ehsf9Si2NdmWyN61DA_3SAebQL_6jzJYS-lGw4vqK76EYNSPLOLK7lEa9gfEav03MqAqCbwTt-1DRi0u26XgsdKclQJ4birqDDx4U4bDgDfqKxacymjM0SrBNty7BWqCBgoRumGOC0hcqot5SaieDbjhWUmalV1SFH3A_62FjAQajIA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115614082599981478535\">Pierre Patenaude</a>"
+        ],
+        "photo_reference": "ATCDNfUHFj6p-vVlVclo_EXQuYz7SkOUZxBbx4k5KiWjIWFb1dYMdpiKqz54bAdCsDOe--gbs2A1dB5UTW2tPUZSTwojky9iDoO-T0I4pHq2e71ZOAluKk7yp4LK0kaVKV6-bhlnstLou1DDMvgkzozZUE7M7jwcX3u0eBcnMwoosp5H1ho-Y4SgZIbj7PzQC4wE2mWKxn8tlwEE_TfYnlsWGc9QuAEplSZXiVYuSjak6yLO1aMjzoakariFDARvdkAqR5XCY8pCqAmmgxohUgm7x0U4pJSNDHzInvsSFFfVxmT1jtvFt2ufjFWR61dPcxrcFWAMvU0_QbCXhk5rtLP7HFXwBMNCNXjLvI9dn7f8sLkAyxzJcEjaZMMjXjEtcMfTgl_SPwB1LDDVVAEAGhXADsU1Mf4Jh2xmfLxt15x4_UgCwoqf",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108238634753222597343\">Ludo Ludo</a>"
+        ],
+        "photo_reference": "ATCDNfV2iGDLD8P3zWCq_zXhQnbHDp6Lavw5ur5RsP3REID2K94GXMRXsz9Thls3E8UUP1ThXsLrZKGKgkjUIm92g3Dn2-bp8n22zWxdCD93NleJ_F2cFQ4i6kcLO9z5jqimiPrJXM6s-faLgCudec_vmUd_6V9wJCHB4NngTvSOtIc6Kr0_cT1w5_MxKEuxaNePVFC-ruWaAmfVsvIdaMBnl1RBzusgSTUCHEqHdO6DMmspX0qyd1sCcWBIphQVoFO7xx9Nj2-HNt8iokCfxi814fEfSj_31dfKo-P72VG-wa1-F_-PK_krGbhPkgu1P_EmQM7J3R90_ru0AoczDcT6iqeirWG_3nTiGDhrjwluulAA4ydBPOCFlimtAT3cUvn7vFdtqPaKEFvcbEdsLiaRfqMmJ7nRXwmonZRsSFmMXTr-IQ",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJrSmIbkdIyUwRR-UMO7ahwcs",
+    "plus_code": {
+      "compound_code": "9XC6+4X Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC6+4X"
+    },
+    "rating": 4.9,
+    "reference": "ChIJrSmIbkdIyUwRR-UMO7ahwcs",
+    "reviews": [
+      {
+        "author_name": "tranquilosm",
+        "author_url": "https://www.google.com/maps/contrib/115585779337189783786/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVY-oN_hPjlFEfXrGcbEn2ouFIZEWkd3gw8tbErHhgZaOKdRc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I’m glad I discovered this store by pure coincidence when I was passing through on my trip to Montreal. Super nice and friendly staff, huge selection of motorcycle gear and most important best prices! Ended up buying Alpinestars helmet below the market price.. Highly recommend and will definitely be back.",
+        "time": 1759264212,
+        "translated": false
+      },
+      {
+        "author_name": "Stacey Lee",
+        "author_url": "https://www.google.com/maps/contrib/110581184402056589679/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKauHO0OmJBREoFbPBuIRQIB9UyxTr9RTCNYgkk9O_xnH0zfQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Cheapest place I could find the tires I wanted. They arrived in 3 days!! Crazy. Awesome service and speedy shipping. Will buy from you again!",
+        "time": 1757264572,
+        "translated": false
+      },
+      {
+        "author_name": "Sobey Thomas",
+        "author_url": "https://www.google.com/maps/contrib/117244769159075994353/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyF0n1VmzBPyBhOU12wctiuptoSkfBooYlagYy__fcqbfaaA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I purchased a set of Bridgestone Battlax T33 tires for my bike. The tires itself comes with great reviews and fan following. Yet to put them on but the previous gen T32 were very good. Pete's Pricing is always spot on and was recommended by  most in the biking community. Delivery was super fast as well. Would support this business long term.",
+        "time": 1759947020,
+        "translated": false
+      },
+      {
+        "author_name": "Alain Malka",
+        "author_url": "https://www.google.com/maps/contrib/111224295541544773655/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAso5MuSxPY2MfHyYM7VXc5Ywk4YDyYFG3IslwoJsKKWY-fGtngA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Pete's Superbike is much cheaper than most tire dealers. Everyone knows it, and there's no need to advertise it. There is also now the installation service that they offer right in front of their establishment. The service is courteous, which is very rare, and the installer is conscientious and meticulous. (also very rare). Overall, very satisfied with my transaction and definitely deserves 5 stars",
+        "time": 1755620512,
+        "translated": false
+      },
+      {
+        "author_name": "David Robb",
+        "author_url": "https://www.google.com/maps/contrib/106947875164627245949/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuilHWu2MqT8uCU2q_e-HXe32TjvSuGh_kRKFiDazTkPIxbQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I am pleased with your service. However, unfortunately, I am displeased with the product that I purchased from you. Right after purchasing this product and doing research on the product from reputable sources, I have determined that this particular tire produced in China is not a safe tire and should not be sold. For this reason I am discouraged after spending $336 on two tires that I do not believe are safe for use on the road. I do not feel that your reparable firm should be selling these tires\nThank you for your time\nDavid Robb",
+        "time": 1758749808,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=14682194064251348295",
+    "user_ratings_total": 711,
+    "utc_offset": -300,
+    "vicinity": "904 Rte Harwood #1, Vaudreuil-Dorion",
+    "website": "https://www.petes-superbike.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

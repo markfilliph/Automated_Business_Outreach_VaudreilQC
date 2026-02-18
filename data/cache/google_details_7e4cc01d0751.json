@@ -1,0 +1,391 @@
+{
+  "query": "Paysagiste Stone Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338081.3110936,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "760",
+        "short_name": "760",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">760 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "760 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 424-9441",
+    "geometry": {
+      "location": {
+        "lat": 45.3723085,
+        "lng": -74.033175
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3738112802915,
+          "lng": -74.0319756697085
+        },
+        "southwest": {
+          "lat": 45.3711133197085,
+          "lng": -74.03467363029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-9441",
+    "name": "Paysagiste Stone Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108967509068327219510\">Paysagiste Stone Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVeXBOqhwr-MRqW6U1GazU_ZGVcg8w1XGOmsirkMDlhWZDXAShnIIKPNaP8bDhmwEhzk4c52gogJQ24leWC1_k3CqOYcSq9zPH3L5FuhUCJcIxmlwevIkzu5oMScmcnf9cCCOkrUHm5CP9PywHcd04sXSkDO1CwzGste4f9aXgw43xgSn87w287KeCRKZsEdZDKIcVDSyd64NAOC2ObG9ohfmtGUP4QRJxH_ewGUfHFekAJXF26u52irnCmunjW2Mk_ZEgyTObrBctY_Kc_TLQlTHXOWJQ5H2_NHRUtOkzoiA",
+        "width": 2048
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108967509068327219510\">Paysagiste Stone Inc</a>"
+        ],
+        "photo_reference": "ATCDNfXBUpgYYHcVA5FDfdw7mzG0zCcAWYFIWGsMBrpMkKy07cveKzK2oV2mgcAUhPbrYKHF3nplMU6iLXFSNk7otS6fc4rSdHwvU4RyoV_aAtf0WgTt9hHFzwaKxdVnAIrc1OnVfrZSagBKul0vNUwrN2Wqjps9B6vO0zridjN039Lr3mPf22RSqUtQ9WWNNrsyqN_PUgug5DJvHiAuawA7zI_j79uA_E6s0qMOMgS9QJGoIDqDhbkNbuz_axbv1Cv6XH63dTtAjEEJ3mwpsswMC_nzpjC78y2sr3rqBi1vYLBnZtWf0yFm_h79ACmZSc9PYDKdmSPx02v4NAYBl0hR1xIUksT71QeKBK-Z6nHbJRg1_hWVwOs0RGOjhLXlJTinAzUz1AZePLRkELxjutnkreOjcEEMql44euUHdKnl5Y7PFCs",
+        "width": 3264
+      },
+      {
+        "height": 2220,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfU2PVEPFushzAgXHnGi1DnGKhmzEMIUXsuyCt6JNyMXMlTcecqKdwalJyzM3U3TELGRqJfwwEU_IqeNkwjAjGLbvHivAGrAhs6p0zrQnnMng-T2sNl2X51iCdrw3AhHLQh7-lMJ8wodGKf85iYypRv2SL0GrW5c_o0RtaY6drimzbwSERjfCxCXeZKEHt1egf2kEsGolAxdc1_sF9wzn86N3c9VFAO44s7smRbeiCByF4zmJUfx5scR0cB1cw7eCfjvvXuDWGjyh_4Ed44l7Br5OVWIy-8dIaLMNfv0JUn1DRcA3ydiM-JYEbYx8YOb9BM6YVloASHXOtGHoHFYxLj5J3rwuX8XUKbquyk0KwDrk0FtjxVuBYYndlxUYdEu7piGwLK3DRA3nOMXAllouTK9ePw7bUflg-SW2lOmFcBDEpY",
+        "width": 3943
+      },
+      {
+        "height": 1936,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108967509068327219510\">Paysagiste Stone Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWWhhBwF9dXVMsU6rKUYzXDOFjlY7SpIauN0Sj1zyggJUG6ciQ6-fk81dRtBUxMhAHGaFobsJk11mfd7twvtBwic_gy-sl04r22x5dCOlj9SC4AV0yIWUJDQEMg5WWDvXCVf82-hfOBqzV-YgRNGSiv96n3loSu_prPl2E7lF0mkZloOEVBdHKpftNldrhaOhE40Y8VmP_tsLPKQVHFTzDrlsuohBFRUgwi6PxHDZVgBnOEiYDh3PGVxmkxtr4-IdAHhytn6R6EVyMwT96YGeVLuo6sAnwhRg6dvmZJfEf_xXc1AM2rty3BAWAdDzoCs2xxpa_-QxszbBaq7XUuIBQIgQyLCmV7ThqCallSe_fH_bMczlQ_ZKhhE5CgkhW9FFE6vmemsSA00BTfH9QNcBZrXPPB0bmpjfjYfjj6iGxEVS0",
+        "width": 2592
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108967509068327219510\">Paysagiste Stone Inc</a>"
+        ],
+        "photo_reference": "ATCDNfXm8Qa6-9Wo7fCirMz5cT1fIYimBuNtOUIp7bF_SBDLCybtwVBqfsHLAZCQ1RS8bAiHk3lWqevKkzPYw_z1cKQZptF2NvMu1hR1N70Ujp_h29hkKh24tUKIL5wLwqiLJzp1sfXRa2GFYkww-4NO63X21frUKhcC0I-a52V0z-HzgaPbAVYIM6NCqXUeYNcB8W_33MXril6KsALubYku8Tgc228TpkLp_zf1ygaKSP2L88MSEwB_8Ej3_qA2Szp18DuXhscO15etABrfmsMEhEaLSyNcWlJ79IV7uI5FMvNLhlPL5vAD8yD8OToN3JXICI9ivPAbY0rMyv8kMS7s241Z9hz2Z0EAmm1R2xxsk0ylW1xQ_rq5Fzzspwy8tnI7tAcChRATmx9AdMwvlORzk_JS0IuJk5tF3Ux0WQk1-qH_uQA",
+        "width": 3264
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108967509068327219510\">Paysagiste Stone Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWswq7dy6vKem-Jfv_aEK9LaBpL_zrPNZ82oE1oC2OwFg10EwM_0lWDq7KQbOb4CimamZFR4scvfVkxC7iQuJmjXn9KRUItdM7cZSIGY-ZhNRoS52GWF5h1bygdQIT8l1EUmE1K2FxZDWhVacbqIfbLnPF_DknfaK2jVrbo9jHUHVHyMkxEmBvwrfUOHtMPKFG-aNZBXnVVOZUzFdVwNt3l5dIo4gdceVb4mXLgpPwNkU55cw6Um4mi7ORBRaAYGB5DTmFWN0o4WiOSrshW1w2LJ2b039Ce3cSZoaDvt1cE_Y8LrsdIreeXLCcfiJTCFDC3amEtxR12JSfrrE0UoNXcab5qtKAOY7w6A_Mnjr2gEKGrY5E6bsBvOfwrnei5wEhWvYoz5XBmsrHJLiNI67KkprhZSaLosStYBwOoThN5eFQ",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJXTL5Lj9IyUwR5jttN40cylg",
+    "plus_code": {
+      "compound_code": "9XC8+WP Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC8+WP"
+    },
+    "rating": 4.1,
+    "reference": "ChIJXTL5Lj9IyUwR5jttN40cylg",
+    "reviews": [
+      {
+        "author_name": "Mark Hegins",
+        "author_url": "https://www.google.com/maps/contrib/112323028067948997160/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZrKZNtbLXaahb2X-IjPlBSXDRI_byR-Wt-4lXCvy3fwkgSdNZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "We used Stone for two projects and they were excellent both times.    Rodney was punctual, gave us great advice and was really quick to answer our calls and questions.  The crews were really pleasant, always arrived on schedule, and always cleaned the site up at the end of the day.  The end results are terrific.\nHighly recommend and would use them again without hesitation.",
+        "time": 1742756235,
+        "translated": false
+      },
+      {
+        "author_name": "Gloria Nuna",
+        "author_url": "https://www.google.com/maps/contrib/118191465230056617743/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkp8KynQdsDUrDRiigq4bzwy-vD930AaBe--Xb7msDpoX-bJVhHQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Stone Landscaping recently did our entire backyard landscaping and driveway asphalt. The results are outstanding! The team was on time; professional and paid great attention to every detail. Thank you Marco and the entire landscaping team!",
+        "time": 1724929365,
+        "translated": false
+      },
+      {
+        "author_name": "jbessette218",
+        "author_url": "https://www.google.com/maps/contrib/109130040143729606378/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwjDlBI6sALY356WQNDYodO4_YxUctWW2JH-sEuOZR3PO9q1aAPQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "TERRIBLE CONTRACTOR\n\nI tried to do business with them in vain. We signed with them and gave a deposit and the quotation mentioned that the work had to be finished by October 15th. After ignoring my calls for 3 weeks, they finally called back when I got mad to their receptionist who seemed quite amused by my disappointment.\n\nLast week, Marco finally called saying that he would start the work this week calling 24hrs in advance. He finally told me on the Thursday he couldnt start before the week after and that he couldnt do the asphalt part anymore because the temperatures were now below 0 and that I had to wait until next spring. I then asked for them to only do the pavement and to reimburse me for the asphalt part. He then said he could no longer do any part the job at all because they were forecasting temperatures below 0 next week...\n\nVery disappointing",
+        "time": 1573148310,
+        "translated": false
+      },
+      {
+        "author_name": "Adam Greenberg",
+        "author_url": "https://www.google.com/maps/contrib/112186357969307256472/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsJIET-8teq09XSa5QtB4aPTgylRPojBQf93MnXnXIkLRqGA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "8 years ago",
+        "text": "It is one thing to make an honest mistake, it can happen to anyone, but the customer service of this company is absolutely horrible.\n\nThey had made 2 pretty big errors, and refused to fix the problem. Both problems related to the pitch, the angle that allows water to drain properly.\n\nThey wanted to have the water drain from the down spout far from property by running a tube underground, but the ground it was buried under was lower than the exit point,\n\nso the water had no choice but to leak out from the joint from the down spout, to the tube, because the underground tube was filled with water. IN winter, this stagnant water froze, and the entire down spout was filled with ice until the final thaw.\n\nSecondly, and much worse, when they installed a new drain in the driveway. They made the connection to the outlet pipe lower than the original pipe, so the water could no longer drain to the garage drain box which is how water goes to the sewer. At the end of winter, the melting ice just turned into a lake in my driveway.\n\nAs I said, these things can happen, but the refusal to repair both these things speaks to the ethics of this company.",
+        "time": 1508519340,
+        "translated": false
+      },
+      {
+        "author_name": "Et Leger",
+        "author_url": "https://www.google.com/maps/contrib/109625824677283611715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcJUaBD5WikL3oNXqUpRhK-iKr-tRxo60rAKqcDOcilHIIW4HUxA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Awesome group of proffesional landscapers!\nTop notch design and project realization. As a fellow landscaper who has worked on their projects it is easy to see why these guys are masters at their trade.! Would recomend Marc and his team anyday!",
+        "time": 1537933675,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6397957613479082982",
+    "user_ratings_total": 17,
+    "utc_offset": -300,
+    "vicinity": "760 Rte Harwood, Vaudreuil-Dorion",
+    "website": "http://www.stoneinc.ca/"
+  }
+}

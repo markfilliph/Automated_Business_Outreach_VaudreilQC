@@ -1,0 +1,402 @@
+{
+  "query": "Bella Dentaire, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340135.7821686,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 230",
+        "short_name": "Suite 230",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3200",
+        "short_name": "3200",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8W5",
+        "short_name": "J7V 8W5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3200 Bd de la Gare Suite 230</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8W5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3200 Bd de la Gare Suite 230, Vaudreuil-Dorion, QC J7V 8W5, Canada",
+    "formatted_phone_number": "(450) 218-9004",
+    "geometry": {
+      "location": {
+        "lat": 45.4056746,
+        "lng": -74.0410914
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4070237302915,
+          "lng": -74.0397339697085
+        },
+        "southwest": {
+          "lat": 45.4043257697085,
+          "lng": -74.0424319302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-9004",
+    "name": "Bella Dentaire",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109591796668094694294\">Bella Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfWcprWcLFgpigO7a607CPy-8UkbsrI2MvmY1i0Qt-9KfA2A4EsilU6S2al2LjLct9DfxiJyj_73KBQ3jq8vUCSAmrrDaET9SiQ9a7Phr3IvcH80G1Vbbk65j7SjGT2IUXmxAJLhZFY4DckPuP-kDSdVX7CEWFlU4NOjDrD3e3im736OZM7fgKxDKwYEBHeSPNJj6-CFJXRl3lFTo2j74W6EH_uUj0JHTgkhoFza6AXbLDsxCf1tmoNTRRlRtRk_dyV5S1vOGcKJbg7IIZns_ld_HYN09nLy2abXG9bOg0LDqQ",
+        "width": 3000
+      },
+      {
+        "height": 3240,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109591796668094694294\">Bella Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfXkWu7fCJ-UtB4JKpayKex8c4iQeAwIkMzxQKeHJLTktZ-WlOUqYjZJEdgPQ3cdfaSDkWMC3G_tkJ8Y2ilTHR5Cg3cV5OZHs21tPgwTwLUJLUmmhYg7S_qpOD4At7Z50Cf4yJLRXhZnuwouJ1TpM0Kp86cWiuD7BX-AC_t-oHyswAzw6kv--V5JIJIh4UQTjAT7owWc2Xa0sA3yYgt3eQbJWN9ZAhflEiVm64HeLDUdlnuRGSZWY5x4cmW_CBQ4RUuh2fkjUDXfTnfOXHSTV6gOfIxP8sdlF9ZVzPe86JB1Kw",
+        "width": 3240
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109591796668094694294\">Bella Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfXgQwmhQ_7KOeTBxmkBvFu8K-m86OoweXsFZvRhK2pEoqMR09uxk7PMC5Re472zJQVKR72PIhl5BbSDj5vY5VfPbi4jrYSgQZvDBaG1_QZtJ3AG3hCJa4Si958_CaHkPunY0724N4AnVBkMUHATzvxjXUB9g8T_vDbeoh0AxYiLNYnwfYMahiKqW9iLkOddSGW4UnXba9Rd_pHQb88vDKfJkVRXaXJfpFqPS57wIZW54lJ27EWk1TUlSCne46v8S_QsZuBOk2qktL-2YYEXjuZIVrq8eudXAfBpYdsy2TpvMQ",
+        "width": 3000
+      },
+      {
+        "height": 1728,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109591796668094694294\">Bella Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfWSyeAVZGnjOepNKTSuatQWz2Fj73vgZxYpBW12qOFgEb8ReBHMENr252Niz2r8C0XfzUVxmjCq07lUUqETfHbgyVy1ChSqmdvCAkutz5iL_hzIFz_GJceGAegMHcQ6PVzDOE1fCIiitKXAnbncWl1bAdB64UiL6bFHwTGyR67md2zmQqg_mUmk6ZdXVbXXsmjHn9mJxhGZf_8FBFP3Aj_-kCKwCfcMmTIkydbsxLNmfOL1wDfJpIc4_u5D0GpmhcBV74TmJxGpxzwy5a5GMKDaDdELhF_415Qeq_ezA4CNLg",
+        "width": 1728
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfUeZCoKp8XFTiN5Pm92GpYaxseRCkMyH-sucJkl0UiT9UaR7OXnX5Dvus_lQUoQaV9kTIcTniIQ4clVeeJZMPbaBVrpXGklVebm8EjlNA4CjAfFWlsZ_ZkNo5d-2k_es0Gu_tZEcc0TgBlBshr-GvUFfSYx-DHcigGx4V9pUuqHA26LtM2Y2nrMZFAPpkA0geI5XjVlViS1zVjChtRH4_LtOWHP2wWs5N-nAmTUe7rTXocSDYLD1FEM-OB3i8sAM-GouIMsa-7BaXVq4MZwlnI8z708HNrgiMJyBwlkboNcD4qySggEWLoQ4PkV-9ZbgANtvQNqRBHNd3Ev7a-edQQz0hZ0EbPEGyL6HEsjAKeoEMAGsmY2F7UpKTgJ-wdjYaa7gyebfJVpMysTurq9ddnVnRKdb-LIgnfuBN6i5ooOyHpqFtW_4o509qaYxQ",
+        "width": 3600
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109591796668094694294\">Bella Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfUflNSVzO1HE35nAfwGxkTMnRVfhxsfVCP_FAbjii-Jqw5Um-fzefoQs8ZrLvJo2J-__5pXv2gonDn4PgCVAtXPBSATJjqOtYNpO6gAx62pu0F5mP2ddUHE7J-UwzoGs3TILfksgp-_nRaWeFoDiz_v31JSFRMiVfUhXgPoaK9WZEuWlwWQ_sCLuFxggrbFVrWr-sYIot-bPPrzXkPWFmAlc2tv-9qF5VpeuFsTjiXsCETchBjKIIK57M5kl1-ZPfRl_q-UZ--mv9Rq3iP5PKw4_pU6YiVr6xsOmMwuZyIaVw",
+        "width": 1674
+      },
+      {
+        "height": 1350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109591796668094694294\">Bella Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfUZCtFRiDHf0a7HS3-yD4uAhiKhRP2nVQVpZPK6JrHZ9kKssyyMOF4HciAH1RIBalsYR_uv3Xh898zpNf7xes6HtlT-cwa-fw0PixIR597OtLvvtz7LG_wj73Wwuaz8MkD53B4I914ZRA2Mh1q1OP12SZ-aiZsA0qSVTQ6P-xxbSpRwDkcq7o3NbnQcg1d78Qw3Tc5edeQb_L9g3trEIRDic7pKbNNpSsGpsS2mSNQOtrb8oUrUbRT1HpgA25FZWucf5qREBh1oherHBAI6eCMpAK5OsviRobGEqpylsMU7FQ",
+        "width": 1080
+      },
+      {
+        "height": 3199,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207\">Virtuo 360</a>"
+        ],
+        "photo_reference": "ATCDNfXJxtUc_vzE_er65kFG0syjKCAiHRi1nf7tdT0L_usIbylgnuV5hZ5ulRujZlDSRMBEMfOB-Pvd5i3AO083izwA7wX-pXqkQAPQCP0Zko3FMVE6m6L7jMTpy5JY_HjXc34a20J7VupcLFO_HllGgDKNJrmgRTbn78F_GYzXNx8XCWbZocVgF_VzZomc4vJQyZnXuTh_HT6Tgbfdt7aeuvu77vVBu9jAtNeJWm4eZVq0Htco5zVE5b4bTg5jidmY8Gv6gRNkXBvYXz3u163iJmMsvTLwtQl51uEpj2ovLKOS3AWYW0zdgtchxNPsgwdwK2kc-riQAd_MgkO4FJycWcLZ_NnZzH_krY6_7A0X9-4lWUXjUwvhtyqSrp4eOONoKMo5vSssNpOpUEGgZzpfdomctfl8XmEoltnI68tAbNfJN3zF",
+        "width": 4800
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109591796668094694294\">Bella Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfXGHUa78ZNfY_5PGLlrRBnxgN1ZvemASEMY5cNN-kxCEY6b8qV261r3tOK6GQGtlquqMDf5310FB1TycaJmgGJ4S2pFaBUblmBGpRiAjp8w7B60cjcoxGNobCHAwrhp_6nJM9n13TkcuIjvyzN9wje5fheUi1ShriE3IzD5Xdb4F2dcgNMdEckbRfEv_u8dbl1VF6uhfh_FRs9vMf02TMByLxyWh8MRjOsXWpdBv2b_kg7u3MD1tCdtQBBic8RITXWQXDi1N-NLcpSU0SEp1XFtFedEGJ_w9o8FLiXBLETPaQ",
+        "width": 1080
+      },
+      {
+        "height": 2457,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109591796668094694294\">Bella Dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfUynxElZfXonRD9rUMu_SHm9JijPi35ctwykyGLtP7ulG-hlJTmhaSSn8ADPRRvBAVnVIA3hI-JLDPmiU7bBHokK-3du3j9gCX9qCKp54x9UK_drZQ4tUa9RX8RSNEDRRNnpS7qgeE-B5qMzQxAKxEAJ6Nn5S7Umh0Aw5AaYfl7ZBz17ZNzFKcY1JL0vcyzxLQ78Strzu-cYkRmLYNWca_nuGam6IAYnjYH04Eu7XefT_WpB0zOmt88Ko2sbBKX6MF8wx_WOinct54hffbX4MS3jEgc9P-TUmuoQHkJ7H-Ovw",
+        "width": 3445
+      }
+    ],
+    "place_id": "ChIJawMmGjE2yUwRd7v4OIwh1aw",
+    "plus_code": {
+      "compound_code": "CX45+7H Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX45+7H"
+    },
+    "rating": 4.8,
+    "reference": "ChIJawMmGjE2yUwRd7v4OIwh1aw",
+    "reviews": [
+      {
+        "author_name": "JS",
+        "author_url": "https://www.google.com/maps/contrib/118076504094525130018/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzoiFHYAGmyUZNH_yBfQ8g2dLX81BuCDDDkDCd9HCug6eJ2qgh=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I had an outstanding Invisalign experience with Dr. Amin and his clinic. From the start, the care was attentive, thorough and clearly focused on the patient. My case was challenging due to a deep bite and required several refinements, but Dr. Amin and the entire Bella Dentaire team treated each stage with real collaboration and a rare level of precision.\n\nDr. Amin reworked my treatment plan when needed, always explaining options and listening to my concerns. What impressed me most was his balance of aesthetics and long-term function. He wasn’t just creating a nice smile for today. He was thinking about how my bite and jaw would work years from now.\n\nThe final result looks natural, fits my facial structure and feels comfortable. Throughout the process, he was patient, flexible and committed to getting it right.\n\nI highly recommend Dr. Amin and his clinic for exceptional Invisalign care!",
+        "time": 1765531240,
+        "translated": false
+      },
+      {
+        "author_name": "Cyrine Ben ncib",
+        "author_url": "https://www.google.com/maps/contrib/101901980721903152997/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImTuP9z0smP3nrV2T3O2DnA8GxJIuEr3t5ksy5-Z_35t-97E26=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Three years ago, I arrived at Bella Dentaire deeply traumatized by orthodontics. During my teenage years, two premolars were removed by mistake, and ever since then I had been uncomfortable with my smile. I honestly can’t remember a time when I didn’t cover my mouth with my hand when talking or laughing.\n\nDr. Amin truly made me feel at ease from the very beginning and supported me every step of the way. I wasn’t an easy case, and he never pushed the quickest or easiest solution. Instead, he focused on what truly made sense in the long term between Invisalign, implants, crowns, and even going through Invisalign again when my teeth shifted during the crowns process. He also made sure my smile was ready in time for my wedding, which meant more to me than I can express. 🫶🏽\nThanks to his care and dedication, I’m finally comfortable with my smile to the point where even the structure and shape of my face has changed.\n\nOver time, Bella Dentaire becomes like a family. It’s a place where you’re recognized every time you walk in, called by your first name, and genuinely cared for always with kindness and a smile. 😊",
+        "time": 1769653592,
+        "translated": false
+      },
+      {
+        "author_name": "melissa caltagirone",
+        "author_url": "https://www.google.com/maps/contrib/103961113684057874414/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXe0YaHgkDGjfpdMy5NSTfc3TYgy3mIVmH8dDV2z7FhqKAlLajD6Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Wow, wow, wow! I am genuinely impressed.\nI went to Dr. Amin after completing orthodontic treatment elsewhere; the final result never sat properly over time, my teeth had shifted and proportions were off.I visited Dr. Amin hoping he could help me achieve a prettier smile with Invisalign — and that is exactly what he did.\nI wore Invisalign for two years, and he monitored my progress closely, making adjustments to ensure every detail was correct and perfect. At the end of treatment, he even enhanced the appearance of my gums with laser contouring.\n\nFor the first time in 29 years, I truly love my teeth.Thank you all at Bella Dentaire for your attention and professionalism throughout this journey.I am so happy !",
+        "time": 1762803508,
+        "translated": false
+      },
+      {
+        "author_name": "Michelle Sanders",
+        "author_url": "https://www.google.com/maps/contrib/102915183397556515865/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLi1mq_lbOXxHdGXFS3D1MvN8AG6rJiEyOHrSfMLE08Pds-A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I’m finishing my Invisalign treatment and I couldn’t be happier with my results! The clinic itself is so beautiful and welcoming, Dr. Amin and the entire team are incredibly kind and supportive. Every visit felt comfortable because the staff is always so friendly and professional. I’m truly grateful for my new smile and for everyone who helped me along the way. Highly recommend! :)",
+        "time": 1764173202,
+        "translated": false
+      },
+      {
+        "author_name": "Amina Goudjil",
+        "author_url": "https://www.google.com/maps/contrib/114274192341935200414/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXK1-_3wGOEOOIQ3915Ln-z3VQ-FkP8LAWQdlfEaD-4hL8RB9fx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "It was my first time at the clinic and I was honestly so impressed. The space is stunning modern, bright, and thoughtfully designed, which immediately gave me a sense of calm. The energy in the clinic is so positive and welcoming, you can feel that the whole team genuinely cares about their patients.\n\nKenza, my hygienist, was incredibly gentle and detail-oriented. She took the time to explain everything and made the cleaning process so comfortable. Dr. Amine was just as wonderful professional, reassuring, and very attentive. He explained each step clearly and made me feel confident in the care I was receiving.\n\nFrom the aesthetics to the atmosphere to the people, everything about this clinic exceeded my expectations. I left feeling cared for, at ease, and honestly excited to come back for my next appointment!! ⭐️🦷😁",
+        "time": 1757068818,
+        "translated": false
+      }
+    ],
+    "types": [
+      "dentist",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12453897230697937783",
+    "user_ratings_total": 273,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 3200 Bd de la Gare Suite 230, Vaudreuil-Dorion",
+    "website": "https://belladentaire.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

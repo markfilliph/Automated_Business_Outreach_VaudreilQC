@@ -1,0 +1,400 @@
+{
+  "query": "SUITE.110 coiffure & esthétique, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338152.8033023,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "110",
+        "short_name": "110",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "2500",
+        "short_name": "2500",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Henry-Ford Road",
+        "short_name": "Henry-Ford Rd",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3N7",
+        "short_name": "J7V 3N7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2500 Henry-Ford Rd #110</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3N7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2500 Henry-Ford Rd #110, Vaudreuil-Dorion, QC J7V 3N7, Canada",
+    "formatted_phone_number": "(450) 510-2214",
+    "geometry": {
+      "location": {
+        "lat": 45.37707899999999,
+        "lng": -74.0507583
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3785144302915,
+          "lng": -74.04955396970848
+        },
+        "southwest": {
+          "lat": 45.3758164697085,
+          "lng": -74.0522519302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-510-2214",
+    "name": "SUITE.110 coiffure & esthétique",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118213808996150491127\">SUITE.110 coiffure &amp; esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfXz0_9aZxUPORo2W3gE9CkSxf_Jyg2x2a_avA4DnL7kJU8HQX2CEJBXf-p60mNcRqVi0MegJPKPdXThauyXB1gjk9_lTTUdQsR11AYrhxC2cd9gu_YjZySD83dRNwchWOCFhhw2kvs8c_1X_uDcH_sOC7snVTIvTZGTUsJQcrWbdoNueEaHljaihH_nHAPXZADJ-QKruDm3BhOTrrZB9lbaXkv8q2BA9QPP9T18kA1uYCCbX_KPmwPat3FEPfVYT-71hSbbPA5TOhWL_LPVeEV-SdsHzh0pTtQjtBOBycdfng",
+        "width": 960
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118213808996150491127\">SUITE.110 coiffure &amp; esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfV3sHtmdKrV_ffQ46NElTMScaA6MZyNy75-__PC00RWEpH2ZegJyIRKIfXb6RSYJPz5dQc7t_T9ZPbBbAj6KZazv7Oj9f4HFvJp808yl4OTWe8nruQ73vhRoZDQFAhEjntZG4jGvlltorydeR7B_AvvpXm-Fa60K5mdA9kMlqoAZ8FeIHzRePYDhY-3khfBHbM4wU_ruVGoNnAxW90O43sqx1PPGpCO0Yn-faLxoRpKqx8MXIGnH9g-W39fHcYB6kGZeFLMgZ-JHK8ReoaoWIjs1dF34SBmnC3UJTeUWXJ9Pw",
+        "width": 1440
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118213808996150491127\">SUITE.110 coiffure &amp; esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfXsOT4bU6TWnD2qDfjGmMGn0pbUFm0-s6AQyLebqV4UD-kDBsj4A_qR-4SpuwZ9Bc9EoCGOuPxQaBSz6q5oJmUEsglHp0biXXb6x49wAJO-fd0uPug8pBNB4Q1LvL0qllFWo6Jn3l_hQwg7kerdeLbQbofmpkWrrjH6ugTT81n1nEEcCnyzLHJzemm1by27Dzpu3OX6cnB4RWG24fdFCCmjmQwC1LTfcSejSbinN3y6kPyXxEVR7IhOw-noFEW0iiHfZeloo5UhWR85ZeuF5dfkK1MCkyOMgSqBItmblQJypA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118213808996150491127\">SUITE.110 coiffure &amp; esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfUurpRv5BuM5_vuQbXtBFPFP_Je7dpkTrtJmBP1MQcLm9B0PvsP2wdX_yAjT7seAhxD47Nz90PcJ9gK0KB_6uEQPonu0QzrKxdWXoutB68Kv1S7GoqHa3ViuQpfazSsWn6yKavk-i33RcHsMd8OtML6SML-daGLGCIxBFKDS6xzY94WcQQAoBhuDaw-rbKwqpdgLKbbSrebALwmjZ7eWidjuKY37afNWojiJOaWGvFDa2tceGJOdc7k-RY_58ueTiboD1b7smoAROr69JiaeiNj9TzEo_S2EbqhvK41WbFpQw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118213808996150491127\">SUITE.110 coiffure &amp; esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfWCl4PDavnpiF_VSal_lmSSiFrHQHMtP34JBzcxkMxbbsYVJvKZ_stMzK0t6_hNKNku-CxguCEFFXMeVpA7GxLe8Y_1GaZ0MXc9CqzMZb1s261-f_R38ME7HqYUVK1hYgYGKJD08oiWTo85anHYY85pVF0dDVkglFJfhQfoqkGsewcnnqQ_pzelHQVLFs6cXFX_qlgpOm9MIs3IBUqKfQp5NOWGviHZ0xZ5lLXatGiy3triINAM8kUKHaROeAwwo8_GIWV1zb35rtE-Jgfq0rzUuVUH2dPfWGlTEBwYFZ8H5g",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113210551164481033382\">Mar V</a>"
+        ],
+        "photo_reference": "ATCDNfWjm9Sa8dYf6_ctasJMd7cSzqtsHnr3AFhpPF28HZX74BccdpeecjVqOtFdXOEQTg0iCfJm1Wfueq9aDQ_H-h0vDdiOtdt4y8aywED_-Tbhaw0Q3QY17qb6-O_slOSDHTMrJLnCO9pCQObluM6PNF5xiDisCpNBxbfHjM43nqp7MVBThiVoZWJWqzH7A5DPMKAA0pzTAJWrNMwjbdUIo7axlm_GA98N7-4en8UkNJqi7SkVJ55BB-u8IFI0VE0sIp9MLaPEa82GNwaWOoWlSkcjy0fVAAQzzCxvQRyOc-5lnKxnVY2LXlH_blUeS3VAMoggIOVTFOBxRwF9XmLTBhbGiuAVLV8o3c4VwU1IUK_kbcWyKQbPIIpQqVz0iybjyOGmTjr9QG2Q8dEjAa4-a4LrvEJUNBl7_DZFzl7WWMqUAw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118213808996150491127\">SUITE.110 coiffure &amp; esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfUQ6AmSq4UDgwOsvgcjD8EzQKwMYgvn0pUnZtLMxfEKQV5YSCA4c7ULu_t01R-82hDct2YQEJRSae-Sb9VGYIFwcbmfk5B6uJQMmhJUVRaZkgnk-KaV9iI1v9wJMxGAdBf71zH3pKcZNlJzEv9SJuwn7RBQ0q6hEjwqn5-J-taFpbGRcagUUuYOH2_wg2QZE1_5v0gU93zSF7uwdMhy7UXXfCu_I-dUgsS8VUKF3S-N4XBTYyKFq4vDLTgpcr656u0Kb6_CREBYskm8VZx6ZhgFjqfIEGJhOs0R_0gmwX8YQA",
+        "width": 3024
+      },
+      {
+        "height": 3088,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103453625423977009572\">Sabrina D&#39;Urbano</a>"
+        ],
+        "photo_reference": "ATCDNfUek_xosAYXZn9zOE7lMX1hD8Nm4hJVJGIZ4KejiMtLk3Ujo7fBJ2OAN8AQywJdVpqT4BA-kmSXEP7P7qvJnddSRH4UugX66adibO3Jw0mD1M3AyFeYfjgh2ywe49yIN7ROajZ2EY324lwQwb_mid0YhgA7E865FmBpCZ2ZZyOw0_wzleKnfxxAVtocIeOfu6DE5GRi-4RPdIgKB-aqDFoojnUuhNMN9_n3oMFI--VLEetjlqMybZDICmdgj9RWoNsnNCFOHNixaC_LKXit8Ngsz9qMG-txYhBXZrumsSOgJElvYkLxUvflcu5IvQCGSCV3ydVqbefgQfbbq-8aDfS32pIIxhDIHbFKXzHpIoy8GyTbYvUJowohk8gU9EtlGKbcZ5rPagOSVivG2zu5Y6htjZTsK1pby26QHEt0ShYnuw",
+        "width": 2316
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118213808996150491127\">SUITE.110 coiffure &amp; esthétique</a>"
+        ],
+        "photo_reference": "ATCDNfUGBxwD-ASyhiR-yWwDe1s9Md_w0rJQ-21SXekl4jQjbNO4UWKWSHzfU7WN3rYSnmoKKxKEtElZCQOXu7RrkJcj6iodNdBUu5HfpFWtuWDfAab_62xx9NxvGmkHSL5C8A8_lyxRvNtfldsnOYBSb7ex-NQoHLnjurYohs-nu3rVcfI-l70o9575ybWtFVTHGPw1f3oN6BfALM81aU_nO9WyhXHu5tMGKMLiF-mypTK5eN8iG0zQURh0ScKwhCtsW5gG-zCxLtJ-COJsmn2lrWZL3Oz_7jmXunqUySB9No3pRQ",
+        "width": 3024
+      },
+      {
+        "height": 3060,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112401481138677103415\">Alma_S Karimi</a>"
+        ],
+        "photo_reference": "ATCDNfWzQxQS4Km-e-gvdYeJH8S37cQt2iP2AajwSndoJJSQr5VUY2TL-GR5YAtvPWX5FAHPPuh-P-lfyAxbx29C-lkzcJPZ5Vs0mLoukDPjAGgolBXFAx9ZfIk44k0TjNDOMoDo4DttdLbfZGDU9fmAwOBc5ZlmNje74Zs6VnORbnXagn3-yCKAQbbRErN1GO43foTDj-AWFpQMeo-aGqz6-RveFowO-PYNc2t1qY_5pXsQPxqvEzdZTFi-UugB2Fqtnx8VINLv-IMD-JIl-yiwXNbYOsAtuAigrggRVUjQaYOzubr2JBqsamldeb5-mhZIu_ALnIl21pFywLI6ps3e5JWbFyjnvBVEc54eSf2zdkt_BHvVFeuNox4EUJXHEW6yaMoEKHXAsiLAHZgL1SZeAQW0nuCJBeNciPFomLJNsrHXUkF4",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJNfJprMJJyUwRSBuUfD7u3Gc",
+    "plus_code": {
+      "compound_code": "9WGX+RM Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WGX+RM"
+    },
+    "rating": 4.6,
+    "reference": "ChIJNfJprMJJyUwRSBuUfD7u3Gc",
+    "reviews": [
+      {
+        "author_name": "Drew Allen",
+        "author_url": "https://www.google.com/maps/contrib/106539184271082686478/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlUK8Nfzu1CAeMuanYqFoQe4lDntYtxmRvRBFs4c7favpetDZl=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Where to begin??? I have gotten my hair done by Lexie for about 10 years now and I am consistently in love with everything she does!! She has always done better than anything I could ever ask for and I recommend her to everyone! Everyone at the salon is so kind and welcoming, their services are worth every penny!! Thank you Lexie for all of your hard work and for taking such amazing care of my hair all these years!!",
+        "time": 1745365618,
+        "translated": false
+      },
+      {
+        "author_name": "Pamela CG",
+        "author_url": "https://www.google.com/maps/contrib/117155259441320895157/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIb1XbE8dnHD5O95PvRUReo3fubktb_6xHjUsmI84x_o8SEFQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Lexie has been doing my hair for 10 years, and she’s simply the best! Every visit at Suite110 is a treat 🥰 fun chats, a welcoming vibe, and my hair always looks incredible. Her talent with color and balayage is unmatched, and she always keeps my hair fresh and healthy. Highly recommend!",
+        "time": 1757633239,
+        "translated": false
+      },
+      {
+        "author_name": "Isabella Selvaggio",
+        "author_url": "https://www.google.com/maps/contrib/116326622005487095916/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe0GkomgIYfSetCzbyS0KWIbxkyoeH6HG2CL04Xszc4fH40g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I wanted to reach out to the salon how amazing and thoughtful they had been taking care of my hair, I have such big frizzy curly hair that a lot of hairdressers get scared to work on my hair because of how much hair I have , Lexie always dose an amazing job on my hair, you know when a hairdresser is passion and listens to what we are going through with our hair type, Lexie had fix my hair many times by other hairdressers that damaged my hair when I get a balayage done , I had to try other hairdressers because I have moved to Quebec City, when ever I come down Lexie is always there to fix my hair. Overall Lexie is such an amazing hairdresser that knows what to do but not just that the salon is such a relaxing and friendly place,\nThank you for your hard work on my hair 🙌🏻🙌🏻",
+        "time": 1753904497,
+        "translated": false
+      },
+      {
+        "author_name": "Mar V",
+        "author_url": "https://www.google.com/maps/contrib/113210551164481033382/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIm_76TkwnPOXjIYHJ3a92YP2c_h88A_52DS4BnYfGPeMAnue0=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Haircuts are fine, even though it seems Alex is always rushing somewhere. Nevertheless it’s ok.\nL. Is more patient with customers.\n\nThe salon itself is clean.\nHowever-\nNever do your nails there. Never.\n\nD.is an absolute unprofessional in this area. Got cuts on all my cuticles. Nails are bumpy, not done till the end. I have scratches on every finger. It was an absolute disaster to entrust my nails to her.",
+        "time": 1708190984,
+        "translated": false
+      },
+      {
+        "author_name": "Angelina Homem-Serpa",
+        "author_url": "https://www.google.com/maps/contrib/115041294162975694204/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6MjQehSwZxwI56ob3fgfrCkmYrIbB4Tc7DviBauR88noJyK3Z=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "I’ve been going to this salon for a couple years now & I can hands down say that it is the best salon to go to. I have always recommended it to every friend I’ve had who wanted to have a hair makeover or touch up or even fix their blonde balayages. Lexie is my hairdresser but I’ve also had my hair done by Alexandra and they both do an amazing job. They make you feel welcome always & will be genuine in their approach with what they recommend for your needs. They will never have you feeling surprised with the end result that you get. You can trust that they will ensure that what you are getting is what you asked for. I have also asked Lexie for different recommendations when I was unsure of what I wanted and she never disappoints in finding the right solution for me!",
+        "time": 1744737292,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7484118632928385864",
+    "user_ratings_total": 58,
+    "utc_offset": -300,
+    "vicinity": "2500 Henry-Ford Rd #110, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

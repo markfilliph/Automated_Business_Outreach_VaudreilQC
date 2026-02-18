@@ -1,0 +1,394 @@
+{
+  "query": "PhysioExtra Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339150.3389375,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2921",
+        "short_name": "2921",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9R2",
+        "short_name": "J7V 9R2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2921 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9R2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:30 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2921 Bd de la Gare, Vaudreuil-Dorion, QC J7V 9R2, Canada",
+    "formatted_phone_number": "(450) 510-9473",
+    "geometry": {
+      "location": {
+        "lat": 45.3911781,
+        "lng": -74.0545806
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3926033802915,
+          "lng": -74.05317981970849
+        },
+        "southwest": {
+          "lat": 45.38990541970851,
+          "lng": -74.05587778029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-510-9473",
+    "name": "PhysioExtra Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:30 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109789467266744480616\">PhysioExtra Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVB35ZyMIGww0CkZgzLDcJ8rMMQ0tJANjmdPF2OOF_uXwysyCBTgAfFT93LNoUbZ818CZaEeC_4LXuOKUaOslhEuSgUcIapdbDKdJMWcOHb5ebEia43VCDI4fUrv9y29WpRJCgW26SO7R9hyeIWPMce-iWMuaTSXSY88cCImItdQCRM3-KfG1RepJdsvyyrj4aC1axSWVQ04gLxHepuC0dZL-gzEljxXa-NURZgX5KuJZ5d07e4iaHK9_PVFwloyF5dak3Dw9xbWlIADnan5BmK3A-VdNjO5hk97qX1bbfxiA",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109789467266744480616\">PhysioExtra Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVQkbukGViLOaVlgXjCjlAgdZZ8q_GzSCUwQVfXtV7EjRdHCDnrg6AxSNQy-B46Hcv6u_-4Zgnpfywfj77T6ovccry09MOJrSa4fKg3dpLg7f_Mqe_OBkViQTc1GmGbnkFc2LpqnPNLmq8YguwlX0bbvr8u41FIBDUDzo--7KWJhEWOmADGf_5BzU51sxHylf46lDfi2fmnPT30ktEK7pXeaKk6Rl6JCEJ2EDyjt4WwSqGcMBrfbEjQVrAIlRXMc6MHbYzfXRiKPHo7EcWH-DN8J5TSuJLQXY0lveV3REoxBg",
+        "width": 4800
+      },
+      {
+        "height": 3199,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109789467266744480616\">PhysioExtra Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWpNkURAuHLDRwj-KrVCPA2qwliS6RcWfddtYEeXzmORttm9AzA12L_eLpTlh6EGmQssqUBKOg8VxNAcZ87hEiLXyNw2oNLQLzn1pqW9GalTE0R0wSdSSrOlRygOujrcOERyhpl-Zd4RCa-H8Lhu-dIRmyc2JeDXA7Sj_t1WkGznA1M3lumJi9B-42x_uf2y-tRB2vPKDg5W-vzi9skbJc7i9h9fOzShiAFZBrjCzI5TMQhf5mJTxtWmPFUyfQPRZgdQ9bjK-pJVBY1JTB9gzdS5ol0dnzjFysRXHLU0iYucw",
+        "width": 4800
+      },
+      {
+        "height": 3197,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109789467266744480616\">PhysioExtra Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWNyapJt0jLQ3IifGl7dezyz_3iwS4LzHV9hkWmep-bNAQellSSQkiA-FiAnYDKoPUp9AKy2aXP1vKbzzog36b9GhkYPfsnm3pMh-8hRHj-tuy0obXgfqG8jaymVHj-Qk1PzPph7B3qN-2tiG0hWpIRBNne-QvWIwVGI0uJIwQrtAwg-OIa5LyUa0EUHg2SONu2iLZofFImAW-hRuwMtue16Vs7t62AqTwKoqt3B-qaUCn_Si_kGYq4i3hUox94rbdkx8mPeheCCYmN9ci68ivn8TNiPGwgq7l0OJAlQ3vq6w",
+        "width": 4800
+      },
+      {
+        "height": 3197,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109789467266744480616\">PhysioExtra Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUGSEatcM_aFLz8ugAWVGHGxVNEWuGqtsszCwAxJb0ukgmYbfSjDR4JwGTjdbcP7xcki3vY_fngIX23PidJqqRyQnzClR_3GewHd1858_knhlFgAEogZ0AxARrEDJDpkFEPEg7juESXczbfe5XZpD1a-yrZwMiAIbgOKwA5vjP1AVkWkbZsOJSPizf1llOrDI8G1rWqWC4qYWA77EnZJNytawUNZW4oogXBwjQm-xH5ANu2J7ap7qecdjxRbI9saPb8ebFtHm_FNs5zfkUit3CYaoXji5ny-r5a2DVPHib__g",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfUW3HsCXQXib0aQOo0fhV4VOoYCdg_euXqIouqLk7sM8MXJrMaO9yZEfhEh-PmPsKvu73mLNX7jRG0iJjFuOgx0AnqrXtTwFmaMNs5jQHpx-t4Hl3ophNyTjDdqKZ2Iv0zxPcGK6Lajy2SRIxceTrzxe5qCDmO-DVnQzzCUe4VFHS3ilxIB8WlCLNLZz0nDOIEMkDF_B0MZZe2ExP5SjcukMhkbMvAUmUoxPRLkyEzZ6Bkiey6h0-Xv4miKmlxc564kdszHnaU6pD7kG_5f3aFpcy5AcQAlCqStUTqEnROaEZLE4Nzp59Dl3eL7LxfL0hYI5l1d3PZxJOjBBBuW8HtwQZyRM1olqB7bV10yXT0Ybsy1Mqd9gpyTgnVE8eBnQgJZkPq0AQWmnUKJeEI2WXhcubAqT6rS41CQCsjrlc1QLyc9c-9UCD0f7nfePSPz",
+        "width": 3600
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109789467266744480616\">PhysioExtra Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfW8jqpVPda4NlDuCYURDycsTYI8vTU_Vue-3_2BIvOialPt6t2EIjnWTfLcWlwLNhL0Nf7gxnOTwrQ3QGTEsfuyeFAR8Ut8PVwpt6M1iGvIREvR8LuycWl0mOvEErp702Jby4bTXYkaiL1xRarWhzV_PJmegccnvv4rLL3dXXHnvLFEdoqqyIX13A2jkxMP54KUhhTxU-fvaeCoP-lHy0xWxHzPe_E_-uS3HO6gez7cHygunxDFamAj0KK-ccx8gxPQQ7QGfFfwLNc_oU9I9J13AmZYz5U9UcA6PV8q7FaLbQ",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103156575179909667913\">LUISITO SAN JUAN</a>"
+        ],
+        "photo_reference": "ATCDNfVFEf_nD4Cqu2DuxUN5rVEauxlf5NyNgxxJhmnD52MmY10IewGcWS7VjfiXUZOOTgeEPv0YRDe7mYVtzo4MACB5errwAZXhC1fSr_9h43D-1xLb4HIQjFwRrcgjlYwHmlr2yi26xiaKZ1EyVd5_dMVIezOcGZztTJZWv5YHyWGPRRaAhpnoSlG8uy69sX0f3RWkdFtToTbYlAGnV0_sg1oc-z_s0q_mEt_zkgR4NeoOg9QyPhSw-hz8c4GU55oC6CT7L1GVWOIdVoo0RaW54jkXJzMML2XCkHjaLsRK4Kk74QBW40YMXUXbOg6gz9qDK-8VcAFVuuMai-QODZX50bz4TncB2MuTMwvFlWolRtn7Xy8xboZIjx5DnpzCOGBtfFN7TR0xJR4qaI7t_8k11fj-QEUQ-0EnMyXeQg1Lbgo",
+        "width": 3024
+      },
+      {
+        "height": 3199,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109789467266744480616\">PhysioExtra Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVN05ly47u8Vb6CCBeDnaTyyuDcy3b_nbZDZg-n6dpN8p9S1aRfAiMkvkGVtcS6h_Jy2o_PKaKH5pzSdOBk7hB6kqMtJQB4DzqYRkKa_9EdNbsf14BjnexI4plhnPAX5mY3Y2eVZHyUq6UYM90ot2zdVf1YxIWGxSXARRkYvXkk6cg-niPsLtkQ2_idrgPQ_FOSg6-1GYE6EnvhKyzNYggwWfZpdGkbStsf8VKN88ONVYyBWMSZhQdLUwUAV6E6VqxcxYoEQDIR5zy5HgZlMFV5h_Dj4-CapXbB5fiyOLIJug",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109789467266744480616\">PhysioExtra Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVb_vNuPfjV_z_zJryIUZmxkkGAPKaP9PHBKwXLw_RHaIHIQO1OCxpwE80Di6DFb5znIhLysoALG6rU5auJNjygLx0s7-serd5w01y4A4E7nIdC4NaHborfkEERdzPdpzTTU8r_qYvjnKZevgN3VoHbJjILB6FWiBdvromaEE1zyXDey6P4HAM_jVhB79Aes28HPKyFnau8blng2pBgxmM0-V200_zRl2UJmQBWhyBUop-APK_Ji5aoL0Z7cLKHzZwT2KiL2-COQvrXH3oisnMO_6hVwLe2-l6kzqNMUrrvng",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJT4zw95FJyUwRx5_I6jfelWA",
+    "plus_code": {
+      "compound_code": "9WRW+F5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WRW+F5"
+    },
+    "rating": 5,
+    "reference": "ChIJT4zw95FJyUwRx5_I6jfelWA",
+    "reviews": [
+      {
+        "author_name": "Kathy Hale",
+        "author_url": "https://www.google.com/maps/contrib/118416074366444643988/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItzo8zMRFcaZbwde_YqfMYlJPy_iZnPdxEr0e2zdZR-DAL0g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Mathieu Gareau is an excellent therapist.  I saw him forvestibular therapy and he was very helpful.  Knowledgeable and compassionate , I recommend him 100% . The office staff is also very welcoming and professional. Thank you!\nKathy K.",
+        "time": 1742829158,
+        "translated": false
+      },
+      {
+        "author_name": "LUISITO SAN JUAN",
+        "author_url": "https://www.google.com/maps/contrib/103156575179909667913/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL68kvKaCqWZIXWUvOIqCnC5x4Y5qcEIT9zIWANlVkEQWYwJA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "100% Recommended, great service from day 1 to present, Great Staff, Salute to all of you.\nKevin, Mathieu, Lea, Samira, And Gabriel, Thank you.",
+        "time": 1679508902,
+        "translated": false
+      },
+      {
+        "author_name": "Ryan Denis",
+        "author_url": "https://www.google.com/maps/contrib/115804151315480693602/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn0F_gzaaHCUOM829B1uSfpSagf2v_A3sueaaODmBNzJBSvg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Excellent Physio. I was treated by Mathieu Gareau. He is a true professional. I've been to multiple physios and this is one of the best in the region.",
+        "time": 1747858338,
+        "translated": false
+      },
+      {
+        "author_name": "Samantha Simms",
+        "author_url": "https://www.google.com/maps/contrib/118285695587024756928/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3tnhoj9VHMllhD2yBQIBnguKZRIpAcvDtvW7HApKamiKbkQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I went to see Amin for my physio therapy, he was amazing and professional. Amin has always been in a great mood and funny so it makes doing some of the more painful stuff not as bad. I would highly recommend him to anyone who is in need of a physio therapist :)",
+        "time": 1734457793,
+        "translated": false
+      },
+      {
+        "author_name": "Ryan Tanner",
+        "author_url": "https://www.google.com/maps/contrib/101222742359997883330/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIO6CNMcQgKPnj4k4hB7kWLkp2aMVbWUkSuoqc44BgGe9Xo7h8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I have been receiving treatment at PhysioExtra for my herniated disc, including physiotherapy, occupational therapy, and acupuncture. The specialists here are incredibly nice, experienced, and truly caring. Each session has been highly effective, and the comprehensive approach has greatly improved my condition. I highly recommend this clinic for anyone seeking top-notch care and professional expertise.",
+        "time": 1716593155,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6959713130914553799",
+    "user_ratings_total": 176,
+    "utc_offset": -300,
+    "vicinity": "2921 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "https://www.physioextra.ca/clinique/physioextra-vaudreuil-dorion/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "query": "Auto Laminar, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338217.1899598,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "140",
+        "short_name": "140",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Loyola-Schmidt",
+        "short_name": "Av. Loyola-Schmidt",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">140 Av. Loyola-Schmidt</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "140 Av. Loyola-Schmidt, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 424-5100",
+    "geometry": {
+      "location": {
+        "lat": 45.3739617,
+        "lng": -74.0413087
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3753730802915,
+          "lng": -74.0400062697085
+        },
+        "southwest": {
+          "lat": 45.3726751197085,
+          "lng": -74.04270423029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-5100",
+    "name": "Auto Laminar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfWDcQLSsmWjKU50DpTLOwXhKq9nZOLzz-157CJ_YUAs3FN1XwH2M_vp1hR_tovgVJePNzEUrLiTtwqCRCO-m3d5tQ64--OwNkKo-_87ppEBOyRJOnu2opzh42AOm-2jo5Tr-yQ3dZkKEChHmUlkZR0b6m6jWg34cTDcZts6n6c3mDHW3S3wNiB0ybqQqOKQJPvV1dVThZkVDjflp--PJqY9_Gm6n20-m1cwOCthYkGrlfyeDZly6qA-rZpcLU6dLAD_Ox9wegfziEEcUj6_L-mVk_uiLim9JFW25W1PpA5RUQ",
+        "width": 3024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfWXKOw-YemNXIMc0h-_ZZcddhksJQ-4yc5MMMQW8Uw_KcUWUKe6xUj4O1M9asj1PKBgqR4BWWMYNE_2Yxv0Gd3q_eiYvQ5QiwJF76uSmmT4vao4mEFXELVzKyluLPhHFbnABmiwHahgBWgHN4dniZBmP9Vq8BHyjMD3KQ37c_47Dt-IVm-ILVKIdAJfrtd_X_JY6BhNLMKbocdnUjbhHWSkFBlOfTJ3zV5X0wI0ZiFS_0kjK_kj-WrQbp1VhqVaUyS_sV6lFl-iuwNDeuIENNTXpXuB1gVcwR7ZCwcA-CNNwg",
+        "width": 960
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfXDhmM9DwfqoE5wrMAzKjJloikhQ18-5pNO0kousGPfglcCwQlbuhFhZiyqbp4gbiDk8xFbJQ2QCacbsb3riXkUp633r6byAmwQFppyQDdzX-TssgWRxwic-TtsCxqOD-urWdovqvvy5WtLLoM0QFAKSaDFFHT9GCBEmhO4dB7XXj4X_Olp_fRN9eDb5KRFRDvu5obVCKlBz7NVCszyDC3TwautTqCHKM6WR2jEwcpn-b44Js5Uk-4APIYzy5ht5mr7c6aU_o0EvHRArf7Dj8LcKLDAOa7cR0F_MYZSM4cicw",
+        "width": 1920
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfUJclu69ubMudUex7Se4PQ2dSDCOSmdCQB2qAyjT5DHN6YmELuCwhOXT5fqhg28j9woOQeYY1JeTDollY0s95ebwvD-lDIBDFNRTVvBZMGRumCcES1JAB94WTwZgtBUgeiS3pLXOBxwmBPQqyUxTSEpvT4F3q8h89W9nBIontMUEopGZ5ta9LGA9_nkvviUyFuxPPGTY6WfApoKMAXzeLaN4awO25IBKxJlT8xhmskHuxJeyvP06YistbcBFmDLI9fEBkXtTN7iH5NNSZr8ktK48INxHCije9-tGZNrUh8LjA",
+        "width": 4032
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfWWaT38BH0zf0sPxPimcA9JHdCkNlfmccrnFUGwXTXSnUCXAW8wLzLD-QnvUwp1cC8_FSgVTua2laDXcU6PK79s1wklEl8jtL2YaYuWMUuGwDkpQWU7eFPoRyz05U4y6JCXTktEeDWhqpxqc6eHOFertmRHSiZAz0YsHxpz4jq0pd9bR8v7AIpk7WUASNDdW7G4dQ9yjYCQQyNeACzi_cLuQSqFyavdPf0lM14_EMJolJIVrk4E2CTuWe4f7to_k-P3_nJMBQYXA8U4s7mYo3QnytfjnEF1TElg4pajzcs-9Q",
+        "width": 1512
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfWnWJlpHaCbQMa12NBwyz5zDR6k5dggC6DfI71BugxomYFmR4Vb9hifDJJ4c_1ksB9xvUqCet3MnoAEQNri7YtA4cdys7Kl3dv4U6ZAr7spQpzgVDGfS2lSbYWQNdIXX1HAz1eBomEhvfiGZjzOXXcgNmig40LBkYxx9hLNWItkNpR6yGcvoNpjyIHfYXY6KL1jLKUyAE0-2lvnwJrXUQmTpQ7kJqDa-28d0PTX7IBGWJcUkc3QCn-60BPoZcLW4U_YgJmCvk6LzRrIkaScV7H3O33hMPAwHTcUqrfoisMd2w",
+        "width": 1920
+      },
+      {
+        "height": 1136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfVnLeqL1GmWAI8_iSmj8jieuPKVDj98U3R_o4SjtN5RM_a5nAwYNlIdM-F2jdBaFNjRoded6DznSTf9Yakfq3iPzLPhEBVjfiK2oCi44oEKkA_gwXPAIoWan03MBN0l_bgl_EXOuut0kD1meVgfRFSCOMPE-nnyGp1WH0kRU0w9HW1D2rXeyVuNhA-2pm3yDc4fcAt_6roR44k6SAgqUJFMtBb9tGtUMq_HvmDvFRI3FhT9ItohENQclUqs8tLAgdQ-a1loSpacac7zS6uaUdbkqd45_hSCekgXY7wKn-7Skg",
+        "width": 640
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfWZ2dOLgFAw8DNn9bNhJuW_a_QyVF6Up0EElxduya73JIuiTWONz9PdHovPJFvwO5Yo9NKz7muGfpvRz9wlYTyfkSn9CVG4sPUpGa3QJYbmRexrFvggy91TUPMnzzfKoQUR2IN50uT1R1d1ecokknKAcpBZN6BDMFea16fMvFAYKxFln2Cns_7RNL3M9BTiK9rrS01WGil2GpSdHIsWymh9gy-SfIctLZelP3XvJiy79VIvuU6Eb-t_GG-SYYppiJ4Ffk9Gr9xpWsK5Lx6_jo33CrKYhTGS897BzNvCfKdfHQ",
+        "width": 4032
+      },
+      {
+        "height": 2089,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfXBxjcJTeI_9xLcNIa-uM5CBQsYChpfVJaT28tlnM2RUUERqO_Hdn5_q2t79g6W6UaGn7F25aRugLfcUrRnvhLsGwtNDliWxgI2TL6leIXxd-w-kfE6rmk3pawEYXyrQgKe7qkOY_e1eOynbVu0hEHpDvZ2JDt-ryVTiZ2Me8lesyIpw-k4Z1sL6JPeWzS-K7-a7UZsZ3VnN1ayA8-SY4N9EidXqhv3Nf35JG8RVhsg82K6il-6eg6q4WzcGLcwZkhpRrTuN3nGJrd6w5ZnpdQEaPk4EHke7_-XhohMLb9HCw",
+        "width": 3762
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115330272461047255299\">Auto Laminar</a>"
+        ],
+        "photo_reference": "ATCDNfW63vB9VsYLD8axvWKS8I5IUbybad9K5_SAhhS4rc_zdGMe7FUZij_T6OltelPPVTbhxJ2A01PWM-txzgGa2elVgDEKDOyKU-nQoAdAz1p3piv0ijAl5tKcrCc-fhKw-k_ibHDLAfTEMpmB_D8IA7LmVH12f3VUt8pD0nML_jMC-3CJYIKG0P7GLlZVWM-PH0SPFyHIYYIiYhEQ4eX90zT0c_HJ9lYs12YgZPLP8myYZYfYsTqPQc7gAL2Dp9P_PrkEn4ZBVvYZ2CbbOdknJ86U1Yrv0iWwl3LK6_am_Pb_og",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ8fLeKzhIyUwRtxGkfwz7ttc",
+    "plus_code": {
+      "compound_code": "9XF5+HF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XF5+HF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ8fLeKzhIyUwRtxGkfwz7ttc",
+    "reviews": [
+      {
+        "author_name": "Marie-Christine Boily",
+        "author_url": "https://www.google.com/maps/contrib/117558835921700932606/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjR4_FMeNwOtr1HfZnYp8RxnSTTCM4xGD11LPz1EMXPgCt1oOA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "After reading so many positive reviews for Auto Laminar, I now understand first hand why: Robert and his team were honest, respectful, and efficient. They explained everything clearly, finished the repairs on my Honda Fit in good time, and made the whole experience straightforward & stress-free. Highly recommend!",
+        "time": 1755526971,
+        "translated": false
+      },
+      {
+        "author_name": "Nick T",
+        "author_url": "https://www.google.com/maps/contrib/107706546977313140946/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU35NsfM3NQayyRM67SnDHx9TQYml6GrEN3RE2AqP1-49qZnxjb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Amazing service! Good prices & i love the staff. Wouldn’t go anywhere else! If you have a chance to get your car serviced here please do! You won’t regret it!!!",
+        "time": 1760013728,
+        "translated": false
+      },
+      {
+        "author_name": "Emil Surkhaev",
+        "author_url": "https://www.google.com/maps/contrib/107034861453385572330/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-bnIgzTYc-XDYq6Li7F0s4eCsFns0XIahQVnzEUcTp9k-IQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Totally recommend this shop!\n\nRobert and his team took great care of my car and kept me updated throughout the whole process. Excellent work and fair pricing. After taking chances trying to find a good garage each time, I’m sure this is the one.",
+        "time": 1754665156,
+        "translated": false
+      },
+      {
+        "author_name": "adi grv",
+        "author_url": "https://www.google.com/maps/contrib/105336250230968359266/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJVFwmfJQXQ-H9sL23hq9qCfk3lG8nOnXlehceR9vAP6jiIfGY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I do most of the work on my cars myself but when something complicated pops I go to the shop.A few weeks ago I discovered these guys and glad I did.very professional and affordable.if you have a Honda go there and you’ll be very satisfied with the quality service",
+        "time": 1758321234,
+        "translated": false
+      },
+      {
+        "author_name": "Eric B",
+        "author_url": "https://www.google.com/maps/contrib/117319732992973317176/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYl9ipK7L_S92qqx99kZX_bbX5wgHS79bKSxmBxXJM4SwnlA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Very satisfied with these guys. Seriously out of 10 different mechanics i went to, I feel like this guy has the best prices, most knowledge, best quality. Yes the 4.9 stars is true. I've had 2 different services here  HVAC and exhaust related and will come back again.",
+        "time": 1752245568,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15543887195015483831",
+    "user_ratings_total": 128,
+    "utc_offset": -300,
+    "vicinity": "140 Av. Loyola-Schmidt, Vaudreuil-Dorion",
+    "website": "http://www.autolaminar.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

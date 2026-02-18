@@ -1,0 +1,361 @@
+{
+  "query": "Clinique Dentaire Pincourt Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338895.769446,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "101",
+        "short_name": "101",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Cardinal Léger",
+        "short_name": "Bd Cardinal Léger",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3Y3",
+        "short_name": "J7V 3Y3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">101 Bd Cardinal Léger</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3Y3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "101 Bd Cardinal Léger, Pincourt, QC J7V 3Y3, Canada",
+    "formatted_phone_number": "(514) 425-2800",
+    "geometry": {
+      "location": {
+        "lat": 45.3840581,
+        "lng": -73.99430819999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38532053029149,
+          "lng": -73.99288776970849
+        },
+        "southwest": {
+          "lat": 45.3826225697085,
+          "lng": -73.9955857302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-425-2800",
+    "name": "Clinique Dentaire Pincourt Inc",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 828,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109422498799984104686\">Christina Martin</a>"
+        ],
+        "photo_reference": "ATCDNfVUMRNok_usI9341lGANd2134UTcsLLEShGgZlC7sNl3Ez9NWFHHzE3F_CAWqyH_UStaGRwCfONtO75HQN-k8q370l1llj9WY4P7NGPt-oHePXMRd0DBTZYqQdlIBw9RCQll0rcashAeYUAIlcYT-vkAJMdXVjMbD_f4yU6HgcYfLOHD509HCrwXHNW4Q6eoT8cVDfinjvYZIlrU3yqqECy0mbehfpZ2xInUHkhWHDyIghNUMgtzYrOaV-hydGJ_BXG2AAaDRGGILIxpTeVniHzQckEE2N7t6KNLMp9RBvyQjdXxRHzuktkHBMitShP9zxz0dmh6aXJeGqd-0bEWDFkVGMW-pjsun3nvI4JObE0pX7yEl9IQySa603A-vtc_lUK7ua-GyJSpydkMHks5LQxmYuAdzP7c2GEJWjuNot6tDzE",
+        "width": 1792
+      },
+      {
+        "height": 828,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116556844311517549835\">Clinique Dentaire Pincourt</a>"
+        ],
+        "photo_reference": "ATCDNfXcYB-ujie64EwgAtoDADLMI9iVjtNtVVelqOtOIqVmCZIRsYLAsuA2iYq5huRgu-CqCQsP7knxYFVMHh2DU6mC1waxchfJUQS1R87Mvr6kc7vMBFNR7fl40i94K6hPDC6ikq4jGgIuSY_Ya2SVvnIBtbQL_LeewU59RFiGTNQfs7uHQfaPYThQpU-7TsX5z-dy5i5KbEf1orHWTIKFBfjse4SKrtfgyf3pccZws5ROA_FgV9UCQiYu5Z0lCUpzWAJpKBbz7VB_aCbHKZ8UhGHvi_zsFU_Lc0PhTHKk4_TCmA",
+        "width": 828
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113658357889170235841\">Aileen Waldie</a>"
+        ],
+        "photo_reference": "ATCDNfVqDnz_MAKIYvyYPi5kzvBlK4wNUEmmaacZYoAL6w88Y3_fhAoPaIJtYvYs-zCU-MN7-hTEugLylAQWqVc2WEiyfM2AyUAMJYCwM9pZVMHX0QPIvyz_0ryF5iwoN_Et0zocPbohlzHBlsC-jl-Q7aMEZPMGS6wh-QMwHEsEupcxCRsZKR5-d4AkHIhyJzKREVF6qQfl1M4gg2W-WvQjSBP2yVQDWLPcpwnoh9PyM6BcMe-UqzNA2W20yROCkGK2gZJm3UxKytW2P5CwNQuBGpoCnWgsliugCVQFZ5kMdSzHBQ7euDWSt_1VOSU0vkcDtVN_VMtvnTWeSvlEJ8tY1r4ePB6rpOsmyHEhuMQ6qf9Vy6y6cnh2rsIZrsvp7etSobYzgEdDPB544i4Dh4_svHfsC89fPsa1rNhKPOxASjemEo2vG-MnjIWCcnpUQg",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJN3ku9f9HyUwRfEshEX33RWA",
+    "plus_code": {
+      "compound_code": "92M4+J7 Pincourt, QC, Canada",
+      "global_code": "87Q892M4+J7"
+    },
+    "rating": 4.5,
+    "reference": "ChIJN3ku9f9HyUwRfEshEX33RWA",
+    "reviews": [
+      {
+        "author_name": "Jennifer Balleny",
+        "author_url": "https://www.google.com/maps/contrib/116978640019126355603/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXBCR3zdUOYKbs8laBlOs2xAs-edrgDZVQdwO0SdleicN0Ag=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Best Dental experience ever. The ladies at the front desk are so friendly and helpful. Veronica was so sweet and caring, and Dr. Zakkour is so calm, patient, kind and compassionate. What a great team!!! Thank you so much for our emergency consultation and next day wisdom tooth extraction. Highly recommend this Dental Clinic!",
+        "time": 1762045368,
+        "translated": false
+      },
+      {
+        "author_name": "Nina Hnina",
+        "author_url": "https://www.google.com/maps/contrib/106435061160681698043/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLH_ZZ_LTDi01mcfg__nkKMCbzrl7hLaoWX9csfZXXZ3lvmDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Big thanks to all the team of the clinic.great experience.very satified with all the treatments.no mistakes at all.dentist and his team are sooo friendly and welcoming.they make one feel very comfortable and relaxed.and do their job best way.thank you again\nNaima",
+        "time": 1769386824,
+        "translated": false
+      },
+      {
+        "author_name": "Larissa M",
+        "author_url": "https://www.google.com/maps/contrib/114546449069904101874/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRSB46XUfsCpmTdzJ_qdN9e0hou8jVkfoLsudU2T2oYsblnQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "a month ago",
+        "text": "Went to try this as a new dentist last fall because mine was overbooked. I was told I had cavities to fill only to find out when I went back to my original dentist that there weren't any to do!! A little questionable. Also I had booked with a specific dentist and was put with someone else when I arrived. Staff is very nice however.",
+        "time": 1768234770,
+        "translated": false
+      },
+      {
+        "author_name": "Haytham Mehsen",
+        "author_url": "https://www.google.com/maps/contrib/105675282644666017800/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQiWCLwVogmB5jeM0rP3sMv2mddMFZs3pYA11ThxRpiZTRktJy=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Amazing experience with Dr. Zaher Zakour! He is very skilled, caring, and always makes sure his patients feel comfortable. The clinic is spotless, well-organized, and the team is incredibly welcoming. I left with a big smile and complete confidence in the treatment I received. Highly recommended!",
+        "time": 1756505406,
+        "translated": false
+      },
+      {
+        "author_name": "mariam mekhaeil",
+        "author_url": "https://www.google.com/maps/contrib/106044622688574298231/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9D79kUpwxjw4gaG6Y-uEUfB4xnFUjNn5zXD8xP0D8Si_oug=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Highly Recommend!\nAmazing dental clinic! The staff is friendly, professional, and caring. The clinic is clean and comfortable. I felt well taken care of every step of the way!\nDr Zaher is very gentle, and takes the time to explain everything clearly. He handles everything with great care and attention. Really, it was very good experience!",
+        "time": 1749601911,
+        "translated": false
+      }
+    ],
+    "types": [
+      "dentist",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6937222917564484476",
+    "user_ratings_total": 68,
+    "utc_offset": -300,
+    "vicinity": "101 Bd Cardinal Léger, Pincourt",
+    "website": "https://www.cliniquedentaire-pincourt.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

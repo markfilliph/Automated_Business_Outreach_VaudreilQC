@@ -1,0 +1,337 @@
+{
+  "query": "Bien-être Sourire Centre d'hygiène dentaire, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338513.0012648,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite # 120",
+        "short_name": "Suite # 120",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "430",
+        "short_name": "430",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7H4",
+        "short_name": "J7V 7H4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">430 Bd Harwood Suite # 120</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7H4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: Closed",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "430 Bd Harwood Suite # 120, Vaudreuil-Dorion, QC J7V 7H4, Canada",
+    "formatted_phone_number": "(450) 897-0747",
+    "geometry": {
+      "location": {
+        "lat": 45.3785572,
+        "lng": -74.01974489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37990773029149,
+          "lng": -74.01839266970849
+        },
+        "southwest": {
+          "lat": 45.3772097697085,
+          "lng": -74.0210906302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-897-0747",
+    "name": "Bien-être Sourire Centre d'hygiène dentaire",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: Closed",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1644,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110274531652522975434\">Bien-être Sourire Centre d&#39;hygiène dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfVq9hxG-nXf3_ObUyVPITfH5LZ4MdeIipqx-b7gZWBRcPbj-SfbxSejSmS11Y8CICU07Z0xYU7bcNrjh7S8KEcU6U7DX7LbqjdzEqG7dbiwLzBOVBJLlxDnQmLvvbHqoXcV34ufD9tMFM6Of541W0BJWZV_fETMB4Qp9PpJB3tGi-kPZWAo-WREMuTRqHKbwf-qZZE4M0EqDakKQtEanecWL2yfn5tLPrGzKZ6qqwpfd18QHslxa2n-gjcQq2GHryxWd7tE9_2PVNXGyRsZ_fEF9XFlW2NQ239kokOARPctRA",
+        "width": 3593
+      },
+      {
+        "height": 2024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110274531652522975434\">Bien-être Sourire Centre d&#39;hygiène dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfWicOEPu_Y4Uj3e3xQJpTisD-Ck_14HPjJxi8rWjuJ5wKzQVN15EdfJ51QApbs4pTsNdZZIqun9fe3TyhS0rHykIvCS4Jiq28PkL5_6JR81lgNqJI9Z6CZu1a_BNW1ZCRhvEmMlSVCIywtrvubop-GpEiWYGxyU1IkIGVGWMvCwBrcwJV5cX9YAE8YkUcKAek4DqRamLfVx5X-hXgOF7uCh-qeEKp9NAj2eM5tcmbi9nsL2edYzY9Md1oAgDyqcAQitq1iv69McWzu7jjLV2TVOWXa6CKn4FMb0vOMwBcskdA",
+        "width": 3600
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110274531652522975434\">Bien-être Sourire Centre d&#39;hygiène dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfUzc7zvcIfXTZJwfYnEm0iV_DLt7vlU2vNAPIFo-I3g1WK7I-BKjIwRzwXr1UwLbnR4WAPZxfihn0AkRTJHvPaET0_LP_0CAnSWZTSdB5hFZbHHvo43cy9im86xUSbXnP_mclMsHt9lsfeSCNeeXo7UG9rZlbjynjA3kvFBDecsCNf6sOLyWMtXtp76ciDTPFiiGb3lMSecvxV7HngnZe4tcGjlqsU035zp5-5csbc2Z0aEmrnMP3WUlNbKMffgBJ4rTbyobUuXOrQe25875WgDniVQHuzJwS51FYBBjKtt1g",
+        "width": 1366
+      },
+      {
+        "height": 3610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110274531652522975434\">Bien-être Sourire Centre d&#39;hygiène dentaire</a>"
+        ],
+        "photo_reference": "ATCDNfWHA6U_fwzvGY_BjunRWxtHGh1JHgH3YzuD1WrhUNBje141LV_0tLmDKwRUtHGF2V_vkmuZvf5TlVtkF1UbD0Xug2Kf_hFyccKbwmdeEX2ZcYNSJ3pj4OrBDVaVtF7fI3SOux6LC8jJzFjNOjDOaks-r4k2P9iirg_zWh98X6bxeXr732n7-iGa-WfWGfd0pFD6WwBLnIymylPb4POL0BVpO9WwmcETjbHOxfy2vu0OTe8jbDXl2CAcci8rz6N7AYtGilaLDhKW6RwSpmCz_RoGrIUK7NjiAPU0CRCSSNOTxQ",
+        "width": 2405
+      }
+    ],
+    "place_id": "ChIJHTo5IrdJyUwRTx1A2teDPRU",
+    "plus_code": {
+      "compound_code": "9XHJ+C4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHJ+C4"
+    },
+    "rating": 5,
+    "reference": "ChIJHTo5IrdJyUwRTx1A2teDPRU",
+    "reviews": [
+      {
+        "author_name": "Caroline Coulon",
+        "author_url": "https://www.google.com/maps/contrib/100602395220897543590/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhODLj9zIR8d_wQMv3v_nxA8g_MED79sIJeizL62jV1DaPbg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I loved this new experience of having a dental hygienist at my personal disposal!  Very relaxing and I especially appreciated Martine's dedication to her craft, her detailed explanations throughout the procedure, her professionalism and her fun personality!  Highly recommend!",
+        "time": 1682295263,
+        "translated": false
+      },
+      {
+        "author_name": "Ofelia Ofelia",
+        "author_url": "https://www.google.com/maps/contrib/103518740850410316972/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIm5gHIjXTOe6KKZ4y21lxXzHVF-0FD-rWlOJkS8UXq7ZAqnA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Best service, súper profesional, caring my gums meticulously, nice experience\nI was explained with all details how improve my dental hygiene\nThe kind touch and the amazing human care make huge differences",
+        "time": 1669766940,
+        "translated": false
+      },
+      {
+        "author_name": "Tanja Solimano Tokumoto",
+        "author_url": "https://www.google.com/maps/contrib/111415231967036145831/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFRt2LWbI4opGMsETLb1JyVwU3TUdSYxw84e-9w5_pOly2Y0ri=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Incredible service, patience is unique, they take their time to explain the problem step by step, I don't know anyone better than this guys, 100% recommended",
+        "time": 1677007413,
+        "translated": false
+      },
+      {
+        "author_name": "Sisi Jp",
+        "author_url": "https://www.google.com/maps/contrib/114446311561091630110/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxJLioOpLKgC_UGIDG3V_vDRfZVwe0SDJBpO44aNQ9jC2jgy5khQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "⭐️⭐️⭐️⭐️⭐️\nI want to emphasize how exceptional my very first appointment with Martine was. From the very first minutes, she put me at ease with her gentleness, kindness, and incredibly human approach.\n\nHer work is impeccable and carried out with genuine care. I truly felt that her approach was personalized, that she took the time to listen to me and understand my needs. For a first meeting, I couldn't have dreamed of anything better: Martine is professional, efficient, and incredibly caring.\n\nI recommend her 1000%, without any hesitation. Thanks to her, you immediately feel in good hands… and you leave already with a smile. 🩵\n\nSadaf J",
+        "time": 1764180338,
+        "translated": true
+      },
+      {
+        "author_name": "Oussama Mereb",
+        "author_url": "https://www.google.com/maps/contrib/107672274017435056431/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi0Nxp97oTnHSI9HneAiIMSx6iVgZoL1nOr_8RYLTkDgFUJco=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Exceptional service! She is very professional and attentive. She always takes the time to explain each step and give good advice for oral hygiene. The cleaning is done thoroughly, painlessly, and in a very reassuring atmosphere. I highly recommend her services to anyone who wants quality follow-up!",
+        "time": 1759189758,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1530524411478678863",
+    "user_ratings_total": 22,
+    "utc_offset": -300,
+    "vicinity": "430 Bd Harwood Suite # 120, Vaudreuil-Dorion"
+  }
+}

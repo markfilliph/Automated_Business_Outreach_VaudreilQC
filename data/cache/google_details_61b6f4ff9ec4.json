@@ -1,0 +1,333 @@
+{
+  "query": "Cercle api, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339868.2310421,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local 138",
+        "short_name": "Local 138",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3120",
+        "short_name": "3120",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0J5",
+        "short_name": "J7V 0J5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3120 Bd de la Gare Local 138</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0J5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "3120 Bd de la Gare Local 138, Vaudreuil-Dorion, QC J7V 0J5, Canada",
+    "formatted_phone_number": "(438) 793-0820",
+    "geometry": {
+      "location": {
+        "lat": 45.4021936,
+        "lng": -74.0514026
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4034661302915,
+          "lng": -74.0499774697085
+        },
+        "southwest": {
+          "lat": 45.4007681697085,
+          "lng": -74.05267543029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "international_phone_number": "+1 438-793-0820",
+    "name": "Cercle api",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfVFutIfuFFlClTF7OqEJ7zM8Ha1yri7FLVUouUcYTWxuwjoODsKBXiUwXIvXz0h7iUssH1mnsIw7TLKTB28JtwWC-HC5dsbkMEFJQ_oYm4Yn_cx9kN1LCW7ZMv3X9BxOlk1yS5IvaEVUDWemrxvfmTrsvkbKfNFbW8aV2HDWUeJ6F701BDiYaG7Eh-V-PgT4e7Ihr9Uq2Ij_mjRW4cGepDFSdhUX73u27ovyK0lDRXe8X9ocOVLj6tmWT8jJSCLR_g_1sPL9qyHOuv8V44cTYcvsJDN_WaYZ763qfno9TZ8V3WxP2yaggjHj9iMIaV0PaNskOB8d9r84zbt5MFrbEkylG1PAS0hjskUceXbwD_u54yASVR9WdOT4gtS93rWqNTNGTP3fluX8-pPKe6vkMwxn2mifJllD1G0nLKEGij8-A",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJCWoskL83yUwRE_R1YgpTy7s",
+    "plus_code": {
+      "compound_code": "CW2X+VC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW2X+VC"
+    },
+    "rating": 4,
+    "reference": "ChIJCWoskL83yUwRE_R1YgpTy7s",
+    "reviews": [
+      {
+        "author_name": "Diana Karpeev",
+        "author_url": "https://www.google.com/maps/contrib/101284778387031935983/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq5WXw9lp1C0M-mjLM6SXDMsS_GowElLqFV3euYNmQU5lCrh5v=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Awesome initiative! The staff are so lovely and I love discovering about local businesses from Vaudreuil-Soulanges. Definitely recommend if you have a day off and want some gift ideas to buy for your friends :-)",
+        "time": 1620257528,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1625257569,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=13532000809431462931",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "3120 Bd de la Gare Local 138, Vaudreuil-Dorion",
+    "website": "http://cercleapi.ca/"
+  }
+}

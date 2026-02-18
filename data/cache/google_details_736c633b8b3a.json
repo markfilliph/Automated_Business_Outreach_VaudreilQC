@@ -1,0 +1,395 @@
+{
+  "query": "Barbier Le Shack, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339975.888399,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "470",
+        "short_name": "470",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L7",
+        "short_name": "J7V 2L7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">470 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 6:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: 8:30 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "470 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2L7, Canada",
+    "formatted_phone_number": "(450) 218-9991",
+    "geometry": {
+      "location": {
+        "lat": 45.4027933,
+        "lng": -74.0305996
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4041106802915,
+          "lng": -74.0291560197085
+        },
+        "southwest": {
+          "lat": 45.4014127197085,
+          "lng": -74.0318539802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-9991",
+    "name": "Barbier Le Shack",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 6:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: 8:30 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 644,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118110690406669779950\">Barbier Le Shack</a>"
+        ],
+        "photo_reference": "ATCDNfVIK6TJMYWbAlwpQ0YgSTmU2e-vW7KIFy5ILSbzuruVU8oBf7YDIovSxCqNKjTLnsiqqC2oGi5K3yQY05Tpapry7kA_3pzf_rF_hzCFypsLuzvqJIeGwvmj2FYbZn31wUXQE4wvte4PlIlPcG8m35tnfNnV9f5RvWr_8XVa8CTnqqL7Iauv4GvjNPWeR1XFiU2VUeci1JiVeeeeVPi7R2gYKOFeGroNzXjb0IeTrGd6vx1fNmL5XoQTFg0edOXG-u1Wyo-eOPsc2nNcTvA11eDDirh7jEy6Qd3P9DFTZ7glcQ",
+        "width": 1150
+      },
+      {
+        "height": 1353,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118110690406669779950\">Barbier Le Shack</a>"
+        ],
+        "photo_reference": "ATCDNfXNFkuh0h6AjRkbj0idIc1fwzvA1VPzNaMRfkxgd2Vvfo92o_KA9rFnVXB3Xa72o-wb4DlJzcjAmV4zXCFhDAnAVSHeilxK3DhPy8MSSFRffcpHOO4F-ifTgrZnlc015XCkPVluW-KgJQWo8pgvCSb_2-rvWakVJvzej3lSdSTjggjARn-fH8oNFfUAJYX-ySSdMpzYSGeYZLHUGEKcy1t60iTk-_HpijSP0QIMzTFXpFOeARKgiBfqSWBQarD6F2AP8TOZLkoDXk7sr1jdSoc_i1MAz3Hy5M5OrFySWqw_GA",
+        "width": 1083
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117716625798296066069\">Papercut OUCH</a>"
+        ],
+        "photo_reference": "ATCDNfXEYzS8IcJYsuhgAcG1W2tAStMe10Iapmavg4ts9_5D3Z9tVXezo1ecLxE5spf8n9QfF1HH-OMenL4kfy7exx-XVe7jVzXt-80VLWLf2ooaX2qO6zjg8hAq_1XUbmpOIm2p_QMMNgNLs59XsbmqIdLLHnFjnwigY51HGRiTW4cYEr7L0cjJGi3AxnxTPM6jv7ysyxtyirR1nCHEoxZF6lDBYV1dO-EqdAuqJFmycgHQmcTkwbclzJOM4NR3kpLI1uxvYrA2AfouzzhGwndrWXx1HNxCLqEyR2bTm4c78SXMYIYer0S3SCtfRWbHuj_mjGFle407T2w60JGN27cpamop1OFmPmL7Vj1_XQZjAKSZih_Rhp33hLfzpVUFW8HkSjy9ElaBs_oklCoFhD_r_OJ8V9jtZPNTQbHHj3hLY3Aj87M",
+        "width": 3024
+      },
+      {
+        "height": 1303,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103091470147654800977\">Eliot</a>"
+        ],
+        "photo_reference": "ATCDNfWNPZRjX5Mcw6GmjrL7ukL_QooBzl8p0PvCAlsQKQ1Zxofi5pyHYvWsUPzHhkWKMrgflw6NfyPR-A0RvSztp_OWvyc9iw3fmajpa9gVgNB2qEV96_UK-Pnw2L90p7SYpeJS8OjalMwQ7iIPeCbIdpyDJYOltdu_XGdNoRXCK_IpF7z49zFHbz2nyrRxzA1KC3jFREpdT_ku6hq92M9ian0KHnaJcTAf2FWI_Ngg9lk0PjMpZRCn0odvQ-BhZ0QELiCk1HH5I7NK-yipTe_AehkyyljgV9LliD-YKMRZHSddeAclxMhwAevAy6h8CYz3kyBHwyCfyI3o0Vj51zdbqN_HSYvmamm6_cR0qKP3-vVSO4GF3NJE9w2WBIW-6t8mzN2xs3WUeAfQ2l4_JQM6VVpJKzkOCvH1b-KvTPnv-aNpgg",
+        "width": 828
+      },
+      {
+        "height": 1104,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106918776432263095306\">Nicolas Ouellette</a>"
+        ],
+        "photo_reference": "ATCDNfWj5kqj1QapBpESnI3MLLR8f05T_2tHtVkLNV-nTPPu1p8ECrXdW5diqFbZugyHxBU5xmt1en-fUEQfBiE0o9k_JPXJKahLdRCNm1p4sNfrw2YukAhPn66g9PQ0bdV97WDCHJyJtUp8vo3VHy7qPT9qH1D-XMe6xlA9V8cizczfhOs2hEISXdDuVtAgVfGFs0e0M4woMv_zvCrAvKLQHih9iNUJNSh8EOdGmMzsz1fc1QUQip7Po3OTtmMj-ydAWyVeYLa5io8j7xqONLq1KGAgbomy1BQHGhYCjlHmI4w9sMxpygUdvD5mmKeKnhyxZmQvfy0KJWt2ZKtt7ancQQD6EezHpmvzKnmSLZu4dxhucl_hrpUTPFlVaFOg7UQWPOVYVsPuIKt2UzSLSBvQsVRZ3fnWxVo-Iq75DGPFcWg",
+        "width": 828
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551214745581938482\">Julie Bélanger</a>"
+        ],
+        "photo_reference": "ATCDNfXqwNEfLk3-AzrT50cPB6dNN6SsygezOiNFpq9oe5jUCiwOTgTCOnDTQZYkBa6Gkl-EX8n6dM8yASsilbWqwcfN7G9XIuQpL_cS0ie6FOyFjdyBgLuN3gaTk9ACLfm8MM0uTHspDvvVWkWEMHzAoWbJHnldUi_3BJRX4dcvQmFk7_a60nb_5NNjV8Tj6f_MLqONt-RtmhHdVQgCPhyBEK_WRUIspp3859aGCNBCkx0H6Ju-ryHIx1FyhzgPK3ocYXvq5tx6GdJEXQCEg3g-G3ZK-hEvncRADTp0Kvv4TJWxsg8eAVoJ3e3e7wqQCKDYvU43Awzhja4HxkjHiw8U0KakNhJWSkIOrTuY-nrlWlEJl8g0LyEw7TiXF_Vlnm4iR6WGMPHOydzzwM2473s86DSH0NUlXBmF-JVeriaoVUSWyQ",
+        "width": 3024
+      },
+      {
+        "height": 1042,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118110690406669779950\">Barbier Le Shack</a>"
+        ],
+        "photo_reference": "ATCDNfWmb8JMJoqVfnRUQIdXxa_m27JM6gptr5kH-lb_fQ5f7ecnxG-1Ryr1Iswt9t6EZq17FJ4ePxwbaMOoOnNxX_2DCCOeykLuHUc8mlgBIhqux0kTWW6O2rpRz9eSS6Thrj0fLgyF-bh8WdSJ6CNBWSzxbIX_knSPMu0XYaxQUb2jqsdTHqttb-WK0R6GTQrQsWpvKR3fUC4td8k2UuziRjiLr3kWngDIeBHKiL9RmR5Z1fveTGPTqmXAJEWMgp-6g3B1-9Luga0XhiDdVd5jYWu-pioEHURlHySn7DctBvJdyw",
+        "width": 1170
+      },
+      {
+        "height": 1480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118110690406669779950\">Barbier Le Shack</a>"
+        ],
+        "photo_reference": "ATCDNfUq3AT64IfGV0epX3SkEcKzylRzz03ihLGdvHJ64PPa1DJCvv_pmMjtlhC2bZKKXX9McLqj2MFND0fEP_AL2So00UISO7iPG4Y-2zQgpB5_0s9LN6Chf6MaogdZ0f0i9eHf3_XmXlwgrHBbXiObUAXJETYT6ej9O-_GYiFXaTlSFYpiw0KfWLw5Zb8n2m1FWC4ZXhX3tT9DfIrSIEMks4ZFs-caZsK_XnXTN3ayN1BGsQi4i-enCaQTHnr_1ZksW-wDH7qTR_KHLrMWVUj_3JOQQrF5ot5wN93B_6I5CQgIng",
+        "width": 1083
+      },
+      {
+        "height": 2532,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118110690406669779950\">Barbier Le Shack</a>"
+        ],
+        "photo_reference": "ATCDNfWm2S2tnMafyVCUL7MrT6z_itLg_pSd9WigXNsosk-3AwLqQ2UMIqzegmido78k17yRW5MXdK-DPMnlAjiC6f7MRM84MKUFsw65ORLXVAE_k_HO-EH3C5d19Km5ChT3hMTUunWN69qehZeaivE_HgeCOeW0SQjX6AsD9BSpLe3zReOKNTh7YJOViWEgUXtQLmfjT4hl0L87tg9Ov-3vXpJhcgS-P1HK_0toHoH-APgGLRJ9qX_n5YcfHMdPuF6TZGfA5gf5_IK-zxn2ze5FaDtSfIFmQCRkSXP8chqnWMslpQ",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118110690406669779950\">Barbier Le Shack</a>"
+        ],
+        "photo_reference": "ATCDNfX3T_uIloVU4ZNcJIpo-wnoim5k-bws8LwgAjjJeB-dh4zbH3Sr1Y3cFZTPfuJHvOQKnnkzO2ycrH3GiqKB7YmmVQF3fMfJPd06y9ttYv8pCfBcvv_cQu0FbknmyycS-KWSUjDlMfwptc5s3VmZhXr-dQjXQbBS6fX4OGNMJYYNg-6hjqWpXE7b8tQkoGj-GceFCUqxNwAnZ9Q1yJoPXv10h4tig9CcUyi23bVlyBU5MHz4rwohx86tRl-Six-6L7eEtzzj-Ha05zYeKjyRcVTSrhuvwE4m_C8V15R2SERbnA",
+        "width": 1170
+      }
+    ],
+    "place_id": "ChIJUTd7WeA3yUwRruGSYkgvkRE",
+    "plus_code": {
+      "compound_code": "CX39+4Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX39+4Q"
+    },
+    "rating": 4.4,
+    "reference": "ChIJUTd7WeA3yUwRruGSYkgvkRE",
+    "reviews": [
+      {
+        "author_name": "Jennifer Imeson",
+        "author_url": "https://www.google.com/maps/contrib/109981656804457651718/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzRqKPqjjU-iBDx1jIRYDTHuZdb--bcunncw58TSrZ-kFdpUfW=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Cassie was phenomenal! Could not be more pleased with the service. She was patient and kind with my son, even with us being the last appointment of the evening, and his hair looks GREAT! Super pleased! Will absolutely be back!",
+        "time": 1761329170,
+        "translated": false
+      },
+      {
+        "author_name": "Hasan",
+        "author_url": "https://www.google.com/maps/contrib/110550411300394420819/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNr61rP6iupwkrtjBW6cQk0x_y--6WJgG3xvOQAQXt5DGJ7Ak=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "went their, Asked for a low taper as I usually do with other barbers. she did a taper without blending (merging the lines). Then she speaking in a very aggressive tone when I asked her to do her job and try to fix it. she was cutting the hair so aggressive changing my taper to a fade because she is so stubborn. Never coming Back here again. Find yourself a real barber with a good costumer service instead",
+        "time": 1755114539,
+        "translated": false
+      },
+      {
+        "author_name": "Felix larose",
+        "author_url": "https://www.google.com/maps/contrib/108470875124815280531/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0XqGM74UcSvckSSZ9-FvEJ4lhI4hJiSMj7NPs4qg1tJbAFw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Terrible uneven fade for such a simple hair cut dont go to this place",
+        "time": 1766002984,
+        "translated": false
+      },
+      {
+        "author_name": "Luis diaz",
+        "author_url": "https://www.google.com/maps/contrib/110467654920992623294/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKh10jk-6LaLZGciAst7ZiUU5z5hZvJm4MNo78BSFxA9-ci5-cOA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Great place. I go all the time. Staff is very nice and helpful. Only negative is that they work on arrival lost, not RSV. So not really easy to plan your day, rather you plan your day around the visit.",
+        "time": 1699356296,
+        "translated": false
+      },
+      {
+        "author_name": "David Neil",
+        "author_url": "https://www.google.com/maps/contrib/116805906879221118032/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK00Z2HixdSZ-v1o3NnMsI_abcSRYGGUUVcRRFoIbAHP8Xpog=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Overall good experience. All the staff is friendly and professional. Went in for a skin fade and beard fade. Fade itself was good but was not a true skin fade. They dont use a razor, but use clippers with no clip. Not as short as I would have hoped, but still was a good job.\n\nWas pleasantly surprised with the beard fade. My beard is thick and she did a great job blending it with my hair fade. Not an easy task!\nThat being said, its unfortunate they dont use a straight blade to line up the beard. I had to shave my own upper cheeks when I got home.\n\nAlso, not the biggest fan of the walk in concept. Spent about 2hrs there to get a haircut. Having an appointment would have been a bit more efficient. But perhaps thats just a personal preference..\n\nWould return, but if they would use a true razor for a skin fade and a straight blade to line up the beard, it would be deserving of 5 stars. Just missing those little details",
+        "time": 1627063769,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "hair_care",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1265844958205764014",
+    "user_ratings_total": 160,
+    "utc_offset": -300,
+    "vicinity": "470 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://www.barbier-leshack.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "query": "Euro Automobile, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338375.352725,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "921",
+        "short_name": "921",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin Sainte Angélique",
+        "short_name": "Chemin Ste Angélique",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2A5",
+        "short_name": "J7T 2A5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">921 Chemin Ste Angélique</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2A5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:30 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "921 Chemin Ste Angélique, Saint-Lazare, QC J7T 2A5, Canada",
+    "formatted_phone_number": "(514) 262-0228",
+    "geometry": {
+      "location": {
+        "lat": 45.3815873,
+        "lng": -74.1069155
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3827673802915,
+          "lng": -74.10590646970849
+        },
+        "southwest": {
+          "lat": 45.38006941970851,
+          "lng": -74.1086044302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-262-0228",
+    "name": "Euro Automobile",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:30 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118335007139433003234\">Euro Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfXHzkA0fPuBoAS9LoE1BiKgCRDUe4guEjBUdviSV4Vq-ajHiDhR9Bk9juJq2Tv1wCAv1vtqK0IuiBxZBCD5_fdPMz3NYqw3IN8-v7p28LVypR_Yvqi1X-w35vUJorXmEM9N9TM2TWBsVq6-21CMd6L6vhE9YLwBZf_Lv6q1mpTsREfVUSW7zxoNQxRXYPYLRRt8Q1lrlSoIdx7Do2EODBIyH6kD9c_lUwFvtL0t58i-2aATuecL9B729269cqnvvoEV2c3-1jGWz0Ttlj93HGYyP_e-hwtg5YQWh8U3EGVydw",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118335007139433003234\">Euro Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfWJcf5W1iC8jQ6TVON_glDR9mYIpyawO76kPxyq02bzVlnI2WS1LHktaGau6Lh1yCLRqW9Q2jWWAB2x_Dq0VSMh1VwEV8GM5wKNyoQ7BQkVvRirw8TzKr0xIpDZ8ee2ideqznZPkxBENZnst8rXyA8zjsivwWGnLFzrguNR99Dj3vAF35JxSj2dRP4XOYVhO_8-atvRvxxneWzixR3OvibZ_4YqOTY3E3B32lfviadhYHFngXRVrKmMKnQEXKVprgixiojg4IxBuSZVEYnXjQO7xTOxdSoZHdJITEIyey6sWg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118335007139433003234\">Euro Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfWRdA1QBz91BJ2VjoTrPqvjhOIneVej46XxX0CSUq0WA5-yagJN22DOgtxpTEqc6sWSptsLy7vhD5GP-_JbvDRr6Am2g9Jh-8upiHjteGVnUVRkoyjeVEKZniFE_G6A_RwdveN60VmR33WW2AbZKDWKVgpn02flJu0_OSxhCvpQfRweL1zv9rscjkjamZH8k5TCdv3vY6bpWBGYRN093wIoO5JKktg-Cva_L0Yo8cPKy-WUDZKzyHWPCCHR6Trs7icJPMQrJB9b6iUQWntTL0L4lifwO_zIKxMo-AuUrCycCw",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118335007139433003234\">Euro Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfUo4aWOODKGdo2QSpLjn4BWHkjvRqm6Ni87bHMSxZPHicu8TAMsxD-bPz3nmIZdYvlEsbdM9wDRML34hrmM3MbZCd2edG1GrbIw18mWr12CSFY36jXK-IpadvEB7_zhF5W0cLClGUoy1mQC4xstfdE86nOZI_N3t0X9ztoBH2cfeSL4VkklEWYIgKY3FsM3Kzsn0FzuLF8Nt_UJ3ETzcBzcPRo7F89AtIJcQ-kIZsieXfJz1CRwV2UYwFy00GGXrWeh-h4cVPv4bdw_15oj07IAEf9bObfch7MBIkpEnMMR7w",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118335007139433003234\">Euro Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfXdaIhdI6BAiGSTIWP033XqevVlVbaUmD3K_fZqlSsvpku0XR8x7-bmh5jx0nc7VvQ2dsFekaSyMowZTScLO2ARimPnfnFuISema9fNWuMEpNtJmWZCEof0ArwdituSjkeMqLO8XF1lt-2IupDp5BU3KJGa15bznZmEt3cR1C2MP-R7h9ITQ3Nu1P7IqWXwStZGkmdcR5WxksedW6I1TXuVfjj13I9Qr1omxn9j_EfAfL1Q0CX-mOha0TfvnXFX_33Na9MmHTdq85wJOfrxWuPsHryelgBGDBeyAeaHtLmyAQ",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106727059218839202510\">stephen wininger</a>"
+        ],
+        "photo_reference": "ATCDNfW3S_PhyV0SYkRDa9PGM1vcOu4kr9FqDB24Nm28dt0Np8B8Ov1opMiKhkrn_mLRLee7WXxLvLiT-wG7m4iT-EXUImmrVarooGUDUPCK5Q53EDVjNrbq8q3Tu50KwRyAehmXGzY2-P-5VsCTS5IQz97TXPeGmaO3DSIbfz1xC8uSTZ9KcA8znCtOx80YYy4vLPLt71IQp0zd2cmtwV6mdVXl0lw3U-ZDu77gYDqkomKIs8VpksT_k9Btj4YQhDm9nfNmDJ4e_TfNLD8imXFr4prKbUbkLf-zrV9ab8rbBN1wYL9UrQZy8_Tfk3pXReKXSCdjP6l14_7XBrhdvBcINZxylO4AtS9weA4nYSb4JRj88s3CnI_XCC6TMZ9cxQeV-GkH-cvBaP29mnn2yjKFb8q7DGAKo5kIJmFo_Eb1nrWOq9-_",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118335007139433003234\">Euro Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfVZWsTvFE4lD6RmOrreVQV-PvewHPMhCz33KL6hKKjAo8f9Dy_B5MVagOFT-Gu7fRzkidwLi3EVVGBC88xvrRiklv9va_zwkFQMcA8jYwfqW-ugWm1bNtp1p6x8bGCDHtV8AxEX7qWjw4C3yFVTiqUsYlv-s8PiyvTQjmK5dZQ0r9gJYknqB9FFcNPL7TWUfVyeJ0F6_Av41rL-eDca_5OXLrWv5zHyfLuxLsjr6cyfVdkxxSoVgBLyntR7eScIbShexJ8kdafzRh80n9QdTOFSeZCSlFI8jKofYRFU2MWfQg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118335007139433003234\">Euro Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfVaf0gRXFLupgxGHVGppLicIL6x-hc0J6zSNEH78PBKG0B_kKm-VZE_s3YsNr9EoO61zOKFx__1m0KSRMcYSwOfl9SQ6vwdOEX_0ccp0yFp2qHdIU8NQaEnMdYZh5M1P2SPtu7MvgtTS0eG_CdjZzJDT41zcxQKdkn61ZhyPd7vl5XNUvBZumPa4gH_lSRep4EpHvFN60gPLTmGJ7F1_YIjduAX9WV0AKGfPvVXViDnvlcL__ZA58V19bMAriLbHi-8EAQLcmHDGLNi7Od1FZLujOJUOBsYOIM5wrzZ7xkk3Q",
+        "width": 4000
+      },
+      {
+        "height": 1873,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112629010688644577341\">Alex Barriault</a>"
+        ],
+        "photo_reference": "ATCDNfUXcCCjVsKd9_hoxbC2qGrk_FbLpWqUYRqTN_WynXKgId_GbfyddfilEMeEneuLN4CeNKZ1PyOf4Vr48x5CSSzFXT0B2q35zAiGk7bfVONTqazLeOjXmUt_ePhU_1RJbVzeKXTRh9pFg4AJiD5MABzPbtI_IoapZXPHqL_CUczTNvXwG8Je6CFGoIr4HSf75LXlCiG2Hq4LsMGbXW5rfP9i1OqZFq2hejqzWFtvAdX2KWCrqqWk-rt1FMbqG8OMl3tgdcekq7HW-u1swVgc6isbhSL-EtGdwunCubNtk85AK5TNekZ1i9OiteSsiNDEip89pSspA8btX9_dKDBB_xXqcXeMWmuRL38CDrqdGxg6S4aoPysA9j5cVtvSsSA7hJFzst-OjF5t9sBcoefROh9SghH7A1qSzDQl7q-x7ENhTQ",
+        "width": 2498
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118335007139433003234\">Euro Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfVJA8rhXsd6jzmR5z-RfiPz4W3aArAti-02Q8Wqxf4PtE24hcH6TV-bv_VuGIsFYR0e2xxkwiMU2C4zGvTrOnuADnfmWiFTHmdywOUKnCOvc7T6x7zobv2PiJL2iwI3jHGAjheW3d48L3Rz7NGHqTg1Oz38lMClq3vbNHLj4SK7RabcMreC6Gl8uzt_f0LukOshaGj4VArb88zp_hwka9koY7lCDHhOrYfdcR324qbfJPcbT7Qwb8oWbysCXbeIq5OcdNa4qb-QltBYbV12t3uMbkzP0xx5pUVQdYC1L7wtqA",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJvZGT131LyUwRYZkCstvtyzY",
+    "plus_code": {
+      "compound_code": "9VJV+J6 Saint-Lazare, QC, Canada",
+      "global_code": "87Q79VJV+J6"
+    },
+    "rating": 4.9,
+    "reference": "ChIJvZGT131LyUwRYZkCstvtyzY",
+    "reviews": [
+      {
+        "author_name": "Angelo Bottaro",
+        "author_url": "https://www.google.com/maps/contrib/106817608012332704050/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQ9JBPLRjjA3Jmc9GKC0JTsRvQ_st5ghMo9izTOgby-jh7Nw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I met Mike for the 1st time because of a buyer interested in buying my car and wanted the véhicule inspected. Although being in a very busy period, Mike took the time to explain to the buyer and myself being very transparent about the few little minor issues with the car that even I would need to be looked into. Overall my experience was great and looking at the shop and surrounding véhiculés there, I feel confident to have my cars taken care of by Mike.\nThank you Mike.",
+        "time": 1761827580,
+        "translated": false
+      },
+      {
+        "author_name": "stephen wininger",
+        "author_url": "https://www.google.com/maps/contrib/106727059218839202510/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtYyZF6aovdnqRYcwVivaIqGX2yym4yBJK4qRzEkeNsNrICw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very refreshing to not get soaked and misinformed. Mike was great and explained everything. Very knowledge able. Pointed out some other issues I will address at a later date (not urgent). 2016 Mercedes S series transmission fluid , filter and oil pan change.  Clean job and done right.The car is running super smooth and at a fair price. Great company , Great work! Thanks Mike",
+        "time": 1729263725,
+        "translated": false
+      },
+      {
+        "author_name": "HF7132",
+        "author_url": "https://www.google.com/maps/contrib/104202253062224724435/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUS9cqf-BIZW4qOgeWC24KMWe3LgXc4sIM3p15H7Px2efNFPCmR=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Mike is really the best, works with integrity and does a great job every time. Really knowledgeable and honest. Can’t get better service than that!",
+        "time": 1764680983,
+        "translated": false
+      },
+      {
+        "author_name": "Joseph Alexan",
+        "author_url": "https://www.google.com/maps/contrib/109043889852576652359/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZTGFsF6D0gET-ZZOk8d1Xda_rgMC-MrbO1ArTN66SpmrIyzw_5A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "⭐⭐⭐⭐⭐⭐\n\nI've had bad experiences with mechanics for most of my driving life. I moved around the area last year and thought I had found the right mechanic—until I switched to a European car. I quickly realized I needed someone with more experience.\n\nThat’s when I decided to visit Mike with the issues I was facing. In no time, he proved to be honest, organized, and extremely knowledgeable. He clearly explained the steps needed to fix my car and what was required. I went from feeling anxious about my car with my previous mechanic to finally having a mechanic I can trust.\n\nMike knows what he’s doing—no wasted time, just honest and professional service. If I could give 6 stars, I would! I’ve never been so happy leaving a mechanic’s shop, knowing my car is in good hands. Organized, knowledgeable, and honest—this is exactly what everyone needs.\n\nI wouldn’t hesitate to drive the distance to have Mike work on my car. Even if he weren’t nearby, I’d highly recommend him to friends and family!",
+        "time": 1741615913,
+        "translated": false
+      },
+      {
+        "author_name": "Plad Ka",
+        "author_url": "https://www.google.com/maps/contrib/115775661696209855117/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM5BY8KK3biqLfS3AlZiUtpbT6U_JlNPAosQjtInjMlaSH7My5=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "9 months ago",
+        "text": "I contacted him by text. Unfortunately i got nowhere very quickly. I asked him to simply quote me roughly on a transfer case fluid change job for 2011 BMW 335I XDRIVE. He said give me the VIN. Which i did. He said: i cant tell you how much because some of these cars have a no drain plug on the transfer case.  A simple google check can confirm such information... I was shocked because of alot of good reviews. If you dont know anything about your car he might sound very knowledgeable. I was surprised by 2 main factors.  1. He could not distinguish the difference between a differential and transfer case.  He asked me which one i want to replace the fluids front center and rear. The car has only 1\n\n2. He told me very quickly to go somewhere else. Not interested to make a customer.\n\nWhat to do next time with a potential new customer:\n\nTell the customer simply:\n\nOption 1: No drain plug : XXX.XX amount\n\nOption 2. Drain plug present : XXX.XX amount\n\nThank you for your inquiry , have a nice day.\n\nA professional of any trade can tell you very quickly  what a job will cost if they are familiar with the work. If they dont tell you its because they are either not experienced (Not maybe the case here), or they want to charge u more once you have arrived. When the customer is more committed (Not honest).\n\nSo if you know nothing about your car. He might be a good option. He was also quick to reply and he might do decent work on simple jobs. But be very weary of someone who confuses major mechanical assemblies in a modern car that serve different functions.  Differential/Transfer case.\n\nI will attach a snippet of our conversation to be fair.",
+        "time": 1745610232,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=3948511026160507233",
+    "user_ratings_total": 27,
+    "utc_offset": -300,
+    "vicinity": "921 Chemin Ste Angélique, Saint-Lazare",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "query": "STRUXAR, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338824.0537643,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "108",
+        "short_name": "108",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2K6",
+        "short_name": "J7V 2K6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">108 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2K6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:30 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "108 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2K6, Canada",
+    "formatted_phone_number": "(514) 646-4243",
+    "geometry": {
+      "location": {
+        "lat": 45.3864838,
+        "lng": -74.0125733
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3879103302915,
+          "lng": -74.0111279197085
+        },
+        "southwest": {
+          "lat": 45.38521236970851,
+          "lng": -74.0138258802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-646-4243",
+    "name": "STRUXAR",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:30 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfWhcWPLAXf7sKtLne9VJVd1ay8K9ofy7dZ5HBMlSEAFvYM_46bwdgv7rhDGLGR1t7vShrFXy-YhMJdJGTkXUJT2jmDono7D32wlBvjszIsEz21IJ1HF40GCx7oElKBcoLZtUcqymR3Da0HfOaz_4r2mGyQIl4Fcj_8VGqHz0xnIMP6tcX70CoujnFvaV0II-tcx-R1YtCwC0p21g6TOfF0L1kAw39IS5UnMl15UZUhCzv8-siIm3Az-UOocLyUpiC5RSAsq5Nxyq0ybuU2Itv3APaoaIToJ6UA5CovTANnQXg",
+        "width": 2731
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfX_oJwfWc-sJ2WGXHT1ein_FLnA1amHIgJTz7xaWpoag0YBAAsoxxEK7sbuSUVhXak-1uqwDKNBTDRBCPnvDliCgcn92XoIzpFyb4XsIhddzfsf-MCK1J64YCn1-Ckm8vKnclqHBC7DvHBZ6rJOxN1-0J8i5vxy5O8kwPLr7RpaJCpmn9fDzmOIbdpjJzRlz6_x4ohT7wuHYSrke9SctjPvndyzyeQXTvnpDP9KGulZ3XCuOWfFPkSjwG0hYgDvkEiSyut7eTcJgOcIkKoDLdijeh2i3YMl3iSY5TtWFVz1cg",
+        "width": 2048
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfUeqOFk8kCJuXgOcF0wQGwumf_3hX11yP9gePyNosgMCa6lIrhFEWldMa3-2RbuUUj9dPAXsZdzd5ZYyHrVQQH3e9qRcbtsW9LU985LMPHZb_QOQ_V-MSogb66Ss1UuTM73c87nk3raI-xA0RH_PiBDvU0UqQKLff8F4xa7NpAYmocKLJroRD6lzxZa-D4mJvL34q-KE3LWtet4qJlrFo4qFndQhd9Ky_eUeeEfc69iUBAJXaSHRXrMffL6kXu0jZtBMef2Ri7m0g3wM1uTczc-8yr9-iztzNs0tE0gHN4Bkg",
+        "width": 2305
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfUVuls1z1CI149nx3sOZhUtmEAudvLsC256oUrlVEScKUim6uLs9QvqxSXhAhSbnIHsrz1CTyaoStDAtvTDpe-w6jZBsDVkIQsz7lMIvcDe0aAcIjPkK6NokD3fVuxGn5gkRm1vDuEpsHbmwOI1POWKNoiJtUbIEU-RY8Ttb_jxitrsucbyTm3z0DfkSSy_Zyz_nUp_gL9we_fyWNYNN7UOf0--aWW5xj03iPwD80wOSOsXkjgQ7SG1KJyBc6WoWJX_TcrcAKCDiTzbQ25MoDlEmy_HOL5qDsxLrNbP5lynvA",
+        "width": 2049
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfXEiTXIC2tUdXa0SqmwKLJ4aNUwOL8sSyti0pI6y2HHsaYkQ4-GbLWD-vIxUleDMBLrcQL0SrKZUri1UVO1HosR112SX6PxuvshQgvWWVtq2qZggmDl-5mGoxwhi7tbnAqx5Odb46Duef7Wm5S526pk1NOq9yxkA_pGjd4YS7hwQ8g5Qn7XWDPdhKUgFlTD6Zdqax1AamaBHtdToYOV_RPYTwNPe5RKfIWMZeic_vTgR4Uhtmc3MRQVUvc4GoZIT5dFOAp8sGOTeGxoOsqkACz72lTKlZVwrXHwmmo6hoE36w",
+        "width": 2305
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfXgoiR_cOcXti9x0qF31RL8fkdA6RXffdaZa4UCr_VMImtG8goboP3Zd_J-1lbMwZag88dwR7i_6WHA1Mn10JetzETHdhxL__o5az_8V7sSM3LC_5xUubw1Lfbs59lXB7aT93afjagKd9Egoq9C8qnTRcQjvGz0F_zRVEyWprg1FIFiq7r2jW51zLl-Kl79f0ijOAcGzxWN5xM15qGSHhUSZwDRF4hZGo9vGwXXoZ3CHs17sPtYixTjEHhRJtFgzOU-khf8zbE8uV4s3I_Ud7PnCS328b0Z9E7vM8j9lu6BTw",
+        "width": 2305
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfXu44GyG8FS_rZTGXO6yTLbNoQUpLm1Ob8M6SOk1EdscBf4UkrL72ZjGzpx4B3oDiRwm5BakVk6SJ7t2mPI51dqN9GPmOEe5P3FEiOnlKh51ZMIQJ2Ysbj6I0iFwRrxkMYwgLf3drODu_yyrhySQdxQ-szAPdUdeUDl0TGkfXZ9s22YuqBYoao-4WnqxYKJ8apFHLejLoVULTqwzSlMgPrA2e3wyreXbVcBjx3Yi7tnrdHhDSpUMtOql6V5uvmkrDfqx6S3IlQyzgABVk5jE_Tec74XiP1d60b9mWubqTryrA",
+        "width": 2305
+      },
+      {
+        "height": 2049,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfXkIT84S0matxjpziMT8XCkgYddEwEOZdTLF6brVl9kcmdUpCZYEnwDVPB8U15-TcrsZMqbZjMawjbwtt67aANfC0ebaSkJ4ZILGdi0G5MIG3Z_ru76_m9LW6_Da6MU-vzbspe5EoVX9JjS3QAyxT39ZgMlWOiYylxe2yG5PrNv_ZEUocwjJhOS7zXaSfTJgv-KVjQS5E8N3ApxOosBSkhjRZlL1R9AHLSWf-1EGiCKqpASTukE1pa_s5UgIT45lT_JAHuQiESI8NLuSQ8QiEVeg6ghxJ-9FSbbMTxcLBGVNA",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfXntOF3UQc3vfqbwqGytE-SLLMD-H6U-46UAapTF8q3COQSC-K8ldm7KpfB-IMWS79Ow2EywhMYXnILJBuTMBhsNBxTrFH77wIMd-jZvUoV6RZGZCV3XmURxm8gPcER8RglJl319v7zr88HRHj6t9FwaWYA10cX4JbK7f1IrrmVFStNNy_6upaS235A8wpyefF-ka5wx3v2zbc1cXk82zDOHrpF3kTZNIYkQXaG8tID5caknzPm-oOwtH7lQE9PVa5t4tpFpXCUWUb2IfhxffYcpLnBcJjQHEr_Kpg5g_ig6A",
+        "width": 2731
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117778987322826295824\">STRUXAR</a>"
+        ],
+        "photo_reference": "ATCDNfVCXxN4TMPwyJDaNdKx_Mjm42hul7tzo41mvtacXEF1jLZc91JQyzJ4y3Noavv5iItTJ_UAi3W9oeKjydx3RpJIbmzksXiSl705weR6FmbDXmDbPqGfb-jIDHagZff7FnGP9saJ5lJ-CRxUVoFjUHUJuBiLs0KgNViMYfUWlYObVJOo6oHojCsk7QTLDm_GnVrMvjS1Rip6Fj80D1mMsVWQneh6gXSfDpaTGZRCwji_GgmOWhpIjYTEqoRcT6gjht5MfgShpOrd21PS5b-pezIs-8RWGzvdbwL6xu8Jy3-syA",
+        "width": 2049
+      }
+    ],
+    "place_id": "ChIJryceU_5HyUwRo4-wMUXcQCY",
+    "plus_code": {
+      "compound_code": "9XPP+HX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XPP+HX"
+    },
+    "rating": 5,
+    "reference": "ChIJryceU_5HyUwRo4-wMUXcQCY",
+    "reviews": [
+      {
+        "author_name": "Gabrielle Genier-Proulx",
+        "author_url": "https://www.google.com/maps/contrib/113301471758961319291/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvDAmOCYFAfUhcNs_ySI5gGYJWiiekpM2b5PvYf-SWSYol5Ew=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Excellent service. Professional, reliable, and meticulous, the team honestly went above and beyond what was requested. I highly recommend them.",
+        "time": 1747754452,
+        "translated": true
+      },
+      {
+        "author_name": "Sebastien Menard",
+        "author_url": "https://www.google.com/maps/contrib/105122286562203130294/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLE0SKrhvUhFiSBnYDNKhMkA5YYifOPPrVH7bynrvikIVbYjg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I have done business with this company several times and I have always received impeccable follow-up.",
+        "time": 1699498477,
+        "translated": true
+      },
+      {
+        "author_name": "Julien Beaudoin",
+        "author_url": "https://www.google.com/maps/contrib/105959475393740455750/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9zZK9Z1xK6cyXHg0TE99ACKM2uh2GBu_jSJkjns6uyF70PQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1699493077,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2756445161695252387",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "108 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://struxar.com/"
+  }
+}

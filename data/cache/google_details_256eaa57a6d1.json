@@ -1,0 +1,417 @@
+{
+  "query": "Traiteur Presto Gourmet Caterer, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340667.0836124,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3100",
+        "short_name": "3100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4G5",
+        "short_name": "J7V 4G5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3100 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4G5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 2:00 PM",
+        "Wednesday: 9:00 AM – 2:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 1:00 PM",
+        "Saturday: Open 24 hours",
+        "Sunday: 9:00 AM – 2:00 PM"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "3100 Rte Harwood, Vaudreuil-Dorion, QC J7V 4G5, Canada",
+    "formatted_phone_number": "(514) 816-4983",
+    "geometry": {
+      "location": {
+        "lat": 45.427798,
+        "lng": -74.10992800000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.42892923029149,
+          "lng": -74.10836901970849
+        },
+        "southwest": {
+          "lat": 45.4262312697085,
+          "lng": -74.11106698029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-816-4983",
+    "name": "Traiteur Presto Gourmet Caterer",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 2:00 PM",
+        "Wednesday: 9:00 AM – 2:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 1:00 PM",
+        "Saturday: Open 24 hours",
+        "Sunday: 9:00 AM – 2:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1114,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfUuS2152ZMYvPvZN1q9ZcDiW-GzD4euOt1-_U4rKEHPXC7cMId52GX2HOxfBDjzu8Lk3Cmkxg7jstsNx5OleJ14AblyBA2HmU_sFjNlW0IFLCih_AtOw6dU8aaMNU9uN8hAYJEe_gI17H6ffHl8qPdk-cN5sjw-EQGMHqAwzF5K127CdoqzqH2bydpn3zGn_bBtLC5oozNNIXwGa3lLRxei1ZZhP8EihjG5iKJFL-vptIALybZDfuIou0QV4R3S8QPaNoZwUUErWETKLud6wS-4g-fQtNpjMpu5epunwh4wIw",
+        "width": 1350
+      },
+      {
+        "height": 2418,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfX9OedPamyPUewgWGWU5E7OGS4LT_PDcyNxUfRJoG6s277NyA5qtB3a631iiWNg_irJCWyHy5Nlncd5CWjYQhanUUqupDjZrp95fW_fHQf6hzF7zH19H6-9_DkMokares-ZDVeM_bHD9RQIO-fezbZPs1QAABEjINEaPWhpGwaazCJGt5WO6QvEuZ5wK7VjgxQzZNPzI29vd2w6RrwHJ9eWDo7pRXu1XlrxqFPkf6w4NE4Qp4Lb1yRtNZ_uq1QOmQrXrJi15r2OvvtLWGxvcK61Uha-6rQQyxBcPibJqR5faA",
+        "width": 3224
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfXgIgCg6n6TrVBMa5dxCvON6SOxL-rlVicvwgRC8JOEYvyb5v6Ln33M0dNgNsqog0Kp8bcgoQgF2jnQbUnQMIF6fHmAz5GbKsusPfV3VjJHURvnEWa2HS2MlH3m2caKqai8URGbnbx6bJl0EI_jOuzvaVUMmxDfQ4CpoztWmNrWjQIy53d3XP9elgBkI6IXZtbgUtvlRnRyZWpKuSMVsG4Jn4R-mVEBAdxRk-VMlC12ycpNXtUVJKx-mDGPyPY3v6JNYx6dXeLhhr06wEbpmny2YlA_65PXcaW46a2PsMs7Dw",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfX-kQIF9EW4baIQXnZu3WI_o7D-RyKy6r70g_6c5zj-SGM_LXX2GVedVtCLNB6sptWCsU7pFMaASQiwJ405nfBfqQ6_tUQPAqqMOCwbS9bRXX9ywqeMqBtsdgM6kti2RtFnavXo-oS_x50rP-nZTmPi9PBacySD2Kgyu18ov8eIvA2lbZwTG_eX65Qnd36KtKuXNfPRh7sxpN0s9b3s5em8Nac9STc7asr-EnbliqIdt2dKl41CTyUI20hsxCxo6HB4-9z9lxN6mjIzmWSzR41zLYTY-owV-BCbIrDYY-6a6A",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfW2nlTbybX_VnjO38mtoEKlwImTGIQhHfYYAhv19Tn4ToCJwrgMMzLLYKIL6a_D_dLW6MK4E2MDmuEHOtv9v_2HqnksBpHv8BNCKdmJEx3rCcNx9lzah6QG03lSFFE1rSkAFbTp51cxzeOuUyyAyT0h4U30feU3mD5ZXXxSEWzHPtxQBI6TS3mVjFe6BhELDz4PIYjOjt_3ROkHDP8hfvzmOuL3PzMtZpGoExj5G2C7ckTzfXT-l1pqV4SRlqYURFd7YOSxFZodRAA2lj5k2EPCI9d6ybhg5vqZwK8kXGyDhg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfVU73yw0ZFFDNdReDjCw7VVQa6WFglDjdgHS_NtwQOUHa0ORIE0QH7VUxej4T1M0TPIucRCK344kb8nI0Si49zrcUc23q1DZthMILSoxeaam_SwYE_t6-hE6-lK-aTzg6P8EQXlVW6EqgI_WGKEaO8Fhuaary3fgWt3cII5oyAyWz8wTp9JN8qxy-1x175WVdHQ9f2cy2Fb-Z9jZCq-NQl5Caaw-d75tixxj7WkcqmO4QBWqRR_S4Znk4fUtFl40UKyMpGE9DGuyYUb6KWxvFetV2LqeKueX5f3sz4w6JYdqA",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfW3hyOBcV4-YbgJdNfBNOIaZY3KkdfUfHLO0w-k4KP7BTup64ZuV-jaEdSFjzrQDOgYskRNqHWLs-2858hxfzprk6UwZ6Vsr-aZEPBfRVjmKm0DailN6htDYkFHHwP3_ACFEfXGN3YUtdOexrpAlPubWUCLWVXKVU2NQPmegmQ1MhOTTF5EYneJVWrephf1b4bX2DUVDewLuZx0AAQKU8Sdf0bnax7U6olXotHTaw7tzbGnmlDr9ZyEuL_1AB14Y97-TJCacttHgr6cu0W0RSDgPb8VPGgbaSV9uDsKtrNeaw",
+        "width": 4032
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfW_QmLiJbSlNmRUOlM10VdhvOmyejJC_YCYe7_OU8chw1JkRQnEryRzjwaY-XLDrCjWFmtsl38e1e4Zw3KyIaCrVmSEdwP56CShBeia1-3EQlnzku7ymWut5ECjV81CzjyiVCRnYL2ynETti2NBjIw5iZqqlwlRhOKCX66d9zUUifQS2AkMb1PNlnE1HdmyVMqb7QR15crthzEqOB8RAX7Em_ZWzuLdp3Nm1n9EXIyl7pB9wbZONLMZzzNLp-Mtcret1Rp_pDfLvtIOuQnIZsaTPb0pZyw0jil1Kfr0Ggqipg",
+        "width": 1536
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfXtJOYcs2fXsLdk2xEg7cDylV9elMRLvvbmtIyIchbrDxFhxcJgoHDHTzAYuDSaMZNGaOTVrdrrSw3mb6gJh5USRlUqIKsPYnztEkqE9pOBIVjKNIr992Td6IcINTC04mSzMcl-AVLa9MfspQorU34iMREo1BukM0L5bj9O-_jYaPMwwAUFSk_vzqFhY_OnvPVop6z_ICFUcOrGM4_1XtY1MxWQJLgomu5hVqtlgExLJW6R3jDHqx78fETv1D4f9GfeLg1Rg3NOg1hYUfYfL957ncc1TaT4CDWa67snyL1-jA",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100293522930930806562\">Traiteur Presto Gourmet Caterer</a>"
+        ],
+        "photo_reference": "ATCDNfUioTt4aauVZP40VNz5BNbKdhxJ74C8IvFeyCduHv9SplPj-ukqtQpnhFKpqZT_V736QxEOiWUlmlcTEhLaw18wuSgSA2fV_4ft96LYAGZ5d_SMGYrcj5dBpp21ttZCdcfIoghynXRQPto4oddceqMwXp9MOHrrU0TCEjtFwMgLS_ouDzO3ooze_FwOPbmA3mJ2EP8Uc_fTGkSoULtFxq4HKCh0kG3aQ5rVALYoKakW9C9y4jwmgLwXykGge2lMezrXKoWmd4_2zxAw2eBi9kbKTPXzkn_Ke_4mQWU69DpCJw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJm33lMLo1yUwRiRmDQ94VmRc",
+    "plus_code": {
+      "compound_code": "CVHR+42 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CVHR+42"
+    },
+    "rating": 4.9,
+    "reference": "ChIJm33lMLo1yUwRiRmDQ94VmRc",
+    "reviews": [
+      {
+        "author_name": "Lynne",
+        "author_url": "https://www.google.com/maps/contrib/107094630171958541112/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6HOm8lZPXuxgchCFvD8ZsibRmF9D0u62r5cq9c6w8bAH1bQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "We used Presto Gourmet to cater my husband’s 50th surprise party and everything was fantastic! We ordered chicken parmigiana, braised beef, a vegetarian option, Caesar salad, mixed Italian salad, and a large tray of penne arrabiata. The food was delicious, fresh, and everyone loved it.\n\nDelivery was on time, and the chef even took a few minutes to check our oven to make sure everything would fit and gave us clear instructions for warming up the food. I also called ahead with a few questions about quantities, and they were so helpful and patient.\n\nExcellent service from start to finish — I would definitely order from them again!",
+        "time": 1761589170,
+        "translated": false
+      },
+      {
+        "author_name": "S M",
+        "author_url": "https://www.google.com/maps/contrib/113368104922848916321/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWlKP31h2sTEPoEHwbg1cEYx-UPNPO7GDwvi3LD2-3-kaoPxl2=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "HIGHLY RECOMMEND! JC and Sonia made our dream wedding a reality! Our wedding was in June and our guests are still talking about how amazing the food and the service was! The presto team does outstanding work and provides quality food with gorgeous plating! Thank you again to everyone on the team, the day would not have been the same without you!",
+        "time": 1658970374,
+        "translated": false
+      },
+      {
+        "author_name": "Janis A. Riven",
+        "author_url": "https://www.google.com/maps/contrib/100244104575374239806/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKQbORdU_3q5iuHF3iMSKH8fIfghrfX53fUh_zTPZQ_ZLQnUUDgg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Presto really delivers!  The team was effective, efficient and real pros - always finding ways to add even more value. So sensitive to food sensitivities!! The food was 5 star - beyond expectations! Thanks to chefs and server for their smiles and going the extra mile to make a surprise birthday party with 35 guests a memorable milestone.",
+        "time": 1753116815,
+        "translated": false
+      },
+      {
+        "author_name": "Karen Fortin",
+        "author_url": "https://www.google.com/maps/contrib/108612873068774943461/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmBG1wJRHqfhueBUO90lLKfarBGU1vb_mVaTR_V43Zi2qzJA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Hired for our Christmas party at my husband's work, for 125 people. Had amazing pasta dishes, salad, breads, and desserts. Was everything we had hoped for....just delicious from start to finish. Thanks  to JC and all his staff",
+        "time": 1701634986,
+        "translated": false
+      },
+      {
+        "author_name": "Savina Milioto",
+        "author_url": "https://www.google.com/maps/contrib/114905993792069144378/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu5tAg5HvksxnUWIsmylYU6cb4gZtL4tLvUr0DeBZzReQ-8_Ff=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Have tried many different meals and have been very satisfied with everything. The freshness,the preparation and quality of the food always to perfection. I would certainly recommend Presto Gourmet to everyone who knows what good food is about.  EXCELLENT !",
+        "time": 1742338401,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1700414378668661129",
+    "user_ratings_total": 27,
+    "utc_offset": -300,
+    "vicinity": "3100 Rte Harwood, Vaudreuil-Dorion",
+    "website": "http://www.prestogourmet.ca/"
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "query": "IRIS Optométristes et Opticiens - Vaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339986.7345243,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "456",
+        "short_name": "456",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N5",
+        "short_name": "J7V 2N5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">456 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "456 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N5, Canada",
+    "formatted_phone_number": "(450) 455-4551",
+    "geometry": {
+      "location": {
+        "lat": 45.4011316,
+        "lng": -74.0290314
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4024937302915,
+          "lng": -74.02751331970849
+        },
+        "southwest": {
+          "lat": 45.3997957697085,
+          "lng": -74.03021128029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-4551",
+    "name": "IRIS Optométristes et Opticiens - Vaudreuil-Dorion",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2551,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102575466324513722093\">Frédéric Uldry</a>"
+        ],
+        "photo_reference": "ATCDNfVzYqhut1mcKIjIhCER5aAxnlUi4G-cMPLCYWqrjB06_g8DgtVi-84iTljxegGD0CKNlmh_XFN3x__KtTAnnFFR3sjcAxCP7uLYkK30UgtVb6A2j53VERNTF3auNu-kO0dFr0i1vwL-lAGffEQEK0jnfBdGLwowcq71Sm-ZLITpW-r_OwlJkwM5OAOR0m57Kl5vzRH3kxAQqEQthN34RZ2jLLme0CfvDt1OWfhBNpgYqsnhahRs0Mo-VnzA0-_oqSUI3q1FyBO7-nAqMdOIiVZwQEnwEst-E25UGhk80sHuKuwq4jpzwCX5mwtdxuTrBOLWnrdiU8hiA9n6aD7rnuOSQyrNwaXw96VpBup80XkgqZi8XoMR9krf_hJqP-5_jdjy1ITP5Go5BgAaaTXPEiUFmDqB9WqRHNg2RWpBglbQ9hM",
+        "width": 3024
+      },
+      {
+        "height": 470,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113552516282314383854\">IRIS Optométristes et Opticiens - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXvuVhO2PKs9631xhIs_zxFyW3rsGZv0yMO4ybv9We1Wp27MLaPTHejX90asK4QaXNoBWYXkPbizVpDFI0rqU_BJUXdLtQgSmUjWcQj8OVyx7smObGt5S_obTwIz8_cqxaPpDKneZFsxO5xDbrsLAteiEh2wvW1PGksjO8cyGX8O-IFFHoORE4TPsVCV-Cw__dvX-S5iXp5nUjPWgRldLrSY_k_BXspi27d8LLUXkws9mOertFVzoNwsCyX8QijmrUYVnVJsWurnFk7prjEMY2_R3xgoeLxZRIxIPleoLidew",
+        "width": 470
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118174981832708203352\">j.s Saillant</a>"
+        ],
+        "photo_reference": "ATCDNfW_mgMJQ7d-IPrt4g2qj8LEfuYoD2zci5lknrYPaGnfAzZMABqRffH3WnFiHHVe3Oemf0089ZqVq-Lz7ZVjyyYfRDIPbnL3u7vUaWAjchJzXPEDo5LfBsx3-6BH7fzVWxyZ4A10j7tIbcT4xrks0NBv1gAIiOmhdIj_-hDiBH9Y14xkziomrGWWCyTwj_L23BOLlsXImOWEH2K0dA1ZJjGw-IsWNB5-1scPRr-ofUA9g1QPsU3zVdeRFsz9vr7xtSD5Zu6j_cu36cf3jd0q0DraNjHHA62btCI29dSGQC7hhhxyuPtUaor-UduxzAMSK5ImfrnjfGzFhZAgYT6yjOzNV0UyTWPC4nPQQfzUq-jxRKMs6gQhIBhDRNPqSihAli-0lnFHt_ZDubgG4_Nsez5pUX--Eo64jOPyxQtrp400Lodp",
+        "width": 4800
+      },
+      {
+        "height": 1334,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102575466324513722093\">Frédéric Uldry</a>"
+        ],
+        "photo_reference": "ATCDNfXtcKu9GChD13wOVNqKqLwHSuMTsKKl1WjpDj6xP_9ei4MoyjUh9hZpw6Bm2nvmDc9FpBim-SN_cn3xB-NC8ltoyAJVtnOVdDaJ8tG0rgxmvJOWFfXRAbh3_RHerAhI7IXMwIrId7McmiXGrA2l9beSvpbx7oLSk81u8pLOkjIpRNZ5F0_e5-BUnAjdcMckc_2vIfbjmnWldbz1Z30zhBbaEwRa-wVysvRSl_YoUJuGgarAKupk0rM7Jj4NL1SYY_dUeSqgYzen_Tc6DM3OkIgjMLaw1bR7_LcnJfoQNTMZhX5LAyaFsTC0MduINH8tFxPHdkt_KWrfcnX9CMFtSxPnDPlN6q8Blu76Wip-KW7u4EVtOCFTSwY2ykKVpZmvYnwtj6hB6uwki1kV0M0AeUfPDH7Qi63d2WNAtrdxeofJWPcA",
+        "width": 750
+      },
+      {
+        "height": 330,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111195179118233309330\">Éric Babin</a>"
+        ],
+        "photo_reference": "ATCDNfX2Gq1mC2NqIU0YhykJvumScoNvfhDZtb7DHUt5rmcuVclTRwdFMYwx9Y3-juWOumsgCDcz_xbxVKAwjAKURrKAmKV4Ne7uyZVJEo2Bht-5f6kW_OqZ6mK-H8clyjEu70oqeukFq-qEQwow67f5nIvnrzVL_i3xaXo66Ng08f9t26SuLvt8o94NHY3J8VEJRkkh7MpF2yqYj2TiPLLIy6IvLcRGrQk7CAXBCPZ_w2-ZNEOGw_r2ZbWD8WD762RUjzMz3YmAsWBVgJu-j8Re_LEEq4haFCTLu7nBlQpwnNs4d8uYrp1CEXpOudEQG1v1rPXmHZ02HBFDYFvZHmLsIQr7Rtlux_vGM_u7PSEhSJD2r4wZHjKI572NzdUnRc7qOGq_yrnDm111PocXMngS2il_Vcl4UEBLV89HXSYYZDf1Kg",
+        "width": 530
+      },
+      {
+        "height": 2208,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102340145734581482275\">Vanessa Sicotte</a>"
+        ],
+        "photo_reference": "ATCDNfUzT5ehtEdGcPoHthakH8CRKA2hhjWrgGbU7IF43c5hPD86nj__L75O0ocfINUBkL72RXpiuR6v82Tir6LEAmxdsXHZNj5xT-nF5ErDRRqd5YKc2Idk1BrC_0l3XsKNica1-sGhjAJybYAbHtd-1oa8Ch-vgePBiSZCPli6TIa8ngmgAWz29d10hv2e8bl380LTxJtIIxSGO-YZvXHctVU003nvrqhqmODtQD0LIH81HpEh_Ff39N018JsE5eyLZOZIK9vhiZMTE3jiuNuSfRuNYlFm7rkddLlR30HYe9A5fLepRYqYx5bZEctzS2dVFX7cGeFRe1DOauoWEIpsrfKd7r82Hzgw-o-_XYemnweCKH3l3ChBSIYew3dJYNser-8T17u98mtrTtbnKENdQtoJHD1s37XqWnrjufQQWdpTIPtM",
+        "width": 1242
+      },
+      {
+        "height": 304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113552516282314383854\">IRIS Optométristes et Opticiens - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUFEFjXBIwiGsGyWzAu-AA-glOmIBRFBFIDv-tWhuKXDQX3UDujJKbaqbw_K1onc4Xi3b8eFK__PMF3Ai_QBfk_cjnF36sTbis-J-_eXT0WPM4pDph2yhXarX8tPErkcUUx2utoE8vuiP7YtWYp8R_w32bLIlR9zBgavckpMM3eCq3JLoD9vHTkNHoYRFvi_qSoKFWKP79Wq6HGT-7w658nPm1PVnpq6hIhFkHy3WU7xgVqAqaEDBWD6VtqrHhcKerJTntp-I_IwCJ-2T4rvfayEesq1KPn4ZZ_vNRcgNLvyg",
+        "width": 540
+      },
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113552516282314383854\">IRIS Optométristes et Opticiens - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXmtHHjRLolA0Tc2u3Dq2JZQeinWTXRrc7XmGozwW8p--q_f3lEzpgdC2aLiP0p4U7h6L7CCy_tnejVDqsOuza14qRGm707kRuInzF2m6hj1qwtf6AVzX2pQ0Bn0Q3M9j6IMy7pRpY-_9Qe9FJ__b_a8eTLD5dY93TrA0v1sXfcWEL6WHQR-Q1p4zM9-gEoYC8TwCZHiidOH_74vNrJZHgZI5-eWDGpvFJ1-B7xlU2wthSMPnp7U820BY-7_xiF6-A-SLNemWfb3l8gzwLDD1o7UHfxnpP3JyuCjyv0cVxEtQ",
+        "width": 1080
+      },
+      {
+        "height": 304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113552516282314383854\">IRIS Optométristes et Opticiens - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVhLueyEgDUZH5koUvucQB5rfSxZ9XpHHujoOXIMT5VLz_3BjEghja4__Ro-cRXNIo8tw2g6IbXKmEXQoe-oXrIomXLrC2NboHm-lT5nEZiOhCW49G95D8MYq8j9hsufo6Nuz0IEtVgSi6yD2tWjqtI_ZySfRrseVDkYIqWbPot0h80b9JyukWWMMbKIt31tOXGmOGRLPamGJv2FTyDQw5B6rqmG2w_nm0xT8GqNyW-EF4mINe0XBls-Y9BLrGpaOfVipQFUwbfOwbdkL3D_OB_awCR56B-Lv3AnnqbZOrKrA",
+        "width": 540
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113552516282314383854\">IRIS Optométristes et Opticiens - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUEtwpX2LubtPMvpHdzP5BNWoutgTxZRgPMiWuQb0W35x8ftOX6mrexodCW4UcSvQhcwx-ExzvWlhHRDKSAvDxTA-5d-EPSAZN1SdbQYbCnXM368pjc9jGO6JYkp60hoGF_8NjF7Gz9MKxjuGOJaLg2SF6lpYAj9vuOyCU2Xc0LRYVnNk3MPo_gg626m5XhInXsZuDYmywxOiWP5CMVCyDufyPNtI_a27-l0Za3sMUsgBzujVbqmkLzgeg3odbupaQ8f0Ekq_oE-aIrEWf4trwu2h3PD-jkZjv6pO4B1IH6qg",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJNXCx6eE3yUwRpU6wsg3rb4U",
+    "plus_code": {
+      "compound_code": "CX2C+F9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX2C+F9"
+    },
+    "rating": 4.6,
+    "reference": "ChIJNXCx6eE3yUwRpU6wsg3rb4U",
+    "reviews": [
+      {
+        "author_name": "Neil O Brien",
+        "author_url": "https://www.google.com/maps/contrib/115310553982169213863/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKusqdnDF87-YtmMAgEOKcTzYAqLNVXN_XplEGER0r0FQtgEg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "First class service. I had my eyes checked here in the last couple of weeks. Bought my frames here also. The staff were absolutely brilliant. Very very friendly. Very professional. And most accommodating when I arrived in with my 4 month old!! Very reasonably priced too for everything. I would highly recommend them to anyone. Thanks very much for all your help.\n\nNeil",
+        "time": 1765500083,
+        "translated": false
+      },
+      {
+        "author_name": "Samah Sayed",
+        "author_url": "https://www.google.com/maps/contrib/103781169132890042241/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6Y3it4bZcZiI_nDImKRFddFaBlF-ooIuIEi4wre65bQiTlPw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "My 3 month old baby her eyes was red and in a bad condition. I went as walk in and they kindly accept to make the Doctor sees her quickly. They are nice and kind and I am very much appreciated for their taking care of my baby’s eye",
+        "time": 1750971838,
+        "translated": false
+      },
+      {
+        "author_name": "Avi . K",
+        "author_url": "https://www.google.com/maps/contrib/111072749131022926363/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl5kao1bLjL4tBHfSsieGnoAm7nV8RswL5UtJA4cIaAYWa3P4yKA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "7 months ago",
+        "text": "10/10 for the eyes exam very professional and great optometriste.The customer service 10/10 people are so nice. 2/10 There was a guy there he dont even hi,or good morning to you he had a very bad attitude and was not able to open my file online not able to help me with nothing  in the shop.\nI was so dispointed and even the second time i went there  he made me wait 30 mins after that a lady came to help me. I will never go there again .Honestly if the guy dont correct his attitude a lot  of customer will go away. I got my glass 5 weeks after insted of 3 weeks. Thanks to the lady eho served me properly.\nSecuro vision glasses  10/10 . Find a place with less headach",
+        "time": 1751557317,
+        "translated": false
+      },
+      {
+        "author_name": "Dmitry Tkachev",
+        "author_url": "https://www.google.com/maps/contrib/108721132600404858843/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu81NXwSxjhDEzhv6QWZOGtVxQVE7hznAjcsBZP3puUpXkdA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Second time I had here vision exam and ordered glasses for all family. Very clean and modern interior, the staff are friendly and helpful. Will come back again",
+        "time": 1746891741,
+        "translated": false
+      },
+      {
+        "author_name": "Vicky Duhard",
+        "author_url": "https://www.google.com/maps/contrib/107191784099140523563/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7Sztv5ipFaf6ZL5YBbUp9jh-ImWk0S7WvMRYpOSzR__0Nsg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "They have been amazing here with my toddler and emergencies! They’re all super nice and friendly super clean place and they found my prescription I e had for years was too strong! Highly recommend",
+        "time": 1726939503,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=9615162173524299429",
+    "user_ratings_total": 188,
+    "utc_offset": -300,
+    "vicinity": "456 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://iris.ca/fr/trouver-une-boutique/vaudreuil-dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "query": "P'tite Laine, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338545.3717597,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "#1",
+        "short_name": "#1",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "52",
+        "short_name": "52",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de Lotbinière",
+        "short_name": "Rte de Lotbinière",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2N4",
+        "short_name": "J7T 2N4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">52 Rte de Lotbinière #1</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2N4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 12:00 – 4:30 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "52 Rte de Lotbinière #1, Vaudreuil-Dorion, QC J7T 2N4, Canada",
+    "formatted_phone_number": "(450) 424-3726",
+    "geometry": {
+      "location": {
+        "lat": 45.38042370000001,
+        "lng": -74.0138922
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3818210302915,
+          "lng": -74.0124394697085
+        },
+        "southwest": {
+          "lat": 45.37912306970851,
+          "lng": -74.01513743029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-3726",
+    "name": "P'tite Laine",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 12:00 – 4:30 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113971667509411204082\">Claudia Maheux</a>"
+        ],
+        "photo_reference": "ATCDNfUuVJ-8bYnKVL6j-B5PzBAj0YfEf9mmoi4WrFTVexGicsxG-5l6Fb6IhOdmvVUrFvsOorhpj_ducIwC3KzCZ9Hhm1xZU7rpTXIn6-aceAUUkcFRITmbWjJi-GzY0VhYjBfodON25LLREHAHD_me71i51yNaHvYltFCytA_K87hmlZpAzjQ81Inau9xYat-NmFQg8dPQFqk4CjdoFKCo3irqAHntTD3pbyjF9xEYce7lsudrRaxku9tdE6CbphnrZWurYJTsDySMogx9vmg3BsQwJZmPRqNae8VLEnDnlE5CqMpkSOisJDxIwP6MasmtcsUj08LmM2Z7hYPEc50NJJKZHmyhuVeggXXNewUA6MiIlUME-tflaTvH2b6LLZS-gj-qFIpAvWxmmTM64cnbHTbvo3qKBrUoNiyCuaQTJ44ISA",
+        "width": 4160
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113971667509411204082\">Claudia Maheux</a>"
+        ],
+        "photo_reference": "ATCDNfUbVumaQqKBV3e6D-WUVO7E2hoD14MenNyphcqD9sjpYpFg8TCWVhMjOBlj9unW1Plq_qe5guo0Qml8l7AF-fQ2EUVh4MJDuRGbP0StpUkYVzW9O09BWaZkTzXtLesh5eANng8NFS-50PsSa1u-lmuDnRs5u7FOcZqTAx7_WW4IvfNORrebri51eCC60ES4a_tzFO4R6EtykFA1KBQDjTOfboCNSLxgPndS4FgJqqRTIa6dwUnOsYsnXBMXO-PJUBFNMcAxjIwqyhqkWmm6vXWG48KHyDRtQziVK4nmKmRuG7ae_UJK_ynqG-_O-6lsdnX9MiV90VeGJ3kufgyyeDKUckmFoG8wZDwadsZypsC5rt4yCiVx2hvfP1oQZ8R2SvLi6VdxzyiUz1TA_Kt5k5dpLIFS6nkeBKWTQr8OzXCSsTg",
+        "width": 4160
+      },
+      {
+        "height": 2154,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116066666768141256010\">P&#39;tite Laine</a>"
+        ],
+        "photo_reference": "ATCDNfVxyDI23fMIYvLU4q4FjuFyOy-YLnHn79pXLv14cG45bTNrIDcIoBT-Qr1blbuMBSHz1ztbWEz8cgJnQZv2-Xf1P0fWC6wBICKY5wdU8Sue0D6mgt-bAy520L1qo77D2e5tFgXhUwN9j8fsVQuj3Og0zlfzw47bFUBJMA_eMIT4nmhxjYAhL8EUKr0Xmr96lj9wVjGsonDZvEQlCR4mhagEHOI7kn8SSD_HXzvwsVJYqbI62YLeP9fRvzY7IsQ3bY5h1RbkAxr-EfeP5uqrTszxrKn-v6mBCAJKMz_1rAZFMQ",
+        "width": 2970
+      },
+      {
+        "height": 3312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116066666768141256010\">P&#39;tite Laine</a>"
+        ],
+        "photo_reference": "ATCDNfWbHmO07n7877Gt7wuU4gbQQXfMHxqU87iPFUJ7dX93HIfKGQplt5f1wT4RH1xtMeiZeBwgwalH5WFb8lEyOPUGh4C6zy9O6AvBmk-0l1Wx06dl8LdFsWiV9mIvuZrRZpUpRrXwTH32NXJMbhbNIC_SM1bTDRDW0oId1Qd-PqmQzcVJ1BRFxEZ5PcAIuJ8j4cG05_JIybWvn_Bf426bhMT_yvUgfyr-4nOXg_GPcp_VkxGtNqbkgbfI6t4CEZl81eqZmZlYNo0xidkhWIB-C5zGT6_NIihb4KgSWpeafnZy-Q",
+        "width": 2166
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116066666768141256010\">P&#39;tite Laine</a>"
+        ],
+        "photo_reference": "ATCDNfUc1Q5iBGLmhK3pvdNoCQUrIft3zCfe54u6Gwl0Vvm3RdBzj2qaIZFCzFS_lWswtr31giB8koOPZlNIX4sbp8yrxEnEHA5ETcw46RphGI7yItVUMl61U2YOZ2yFg-o87JQo4a-e9qk9Is9NqFn1QSirRYxqTDDE_Xkv7KQeBDpO43I2lAxrw4hBGOIoUyVEmoIW_N8o_e2TAa-clx9PLfPVkxNAnfFFaZ1TeHDNNtrj8_WSdfmMbpjusrEG9iGSaRl73NelM6XRher6M-8Ah0VqWD-vx4v6CZISHN8pQtdZ8w",
+        "width": 2304
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116066666768141256010\">P&#39;tite Laine</a>"
+        ],
+        "photo_reference": "ATCDNfXIg3pX0qCrWN03EGyWRDQZR6hTV_wHUvgO7NUXegbdN6WW4C3AwxBnZx5VTlv3ycPxQo3WcwdKbxiulbkjvUjzJm8VF-7gjPz3eUBMvUZvhbTnHoz95L_Ai15Yr0Eg6KCr22KiCcCXJOF14SQ9-jlk_Il-VUEYPWXVc8FbW0hSH9D8jPdp8BzIh1BeKSp4RCIYr3SVzaH29JxC6-UyG5T33UIe4Zu6O_lCXsD1wr2FOodEjP8Emr1quVA_DWbaiw0RwDi9Wu7x_MhqNAwNFSj83S0qVYiyR9bN_YF0R-_uzw",
+        "width": 2304
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116066666768141256010\">P&#39;tite Laine</a>"
+        ],
+        "photo_reference": "ATCDNfXDUYruN_dLu8cSRPIq-Z-eX0ldO9YRjkkuJDu7KHgxJM8IQsjil9Xm5t9C89TZLOPzSo7i1uX9zGhDBDEYr2OHKUpHALWK_gcPg0yUI0-VKpS7MgnpMDYx3HCuZGEbSDSNH12oBD1oJMbKk9JA8sYw8v4JdsIBJUH7JVhca8k9juctb2UmHwb1pxCHoEzR035Tt46VXw8hxQOtjT3_QqpOPyjuTIHjGBpA0doSxsO57TeP9CruM95JeZMjwVVnoC1fBstpPueFCpuepTywL-3Ne8kgMeNJ-cKcXWlRco8QOg",
+        "width": 2304
+      },
+      {
+        "height": 2496,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116066666768141256010\">P&#39;tite Laine</a>"
+        ],
+        "photo_reference": "ATCDNfViYa4SwfzwSDOSvlXvmlj4x88ly_GhS9gdWCYeWC7aCsEg2fivbGtWM82UOwKGcLPk2WKlExEQarmNViZRvb3yPIqBTecO-d5hjjU1m0ZXESRSbV9R_fGOeOMn8N2a_yP2OzxQdGbkmTxcDGXrS2BAbNfLwT4cwFlZWHr-KKG8ItNsBEA5O_rZ9tjB_VRyxJM-llH1dYLOieEo7hRVLW1FDaKIbXO2ISceKWH2Rx1C7IWCl91NzBK8x7-CU_fP5_DqPO3KABjb9qjQNU0uDXTE9mjq-qDxByHfCeeUlwOo5g",
+        "width": 2106
+      },
+      {
+        "height": 350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116066666768141256010\">P&#39;tite Laine</a>"
+        ],
+        "photo_reference": "ATCDNfVZ2qmrB_a88s-EGjzxjbLaP971TmQ_SvcV7o-_wKPqtAUwkRuuOuI0nSxCg9gRqo-4yblJdY3oDckQ3pVRmSWCnnLlQQtgfinM0QpL939Ot_yGVdD823viPUhUkaQ58XfycNhQgH9CStpZtLE2WZSCITYulTtWuZk3HFl14-pbtCOG1sRFeV5MyzPu_LkxfBbsWyqZ30zAG_VWZkim1BwiUiBqAKYStFnsE7BlIX7IvxKHKsAwtMfi8boUXB30aLRWWyvruVNeTYzjNpUd9UFddWwXOFuJtHr6z2N-TMXV0g",
+        "width": 1042
+      },
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116066666768141256010\">P&#39;tite Laine</a>"
+        ],
+        "photo_reference": "ATCDNfWPdeadH4BNuQqhk0G7tR_4EOfjKTIOHclMUfJ_ytTRfuoAgxSK1mdkkwXLegLfq9bduw6OIL7uAeouvwIb9-Y7W-lcfGS84_O7Ql2MoiazuRHsGJhorMXstDfoz156mWd16S3HnZNoywvVwhR2W_CNJ3lrvo-_Lz_FFSzUTOaLhQkdFlZds3k72ocXVPPPJVmpMA_ubgTMJNLrABHEWnoUrL0QOIEo28dQH7lrHCvThrYtOvh1KgwJXN7U1SCsDDLw0HTs8_FpKi9Z4_O3lDRPBbJ6d6XOGM9DvDzbkmaPpw",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJ356_sRtIyUwR3W6TvtwBasU",
+    "plus_code": {
+      "compound_code": "9XJP+5C Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJP+5C"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ356_sRtIyUwR3W6TvtwBasU",
+    "reviews": [
+      {
+        "author_name": "Claudia Maheux",
+        "author_url": "https://www.google.com/maps/contrib/113971667509411204082/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTIikJtcRFsLLiTaE0wa6QyYDYvF_eXVfMA80TjoDafR_zbizm=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Lovely little shop. The owner is very knowledgeable & helpful. She hand dyes some of the yarns herself - they are beautiful & high quality. Carries good assortment of knitting needles. Just wish the owher was friendlier. Recommended.",
+        "time": 1696462701,
+        "translated": false
+      },
+      {
+        "author_name": "Cindy Galarneau",
+        "author_url": "https://www.google.com/maps/contrib/109705025241707465403/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLMocQYaUwOMIaZaYyniPvVcS8PL512K2wY7f-vUUVbgJuRQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Nice selection of yarn, and notions.  Friendly, helpful service with a personal touch.  A\nnice bright spot to sit and cast on your project😀",
+        "time": 1523211364,
+        "translated": false
+      },
+      {
+        "author_name": "Tracey Featherstone",
+        "author_url": "https://www.google.com/maps/contrib/106455132760292503717/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOS_pUyFV_KatH9ESpTivgzEHMUutQ6lnN1nuyn8JSrBMGG8WnRg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Great experience with much help in selecting the right yarn for my project!",
+        "time": 1691933266,
+        "translated": false
+      },
+      {
+        "author_name": "Robin Ouellette",
+        "author_url": "https://www.google.com/maps/contrib/103391503573916648525/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW17nGiBhLbdXcMzerLTxyfSWIw1IVyH4USs5gsa4HQA-G43ZE4=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "I’m in a knitting group. So badly needed this store",
+        "time": 1676139863,
+        "translated": false
+      },
+      {
+        "author_name": "Marilyn A",
+        "author_url": "https://www.google.com/maps/contrib/117081947898843991196/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbYVwJyaZ9h2A31aihFoGneXtmXj1NsSUV2WFS1-iDs9K-1LbqFw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Nice little selection, it's great to have an independent yarn shop in your town!!",
+        "time": 1737749738,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "school",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=14225184420604899037",
+    "user_ratings_total": 13,
+    "utc_offset": -300,
+    "vicinity": "52 Rte de Lotbinière #1, Vaudreuil-Dorion",
+    "website": "https://ptitelaine.com/"
+  }
+}

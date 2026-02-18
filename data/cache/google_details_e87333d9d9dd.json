@@ -1,0 +1,679 @@
+{
+  "query": "Wei Wah Buffet, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371443.464539,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "351",
+        "short_name": "351",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7W1",
+        "short_name": "J7V 7W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">351 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1430"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 2:30 – 9:00 PM",
+        "Thursday: 11:30 AM – 9:00 PM",
+        "Friday: 11:30 AM – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 4:30 – 9:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "351 Bd Harwood, Vaudreuil-Dorion, QC J7V 7W1, Canada",
+    "formatted_phone_number": "(450) 424-2256",
+    "geometry": {
+      "location": {
+        "lat": 45.3809034,
+        "lng": -74.01764109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38221898029149,
+          "lng": -74.01637451970849
+        },
+        "southwest": {
+          "lat": 45.37952101970849,
+          "lng": -74.0190724802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-424-2256",
+    "name": "Wei Wah Buffet",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 2:30 – 9:00 PM",
+        "Thursday: 11:30 AM – 9:00 PM",
+        "Friday: 11:30 AM – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 4:30 – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104149616541247281566\">David A</a>"
+        ],
+        "photo_reference": "ATCDNfWwSFy0qw2qTQMQ1Jpt_5car7W0JGiQWTdPCqbJIBOsHjmFvnkTIT3Cdo3P4pkG1FtiThOXweSUCJH_1jSpqmwCzelZmUTD6OF5Y0Z9GusBK3CSTKWA_lLAfMQstB0jKJXHH9T470o8lwMmih_9x_2SHR29R-bX6_SgTIabVcEVWvSmk6CLrJWC8LcnY-zsSK2cdYqbdIPjzBuPdE-gRswZmqKgERGN99vCGqljVmwInMlpK9ArtwrM7J8Wv7D_osXz94UmpVuubTIexA1ECdeFI-6AjgN6z2aSozyn-vSF3g6f8PdkqHjqQlEj6D-oozCtY_zqkCPmmHOCSQU3dEFxHQldY4qw-xCQuBkh918_qR5R6Owae_zjCVNb1yiGNJDvlKvfYT_6xeTNh0085jAtQ3Uq2QTT2dw6LqLw5lOh6IY",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111787540174345736238\">Gary Liang</a>"
+        ],
+        "photo_reference": "ATCDNfVapziFRoCGeCX2nWrGekx1K55pxyasBqZkLbBA0h-EVvPgpWt7AxjJ8ztncBT8Pm6ewKCURFMGiBKPvFd9PSU1wiFFqV7w8Bpk3Swz3ANZ92u0TL-fQcB_g3Y3ldygbtUpQdv_T6CySqsiFOhuvT3wlrgF5SX63TwbRfYBFl9DIKFFK-zy-dNNKZWjoELrB7Dxko1xRxM_F5f27vWj4sfESH7D6CEK9_NoJx3M82jakiNv117gS3DlhUjvuhTR8xH4Hk1KngaETxvLOF7WQcnVI0pxbREHPIdymRb33N1oToC3iNJsRYvNzeMnaeQ1l74zh4umWwf9QFU2D7LbwT26lDmbRVsQM3rtBebod5ZEGk2yPWIpp4OBK9gQMkr1E2gHdxlJr7A9Rnp5-pmiXZB97xvFe32hvPHW-iFoRj4oHg",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110377068413650635475\">shanyu hu</a>"
+        ],
+        "photo_reference": "ATCDNfU0ag13yNzhV9byZo8pCubsWlr8kj9BM3AM_tLbmK--rPSC3agevu5mi9oThh66KKcBpkyn7aKTbhBGa_l3qV0zcB4zw6eUpMxZv41abpVqVrDlOeBJFegS25mltFoDUH93XUVWb7GnbZDwlBFrKdkMBCePAJl0xxV_hZpeztuy1eQ54VCZEdqvQZoc0ybEQgWZJOQhnmo1gTvz5JBwK4oU1zjFVe1aYA1SarcdID3eQfD3XIkxO5M9YdMyVR_MJ_39vCnl691k9vCqbVPmCqKAtc9toj-uOCMup5XHTRWGvn5VSiAf28RQTIFOVI7aep4nP2mIKIWHEkVF2sdFMMWLPvp0qBqF1S_GOhv4iER1EdgSIehFKE5wIP24-gc-DjzTv0oT4eCC49P-TxNqIG3CPXOukz5DPaF4hSk-eHu7RQ",
+        "width": 4032
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101569627368021188234\">Jessica Gray</a>"
+        ],
+        "photo_reference": "ATCDNfVLQAWrmkfbEX7B-BMaZuiT-MfPJZ6YqLyaFCYQPGDYEMvPKp6J9Tb1xYRsf_dDXJx4wKaSn0G_XxLUl9ucvvfd8EoJbJw4UdnNZlbuURLKQf9gCressjmlA7l0mgw1NSI1JJURNBHy0qN5qsH6tsJ4RTCVdQVUy1b_L0cthspwTzWRWGmeqxcAFP4PJjK23kdaaDosUiXoAXZUF5wVmFo_B9Lhd8pZJSZbNm_wk44wcUcEvqbJxghuXdxbi39IMWJJeDmjDXZafeWGmaxqsuHNvsLiC-Vc3bTrSfeg6FCbv09exGGlAqoxvG0RCLHiRdfrKvZM-8wsbQhXgDx_BUpW2vVMQid81b8CTOTfTeylCkrJrXQgspC0aNFM2qi-f4mwsdg-_U6iWnFrZh8g8in9ekixc3cfmlZ7L-pzNJKlLLqBFCb1qYENy-nVWdah",
+        "width": 1600
+      },
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117216745194944771761\">Normand “Tom” Bouchard</a>"
+        ],
+        "photo_reference": "ATCDNfW2azZEsoAduz_hrvrkLjzyJKVZkYldPjuJSIyusKvm73ypc06R5w3SdtKRfqZGRR2-juas5CAbvaNZxu8NEv5Ky-GWfDRIoziVPLv9WmSCELraOilzmhOU6IbNmf-fJJhRRLkwhl9O5Qc7yqXxy5NaIH9XYeBqZ7x9qjL2ev2vZ_r8WFdAJPHnqOIcI7yceD-gtBU3hbN4g9fzg10nKwCn-KuRCKoDxhHMGg6ee_4BibwdKybTVANKQnLwJqwG3SeA88ZjbxOKiCiY3tzwZUxmvEwZgQHK-t2c0DO1yHBvG5Tv8p2xH8vIg1dXXERwivIbIlNYcBmm6RduUUz_ugH8EOW7Fa_LP369fT8o25qAnCigX9BCmmqAXO9BN8QQMmhV76ahsmIlUMiq3v-bdMV7sNVtIHPWWDv76bK7ftM",
+        "width": 3968
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106090288367014154214\">Sam Kahn</a>"
+        ],
+        "photo_reference": "ATCDNfUZw9TRSt34XZgUbHASHAMGtL_ypOS-WWKZ1I2-RtuvRSZSi4jJnQb4vIdg84n9PyPR3AiSvkgFBtCr3SXXeCL8cxgGa6oWRtZKiQL-NoCsiyCzcyAfD2XB6mkbnzlo9djMGbUcGVaG0ojhQFf0u0qkzVUlAoqHc5SKwdwpi1pEfUIToXY3f2vDhDUQye74DwROPNSpni9Xa8YaL5s8gUXxQefbNO3uE4UFgwJ_JDFK7_mQD3Q32KWBwEp1BlwIGXncyT_q-9R5CR9jJtgS11dvZsbbB4VS5ew5D3PScWKRzTXQ1dJRkCDgSvthHokdvu_PoxpcPkGQnIFoVh9jqeIenGmji6n7LBc-MO0AQR-ph4rxWojhziEbokklqSLzyvjFuhESWX9z4qIYy6O_5911cmEZxAC5lbzUrDZJCwoj5bbF",
+        "width": 3024
+      },
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117216745194944771761\">Normand “Tom” Bouchard</a>"
+        ],
+        "photo_reference": "ATCDNfX7de7oJgw4J2Sf60QJ-AMp6j5zj80BYad8JAYT444kajdThA4Lwd7HZdirf-cvX8S8u-aIhBK7QuzP_sGLcXwh1VE4GY4c3AM95HYGMTYUXHpwcJ3qLu--hzgwyPQ1tv-PwbdB6l7tG_EKjaol97dbVBD33r_c2_hvcrD_SBf8Q_3BSJgBsD50Psfu4Tchiat_ISnzDd72jUISJ6Kk3i2oLswcCnJRrohNFsgObqx6RS8Gm4zZK8DkCyP2CzdUSi1Q-08IFEC2TfKITMdTGigS5S0P76ox2MCnmT0lo2uPwTP9f6TGM1_a_3t_ADs4k4o7VJDpz6lHIgLbMPNkEq0s42hxXC4SvoEHdytr3fwsyR7jcvVUeNepZ49XJmFxULaKzNE6S_WXc6Bshej7dz16wxXYFOPuIKQ7hymrwWJHug",
+        "width": 3968
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104149616541247281566\">David A</a>"
+        ],
+        "photo_reference": "ATCDNfWyhFKr_RixMdMVuIaFDY1wJSQSIe4rLJEAIW-ljrIIoTGEcmTswA-4ZJU3XLqb0MVDUPq3phh-PgTfr8zn4iiIyDl3cwk-QGI_QMZDegq-7sEn9rz2Dp8lFCFeqgbUlo2pahqUDERlkBPm9fhQym3NcoedFLyzr-9Z-RCKzU2WvWj1ofEzU7rcNTfyLXZIoPbxnxdAfeJ9tiLbXINOGeFT4MbUQZwudsvtcG3-LPUn9Fi6859jfY0-Y1liiJqGYLQkcj4RKTF12AeYhkrDUcZFCtHn7aI5QkK2Ey53FoPP4PeKVsSz0F0GUdW2_KeUbbisBneMK69746-UMDMJIvNAbX1FyEfCwt3VdmRceeForzEFPnXXzxrI_cO2lRb26UyoJCxdoH_XGcqWbnO-9NxW4L8t4N7m_dGnPbEFuT96kQ",
+        "width": 4032
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112212639076928419448\">Patrick Theoret</a>"
+        ],
+        "photo_reference": "ATCDNfV9dmYEejJFL9aTokCt_KsR-dSrQb2KB6GjowmB3k6-7PtAckmcQcSsjvZ6lrlVJH2Kbx6yDMy4yl2ZLnd7LaHzjZjRncElOEhoLkYX2wDtDHfHV_ffIwRAFQehumwP06vZtsWYEcO5pTHelacakyEZU2ikeb6NeliEANQ6dtDO5A_NGYyVEmZUNDAJlwPXOvJTIDcZD2aTwTearMoAIOMiXwCcfF8eqCTJ1liM_vEatNJtmQwk-qst6tmVGgYO2gSOHglINiDvcZ0ufoxu-XPg-Ah-eaYVYxjZY6MZGNooZhflPOMQk9hw2QKS-1VcEnO7bpUmho2c76nG1_Is85lQcj8p_QUgYYl98M5aefs0ckcSXp-IXSy2UDhn4ftV1jwUB59vSkFgcqvgqUtC1esP-yS60w60ItQ1l5Y-lxlJSUk",
+        "width": 1920
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103156506986873486982\">Lolika Sylvia</a>"
+        ],
+        "photo_reference": "ATCDNfW6zvNFFdDf1vlZyFOTSsOyoexY4_rRiB0T7rza40A4biXCzRCseLLswAi2Z256HxweS3kzxaBCCMrs4g_6hT9jqQW-7HwaXnnGgz-YHv-R9pMRqBux4TDgex7xMtVy1k9SLhzGPe9A2gHT9PQBL0e7qHexkV5c2z0k1NkNFep0e4jT-_hkWE4UkHZaqmuEDfwKjxSXu5GSfwQhSm-OIUwIjeyc4qUGLvvu_NI1DtUeoiHLUc1COseXD0R6MTTYg3gNnjQfi4LVfWXYXZGIa4pwUHZ5yJRYT5SZS8R8fJrXQwIe6AAkSOFwKNiprr0yrEEMud8uH0m5FnxgvzNcrWUXtdsXYyq-dUWQBSMDEBZXPTg423p3-6n6P1pTMsmSRHVnWBV60_g107IVwm1JNA8NYNtrzzXrwmsZUV-Pv_YSHaux",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJGXB4dxlIyUwRh1FgLs8kXe0",
+    "plus_code": {
+      "compound_code": "9XJJ+9W Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJJ+9W"
+    },
+    "price_level": 2,
+    "rating": 3.5,
+    "reference": "ChIJGXB4dxlIyUwRh1FgLs8kXe0",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Stephanie",
+        "author_url": "https://www.google.com/maps/contrib/102409052423244395134/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVGwBs33f_vtBgI584Uy0e_xEu043s46jGOk1Ejf6XQ3L-6O0SUA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "People are so picky to leave 3 stars. Yes the prices are high bit food is excellent.  Services is good.  Owner even change things for mw so I didnt have to spend 130$.",
+        "time": 1763766460,
+        "translated": false
+      },
+      {
+        "author_name": "silversevenron",
+        "author_url": "https://www.google.com/maps/contrib/117261426875975651582/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDScqwpvE9P_2iYoeW1XRMI3LUDTMK6q-5c_S_u3PCnubhnA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Slow service waited over an hour for take out , even though was called in advance , error on billing so was charged extra 10$ …. Apparently no longer the deal  it used to be , quite expensive actually think there’s better places to get quick food !\nBeen a take out client for years , don’t think I will be back .",
+        "time": 1765065886,
+        "translated": false
+      },
+      {
+        "author_name": "Rock Hayeur",
+        "author_url": "https://www.google.com/maps/contrib/112579543931197788599/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfZUw3cn1_zyohusNv3ee0mODJKTkR7FxUZwnJLp2iGtIcn30=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "I wanted to go back for the salad bar I missed last time.I also think quality of the buffet explains the price.I need to slow down and chew my food more too next time I go.I will try it one more time to decide whether I come once a month after leaving the Dream Center!nb:I need to choose healthy protein ie: steamed\nchicken shrimp ,fish…!",
+        "time": 1764889344,
+        "translated": false
+      },
+      {
+        "author_name": "Marlon Noneyobidness",
+        "author_url": "https://www.google.com/maps/contrib/113476434210148445710/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcvLFca_BKU6jyVLiegK3it4qP-DnkJR2cEqLr7OL2etXL2U8u6Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 months ago",
+        "text": "Super average Chinese buffet. Nothing to write home about but not terrible either. Buffet food has gotten exorbitantly expensive though.\nOne thing that bugged me was the salmon and pepper beef were both really over cooked and was the two least enjoyable things I ate.",
+        "time": 1754886480,
+        "translated": false
+      },
+      {
+        "author_name": "Scott Stephens-Perrier",
+        "author_url": "https://www.google.com/maps/contrib/100201265964316380784/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6oLJdsjB0jbtiLu1jn7nf2gE-Bu9XHKi9i7PO3BWLpy2TkGX_=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Food was decent. General Tao and crispy shrimp were great. Service was friendly and quick.",
+        "time": 1761360292,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1630"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1630"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1630"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1630"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1630"
+            }
+          }
+        ],
+        "type": "DELIVERY",
+        "weekday_text": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 4:30 – 9:00 PM",
+          "Thursday: 4:30 – 9:00 PM",
+          "Friday: 4:30 – 9:00 PM",
+          "Saturday: 4:30 – 9:00 PM",
+          "Sunday: 4:30 – 9:00 PM"
+        ]
+      },
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1500"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1200"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1130"
+            }
+          }
+        ],
+        "type": "TAKEOUT",
+        "weekday_text": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 12:00 – 9:00 PM",
+          "Thursday: 12:00 – 9:00 PM",
+          "Friday: 11:30 AM – 9:00 PM",
+          "Saturday: 11:30 AM – 9:00 PM",
+          "Sunday: 3:00 – 9:00 PM"
+        ]
+      },
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1500"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1130"
+            }
+          }
+        ],
+        "type": "LUNCH",
+        "weekday_text": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: 11:30 AM – 3:00 PM",
+          "Friday: 11:30 AM – 3:00 PM",
+          "Saturday: 11:30 AM – 3:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1630"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1630"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1630"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1630"
+            }
+          }
+        ],
+        "type": "DINNER",
+        "weekday_text": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: 4:30 – 9:00 PM",
+          "Friday: 4:30 – 9:00 PM",
+          "Saturday: 4:30 – 9:00 PM",
+          "Sunday: 4:30 – 9:00 PM"
+        ]
+      }
+    ],
+    "serves_beer": true,
+    "serves_breakfast": false,
+    "serves_brunch": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=17103867432077906311",
+    "user_ratings_total": 544,
+    "utc_offset": -300,
+    "vicinity": "351 Bd Harwood, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

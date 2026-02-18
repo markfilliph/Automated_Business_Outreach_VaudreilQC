@@ -1,0 +1,281 @@
+{
+  "query": "Marie Caron Ostéopathe, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339252.269008,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "60",
+        "short_name": "60",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Galt",
+        "short_name": "Rue Galt",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L1",
+        "short_name": "J7V 2L1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">60 Rue Galt</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "60 Rue Galt, Vaudreuil-Dorion, QC J7V 2L1, Canada",
+    "formatted_phone_number": "(450) 424-7141",
+    "geometry": {
+      "location": {
+        "lat": 45.3900318,
+        "lng": -74.0120627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3914736802915,
+          "lng": -74.01080421970849
+        },
+        "southwest": {
+          "lat": 45.3887757197085,
+          "lng": -74.01350218029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-7141",
+    "name": "Marie Caron Ostéopathe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102459139742462218617\">Chants de coton</a>"
+        ],
+        "photo_reference": "ATCDNfWAk5hn6D-f24uYi3UIMvleLkHCEZNeTPJ0EchsjzmegtlQRGAL8E6OVlaf0DU-sFI6asvTm52j-bQM6bsM51MWezBiozAHj5F5bpWsFn8ItdbLWliAmalATMQRAV0lRIyckAXqbKF5Jd9a-Wj1AJVc9jyOu1n1DcvE5VRfy4AsZiSV5fbtwcZ97RQ8IP6S9ES67JZqJ1_HTTdTPxnk9l1QcpnxPX0rMWcDpAohIxDFrcKMUwDx9HCcE8cPeO5bUCfnUTo92RDeJSnBET4CY6znnofLEth1yhGz7tICXohB9Kuw4s_pSL_Bq5YXL_efT7GToBTpRavbUPfsqpLw7g-PMVmeV_Je1LoXEURoqAwT7zwsRNTXn6HIFlg-cEi4hAMMN--y5cWA4np_kxK6QbPV55nlEEn35Mm-cJJ1qns",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102459139742462218617\">Chants de coton</a>"
+        ],
+        "photo_reference": "ATCDNfUdiPhg_3oxpmHAQaY08L3nzdKtIN1HNP9plBeaG-7HIE0gYhIEyOI_fAtLoBzhmLfKsH1wzIZVEpt7OeaHapxKSH-cmKzgNWfZdK4HfTqwfehiy5JWcpaeKLq67ezZNd0Jl3cLFJdu5mC0hQQLrm04Rd4ZPSyr4aW3rIty6OHPkxgrj_JMbbIz9fTa5mMF5rocMejcJ__m6N_uBf6PUbfnhrG4dQzOZK5WgS6N4bplxArVhbX4uJcVplQRgVlQpxlripyJCE1VVNGLAxn8KCPx1Jvh5AyR76Kz6O9Mqn27LxmebDK2d6DMvpe1ItFpFh4-rtHyo3HhH1QjR47bACANdMNGdH6eEUtzfINf1dHAE-dAd8DcNeRR0vbTcUuY6dlG8HToVIQglVQPlEB11kz1Y0cHfkUc51zrTmj1_NU",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102459139742462218617\">Chants de coton</a>"
+        ],
+        "photo_reference": "ATCDNfXacuWvdXhuEn4eTc4PaFLbupY89F8SoUJbfo0gHirkkOntIhO0Ku65Q8AdeHUAsqgWqP1K4f7VCxtY7Vq5eF8SEARyuuODCTJhkkbBEl5OGl2dQgFZ9cJp6tYMwir4dkEYVGTvETT7gVem6A7E4zKYKyIOqVYtMD2qyPZJTUdUDpzwDywFcd5HbGdLeQEjx1arHiBN5mR2pJ89vmeSo3sRWq7wBzyTFA1Q4al1HGjQlpZSEldWOk6ii6JAEHsCOLyNtzQvPqSw5bdiYDrCYaCXStvCmnckDWGCjHPVs-Ae0S5fUCJWVKbtq7wg2JEqwSCHP7URkBKNH13frJ1fuvM5Rfd8Pw4ay3Y8IOlX1VSckqo5oli7XE6p1gh62ZbXg3kVWN37-XyMBQr5Z6BiCVT5xnw2HOQVQA_r9hSPYgcQQtZ8",
+        "width": 4032
+      },
+      {
+        "height": 2568,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102459139742462218617\">Chants de coton</a>"
+        ],
+        "photo_reference": "ATCDNfWuiKEoK3oE3T9cEYpfujZsn2znG4NjmtwKcGBup53NSmqGIyy2RcBXrCWY2U7cSq6bv9W3Vti84sa-Yp5e3hdKzZPShiIHXp0aVxQMJVq1KyuAWpnTvOOirbLhFtskERAiK4ikTvVMXYqU_JwwuwUFNYsQ9ow6MzflOEZrwAvxtpmuf4vKSASb4jk2WV3pPqFsmiCSU2P8cCppDDZntu7adtpiPK9UlNYxZAuyk4UyeIOSP0YVbqB4q4SLRFGin0B5quiRIJ-WSbmUtYb0j483nv4v-VNYo3tDg8NGhvLuvgox4OuwL3kG7hTfQP7V6A6K2JVaw88FcoN69wv1UiK2hx__nIspzNpMHzx73maNtfKXllm9QSJC4TIzTujWRXxmfpIxno9jpOVqpSeY8JtxIdMgnLZELn3zOVBRwK-1Kw",
+        "width": 3673
+      }
+    ],
+    "place_id": "ChIJz6Tk7-E3yUwROIwUMmeAUH0",
+    "plus_code": {
+      "compound_code": "9XRQ+25 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XRQ+25"
+    },
+    "reference": "ChIJz6Tk7-E3yUwROIwUMmeAUH0",
+    "types": [
+      "establishment",
+      "health",
+      "physiotherapist",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9029858433588038712",
+    "utc_offset": -300,
+    "vicinity": "60 Rue Galt, Vaudreuil-Dorion"
+  }
+}

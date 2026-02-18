@@ -1,0 +1,368 @@
+{
+  "query": "Jerry Service Garage, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339634.7626429,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "382",
+        "short_name": "382",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X2",
+        "short_name": "J7V 4X2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">382 Grand Boulevard</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "382 Grand Boulevard, L'Île-Perrot, QC J7V 4X2, Canada",
+    "formatted_phone_number": "(514) 453-8805",
+    "geometry": {
+      "location": {
+        "lat": 45.3912287,
+        "lng": -73.9623374
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39249238029149,
+          "lng": -73.96081356970849
+        },
+        "southwest": {
+          "lat": 45.38979441970849,
+          "lng": -73.9635115302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-8805",
+    "name": "Jerry Service Garage",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103322003520430960826\">Wesley tait</a>"
+        ],
+        "photo_reference": "ATCDNfXrP2Q0qcNRRoRoMrAyVYNgQ9-3le5PNYx7NEP2vVAtLLcSOiVCrNzDbQ9rkn7pFUhylH_qJA9QBEg0L61B_avbhVLw4ZrVj3hB7WnzeT_ljVd3sWy3zUORHRPkzAX871UsLK-H4FWqSsN4gqmfO8hqzAQ8CYVvYbLURn35MDWWONeqj20GjWBhKPdOCDUBGg5nepncn6BV0nxPg7l-MbLUrZnkyu_BePNIGctx4FNVkRUhKonniHkaz36qF6snlwNqfGBJ6iEAPkJkgzJ2VT_4y78NaRloHpRtH36GJeKpANGCTVSfJ4oeP1EqN77jFp2lv4jzPHqFhp7Pq6HJ_oLxDpFlyPIZG9Rm7PekL-pWmnFYU4DyYnxMoKf8LSTPYTTwFWcMImpnbibfmi8xttwRbKQfs4GgbzJdeV-0rKyMkGUB",
+        "width": 4032
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102140553029362003269\">Rasta Reviews</a>"
+        ],
+        "photo_reference": "ATCDNfWLiCbwxMeIxdLamPlh4NUPXWb3AESPT9StdcI12bbmyXsCI42jW12hPA9qVGh3-dNUdb3WcQbWqefyQpyJwFqu_tzWINhjwAQ_zAjyBdQFUTJ5TMNYfqUJhDclZNATovycE5HJmbthlfUGHu5UcDvpidLwCegwx57L0lAn8QiHVfZrMLATjf35MOhGIKKnA7ApP1ZFgdYTMgye1IJE_F4C5xxhP_APeu7nNKjnIChXtx69cWJQRI81TSsSdY55nfxpnXWFr0apzsJx7Pobw9PM3LrrMmFUCVI73EsITB_MkaVx6PyzaDIORh3k8TXyjtJ6DGXQ0gXr5kCPpu7YZrRFCJ1fLCBHEdJODlEQER6AF7OC0cPW5rh2IG5ybHmurfx-sNb9-KKNBcizmB0b3EUP61WgrLcsQAtk2E36rzA",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102140553029362003269\">Rasta Reviews</a>"
+        ],
+        "photo_reference": "ATCDNfVYL5b23pN9PdtaLzqRQP307SgW1B7Jt-gbHbHd789aX0ObIXHJDtEvb_KJViXgwG6XJkoNqc-_R2RdfF1vT8UrQykykUkkpfGRNyaGafZ28PhUCsJmmxaCJ2IGX0Jzb4GH-avzVcKUvXlWlDpG_JjyuwBmYmR2O1Y5faC7QdvqDpRzUSydfN51vai6WwSqXdFuP6o2MLI4x4FMdcI-fgv9gwsVFgOXYkXuJ5cayQ7g9MH4q74DwaC0H-P9JErz-dErragCCL1Ha_R8KgwtTfOK0GlCo3DU7gG3nIL8N7-UZbEseCo-W8VD2GXhxp3N0tesk61CChbi7Yu8pbjxbO_T_o9DBJNAADsaJNZ2qCAUGd3aBsVwMxzcGVGMiwVi_534OVa0BJGgkgOP5y0LmF_AiI26qx2o_OPCifBqormntA",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102140553029362003269\">Rasta Reviews</a>"
+        ],
+        "photo_reference": "ATCDNfUyPIKCUDLJgh_aABU-7I4hZooYuMt6yeKsLSlBVPcSD7ZC4qgJBC52DEcYtDkrz74GCMrw7IwfP2NjMe1nYbBVuVuDG13c8QeNpWdMSnsUQC1FdEf7J6gce4RuatSgZP7K8yVRvNBe-DlxUPU9tkUNk2wZNErr23v8LFXJOS8A5QwBd-mfD1pMilTeKkWxOiQrTTbL09OVB2G9L-5u9uC9HeMxmEH9MIu-DRjlfpR7a6Kr_NyxpRjg5K1fgEHzOB0mwyfRCzaZk0dT6c3iOcPb3fuVvU2FTJY1AeAnjYxAYL6SxB0bvL-QvlJLK96uVfA6JT3bHonH3xU-oWQf82vSnrRdgvR0ANxRGv_SbcUZFldcFVHuvevh3WMvpYRnKsPW-irW654ywlEPHiQFA0SAD3uQ4QfZL6eXRNZeCxKuET1R",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102140553029362003269\">Rasta Reviews</a>"
+        ],
+        "photo_reference": "ATCDNfXI40jsLeulKZC0xEzsPo3T3u5Qqd1g8d-ZGdK9wD83uYDVvL2LWbsSCrCXpE8rUghHjBgAbwGV1oCSZEOBYBT1pegM4i6wWDWGsseQDDHMimIZDdkQet2bDYoLAz1z1uh29pqrl9FiIC9EucvocZsYkGdFApMj7CWyTCAqwkQHq2sAA-cakHA5Pc6TPJFy1ONEmHuPf17y14X9ibkK40HP2vie3q223r8Wgg1JLs6Xnxxj56z3D6AlKAtTHW1fkQWiXrKvoUk5pWGANgD0eqgCmJW93qVBIsssn4D9yo1jpk-uoN0rWAsmqcdjQa68S1PQ5QlcA6O8R81lw7clJ1VPgnSsCmmpDLnfqIzTsFh658sXm96LGXGbC6NDPbYFAUOP2PMUYL1aOSE-Xeq4BXeXMU67ghO_fUxc9PpOImVbcKMn",
+        "width": 1080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103322003520430960826\">Wesley tait</a>"
+        ],
+        "photo_reference": "ATCDNfWzKxSwszFnzZKkmbX2W7AFlHgJ7qceo9QcGUnHWcXJzC-aKl2YivFwbGDCT6lpR6cnQWIa4M7LvgL_OrmJjg0tz25DuyaOPDs56bcXPnQvoCtP8Hmdw2Lqxds7lxeqV8RZQL9xr9wJQN0Ym6q1UK42OPFgWogwFq1NDxJTD17ZpFtaJxTdf7HTYrpnWNbdC5GHXw1lZGrpV9IARL6HoDp0-QEh84mDzH64_tS4i1YmbzHswqj5OaHJea1eEmZl2Tiuv5uCU0VdRBiPdR-_ESfLqOVOYC4DCHdVHBzvwp7lUWbWrkUl_-3hXRZ9Ix2v6mjO0umZR56QefzHxahDnoNKS1SsAKvW3h9VVYW80wV5Dj6TDHcJYJwbgW9LIkWkLuJLUCnmJsl6aVLwi_9W0HQhYuQKB-4YatI5jTqYXvRSvor3",
+        "width": 3024
+      },
+      {
+        "height": 305,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112792688350413573043\">Jerry Service Garage</a>"
+        ],
+        "photo_reference": "ATCDNfW2WsabpB0wnagjVr69H-NJZZ9I0S1j6giopD38XGe-dOngSm-LD3iheLVz6UnLI6lHvOg98odfGWMHEDTAllDXl4vLTYbTtWi3GYzCkb0B0nbm13XQrgjr1bYriSe9u1h_gOfsQU8qX8Ys9_4ODGgYCn2tEjmGtMHKPpxHGkA3t3PbYSSiCj5IAqPwJKI0CWDJTsAaXXFzxJH58um7tq8l0FccVa3P3a2UDBp4n4NOatsWiEgpX3_EFDMIQ9yW6lx-XefTKQRsdDknbq5whMJmP5Lo622uBVDahIH_nrvSvw",
+        "width": 521
+      }
+    ],
+    "place_id": "ChIJWfmPGW04yUwRuNbL5OrKWVw",
+    "plus_code": {
+      "compound_code": "92RQ+F3 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RQ+F3"
+    },
+    "rating": 3.9,
+    "reference": "ChIJWfmPGW04yUwRuNbL5OrKWVw",
+    "reviews": [
+      {
+        "author_name": "Rasta Reviews",
+        "author_url": "https://www.google.com/maps/contrib/102140553029362003269/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITpS6dYGuMTBFHHN7M7YqGt-SISvOXkIFp12ojnmVEbinHcg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "High quality and quick service. A rustic and genuine little spot!\n\nStaff is very friendly, knowledgable and provides an incredible amount of attention to detail. Not only will they inform you of any issues with your car but they will also go into detail of the why and how. Very fair prices for service and parts. Flexible, courteous, and caring. I couldn't be more pleased with the service they provide!\n\nI was served by the owner Lucy and the mechanic Paul. They gave me some laughs and some great service. This is my one stop spot now!",
+        "time": 1731101162,
+        "translated": false
+      },
+      {
+        "author_name": "Bianca Roy",
+        "author_url": "https://www.google.com/maps/contrib/103440559234010327200/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcjr0bPJNI-FoYXh_gnLuCEd3W39y0oSGnupLSK9h_IIlKEQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Thank you so much — we were in a tough spot with a blown tire, and they took us in right away, even calling the mechanic just for us. The lady was very friendly, and the mechanic was polite, fast, and very efficient. It’s such a pleasure to receive honest and human service in 2025 — it’s becoming more and more rare!",
+        "time": 1761259048,
+        "translated": false
+      },
+      {
+        "author_name": "Kris McDougall",
+        "author_url": "https://www.google.com/maps/contrib/102527076089083042563/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzVa1O8FeM2JFWgrpwdgy3ddH_73psrlyWB-OApZOuz25S9Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Garage Jerry botched a simple repair on my truck, which I found out when it dumped a huge oil stain on my driveway shortly afterward. It cost me $500 to have another garage fix their shoddy work. The “fix” Garage Jerry had done and it was absolutely laughable. Oh, and the truck was returned with grease stains all over the interior: the light grey upholstery, carpets… only on the steering wheel and door handle was I able to remove it. Absolutely unprofessional at every turn. I would give negative stars if possible.",
+        "time": 1761226100,
+        "translated": false
+      },
+      {
+        "author_name": "Wendy Moore",
+        "author_url": "https://www.google.com/maps/contrib/101757194605461718778/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLC4_9CgcdSdxzLdp8AY5y7-JIquq6TxEMHJ_IXuZepU_GsIA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent garage, i only trust this garage with my car. I never have a problem and the service is excellent!\nI highly recommend this garage.",
+        "time": 1761158696,
+        "translated": false
+      },
+      {
+        "author_name": "Zhiqiang Pang",
+        "author_url": "https://www.google.com/maps/contrib/117318605634779123807/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnV4kEQbe0C1Zorn5YKZbJE74zITGwUzDGvLpZke5VZ43O_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "I just returned from this garage, and I must express my frustration and dissatisfaction with the entire experience. Here is my story: I had a scheduled appointment at 9:30 am for the replacement of a leaking brake line. Despite arriving promptly, there were no mechanics in the garage until around 10:30 am. Initially, I remained patient and polite with everyone there. However, as the day progressed, numerous issues arose with their repair process. They lacked essential parts, oxygen, and other necessary resources to provide the service efficiently. They even ordered these items in real-time, with customers waiting alongside. Eventually, after six hours of work (completed at 4:32 pm, with the job itself being satisfactory), my mood was still relatively okay. I continued to interact with them politely, because I fully understand the life for everyone is not quite easy. However, my emotions took a drastic turn when they insisted on charging me double the initially quoted price. I vehemently contested this with the boss lady, who responded very rudely. I barely saw a Canadian behaved like that over the past 20+ yrs. After a heated exchange, she ultimately agreed to the original price and allowed me to leave.\nOn a side note, during my wait, I grew bored and decided to walk around my car. The mechanics repeatedly asked me to stay away, assuming I was attempting to observe and learn from their work. In reality, I was merely inspecting the bottom of my car for any additional issues that might need attention. In conclusion, I strongly discourage anyone seeking automotive services from considering this garage.",
+        "time": 1701125826,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6654573034626340536",
+    "user_ratings_total": 72,
+    "utc_offset": -300,
+    "vicinity": "382 Grand Boulevard, L'Île-Perrot"
+  }
+}

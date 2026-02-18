@@ -1,0 +1,158 @@
+{
+  "query": "R.I. Art de Vivre Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339304.0696838,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "76",
+        "short_name": "76",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue de l'Hôtel-de-Ville",
+        "short_name": "Rue de l'Hôtel-de-Ville",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7J5",
+        "short_name": "J7V 7J5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">76 Rue de l&#39;Hôtel-de-Ville</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7J5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0000",
+            "truncated": true
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "formatted_address": "76 Rue de l'Hôtel-de-Ville, Vaudreuil-Dorion, QC J7V 7J5, Canada",
+    "formatted_phone_number": "(514) 770-4427",
+    "geometry": {
+      "location": {
+        "lat": 45.3889386,
+        "lng": -74.01236949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39039853029149,
+          "lng": -74.0111033697085
+        },
+        "southwest": {
+          "lat": 45.38770056970849,
+          "lng": -74.0138013302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-770-4427",
+    "name": "R.I. Art de Vivre Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "place_id": "ChIJlWWuAW83yUwR6pKIov5Ih6s",
+    "plus_code": {
+      "compound_code": "9XQQ+H3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQQ+H3"
+    },
+    "reference": "ChIJlWWuAW83yUwR6pKIov5Ih6s",
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12359927960827368170",
+    "utc_offset": -300,
+    "vicinity": "76 Rue de l'Hôtel-de-Ville, Vaudreuil-Dorion",
+    "website": "http://riartdevivre.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

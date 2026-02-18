@@ -1,0 +1,421 @@
+{
+  "query": "Orangetheory Fitness, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339664.6313896,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "#350",
+        "short_name": "#350",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3080",
+        "short_name": "3080",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H1",
+        "short_name": "J7V 0H1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3080 Bd de la Gare #350</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0745"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0745"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 7:00 PM",
+        "Tuesday: 6:30 AM – 7:00 PM",
+        "Wednesday: 6:00 AM – 7:00 PM",
+        "Thursday: 6:30 AM – 7:00 PM",
+        "Friday: 6:00 AM – 7:00 PM",
+        "Saturday: 7:45 AM – 12:00 PM",
+        "Sunday: 7:45 AM – 12:00 PM"
+      ]
+    },
+    "formatted_address": "3080 Bd de la Gare #350, Vaudreuil-Dorion, QC J7V 0H1, Canada",
+    "formatted_phone_number": "(450) 232-2178",
+    "geometry": {
+      "location": {
+        "lat": 45.39738639999999,
+        "lng": -74.0564788
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3987277302915,
+          "lng": -74.05509236970849
+        },
+        "southwest": {
+          "lat": 45.3960297697085,
+          "lng": -74.0577903302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-232-2178",
+    "name": "Orangetheory Fitness",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0745"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0745"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 7:00 PM",
+        "Tuesday: 6:30 AM – 7:00 PM",
+        "Wednesday: 6:00 AM – 7:00 PM",
+        "Thursday: 6:30 AM – 7:00 PM",
+        "Friday: 6:00 AM – 7:00 PM",
+        "Saturday: 7:45 AM – 12:00 PM",
+        "Sunday: 7:45 AM – 12:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1402,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102748380826894869276\">Orangetheory Fitness</a>"
+        ],
+        "photo_reference": "ATCDNfWas1rtO2-jhqC4IJ57kcS1r3-dy2nVOLegnfn92iaEOB-rUHHAe4q9bjRWZKaGU4b5QGIQwbDXt3vbzE16rvMEpLrKj47XyXr1gnqmk-u13t1gDhRAJ1DK_IHNpGhl6wxVwOuFk1BwjkewoigAiGCUHK0q6cabFKhaLwV1UHhnKOXgJYcfaMBFfAEe7HdmRXiK-T9TwDqtRefvL5N7IpzBny4aKT7_EY7AU4FugG_akLwA4uXi_VTEvGURqNjWVaCVtWY6gDccCK3PfzR-ByHIGO5cUNYTNgCGCOfStVP8fA",
+        "width": 2100
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfWxVQdmPKw8NvrB7RS40zB9BVYcvfhuS2n53J_Ft2ymH5aNJQTdcwrCRDotka4xcSdjmTSEAHLd3_xsDebf7fU8G6fI3RzKnJ5Mhg5FxImCtpG6Z4wo-fc9086aPvUdGT4F8JYp7SNz73r7YtV-b4bmvAnkmKFEI2WD4EzqloSAYQ9q1c2xtBDOupkeUe7kuAbRII63KO-rAA-JnGxKgc-89UgFn3wbu0LrpFU50Po37LxRKwE5MdUgNxM9UYrm-baBsl7AcuFZuyB_aJm1Y3r3T2bBkGhYPV_oM5rfDSCDLCv_O1lgFO-ADCnHu568rg9J2Equ1RCHL0cxWOUROp56ATAxMARn7bsLaOOhd5Sw_vbKNTR_sg_qqUblF57sK2WLEIvVjoIUq4PB1ebgK4KWndRuTDQNoKCh9CCjGq_I3A",
+        "width": 4800
+      },
+      {
+        "height": 1402,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102748380826894869276\">Orangetheory Fitness</a>"
+        ],
+        "photo_reference": "ATCDNfX4xDo_Q3armRKVV9KF2_iZUq81VnO0RXH6iRsDdMmldXZFue8U2bEAbFHEWVQsC9eA9sVbi4763dAQ7gCtbPZN74nisGlVUrA0n-TjmChSa3vksB-0EbQJXrUCHXICJmb1UIP-3zTUE-PTUrF7QIhySzwad9KB1c8Ois4hNLJIVB5K9n3h74yXcB-5fDwY_lwA6eliN73fESc0woDc7QNBGIAZbWK2ekB7GwU9gJ_lSkVMgNtf0gWxSEprzEXNz2ZB4vHrcSFZ2YAMkZ-4EX6qZYZfcyXJWzStkp7koiV_rw",
+        "width": 2100
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfVUuiUlvmbG3rzQavIlgpsiBA58RfY2QLa8u9OOaJa19mbt8A-OYvSWYcM8sMuecQ_ItZr2WY30jYgC-spwh8INBrH0saCiE_aF1BPvs4upDJKYLBK3Fe92ncwwGt_Pxbog6Oqhv_0juoLFGzNxWvHcCsFnQOYFyDCBnSaD-SSNllup_WUPCd3UNwcHUdtM0wrd0i7tt3XFREou3csDpyfFb7NCapXDw3l-Itu-1a0sAKqeT_yRcvClHFARx7z_cGxQNRThBgDKpGs38oRiNvwLasl6WsF9bNgqn9FNkfvTncgj9Od6rFxCTVXlH1qhUtq9lT7FYUHVArPieU45oanCHNfW1WrxLZEs0yo0Zfi1xi6vys1MIGIx-9_ekOeTYa0iChhgngV84NmHaZwjHq9k4jJEi4FkW5Ta4Q04WKiku_P67hd0g_tQukFqaMfk",
+        "width": 4000
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfX8_DUCmAWgDBiBc8SpMlCJHC3HWMKGy3SJzP2MCaFt5v8HfFcEJe-7GtMRG9q-zzNLQIHJlI5cNBLrFNGJVu4iruBBJVS3KntmnfDYiBepGuYSrEJnmdwoSzXpA8tHpLmXIyU-2LbgT9mXf7lRUgt3tulBzFjWyEzXOEbItVBf-j68hf0ga4mDWKxa9Uurpda94EdY4OpHp1GUnV57_-TrjDGK8FFEmb_4CpvkfUoq6Z9Cy5J0v3svoBF922KBhu5xlUzpnEdvGKId2mZv3dbsda3UC7UqEVZE8aP32UTRYGtsxJYq8GQIxLqRM3ZEOIWUuSLg6C72M0rYMrCie0NotYY_s6z5-gBtgSite9WPdS4PcRP-T5RHJxvHF7EQeS3eQTmg8PpsjPmJ_rywSmcpUtVRu6KtKUQuztD-BUYYx2A7agyfZlyV93rhIg",
+        "width": 3600
+      },
+      {
+        "height": 1402,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102748380826894869276\">Orangetheory Fitness</a>"
+        ],
+        "photo_reference": "ATCDNfUsIJgWVFzwac6bH6aw683zWf5RuvLuOnWAop8SmIfboi_sBdvrpQ31wkDw_tqXwu3pZdJI5ZQmMi3vAI0qhmzZRKjSc6bSKjJu2fjUrQ4PijZrM1_y0vUwxOaOkQ0MQjq7tJ0r1aDa4E8W1P0ORtyvGXrucPKW6WSLDgFM9cC3sdMSlG8_PX7CU9WCPxetN47E9jociVN1BX90w8xiZ7qcY3f1zQmh7iQ4HlnOER1gZcjVD9HfyM1eC37IAJmW4JcspXMCziw1IN2uvh1k827PCcRgi5EEVeHt_WhnrErqow",
+        "width": 2100
+      },
+      {
+        "height": 1402,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102748380826894869276\">Orangetheory Fitness</a>"
+        ],
+        "photo_reference": "ATCDNfVBm-U6095O8_iMfB-S79aXTn8tLdQGS4Om_rwbeucwHBEbCq6jauDHDFy7b-_4CGRMHmyYQ8xG4XoVj-qyXZQg2KLDV4xGXkjWt8XrFC-JuqBS2k7w8eha9HcsKXQdMAGwbVKWRgOR2hkIlXkhxhCm55czk8ky0Av7kG65Btfy-M7Mb0Dqgw6rPTG5bbpnNYeHgv3V3wssgQodHowzQUELABpCYENDMuWAJTVmPpWzEIQV8iq2Byr1LOIg1X4YLrIVjNuXjm5UC30OgrBgJO3FCA2t_V3FZ1-vi4J6e11JXQ",
+        "width": 2100
+      }
+    ],
+    "place_id": "ChIJZ0VAhyY2yUwRiVvRWXDFCnE",
+    "plus_code": {
+      "compound_code": "9WWV+XC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWV+XC"
+    },
+    "rating": 5,
+    "reference": "ChIJZ0VAhyY2yUwRiVvRWXDFCnE",
+    "reviews": [
+      {
+        "author_name": "Ilham Ilili",
+        "author_url": "https://www.google.com/maps/contrib/101638833688192235980/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPZUvCNAUKqLUyUCKNaajsXsmSn083CUJAa8AzrI9Tnifa5Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "I recently joined the gym and I’m already impressed by the high-quality equipment, the cleanliness of the space, and the motivating atmosphere.\nThe staff is welcoming, professional, and always ready to help.\nA special thank you to the owner for being so approachable and service-oriented, and to Coach Alex for his incredible energy and clear, motivating guidance.\nIt’s a place where you feel good the moment you walk in. I highly recommend it!",
+        "time": 1745512929,
+        "translated": false
+      },
+      {
+        "author_name": "Cristina Năstase",
+        "author_url": "https://www.google.com/maps/contrib/116533401310152258397/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqCGYZ4jF1jbLTqG145nqgJySmEG3KEJSgAI2KPEWugwcmtUI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "5 ⭐️ studio from all points of view!\nExcellent coaches, impeccable bathrooms, spotless studio and great front desk people!\nAll this, managed by the best OTF studio owner in town, Paul!\nThank you! Keep it up! 💪🏻",
+        "time": 1745450385,
+        "translated": false
+      },
+      {
+        "author_name": "Alan Belisle",
+        "author_url": "https://www.google.com/maps/contrib/117482795490087515745/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWX-0abNZDb-rsJigLTP2Rw4zGi_JSonBa3nJ8Ku9j1aszyi8za=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I was visiting from out of town and was impressed by this studio. First, I felt welcome from the first instant I walked in. Second, the staff is not only friendly, but they have also mastered the art of customer service. I had issues with my heart rate monitor, and they went above and beyond to assist me. Third, the entire studio is super clean! And finally, I completed two workouts on different days and with different coaches. Both coaches were clear in their instructions, knowledgeable, and very motivating. They did not just move you from one station to another or instruct you on the exercises of specific sets (as I have seen in my hometown studio); they got involved, encouraged, and motivated us.\n\nI plan to revisit the region in 3-4 months, and I will work out at this studio. I look forward to it!",
+        "time": 1666222808,
+        "translated": false
+      },
+      {
+        "author_name": "Ashley Dunn",
+        "author_url": "https://www.google.com/maps/contrib/107683369024621283743/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMnbYGHBjGN4sXswkV1VhThMU1I14isGz6myrC4gMvkp8cG8tr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "GREAT experience so far at Orangetheory Vaudreuil! I love showing up and not having to think about my workout. It’s always challenging and always changing, but doable. The heart rate monitors allow you to push yourself, but not overdo it and there are ways to modify so that it’s always a positive experience. I am also liking the challenges and themed workouts, as they give it a bit of a competitive feel (despite the fact that you are really only competing with yourself). It switches it up from just being an individual workout to being more like a competitive sport.\nThe coaches are encouraging and friendly, always offering tips to improve my form.\nI am starting to see results in my endurance and muscle tone. Never thought I would say that I am actually enjoying a workout class, but so far, so good!!",
+        "time": 1655050476,
+        "translated": false
+      },
+      {
+        "author_name": "Portugana Yasaky",
+        "author_url": "https://www.google.com/maps/contrib/114165831493114297411/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4UtJ1yCsuXN6b-HyPVcpDL5-jfA18JFrMuKq0topqWzb_fg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "It was my first time at OT yesterday. I dont usually workout so im new to this. Had an amazing time yesterday with the coach Olivier and Paul. Such an amazing team dedicated and full of love for their work.They will help you push yourself to your limit without being too pushy. Your guys rock! Keep it up!😁",
+        "time": 1697628146,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8145539962386865033",
+    "user_ratings_total": 114,
+    "utc_offset": -300,
+    "vicinity": "3080 Bd de la Gare #350, Vaudreuil-Dorion",
+    "website": "https://www.orangetheory.com/en-ca/locations/quebec/vaudreuil-dorion/3080-boulevard-de-la-gare-350/"
+  }
+}

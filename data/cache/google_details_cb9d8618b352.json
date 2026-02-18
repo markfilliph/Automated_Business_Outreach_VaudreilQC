@@ -1,0 +1,330 @@
+{
+  "query": "Cité-des-Jeunes Campus, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339561.110809,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "400",
+        "short_name": "400",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6B1",
+        "short_name": "J7V 6B1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">400 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6B1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 6B1, Canada",
+    "formatted_phone_number": "(514) 477-7007",
+    "geometry": {
+      "location": {
+        "lat": 45.3932545,
+        "lng": -74.02631389999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3947315302915,
+          "lng": -74.02490646970848
+        },
+        "southwest": {
+          "lat": 45.3920335697085,
+          "lng": -74.0276044302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "international_phone_number": "+1 514-477-7007",
+    "name": "Cité-des-Jeunes Campus",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfWXxDt8CxAzp9y8_F2bw4ZOaZEjfLCiLBU0okpJYZ4-lBq-c4QtlLQEVm7VBYt5o-lkQDegfPekB4UunAGf2ZLWwcucVl_7AXGa2du_rjoESt9awehy3zNWeTIBLHYdmet8ZatdDylCQ8ohfOAZTXUkEPBUdeuAdSTSYgIm7BIhcVTiHlZijPOJeRqi5oVxTXfYLFNcyANxMiTSWw7VErQBaoWVmw4IkYanD4zGSwjrePuvUW3s6mIAohct31R3wC08sXel1MlpIrfjKl4ZnTKfH9KewmivkKtk1io4tccvL6MuWjwq0abOz0zVuZJFt4IGi_gb5t8dDDVpYHklfCoTDysQR4FJNt9pPqizQkrfNjlpg093UIOC628qEt5TcJBJoiqACa0ncblUMGR8fl-NZm2n-ZtWVD4tfWUoAJ2VANI",
+        "width": 1920
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107993704558786832846\">goglu 77</a>"
+        ],
+        "photo_reference": "ATCDNfXtSRCJu_hWe4Tg9aVE_UNBk31PP6RpptFcJ1L_wqx4jIbnw-LU7GfGd47-W_wC3VoFM8SmtXBhHotwj_HLA38BUynyLpNPfnBjbvPTiJDLvbp2eKzZo2_-40Rcwfz_nYH_LjP1cdK-aruQreZGSss7Py5SZXhfpvDP7a-G7yL6Xo3zJ4feYyMQyggv7AiF3frURSqacCl5ItsKskusnXTqTEHZfI0pmQ7UO5iY3m_Cx5RrMs0vpy2zsXl1KxX8r1MgY1vpr1oGs6kmrLToFOVWv6kMFi-ziLpowVQK9X6KQd1jBl5r75tmYirggIdMJAZjCU4u1f68kpvS-V3CQyVpaGJ_ZR8RCt8aq28JKAKxhBdeJPbsA2IcQfo6DylOs92ecIpz1vrhMN9xssf1z9tn9J1Lkqb05H4ul-FyVlx5s9Jf",
+        "width": 4000
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfWNb0kd4HH7XN9SCDn_AKfnpbKwhYjb7SlV-hnYBir-BgKq3j0ebkNfdpEOJa7vxyPdNqYfkRoe3hMRZkgw2fU62q-1pErznPdtwvugLPfAs3pU421r5E5O1Z9JPaf-LokNjXA6FSEcxXH-ZTBctn9au3GixtGUahIlVr2Z7_ofJkv90KwrhVUSDNeS49uIFOiZQfQ0TW9lYmy_JH4z0V01oFiUeINR73pofqVsSwMa7Q_E3paQWXLkvjctYDl1jj03r_2hDVINne0pxXT-ytoO4HvPM5dpwKBJ1uzLJ8YZ6Cof4alMcOMj-HDvlkMbgEYfvI5fwm7kGuo2QF5TW7tTBTKHZu57aWnSIOL_2v-Wfy_MyFNeWXSudmN65GnjiKaaMU9ONQGpWwjXRB0jxDI3zzyNs1eLzQAPKz4G5gJeyw",
+        "width": 1920
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107993704558786832846\">goglu 77</a>"
+        ],
+        "photo_reference": "ATCDNfXhjIxQCYS7n1HENspOmAcTrRkr58q9VAlA7EA0jsfWWAPIO627KSpsbhDvg5bSR66J4li7VCcYmJ5aS1sP22q6iJESpaUgvDqV53-Vp-cxCZTbqhlYTdlvh_EMaP9vcQgBou6OFdOD2AEGKwa6gewvk6I0w_UXgylbGvT_GGXThxFi0vLg-dClwISiolJia-reOw6dT5il069kBE5oeXuary-1dIL2zAUilMWKvaY4bamArjzLcm_bFtLc0DAlaeEaM_b1sjEPztywXdnEOyj0-AX6q-zM8rJma9PDfcxT442axKT2Rhhj9-4hpEFWIZCofFB0_GoUywF921W_grXhpuY0VPE_O1u9_E_Ot2NSohDpNTDZsdyEMbtRE1gNZkh9ukjErTMbM7r3lSbkFHh--1ih4pgVn_xd5Oa6z_dTmw",
+        "width": 4000
+      },
+      {
+        "height": 1068,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfUSY1J1Vz6DWAPpGCT-6XZh0c66vafX8hy-2anKwMSkVIbyl1zeYMcqL9OCcFm-29S8JlNWUTLj47UUh6kJ4DAzi6vgBEDmDNbNpXqEWeso-1WUEMwX16PQgdqrMGlFwD87lCzcrbd1-EgUcrFIddYZWIWmxPff9WAGso7yJSwfSDmzonAaH3cigCjr6P4l_51j9HVxU7diYvzgD2SlxJIJ12nXtg0p8KgslRKPVPCvd5WKyeMJc3DfWA3s65KcTHozZxPKMa8jwOyU-4oE-r3M3JduNo2ASbase2QgypQ49sGYny6Vj53Nwn5hCwpVN9gajKRYMun1brob1Kqo_N-7wHP4eLzyQYBoRFwTpyun9ggc4ZD0Lx-jUZoUc2LwDN1jeXuSQL4GU4BzofZP65cHHt7u77zNlXrGHhL-M4kwfx6e",
+        "width": 1920
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107993704558786832846\">goglu 77</a>"
+        ],
+        "photo_reference": "ATCDNfXEVXmf_kppHWuDQcn5_5vse1hjtGfCX2jrW3ZQwP5ZlqajDjMFtGyaSuoBU5E1LiRZT6FStMuylt4ax0gTc5hBRxXn0oTQmAIaSXbIe2cAFxf8rFTy0Jz__KpNSDTunwgBnNLGzHFmGBxPYWLp4BcVzCkOLG4MEVG2ykAbANBOvrlPrZ-ax23IrHk7aYCVoXUppGhkIrnMg96gJ8MGGAlMj56L1dDPYYI4UIONtmStS7HrlMI2btqhFDFaIde_XoXIKJOysZP7Z0nCk7z88bIVnMAONvEYIhmHY00l1ApFsVDUhqajyGYLSWq-zOuTYE5SAqc7MwBf8wxL2QKHkbSzfo6bGPKIUavNAWdlhcWwR9puFbnlR5LGys8zcRpExuSOklcCIpypro9F9WDbWLpvARBHVg4rqMBnyH_A1Qf5kA",
+        "width": 4000
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107993704558786832846\">goglu 77</a>"
+        ],
+        "photo_reference": "ATCDNfUhERKf44fma9ezgzKd_uv5ZZlwbTXNq6mCLhUkZ5bib5gflCgpTVmgAoyZ8xSy7COQqvQ46Yfz4avbxosPAza1up693lMI98Xizkqs3Hza-bEBLsnoR75_jVBuKAz2tipcs91v8fHzH47FWORPbUqRfqrQhvmUG7LqpGlopyUw-BIktqULzlUbRBsI0ZMEiV7fTs5vJeQM6HICEMttXnGX1zAKD1jHDBTXSClGbmc1qO1K5Q3zhP7rF6AfpuKnh3Bv1g4epwLF1cihlyDbS_p1Vg8QuiOaeNr7x9PIJUQxEmW-WxT5kMZKK7wXs8eysoBJXfSSS9aRNlKdhh9Xy0JdjLAu1SU-ogS3yfmvjgqgcq28u-qpTekGwQUx0kDvVnCl7nWeVjbNjt9k4Aw_55ZmZEJJwY6n4uU2ODlcVYLZX0de",
+        "width": 4000
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107993704558786832846\">goglu 77</a>"
+        ],
+        "photo_reference": "ATCDNfVN9bZ3tc_ghaC-s1niXBWQ8c0zUZlwU0-EEba0G2ZO6znn7D00IN32rohH73oJVXNDpeDmtX4enrM2y2Ft-Q9YdF2pMaG2rv2G9Oz648_dP4wGpPBf17gv_N_E9az-CtE9n6SipjbpQr_-48nRNmon3NfOn8GYW0LW4ot5v_-ohjk5F9bcJscUqbqyXs8HrRIsR1VBDMyuhykxT7gFpgNBSekwrfyxJrUSmZZZhwfdhlv-HCmLL9St5wXH4XkjQVJmGiRkaJrpakKFNRieUiNyrCbpdXmAz2KGaCllggaUT1zl-omiSLMEyj9TUJqzYJXFafPXkG-tuA5202LiBlx6HiZuV_x85Y8qSRLyidcaWgcUxaZdrfEVKnivYpXEIGgs157wLugT6QZGeaaRtL0xskL6RRS4ue7sNkVKhRMk-g",
+        "width": 4000
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107993704558786832846\">goglu 77</a>"
+        ],
+        "photo_reference": "ATCDNfWGKNxEQWellKMyVhBaYKmoDV_r14wXpYzGJVmnvQJkOWEg9OFf_Cp0VkJCB1BKdwo2MlgTfY0ye6NPKOWYUIuenPFy7J3OQCsxo79SnZOp98cWUaAcXnd0slw1WtPK-tAPaaxv5ooEYwLDFVH-D3AwXzO_2IaYoRu1WCcDmUhXr8PlWeK2ybnwgf1TpsA4RJQnF6SZX-Br-aXM_DTc7uO-3RQHLh3Ouv-sfhG5heJjHfgdjQDXooW3O_goMtII9GqB5IJc9V5eUp7MecXh-YvOfmdkfEkMqWHmL3rSpmharkKSWhCqHcopS_atQ3RF4AUueLsO4sCG7iMIWr37xDCiBybl0SSNSEpbcTbEp28Dlnwer-ii-gfeZ2LFMZdLF4BCH2BfszHoq_5WiceGdo40iDinOMnVmRvQtJMkPKq0vdTg",
+        "width": 4000
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107993704558786832846\">goglu 77</a>"
+        ],
+        "photo_reference": "ATCDNfW3ocn9cZIBRmcIcVw0SWpy6KwO2pwZK3p8tJPrDov8PH2rzbqhYSHQz92lTbn5C_RDFfLX-na9kfyju6cPM-kqNaXXZ0b4ZnWFRaEGIC0ClmZhyfB1nt4Jaqc9SsjJ912r9aJvnR2iEYcA7QNGFE1QDbjcwfQ0oWhj6Z_HJjxop-3_cj0cJiOiaOBc6KUCZzYxq8Opi9LQTBRaoGw_m2oavJ0wpOXK6g4UqoQnxqcTN3guBkIq-q-3VJ6KeQ5SSOPuuVmJJCUNOctwi9P4SV234s5U5x58_LHApFtFm_6CkdJdjBpP6VegezyImP-JDcm15AojdIIUqGJ_GNRv7Jq2mTels2Y1fCzVxscKM1Al7zWLD3LnOUN_lGk0UeG5lNkx8-PfIk-5vrwx1pdhDLWFQUqlU81v0suOoSYKbFiZ2w",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJnyTCntk3yUwR0-iMxM2fLa8",
+    "plus_code": {
+      "compound_code": "9XVF+8F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XVF+8F"
+    },
+    "reference": "ChIJnyTCntk3yUwR0-iMxM2fLa8",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "school"
+    ],
+    "url": "https://maps.google.com/?cid=12622921036704049363",
+    "utc_offset": -300,
+    "vicinity": "400 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://www.cstrois-lacs.qc.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

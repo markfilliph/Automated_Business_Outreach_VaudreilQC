@@ -1,0 +1,275 @@
+{
+  "query": "Transtate Transport, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338372.9897878,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "836a",
+        "short_name": "836a",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2A6",
+        "short_name": "J7T 2A6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">836a Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2A6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "836a Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7T 2A6, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3800309,
+        "lng": -74.1057403
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3814420802915,
+          "lng": -74.10445741970848
+        },
+        "southwest": {
+          "lat": 45.3787441197085,
+          "lng": -74.1071553802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Transtate Transport",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110447052819901320772\">R Demir</a>"
+        ],
+        "photo_reference": "ATCDNfU3ijtWs_ZHTq6AbvbsmHKycxo7nib2z1576k5-1wTGbiI1yV9AqUWL-J8UJUa79dBXXNF74lr_b211Pg2t6C3o0v1u2emn_CaKfNeTLGf3pYI501HJSReA-6FBqPBDWPHNYkoPrBxnUzQgJ5n0k1tuF9-VuTCG8vkO2fB-FKVGfLdOviQma977faRvBdntskCCYBc6wDpDxXOYoI2FMwpCKnokV0tmioZUKCio7fgmA0U2MiccAHfGgITGDVcxnmPCZgXUuJFnaiPSyXtcqQJn4O2bHgjkX9bFC8j6CNGOQWqeP7Cb_eHskVPrBsoKCbVN1YJnVgQkJjoYLFhujuk5erL2Vf7Iovu5OsHFKQ-bG4v-UzqfWHioQInQ35KMbqzXi9GYI_eTnxAc5YixmPSWCw_DQXkIFbif3DC43y9_3ZOJ",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJ64lWQmBLyUwREhRRRl1jIcg",
+    "plus_code": {
+      "compound_code": "9VJV+2P Saint-Lazare, QC, Canada",
+      "global_code": "87Q79VJV+2P"
+    },
+    "reference": "ChIJ64lWQmBLyUwREhRRRl1jIcg",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14420916734079865874",
+    "utc_offset": -300,
+    "vicinity": "836a Rte de la Cité-des-Jeunes, Saint-Lazare"
+  }
+}

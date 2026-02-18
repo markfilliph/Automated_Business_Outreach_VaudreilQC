@@ -1,0 +1,423 @@
+{
+  "query": "evoila5, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340193.9758065,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "#6",
+        "short_name": "#6",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "578",
+        "short_name": "578",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8H2",
+        "short_name": "J7V 8H2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">578 Av. Saint-Charles #6</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8H2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: Closed",
+        "Saturday: 12:00 – 4:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ]
+    },
+    "formatted_address": "578 Av. Saint-Charles #6, Vaudreuil-Dorion, QC J7V 8H2, Canada",
+    "formatted_phone_number": "(450) 218-7055",
+    "geometry": {
+      "location": {
+        "lat": 45.4059472,
+        "lng": -74.0338397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40726498029149,
+          "lng": -74.03252996970849
+        },
+        "southwest": {
+          "lat": 45.40456701970849,
+          "lng": -74.0352279302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-7055",
+    "name": "evoila5",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: Closed",
+        "Saturday: 12:00 – 4:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1361,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103056393947352882504\">évoilà5 Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUAzASZUzjsIEZwIIbRucNuuzQ-ImDvkeuIsz6m9L9vGO_gFIH-VwlsnHYif_tCKgN8Lycgrp_kVMdXO-ALB5cuFKvVjxPxE-SFSjNSPcudKK1L8g1avlfCvdprD3_8RVTniJt502HsExjhW5JUc1yi3PUC9Mv4xI4k7QGBRX4-jLMr5Z9nyOkENVACINY_VDAqQQKwPfA0wfX8g6Uc__IElou7K3oiyl60rmMT-uCd6blf1QRjy2V8mHhRskMeUtxwn1uFkx41hzSD7sjwllLnDKw6lq5Ox9b9pKcOw4gaBg",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfXt6JD1B6rgAlz73taSIXxX-_LhC47Ad-IhkieftVf3rLCKvm0-fUFA9u_086EOSKcCPWrsqVKl4Wv7oH8I5bIFbVjSp6yfEy_5QaKar3y3WH_ALD-vHpC8_ZSlHCpTxuWqUEB-jg3k8adyx0P6eAhQtc1lAM-434dQNg7yHQPBq5Jl8OEifwLSbAYkybVOuWB_HX-TEDl0t3aabyra-bmbYvA-AX8OOT8h3MkiQUMl_XDACg4bPu_yTXPQXTXyQsvwr3II5LCQbgL449QZ-ewMt5wXdIqRICaXflTH1e6yQpoeXt3rInZMw4gWzWbdnyfaAl17o4KlRBsMmicrbNNZa30AHfhRykB0VkTMUcfnTkcLJuDvE1UIbiz4fpn00y02qz5SFVapYGfEgXOkzLq4gbwcH3irxOyQQa0uV3jYamUS7plAV4CFHH9NgQ",
+        "width": 3024
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103056393947352882504\">évoilà5 Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfU0a2VUOyFUJSN3OxCGKKjPSTtrmjkzmZ8na1fmLHfQz4GpD2Bywy27B_M43iKzyG4SUBuPaMNwuo3TiGzTpYY8G4WfVIdLWvNQrN9ucNBf8qxC8KoLtTyjl-a45kBIw_6OIRgEbQoyW4lG4mF6QzL-jFYkqUBG3y9GGjfmB0dUoz5d8Xl06_m4R_Y2BpC7jXziGN7ZhbJwLC22ayKa5z7tFcCRXp1PYr6_rvZF2nbyEjp0ydZtmJh2mytb-WDKjnRP-toCbaDX3yE_HptAYHbwCyLpnu0bcKwMgtq9w_jFSQ",
+        "width": 2048
+      },
+      {
+        "height": 2336,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103056393947352882504\">évoilà5 Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUsEXcJFnvmHNy6lHVM7LcpbnNbpCqBpjCZ1iann2zr9WpI9I0fIJq9fxY7k9VkP2fAFBJwzuY-msC4EL5nkEBKMPeT35husbqlgbDheKRWPWHcItrnqMdL2WOPFlIJ7Ns74EEDlfByMqXMHZVfr4Y5CSNUrWaIVk4XfdNiSLsy2X65PM4UMSKFUMMJPugFMF2Dupk0RlPhpdMdwrevP0eYE2eZX0Mkx-6bCPe2Gom3Lkw9VfN825ipiKBncP2WXQrTiGYmHs_6QPaHK1mi9Gx7vq9jhPbac7CAo4JFxSW37A",
+        "width": 3504
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103056393947352882504\">évoilà5 Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWbUN5TmKWWUmtOjbJfCi-PCn1lom2YlK_SQJ4KbhWkIrP9NiCACW5z8ODR115PNIRlYo8Lx65yzseTdlfnvGxbk_V2R7wlwCXpkaq8z5Fc-i9R6Fjw8qAr90HPWLKTDExxAV-7BZnYBKuOMJsyeWim1Zg8uJd5xi2Z5X4TUMthAYOsqH-BZ1oN86oSf9O848ifaU9Yol3Dnf1DO7FImjDhDFjCxSktq5HOnLDNePLa0bybx4_uZc67Vl8hNYIVWq0kT0Y5gpE-jblqrpqbogvx7NtcOaNpdLFsn3yRAK8Q4Q",
+        "width": 3008
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103632316429760841734\">Martin R</a>"
+        ],
+        "photo_reference": "ATCDNfUO0SLjxFlOq6nll8qK8lExMXoyT4dvQjXM757wO5GsDDuSWn8TqD2zBXbAQ47cDfQPkGnZkYv-0JISyFYiwaAfMJfRmaJOpu1WWKv0TrLc0EKK1-Yq1uLiCdEdlHydoN5uslqU9lZ_mjzW-gWk9kQxq4HxofzngslW30DiVPgZ-Hau8mW-WbGOc4SE0f_Do-ZA8MwSCQeW_ZwRe15HrjkK8xgVMSmSXZl32CqeVumwZ0p1UGrUr7kpvK1o6rkdqMWr30mLnZDG_jz3Ox1H3WBxwCzzF9_IyIsL0hcDtokVeMzzlkMkxdoxyPsKAI4vlju49v20jq0GsamwpWz91PYurXRXdqyqEROAqPnjDPioQMjVBwn_qdTokdhC1DOXUN0dk559O9rcz3eZ7z9wCXIajOBrPwXrsEA6afF_KZKrXQ",
+        "width": 2448
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfULddM-RZv847qsMrMkFXBqinHRl-mOdUTLEAYCa-NlA4AR4Rm54Fouz9zKo37grR5f2YKZNlcLpok9hPdOxW9AM7VHxzwf-vWuyrXVYpjOfaO_63v334FvB04Rch-3WqLPyYQMPpaKCuawtS7GPeCkH6F6iG0hY69b5fo66ypX6cpannBdTIsZKUHHZfML_UraT6g4L7KDOgxZNOqpUgdPCUZGSG3flona2nLfjK2i0GtGn-vixd6-aeUHGSdD45BqpngDym-Tz0dXimbnHWBh3RtBOWvK2q73M38MgUVibw9dnNcTUxSBVwprZdXhpmkoFVWVb7oL9qcjcRnXA7s6XjrHYrI9SLm0tt9m7ZmzVXtIB_YpJIWbzQsWmNjmOZ7UyUYjkz8G_Pys43MTzVWwIjrMUUoctBgwXpIoxIGWXA",
+        "width": 3120
+      },
+      {
+        "height": 2912,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103056393947352882504\">évoilà5 Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXVL_PgCuNYEijbLstKTJdO6viR4FqkFQmrJzvjWA39T2tM7_HTAeDcPSr6ODoMjPW3WO1tQQFfuvVycERljEPYO8YWzYb8fEkFIxbwSWoPeWOJHgbbLlJmWnSl3PQ7kZqNue2uc8Nggcid9Z_de2fxsYlLtsc_4xO-v_wXAm1udoZ5MII1P3h_fvEbcxwqKl6GnizQBMmzpJFCEFOgxso6sUnicWa0rmH2RVi7IByTvIBbgCc9ptitqbS-YXyXio81vLql-jnEufQGEyvr8Lrjz4q3p8gRL4QMJYQuHgxKgg",
+        "width": 3940
+      },
+      {
+        "height": 2800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103056393947352882504\">évoilà5 Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfX4khRfURr9c_SmuB5uVPF9oHBe91benxwKyYCRIXszZ5b8qRME-efw3yX8yKR4oGT9JhnYHG3Xevyyc0qHJbb3_KoDIair0aM6eG6EUzFyi260Ca8jGS3FmPra0F3B3lNRejFUij7f6vA1CuwqkycIMwyWQ98aa94EHLhBKqiLw6OzclP1dRiME1Qkxqqtej66Q9MdOm_sDne1b9ajUtQdzRpfs7JOGRD3oC4SVpD5YVzBpiZLRiTIQgDoGcfN_g96AhynMWxDbmhqUDoqh2rYjjoPwr8IKSlH4YK7GU0k_Q",
+        "width": 4200
+      },
+      {
+        "height": 649,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103056393947352882504\">évoilà5 Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXrpZxD3Ge-YLq19DW-61qZChk9qkAhyD7hN_symDokKad9SUnIjjD9tWieL4_J-nmIORfwvOmoeWW9NwC5iAfNjJbBR6EJaEObn1N1PvxDPK01r7w5soWEjKGT74emIEqoxwJloHqNmLKog_kYIivO8ZYkAoY4wMUhGwAPLdboD6MgSViLukmBsi9g25hLLBgMGlUKvn2rWUoFJryJ4YH8JjHor11jDmhHYfWH-KKO3EOswTEzqT_8zm9bzu6CG8WiOdii1BmbauemrLE9XDWAdASVFuM98KbggM7OtIt_3g",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ9Rd6Pcs3yUwRQSujoJfq5dc",
+    "plus_code": {
+      "compound_code": "CX48+9F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX48+9F"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ9Rd6Pcs3yUwRQSujoJfq5dc",
+    "reviews": [
+      {
+        "author_name": "Larissa Pickering",
+        "author_url": "https://www.google.com/maps/contrib/112396043770837343488/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoTR3f_M4QlCvRaGNKUpoChjp0y6YHSm85UbqTuPM6jbj8zp-R=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I received a gift of one week's meals for my birthday and ever since my family eats better and I have more time at home after work.  I highly recommend this for working parents.  The food is healthy, delicious and there is a great deal of variety.  What's more is that it's affordable and from what I can tell, Evoila is a Qc company so I am happy to support a local business.",
+        "time": 1557253243,
+        "translated": false
+      },
+      {
+        "author_name": "Magdalena Maria Dobos",
+        "author_url": "https://www.google.com/maps/contrib/107199285068075074936/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEKC7SkDA6hQuVlPckISDZp17lnzacQjoLzquDhLX2M8yTyw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "This is a life saver for me, honestly, I don't break my brains thinking what to cook, we spend less money on food by avoiding compulsive grocery shopping caused by lack of proper planning. Evoila improved a lot over the years, now their recipes are more tasty and balanced and having the alternative meal is simply  genius as you can replace something that is not really on your taste with something more appealing.",
+        "time": 1633042997,
+        "translated": false
+      },
+      {
+        "author_name": "Karine Ventura",
+        "author_url": "https://www.google.com/maps/contrib/102828277065657170933/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB9gHscliQakbbraXYNnJTNJbLqv--dad2GyBG8Kvewh9TRTAA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Good food and recipes are easy to follow that my kids help out with dinner.\nWhat I love about this concept is there's no waste of food and no waste of time trying to plan what we are going to eat for supper .",
+        "time": 1562849567,
+        "translated": false
+      },
+      {
+        "author_name": "Adriana",
+        "author_url": "https://www.google.com/maps/contrib/109964988366594378038/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHSULDDcYWKZXlTadR7LWeyQFyvzA0rz99xhAVTHJ3-Xaw5xoBzA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "Great food and friendly staff!   We have yummy meals at home now  😊",
+        "time": 1485270855,
+        "translated": false
+      },
+      {
+        "author_name": "Isabelle Therrien",
+        "author_url": "https://www.google.com/maps/contrib/116214052111464912506/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItgKepiMrPuqi8nnKLtgKwPM-R4K77-HM6MWl-QLlK9O3B7g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "2 years ago",
+        "text": "I've been a customer of evoila5 for several years and have always been satisfied with the quality and price, but for the last two years, it's been one price increase after another. Changing prices to $175 for 5 meals just doesn't make sense. Yes, it's true that everything has gone up, but I tried it for a few weeks with the same recipes, buying the ingredients myself at the grocery store... frankly, I saved a lot more. It's a shame, I love the concept, but with the cost of living these days, I have to do without this great shop. 😪",
+        "time": 1683114512,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15557098424777255745",
+    "user_ratings_total": 23,
+    "utc_offset": -300,
+    "vicinity": "578 Av. Saint-Charles #6, Vaudreuil-Dorion",
+    "website": "http://www.evoila5.com",
+    "wheelchair_accessible_entrance": true
+  }
+}

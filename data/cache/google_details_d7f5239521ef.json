@@ -1,0 +1,308 @@
+{
+  "query": "Steer Medical, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340107.0691457,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "346",
+        "short_name": "346",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Aimé-Vincent",
+        "short_name": "Rue Aimé-Vincent",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">346 Rue Aimé-Vincent</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "346 Rue Aimé-Vincent, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(514) 482-9051",
+    "geometry": {
+      "location": {
+        "lat": 45.4047188,
+        "lng": -74.0502752
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4059889302915,
+          "lng": -74.0489894697085
+        },
+        "southwest": {
+          "lat": 45.4032909697085,
+          "lng": -74.05168743029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-482-9051",
+    "name": "Steer Medical",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1887,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102351586908555574832\">Steer Medical</a>"
+        ],
+        "photo_reference": "ATCDNfWKU052uoYXwfLnjWkviZLaFvfEm9TJklqjrh_Y_UbTYHsCF63RVsZaP42uN5fRqQOr-TxicJxhx6_taMnfq-uKVx3qVPOCGTO4gvZYqWHwbNpxrrhftfJAaDS4Ig9eK4kG4E6UCy0i26fGQ-zGM2-26Rr09fKXr6ZVVJcAVQtLdN5lbN541uXU2H15bXfI7DpBjfaY_8FTJD3pMDRSdfeA08X6CbDwKb9fUd3HFSEccgr34tCFo-FhDbPP5yqnfOBQvPa2CQeAerX8I2E_HuGkYPad6xkUpmJzqKqhSqwOGQ",
+        "width": 4000
+      },
+      {
+        "height": 1214,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102351586908555574832\">Steer Medical</a>"
+        ],
+        "photo_reference": "ATCDNfWzwYfes0_9nZxYMIcNPTtHbXdkdm-ZzWITJJfLnKgcD3NXy88SDscp8lC30g5UkUcRUXNfGBX2WzWcEdwRr7rooza-mGHs03e7-CZ8UBzYlZ4M72X9ERYN6S-fNNwggwjjdJHsdH_9j3vgyc-zlFjsiTkPEzGnchjq0U76E8WX5Jc_TNbI3VPLJy39sHPrsdhgsJy5wSU1uQbjMixc2PCaM_2WgwkV0l_zJWNHHprOJsSN5NGxh_QjMpDExGNeZbO4iVFD3UbI_6SN9AV1eHBrSllL37_9tnzG_8ucaLdpzA",
+        "width": 2000
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102351586908555574832\">Steer Medical</a>"
+        ],
+        "photo_reference": "ATCDNfXAXYnYhit42KlE0QUxt8yQ-Muo9J-MbkdjOUZ5LUv1YsufMws20In7TrWlJQdvYwqYsrnZai27vzbXfrABIK3dRbXk82tueVZ19J4vwbf7-7EZgyKhoRuuvfCQ8KAR6GEhkWtz5L772WkfKjxjb_Bv5hNYCCtVEJgfBICmeH5csGibeGRY6OvwpSmCQWdd2PZzPZYMSPLSNz507aKpR2UYtaEny0xTkslO4DQgWlcPpM8dekdQAr7rOMxI2z7eqzqm7ouO7kiM3VUsJrE11tKxUPNRzIyVKtLuAe273qLk8Q",
+        "width": 1280
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102351586908555574832\">Steer Medical</a>"
+        ],
+        "photo_reference": "ATCDNfX-7BGb_nzp37O0xo85iYkBoxnY0LevVACTSaWFRblXoZEME8MHmiKYfnHLfqdSAJ9aAbottWi7qwu4WYsvmqA0g3ks_ZpxqpSAKhiTJFhWkLoKd03LfA5QMZvqUipdeGFdYeKKn05cAi6JG3IOQQ2WQU9rHgVbvykpO52jJJYJEJdNfF-YLRLn3Vof6_CaNy7ao9JzJH58pfMqu2vaCL1k3nPnUSfCkCxN_TdTu1E2cK5rPnQ2Oro_TSlxToFJ8JH16f2Y6iPyO3qgJMxdJJ7VpQaL0nHUR-XU89vMj46WSQ",
+        "width": 2096
+      }
+    ],
+    "place_id": "ChIJCW0nZzo2yUwR43rm_S1WL6o",
+    "plus_code": {
+      "compound_code": "CW3X+VV Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW3X+VV"
+    },
+    "rating": 5,
+    "reference": "ChIJCW0nZzo2yUwR43rm_S1WL6o",
+    "reviews": [
+      {
+        "author_name": "Albert",
+        "author_url": "https://www.google.com/maps/contrib/108271230233678044004/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhtzn1-fuJm3qN0_C62zIV3WcPCUyy_GGn5f1qbwnmV6EfU73U=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Great company!",
+        "time": 1680211477,
+        "translated": false
+      },
+      {
+        "author_name": "emma brisbois",
+        "author_url": "https://www.google.com/maps/contrib/104054821098977167933/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpidGhaAy-8d7dwGwES0U43A_Bg5uIkheJQURiH3v-wpkL=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1680541652,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12263115065886407395",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "346 Rue Aimé-Vincent, Vaudreuil-Dorion",
+    "website": "https://www.steermedical.com/contact/",
+    "wheelchair_accessible_entrance": true
+  }
+}

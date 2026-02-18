@@ -1,0 +1,393 @@
+{
+  "query": "Nicole et Cie Voyage, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339261.075638,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "207",
+        "short_name": "207",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L4",
+        "short_name": "J7V 2L4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">207 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "207 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2L4, Canada",
+    "formatted_phone_number": "(450) 455-0991",
+    "geometry": {
+      "location": {
+        "lat": 45.3888565,
+        "lng": -74.014355
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3901579802915,
+          "lng": -74.0131054197085
+        },
+        "southwest": {
+          "lat": 45.3874600197085,
+          "lng": -74.0158033802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-0991",
+    "name": "Nicole et Cie Voyage",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfX3WcNJg52k9vEpOSWDfhi53bbenXmykZckoBY3FWfzdqpZN2O5Uc3UGBEM1_nWRx48WU0-83mvunv5_kJJm3TsMT72xyu3IoBx-XQkZ-UWKavLr2TwrNncKYU3Eiz5jLXgLH4vh4r7Wa1rh1LHirJ0mYkrUHaFgO5OjsmjEFwlUoLSjG9NBxs5yTCHI1zCdjY2j-EoDPLC4ptIbim5Ie3vGR_48FPU5jSW9tDai2OMybPKFhyAwg_OEy6TsxyqwYE-dqZAi3wpHl7uFraxm9K4QZ75oSuQpPslwQOwIxeC8jtd9peFsvr_krOOq0IPGkk-pKu9tgdCN1zokmqIZSo8fMePytNjynwFv4KijVqbOb5lsAM2d2GNpgkzzAgrodsdIAhUiB4HSdWJVSdkmHnDn46R9bM3PEwUG8byU3A0r2Tp",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfX9Qe9GcBsT3-7_hDcBJiDkGFbOtbV-mUSG9T9x5Cs3_oyIftZ9QYF2l58SgcfUTuDUXBYJsTtGsMdzsOUZfYjqRntqPOPRkruFBTnwqpurUIaDnhUvPpsd5syYjSPxn4B6QI_GTwacu-4gAkqlaaRAihGul-oT8lpG9scBx4LK7vVatnpbRY3udRYHJMTL2qaEFCFyev8042U06aw6sSi6Ykn6cD0bXgBR1hiQuwC_6qPEDkEYy8LMapzm5NS13V26YIQa9aHr_B6jR7YG_LNN6f8wVfDwgkIbmYTeKbJ9YJ-DDefbwKDuWzC18KWML_TZxXwa9hYEWo5V_J-Uu-8gbvE8WN7dfVGHh-RMEnrEWJZWpySz8PLjEcvTzFzqfMZY9YEpVmLHXOhPxj_ggABH-P7tdBNeupAdWD-sKgso1VFS",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfUIKhobIR2Wa5MF1OQ17V_wBEOzLHQmfR2PoQsNyQON75miZ_vgkMk_T3ECbJUElJ_32QVDIZf3ytiW5BoE6Bu8YJESCrgWwpSSPGonIl5VXIe2_l2GckMVt27cCKFD00WM9SIgSZSv8qtBTiGtTGrvgfaG3rdfgC2ZpeFLZ6R0XfxhUinnnNQcCJ2ceCY9LlTod7xsxdmjzdhRhy6ZS7WmnnDn-RERCAmNpcv9XMoga5HemJoHObcp2Zn0DEQM-In1zhHh2VVTveM6_VtFFEDXYR4xtRVNqJxJcafMn4UBAisePKn52bRIl0sTVw1DioPTY89t2vwMKGG_9OmkRxjNL_ARbYC9CGVntmAQhSLReSFf4zD3s2sq2AvkSQQ6iErKseQFl760Qgj5dSJKbE4HkLctBzRcSzSWpcaAttdn9w",
+        "width": 3264
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfXpmm92Yu5mmdmaeKS1uqJpip6mKav3iCGQH_Gkfqr6hzeDxRjAyuLyPqDk4IQ114sxn-S9hcQ1lI5mxH4d-9kr3mdXku5vVnQiIRhKqHL5TzXmMk3YiNXtuUmstOmt6Ebvimgk6ybDskBX9jkKn3DqGhISZw1x-OYFUliQ7-Jpl1AeaBhNCLoyEmxSHEbImxhJ0DBWoD6m2CMrp0nM6LG-Kq0UmCptlVlyJYnaxj3dh75STn_5b8arwPsy9q-KyB5wpMIbFevU23lcQPlqHSRRlGr2RDQKZj4Mpr_KMLQ9KLvbgiD7Hm5Ij-g1Z2s1DuH5mOn57SHdYUyNeoIGHxB5s_wZddcFQIGJZB8CGfS94-VHap8xpERwyErr76JmKlHExesAFroJJTpujeNcS9igVqfZG_IsRThl-lgY4C8BUw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfUKx4hCWqHXwXpEGUGYvFLtTky57g3LxGmo7nIvZ_iJNBz6FxIckvNu1AtEh7fSMsHb5WB_4-pM5fCI1dpkuv48NUQpJ8-afqKIwzflZz3A35sAXMPknF5F2SXvaPmTUE41ZytxlLVuiLuuSX3xO0Og0iCGuWHDCCX4k9MWh_JWnoPw9jX8c5_p5PRw-lN1oZzzf-zGjRMarvM6HYw8DcqGsabBHoKiKa5y-1DfFPXdViBwldfMw6xTyzRfMu-tlgLIwg6grvFoso7md-34OL3zJXL4R00GEO3-L9itskyHZyXEHuQTsgY9f1eQtWbcl9b2EnEdAEG33e6YDOC70FAyDDPnFWr-p550TnTkuitPGzXdWtfvka_KE-Qr7nQYrw0UE5rwxoi9GleDfV9QbwZOHL3lykKsbgW2hSOowOQ",
+        "width": 4032
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfWnxo9h6qC_PVqDz2rLQXjqavD-a1lzQDlzKzUYgtov5z48FojpBjNFY9zEMDJFwf4-FNw9WTlpP7rUc-EVTfyPzeyBm0vthnh7bpDAvh4SExVWFRBT7I_r_c_9Q9Vkk8sjlNgaawjplEMFQcynm3E78Xb-2exPEpOQYnJc3VgbDowd4s6G66A-Hz4Qo2hh7jRYleg7DpflTUVCBbVlmligGzEyoLiu8Viu56s91DC0O2d7pI7UdmXx8mRWnTfkvyZ0UBitrHaCJ0kd0dROZ0fG-piLYkJ_WIfHyumat9p8H6-NupW2bfaEplGGuMhm5PV9uIbtGl6pUy7EZyYKpjAWTNNRiyNdJ3xAnhDNxJcJ8E0jPufKngxegELnZBCUAlu_7EGV8SjmtsV_jFqzpcmbGNfq2zV4wU4dOUF1GhCijw",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfUcX-yQNr06YhrTgEFS6yurQH6pi3ZPC6EHrdZxjiy9DrYsm1IDtGPkZMV_DmqGT6ZYd5wglVALmQRtDSMRnjK5G7PHfUbyjQHi3JfeNiGKIp75ouNBqbMXobw44Slw3y7yUK_pvRTYM4T0sC0MDg_tY7eHkoH_OKSkuSHkAPlHZcqCOipKxWXgJf34ZGLw7-8cUDXGu6C1Nf--gcu5CL-LdV4Bh73QBKbpAkGHuI4r-NQGBgtkhRtogQ2UZJQoOJV7IKJRJ3K5EZFH9RqthpntyhhNiayD1GDXgeaxRdmp15uxFARJR1nxpYEshfOcjNngywRSGupTWZDWi-PShhBn9f1SKvYOuWpub__dEKK0K8UNL3EJSE-YdIsQlL6sUq4sDiSFZV7zXLq-zJlLCxZa7DXVPqaoOsmuCbOzmFv9YA",
+        "width": 3264
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfWkEI8a2jm7KvnOH2VBHsY885NZG8qznjnCVUEx3Jp6ttiJPaW-P0sGkGYxyyNXk_7DCBpF3kNcwsijcyuqb3SqX4ydqGUUAwNS-L2C0WTNaCas-Vvc1gWFfgNT6Z_dRhEDLpvgtTD_44wqI7o9Xsj0UmpIjQREmalcA9sHjbTUjombdCy-RPjU4RlZumIbz-KAjo61gD-fk9ZkH9c4X7yLNjDKG-gQIaKnej1Xfjo6BF3tAaGVU50j3D80PnErLeRYQ5LLoCyYRpAR20mt3YDDFm4V5oWbrv8TKv2PKKePTG7vqEYFyu9s9A1cIIA6ST6FJWrIEqu8FuNy3CV78AKcQDE9ANwHcPnhxB-VUEOWCVFjJsj5vDskyaBOs1_lmCDh6mel7lna9XS1Hz7LZiHPaGZNK977Bbb2k22p-Ys29OhS",
+        "width": 4032
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfV2Bqn4fnT01bdH_NP61KxRowSyIIjjkr71RK7TdYvrcGpjVHzT5M7JzXx4_RvF5tOZXcFGe96XsbhMHJSBgFyq5siG0qJeGx-1p_z_Om3yQu9ErhhHFsbXMvBjJ61CzdGjDQ5mmCCA5kurwFZb22GiS1YUoQJfrSUGVI0POi5FMTldVwUKHBfu2GPz8zcBF85pz14IGiD115JYGGIAXUxkEVyY9XgBBLxlCYjpjqnkV1AyoeW3DI_DmeNRN8WVwoS60Kq3O4BMtwD7gKXLG5nGXRF5OJxluRbBP6GulEBvaU43E0-3Iyk-puC2S65M4EdF9uItv2XKKRWh1TvHciDgKxrQJ_-7vV8Sn3fvzNiS4rR8IM6d3V4CMr8O0FwVkMYo5hpn6dO4x54hoEO2aKeejDigTCoRASr18FuMaMc0XfjD",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118121974456329576198\">Cathy Provost Charbonneau Nicolas</a>"
+        ],
+        "photo_reference": "ATCDNfVc607XpWyNEpEFbzYnPHQnAadHwUtiiXFJp71hl1OqtqW1NO1HvqCcDaOTueD5-vjVFlVXrPxy4km9KDSqxA384Gg9rkxxEKKVSrFkczuv1Dr6Qjv4D53WLkOUolNGucVcpYAvqEJfxjHbgINRFNoJWQUKG7G6ckfaZFk3by_zXVpUemdRW3PCyHEHmXKp_oWZWnF0ftrSBZVyWhJ3wR7fBgxIkm1ASymUuN6VY3TMnhHTu0YbHi9xGpeKmKk6BODrBPfhpibDDII5sa1y6X0Hxy88jpo6ZfY5_W8RxJX9k20Mq_e8JQJbKNdb5MHzxHrBcdAK2ydLtNxyKlRo4htGNVhALgm7HjK8OIfJSbfJMCMY5MGDEJ_b57S4KhWfBimt8a4t3sEAgA0PCZaaUcMdKhi55OSgWnI7qIyBUTQ",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJQUKk5OE3yUwRPeu6e6pVxq8",
+    "plus_code": {
+      "compound_code": "9XQP+G7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQP+G7"
+    },
+    "rating": 4.6,
+    "reference": "ChIJQUKk5OE3yUwRPeu6e6pVxq8",
+    "reviews": [
+      {
+        "author_name": "Mark",
+        "author_url": "https://www.google.com/maps/contrib/113857276768617047426/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-riGXSUhymS5CbQ0OgcTCBTxJOrrnZ02DmTN4zgT33vweLjrr=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Awesome service. I explained what I was looking for and she had the perfect solution! Everything was made so easy. Thank you!",
+        "time": 1526917948,
+        "translated": false
+      },
+      {
+        "author_name": "Graham Macdonald",
+        "author_url": "https://www.google.com/maps/contrib/115658221063663321977/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd15Z73PFcYLDDAXQqq2W3hwmVsYBxYbEjb31ayK7pE7FLCag=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "Booked our Disney trip with them. Very nice, friendly and helpful staff.",
+        "time": 1483111613,
+        "translated": false
+      },
+      {
+        "author_name": "Carole Dugré",
+        "author_url": "https://www.google.com/maps/contrib/104032894717513572035/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt77z7Y83MIQUlcRCYZCrpPQkdlBIWj85dnXp9pYbQLdFH3g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Service exectptionnel",
+        "time": 1734718061,
+        "translated": false
+      },
+      {
+        "author_name": "Guy Bourgault",
+        "author_url": "https://www.google.com/maps/contrib/116716022310176955856/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCHfJtkri1JofggDT005U_XCg-fnhT88VsZu5ewIH-8nlUYTghuA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I'm happy to do business with them. Their staff is very experienced. I received valuable and very useful advice during my travels.",
+        "time": 1737564447,
+        "translated": true
+      },
+      {
+        "author_name": "Eric Bourguet",
+        "author_url": "https://www.google.com/maps/contrib/113282871757091009755/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAlQ2UNyqn7xFlN488ZHlGVZyNdrl1ldpKh_dj3l_7ZRgWIg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "6 years ago",
+        "text": "Overall, our trip to Panama went well, but as for the \"promise\" of a sunny trip, it was a failure! We told my wife that yes, August is perfect! Beautiful weather, heat, etc.... Well no! August is almost winter for them and the rainy season is just around the corner! So, we arrived in the rain, 24 degrees Celsius and thunderstorms were forecast throughout our stay! We had 3 days of good weather out of 7...Wow. 🙄🙄. For expedition reservations, book on site! With Sunwing, it would have been cheaper than the travel agency...🤔😑. NEVER lie to your clients! Especially not to NEW clients! They are not stupid and there is no shortage of travel agencies! Next time, you can be sure that we will look elsewhere...",
+        "time": 1566671172,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "travel_agency"
+    ],
+    "url": "https://maps.google.com/?cid=12665905192734747453",
+    "user_ratings_total": 37,
+    "utc_offset": -300,
+    "vicinity": "207 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://nicolevoyage.com/"
+  }
+}

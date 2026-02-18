@@ -1,0 +1,105 @@
+{
+  "query": "Drivex transport, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339016.2327747,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "261",
+        "short_name": "261",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J7",
+        "short_name": "J7V 4J7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">261 Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "261 Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7V 4J7, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.387535,
+        "lng": -74.0824749
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3889805302915,
+          "lng": -74.0808954697085
+        },
+        "southwest": {
+          "lat": 45.3862825697085,
+          "lng": -74.0835934302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Drivex transport",
+    "place_id": "ChIJR2XePwBJyUwRcebS5y5NpRQ",
+    "plus_code": {
+      "compound_code": "9WQ9+22 Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WQ9+22"
+    },
+    "reference": "ChIJR2XePwBJyUwRcebS5y5NpRQ",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1487680115769009777",
+    "utc_offset": -300,
+    "vicinity": "261 Rte de la Cité-des-Jeunes, Saint-Lazare"
+  }
+}

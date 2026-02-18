@@ -1,0 +1,442 @@
+{
+  "query": "Le Poke Station Vaudreuil (MAINTENANT OUVERT), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339673.0765448,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3052",
+        "short_name": "3052",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H1",
+        "short_name": "J7V 0H1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3052 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "3052 Bd de la Gare, Vaudreuil-Dorion, QC J7V 0H1, Canada",
+    "formatted_phone_number": "(450) 510-2222",
+    "geometry": {
+      "location": {
+        "lat": 45.39634359999999,
+        "lng": -74.0550047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39776678029149,
+          "lng": -74.05366041970849
+        },
+        "southwest": {
+          "lat": 45.3950688197085,
+          "lng": -74.0563583802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-510-2222",
+    "name": "Le Poke Station Vaudreuil (MAINTENANT OUVERT)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029219123482932844\">Poke Station Beauharnois</a>"
+        ],
+        "photo_reference": "ATCDNfUYuX7KVkoVxSLhUw_LOvc9V20frwSDCwXLfhjqDUosU0UYGy9rAXgSvXOfkxpw_kvXHgb_PjE1d9OEm7LlNX2TkqJKf99NwdNgipcTbTiNIk8MPFM2xrDa8Fng4v-4AtJlip57PwDafjm9eQCUT0sAR095mPHXgomqN9HxL9UU0Gqb_rm6JOjbszTzXhPeSZns-sEOhQe8FXhJG8PHdqXqT3HS9g_JcpZ8FbZsHq1A4AWHh1RWX95GMssCLAwMXBpfs2BVS9NjQq0flXUhZf8jFz42Lhaqmol3w6Shjnku9pDv2_-5UWYHJt8qhF3qWZR7gOnebgLxH0pEjK4lz3Mt_oByCzyCpuvRUa80p5PoKz3_2GaDB1kI8dxFTp1lcEeUYv3bp436ij62-LoDgO3DVsfSAMcL2dSXpf9picsCmbPybCM_0Ddgk-Rr8upt",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114975503396513327105\">Le Poke Station Vaudreuil (MAINTENANT OUVERT)</a>"
+        ],
+        "photo_reference": "ATCDNfXboJ7cjnAQa11G2nshhz31go702TUiLuBBhhYKgdQ5E8t7Y2MD2RRb2F3oeuzfaox01H60S8Ab1Fq0XsB6g1ZC4mpPEo_jmWQm2Sj5eDeoJtQ4n933BvYUH0R8w7tcvaJ90Ih8OUBJbfDb20sDXVZvLr4fCgQuUC1vX9Bc12frifj5Vx4R_PIGYbJzh35SOKWsPkT4bqt_5DXvrjy6sWbBvsZN-GFjOXsIbueBplxFkUmUAgKc7Ymvlq0jko6e2diyfuoQrCAaI-2m_rTTF9GA9oMf_lTfblmAlwPAOHYF7w",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114975503396513327105\">Le Poke Station Vaudreuil (MAINTENANT OUVERT)</a>"
+        ],
+        "photo_reference": "ATCDNfXfJfMQlXE7hz5Na82UN3xIY0kBtFh1iv7catCd0zUckr1xz_KLKJUuqM0VjZrC-gN9f_IjrwOE3_MtZ8kpzdoAuR8c8J_lcRW4dp2c80WhYy_hKrEKloLO0PbAxWTEKip2ER8WHXUaXueWuuRD6r8-LF-Tr71KzsgGvg8kccd4RwC3Bln2voY3I4bxpd6clKDJmFY_v8hAJzEYcfXJcr9SNdhARpfy9-0RE16uMSHhD53v5RCpc3sFvTdFEdUqmgw60AqcfD2THqHSHR19O-lK3nKBcIeJw3WVjjJ1XIPdAQ",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109955521183074416983\">Mackenzie Nguyen</a>"
+        ],
+        "photo_reference": "ATCDNfVDZiDKxXa3mIp9r_s5b1XfZmd4gU_wGiD4WesaJw2UFfaXjK3PGOs_0ji279CehngX9DLfWfx0TSjHaFB7zkBqeK6w6QyzlScK3ywRpCWii4NbpRxWfGWL_lY1iV0ifThQrqr5IshzMjFWnFn5RoO_cOMxLCdPsWP9F2IPsQiz0aJhUyI2Ym5xaofG4inVZG6NqjgcAe8DEwPSvvnIQdHc9saI2Rp_7fv3rgbc16MCSmXPryTXy9yul5Af_ZxZpK5Wf_FoFD6EC5GPNO-EUosCeARNO8um4h7wrlkxELeELi8Oshqq_z36BM1X0fazrfWCVB5XDxK90Yd8eYMl_1q_3EadVTlL-MjcDA9SVclGeOQrv-r1IH9kFExEjPd_dWspoFyrvHqxzh1ICYg2Q5g5-S_6ZDe475EDup92biFLrjZh-dPzBClu-TjFNQ",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105580815036946650214\">Hamidreza Sadeghi</a>"
+        ],
+        "photo_reference": "ATCDNfUc-pjvHl6dClKlFQigLaxcnixGC7XNkMEMitad_c_gzL1gMD3zBTB8jTHtR1mKQHJUMrAamzCe6B3hp-iInmfkKrsIf_tVLyNdKNzo_Jf_xZattb1Vp7V-3Gbj5lel8lPyRbjDTd-xgChov0c5o8YKAuhFZPCOiNhZ4gYDeUs9LHY8TJ26t2g_G6fXQrphrb0EKtNCfxRLJq7Ne_o59QvKwiSnAKh5KOIhqJavFbkdjkKIijm-7B-LaGEdvqPOJsuLFHyIs_6-6b8_zX-bdDFNn_dQczY9I4wIGVRpFc6kGgJeu9TlJt3zidgNjLU49T3fjyZf-598Pdi_aIt85pehyGbbmS24qEr2kHefscMqCr2y6X0wIy4ceBnrWaxLbX_N_ENZfdHCWKd6DLRJc7tNENUVEN-V0QPsvPYdnRPJVvN2xu1wa_ayb51NKQ",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114975503396513327105\">Le Poke Station Vaudreuil (MAINTENANT OUVERT)</a>"
+        ],
+        "photo_reference": "ATCDNfXQ-Hwn1kFh8PskjkCAPk7usrlXNf4u6ewkh3J5JsbHfUO-8A16JSEPN9258BPWtMlOlH3MhdDK_d0jOUzdI_wiLbQudyJDT4MqoX8-xbw_rCsEZr6G_T0gkBAY8a2cMPqkDaUpJQkt0ca7tReuvrxKNfGJ-7_FGwzUwoTude7dzHAtuiK3C357MCXnYyvUAvzxBT2INy2WyTPZWFhZMBLkwfIoXageRWiu-8ziuLq2teHLgB8JnMbLIAyQEs9b94KeUswVDOIz2ylZXP17tESa5z_C0Mf9wM_T4cbTPGExqQ",
+        "width": 3024
+      },
+      {
+        "height": 682,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114975503396513327105\">Le Poke Station Vaudreuil (MAINTENANT OUVERT)</a>"
+        ],
+        "photo_reference": "ATCDNfUN3TSd2fmhn1oKk14F8hhaokqRy8LqEpoF_6NqDJrMRwfKTNGM4-MbCEmljaJlbZfYhYRXpfJpzORJV_HR2u5nMe0rio469bayB6lmHdsgGBje5P5WeUCkkgDg_F_F9aWmgMNQS4R5l_mf-P0_tT9B6Uc8A_OkE0WSZ-uRo10oIHHzEQX9L9RXrFvDoE55yXXFKg91UoExQq5ccS9zRnFnX40fUKht3RlElS6lvo4xFuzU9R8N0fC6yqVKThfcPq964HilfYgyKSbh_coW5b4eD53Xl09IezTnY_xpcuxaJg",
+        "width": 1024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114975503396513327105\">Le Poke Station Vaudreuil (MAINTENANT OUVERT)</a>"
+        ],
+        "photo_reference": "ATCDNfVaWK8rDBdCjaeUX0TB9NmRfGG32_zFPG2L04wfvjwc1UIIF9KU_HathJj6CvRvYqdqy_DrNkEOnTiy1jhzGs62fR51YZjnaGmVxJOPI9_-vz4wIxwkrpUxh_uTMSrt2mCq5kN4NsuaNYVfvo4E34k-6CSuhfqM57w-EUPdxRFHQNLlimag-bMMNk88ue1CH_5XbCpvK5Cdr0x6Kum2jwopaNgu0xGjSJiXuToGPHkRnyNhntgr9Trz1HgNXzm9qE_IpQjkWaZ2g5NssG3o3LWuaS_AC0hKOM4LfW7Gcza04g",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114975503396513327105\">Le Poke Station Vaudreuil (MAINTENANT OUVERT)</a>"
+        ],
+        "photo_reference": "ATCDNfVptw5JEhCoJ7IsoWf7UeGKVOMZc9CrCdMuB4HXhQJYlKOJs6SmYTbGPIrNYJYaLSuH0MaU7pMgEBFg1cc1KZHddS_K0Yv2J_mQgnOlwAt_dnkky6XCQce29R3o34i5Bg5oAh-vQ8y9EH91QUlYq7nsriICkpkan3sZ9pguCcS2qw5H8PbKKutYpDIMZ4GjBA1PEc9WcPyfXTObSeAjLOzWNEn_s53Jjb_IWVcBnbdQ7VwLQsVjTRmm9WYF7yrQMmzRDpQNRohwoZg0qVXvf_qxHyAOarMzdRT3rL7QXxkczA",
+        "width": 3600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114975503396513327105\">Le Poke Station Vaudreuil (MAINTENANT OUVERT)</a>"
+        ],
+        "photo_reference": "ATCDNfVBQdS1qiV4IpvhQnT1qJ5HNcnwao4AhFFagY3vx7Sa8TEwwDWGpS6TRVRSPEyTcwmNIvw_8ybh9qnMiOe5gIZpqMgwLztBdWUO7PVz290CrzrUP4qQiNETb_42poOT7geLnUUX5D_p7N4nNh59fojnh4JvAlRvNCZWvP0kn5C65ZIR_jtnllKtZXJEmSadb0_D5gYUxZWh6Pqp6a8X-LgzCFUpwNQCwVE2CyjY-GmrDzEHzVs25jFgj6_LQkHN5lzFjaSPfGNC4iRocma4XZd7w1PTTmNCf5H4HE0FCatnXQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJJXohgkY3yUwRQJ23q-osO8c",
+    "plus_code": {
+      "compound_code": "9WWV+GX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWV+GX"
+    },
+    "rating": 4.8,
+    "reference": "ChIJJXohgkY3yUwRQJ23q-osO8c",
+    "reviews": [
+      {
+        "author_name": "Canadian Critic",
+        "author_url": "https://www.google.com/maps/contrib/107786003063405743324/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwtmRzHhc3TwFMTNQZOWiI7WCIelOHe-MM1gdMm0VOuur72Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Shaka signature poke bowl is the tastiest. Although very prices 24$+tax. Portions are almost generous - I’d add little bit more more of eel as I see other franchises put little more. This place has now crispy rice - this is great. Service is very kind and friendly.",
+        "time": 1769924581,
+        "translated": false
+      },
+      {
+        "author_name": "Suzannah Nicholson",
+        "author_url": "https://www.google.com/maps/contrib/104658640249912974316/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRnCtM82nMSb6MFG-Ui7Qn-99cBYTIL4DcZzmskAo-v10aAeN7=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "The interior restaurant is very nice, clean, spacious. Ordering was simple and quick.\nI ordered the Honolulu bowl. The portion size is very good and contained a generous amount of fish. Perfect amount of sauce/marinade. Enough to carry the flavour through the bowl, but not too much to be overwhelming.",
+        "time": 1768438198,
+        "translated": false
+      },
+      {
+        "author_name": "Mackenzie Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109955521183074416983/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU__qzf1jIayUQjk3asaXSSXzOyzM9pwQTAfPIGf2MlwkPos1Y=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Very inviting and comfortable atmosphere. The staff was friendly and the food exceeded my expectations. I would recommend",
+        "time": 1756063048,
+        "translated": false
+      },
+      {
+        "author_name": "Luinel Ortiz",
+        "author_url": "https://www.google.com/maps/contrib/115964810249305722352/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8hMGvHxs6LLn7CH1Tkw9dquGhHjC6TtFkTsYCc1wSPED4Nw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Amazing Poke the best I have tried in years, enough quantity you get out overfilled ; quality vs price, katso and supreme just woww and the spring rolls yummylicious/  They need asap the billboard outside to let people know they are open.",
+        "time": 1765157385,
+        "translated": false
+      },
+      {
+        "author_name": "Bianca Vescio",
+        "author_url": "https://www.google.com/maps/contrib/108131362939926808514/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvKXjryip2sbevU9siM8tSytSO4ef00HLYOWN1I5bda6hYydPDQA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Ordered with doordash, the chef configuration chicken katsu and sama, very tasty and fresh. We also the pop corn shrimp and they were very good. Good portions",
+        "time": 1762128110,
+        "translated": false
+      }
+    ],
+    "serves_dinner": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=14356117623588494656",
+    "user_ratings_total": 33,
+    "utc_offset": -300,
+    "vicinity": "3052 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "https://www.lepokestation.com/en"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "query": "Frank Ralphs Limited, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340064.4536607,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "330",
+        "short_name": "330",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Aimé-Vincent",
+        "short_name": "Rue Aimé-Vincent",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">330 Rue Aimé-Vincent</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 4:00 PM",
+        "Tuesday: 7:30 AM – 4:00 PM",
+        "Wednesday: 7:30 AM – 4:00 PM",
+        "Thursday: 7:30 AM – 4:00 PM",
+        "Friday: 7:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "330 Rue Aimé-Vincent, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(514) 457-7997",
+    "geometry": {
+      "location": {
+        "lat": 45.4051515,
+        "lng": -74.0494811
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40644623029149,
+          "lng": -74.0478477197085
+        },
+        "southwest": {
+          "lat": 45.40374826970849,
+          "lng": -74.0505456802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-457-7997",
+    "name": "Frank Ralphs Limited",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 4:00 PM",
+        "Tuesday: 7:30 AM – 4:00 PM",
+        "Wednesday: 7:30 AM – 4:00 PM",
+        "Thursday: 7:30 AM – 4:00 PM",
+        "Friday: 7:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3655,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfVvjiheWNvTyA1IJDzBoQk2p5cBqiYDSYvD9OcjCZtu5Las0VhsVFZRTlqkqEiOBrhiHypzAN9nwN6rkCMgMPAq1v9INSLPoX4Z3JgI5I3fw1WvvxwUChGeZ-KcF5U582biCo2XoHWbUWArhvaS53trttZYnVirov_jql1TI7ob4FD2J4KFhq_qI0NEuTjPSPpi1ofea3Eh5KDBmKqk38fVPO2i1XcFoTMh4bKj4_4q8F3xht-t56jmtegUyJVeijKsjmOShrjfcIdgZYHhiMwcXm6y4Uhel82ryqlnKBaKyVuWHCqLEy5dzkEUnMnZzMgDwnM1Q4j9wwiBtTtxMxOd_-_qjaHxTBkptWAt-tMYe37TVUFm0N4jOrlrVmcoxt2oP3VgML04utXnSxJ4hOFNmHpgxGoiaYpRtgNKAiC6FU1G",
+        "width": 3492
+      }
+    ],
+    "place_id": "ChIJbSpJYak5yUwRD_knbxGyPOE",
+    "plus_code": {
+      "compound_code": "CX42+36 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX42+36"
+    },
+    "rating": 3.7,
+    "reference": "ChIJbSpJYak5yUwRD_knbxGyPOE",
+    "reviews": [
+      {
+        "author_name": "Kuljit Jagpal",
+        "author_url": "https://www.google.com/maps/contrib/117368838848268996538/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFMlH-Ji5y9Keg50qb4AfguI8jMCZuzNm8J7JEvVpgVQdU3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Delivery and pick up till 8:00 pm,very quick unloading,overnight parking looks good",
+        "time": 1750214658,
+        "translated": false
+      },
+      {
+        "author_name": "Catherine Brunet",
+        "author_url": "https://www.google.com/maps/contrib/108850591300910416268/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxunuslEEiwYtOnrEJzGOvpmI3PrDNRTBtY4Xo3RwVC4qGCpf7=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 years ago",
+        "text": "",
+        "time": 1534225992,
+        "translated": false
+      },
+      {
+        "author_name": "David Rodrigue",
+        "author_url": "https://www.google.com/maps/contrib/102091516956256341573/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuE_K2aKv08jdyCNnG24v7aipATxncl--KvmHAq_4f9GbJzw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "",
+        "time": 1507678196,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16230042945085503759",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "330 Rue Aimé-Vincent, Vaudreuil-Dorion",
+    "website": "http://www.frankralphs.com"
+  }
+}

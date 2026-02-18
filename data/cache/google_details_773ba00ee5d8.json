@@ -1,0 +1,338 @@
+{
+  "query": "Dumet Canada, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339882.9108145,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "450",
+        "short_name": "450",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Aimé-Vincent",
+        "short_name": "Rue Aimé-Vincent",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">450 Rue Aimé-Vincent</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "450 Rue Aimé-Vincent, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(514) 612-6084",
+    "geometry": {
+      "location": {
+        "lat": 45.4038157,
+        "lng": -74.0522388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4051573802915,
+          "lng": -74.0508842197085
+        },
+        "southwest": {
+          "lat": 45.4024594197085,
+          "lng": -74.0535821802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-612-6084",
+    "name": "Dumet Canada",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 971,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108174958894429410087\">Dumet Canada</a>"
+        ],
+        "photo_reference": "ATCDNfV3qdBsH3qtYhbpm2XFbo0clkUW-EQz2aJeU0ED7EijhL94PIKnrlqgQzuB4LHvmpyoJqYJ-Uo4Bj7UMzUVs_aITjKJaRQMh0qAXtMUCRLV14pVkBSL1Qt_utaNmOc0umPGkNLsH_SB3bR8iKWWsD2KvqtdEwdNcL-NbJ_mfBPyP41yrqjg8qQLe3FZdls3w__-GrbK_2900cvhVEPM-gKtgo22G9IEQCdwKuRO2igZpBZu_BVNrw4J3p4vlmWlZ15bzzwkaMk8tZqnBXI6kKpbWOLTdhBMr0Us6G4XhjjGnA",
+        "width": 1080
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108174958894429410087\">Dumet Canada</a>"
+        ],
+        "photo_reference": "ATCDNfXcFlNj-_aOuPhhNoQzHbbaWRw1zat2F5QnWoJ6fOYyJ7o57UNu6DxZcXD6NgsAK4ISpS5hvsQMjGQtubBOALP3WKblhV5TQZ6QO7ow4e5bFfB4fvjSXw81eTV31Pqk_P5Vw7TFr028HGMpi2NuIaDdXfDCguxfg1vC0w7UnsGE6HoHnMN0fuY8cz1TWgdv-_I58hfCp97V9wauMcg4bIHQJmxy7Hsa-go7hnVEAgSVaXfjve3kNFEUOB8Z9y4KFvva1zGHV5tjOsaByRvMA2z91heSLglxjbnjBBUPuACv_w",
+        "width": 500
+      },
+      {
+        "height": 759,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108174958894429410087\">Dumet Canada</a>"
+        ],
+        "photo_reference": "ATCDNfXZBMeyZhmqQ5fT00YZle8QGbx7V20Snvr7VQbEfQrkIkru2KPaNlN1Wp6YaaPIFUhGYcXUZg1f8xkx2PfZ4cXkn_fovKILi1Ej_lDyv_WOxN-4WnHf5EWM4qe42wqnVEe3SxEqrzBCptky4eZ6L4Na2UKQzgW39oU804iKKjw532vfHcNVmoMcdKiN4wSvIjoIzKjc4Yr9vSUJFbAgdkF57F5Oy_EjZUL4cXr3g-ILMWH-49pcc2tGFI7EXdZiosFt-k_JcIjwWKEkjWd06dy2SekYmQWWuzIQ16t2a-yl9A",
+        "width": 1810
+      }
+    ],
+    "place_id": "ChIJO_9QCEU3yUwREPS4OQthqA8",
+    "plus_code": {
+      "compound_code": "CW3X+G4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW3X+G4"
+    },
+    "rating": 5,
+    "reference": "ChIJO_9QCEU3yUwREPS4OQthqA8",
+    "reviews": [
+      {
+        "author_name": "Chantal vonSchoenberg",
+        "author_url": "https://www.google.com/maps/contrib/116767674661595777581/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvgrO2eRA2mehCJlpCoazfCHkJ1NDM059OJsxX_GRuPxT5Ft3Izg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I recently bough these olives to take camping. I was impressed by packaging. The pouch type of packaging with a zip lock was so convenient for packing and reusing once open. Also, very affordable given these are imported Europe. Lastly, there were very fresh tasting and impressively full of flavour. I am happy to have discovered these olives.",
+        "time": 1756246752,
+        "translated": false
+      },
+      {
+        "author_name": "Stephane Varga",
+        "author_url": "https://www.google.com/maps/contrib/116397226166321959385/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu1HzfpyY9smSDviXyWG1_JQuCrA_yhvQPsk8T63ajOGqJFqo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Bought these olives in multiple stores including, Maxi, Metro, IGA and Healthy Planet. Also, saw them on Amazon.\nThe best olives I've ever had. I tried all 12 of them. The quality of them are top ranked.\nI'll never buy another band of olives.\nI strongly recommend these olives.\nGood job Dumet Olives",
+        "time": 1756837055,
+        "translated": false
+      },
+      {
+        "author_name": "Jody Hsu",
+        "author_url": "https://www.google.com/maps/contrib/117653958144150242947/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhHOwKFWYlsh5I43CfEhFVRm9ENsOT3y8mkxpXwk1LfryKVg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "By far the most delicious olives I have ever eaten. They stay fresh and are always a favourite when friends come over! A must try.",
+        "time": 1756940105,
+        "translated": false
+      },
+      {
+        "author_name": "Suzanne Kehren",
+        "author_url": "https://www.google.com/maps/contrib/114240079199038622948/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvXLUG05OPHpo_9CQnVDj5TqKO6JB9CzmtLqrZzJqiZuHDOg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Dumet Canada is my favorite online stores for buying Olives. The Chalkidiki and  Kalamata are my personal favorite. Excellent quality and very great pricing. I'm so glad I discovered this online gem. Highly recommend  :)",
+        "time": 1750253460,
+        "translated": false
+      },
+      {
+        "author_name": "Fernande Pelletier",
+        "author_url": "https://www.google.com/maps/contrib/117099518747416276038/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLD6FQfMkBOeKqW56sTFE2P0Rl-4KknuURLHtpF5iIlliWBrA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Great olives, perfect addition to every meal. You need to try them!!",
+        "time": 1756859530,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1128258407497266192",
+    "user_ratings_total": 7,
+    "utc_offset": -300,
+    "vicinity": "450 Rue Aimé-Vincent, Vaudreuil-Dorion",
+    "website": "https://dumet.ca/"
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "query": "Coiffure Living Room, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339974.6273692,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "472",
+        "short_name": "472",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N5",
+        "short_name": "J7V 2N5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">472 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "472 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N5, Canada",
+    "formatted_phone_number": "(450) 218-7666",
+    "geometry": {
+      "location": {
+        "lat": 45.40294189999999,
+        "lng": -74.0308222
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4043609802915,
+          "lng": -74.0293174697085
+        },
+        "southwest": {
+          "lat": 45.4016630197085,
+          "lng": -74.03201543029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-7666",
+    "name": "Coiffure Living Room",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100640382641415438087\">Coiffure Living Room</a>"
+        ],
+        "photo_reference": "ATCDNfWaWYsN68bhXDsLRFr7E1TCzqf8lxR8TtyA0_BuA0c0hhkRKg55e7lU5mUtTRY1yJSeQGShsGyfybDoE4MKZ7TsQ6F7QBlARkgHB5DOYgqRNowFbOGO86BbsdTkajGc-Sldw_3-q0F8Pn7aRAbtm0ZOp129LO2IocE6TaWWsPyB2HyW1VeN1oQGoz9zOJ2jq_XvXlEWK86o1sqTWqg86jcUcUVsUNuSfd7W2hNdrPKWcph5t4JWAyn1LDn1cIPg3qB2j6FypNdWe22SN1MgTnpiFcxq8oUrm2qrUxG0KqrW7Q",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100640382641415438087\">Coiffure Living Room</a>"
+        ],
+        "photo_reference": "ATCDNfWJbbI-Flp6J-hw2-ZANKt5Vl9tOEiueozF7KtpgEwFE5ukVodn_pZkib4SsCuqsMETJGRlwCAjfR0wgUMa2aCVZc9yKztP92zGMC4-L5X6ANDarLOaZXzgrWn_ziUO68UPZa5797ClDE21Jj89NaOrgREa0IFiougIbj1-Pk0a3UrjLoMaITnsVA-FoydM-bObZ67Cl70JKWH3Wa6LDH0lBTpz2C7VA-pD-vLiqybI6RtxJMXBl-cNxWi3NL1dIU2i-ciSga2jr4xu_tV-dLCDO4QvhOzSt0ye1HgipjPitg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100640382641415438087\">Coiffure Living Room</a>"
+        ],
+        "photo_reference": "ATCDNfXuMIWwTKjI_zMEq4eyiJb49bir9RhytWUbr9ZfI4oRuDDM7M7ekkseC31cAysOrqxVYWv9AKAPlogFBu-Bz0cl-RkkI_xRP5b2QFraC8daiJajdLQKHAnaaDoJlTe3VWDL7gPK6uadYM1fXWIvDEWRqUm-MEYNVhqrc3gh-EFDntvVbVvjNz3pPJmd4Ht7DoWxMEqjSP6EirJiuzYXo5i5PCA_4NDAnh0y9MA7AcnonjLbwXek1Z_acgAD4my6WMdfbm39Dh5cCTFXObP0Z82CKXuFN5eJU5h9PAEfjRUt1w",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100640382641415438087\">Coiffure Living Room</a>"
+        ],
+        "photo_reference": "ATCDNfV8hSDySaWJXri2zGYuIqLM59Sr7W0f3vEbe-wudID9KeZH5kGyF5PkaGq1H8Yl716AAEAsbPN5YDZtmx-OQp8Eq0DxkoMy-2tR8eCdf6mSI7DIKh6zMFO_vJ7llgNfOxVTEdBJm0yNa1uxyrPB8GsIUFtfRhXlHszaKwlaGSJOvZabHzC1MtYqmuZTSbsNHyYfEaq_VFPZkLvjz7ceB6-nkJIZR-Ol2Hd8EXDhiRhYxW6XVanFwPcDgEd3lkBWiNwCk4kees2qCVjMye4m0BnPwSyA7lix492ki55oTEmugg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100640382641415438087\">Coiffure Living Room</a>"
+        ],
+        "photo_reference": "ATCDNfXh_qXaM0vMF0NHfK26XC6Wrut9PBw3P1XgjDkim1RmCFui7XsPuGnAE248rkJB5yCALmrW12wPcGmqVfZfB8QZyzdvUI23re4wveUQP7UxIfLd-51Wx7e3UO5MIDwLhKb5IJ5eCGcu8g9PnaeUe43MexAyaW3QzHBjnVn7vBY-6maJok-zXM42W5_pbrPHDF7Y6RSrXOAD10W3dzulMDIomMZHkXt7PO6CSvcJ5iHeEAkwn6i4F7ETSn5ORadVu3Ca1FKaQbkMmcG7kj8eZfBdvEbo_hT6aeglpT0j5Td0cg",
+        "width": 1536
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107815654986747801241\">Anna Wieczorek</a>"
+        ],
+        "photo_reference": "ATCDNfWTdngu11N44CX2Gt1pmPC0VUype4Guu8GV6gxVNqJHkMmun7lJ82r8gJZS84G2TzTgIcDYmxHXMZCZ_eArGqD6kpiRCxAjgagl-Pgk7_bKVtL4ORVosokLqcNQjiSNZJDD9nx_ZuSr-FtBAQhKFtMoFfuFZ4Y7ilGsx-aLa2kH0oEnU7LeSX4y3J1Mk6oi2jdhWGTqqiF5v031EhHu6o9slarEkmrOfXkGN8y5yewbigJ3kOtk8v4vl15fMt92sYTtgcaTlvCAQsOdj7sBVH1JbTjQK9bkyd-WHChsA7T-Ps5hHjAmqMn-ig89w2m8NUgwHFpinWkdwUVQebhboqn1qVB6U6_eNKe8rYHzNxYh2GbK6OlshrPrQb8RRj06L_uTJmWO8c1F8a_iImyhk7xytQdaEThq8tpuGOW5mdM",
+        "width": 2700
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118035788635765279318\">John Biner</a>"
+        ],
+        "photo_reference": "ATCDNfWnTLiIv1buekG3fixz0aAnKf3i20e463tzIYZBv1onC6GHXpD39Add3kMVUbvKOenz5Y3IKW0uYTfDiPsgNS__OrQPZVZTXa92WpMqaa-2JqxwHFkVseWpUPblmX_jOKxJoUR2M80Of8xB8nP5Ftr5_r63st4bRiMfTK4JjQCPw4K2Fqa9fov6cH8prc9MzBReQOxiPm9SBGUMvgxQffSXd6TB6kDuAMut0y4Pl-suU6IbzyOtjKXrjwDg8vRIVCszvRUsbyBdaQuQopMLaQKllGhKLFgrkrUc6LMOd1_IkOKsVaPDbWJ8dGda4GujYJEbOxdTqT8PWdTAQ2gvUICnzP7Elz5FbEfYnd2YXfKZ0rSMDhP0xZr4WGnnmJjpwO0sFRErDWCYqiHv0R54MZp-D4l91qnPdYZNHVYVnfT0S63T",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118035788635765279318\">John Biner</a>"
+        ],
+        "photo_reference": "ATCDNfVy8GjmMQyFWftUE7uvm1j11-zj2qNTEwgUKkOx2E-eJil5XBfHvPWrA1MqFA1F0yuAjJYaExBuKVgrkqZbR2_FwtTXwvg9mIh9W7J2UEOrqGWLZ801cL4BXRsA0llFx6526L-wSSD0bC2zOaGGMlEMokM2qrAaFB7CxOcRCtOURkYgeLoXx4fFX0jXWPCEsCCZESnpQzkYUAGfdlXNE4EugPzDt4So4XY9dtyrlG_GIqVOZrJH7ZGv_dSndDaDRLL0xyrarAXrQNFgqZuS5a2If9rLEToPEEN5bBY4HZAekeVeXVO9Z9XZ-gkNncWDlyWQ6x_x_ePbpw8CSFfUyAsukNXMVR6D1lvT5f0sebI9IHOG69QgxWubTh3JWP7KjcpBMzcDhzFfKxbkvSKso9zFCTd6MqpnSlXLgssUCGE",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118035788635765279318\">John Biner</a>"
+        ],
+        "photo_reference": "ATCDNfU1b0N4iAe8DH1uA2z7AkX2yu1tosmvYKZ1AAt3bKBRB5cvhNvA4l89GxKwgjlSpZgrDdz6tK-HOCvOIngB96yS4hMxcJ_8S06AT-lBPlct-H69TsBo2CZ4DHuBpHzfe8fOY65obK3gGYbalVtaQIbBZDpOTw1JOg07v0Lc3Z38lXNw8YvlrBHs4RaFkKIzbEDrM8-8rR8py-GHTYb8zpMrpaAEscHsI0qQyzjfv2RmS0INPqQ3TB-mzz5bu95Inc1NyqVB5ZS-0tC3N_Nw5ACHZXarswPbftypuzVigianV4mUQh9WWzRzVsb4LUbjQzJjcw1bYQE4mesrZ_1_1Ptu1xwQGFVLLQgk3-7bDegZaigDgsfCl9kz2U02BlxqXlQLNFApzYEOmZIHz6nCxbvDktBUg6qB5mVq4FhAhcKFKQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJdTNuK9VJyUwRPko-roNDew0",
+    "plus_code": {
+      "compound_code": "CX39+5M Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX39+5M"
+    },
+    "rating": 4.5,
+    "reference": "ChIJdTNuK9VJyUwRPko-roNDew0",
+    "reviews": [
+      {
+        "author_name": "madie",
+        "author_url": "https://www.google.com/maps/contrib/105426305862385570140/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtCdTnDjT-pSIys1ayEljI0R4FL5Q8A76awL4VhtDQ_-mhJQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "One of the best hairdressing experiences I’ve ever had, Carolina is super sweet and attentive. She did an amazing job and my hair looks incredible. 110% recommend!",
+        "time": 1675378668,
+        "translated": false
+      },
+      {
+        "author_name": "Melissa Olsen",
+        "author_url": "https://www.google.com/maps/contrib/109329574373014243284/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk_ofExGfCL-oyeEgHaRA5rcCUVx7foiiirS6u57c2hbYMZ1IK=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Not exactly the professionals you would expect to see at a hair salon.  Left extremely disappointed, frustrated and my hair looking so damaged as never before, 3-4 different colors (orange-gray-black-yellow) when all I wanted was an ash brown medium length. I feel bad to show you the before and after picture.  My hair was long ( they cut it with a razor right below my neck!  And all could hear was mistakes happen?  I missed my lunch time from the hair professional and she still wanted to charge me, cannot believe it.  Owner tried to assist (after I explained several times that what they did was wrong) but why would I return to a place which they already messed my hair up so badly, never again.  Not even for free, no thanks!  I should have known, the previous lady before me was also complaining.  I would not recommend this place.",
+        "time": 1555876226,
+        "translated": false
+      },
+      {
+        "author_name": "Ruxandra Fatu",
+        "author_url": "https://www.google.com/maps/contrib/116533470334813429282/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUwgVXZHY8l2u4mJNjyFVR5DPe_7DdnZbOiXKKxznIi-gnvZjT=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "wonderful, helpful and creative staff. Helped me get ready for an Xmas party, styled my hair and did my nails at this salon. Highly recommend it",
+        "time": 1513739164,
+        "translated": false
+      },
+      {
+        "author_name": "John Biner",
+        "author_url": "https://www.google.com/maps/contrib/118035788635765279318/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuquNn9r71p4irKJdSIQbUb1TA_d8qQYILrmOkxEWtfS-p5Egm=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Coiffure le Living Room is an amazing experience for hair styling !!! Great staff, fantastic owners make it really feel like home with great prices too !!! I highly recommend that you experience this awesome salon !!!",
+        "time": 1492050645,
+        "translated": false
+      },
+      {
+        "author_name": "Eric Paradis",
+        "author_url": "https://www.google.com/maps/contrib/115517952472348134757/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoD5_UQguLek_ALQA5VeJHt_jQg7IjVrGts95b-5tWI7XS605p=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Fantastic salon, amazing and talented staff who really take the time to give you amazing cuts and style,  suitable for men, women and kids!",
+        "time": 1559051741,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "hair_care",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=971444377471568446",
+    "user_ratings_total": 58,
+    "utc_offset": -300,
+    "vicinity": "472 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://www.coiffurelivingroom.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

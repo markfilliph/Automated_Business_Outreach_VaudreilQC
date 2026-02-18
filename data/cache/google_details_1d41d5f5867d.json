@@ -1,0 +1,393 @@
+{
+  "query": "Fastco Canada, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340047.91798,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "135",
+        "short_name": "135",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "rue du cheminot",
+        "short_name": "rue du cheminot",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">135 rue du cheminot</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "135 rue du cheminot, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(800) 663-4896",
+    "geometry": {
+      "location": {
+        "lat": 45.4046311,
+        "lng": -74.05472069999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4061063302915,
+          "lng": -74.05313126970849
+        },
+        "southwest": {
+          "lat": 45.4034083697085,
+          "lng": -74.05582923029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 800-663-4896",
+    "name": "Fastco Canada",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 575,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108461465511507178511\">Fastco Canada</a>"
+        ],
+        "photo_reference": "ATCDNfUnORjY_AR0IyJxI-4KyMtc3DqrWmu3q8Pnk5tBsPFg_ebdvsqyQVMORt2ZH3jwKEHv73Z_bvU9yXGfxgFGI_1p7B9GIra40eaa5GpX3SxTeA_cipZdGiCCO8wJj7GqLA28_Yx2mOetvWDCJLVN_laHTZ5GpIcm7JrNrpCVuCE1l1AXRUv9RPlME62hoqMWmThSr0OdaAD0LFoQBKmZf0cLjM5EerrSaabrFgsuZ7nuQgO1v9Da-hophVdP3PXwh3jxQB6nXWT_hIv79ohtH_FUFAJcmHw7qtWPTtKN87Qyig",
+        "width": 1024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108461465511507178511\">Fastco Canada</a>"
+        ],
+        "photo_reference": "ATCDNfVh6Zlpow66KCzvIBkF9Z8DH8RaGjdtNI8tUpJeWdk89vmQkK7x000kCyrPr3TaRjEsO7d0SF5WtkYc_k3ih2gPnKTWk4Y3jitQAbrPwG8ajiDSs6pxrzCJ8hF7Bv8_tRf_QPpHWlFmFKf5cMDgP7HuJwB9OjaNl_3y1zIZZDTJFe2G-BGCCs3R4UvRiNRodk8OIzi43fluMpQDXQREHJ2vTWNtfi9pTD4xwu7qQFv9cnitStmQrgbnuIZ2auXZfPutXH4KESviYAMAu98VetgCGQoTT9O6QoHlN2KNrVPOkg",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108461465511507178511\">Fastco Canada</a>"
+        ],
+        "photo_reference": "ATCDNfV9nXqZ-c3D3YxQnfn6ipggtv48qjrRUkl9Z9OxaYEZSsQKsf37Uyxj0gS6J9U-w2RlL5c5ForUas3Sg-mvg5ycOVvUg42Qi9MSn-0FWnytS_b7fI4C353_1-RNoYgyrNXAlVmwj7lxwdnVj3sLjRKoSP4mXOZTX60mz4AJbQYEO6tUDs1QzxEAk7ql7xckK5PNCt2FV4RwnJHJvSGKlcN1ZekwJtmnnMVJ-GYbcdMclxy1RkFeCObWzDknH06nNSZfx2qO2HfhVCuyLZQ3ZoCHIDOgU0hbrOHVzi8M2BC2Dw",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108461465511507178511\">Fastco Canada</a>"
+        ],
+        "photo_reference": "ATCDNfXeIPgYE0PtUtJBhhDuKdgOeq_nNpWRmZDzh8jcY54V_cYTAlFVp34wMVRqO_DsMpxsEujfhFAAz1RO1Uc-H49oeb-VRHh9SlWhg1QFfv-lOZZr2DGTpG96_t-JZPIJ97Qu9Va2ueBB9dQ5nHsGdpWBpE_QF9WN7f8qqWEq7rBhq38i6dR7A3no2axZU-5JaArfqfREwKgRLS9DBOxH-A8tHUWq49spk02GGxXJaoDaHXcqNf1VL2E5CbLjQLmBR20fe_c_kKYZTuvEbMFyQhqlu5vbYDcyYWU2PhRh-RgZOw",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108461465511507178511\">Fastco Canada</a>"
+        ],
+        "photo_reference": "ATCDNfUrnyVOlg8g-K3cmzPjTOklH2hxgOgLAHIg54O3Ou1NJ34m68eIHvularR_xVJw3UJt-om2sc23-yDBh8NBfJp6oBOWP4jCfDncAhJLm-OrVzCUNGzd5sYnBiRc2FudKOQV4J5KWgZy1h-FjSPl8UyN_TfOwBc_FjKynX1z-MgB3FzTZvw38cyQnquOYAzMPdpSVPdcfMm01h26M2KqWV1O5WQ5pSGwq6yk2c5dG9TDi9WVwmAmiaYROsLa8X9J_T5wHlpgww79svfr_YLUp7kUSCmhSjKDiGM-gmW7xroDig",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108461465511507178511\">Fastco Canada</a>"
+        ],
+        "photo_reference": "ATCDNfWUzEmD8gJwOdJw_8H9ulEMU0yCRDEtxSh6iiQksN_fcBgMeynVbkniR0oFq4fmZXTckGUjOuamvBOGKb-HS3dFA6SJwHoEK-UC8iKK8pY7JCkZoC1i1B0-M3XIWk6gDGBmGAwMAuAvF8hbXWduNczk1gfEMlLn-PqftP7fFqF-L_GHXCusKJo7PD2i9SeSQGa1QXMctmQ-q4FMTmNMRahiohIMcj04mAvlqud5iUdgZ92HwE96QPpi9KXgJ_wt4OVbB2wvsbFVr6O7aCy3fyRnAZR8B94-AHpUGFeqcQMXEA",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108461465511507178511\">Fastco Canada</a>"
+        ],
+        "photo_reference": "ATCDNfX_z8GUIFFxNfdQkrXl-orpRr4B1lpnSyydO2DyIiKEWnSDeCAeavpS1Bh02wrrcuAP7K9br_YKbKE06v23m9yXd0GOpbUlh0ekV6I1ZnQ6batS9222pMxNKcuFNUsRvHWprltchsL8Esu-2G-Hyp0_MiYRF1TU2Kno7IzSNOMQtdS-VfHKDO_0PT6SrM5bIUkN8T9MKVLt0KRKS_UNeHEakvM6fLLxLmmbk_4G0BXAsVJ5pPdHaQu2BtI2QWOUvqKAoXbigmmjgR3fKWXSVbiiwkmd1HMLHaG-hL_SmDwZgQ",
+        "width": 720
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103375950909935174282\">Lyle Denny</a>"
+        ],
+        "photo_reference": "ATCDNfWE35bLsIf0e6cxnfW9S0iBA7rIgR6YYmBjnOxvDaiaTrn_dZjW8rMkHWTn2zXS--30dfW05qUhhd1ULs4tT_z2vPpLWKfkx2Gm-9gByfMDivlPL2Gqmb8KjcpKV7KWETWRrsHVJnHdOuxfSt7gS3Q_SxtV_TWYWOILcjuef9HaXz4PBkCdeAnLcMbjlzo_AV9Bq8Az66dDrVenTJBwRcbqnS4B6dj0zdFLyjFIJ7yBTr6WxROZUgwJ8lIAKUBy3bxULuRPf8IYGXGzuc_hSYKrM5vKPtEkxYesudXfMte2AsXwaFhdxXjL90EXzkK51fB0o7ZaGNKMKCkgPvYG1hjP5AjXEOwaPkmEdk13DLsZE0voeTzjuZ6J7iIR9koj6bYuZ19OVliMbcBkZrzY2fCEZggXWoiayUjeTCdjTVksBI8",
+        "width": 3593
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103375950909935174282\">Lyle Denny</a>"
+        ],
+        "photo_reference": "ATCDNfWPih7peYpeo0oTcMTqlr6S9kX9vQQuE8jmTcCjS8yX1RpDcES1NJuluEOW0K__fogHIReN27DldwAx5mIn_LFc4psPlbBQHGO6X2sX64L82mjrWK9mJlUjJXaT8pygsfOm-S3yQ8BM8zu2NqEy7lK_Rww9KAYhsSzgcGtanHXPyXxJYBJJagf5Sv54FVinBinG0SNgwRV-80QayF16cGBgCjGzMF23WFmCu_gkFesqZPazHTCvhgISertD6TjcCsm3ksqubDmAY1gouSJHzTbEY60yGrUJgl8O_Xx8HSZyIeqNIvHRU6UFM_tmEF7CK2WeF6RiEUCxq0s0VHIJcQlQKl7VIjDHbPorsueoZKcnEsbAdP2WhFhA3xpzLFPIhY5Pg884IJB_LSoNkw_I8pPOXJLAS3-LW3Mbz9OjPu6KkuTX",
+        "width": 3593
+      },
+      {
+        "height": 2034,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfXyhUOm9e0HvVrGonoEkAFaHpXEi0KqVbRjSFKEKASBWCwWch-7XO_GaVgUyuRQnUHLwhahH0Z-4XZrj45kkWe_E9cV6czpLV6XwfmpTQfoUBQXhFDFr4YdV7molx_aLxOq6MXXJEE43piSDwHlg-soo9fRs74-0B88jg8_s-sh5a71RqndCn7f318jtMqptlDztB5f-PleUuIfnKqE40O-gGW378EWwls5gFafN5q3ARtTdA5kf-3Ztvc2ZB40oX0BGhBSxaiZE5hQAOKNLBYFmjJBZ4aJ1N7NB1455orjPZ-6ajVDUNTqpHwT7uTFXhxcr6u8GpT5mA7XtKuxTf2dP9gNYkKQU3KnmcGXUcm6tmgLvR9vpLfoQPXa9llFLdu6NB16duHi2ENgXp_7R-HQB6ZWOK2mJhlDeD8yc3rkpoOG",
+        "width": 4656
+      }
+    ],
+    "place_id": "ChIJW4aKzBU2yUwRPKlt7YPJOy4",
+    "plus_code": {
+      "compound_code": "CW3W+V4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW3W+V4"
+    },
+    "rating": 4.1,
+    "reference": "ChIJW4aKzBU2yUwRPKlt7YPJOy4",
+    "reviews": [
+      {
+        "author_name": "Scott Dalrymple",
+        "author_url": "https://www.google.com/maps/contrib/111825937822171747347/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdBSR-EvQSm6AdJ9HhxeoBUgQrSeLLvDNVBmC3jC851TW8OGfpVg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "I was short shipped 1 wheel.  The extra wheel was most likely lost by the shipping company.  My invoice was from Fastco, but when I called them I was quickly brushed off  since my order \"apparently\" went throgh the a distributor.  When I asked for the contact information of the distributor, I was told they didn't have it.  I understand there is a dealer/OEM relationship but to a consumer it is just a company name in an email.  When you give shitty \"or no\" service on behalf of YOUR distributor, you get one Star.  When your system emails invoices with your company name and phone number on it, you can expect you may get calls when orders go sideways.  The three tires I have received look good but a week later with snow in the ground I now have to chase the fourth.",
+        "time": 1762956566,
+        "translated": false
+      },
+      {
+        "author_name": "Lyle Denny",
+        "author_url": "https://www.google.com/maps/contrib/103375950909935174282/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvBpXBGTuH5T0RZd_1HDYqN5gJ_gU3mUy4UvrYSwQf5BKfpQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Terrible quality in fit and finish. Lug holes not machined, (sharp uneven edges so the lug nuts won't mount flush), finish imperfections which are obvious, and their website states all wheels are checked. Also inconsistent packaging, as the 1 of the 4 boxes received had a plastic ring to protect the lip missing, which then caused chaffing from the box. The wheels themselves are light duty and very cheap looking and feeling. \"Fast Wheels Vybz\" in a 22x9 is what I bought my wife. Very disappointing. The black gloss finish does not continue into the lug holes, so you can see bare aluminum around the lug nut. Looking to get a full refund and go to another brand.",
+        "time": 1681418883,
+        "translated": false
+      },
+      {
+        "author_name": "Toby phillips",
+        "author_url": "https://www.google.com/maps/contrib/118090398570221750484/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUFVquukDQrnYUQkjfF2dBGx7mP_AgDh7CTE1UGfTRCmn2HUNf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Caleb Chir was incredible helpful to me trying to find parts for my discontinued rims! They were not still under warranty and they still supplied me with them! My next set of rims will most certainly come from Fasco Canada!!",
+        "time": 1745870863,
+        "translated": false
+      },
+      {
+        "author_name": "Kyle W.",
+        "author_url": "https://www.google.com/maps/contrib/107097289309537018958/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeh-9bOzBhowyKXkfyL6gqQUoGKT61YoLZOZyqhQiWJl0AlQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I have purchased various products and have had several interactions with the team at Fastco, and have always had a top notch experience. Within the automotive market, it is often difficult to receive any sort of response when inquiring with vendors. For this reason, Fastco representative Bradley stands out as truly customer service driven because he not only responds to inquiries, but he is helpful, attentive, and demonstrates his knowledge about their products and industry preferences.\n\nDuring my most recent interaction, Brad was able to listen to my needs and provide options to meet them. From there, he ensured the purchase went very smoothly and efficiently so I am able to receive my product quickly. I really like the Fast Wheels lineup and have two sets of wheels myself, and I will continue to support the Fast brand based on the quality of products and customer service.\n\nHighly recommend Fastco for anyone looking for wheels!",
+        "time": 1627391396,
+        "translated": false
+      },
+      {
+        "author_name": "Steve Kelly",
+        "author_url": "https://www.google.com/maps/contrib/109125285518533083120/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrtK0Bn3YZ8nWNL_VhEV6IVr2h2IC9BL1L8noez26ak1qN=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "These guys really stand behind their product.  I have a set of Fast HD wheels on my pick up. They are about 3 years old and this spring I lost one of the centers for the center cap.\nI met the company representatives at the Atlantic Nationals Car show in Moncton NB, where they had their products on display. My hope was that they might be able to help me find a part number for the missing center so I could order a replacement.\nOne of the reps, Patrick Deegan, told me that if I would send him a picture of my wheel, he would try to find a replacement for me. I sent the pics off as soon as I got home and Patrick sent me out four new center caps.\nYou can't beat that for customer service. Way to go guys!!!!",
+        "time": 1692883570,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=3331477917831899452",
+    "user_ratings_total": 29,
+    "utc_offset": -300,
+    "vicinity": "135 rue du cheminot, Vaudreuil-Dorion",
+    "website": "https://fastco.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

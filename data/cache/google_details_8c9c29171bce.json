@@ -1,0 +1,345 @@
+{
+  "query": "Centre de Formation Professionnelle Paul-Gérin-Lajoie (Pavillon B), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339562.3483708,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "400",
+        "short_name": "400",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6B1",
+        "short_name": "J7V 6B1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">400 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6B1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 6B1, Canada",
+    "formatted_phone_number": "(514) 477-7020",
+    "geometry": {
+      "location": {
+        "lat": 45.3931627,
+        "lng": -74.0259549
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39461238029151,
+          "lng": -74.0245083697085
+        },
+        "southwest": {
+          "lat": 45.39191441970851,
+          "lng": -74.0272063302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "international_phone_number": "+1 514-477-7020",
+    "name": "Centre de Formation Professionnelle Paul-Gérin-Lajoie (Pavillon B)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104432633137348347667\">Pix El</a>"
+        ],
+        "photo_reference": "ATCDNfX8H5hry794asuepehK_Q88pQFE6PL7fltEmm8CmAlIXAD9PJHDki_qF_ErEykDnP7gu4dsjnt_FSyyPRYYP64qtE5HmeIvThiSWSnGTHTLOzZywDpz71Nfa700skVzCfDve7xxZ63m6XTWLVwUoF5_utt_LZ65fSx75ISCAxks5aCR2odV3cLjGlZYZXVdKJK5AUJWuOfz4hZdGWU-smufNF8GnEmZpBARIgl2TGlLj_7QSJSGM0KCG76HwAXdMKVh5nxBdCCtLE23OVsWkmNBP4nXx9-dLgTbqrSkUl1zfxWE1izBmuY0ZYSuOJipw6d484-N4z72HEaj-GrGD73wWyk1CdIs9W16szUCYCNgeH-A8vbB9Zq5O86dAZM_PlFTfcleryRnkPHcNY3_Hm4-5HtCszXMu-vaq6HBFqeDPw",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104432633137348347667\">Pix El</a>"
+        ],
+        "photo_reference": "ATCDNfXulF3bcOnYI_Y4ctnlPgTYw1wRcVpllFKP0ZtTwXFkKZ0ZlK2ix1Jaw2YLyew79fpa9FarxBUFJsm0455iYtj4-XQA-sa4zzxm7eIuhp6k2eAvtcFy9pGYxlQ9auwh3QtSMcHnRbUmNL6Sl3545Y5rXlLSgElIcnRrt5fsq9zvlvG9EH_fqr-T3i7sVRwUGyUeqGyDo2WZxcSe8eXJXnFtt5tWmO3veHMj-pIfP9xRD_bXpKLHTTSCqP5rJrt-vK8zedBmUxd1UoauMXnMGUveMeIYYrNu350tay_T-tkNh7vWpYiU0XeG33xJAhv4mzHP7MytnvgiTM-nuOFN1mxvd2yMMNa2IcG0X5LjCnsocjfO4Qh5ItFMFQ9yKVTvpHp3_d0P5zAtI2JSWdzp-7ZkF2EqJzO_N6omFh0N2vN-DfoH",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104432633137348347667\">Pix El</a>"
+        ],
+        "photo_reference": "ATCDNfX9udF5RBaF_R_KOk88Ykk8PVRp_ndtkpCw8ppb8ivop8jmRfKXjaQvYU7NJ6_E41fQe21qroU7_XXpfbc8PQfXvVXsd07xdGMMUO7G7rKOCLu04ltsdmNFrAMF7FQAGN-4hyk1r-zQK7SrsBLcD6l2eeHdZBF76ggqxVfs20QUrSqMlEZAZp58s17sjoyvYoJBH0uD_nG6mC5T1W5SoJM25DNmU_GAXDcuLV0OJI5aJSg16-0rAcBDWdcU-gSVFSFpkeY4ZKbNAk7OUz0pGkMS_BT5Jqg75vh0b_TCrUpaVd1DlonTZa1Tnbi6nyUwAjylLSYY1CqoDcxIXU4jYeTcStrRvEa6xFTFy4PputLo3B7w2vSvhdpUvl18Mopdm66Ux4ntNRdmrYLcauErK_yCxYuEnPpfhR33H8eM0SoL792n",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104432633137348347667\">Pix El</a>"
+        ],
+        "photo_reference": "ATCDNfW4sKvHDVJYdEYcErRob_-T4mt_KVT4_gsxmaqwGNeagzgQQmQ6Y--lKAH1HAs_X1RrY0rzBbHJWc2GuEnV_pC_k7VE6fTli8ynZGOkJQ50Mg3-l1gIquGCQVTN8mgdqvmn_yvg16UKgWPtKtvWEDQeiI5_Coa8g7jqbQbLGgYYghTNy_on1NJHcCk5HVz_JdtaUIft5-5JYehacF0n_SHNchZasbP8QoPzBjlsj8SKJIPEtv80M8Gs7zshuJcNrwXrdaJnj1dJrj95mSkb6gqW-0U1Gf8DB7Wuc7XzNQQz4cwQ4PkpWc7DlpxrZdZWCyc8Gded-NqvXqwgGBPEhgCIPSUIdTgJ5uimI25gP37MoVBQg82LsyIkr61zPTuVOQgW4GA46G0oJSXj7yJKRcC5G_PoZ4-j7DczVhswSSzoZiw",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJQw3Yntk3yUwRPkFRef1AyfA",
+    "plus_code": {
+      "compound_code": "9XVF+7J Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XVF+7J"
+    },
+    "rating": 3.8,
+    "reference": "ChIJQw3Yntk3yUwRPkFRef1AyfA",
+    "reviews": [
+      {
+        "author_name": "Pix El",
+        "author_url": "https://www.google.com/maps/contrib/104432633137348347667/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6RtlJxBTXxnzS2sf1PUMPxjBfWLKbgPCFH4qhYbv7JqfIapa5=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Conveniently located and easily accessible for young people exploring career options. Ample and convenient parking. An optimized site that many school service centres should emulate.",
+        "time": 1714660001,
+        "translated": true
+      },
+      {
+        "author_name": "Brianca Kouam",
+        "author_url": "https://www.google.com/maps/contrib/111694821440611844015/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXQE_xVMS7pDGRhSn2wpeCvgMb6s48VIYxpghXtbAMwJ-0cS7m=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Thank you for everything. I got a great job right out of school, and I'm very fulfilled.\nThank you again ❤️",
+        "time": 1745322922,
+        "translated": true
+      },
+      {
+        "author_name": "Emy rosa",
+        "author_url": "https://www.google.com/maps/contrib/105454731941331873746/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPt17ekHlQ1jPtgE8_GEqRutpBtPxctpMP2AZ01Mk3hBIY4qJv=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "I took the water process engineering course at this training center and I don't think it deserves even one star. There are some professors who show favoritism, and you can feel the racism just because you don't come from the same country... As for the lab technicians, there's ONE female lab technician who intimidates the students a lot, but nobody dares to speak up or say a word. I hope the administration reads my message and takes action for the sake of future students... In short, a bad experience.",
+        "time": 1577056090,
+        "translated": true
+      },
+      {
+        "author_name": "Stéphane Ménard",
+        "author_url": "https://www.google.com/maps/contrib/114160803378470784109/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkNPgVCU6WKRy4Wh_QXJrb-TTQI5bzpWAODH1djWayA0nzjuU-ug=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I earn a very good living thanks to my time at this school.",
+        "time": 1709827526,
+        "translated": true
+      },
+      {
+        "author_name": "Mathieu Tech Moto",
+        "author_url": "https://www.google.com/maps/contrib/105197271673471459030/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWruZeHqtVSuykIvogYq7JL6Ha55o_Mm8GxsKqHh5rDmK6R5-fp=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "7 years ago",
+        "text": "some selective teachers for heavy vehicle exams, so basically if the teacher likes you you pass and vice versa",
+        "time": 1539050090,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17350470496827818302",
+    "user_ratings_total": 38,
+    "utc_offset": -300,
+    "vicinity": "400 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://csstl.gouv.qc.ca/paul-gerin-lajoie/",
+    "wheelchair_accessible_entrance": true
+  }
+}

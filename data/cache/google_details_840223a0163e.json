@@ -1,0 +1,107 @@
+{
+  "query": "Centredeservicesambulatoiresdevaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339497.1853538,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3031",
+        "short_name": "3031",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3031 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3031 Bd de la Gare, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.39424169999999,
+        "lng": -74.0539194
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3955948302915,
+          "lng": -74.05268746970849
+        },
+        "southwest": {
+          "lat": 45.3928968697085,
+          "lng": -74.0553854302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Centredeservicesambulatoiresdevaudreuil-Dorion",
+    "place_id": "ChIJzcHrXgA3yUwRF6JBP2zfImc",
+    "plus_code": {
+      "compound_code": "9WVW+MC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WVW+MC"
+    },
+    "reference": "ChIJzcHrXgA3yUwRF6JBP2zfImc",
+    "types": [
+      "establishment",
+      "health",
+      "hospital",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7431747991125467671",
+    "utc_offset": -300,
+    "vicinity": "3031 Bd de la Gare, Vaudreuil-Dorion"
+  }
+}

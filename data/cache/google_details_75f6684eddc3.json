@@ -1,0 +1,390 @@
+{
+  "query": "Joe Mecanique Enrg, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338785.5255654,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "20",
+        "short_name": "20",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Besner",
+        "short_name": "Av. Besner",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2W7",
+        "short_name": "J7V 2W7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">20 Av. Besner</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2W7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "20 Av. Besner, Vaudreuil-Dorion, QC J7V 2W7, Canada",
+    "formatted_phone_number": "(450) 424-6148",
+    "geometry": {
+      "location": {
+        "lat": 45.3816831,
+        "lng": -74.0164624
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3830941802915,
+          "lng": -74.01498306970849
+        },
+        "southwest": {
+          "lat": 45.3803962197085,
+          "lng": -74.0176810302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-6148",
+    "name": "Joe Mecanique Enrg",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115597226236876942231\">Audrey Cyr</a>"
+        ],
+        "photo_reference": "ATCDNfXdHC8PgqsrGC4I-UcbkNrI7DPrDn3FIKJnmcxRO7h_8MjmyZRu6Cr4Y1I75px4EusJ1Q34a6veDv4775Xi6bRRiE9wHfxY5PDhxv3M78R_fsCpX5DBsAE8HdVDm6nXGrcqvtdoEbxSYpMSiwd_uDv91ANZS2wPYXycMcZJS34IQt205mp1Rl7Jb6IbGZSGc5SRWKtMSJSL4ldFY9u31VU8XjPwjGlOYCIr1zKUBwUoXQPP_7bNkejZGgpLWNNesWzuv-qZSP2vYWYDkFLP--IhU60SZrvxrMvdOC8XIRiZs7KdFGO_26HiWRsCcncoF5RuZD9-d_ECYzhet_yafsCSqp_lQtfYJle8Uh04-MUhF_arN2Pa-N68u1-i_lAEsQqB_Tpdem1jXnJzmSVESs5WRKhql0c4gXPDk6zZuUU1-5_u",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115597226236876942231\">Audrey Cyr</a>"
+        ],
+        "photo_reference": "ATCDNfUIeJYcCINvByuulKujo3b8YFrkrch4Y319h8-FKhWYE0t5lyfsI37_FGSvPm8hPBOyU9ThrdeNi-CW-96hZouBXPL-fNd4jHurO1xiIzHRfGg541ldlnhOMEF99OoRRPzEr59RP35M3QB-oa8JYRKwKmkLd0lBO5JklA5MxXmXbd9mutaQQt5_ZU5x1JHU-c--atlWA5jFiLLiGFY_bqmjPc3BKaXUUDaN6pI6tZ_-ivY7JegJDw3yFSrQ3mFt-4fy6Dgr0n8k6A5hd1-Eu8J1UdPTKZEip_or5sBnce-Ug7NsNy9-wf1gnhsncq57NBeUzm_-0oDIU01nReIhqVVs5EoiqkrtjuVjaLwbHovkgypifgK5o2cUdHjjab_mMLvhH73WI9W7cGsj7f1FMXcnunfndLZy1hRSd_LolgHnxniC",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110302005395268851202\">Alex Bourgeois</a>"
+        ],
+        "photo_reference": "ATCDNfXTj59tIU8GiGSzSSXJW00hTvTAmHxgFmbvFMla5OBHWhFRR8ouoQshfqCYIXWSRlOWm9xnEwFE-BqnuPDFjaCSNs4g7tJWT3ktDdtECI9e8NQ3MZBDHtAXqm3mKciKWrYTjEVdkgxnyNCQxsCoggURGaRY_dw9FQQwUcf_gDa_kXUh7QsYYa-YBQpRuq8fdMQNjXaL8a0pSP0CYbfwHdK9aP5i_rOb0xabZ0-0ogLdefLTEzW3ZuKh-sfaQVtR8skF5CV1E7R-7LIWWKAzC7pecKHZcrVspHXdAqYmPj0k8qjLmT2kc_-fM_ycFF9Kbw4cFmRpExVV-NhkkNWLlHtJTJWZy0SnCpZpnCwiLxGj11fR0F4dlYiBcywBUxw5YYMXHDsVaf1763DuCTGxTTIBuTCQEYPNZfMKmj5dMgUgM0MizRNAX8Itu6jKhvB1",
+        "width": 4080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115597226236876942231\">Audrey Cyr</a>"
+        ],
+        "photo_reference": "ATCDNfUbXtElUtU6U2E2cjScmAKgMW02pGO3KNMv5KpFW8g8zLUu8Ukys5bZJepWlT7tGNx0bxB9LXifdgjP877C6h51B7k_o2vGCRrh7Nn7fz9ejJXDXiSjUWCjqwPArtuwp-rMPDwboM0ry2p4dGRTndXQGQGdVa6_n1qnKvRFeDOuFJElB-T8U5QhsEAvTiC42LwYghqh7s5SgXCMXEBVgrIbiIPKkhS_EXWsqGd7uke-7PExQ7Oe6HlpW93rT8BwxD5JwPXCGvoAGSd3b8PaoS4-QDhuhmLR3QqbdjiZMjXeozEmx34-I7wwvJ0FvJTnglfFJ1gFozGap7KW6FrYR3G6DnjJD_gwznxaO7YdU2fiDMViPfFa_MHg196XTP1iTPgcSzFi0r7LWmC3r-i-QIejBSmWmeLrsaMqeLlS_1xIlgpc",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115597226236876942231\">Audrey Cyr</a>"
+        ],
+        "photo_reference": "ATCDNfXq_ACgvGRBt0CJOPCiZ5tpRgWLUfc8lcJiU5ei0BAd2nCUMgCoUcjIXGBKlYnDVUy-OIgWprI7rgz7Y47wD5kGOpUffc4HmblQfejzDp-j3P0lK1kZk1X0D98-eHhvClG2IEgtZlxNEnIqB7vUtz8i4tYVPuJKksaTpTPvPCiu1UAQvPD-PbJQEMgUGNcxX6sh9H2DvazDGnTroMTUKe_UkAxAkTDa0haRksdeZIB7hDWUmAwxAbgRqQ7ul05vDmANCagn-GY0lpZoTFpANd6uxSajEw6t0jA13Wg_3qQIsOC8nHulfBidP6QXpSksdEKJ0WpkgozvXC7L4iHg56pKwuTeUh31g1GHLNUKuyHO8vTiwclsUg6WsJk8B08zD1MN5m2Cy3975dwqj-M6qgQVzbqUm00O0erYZckCZUXPqg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115597226236876942231\">Audrey Cyr</a>"
+        ],
+        "photo_reference": "ATCDNfUB2cVrgItkexofkcjY-Ye3vXtnGBsxFVaiMVxyf7lLtbDSD0PNcB-VdT_F94UME4_BARnTEOr7KY3r_wagSSEOiBmoxBhaEFiyN6rMl-pE49sYSf61MVh7xe8sG2_K7RYt20LGiRFWiOewyVJ8vuFW5570bwFWtg5LpyiPHlwsF484QxQlwZ9G-RiId5LtyOlQiIhS6J1D5H0kfAdpLRI7LJz_Hjn9dtDkj07ZFNG0RtS6DJDT3UwIOcykYxPVl0yFyrU_Zlx8mmCXBuEdKtop5swACAlzKjmP--4G4C76NfydRjJcauL_I7pjwqjf-6iCQQCqn5Ns9CzVaMgCwIEX7vNe25Oqppx67qgxYbgao3rCa9qj9xTCexZMjeU4BUQ9NpQMF2mCoinRDFypXhRs4h5-OsvYsK7aXRFj2ERTC9Gw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJSax9WxlIyUwR8ahoDExL7ac",
+    "plus_code": {
+      "compound_code": "9XJM+MC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJM+MC"
+    },
+    "rating": 4.4,
+    "reference": "ChIJSax9WxlIyUwR8ahoDExL7ac",
+    "reviews": [
+      {
+        "author_name": "MaríaM Sardi",
+        "author_url": "https://www.google.com/maps/contrib/101241315405710268546/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5f8XnmtNDPHPlAR7WrOe9_O3mWpVd4oQbe2mACs8-66fyTMU=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "8 months ago",
+        "text": "We took our lawn mower for revision and repair 6 days ago and they still haven’t even looked at it. They knew we needed it soon because our grass is growing  too much and they never said they would take so long. When I called today, they just said they hadn’t looked at what’s wrong and that maybe for the beginning of next week. I am very disappointed.",
+        "time": 1748638365,
+        "translated": false
+      },
+      {
+        "author_name": "Naiem s.",
+        "author_url": "https://www.google.com/maps/contrib/106771154293455016726/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJniINt-KqMMcoLXufjrAlj3AROBBjn5IWJA18Opc1-1mTB_F8og=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "Communication was difficult. I described what I want to fix, but they fixed other problems instead. Overpriced for what you get. If you have an old engine requiring repairs, my advice is get a new one and save yourself the headaches.",
+        "time": 1681137027,
+        "translated": false
+      },
+      {
+        "author_name": "Joseph",
+        "author_url": "https://www.google.com/maps/contrib/114867909035295731536/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_IsVp-B6TsMtZfnG0nlNFjsmUPv03nYsBHZFI4cgeNJ8EWrc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "It’s a pure pleasure to deal with Joe, he has everything and if he doesn’t have it, he will find it.\nI could spend all day just looking around his shop.  I have seen lots of mom and pops shops, this shop is something else. Great job Joe keep it up.",
+        "time": 1610237964,
+        "translated": false
+      },
+      {
+        "author_name": "IIIBiCHOIII",
+        "author_url": "https://www.google.com/maps/contrib/103052627460621723297/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmvPeZrTdRRaGMSXcrkoyUZH91gHMPjyxO-EncrQ5S19liDd8K=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Joe mécanique\nI really like the service he's fast and good at his work. I enjoyed the call before.\nI recommend 1000000%\nThanks",
+        "time": 1727541826,
+        "translated": false
+      },
+      {
+        "author_name": "Daniel Nadeau",
+        "author_url": "https://www.google.com/maps/contrib/103178203340999228614/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtYUztpRrELFUnr3kffYaOMqg1v3dGtatqSRwZKMx6LWmIyCUa=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I give a 5 star review for service, I brought a snow blower in for repairs and not even 24 hrs. later it was ready.\nNice job and thank you.",
+        "time": 1614193468,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12100410563812174065",
+    "user_ratings_total": 54,
+    "utc_offset": -300,
+    "vicinity": "20 Av. Besner, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

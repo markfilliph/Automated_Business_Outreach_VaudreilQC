@@ -1,0 +1,437 @@
+{
+  "query": "PC-Teck, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340207.4824812,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "590",
+        "short_name": "590",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8H2",
+        "short_name": "J7V 8H2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">590 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8H2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ]
+    },
+    "formatted_address": "590 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 8H2, Canada",
+    "formatted_phone_number": "(450) 424-6205",
+    "geometry": {
+      "location": {
+        "lat": 45.4066086,
+        "lng": -74.03476289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40803638029149,
+          "lng": -74.03331396970849
+        },
+        "southwest": {
+          "lat": 45.4053384197085,
+          "lng": -74.0360119302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-6205",
+    "name": "PC-Teck",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfWI9jP4apB4nEaN0zBoA3-Ei24k2j3V4SGWeUirpE1GiB33W7XAaxleNAlir3Y0KMDFv2JRwEybQJ2KYnTCndmFc5Kw139UxoC7Y8KlnwkcBsTl70QrLtBqNAt3ZKq8dgfQaql1kvq693h-arUXhzFzTZh0OIpHRSj_Jb00ZXdWkQT0JPljscVif_R3EBQZGaMHHuLb0YwDgWMH2SW9dxo9IotdzDvFRIl2eKNcGitJoAgmRBbxYDmeCUNrXLIL2aO4MlJsJMtx6YJMj4DXwT8Pf7o6J-PNNPQJEDrUZsdHfcwN-mLpPvb6R2JZoRyNl6rJfBmoneB1-SFS_xR3qKjZW7ah2s00d6JgN7GxL9JYQjmgpmcig1FPpDgIaKKk1YBfwQRcj0A2nPVXfcXwZNO_zg1FLrhm_rb9jCu7fTo",
+        "width": 3120
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111016753337363905780\">geoffrey solignac</a>"
+        ],
+        "photo_reference": "ATCDNfU3R2aV0NjEMyDmO1J9PrLVcy57Jurr51H8LnGgqDMldsVmPrMxYgUmJuX-_7Lxu-hvGar8EJum1vNljALCb0wz1O9FbPxfDvZSWuk4hvxjnHXR_Gyfuz6X9SqNIw0eBzfH8pCUPNTJSp672yI4_JjjEskYKgviAjlo20gPGC0UaPO0B-oiNzUNzEGu2Qk7CkPg0mEdy84SX27tEyNIphq3n_oePSGV28LmszsdM1zv6z9-9M7gorm_eMdhyfKLmn-UHj5Bt_ELSM4AgTxLE-HPAJaApPGRIKBqvL2cs0HG2nwpb5xbitCOJnFGq52uxnZhQrdUGkOQPU_Lv1Tt7nuAoSydybQRCBZ-3C5qjqmZR6GHEHOdLH--u-BjBkX4KCt8w6WX-TIVj08WKUIxHjFoVG0p3r9KJCqRl4psPz1ZOc9_",
+        "width": 3600
+      },
+      {
+        "height": 405,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107466022717299416680\">Pc-teck</a>"
+        ],
+        "photo_reference": "ATCDNfWw_-T9hB-Dq3I4lKQKxhHPLLVZ3K1ONa7FDn8SdxXN4RAqbVRmZ-EedPL2PwSj1PHKkM_CjjUxFqnQbbvlxZiSIOrC0hGTt78ffhmNaHdnNW3MtB8a0-JYy3-iH_y-q3rDQnyd9mgqnekwtWgA1dTKIc9JQQEla806fdrlPnvOdhRfaq89odIB_UilwCwy4NgO48EcHU9YzQGd18txqDMQpiNzLxaFNgUhzwnRhNFs_tAQjerkH-JTNKDPXfdC5N_BEHFRhp4Hom1YKXmhtl2FyIQTovOrR2Rqum1vqNiyYQ",
+        "width": 720
+      },
+      {
+        "height": 405,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107466022717299416680\">Pc-teck</a>"
+        ],
+        "photo_reference": "ATCDNfXh4ooafnr16x-vYr9EaJMiJYo_ICwGKgg2XRoDFBhiPyPST3FGrLxD10sK3HFeG5VVUKwlvM4izZ1_uRvzxQAGFZXW6eUjNAYRqOA1opRzJMQS9ip6Py8srxhu1OxTgY-OjZY-w7DE9N19mVz4NdcgH4RBU1Fbda7X0We1hvlitwo8_pASeEQmoWlZWvORkg15eymwzSSIbtRehbg1WN7sG1z9ObZ9yrQ_S0iQs8K_wxLbk7S3LbKEllPd8ahmLZrKDdzUc0FOONXSwdRwZCsPOOYM_i0Lh2eByIFLBn2UpA",
+        "width": 720
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111016753337363905780\">geoffrey solignac</a>"
+        ],
+        "photo_reference": "ATCDNfVkCQWkuxcLnUINy5cnfdnUErz0G29C1S_fyol7j8lCdF-j4XsBIdrTrgZw4fuZX8UgWDBmiiYwAr7ISDUpLPqGVkJS_qD01Nyj9RldyDtYVkK9pxoVT0GtDSVygzJjmxun1iMUK6RICJkJWRfZmjX2sRkbEqmTxj28nALwHoDbM93qLF7sjzySztTSB62y1qb-2IP6exDOQqrTySuwLz5U7BFUkexejbaQXkCVoAXnwmVZ_AEKZPVjFG60x8vhFsmv9iyQl0YcYxoN7a_FEzTwv3-wPzfXbrC2fr0PrRAGr3D_UKhkNFUSyHL6vcdZ07uzfSy_KR3dX953f6HCcOuSn6Gb4Ot6cpBTl2C6pDNfHYg4npyatUFWMav6LIDke_muT0VtZG3ovSi-gYPnbqbMxLzyPSmr57Tc7wKnzySS_is",
+        "width": 3600
+      },
+      {
+        "height": 405,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107466022717299416680\">Pc-teck</a>"
+        ],
+        "photo_reference": "ATCDNfX_Mr6jy2_yIPPVyPaYBOR428Ef7xgSrDM2LCQfGaViYgk9cc5rx4HXeY6bT6js-oBZSZfPyOf4ZKY6OFLQbvAEFJXuZq8j4tpFfpsptjHtHwzeNXwJlR9lVJsN7zgL-NzcNbYZTMGzoNfXQIfvTGspOmyxhWHujdBSrfP_NeuOgxPIA8_e4IJCYQdlwAR2hfstDapBOMVPuDzcT6a-ElSmvaXhQwwLS2grvd_hFF1Onbqjw_tCOU83k8ZAcINtNF5u-s3KoZidGyw5471kkBKnzdr2rG7WvhvHbIRpT5GqCA",
+        "width": 720
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110969400668846238771\">patrick pilon</a>"
+        ],
+        "photo_reference": "ATCDNfXp5BRbuMmUcWraUHOMiW9m-V1wglQY81q_hJ-iqfcF71Q6kVwbkqZxzhpji-_Dw2ikg3Pqe4yXmNJ_MMNLv_6atfcWUQ8x8FBb8sd6p3AWW0sUEGhyIaLD926_MqNGZMw37k0xFTMwI2AO4LwJwPRY_F0TX96-YGsLieDzyzIICv5xicW9J8QzW-3gL2GpmMq1Yt86kr5uPFuYJGq8IaFA9mReQG3aEMOLRyJlpfnJ3KPEoIGCpBuN0JG0wfmxQtANJHXTE_mhkPnwrFLEYLhB-F6uqfkxlEonpMw_sPKOvQVXXzjpFoylHKop374pqK3si10be9MNS5NnK9C-_qtH-TrTtENW-aUY-oV6CKwQZY9eWLsJj9SGPKZCbE3peLq4zTQ6oYApC2rHPIpUPxQ9VWL4FYa0nhPHveRerD4EX2Xa",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111016753337363905780\">geoffrey solignac</a>"
+        ],
+        "photo_reference": "ATCDNfWETrv19utUgtH3CXJLjTq0AN-uWljZXTKqAiDZnRIv9VjezCdB8Tr3L3u0yLkhIsRdYqFfPexzot6XbR_RGxQT0_DRnVANqoqnrdo7fLhG9Bv8GAWhpNi00V0tqyNiXd2b_kFJQ7aRRcgCkWcPnHKeeIx2THteyYNkPN_JE8ThEvM6fNJdO2KB5OMcmS_Q1KjEvWy9RfV37g6HC12ORVn-33jqxNGancVtJ6YBY0Hq_NvX8LcpNeuvPae3W8TIjY-aNUn4rpzMHw5sTAaWN_wGxK8Jo72ZD5C1qcJhOVjXw5dXHdqYLQ6_ndXk6CFh9qCMc9lq6FnEl3q8cD_IwoICSDgzFayiMtfpCRLu0UuGjc-44qk8Zu5xT0v6nBeA7mK5BCNih8iwgcgCE6drqIN0L1i5B0yMVy8lgPRJNz5Egw",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111016753337363905780\">geoffrey solignac</a>"
+        ],
+        "photo_reference": "ATCDNfVh7M6AC_MpRiZUC2cTtTEtQZzuxjw-tAZPBlIswTGp-NurIz5uIKGaPUL5HmBqQeoUa0wZXNqnWcN9-hfcJl5IKP9_b9HwKUrtUqjrIDQBiqoHBmO9bs3xe4yfxJHT3dGMKiK9QWMW8hXtTmrh70sLUgvAsG-7Irfx6eRR5bt6Glq1NX8KjuhGO4wpACYKaGSbjUkQRcSr5aVq1Z00AWNvUu4Zqr6Y0k--7fymIz9c3h0X6kGNwx9aTQNZKRSaNaTwfHOIy1f4U7Hjk9m3zvOZGP1XLn80khm2p4IxArK40Xobi9kg7L4bDQ8XTQ1vYacaLkSdHBwo-39YI8VUTF8q-wm066xiHtgzvJLe2DVHuZl5EUG_1wv3kzzf5lmyoec9H_z7C9f0UmEHJVbM5gvIavmTDDLSM9cR9k9cJH-_wxU0",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111016753337363905780\">geoffrey solignac</a>"
+        ],
+        "photo_reference": "ATCDNfWoHMYK4DnzEFtBDH0GcXXzNCDtKqGUlQNqDIt006GgYovteSpk-hyINd0OhMweAnv28XFVutKOuSZR1Dr6T-iRFqrkTgxxzipLKe-rNOQbMwRr3nMhBCZxtvwkGnjmC8c3wXFmjXJBuYXTnNbX9TXUePCpN9T32FvQwFQi4U1zWvRGSRK_7_kPABiKdY2opMHUzSnSFNQILz4PpoXx6S2GETlxaYO_4ITT8tErSqTaqGl7zKdn7kzzqzk-LbycjUYJDFZ9yMoPj5-XITXdkWY_K3VUbQ2XewaJU8TDF3dbMrVj303qh5h8XzvhgUoYypucmk2AltdSXSWZ5ujf71m_a2k1x-ZHzlaOI0Djj1ab6jtSCJI7rAehKkofEIhBl5msB57ST68f7IVyfpX4HY7Amvll6nhDnXuS6ZLOi1Y",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJDzFCKss3yUwRXlqo8Pvhfyg",
+    "plus_code": {
+      "compound_code": "CX48+J3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX48+J3"
+    },
+    "rating": 4.4,
+    "reference": "ChIJDzFCKss3yUwRXlqo8Pvhfyg",
+    "reviews": [
+      {
+        "author_name": "Stephanie A",
+        "author_url": "https://www.google.com/maps/contrib/107802876705510083260/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuVKV1iqJgSPYThGnNlb-sxhxUsV9AAWNy_d8jLaK9_3XVhm0e1w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Not very happy with this place. My hinge on my laptop got cracked. I spoke with someone and told them I would of waited for the piece, rather than using epoxy as they suggested first. They called me the next day or 2 telling me it was ready. When I got there the bill was 140 and it was glued, and they didn't't even replace the stripped screw that they stripped. 🙄 I refused to pay 140 as the person i spoke to told me the part would be 80 pls the work. Not 140 for a cheap epoxy glue job. They then charged me 45 plus tax and it's not even done right. The young man told me someone would call me to do the correct work ; no was ever called , not even to apologize.",
+        "time": 1762130978,
+        "translated": false
+      },
+      {
+        "author_name": "bilal kaci",
+        "author_url": "https://www.google.com/maps/contrib/113991317753483887040/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO1AB5pMBdoJQcBnaS5c2e2PnKud2Tizrgf7iDnx-hb4k8=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Took my computer in to have a new cmos battery installed. they install it and tell me the windows is now corrupted, guess what?: more money to figure out what's wrong.  i told them id deal with it myself, turns out they accidently unseated my hard drive...\n100$ for a 15$ dollar part and theyre trying to get me to pay more for something that obviously happened at the shop..\neither theyre dumb or theyre a scam, you decide\nsorry 1 star",
+        "time": 1761499614,
+        "translated": false
+      },
+      {
+        "author_name": "Keith Champoux",
+        "author_url": "https://www.google.com/maps/contrib/117629212967803295954/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVRJz6r_nqPeCljnjhIwZUvyDJPw3-5Z4sjA4Cuyy_VDYG2A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "My laptop screen was coming out of the chassis, and I needed a repair. The people working at PC-Teck were very friendly and professional. They gave me a reasonable quote for the repair (other places wanted to charge me more than x2 the price) and were transparent with me for what repair I needed. PC-Teck actually cares about the customer and doesn't overcharge, which is rare to find these days. I would recommend going to them if you need your computer fixed.",
+        "time": 1729436383,
+        "translated": false
+      },
+      {
+        "author_name": "Gordon MacKinnon",
+        "author_url": "https://www.google.com/maps/contrib/110960195842203310651/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4MBJnZkCzLVP_9_qnlJ8Adw2t0BtMUHguZjCLxVHhfJbOQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "A hacker representing themselves as Microsoft blocked my laptop. I went to PC Teck on a referral from a friend. They did a quick fix and did not charge me. I would have gladly paid for the service. PC Teck will be front of mind next time I need something.",
+        "time": 1727917705,
+        "translated": false
+      },
+      {
+        "author_name": "R. Vass",
+        "author_url": "https://www.google.com/maps/contrib/116903387236740783750/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVQaNoL39YW82bAJP9NmgaTLy_eZQtwj5S5GgOO1ctMVfQhitq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Very quick turnaround for my pc repair",
+        "time": 1757341242,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2918299555749976670",
+    "user_ratings_total": 171,
+    "utc_offset": -300,
+    "vicinity": "590 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://www.pc-teck.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

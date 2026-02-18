@@ -1,0 +1,321 @@
+{
+  "query": "Comquat, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339423.5869207,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "apt. 132A",
+        "short_name": "apt. 132A",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "25",
+        "short_name": "25",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7X4",
+        "short_name": "J7V 7X4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">25 Bd Don-Quichotte apt. 132A</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7X4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 4:30 PM",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "25 Bd Don-Quichotte apt. 132A, L'Île-Perrot, QC J7V 7X4, Canada",
+    "formatted_phone_number": "(514) 453-3632",
+    "geometry": {
+      "location": {
+        "lat": 45.3910344,
+        "lng": -73.9647293
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3921937802915,
+          "lng": -73.96325711970849
+        },
+        "southwest": {
+          "lat": 45.3894958197085,
+          "lng": -73.96595508029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "international_phone_number": "+1 514-453-3632",
+    "name": "Comquat",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 4:30 PM",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113190116956045230913\">Angela Carolina Castellanos Bello</a>"
+        ],
+        "photo_reference": "ATCDNfW_9bcXLvIwFLFPcKKqXofHyuIe1Rh1S2MvX1RJSlGXyw_tgIaykaIJzonJLSFGuqy7OkE1WsYLh1sf14HXyAopBheoINlPgVRCN7TZnTFyMprNg6MLh3RBQ3DtwkhdIsYwLnPzWSDFxamqa1IUc2l8ZKHMCw-p94H5ujLA9wEl1tP-f9IeWPy5rRwWY_Il4x1E0aUd5UKJxHajItTRnBY50J7i0aI2_GuF5MrtXGG9l8smCcMTArwtYOB_d32HaC1wE5xExcCAUFDcbNb8g14hUepXdHjxu_ZDYLg4N-p7ytKnrbJe5HVOGtxF0giwaNAtFOlDqgP-ttQXliNFTYBagubmdLwzOURooYPWTeQ1ka0SWfKSTaec2tpyetkMrkDd8opLgSVy1jCU6pfa-KPM-KpC6ZYjzYapB3f5PLP_pcg5aQ3W79-1aL6xaJuh",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113190116956045230913\">Angela Carolina Castellanos Bello</a>"
+        ],
+        "photo_reference": "ATCDNfXBk92f3PnmUUFh04PqsuN3AvZZYTXNvrmUl2_bUpyzuTRDC0DQhmlW0exyGm97pirBTSXOOegN3TdXmXZizjr3Gj-ZiilVn4vXWkreKC849DGu8m5DNRTmIQd5TIX62XYWfsAowmndG6Ijyc6uEg4lmFmWh2qqc2eHX-O9RAbbD7NhCsKPPLBfpVRtsSGET-O29CctnnJl5wHPUY29wGQeRovbAwX4ceoJKRPaCnrJfxAhB9ac35UIZwccZbwXurhIlJvzaOQJ08GiadMKj9ePIwAdd7XFV25TVCY4uDagPjyzXV6-vvviV5emp3R5Ee0X1f1zrm3jMq5vAI6FJXSsoBEd9wDme835m1KKkHoum4aU_Zgj8k7hw6m8kxYY6DHsmzB8ToTo_3HXHoOP6hGWJoMKpmw8EDTVHwHNMZNAZf0DxjWDhihxHB-N_HCx",
+        "width": 4032
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113190116956045230913\">Angela Carolina Castellanos Bello</a>"
+        ],
+        "photo_reference": "ATCDNfWd1pEVDuTeNxCdQP-_pRt_BXPwXMUS8ho-gGs5NjP9-sb6--vh12ew6bgeoHQFDT4mjpNVCRkUV39b0uw-anfVFVoH_FWfOnJ3MInLPdKrroanEnzJmyl2acCwRpgvPvkvV1vgENM1qD5C_HJgoCSzDS5iq0GSlWHSxDj3NnUM3PbY1wNVtjyrKXL-1NPBsqD1W1sUbRJs9adEXx_PIzEdvVzXEUM_riwaMUYJb41euk_gpoW1nKP9slgmrAnDmdrRZ1IxSEoUECbZJ3xAii-2_p4yox2pXMC40nN4KJDIUwHgP7KwofT6bvQ-pFHr0gHEY4vgt1bL3h3wZxLj-fGs55tbRr7cTqd7Y0ze3D7OuHHokiCuV-IXLgEq3etHWo3K62GTVegRhvC99cYDRZik08rMxWoigI45pwZfdNJjKRSMUxb34Nj7VyuGWNQJ",
+        "width": 1280
+      },
+      {
+        "height": 332,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113190116956045230913\">Angela Carolina Castellanos Bello</a>"
+        ],
+        "photo_reference": "ATCDNfWpFl_bmipcA-kD6P2dRI4hHUpTPsfRLeBIKFZeAFlwAHQLnFnjd_ARu5TWlQ5gws2Sd5048yFRnx1xNcOFMDKfIwrAdS_ljJ8MD-Mb_-If71UXFdli4aamRduG-eejulFr_6J-5VP87W4N_jVBCzp0Ml5TE7lXScKHsXMp3b_OW9MlqDcXOwM0ILPbCNFPVyRqu8UHXjnDmrVpqVZOVBstA6HLuawfsMgoD2fry4kyNAtujQ6ZgbeOOKoqoFOU9lYdOb9_RBzK72ZNQsSH70jMZ8FuurktQftDTmKu1fET00oQm_pG-rPeVqRV2FnIAbir5I0AlfueH-K6T8bdGyifVGn3ilSxfaUl98fgCZKz2FsPOrdEMzCzb9LsY02IaZXCKz4aUqj1xA-CAsK2rwG8sfrsC_gxpFIQfazZjbTKVBIyVr--o0w_S-tdlD2F",
+        "width": 310
+      }
+    ],
+    "place_id": "ChIJ_YMev2o4yUwRBJg0V4nSS2w",
+    "plus_code": {
+      "compound_code": "92RP+C4 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RP+C4"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ_YMev2o4yUwRBJg0V4nSS2w",
+    "reviews": [
+      {
+        "author_name": "Maria Jose Heredia",
+        "author_url": "https://www.google.com/maps/contrib/116750892865770047765/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtrKcd0zj6mQ_vcw62LdWXbQAg0DpLXI8kBclTn02GCS7mAPng=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I moved to Quebec about 15 years ago. I completed the francisation soon after arriving. After that I went to university in English. All the jobs I got after university were in English so I lost my French little by little. I always felt like not knowing French well enough was a huge limitation. I didn't feel like I was 100% part of the community and my job options were restricted.\n\nA few months ago I decided to finally take charge of this and started attending this wonderful school. In a matter of a few months and after working very hard,  I found myself writing and speaking way better than I ever did.\n\nMy teacher Nathalie Labonte is the best teacher I've ever had. She is funny, kind, dedicated and I can tell how much she cares for her students. She has no idea about what kind of impact she has had in my life.\n\nIf you want to improve your French and are ready and willing to put in the work, go ahead! It is never too late.",
+        "time": 1691079747,
+        "translated": false
+      },
+      {
+        "author_name": "Sadaan Time",
+        "author_url": "https://www.google.com/maps/contrib/110481183973997909039/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTq0slq0XccK2q47MUN5_qLOF5jpDFqlT0d_LiFoR6aubLvgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "",
+        "time": 1740415962,
+        "translated": false
+      },
+      {
+        "author_name": "Karina Gryseels",
+        "author_url": "https://www.google.com/maps/contrib/111937673031778452188/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgxIPOZE9Tf8jS2FYE4zfzYTVjEqpxVPspQXyMPOS_XlpjfnM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1738117741,
+        "translated": false
+      },
+      {
+        "author_name": "Juan ortiz",
+        "author_url": "https://www.google.com/maps/contrib/108225711922064580599/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOGC9RcFsHTVEtt-x4lhXK-Lfo0ZlOTwhLHO1GhZ6RKhCxQQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1708660745,
+        "translated": false
+      },
+      {
+        "author_name": "reality check",
+        "author_url": "https://www.google.com/maps/contrib/110273238408291995260/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBURFgFFMKIFoPKTAk0GPpHLTZ7RpEa6g96Kwcf6fx7nE4XA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1705435569,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7803562266664933380",
+    "user_ratings_total": 7,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 25 Bd Don-Quichotte apt. 132A, L'Île-Perrot",
+    "website": "http://www.comquat.ca/"
+  }
+}

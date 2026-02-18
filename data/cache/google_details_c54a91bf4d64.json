@@ -1,0 +1,385 @@
+{
+  "query": "LaFak, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340007.796503,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "468",
+        "short_name": "468",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N5",
+        "short_name": "J7V 2N5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">468 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "468 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N5, Canada",
+    "formatted_phone_number": "(450) 455-8898",
+    "geometry": {
+      "location": {
+        "lat": 45.4024923,
+        "lng": -74.03036150000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40387578029149,
+          "lng": -74.0289444197085
+        },
+        "southwest": {
+          "lat": 45.4011778197085,
+          "lng": -74.03164238029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-8898",
+    "name": "LaFak",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 541,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfWwEnbwTwpbWAgSCtVFemKLxzq6rcx1QtOsxeejG3UDtAc-Z8hSbmKWeObxc8CncL8OYHZspkp4P807-i561BRe47zzw4G9epXxsAGi4iGThguCqcVlnu9QBi46mBeONrQKSjNSuht785tvpWV6KpybvcqbUB1tQhB5LbRPAxeLxENguZDfRhiTeR_YuU4hpm3wakNUynnmprlSUxypCbwjFL7U-FInV_OrSQm7JSWI4NTeZPRGiJITCZFTsmLc7s_VQtxu1A33gNJT6oSjCWAyrFA7MLz705JdOyPUvosEtA",
+        "width": 960
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfUaCt_-Anq1kBjGI2ruQu9Rulo-jcBr5gHzl2hnRlAqfPPKFuA6NsMa2RH1Qb5qRHXWtMRHA3gZhqjHdrGGno8-nSCTyUDEPuB-PNwdvTNVL_rP53PEez1EXogrT-asqelaC9OrnGqRZ9Tzf0EZl3078de5XlqBa9Bxt3qejZPbkSbySWNp_4glxkXIP2at9MWcKdWRMavcaYeDA1YBNyxCz_JCnOTHIdbVQjRqfbsb2_yBFvpM-9gZQGC_6PYF0vJKB9o25dQy2IMQ_1PQQpweEYyUccLLy6zn-9X-CVgWmg",
+        "width": 4032
+      },
+      {
+        "height": 1890,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfVQx0SdU3wGIn51z_JbAL43t_wsShrNbQxH_Uy1e39Ts9P03-aM7IulweaEoOjaV4JBkxjbK38f1yY_t5Q65_Qe4as7r_JKGiNdgYIMg4l8vcvt_sWkEgw64sx_v1rbsbN1wIC5z-Akrm6g3XYLnLrR8btQb8kbU1soIzolR3sL-NB3P-UP_Si9yjzoCJ9k7W8At522Y-holtY0ajjaaFx1dQ6g3CKorBWPQi0fjUlqbVgW2CV28AD7JZ0s5rD2VPezwG9V4zWyB3f9jyGi7HX73vB7mGy_yKrPvp8oX6vrVA",
+        "width": 1890
+      },
+      {
+        "height": 312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfWrNjHaj6zOirzlaDLwDLV1e11ZNis7QQHQfLd-g6mj5TKs5zEGmwY23nWMTW_8qP2bCw9kHTBVuf5LP_moIM-SNiFm-yLpxnKmIkjmQYG9FVonzY3YSP_yLPew9YBqjh9egyKNlJ8Vl2vjWJdQivGlh2VMh2zWCpSj--OVgt4ePO9umNeSnxlFxfjhy1Btka32i0yF0WR_1B9xNqIrr75MxQ-wq018scq09eP1ncFS31qzXIwZ-YLtAUwt-HF1bFPI7UDmTGVrU5fCQi7jV2Sm1bSdNRt6heEdgxaENZ4K-g",
+        "width": 556
+      },
+      {
+        "height": 1116,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfX6vQt3Z2HCR272My9wSewFYbMGWflYrqytIEfHlp8VKSu1l-FYSR8AvaXlNCP1wPA0qXo4cu1C3LHTrEo79frKoE5gpjDvkktFnUlVro_8GgBVjHRVSx3idMdNWXxUQFsXuxgvvvWn-Divr1SrALFllWuHYS7BKT5UQ8_rbw-FZKt9F_-H33m2QyVcpHcMAfU6oRBWRBh0j7arWJboTZtCjGWGTbTPkWpLYZC-_oV3KPfLhM0_aIfBFZCRlq5BXNKvD3-LFSRyQ4N-jZwnE4tQmhj9a3nA4_3bDVsSHBZAeg",
+        "width": 2048
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfU4oQ_hvuaAEAXgFBHk59RWm6DlY_piGU7Y4zHhvD8j2tpz-V0HE2pHP-Y2jzvQ0LvlLusf4EA4ItcQduzegPYgj5xfJWv4PgEXVP6Q8UNVvm4ThG3wRwIMbTDfN1SCHvqQPN43ZFMRG5i54LUFyCn1OG0dS7xsmuVfkV6cZ2ubjKL1YcJUVV-rNAv0H6daHTBtvklKnCJ8efh-bCo7VXc4Xl8RO6TTJjrPsuhXNiTVxp73E1-g5Cq3m_ZLnedfPInsISBfKgVmPqQFZ_HUQxcDdYaWEJR0wnlCquRs9AKPLQ",
+        "width": 2016
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfXOXUHq-Zb_MEybXHYZisz5SE3ubdSa0nBXX4XSGj-1qw1PZx_-XeXf87B8k2DMwUuwnKaodwJYKxav3v9WG8J6DOEEsPbVJi6-oz4UijvKSzpQDmBmqAxdx5e24F8YeUBmgvZF_CJ5WgcHNipKEvKBV6JgayKfTui97EcYYwm3zRdw8o839Mca6Z-97bH1AmX_TLpGAwwsdItw5fsKmN0Ii86IdLUkVPoiVy32ORG4Uvlz399IZ7Ubxvh86DgFAtdKTaP7BhJKf4xHxmKj_mIZRgYZDOhWSQw6m4nkUOMSNA",
+        "width": 940
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfWP8f4HYSX2OJMuZRtcvub8ZQ2prO_r0K-5gxTPy0tzUdliwsbc_JfpOV50YazQ_GQ7_aQBKsgiW3cvr7uKZF0ZLS17wZtfzA69Daa7BiPytiprbtfQuFdCypSEhv8J1Xa589yaLNJ4HJJgy8y7xIeJc2Rv39FzL-qNs01TAv1dl7AtNynRLaYk-so6QiDD8acR5Pdz4NUDFUGza2Zd4QUglSWgxUPXbpzONkClev5L-DL_GNJdDHhS1hSbqwzn_L4e5BieZWGENNoA4N0MyAXBGT54Z4sHkaTkiGtD-RfVtw",
+        "width": 2016
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfVMbw9c0N83fHUoVEB51xhLiFaKkivaC-dSKn2NMLMjrUlEKEOFmiY51WZtq2EhqQbdnTh6fHss-kNcGhJIVC9A9IQak9Vb6T69fXFWGk_hc6QifTsrIhYPH9mP0b0D2q3rKMdsL3xM0ZDH38ByrCNqbKSmhzoyifVeAWkaAEoxyooT0PFKm3PlVlg9uf8PggBVcj4TRFc83fAyithALtcOdPieve3P8z124jOhKcAQCQSBhEqIsl5OpgXAfTeMOOQhi6xjTWdfJoYimW9qdNb7E9aNCUxia6JGypGJZWdTfg",
+        "width": 940
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116428856039880726672\">LaFak</a>"
+        ],
+        "photo_reference": "ATCDNfUHS8tiH-WiPs30hYK3vLtFQQX_0VyYqdwqLOB7XXNXEt7u31NhrExCWjeOioLPXozMyMJeJ4AtM7XW1sXzYxXa09rTCjP0ntvOJF_vUmO8iEFrAMi5qY0UkYhnt4zVSSBA9A6Ssp-8BBMxKzrBabxEFZzIqNFlQX-BS-pgrUm9_elfGInW2ZJnWkDVXSOGhawk971UlAjZ_pkFkUOfOmsZlQaRpUtHm65xPo_vHtNeeux9EffeasDHs1RmqsjThFeyaK8mtRRDphq3rvRWEFNe0LqGi4f0y9MxBWZv1_6IpQ",
+        "width": 940
+      }
+    ],
+    "place_id": "ChIJR2ihfUg3yUwRo_h7AqWu-uc",
+    "plus_code": {
+      "compound_code": "CX29+XV Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX29+XV"
+    },
+    "rating": 4.8,
+    "reference": "ChIJR2ihfUg3yUwRo_h7AqWu-uc",
+    "reviews": [
+      {
+        "author_name": "Jean-Raymond Stratford Desjardins",
+        "author_url": "https://www.google.com/maps/contrib/101855801734349698030/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt_okDzv9mnVv8jaE_A7iTPyvAbcxhvhwvmeYYyPTOoPvUqJSP=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Very modern offices with all amenities. It's impeccably clean and allows young companies that wouldn't need a full-time office to rent a perfect place to start.",
+        "time": 1594262122,
+        "translated": true
+      },
+      {
+        "author_name": "Reedie Clyke",
+        "author_url": "https://www.google.com/maps/contrib/103131896940967168201/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvGQlbQe5k9qE_Zct3dOTjY5fyHu7RLB2A_e7Se_q7bbjeq3L-=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1757454386,
+        "translated": false
+      },
+      {
+        "author_name": "Jonathan Anderson",
+        "author_url": "https://www.google.com/maps/contrib/109776850127771673698/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3NWQ5hnrZIMmTTO_IWpzqC2cn5D4Xj7vyDwgTbBun6xy8AYsz=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "",
+        "time": 1754190831,
+        "translated": false
+      },
+      {
+        "author_name": "Marc Lalonde",
+        "author_url": "https://www.google.com/maps/contrib/116606220300480545589/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWQy3ioVRc8OHafZeEP1-rC0o52kY9S0imaFfVO2D1nI3Wvw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "",
+        "time": 1743809984,
+        "translated": false
+      },
+      {
+        "author_name": "Patrick Labelle",
+        "author_url": "https://www.google.com/maps/contrib/116020897786146092110/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW12EWMAQTFxzy3ve4IUtb8Zts0RXiLfwX3Xe41Yt3G7K4Bd1Q_=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "",
+        "time": 1742668556,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16715864990673533091",
+    "user_ratings_total": 11,
+    "utc_offset": -300,
+    "vicinity": "468 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://lafak.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

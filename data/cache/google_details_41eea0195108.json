@@ -1,0 +1,311 @@
+{
+  "query": "Raylobec Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340072.9147205,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "325",
+        "short_name": "325",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Marie-Curie",
+        "short_name": "Rue Marie-Curie",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">325 Rue Marie-Curie</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 AM – 6:00 PM",
+        "Tuesday: 5:00 AM – 6:00 PM",
+        "Wednesday: 5:00 AM – 6:00 PM",
+        "Thursday: 5:00 AM – 6:00 PM",
+        "Friday: 5:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "325 Rue Marie-Curie, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 424-0060",
+    "geometry": {
+      "location": {
+        "lat": 45.4075389,
+        "lng": -74.05232649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4091003802915,
+          "lng": -74.0505395197085
+        },
+        "southwest": {
+          "lat": 45.4064024197085,
+          "lng": -74.0532374802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-0060",
+    "name": "Raylobec Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 AM – 6:00 PM",
+        "Tuesday: 5:00 AM – 6:00 PM",
+        "Wednesday: 5:00 AM – 6:00 PM",
+        "Thursday: 5:00 AM – 6:00 PM",
+        "Friday: 5:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJ4wBshzk2yUwRZFnzuXGG1fY",
+    "plus_code": {
+      "compound_code": "CW5X+23 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW5X+23"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ4wBshzk2yUwRZFnzuXGG1fY",
+    "reviews": [
+      {
+        "author_name": "da p",
+        "author_url": "https://www.google.com/maps/contrib/108942347518212912304/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1Fbt6GbJYLBK1wmFR8IgBtiDlrv7_DdRvLnk39meXSVcvoZM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "This you have anything to dump they take anything",
+        "time": 1525010750,
+        "translated": false
+      },
+      {
+        "author_name": "Gerald Frigon",
+        "author_url": "https://www.google.com/maps/contrib/109032833329120626699/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLec_t9QINYFoKc1i3fIvB1OK6DfYvmtL-jJ2nygAWy_3ABcw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "Nonp",
+        "time": 1577648116,
+        "translated": false
+      },
+      {
+        "author_name": "Gilles Messier",
+        "author_url": "https://www.google.com/maps/contrib/110062498951786619877/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWphuWQ_abl79OLZXtYZ6LbJgRrhght_nnbOzQH5_pnmKcx3y1RhA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "I dump my truck for recycling every day and the employees are very professional; it's a well-run place.",
+        "time": 1492994915,
+        "translated": true
+      },
+      {
+        "author_name": "Gerald Synnett",
+        "author_url": "https://www.google.com/maps/contrib/104607368433146017254/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsrxCm0euOMyUsfYGV2SUotEQZbfloSTJqfTQRu4xtzZ3LUw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Very nice and clean place for a transshipment center",
+        "time": 1631035259,
+        "translated": true
+      },
+      {
+        "author_name": "Sebastien Boulanger Sauvé",
+        "author_url": "https://www.google.com/maps/contrib/113522908151559079992/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDorQvo__rE2ROTxulzTaBJxS5lPqOb4FrYx_ZBXTKbZ2fNeOR=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "They finally accept credit cards!",
+        "time": 1522693624,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17786270126378801508",
+    "user_ratings_total": 9,
+    "utc_offset": -300,
+    "vicinity": "325 Rue Marie Curie, Vaudreuil-Dorion",
+    "website": "https://www.wasteconnectionscanada.com/raylobec",
+    "wheelchair_accessible_entrance": false
+  }
+}

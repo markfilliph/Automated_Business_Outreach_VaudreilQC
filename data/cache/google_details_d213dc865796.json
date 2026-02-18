@@ -1,0 +1,331 @@
+{
+  "query": "Bain et Douche Expert, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339746.716535,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2845",
+        "short_name": "2845",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Castonguay",
+        "short_name": "Rue Castonguay",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8V2",
+        "short_name": "J7V 8V2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2845 Rue Castonguay</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8V2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2845 Rue Castonguay, Vaudreuil-Dorion, QC J7V 8V2, Canada",
+    "formatted_phone_number": "(514) 865-2752",
+    "geometry": {
+      "location": {
+        "lat": 45.3969186,
+        "lng": -74.0336796
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3981752302915,
+          "lng": -74.0324301697085
+        },
+        "southwest": {
+          "lat": 45.3954772697085,
+          "lng": -74.03512813029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-865-2752",
+    "name": "Bain et Douche Expert",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfVngvcJ7nNjDvDTkkZXwU-Ul1PQPXbJ7OpIl-MQzJscuZ1LtUR7epEKhmE3l3uRCfGs__LE4DOVfZvLMskzSIKFsLtfbZK_09F3xurAj7xxhWrZpQy0W-xkEsAQcZ4ikZNevXeOE40DDrVsQm98_ertWrHp8wHVEWVPX7igb4aS1oBhvEDDRPeOQzLjPU_sEEJS824C1GIPizxOoE97EWxKYqbZcOUlLFIx8WjjfEJWG-FlVEDoxExbeyqMUVEv-Q6ia2mF7QLMunF8XXV4TjI9p0HGSkQKOBmKqi2EaNNPY_xm5UgmOCeKjaNtHNzQLSyxXOrggFCwWukPgIK8yoDKtKsrAielAfyhLRZnr6rfcGod8zfCafFvb5WNUXjj-y1WceR5m5x2sV2EbDY_G5VWws1aZhyJ1flnX3yxUVjbPA",
+        "width": 4032
+      },
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106713434022867339208\">Ack Master</a>"
+        ],
+        "photo_reference": "ATCDNfVnlsaj9td4uzO7RUSBEcm3h2_34j_F64gLJT60UQbFeMGZj-uSRAybQG1JlM4MMcg5K6eWnZt8JtfkIsIODzr1z6WkDJL66rhBGaSr9ckJYAs7zq1BmCkv781wYBzv2ioxwr2YpJ-9VcX7i3KWpKfnRvrbNdKVPIO_ALq7gwZfC1Ph5NvdMk06yoKcGmWg_UfRssjVcoDOB99RK0ZNFU4i4GE1XUbXCzvTwSwGzLw63cVRTEH1u5Ju04KSYC9v1rT5IE4B5zP3a4ETdXcA5Zn_EeeeI8pm-0CwaD_B3kSgOQ2uw8UEF8Kna6PbzyZMHJQBEwFJZtBYfoBlDriL0i_F4oq1FMiAdBp1f9a-dl0ls6QlM6BEq_ztYTOtfz7NreHFwVgpEobRN7rl538gXgrODz0sjSh5nYBB19yDdouc0_EG",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJZ_Q61NM3yUwRI2rbkwi3vHk",
+    "plus_code": {
+      "compound_code": "9XW8+QG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XW8+QG"
+    },
+    "rating": 4.7,
+    "reference": "ChIJZ_Q61NM3yUwRI2rbkwi3vHk",
+    "reviews": [
+      {
+        "author_name": "Ack Master",
+        "author_url": "https://www.google.com/maps/contrib/106713434022867339208/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLg6Fk88sWhe7lo-4d0NRyWmt-q5rGspDkhsZoD7eWLYhIY4A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "I was recommended this guy by my plumber who said you need someone like daniel to fix your jacuzzi. Great I love my plumber he's great.\nDaniel comes over.. looks at my tub and goes ohhh you need a plumber to remove the tub. Daniel is a tub fixer not a plumber. Daniel gave suggestions on what the problem could be but my plumber said \" when the water gets to the jets that's when it starts leaking. Get this guy to just fix that \" I told Daniel this and he insisted on testing it himself. Which is more then fair but I told him I don't want a 500 dollar bill to be right in the same place. It's a leak you need to get under the tub to fix and we can't move forward without the tub beijg lifted..\n\nSo I asked him how much I owe him now for this wonderful advise and it's 100 dollars for him to show and 100 dollars in consultation fees + tax = 240.\n\nSo for him to do nothing I'm out 240 dollars. I called my plumber who recommended me this guy and told him the story and he was embarrassed.\n\nI emailed him asking him if I could remove 100 dollars cause he did nothing. I'd pay him 100 just to show up. He argued that's what it costs I had to pay. I emailed him back saying my plumber will never use him again. What he's doing is fraud and my tub is an easy 1000+ dollar job to do. Why he was so insistent on me paying 240 for his showing up is beyond me when if he tried to actually do his job he could have made way more.\n\nHe has emailed me 3 times since justifying what he did and saying should I need him again no charge and I keep telling him I will never use his services again",
+        "time": 1654864580,
+        "translated": false
+      },
+      {
+        "author_name": "Zeuxis",
+        "author_url": "https://www.google.com/maps/contrib/103532083739730366417/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLrJlC3gP7SNZTSphJj7aOvpnRuIqIi63LeGtDEXKbzf9NpbQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Bit on a pricier side but you get what you pay. I had a very complex issue with jet tub and we found great solution and got it fixed without the need of ripping the bath tub out. Highly recommend.",
+        "time": 1582811500,
+        "translated": false
+      },
+      {
+        "author_name": "Hassan Hanano",
+        "author_url": "https://www.google.com/maps/contrib/115746777735022068809/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEPwH_aKax4gcZ31g8DU7bYNj1OMAjFOQI0AzQsNNNEpVJsj_6=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Made a 4” crack in our tub disappear.  Professional, on time and pleasant.  Highly recommended.",
+        "time": 1545011944,
+        "translated": false
+      },
+      {
+        "author_name": "Etienne Lemieux",
+        "author_url": "https://www.google.com/maps/contrib/103932617938795020747/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSu5CBWC5uW2Hauqyj6crToFZdJ1TBPyuYLtVrqflIKcdz2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Wow! Elmer recently repaired two nasty cracks in my shower; I can't even remember where they were! He did a professional job; the acrylic looks brand new since he finished. His work was incredibly efficient and spotless—surgical precision! Thank you, Elmer; I highly recommend him if needed—you'll be completely satisfied! 👌👏",
+        "time": 1768076797,
+        "translated": true
+      },
+      {
+        "author_name": "Robert Lussier",
+        "author_url": "https://www.google.com/maps/contrib/117733435204869521637/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPOjYq5yFe7gHVV-3xuo84xFY5ouslmcEM3yqc7Nm5i6VJ69ZKCg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "The work was done on our shower. I highly recommend this company.\nUnbeatable price. Unfortunately, I had a blemish that, after retouching, was worse than before. But nothing is perfect because even the originals have these kinds of manufacturing defects, and the color match is perfect. Very friendly staff, but I don't have enough time for that.",
+        "time": 1590150813,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=8772087421679135267",
+    "user_ratings_total": 16,
+    "utc_offset": -300,
+    "vicinity": "2845 Rue Castonguay, Vaudreuil-Dorion",
+    "website": "https://www.baindoucheexpert.com/"
+  }
+}

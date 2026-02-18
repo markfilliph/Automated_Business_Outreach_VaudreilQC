@@ -1,0 +1,393 @@
+{
+  "query": "Excavation Panneton, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340759.365245,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "172",
+        "short_name": "172",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "22e Avenue",
+        "short_name": "22e Avenue",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4N7",
+        "short_name": "J7V 4N7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">172 22e Avenue</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4N7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "172 22e Avenue, L'Île-Perrot, QC J7V 4N7, Canada",
+    "formatted_phone_number": "(514) 502-3678",
+    "geometry": {
+      "location": {
+        "lat": 45.3936489,
+        "lng": -73.9494224
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3949772302915,
+          "lng": -73.9479771197085
+        },
+        "southwest": {
+          "lat": 45.3922792697085,
+          "lng": -73.9506750802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-502-3678",
+    "name": "Excavation Panneton",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1799,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116613950159047504991\">Excavation Panneton</a>"
+        ],
+        "photo_reference": "ATCDNfUCI0lrBHV8s4zqmYBiD_sivtUuGGOqiFuQT9I-HkawLHoE9ikvyNb3vZVlcTJD4IOzH9Uh8cII2-qQRArQl34MEjOLo_UBMX5aUcYGNdhw5H6S4FgESztZZ6tfsFl_5ywGLAihaBRVaBqWE5ETe-HZHdQWz3LuSd02bgmKh4S7kQ9dtI9DSuoY5FDj0oXDy6j_N9Vv07V-Cu8ENLF239WXGlX8rFDIdk_cq6QggdsO27PQzYOAOdvnmry0aNMGtC3VcFbZm_6sFD5gnp5BvUPz7l5bW8NuoDMIVUnD1NbNog",
+        "width": 2400
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116131664084421838377\">Respectfully Yours</a>"
+        ],
+        "photo_reference": "ATCDNfXszfajsSUWtlDGh3iYM-RSVEf6lTKI8-wq2tuIx9QM448bXqzhL4Gaq3iFLPHtxpBdhD41b3Pb0lxr6DuEdajUaHC-MUPXjvhG8CzyQW9hiNYe0_65Cz3rq6oCD1IgGNf6FVClPW9LNVewYSTJi8pQz0lSPmnqkBG3s4lu5XCBNOpJRq62ISMqcr6sdDXu2OKM5OQuuPMtls1g_w8jyJ4q6w6a6YIRUpJTmjH1V76wAXwXwp1Xk0Zfyc2lYqv8klbHEzD3RZP0uteB1bYzyp7lSLkm4eLXEIQaNP8qli0Yq9dhxSY_Qq29yNwi-TCifdAINpolu47qtqBZaDwnTIy_GNBwjOBttwGIFd0tx01e47lLw_84Qfg8ZJKZFplBAYxmBPW-6_CpGraDRyFSi6TvHvV832qhVeDtaxCaD8A",
+        "width": 3024
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116613950159047504991\">Excavation Panneton</a>"
+        ],
+        "photo_reference": "ATCDNfXk0OQxA7NVEJYt3IlMJPE5QIqzQ0sxmpVdl4TfMP1Kg2qymDVw8bgEQ3O3Cz_Uc5QCU8_O0i5E8g2r3Jnwm0V0n9Bj9v8jz17qIDukDXXmDtjd_dB8SgOYKCohTFIcWB3220-7vEN8Xs-Z3FPB1R7HbqivhIysq3CZmHwTGss36Gk5rkfcy_ZBD7WWVW2LdPnedDmuvCVF43U3Wr3aQRvPBHlcfNayfmEvKJDQ8FRSsa3xOyUGSWJ8xL8Gw9jRDhxPt7uSnxRt6PyMbSVjue-UvKgWew5UmMaFowUqMP4PfQ",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116613950159047504991\">Excavation Panneton</a>"
+        ],
+        "photo_reference": "ATCDNfWuFHMauGdGS8mIe0n5e8EIfbG6w10ToFvhRWAM5C38gIsb2sNW_v6I10UiAiqpLzFwCvn6HFqeGxF7nYkBCX03u_IgvO88grbp_-ExlePWofWogtXlgPIQD35oDCHpgk3Bbhan0ndKTXitD4S3WfB_-PkLs1SMDKBT8IhsqtywnZCWGBn3My_V_RKYpdswvXmMBlH1tp6SNuutm-xxm3UgU0xy_6nHSZEqQEoq6gGKS3CQgxB0XzztKZ32TKYbuXEaKDiICKA6loUoJ4VUAiBJ-eqdGLH-pXwiB7tWsSGiIQ",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116613950159047504991\">Excavation Panneton</a>"
+        ],
+        "photo_reference": "ATCDNfVykBSkBjmZ4bB3faL1uUi-OnNI7-_70Kz7FCB-EatCM4Dx0ns4rU_9ALuMuQIXcnDeY0lmyE7U5o_-oHe22MrzNTHXqwN-sXTil6mZno_-LIvgu8QldaIP77VG9TnYEpN94w84-cQRR3pCFNx-mVLVeCY9MzevZMW8YAklaKW8-_WpyobZpRS99xJYwL1xtxu1JHq8CJdfh-3QMbtvPMdHrqKWkSslbs21YzsjOqM3mBvVdrkB_mAvzd-j1cNF2M9SnFkJfpuoJSPMgu8-V-f-CBnqc_aD1X69nf_r8lfhqw",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116613950159047504991\">Excavation Panneton</a>"
+        ],
+        "photo_reference": "ATCDNfXsHklgJaQgX6g_v3y-zyQwsBO_T2AQpZyMmPhvf3-6Wft8Bh_rhB9QuTKLelb1XZJNS8ubzsX7wlZQjmLuxA_mA0cy7UpIVQ8OIGOoIwQ_QTs8Zo1JD8LRC9i1qCfjS9aHWyzE6YkWTdQkcUHwiQkEUg-38CJvhQIR-62NA8quxaedzLlEy7OhgGLMXeQ5UM3HBiky2nR-dowJa33hhiQ2XTN0oNRvADIZFiOJQxOatF81mqOpbdO_d0T4f1Rt_Og1DEgYcsYaPbC4J-uuG2jcZBevz_3tBGIU_NF9EH287A",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116613950159047504991\">Excavation Panneton</a>"
+        ],
+        "photo_reference": "ATCDNfVZjURNUdwV8ThCQyu723XRTxMGyqQ5Cnq0ssT0AlveLoJojziKHE7DivKjb9lNVXVhEAGke6NerwzKhrtTF6QsH6_R3QTxLDbqiNK-bM3IQinMRYIf6iybKQFv3hdGGuhYH3SK37xaZ8OOB0J1C2dCuoFmbh6Jwrb3XF4PZDWkwcp_yl4VlD57YmIXZFMSQXJga4dRaOl-zl6r7ed0XVXJ-TrQCeMwFP22AK78F-oBIEXOLUZcSINlkHdCwf5E6iFDQMXMXTc5xkGk7Zhkw3sPHiUMi_W4o_T5c3SLo9nEKw",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116613950159047504991\">Excavation Panneton</a>"
+        ],
+        "photo_reference": "ATCDNfUc-9ivDPjTp1CInziZMuER140R5ONpUdSHQ5DlNs3vWOpU5A2NohDyGuiLudhjHdjHphmxkQRo9TSRXK7InfFoc1PqKsr_0PH5IitvtxbEoa3xwSUFsDPSMl3NfnQrnV02xRQlYXzq8EUEPbIN6yu7ZTAhUhsuGh1ys3a_mxG0DlFxbNas3bErSYI9jPNrdUMSh38GAVpoZ3AyajtRebnCkNL5sdnawMmRvw0mu_5DpjdPG3bzRZPvoT8qSqPqIeaSH3DuHoTazSyb441jUF3JcRjSBibgBseaoCqy7FwJYw",
+        "width": 1536
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112388408417869791062\">Dominique Gourdon</a>"
+        ],
+        "photo_reference": "ATCDNfW6pXxMgD5Pxf0OXLkQIkCuq-58hya_GoQtH96LXZSClDYWIHY8Zr_NDQUDbpzjd3-8yRNmULrn7J9OwGxX332EpXtT_EFrXWBqmg7n7EX8CEujLyWKdstCb2GDvbeIVPPkRs2ZhNV6KADj613okBOdveRKp48JtPFRf8PzRObJi4PgktUKuaYc7SydfZQelD13yUpI9H65gNaukmwhcj94o0T_nUeYSMJ6F--4rdbswrd-PbA78sC-fagWyAwqtZeHpGsujDYhfUO46iMTRvixjRRWUGKMxoLGkZrl9ziYSY5a5WpcoS9CW0q44-hAkAMieJgLt1NQKKKFzYtEDMoMq7kKUj26s7NPfoHZN7pNZK5ppq8_xROUgraruEnoJ_PydzFGoKru5Cvawnx30rMg34ePkI29BEHrGnWUBvaCG48",
+        "width": 3000
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116613950159047504991\">Excavation Panneton</a>"
+        ],
+        "photo_reference": "ATCDNfUefZ_Y9kodlcgcwZaHVlE9G9vnX0Z_qxWD3q9_N0Wj1_sJ2PrGs5Ms_V1VeSyuzcnTeDzyppCiQ1wDIUK9usxBSONd35vtT22W1Lk-TmuYgXgILN_C4zRlqQuuJO-J_1r_Zyzuaj0SABmjQEEtiF1Fvy86AXhXak0amWBw_bsS4d_A9BlBakzYZagefNclcrTqQEKr7msAWs_Yuz45Jle0YkVogsFRPKyG8_xl_Vlz0Jfy0gnpGToHbMHNfKmZqBbdJ_Bar2lDT4RftIDVACpJQ83sELurUV1s0gkIV3CSWQ",
+        "width": 450
+      }
+    ],
+    "place_id": "ChIJsW0au6abQa0RJPz_Gsbdkcs",
+    "plus_code": {
+      "compound_code": "93V2+F6 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q893V2+F6"
+    },
+    "rating": 5,
+    "reference": "ChIJsW0au6abQa0RJPz_Gsbdkcs",
+    "reviews": [
+      {
+        "author_name": "Sahil Verma",
+        "author_url": "https://www.google.com/maps/contrib/116131673686984722541/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxcvs9u2IQujdaiUDbyh6trOe8OBAm4j-BXdHdSREvyIsdjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Highly recommended. Great services and competitive price.",
+        "time": 1753474357,
+        "translated": false
+      },
+      {
+        "author_name": "Steve Fossey",
+        "author_url": "https://www.google.com/maps/contrib/116305492407456697123/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6pGpRP4aXBZz9v30PGHhOrovDOhR6y5_VwD_zTDRngkQI2mAJ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Great work, great value, great service",
+        "time": 1746357620,
+        "translated": false
+      },
+      {
+        "author_name": "Respectfully Yours",
+        "author_url": "https://www.google.com/maps/contrib/116131664084421838377/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYH9sdkFIbLogkDqtuCzovl6-QXSchUF2r-Yje2eanfc7SoA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I rarely write reviews, but I'm absolutely delighted to give one for Jessy Panneton and his team!\nThe work they did was exceptional, and we are completely satisfied and thrilled with the results!\nJessy is friendly and professional, clearly loves his job, and it shows in the results!\nA huge thank you to you, Jessy! 🤗",
+        "time": 1749582374,
+        "translated": true
+      },
+      {
+        "author_name": "Cyn",
+        "author_url": "https://www.google.com/maps/contrib/101019168475648253270/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLn5WggHh59wVBGgXlBWijiWjl2ufHYrvvtZeuOOmJMpM0cZg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Very nice work, I had a hollow core slab entrance and a concrete slab made for my shed. The guys are friendly and the work is well done efficiently! I recommend Jessy Panneton to anyone who has excavation work to do.",
+        "time": 1751855291,
+        "translated": true
+      },
+      {
+        "author_name": "Dominique Gourdon",
+        "author_url": "https://www.google.com/maps/contrib/112388408417869791062/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2_6M2MPHzWR3dyrIUJOx8H0w6B_yjx_T5ITmYlyshNrAkO3Gcqw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "With MP Paragon, they paid united and worked on our land. Very efficient, easy to do business with, pleasant guys, no stress. I recommend!",
+        "time": 1746558703,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14668749304248663076",
+    "user_ratings_total": 9,
+    "utc_offset": -300,
+    "vicinity": "172 22e Avenue, L'Île-Perrot",
+    "website": "https://www.excavationpanneton.com/"
+  }
+}

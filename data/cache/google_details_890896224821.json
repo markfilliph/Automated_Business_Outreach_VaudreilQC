@@ -1,0 +1,444 @@
+{
+  "query": "Animo Etc Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339161.2776957,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "suite 110",
+        "short_name": "suite 110",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "1000",
+        "short_name": "1000",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Émile-Bouchard",
+        "short_name": "Rue Émile-Bouchard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0W3",
+        "short_name": "J7V 0W3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1000 Rue Émile-Bouchard suite 110</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0W3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:30 PM",
+        "Tuesday: 9:00 AM – 6:30 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "1000 Rue Émile-Bouchard suite 110, Vaudreuil-Dorion, QC J7V 0W3, Canada",
+    "formatted_phone_number": "(450) 424-4223",
+    "geometry": {
+      "location": {
+        "lat": 45.38953799999999,
+        "lng": -74.04380379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39086393029149,
+          "lng": -74.04259851970849
+        },
+        "southwest": {
+          "lat": 45.3881659697085,
+          "lng": -74.0452964802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-4223",
+    "name": "Animo Etc Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:30 PM",
+        "Tuesday: 9:00 AM – 6:30 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112154748633316441885\">Hayden St-Germain</a>"
+        ],
+        "photo_reference": "ATCDNfVpt0X-krBenr7qJZ2a0FyTVYNZ864wmaGSd1qok9taxETm_SmNfHyJHjs46syVqO--bdAW5O7DV8G1RTyesDZ4vconmHWM4eYOL_I1C6SsQojSQ7c_W8-3pzdvnhqtlryrMMiEF0V03YogYTdIP72ehVoBt6Dqe6rT0cyx14r0n_q59GObXmPmgzYLEE69rsUBR8HxMhXocwzUoiHFwfueRrnqDidhJCvRarfLBkWye-EyBR9ChTqeE6COOSMCYJHn-ycZXciAocZfKpQ3rWR780Z3Y18iWCOVRR8qzsQyMicg16-uWj6_DZpriQtx6fvP73D4K1hxIXcfnV3hKPIXq0sDDC669-X-O6xnGBeHTjT50DrJ6XKbX1jvURiAR2axJ9fKDpY9uFV1OUXPpwBbGo10YgV_dYxitJsPJyIvHJUH",
+        "width": 3600
+      },
+      {
+        "height": 2477,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXqp1RoXhbMLM7qUZNX8pr--0vx-ZUznTMEFkme1J0L54K0htBaNhjI5RoZ2v1tcTerwS1OPPanlN__cAuRp2NEltHvtXR3Yskgl-o_-A6UmAVF7navZmfrFdbNcf43MMnyBJJthXXh3WaCbrJdHyKs1s605YdSRwq8OhZB1ZLqWP5xjaWVqdnI4Zq7h9K23DocFF1hMRz95f_w7ogUMIlK1CB15gD1uHAANl7adUuXCEtDV9mNCDpfHoUYRl_lrbmV3uCtNIhUDspWguVlh2Hw1MmaV2xrS2GrvaDXromOj3ZorljN6oVTPQbHT65XhDqhWOCa6B-Vo5JilczaAy2aGn5YPJK55X79fRZ87ffLgiOpAOm44nSDI0KRx2L2aQDWNoEFrwXicV8_saM0JcHAn7T_aExyHIhV5Q31MYWu8-w",
+        "width": 4800
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfVxNtv4b9_gp3PmHj6nbSxeTIAMihb_1juJxJvD5v73fIFnz0h1Ub380FpZ1zdeyNjm4lqY1R0WOJqInZJV_4aANogkB0nF7CbN2yXGH8SzLvDaFaBDKjiXACZZ3Ly3_7akspmUb0wgjVvm-s-NQ4CM4OS1ZEh84L5dWgt_sQ3zRZJYiuhp5LRPMu5EHxuH42_mo4T7_BvwX0qv7ZZOyHTtlDIIvL-bJn-vYB-2Cgb093_izLp-ShUqkRA8p70wQgrstrrmqhATtfu0dV_dOY6hF7cNoOELgutG4XCG-yg360qObxh3r7Cv2d84b8AJVXq0cSqd_cNV6apXX6VDcAxA_yjNEaqerg6CN1j0nGwE2th3qNAB-EVPXhIupc757Nq5dipn5HP__e4yOa7bnns_rT5WAH1wdvVLcIyaBr3zzMpk",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103835028549889487370\">Eric Major</a>"
+        ],
+        "photo_reference": "ATCDNfUW0M8t6YUcl6EtKIWXzI_PbmYh_sz8zRcZpVTM8YoWZn-V4NR59IuaKo-HILaH6k79FdTNKYnNM-OU4s8Sej1dmc06LWYA0nyfHnPeOYFInNTE0WNFZTj0pEGOVRq1wnZHHFINVxSFrdqD5E6xA7f5VCMBrcbmBTfwvGVhXvht26bFeyEB7FhQfLZKtpd8alADMs5eiUlIzqZOXMsGc1iUtrUTWIYLd9mh0K9LoAOsgps6A5-Bb_w66_edtFKIAqRzcppcueXb0fuDrXx_tslyfuqEhngZfqRlSsTTOogjCvJ09cJw822lK1F0JWJ_qUHgUwK0I84b4RIiz9q5wCo11jTiQWTKXRb_jGtE8yD6Kj0Lbis3wQPDhH45jJ64BR_1UJfqTDUN-I5tsp8mEOFoiRjDgdLqoU0gmwr4UPup4zPr",
+        "width": 3000
+      },
+      {
+        "height": 3061,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118293836066428523126\">Annie Boulianne</a>"
+        ],
+        "photo_reference": "ATCDNfUeuymS5hfiLimnNjmITogYflkdg0upJjdWiykHqYCflHlsZgG5Oc6_QFwyCQ6YXIsJIlDA4KDaKBTTLVAB9Rftv0Sp0doSz2xECNCWrBdgHQGL6Namd3sLG4xiHPPPfhJFBsPV_GQB1l0BToa4uJzO8yVJRl_3YeC9uIArOsi27xikVNjpULzEWwiOf6JJbVh9RMMUGcuQKQ8WLyv9PDrXWQ8dysaR08_KNGQ31t4MZlBTaVgWIMaTPEdbvdi8L25bowZ4DCC5uF_S2drCXOVGm0fjkJbhrqOBx-qcWfYTwWp6pMNNcgyMICPhtveV9L3YyoDvwkBRU8VUBAr3G95IdqL5NzWFqvekJ3HCa-Grd3YHeSfc0KDfP8GZMMqn3n7sIEdCBS6O_kltFz6WCErevQ1TpyEusZD4fe71fd8YNGHR6WsV2I53dSKz3w",
+        "width": 4082
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104815214138435255948\">MaryJmark “Famille” Blain</a>"
+        ],
+        "photo_reference": "ATCDNfUo_2x9ojwQWC_0TagN8L8pZjk-_3bLU_m3KXUrwfVaWT_KaPL4_PG7IfFYjx4B5z0yMZr74BE8B_f4qGTLHxezfaWjmBO_48t5Y9u6BFwbgR6BgLEVUQmsemTG0Q6uehunhWWQOg1oWWNI8Qq4F-eYIwv6Xcs6otAHeddMs-KKeMXx607vn4p6c7SpHzLk4D-Vwf55oxAi4R0Ge-U-8YjAz2IRLDKh3fTvKytmI9eIxo8RAbqa_DkNE8a0OqU8NK3tP8V0imjNX4N7L-6Kc1FR0dsdAMIjONDWFrjycbTRtt_63Lxv6lQXrQQDh_W1MaoOzKCFz891Oi6SdIJsr6k_NU4uIM7qTxvMkDGEUtxEOTYkbUMngJd10Vixzi5mwH7oPn6vkWtdKvE_che7GzpF85jC0gBL7_6whdcSRzOeFL4",
+        "width": 4800
+      },
+      {
+        "height": 1794,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109056217741736703828\">Fran Roy</a>"
+        ],
+        "photo_reference": "ATCDNfUfFcMxAIlPG5Nnwe2wOPdXNu-O0xOePaDKrNTHvgLvsSEoU_LOvMCFpALZIwoZzhIDbwa36QPOWHTvg9Ogt3rI0n4rcZncY9wkwUrJ2St4dpYYW32grpVh5L3ItVsc_qHDID1gZv5-LClHVSn6JDMBn-E-j-3EY-XvKxmmDaHCbRLgfDWrl8fPgNZlxedzAhXVLHmDlfANjf0gHaJCcpZUFBDzI_ucskQE4lLW3YTJrJAIZtdcshJQdcSDleIITtREKpgMzP-xDh9ANnAJnknPzo5dmpN7CSHu4zN3nUAp9VHA11s6HlD5G8gRNXVlZkemGBXEycG8cpNead_yG_Z88XSf5bvLgbaUrCy3Q-Lk1VfFMwAq2nPnVbfflUtis-RXX5uHp2WoCInsF6NbHnNiCVwmE_oC3wuLYG0T2uXjaA",
+        "width": 1440
+      },
+      {
+        "height": 2640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106305204022150793049\">Queen B</a>"
+        ],
+        "photo_reference": "ATCDNfXklxTwhRtVXAChl9TEEybC_r6WvsRSTNuSUVNN0ig0-5mopvl8EC5VlpKAbVsh0lbMbiIfAtX0_Q2ALtemOpeE66WhBe1u1S7VrljmFWKqgagRMCgSt_MY6HVhXITB6m9FoeSQCB3KgCskP_37UbObjpv_-HTtKUZRXuZuFhQEAr7aMOxfD5eXSjNkM1ODLPjnIXZi839AMIqkRPvyANpn3lVrmoPksC1Y1VcQ6l8L_x7W6y2FEyb9dCN4KQaWg8AQdwyAsBO1NqYpu_yzaRkkmUtgvUV3rzXfp3cwO6SVW-kHv1oJMYy3ggbZc8zNtYuRpHxOZkNRfDXLFxzTJwwGA8DPk4D6QjGEi_U8LqXmcAv4dLTYS0bVLHwTzpNygGy1Ud6zS-F8w_71jTRUikeMSZanP7L-GsGVOyHxnOoZKQ",
+        "width": 1980
+      },
+      {
+        "height": 2311,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103206351539500354932\">Animo Etc Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXgcFRTlY7yLiKZghNa04V_B0sWv9RrAoo6YVpEgy3s0UhMOKIDu5z4WzSpKxAf3-KiXQS_6ZKsWxagNpDMVZj5X6GolOWFp32BuK27btvxlbht-4V3hgyck9IpqbFkylExuJvEVjXR77SyYmzd13fK6yeOjPTY1rUc7OHN1wvZYY01Yw0sy6HbR6UgngmgfVWksttoEHvfdRYZ_K3lskMd1WJ3hfGupbf0TSge81IcHSaNKK4XJkA1wgEBZd_QEEiDolDcVfwtJ9bc9dtHCgmELoFJQCov3Wh4cSUNKCAMbQ",
+        "width": 1107
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115124620048153805916\">Angelo Palermo</a>"
+        ],
+        "photo_reference": "ATCDNfVEbmfPtswKAYBNbikktmMsmXnBg6k7luJmHJODSiE5TsxcTCXGEoukNXhEJO7XsEq6zkg3e4aNprYSjhZq-ObHIgrYn0firNBqZhchPVJ-jRAOPi9OBQH-tjPBSP1eqhMFCQMCY89cNR3oVmmsXCTOVCuN7k8q0cYY7SAzAs7DAqMvBhwSq5iPw7-13wJtXrn13neODwqNNaP6oXjlgoSXcBGLIBB5t0qytKHtpJZM3keDu5ZgpyKye30EydtoMVjiRuRYbBc3qZvreZk2hjyGIkPVaBy3KfD1qW20sMnjFCDrQcMSa9tjus3ToeDslTz_h_QGjdO8fvjJHLw4HXM9enm4llE7okAMDa_TUAWn4XJxXV0hveP-lsNhsG7XBDa5NqXGQK79jdrZp8RCk0UCxZcNxW74SsmRXPEFGKYJATvu",
+        "width": 2433
+      }
+    ],
+    "place_id": "ChIJkToZBChJyUwRl6_UGS3fNOo",
+    "plus_code": {
+      "compound_code": "9XQ4+RF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQ4+RF"
+    },
+    "rating": 4.2,
+    "reference": "ChIJkToZBChJyUwRl6_UGS3fNOo",
+    "reviews": [
+      {
+        "author_name": "Oshrat Levy",
+        "author_url": "https://www.google.com/maps/contrib/114311162500619893363/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsJ81D1SZITAeGHrKP1VU748Ny9LsPxSWfuioau5W7XiSrGuE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Amazing store! Love all their wide selection of products and love their groomers. My pups always leave looking fabulous ❤️ thank you ladies!!",
+        "time": 1764176128,
+        "translated": false
+      },
+      {
+        "author_name": "Angelo Palermo",
+        "author_url": "https://www.google.com/maps/contrib/115124620048153805916/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOVt_TkH2IS6QUG4vCwILOELppapJ4zUxa_2qSo6W9wngePK-uHg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Unbelievable service for your little furry family member. An appointment was made for grooming, and she was amazing the perfect cut, and they call you when they're done. They also carry the NON WALMART brands and last but not least the personnel are really friendly. 5 star well deserved.",
+        "time": 1698344508,
+        "translated": false
+      },
+      {
+        "author_name": "Julia Gusevati",
+        "author_url": "https://www.google.com/maps/contrib/116952308653551059940/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO-JNWjGD8Cw_HoDUdeiF3iDunQTL8dkG8azBK4LiHKCUX9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "I would give 0 if I could.\nThey cut my pet saying he bit himself. A spot he would never be able to reach. Never coming back.",
+        "time": 1764101448,
+        "translated": false
+      },
+      {
+        "author_name": "Erica Parisi",
+        "author_url": "https://www.google.com/maps/contrib/112714134804202043784/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMOHBCqzTF5tuqLYNYcUcKXv5H3lpJ9yrgXy_oV7OvL2j-EQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Will start by saying the grooming itself was great.\n\nHowever, when I picked up my dog I noticed she was squinting and having trouble opening her right eye. I immediately called the store to inquire if she had been poked by something, in which I was told no but that I should put polysporin eye drops (will not even get into the fact not a non vet is telling people to use human antibiotics on dogs).\n\nWell, after getting an emergency appointment at the vet today, turns out her eye has a big scratch due to something “sharp”. I can confirm there was nothing sharp near my dog from the time I picked up her to the time I got home. A 100$ grooming appointment quickly turned into a 500$ vet bill.\n\nI understand accidents happen, but some honesty would have gone a long way from the start so we could have known exactly what the issue was.",
+        "time": 1726533562,
+        "translated": false
+      },
+      {
+        "author_name": "Fran Roy",
+        "author_url": "https://www.google.com/maps/contrib/109056217741736703828/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVA8GDLFYkK_e3krQJKCH1QpeMaHGJSwmMli65ebWCfN6MJHUkRQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Friendly staff and quick service. I brought in my Yorkie to get groomed and Shana did a great job.  I highly recommend",
+        "time": 1644229719,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16876359088463982487",
+    "user_ratings_total": 126,
+    "utc_offset": -300,
+    "vicinity": "1000 Rue Émile-Bouchard suite 110, Vaudreuil-Dorion",
+    "website": "http://www.animoetc.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

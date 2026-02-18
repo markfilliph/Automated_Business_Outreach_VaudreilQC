@@ -1,0 +1,402 @@
+{
+  "query": "Salon Le Loft Vaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338803.6361086,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite D",
+        "short_name": "Suite D",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "90",
+        "short_name": "90",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Charbonneau",
+        "short_name": "Av. Charbonneau",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7G1",
+        "short_name": "J7V 7G1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">90 Av. Charbonneau Suite D</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7G1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 8:30 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "90 Av. Charbonneau Suite D, Vaudreuil-Dorion, QC J7V 7G1, Canada",
+    "formatted_phone_number": "(450) 455-0039",
+    "geometry": {
+      "location": {
+        "lat": 45.3848091,
+        "lng": -74.0141079
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3862862802915,
+          "lng": -74.01254721970851
+        },
+        "southwest": {
+          "lat": 45.3835883197085,
+          "lng": -74.01524518029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-0039",
+    "name": "Salon Le Loft Vaudreuil-Dorion",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 8:30 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107332624656596730009\">Le Loft - Complexe pour hommes</a>"
+        ],
+        "photo_reference": "ATCDNfV6MD9qRZswlwFlsce_pXgZLit31veQUmQ7glLgsAt_wt3yHpmy9Eo5ntS_FC6nO1xlx6OG9F67B023CtagQWRHsTpddwU4dc7mie4R_qZ198nOyLX9ywD2YsAvE_WTnUATNY-mYqovawAZbwbSUzFH47TDVvsZdvbAafS04zVXQLQO7ZGbJKrxEIimTnyYwsChN4hiiwVFNpMXogrJ6GdblR9fBvwlEWPgadoRTvThqubmLukBRyFl4yeG1Vxj4Z5WaFfGDVAAwiqYAqfDHmk6z_NPDeeFWqLWxDeEaOejMw",
+        "width": 4032
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103576023265681240139\">Alex Centazzo</a>"
+        ],
+        "photo_reference": "ATCDNfXh3unwKYD_z5FBG8xeKECQIgXpTEdN6-q4cwX5F0QeAuGWLgEufTq2VRHDRkQfZg21Uc3ubvM0YXJgK63BIJNKswmc1x2Rtp9Qf4zK_HeOUQAlGdUnjk7DNF7BF1jJNb-QWAdquiB8K3DrnR92i8w1Ea-Z1ak5wcMx4nByoKQs03Y1PMaW7dYtZBeGyE98ecnE3jecsXB9GlnxbPPC2p0B0w6q8zZ-QBGZ8INvuZJAKk4F4mpL5JLSOu30QP2WVwXgKC0OZ6cTe3le_inVFu1l6Rrzt6urWEdO3a67XgVLWz3_506nqU9-j8VgTRgcS7nIb2-50ugV1iQFt0hbJmC9YlfKOBCqWz-Rj8flaHBtgFOlvhI1Av9i2qAVzS7j41TBXKv0UuwbRTPiFvixLBu-d2Ewy5CeYwa4X3EVBto",
+        "width": 3648
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103576023265681240139\">Alex Centazzo</a>"
+        ],
+        "photo_reference": "ATCDNfX9jssaJT3O0EMkFMoHAsjCfzy2fx-3ockpKaB-Y8ZfGTYNmK1m2jHeN6sR_o8_gI0-xlwjqmFfFA2LWiMmJnW8GOCch6B3FL1f48sdSWQ7vtVV7nA9b45736MCv3in2Ukk4vYSr-1tUnp_IOjhFDipFoneu3Jf-lDaWRVPl2FXwA1txBgpf5ygxyTVr0ukoJbJ65aogDeVsPkhoSODMPAQVgWTP4k9eD6um22v-bYihoEjc1SKpgXVFZUOANzjC5Iw18rueqJz3RsiPlOflZDF94hQ4WDksGNU2ghCE26GaCJIipSW5IN4hqznjn3jjpiWGunmcgq6Hwi04Uqfz2GJUV8XNDf5UkC57XSWiOiFK-AdWZhtjuMi55wVq1zv66qCNPRKClFl2YlH8THMdpPqKIXLg9ou98lp3Z8p5JGOVqim",
+        "width": 3648
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102245782604020504320\">Roger</a>"
+        ],
+        "photo_reference": "ATCDNfWwZo3jk_NStd7jR8SzXiXuD5uSBh3nPeT4MUGmMtliLmMMJdCNOnVinmWMhMjAvz6uu5vaojsUrQn9mI8DxOuAmfTMELWwKfmc_5o79GjSFR-eNPWt0mu19CZ8UwhkIkONVevduWxlABfbNOAGstPLdVQz4EK9qXtHOMq7wRppZyYdQHnYi87DIzDYS-9z3QzVS6EsUSwOF-zb-AEh6wKbGdH-Tn08wXKvwR3TXrkhMiP_GUsY05kFIeOTIVjsLlfTwYE5Ec2huyhli4WMVjs9XaqKbZuqWbGgloL7BTt9YIhyvJfMnQpYYrWh0jkpvfsHBp2cSK-o0RJaVgTGr8a8EpSriWnBggHvC7Bz0xuhiUOnjG3ehk73C9SuorSyOPKHAzczpLzvDWPJ1-a9hSnsSmmg12qMr9prHP2e20mBezbJ",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107332624656596730009\">Le Loft - Complexe pour hommes</a>"
+        ],
+        "photo_reference": "ATCDNfWZaD3zUszIE3S0t0QqWIpiML5d5IXFSuyaeUwf1Yz5dr9ySd1IR9uFyYz2PUY2Q7cLWtiykCebbl1qCzuYbIHkLGRRMt_7vg8c0Z1lX5MZBoubRLJnkzNfhXZdsIZJ1hrujnkfISkVal6ZLeBj_yt9OOADaElZd4_aZf9ckap0XZ9-f3Uuf7wB5wzG_W4kuUXFkvqKG0Sb7PB1gMtU2l_IzsTLxfeVREqmJL9-CYMWN03VX-KnXG5panumm7Aqm3lmryD3vcX-st-i8EScYO-2xu9IJV2fNrgnfWKihL8n9Q",
+        "width": 3781
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107332624656596730009\">Le Loft - Complexe pour hommes</a>"
+        ],
+        "photo_reference": "ATCDNfXfjTNmAdbCarbZGL9Sk81WrU3vx3XiM8Fy2RKpaKjqAki8SHNmzDGUcWk6m3KDzky21WeclEnG5KXy3XeSAFOtWX_WDM5zDR8qxDtbESvTH1GCI2dEjD01RKIixChIZRFrYyQ6lM70ZRpdeVzRlRjSqkt1whf7lYjn1bnkNFOYbCNqBz5pv_3UBvLWM7cusgGVzgUtPdd7RKPJWth1qKEy3w32MQ9U9fzpZlmIscAX-J4c3XLeYKOdFFEv3_LtidJ9i3bSAX-fRbVqbs8t9C_swfj5Z0OvMv_OC7cc8tPxxw",
+        "width": 3647
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107332624656596730009\">Le Loft - Complexe pour hommes</a>"
+        ],
+        "photo_reference": "ATCDNfVg-1pOZk07jxWU2gUUAA6Esa6XoPXaao9Pt2ctmIFmwdZnXrBrSapjffXEcvd3gmlVIVEhg_FGTGM-X7Aizs2eRixHMjo1fh0juJ1GCiB1ybnPGUz2e98ONsqN7qCr9Kb5HXgdXXDkwhZP2HNtH90HyOCLuREot_Yl61ad04Wt6r4d5qPfbbyejBKr0x8akekiZxWIfH-LOF3YzqQaqPLTECKmH1C4sczQDfrVbkGIjmqL6NDQJ479enQ3OVXp7dUeALzbpNz7FbOeSinfckZ5bhflO6U8puzLYfKTy46HUw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107332624656596730009\">Le Loft - Complexe pour hommes</a>"
+        ],
+        "photo_reference": "ATCDNfUA5j0WAcaudpzaWfbsMy_MEjPI2x-7WHb0BjKqHQvkaR86Y52-smSXZ7ZiD1KzHPlFp1EqRoMAZt3YYTcEeaf761UYD6l5RnOWdmRdenYTKu58no4HP_A1steKIjb7HUY5TJaRiZ1YneUB1LQAW9g9T9S2oOR45NDbwgViVxOpmbCSAcre9RWmtQNvt--Om_hV42uzdCCljDMmzypPd6-BHtc9it7HrRpGvAWggOvaQtFTGLwrveoBxOkfAmgGYDLp8uOKSy20eg6jhx_jeLePliSjuEoZdvHCfmsnEaAA0g",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110072676030755007025\">GL Francesco</a>"
+        ],
+        "photo_reference": "ATCDNfU9sNJQ6-S48OCxbH7uSEFcNPlo3E3JpV3uzu5z2-qhNWKUeZnPbp6hpqDr_Aj9CY42JDjvnVFm_PM2JEc2TyZOP8X33d1rSatVDNKmX7wEca7D6l74lfksy6i840FXl6SD-Pm37pbkKCWhuk4CQ_vzI915sut3EUeNJWEOXgCP3eQOtz5SM0qf3aqPjqbMiw4T8nKWRSy9iknYFBwG6pHCblmZzJAVBBjInNoNvSViVav6_268V3XP0-fM20Z4iEg1Bp977ar0A2Cft5ULg5pMkDcZsFUUtKTLnI5QRP1nhh3DigBb1-T0g-hQ6HdLDuoW4GqZzfVsAhsSPuV9jlrt_qBnwP_pp1NLrtXRnnTA4rwSO1tqNgfc8Agr-SPW0Zl-w74qXDvOVC2GhHZRFg3wbNWJEQqBBRznZUVqBQXa62I",
+        "width": 3024
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107332624656596730009\">Le Loft - Complexe pour hommes</a>"
+        ],
+        "photo_reference": "ATCDNfXqfky4S7OJP5LFZXmY4vxw76FZq-ZU15Dg40XsOQ-gNzjI6c8tL_6McQLvQl5rvoqdNlU3y-PWp-tW26lGNunxA3P9Hq7BW7gCBgzaxRzvcHFQ8mh36jMqQooblVQzbyx2GrjqrCCMpC334lYHmBSji_gAxBNkk7sqOZSBAGO3c8Rb5QJxRH0uaFLj882n1yisQgA4j2oqxpT0FhhwVUOeIvvghvAunGrsSq7RAsMdEBR3e5c_n3D-srfDluitrB-PkKpx5-iRh2ZsYzxZIrAtkR_8LCFqjobaN88M71p8nw",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJM_839BxIyUwRNvQH_Y8vGjs",
+    "plus_code": {
+      "compound_code": "9XMP+W9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMP+W9"
+    },
+    "rating": 4.7,
+    "reference": "ChIJM_839BxIyUwRNvQH_Y8vGjs",
+    "reviews": [
+      {
+        "author_name": "Ramon",
+        "author_url": "https://www.google.com/maps/contrib/102527146705506532413/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVr4bg080SwKTguF8HXks9ZEqgWKT1Rz9aa_hSeVeOoepi3b99-JA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Cloé has mastered her craft. A true professional and the passion for her job shows in the amazing job she did. The precision and delicate blade cut I got was quite an experience. Can't wait for my next cut/shave. Highly recommended",
+        "time": 1706914486,
+        "translated": false
+      },
+      {
+        "author_name": "Ahmed Gaber",
+        "author_url": "https://www.google.com/maps/contrib/112174340559121085373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-5z_Y38xKmNUEDum05Mv_0t5zzBkiIYB10mmMTjJy9_SuGfaz=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I’ve been taking my son to Jen for a while now, and I couldn’t be happier with the experience! She is patient, skilled, and really know how to work with kids. My boys always leaves with a great haircut and a big smile. The atmosphere is welcoming, and the service is top-notch. Highly recommend for anyone looking for a great haircut for their child!",
+        "time": 1739044692,
+        "translated": false
+      },
+      {
+        "author_name": "Karll Cloutier",
+        "author_url": "https://www.google.com/maps/contrib/104419059710301011700/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI7ZIs0EaPyrHeKhYz_h5_him8lZjTEPXBtiGHLRQIXCoZBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Jennifer is, hands down, the best hairstylist I’ve had in years.\nHer attention to detail, skill, and professionalism are unmatched—and worth every mile of the drive I make from the city every three weeks. She never disappoints. Always consistent, always on point. I absolutely recommend her to anyone looking for a top-tier haircut and experience.",
+        "time": 1750463416,
+        "translated": false
+      },
+      {
+        "author_name": "J Christopher Rigg",
+        "author_url": "https://www.google.com/maps/contrib/118435041056419757883/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8gcf9iuzyFjBevecPKwKgUY3n4jFjieQJEhO6JBMyNvLLrD4AuQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "It was great. While my car is being detailed next door At Le LUXE auto spa. I was getting a great hair cut and beard trim. By a very detailed oriented barber!!! It was a great pleasure will defenitly be back again!",
+        "time": 1583171251,
+        "translated": false
+      },
+      {
+        "author_name": "Frederic Gagne",
+        "author_url": "https://www.google.com/maps/contrib/114551691325368705950/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB8x5O-5HcZpQuQTOgxAv9vp8QFtuuhUqB0IpXp_-QM6r3LcGG=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "8 months ago",
+        "text": "One of the worst barber I’ve been to. I asked him to trim and line up my beard. He cut my stash way too short above my lip and he shaved 2 spots completely around my beard which I did not agree too. He did a really bad job and I won’t be going back.",
+        "time": 1749779594,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "hair_care",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=4258768693104210998",
+    "user_ratings_total": 312,
+    "utc_offset": -300,
+    "vicinity": "90 Av. Charbonneau Suite D, Vaudreuil-Dorion",
+    "website": "https://www.salonleloft.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

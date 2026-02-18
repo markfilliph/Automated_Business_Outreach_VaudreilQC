@@ -1,0 +1,329 @@
+{
+  "query": "Radimed - Trois-Lacs, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339951.2724745,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "105",
+        "short_name": "105",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "2555",
+        "short_name": "2555",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Dutrisac",
+        "short_name": "Rue Dutrisac",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8C1",
+        "short_name": "J7V 8C1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2555 Rue Dutrisac #105</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8C1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2555 Rue Dutrisac #105, Vaudreuil-Dorion, QC J7V 8C1, Canada",
+    "formatted_phone_number": "(450) 424-2727",
+    "geometry": {
+      "location": {
+        "lat": 45.4036617,
+        "lng": -74.0367543
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4050388302915,
+          "lng": -74.0354312697085
+        },
+        "southwest": {
+          "lat": 45.4023408697085,
+          "lng": -74.0381292302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-2727",
+    "name": "Radimed - Trois-Lacs",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105554166076189970269\">Radimed - Trois-Lacs</a>"
+        ],
+        "photo_reference": "ATCDNfUD0HntsXZ8H66V1aFXaOEN9h3grwlpuxKn8TKMGu_hCqxO0lAtWH1Fn_amTbV4P5G8muVwvW23pC6GtaZO7TF7wiKJ9Nl5ZsphsoStdJgQ83dlmG8COoKBO-BzyJhHUfSCLzEMpKGsTdsbF41pEDtDPg9tEc5URTiT_oVEHu2HNsmisiLyxFwAqWQU98bNh6lFgborEopjlJCMSfzl4rVZnEo1RLz851DxkcUpjEfJU60liBuHbnotYbw-AltCo5ubdgserlIVzBtubHat69eK5StyAaP09sg4kl0LIm3wVQ",
+        "width": 2016
+      }
+    ],
+    "place_id": "ChIJ4YFIqVc3yUwRoBaExv0SGAM",
+    "plus_code": {
+      "compound_code": "CX37+F7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX37+F7"
+    },
+    "rating": 5,
+    "reference": "ChIJ4YFIqVc3yUwRoBaExv0SGAM",
+    "reviews": [
+      {
+        "author_name": "Mo Studios",
+        "author_url": "https://www.google.com/maps/contrib/114788323625004258849/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVUHuXBadql9pRszjPDljTyP4YhjZQ5WxqZshzQUgYax95xDQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Tried calling to cancel my mothers pacemaker appointment for today at 1:30 pm as i have a fever, breathing probs, sore throat and ear ache. (It was for Izmillah Shah).",
+        "time": 1695666488,
+        "translated": false
+      },
+      {
+        "author_name": "Lauren B",
+        "author_url": "https://www.google.com/maps/contrib/115938567216380262896/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOnLnAwke9xVa8sivB_naKJFWNOw32iPs91fQzlWbq2w1wvdme=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great MRI service! The technician ensured I was comfortable and calm throughout the entire exam.",
+        "time": 1722989429,
+        "translated": false
+      },
+      {
+        "author_name": "Carla P.",
+        "author_url": "https://www.google.com/maps/contrib/105260755857683157402/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTFIfZwsUIHXETkrXRqBOwf0mIDpd7wuDgcvLaJVKooTn7WQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Wow! The staff were so welcoming, smiling, and patient. The employee who administered my tests was so kind, professional, and attentive; I couldn't have had a better experience! Kudos to the whole team!",
+        "time": 1762028285,
+        "translated": true
+      },
+      {
+        "author_name": "S. N.",
+        "author_url": "https://www.google.com/maps/contrib/115149673901588020311/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkcAjtEqjZEob4QHSNb4ha3JaG-opBf3ZPTqblit9rFurjOw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I went to pick up the MRI report. The receptionist was very welcoming, smiling at everyone. It's rare to see such warm-hearted people working in customer service!",
+        "time": 1692808637,
+        "translated": true
+      },
+      {
+        "author_name": "s L",
+        "author_url": "https://www.google.com/maps/contrib/102819749685272630986/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe6fb428c4bn7E8SlKnRYscUU54VFFnrYH4KQ2ySQP69nDSjth=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "In 30 minutes my x-rays were done by courteous, professional and efficient staff.",
+        "time": 1714560360,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=222949062721410720",
+    "user_ratings_total": 10,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2555 Rue Dutrisac #105, Vaudreuil-Dorion",
+    "website": "https://radimed.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

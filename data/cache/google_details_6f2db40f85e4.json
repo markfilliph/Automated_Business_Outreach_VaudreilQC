@@ -1,0 +1,396 @@
+{
+  "query": "Tandem Signature, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339410.2359216,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "95",
+        "short_name": "95",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6L7",
+        "short_name": "J7V 6L7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">95 Bd Don-Quichotte</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6L7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 5:30 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "95 Bd Don-Quichotte, L'Île-Perrot, QC J7V 6L7, Canada",
+    "formatted_phone_number": "(514) 901-7901",
+    "geometry": {
+      "location": {
+        "lat": 45.3887483,
+        "lng": -73.96219959999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3900557802915,
+          "lng": -73.96091321970849
+        },
+        "southwest": {
+          "lat": 45.3873578197085,
+          "lng": -73.9636111802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-901-7901",
+    "name": "Tandem Signature",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 5:30 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1639,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfVaCUQ9YZ5B8AELxCPx_fVcoB6ZagZQ04kknNR8vo283R6iVoelhQHJZ9BTu1-zHuQygC2kw-zm50ojo1W6RPHOfv57X9Ujd7_qLaOeadBA_u3v1KRrdxA7kbvVcVifZb9hwrWo5Pnnd2h0QiAwKBx4TaccHLES6nI6XIXQLQNcRhY2I9P8MEIUCtJVm6PJM8Q84aFyuHvUHagwe454mJ4fyTcHPdBGuHRwG5RyZGMCe7jwzT5NpV-dBeiZR4NojJK0xUoQRSfmz429GPVJYzkcB2XFDnRe6VELcMcSm2ylzw",
+        "width": 2049
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfWlwaiODPJIqe1aOvkPPMivdkzLU0WAGazGCvd2MRFaPS4FdVu531_otkrqWSkNAiUgwP0shRrE_hedj1IVuqQiJWzH3n4m1XibgHhS4MsKTp0EA3PKxlkD_iWP8QoGUseB4CpMa-65-Bn0K8O4MQOtsWteCBjZsOmzhWXFfiPD9GrlwnPNS9kHGx890SRkVEzpNPUfGySPRgrD1s6OUGPf15i79gKRnAx6fXGspc-tX4Vvc3eBzUjMNtvY6n0c-BTISkW7Quo7tu6QrXa1u9T7gzpoWHxzXHy6PUYkxN1ALQ",
+        "width": 3024
+      },
+      {
+        "height": 3738,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfXKc0AYzODT3PaLZAZV-m-UNffmrzy8-WeLgXdvtsLV8lekUkHDwZKO6MPaGyX57fLPFA7pOmm06yeylxbJ0w5QjcjS5iIf6rqVSl5w_660DA4aDY8zX6G6khwzeu5xHLh7Ok6GpwrYEQ9kvFd8WjWr4vJOa7TEjYgE_ev1yq-Wsn_YYOSQeghHBqSejw22Rme8HhKdc3egAI4HA-zmri5hfX0Dtcv3ZBvUyq5viYmZHF29-t5G-57EvHcD3FTKs9wyQcyqeiMMuE_tE4p2MTPIsfmS_t57chM5DgNjvKRj8g",
+        "width": 2803
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfWy5vIXQVzxzRSR2exJcbK7Lfg3r4yVfMwyAUdjjv55kk4Lj2ugHI79utrg2ir3DpiPEGj_XaBiznfW8W7uA7NBpUV9HMyrpc_4pcqYoJBwLCzNUqRHfTaUF79e0shq1KmcAQiof6NQe2nVhgYTyp4iRrb83pdFT-NK4CiIzOurcpM1nqdr8MibD3RfUKkmmKEpT3fp0I-luxAa6NmUzJ3ASGAp_KY7obxFVofQFxh3fTDUtad9n0SA7A0jtZ3Vjq3QxxZ1DHNFMgxJ2-JIcv80tQC-Rw24iUtth72x1uzOFA",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfWPX5BLzYh_-gJrHUYyH_9Fe1GcoQL7xr5eJcOZzmw9U0g2P4qmeb7ZfrZFRwEe4v3Oaq9kDix1QaUVao1rf8ya96b24Fiti8zErcbQ1O5_k_vuORX4kSrVDlNp2YP2ez2eqV7wAgkquwRPl_4cbncClsMIXCeA2DG9nFj0v10DqAJMI7I-HIsLWuDX5RVEbsItH4DfiMyRDoKi2tdv2ujUe8gYq7hRTkmPl0VY8iM9iktdb2PeKe3mD5vhMkdf0EOvfvcMml0IKiTlECD-Gb0JOoVyGyZmaF26GwIC-Ug1nQ",
+        "width": 720
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfVCicIj10HD7_kcbpOvYgCSIjJj1R0WnU7xQrwNu-iylAQ0NIrI6Ce_t2-2pwcAS0PPMso-S2I5syEFeZsOeL8GxZE19uIeJFWlkV4jyeuQ1s7R9tOYn96pAAUNVIie5AtWCsCy2YQzL9h5bW_jA77E35dNL22b7pT7gIHgpCJi_r0zpLy7AhxCUOS7QSsv5EsUEw7qGumrcPt-xJn9LKa8mxad33n-svXtey0UEzlRhjBiXMmf7EmUhQNQeCl0Fg-hj_vANqu2Ld-hmhqQj0X0LT1SEfU6MxlaP5bA6KaE5Q",
+        "width": 940
+      },
+      {
+        "height": 3869,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfXnz9wPZyX8YUVVHSYNL2E9qBnnR1CLpCNetc4kCHQH4hNNyg2vR58Ra90kQn4FnHbAhSDc5LviWwYqDHXhi2txpH-PdRU8Fkh5IlN_I8hex1MqCmnmlIMWGBXK5huFU8EVLwllTxlZFffB41Bd_bpqz8RVJcUJTGaGWhkO3nFXoWTlA1pstSqSXlL5LqqlrQt7BUt7SDWN1BXaNj1kbWGxAAixc1PhgJbQVHxxU9Ga3dkgBWekUbbgZQiYTP0Ns8l-9HnSH9ilskjJ1MehkNnakuk5Ugq-yB81oACJQMs-Tg",
+        "width": 2856
+      },
+      {
+        "height": 1639,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfXG9TrJFRQJ7mqBEOYMnOE2hgtTzN20iVR3BUa390F6Dk6puN9VMZ_H30w_gpVfJ9ADOGmEkQxIdavxt23z3ftxex9AOtGDcRl5nuTLuP47nzCzFLK3rHFeDlS2QKvy90DH3twSUgqP-ZEJYfrBBPP8wMRYQ9bZPn7V5TtIQdF3pC1T97kDKHKS5xFhkKjODLf-o_iMOkaUnOx4g5F2KniHW7OmzuHy4j0Yca1FJP3pNvDI8JyQtw46eqSS4G-ozZu0xsGg1dwRfCi2cQz8xeigpMnRL9Oqr10AP_Y5vH-rBQ",
+        "width": 2049
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfV06hCEN7khiqWvhkPRTxcS5yPdmYzmoKurob4tN2bgm8WJg1gWbUo4q7o0lmCqZa8FacjQseFdfDQO3ZhlkbkNQ3V60wbyOr-3wGhKzRpCATM3rOQu2-vO9OX53o1NQJorrZC8xsQqH-eCBHqhQQB4tTpVoSnVMZMG4HQaLGfbNctNTvaXpCe3SIeNnLa3_J_Cmy1u-zE_NGeKiY7z0uomTZe72erF4pGTV7TejEe2XHsc5mpvJo28WC8VKD6Tes35x1XEBZyTxLIHKhdpgaNGvEJepqC1tvB_c6eO4OP_oA",
+        "width": 2304
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112480495724105806504\">Tandem Signature Spa</a>"
+        ],
+        "photo_reference": "ATCDNfUlyTG7KBux0nSB7w7822hoQfNZjRWgsFxOdgXiZHNc_5lBa0m4hqlkC3WR1sZjcZWyjGplh9Ut-e7YXsH1WwperUNlOX9cdGs5tXMVjSyK0Z17KPXAMGzlMByupuE-F5UZoPvfiND0acecLS9z4mttw3_6GikBP6VZLBRoAXzgckDSZO2RJBGyPfBr9C6gquaeGeyivHR8RB2hEsVhvWfiKaBvidHHrHlv1D1teS_dq00jFhG1XW0n4bss-VkvmUA9gcUjOlu71XyHjaViIBpvygA0PGIq4d9exjizAHvnGQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJx5QhhnI4yUwRRp7xm7E6W_s",
+    "plus_code": {
+      "compound_code": "92QQ+F4 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892QQ+F4"
+    },
+    "rating": 4.6,
+    "reference": "ChIJx5QhhnI4yUwRRp7xm7E6W_s",
+    "reviews": [
+      {
+        "author_name": "Kimberly Demers",
+        "author_url": "https://www.google.com/maps/contrib/102839850042497248308/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRZKItDEqXfm-dFmJkh1ECHOO0v22IcSfLIG-mkbt-Ar6SZrqX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I went to this establishment for the first time because of a bad back, neck and shoulder injury I suddenly experienced. I was very nervous since I’m a shy person when it comes to my injuries. The receptionist who I spoke with over the phone was very kind and explained things very well. But what was even better was my massage therapist Francise. He was so kind and gentle in how he spoke to me. Not to mention, the massage he performed was rejuvenating. Every spot I was in pain was addressed including spots I didn’t even know I was in pain! I 100% recommend him to anyone who needs a strong massage to get those knots out.",
+        "time": 1702597473,
+        "translated": false
+      },
+      {
+        "author_name": "Moo _86",
+        "author_url": "https://www.google.com/maps/contrib/106366260853445535440/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdr1tbQbLY7vfugXc0dnu3XGvCSqJepaef6VHccikaStDJ-w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I really enjoyed my experience at this spa. This was my first time going and I felt very welcome. I received a very polite greeting at the door from reception and my Swedish massage was fantastic! I like a firmer massage that leaves you feeling relaxed for hours and that is an exactly what I received. I will definitely be going here regularly for my massages. Francis is an excellent massage therapist and you can tell that he wants you to get the most out of your relaxation time. Prices are also quite reasonable 🙂\nAnother amazing massage today. This time given by Stéphane. He gives a very complete full body massage and is very willing to adjust his pressure to your liking. Seems very passionate and is happy to discuss problem areas and what might be causing tension. Would happily see him again and I highly recommend!",
+        "time": 1689698629,
+        "translated": false
+      },
+      {
+        "author_name": "Véronique Boilard",
+        "author_url": "https://www.google.com/maps/contrib/111221001455670061583/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAKDTlGM3OWzG4V7P7yNJxNPHTE00d_KyHWkb6NkacOcau56aLIA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "12 months ago",
+        "text": "I had a wonderful first timer facial with Anna. It was very relaxing, I had great advice for my skin and my skin feel great. I will be back in the future for sure ☺️",
+        "time": 1739997034,
+        "translated": false
+      },
+      {
+        "author_name": "Jenia Schukov",
+        "author_url": "https://www.google.com/maps/contrib/110249606275302686616/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViyyThExWJ6_pSbLZCHrrxlBeDZYd8QtJBbpbDlnu-gMLnHzqI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I've visited Tandem for a variety of reasons and each time I leave extremely satisfied!! I honestly wouldn't go anywhere else - there's no reason to. I recently got a massage from Francis and it was the best massage I've ever received - I'll definitely be back more regularly! Highly recommend for anything from waxing to eyebrow threading to massages. They do it all and they do it so well.",
+        "time": 1663866626,
+        "translated": false
+      },
+      {
+        "author_name": "Monica Ahti",
+        "author_url": "https://www.google.com/maps/contrib/102064379153019653847/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTLCaS-dRNU91OmKnqF7skFiBxcNu2KPWpaoKu5Im7dOCUUlIr3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I have had several therapeutic massages from Francis and he is a caring professional.  I told him about what was bothering me and he has always zoned in on exactly what was hurting me the most.  I had a lot of muscle knots caused by stress and he made them melt away.",
+        "time": 1717719047,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "hair_care",
+      "point_of_interest",
+      "spa"
+    ],
+    "url": "https://maps.google.com/?cid=18112134860900507206",
+    "user_ratings_total": 84,
+    "utc_offset": -300,
+    "vicinity": "95 Bd Don-Quichotte, L'Île-Perrot",
+    "website": "http://www.tandemsignature.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

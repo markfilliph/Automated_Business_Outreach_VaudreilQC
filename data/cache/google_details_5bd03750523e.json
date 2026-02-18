@@ -1,0 +1,442 @@
+{
+  "query": "Bain Dépôt Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340175.6695476,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "54",
+        "short_name": "54",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8B9",
+        "short_name": "J7V 8B9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">54 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8B9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "54 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 8B9, Canada",
+    "formatted_phone_number": "(450) 218-3700",
+    "geometry": {
+      "location": {
+        "lat": 45.4055512,
+        "lng": -74.0381684
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4069842802915,
+          "lng": -74.03686736970849
+        },
+        "southwest": {
+          "lat": 45.4042863197085,
+          "lng": -74.03956533029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-218-3700",
+    "name": "Bain Dépôt Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116058188426882906392\">Randy</a>"
+        ],
+        "photo_reference": "ATCDNfXjZexJEK4y2bpPKBGfmaH0q6CfKzARn1ccN76ny2ZwWWBBFG1InlfMT0k3uMXX-6WkmGz_ygZPidyuD0JorH7kicLGrtzwHxtzDed32UoZt2aKc7x4_SQWRjqM71i31Q7_n1BSubOoHexxTU-AZThDDg4GJRPB8u-cTbuglET2tbrD4b_ZyT5pyob0gwuT-l48KS1SBatDOn6utk10cRFavbAIVeLJVwUFigjT8HaC7pC1rOn_6VhtO1uPFth4ZsVpjMYA3bmbJxbRc99ygdX2mp_5wQU4rfjRXPOo_KUj1JeeysI219-t6y5q1aJ7oUaFg-Fi0YXSy-IyXCb88KKuDrIL5YWo-AwGzR2wseReRAxf_z_fI12qAGqCOAk_w4tXuZtbmdtJsEQXIQNXaty6oMRaJVxEUOjw_HJSBUrOmGDU",
+        "width": 4800
+      },
+      {
+        "height": 360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116520193048249117011\">Bain Dépôt Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVzIgNVtB6-Iiz739qZXqfmDMFnnU31tpuiJm9Y-bQhz675nL9ltAeUNtquyq952QWB3wmsYUP5OfKmTNuW2EtzbWCNG9PGlOsyEhMBNBQIuy3xsSJ-7iCyh_NVfp1dN5jTjgJntQcvsQnteiQxbzza8Bdy_xzidr7endOUXa5zq4wt_u4jYrIp2hehH9R1r8aPq8SDUy-PLwzt9BTkRe1gsnkpPHb1ASNritSJtTs7U-Jltkgry4s6AwwjjoElNDrWC5Q0NzP7qtWN_75RDSQlmPAL6B0GQQimK2OdgFqdgQ",
+        "width": 820
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfWkbyq7LWmGqSRwqOubmHan-7RhrBZBNPiDTj3_1kKnw9TnFJji4WqVHMf4dejxTLwnLzW3Y4aeOWRvSCC-mX_cHUo1kdIow6yEUVJtJkrgtoq6x0dOi6VkWyvXwvND52aSGjYBAY6TdS4bXHwJNBjkBlgj6PHDjvuMt7sxHoHUCoeF79bITcQ-pgp4oA7ZMVcz9vCPkSG9njwcjj81rWgP6dSCTVSH_Mmi1yGKymWTQQ3fimfcSzUM6KJ-JiKATge7imXwzYTEGPvoLPJC0J04WOZ_XjqB4RPiE09pmgfBpTO1jNG0YvyLpQ8e-6IuZKxbURRPv7Hb0hGi8z108yvMKGFw6s2ORp4Xn-4vKyVVI1uWXYKdYK2avZeC_gSWYx5g-XYhv4btVRPJXHar8rLm24MbQR-brtEsHEnw0eeO7Q",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVLVlvDeAuAcfUANPyxe3Q_ZYsUFE73VWxPgMTLneuttADT1ppnWMCy4sGHvS7hfS8D5Sr8CwA9I-gEtl9s7ckMdS6mA6iHr42JH6sL6jYzuqam2cN-xZnDu-Xh74fBKbi0UFMoRyIqNRkkwxiiN72aTFHROkoeLVCAq0DDRV9Q1VX7pBemgHkZAnwGs1U9kSGu1j4wumcsj4DDCRroPo0E8WLswoHigmq8QDOFugfMUs4UNaM4BYkSQa1O7eHumXu5uEx-ZyHp8G0l-5a60a2BdvSzpLqvTF3LS9XUQ8EtTKIOUtWfNbxJEEcPOBgThb16is-LkxO4m3Qr3xnDmm1HwxzcxrBuS6t6dgsuhC02bwkMQBljTyUmS8p8Nt5y66KWj3Vzsx3EH0_a-DNhjS9m2n_TxnI_EyneR_BeDofdR875",
+        "width": 4032
+      },
+      {
+        "height": 360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116520193048249117011\">Bain Dépôt Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUeRRhkYUHYu_eN828U4ErWjlZn7Fsw_kd6xkeIXnaV6EbOC_ZXNZxDy9Rq537zIkrj_IXMSRB6zLaJL7_14vsLX8zNpSWTLjsNT95vQaEF_kQZZjwMLMWo9Zo0jVJfrY1YRq-LwCEopYx23UDSzIfWbpRjNAFfRcMJF4GfhPSCYQG6Di06tQ6a3gyuyEb7YQ0Llh6BYJXDXV59fqj1h5th8qPGujyCIbtbuVPszWFEXX4W5KvXyCzftoUQgaEgJK6cmEbtU4u9O-jKSzGCZ_U3gLAdgh9GUGPI_zgRezKZFg",
+        "width": 639
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118362261203964440551\">Jay Weiss</a>"
+        ],
+        "photo_reference": "ATCDNfVTp6nARJcOgtAN5SWvDu0mZ8qQancUr6fpUgPHEuUHYHM_CcgSBnblc0BwXQpCOWNAB4Q3WiogQjdt9YnQGh8yaW9WYcXTZ2uJBmdPbaIr9VfWkb1HV0yZqxFbbE2CCGquVBXnr3H0vcfMzYZ4-9_UFX0IOCMZVHDaebtGwcIkRilCEc3q3Q-v12LqJONTEU-_KFm1ktxyNSiKH4D-OtwvROqEV2PZHnXku5m0AwGMmZ7sxqn8o1Eu6V8D8f39Xk33iqLLz-IQU0C3eVpN35bfTBOwHZuAgwd5mKPhW4QQUhY7lXrQ4W7rbcdld29aSroIBIze1V7Tgy7G8yWztAGVpIax9f2TmGkiRISCX9p_L2TTpNvSvdixePS63wjqaEaaBW53trTs2D7yy133vLtwrJ7HfSvzHhQb3k5dRNPQKWYq",
+        "width": 4032
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116520193048249117011\">Bain Dépôt Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWspm658ILcyRp6McgC1cNunfu7y78uy7U80rNhDq8FGJevlyvp66LCI19JloZYb84eOx2ZBuZ9PyvDlclN7QYLDB3oqNmPXIVoRjqoTN6DLbTTUI4puECDyzCO_K9d9gcL9b_vELwPSvSDHnrKdc_HS65hlhlrCbC0SHm9WDMLWndJaXdCjrqQBphUkSjj2xfWdfeaT0BbhmdHwsb_IBK9Efgqxg00OiHZjsvqFPrek9ley2XyMX326nkn-bLJN5tzwTEsbE3Svhqtzw-yG7EMjivG8wGQXpzz6BtzD6Wqsw",
+        "width": 3264
+      },
+      {
+        "height": 996,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116520193048249117011\">Bain Dépôt Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVGviU314zfzv2g52wL9EgmAT-cKoVeebqwjbdWQF_6uystk0idAbGNlFr9q95OAPhARFWn4eXCe1vyM2hmBzOeJwXCNm0A6lSlf6WyJb-GxfxnqYf1tN1N_VV3-q4gxcmIbJme6pJue13gUkOM1u2fCz6XZSz2ce6-EiGaMh1oQFprWKWpeEbW270XMwsRWO2PkyT-9qcNTvN6wrC0fxx9BuQdqmIfxg8sa8bBtNl1_TOVvZQJ7flk39bUFUwHmHL1jyTpeNIrFLC52a5oaLuhkCYCRDm5A7Yzknp-VGZlUA",
+        "width": 1000
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116520193048249117011\">Bain Dépôt Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfW6PSWG9lrJEnXJQN-wdRKJDSQhAymr_5F7GrvwngQcn1wh-z0XonvMY3EuDCuDts6aie7XWH0vDWEMAEDR-RjugpISLvApeS9H9fH8UkdWfnHU1OOVuoPZEK-T9KZksuAGrV-I7WMUp9E1waHMOoLFC9d-qox1v0zI31aTAPwIrTK4i4szZYlgOnssDgzFFIUNi8-3BhrK9BegoOwJYy7cqE3ATJW5IKLxyfJ2hwjC9wTy2NL-36pTsBY2eeKBvyRo6xWfj_Rj_AXFDs9vqNLCjBni1FDQyxAGPpRJ97bfQA",
+        "width": 3264
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVX0thF-tEhPvd1LmRHSynsmHJYy9pMenDETLhj6v2RTmxnDsk0avv5rTFbn2h0n-cQ_fuvQE4pFyfkStY0Zrp7K6KFYcJNNJuPQ9JUdERDI94VJ1UzVLn3b80iwsfQzdi_6P3ByNPHUo7Y579NMZWg7oJ8ER8N5Aldo0DSM890yhKxH0j8z2eW5f0qwMqVekOs8ZhxffSaxJKlR-i81sE9kSqy1vJ_6eIi--LPx-Oq3LlLOKo4TKztuJ9iF4KvL3pGuD-NzsqmMLUFHXwfcyjbNA2uDetbTATCzSdwSKy23X8IynBBSJOd_rd_Vf3ygjogPNmCmeoOww-DOtt0wQVC1cUvCsr1EyfOgLnBcCoyuSZ1bez2d3FP9cl_lGmMRzHnNc-L5vwTzKJRNcYWM_jNBOPT_o2TdhpIPh6lHTeFiBrY",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJkT3NVzQ2yUwR5WsYcXs8m70",
+    "plus_code": {
+      "compound_code": "CX46+6P Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX46+6P"
+    },
+    "rating": 4.4,
+    "reference": "ChIJkT3NVzQ2yUwR5WsYcXs8m70",
+    "reviews": [
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "We bought our shower door here; they didn’t have it in stock when we were there, so they back ordered it for us. The shower door arrived exactly on time on the date that they told us it would arrived. Super happy with our purchase. We also got our toilet paper stand here; they have all types of floor models, see it in person and we are happy to find ours with reasonable price. A wonderful and comfortable store to shop with friendly services",
+        "time": 1621734570,
+        "translated": false
+      },
+      {
+        "author_name": "Andrei Toma",
+        "author_url": "https://www.google.com/maps/contrib/112262466170651367540/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImnUuyJqByMwNjdqXPq0B0ZRZyvP6_EIQbHf-7axYTew9ieeQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "very helpful and quick team!\ni came there to get a replacement for a shower cartridge, found out it was still covered by the warranty and they placed the request in the system. 1 week later got the call to come and pick it up.",
+        "time": 1759977149,
+        "translated": false
+      },
+      {
+        "author_name": "Janet evdosin",
+        "author_url": "https://www.google.com/maps/contrib/101389107690904200279/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7R9RzsC0_0nk8H9s177vl-MUXrDZHo15oGQWaitGYr4ujkbEW=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excelent experiences with the the staff in this location, the manager is very knowledgeable, thanks so much",
+        "time": 1762030683,
+        "translated": false
+      },
+      {
+        "author_name": "Emelie Parent",
+        "author_url": "https://www.google.com/maps/contrib/117354007982086588436/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhHKgRL06jLb-L40QaihbcC3oA-l-_a_mu7nEt1o9yWgJVuw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "My husband and I had a wonderful experience at Bath Depot! The staff was incredibly nice and welcoming from the moment we arrived. They were so helpful, patient, and really took the time to answer all our questions. You can tell they work well as a team—they made the whole process smooth and enjoyable. We truly appreciated their kindness and professionalism. I will definitely recommend Bath Depot to my friends and anyone looking for great service and quality products. Thank you again for everything!",
+        "time": 1747957496,
+        "translated": false
+      },
+      {
+        "author_name": "mark goller",
+        "author_url": "https://www.google.com/maps/contrib/104419989342715287082/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpwXyxzcp7fE7QbiAS5DaQXfyGiJtlMYnRo3TmxwIbtCVH2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "We did our bathroom from there , we had amazing experience, HIBA was very helpful and professional she made the process easy\nI would definitely recommend Bain depot vaudreuil",
+        "time": 1759585780,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=13662580395434601445",
+    "user_ratings_total": 138,
+    "utc_offset": -300,
+    "vicinity": "54 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.baindepot.com/nos-magasins/bain-depot-vaudreuil",
+    "wheelchair_accessible_entrance": true
+  }
+}

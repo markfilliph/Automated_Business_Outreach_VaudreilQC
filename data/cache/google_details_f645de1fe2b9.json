@@ -1,0 +1,452 @@
+{
+  "query": "Bricolo Café Céramique, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371481.0687232,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "434",
+        "short_name": "434",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N1",
+        "short_name": "J7V 2N1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">434 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "434 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N1, Canada",
+    "formatted_phone_number": "(450) 218-6776",
+    "geometry": {
+      "location": {
+        "lat": 45.4000738,
+        "lng": -74.0277535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4014821302915,
+          "lng": -74.02629561970849
+        },
+        "southwest": {
+          "lat": 45.3987841697085,
+          "lng": -74.0289935802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "international_phone_number": "+1 450-218-6776",
+    "name": "Bricolo Café Céramique",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108637766315711407710\">Cheerful Cusp</a>"
+        ],
+        "photo_reference": "ATCDNfXSSGzXbHM6OO1BsMdUolL_TMiX_aXrOcKYTO67subDO-pDKUiiamjI5YyrOu_zwNI6_Eulrg0cwdVjFr3UxVT0zhGbEVrWhiwiYzBBlperpucP030_I3MYc-t5yqcL-nFD5tGNVEQ0XV9HO2JaVAz0zk9E31I79kqNttn0Ovt8Z_TFChCDxbMXEFzH6eH29OX20V2LpxWQDSwAuCTzy0MboalTxzqRTEZO8-oAiATDzO3rjUOU5Atye_HZSHdejz_MqPFmdFmVewDkFFOfrF5-yWxjhKDIe_3BcnTVACGEAVs1XABUNOnVSu4bYx6A2Zyprzvdhhq1W1oYG3P67zZWAYSTfRns1Bvi7IAevxbUpFfSkL-ykypJvc9Kce_ksdWIdbqrY9qgVLoKky1gso9QGQ6-RmXlyYNP5ToB5sVKm_j4",
+        "width": 2268
+      },
+      {
+        "height": 1815,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112590050513994850181\">Bricolo Café Céramique</a>"
+        ],
+        "photo_reference": "ATCDNfVuXZdKiTysmpxTKg3gzMbmu9UxIZgC194-JUdNU8qaNl1hJF53NDm4FQDIH9TSlr29mFgGpY18UGk9mwYuWb0ONS5IuUkNdwxiVRSBQ3lAfHxfgGxrlNoVbNL_DbxMcQ6S0-nT7QCp0k40A_mYVkLGrXRUg4qQ8bNR6-SZ5iSOuLRoXM0i99hktVggCQ-pxyv_4c7vxpzWuGGXcVyO3n3iTzs-6ynRGZD-WRgLsRcWHHmhq7Y9VJhWMY9UPXq-XmA2glEhasayK_DZWgacW2U4LN-2jy4x9qaayn6Sgh_vmQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112590050513994850181\">Bricolo Café Céramique</a>"
+        ],
+        "photo_reference": "ATCDNfXdkL7hMJd07_vP7ZyvGgY1ybe17n7znFc89ERSSZ_eGF97NkJveBJYo3kcw0zgBaDT4lZ6z3U6RZ5GjTwZiY9f5OCHmCYVZGhzn82ADvJUS9VAykzsd41rKw8iuH2ZMva7Q7NMkLy_BfC8CMByYbpUFNbtLWcGMNyPgDNUyhse8xUNbCk8axPzUdHnZ_Q4Fw-JYRylt5Ri_PFXHUVBfHYD4dk-uOP-FscTMeHYHc3CHGmBeRQzMj_Q0-wxGoelhxXoWAZENceTrQAcqPj6UDC6yXcbNdiLZfTpW7RIIkoBcg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112590050513994850181\">Bricolo Café Céramique</a>"
+        ],
+        "photo_reference": "ATCDNfW51bg4TB95AteNUD9KJNNKYOI3ZdKVnha13MFycDFcKeAbnNdzVa7dV7lnNwvrYq24P7yxYmH-2GXQe1cdEy2193vpV0Q9qSBi8xYK-ikWxzWhrVHY4Umgf9fbIpkbvsoP-86QTHJ8UA8ZF-Snk07qKDZmQHOdoYQMYu3MmX3TtnBOSPkdHSS2LpMidEgFwyVRkGeM0jcyDRrjqGGD9oy4vSom_1GLpdR3sTKuqVQGxil0I4BR9R-QlqrZkOdpop0TWjEAFwRX8gr0UYPd7AL72jpW2pXcXD5GNmMBRb-Igw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112590050513994850181\">Bricolo Café Céramique</a>"
+        ],
+        "photo_reference": "ATCDNfXVa6jppxBsezlDyWQRcMD16qNfe9sdzU4Wh-8n7WeckezSamKS3zUfl2hAxoI9y7AsxAWNo1i8V_9XIutXRYkKt1MHBB3VaWSSf3PtD9m8CZefkVAj4CTxufePFujm9WlFhoF2KXQ9nKrV_g7UX69PpskqtsFhU-8NWC7g27Zdz4YdBKgyK124XUhHWfatrNORI5_fmQmJggOiOxWLU9Mb7uUzQrPpOxMIRySsUhL48Nnk8GKOSCl7A0929jp_dXooMrtwYAlbTZ_lTKXqfYtxatUw_KvJ2yJw1f89n0vD9g",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112590050513994850181\">Bricolo Café Céramique</a>"
+        ],
+        "photo_reference": "ATCDNfXnYBTUGtBFBoZyLF9UwF5J8waDKzmj6WLA3CXlwvT3cGyNjZMDiy88ZfDBz2hqv_fCmQsbyTnHhB0NfEN9BqipbRz1UK9E0pszobW3W-ZOLVHOrIyxxrpx48PpcdXrzetQm5BtkpRynpt4SbyIjaJ75J4O_OB-mkvmCfAz1Ht6-qYYyiYl2SBKIX-I_ovroY4PBe7E47a78Y7MXMOkBOs3BZXVjwX9hXPRgZ1ZCAPsAY9JwRq_WQQCPUWs6enPU9p57nk4mU34mbVyF8M2dxMVtrvGPtEpiMtSuhJAILB__A",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112590050513994850181\">Bricolo Café Céramique</a>"
+        ],
+        "photo_reference": "ATCDNfUviWfkR57ySs-1S5PZMQdacxnV-TQQzVbPX1pzy-Gmw9SLdi-kPxOvQSXN2paQMWlwmlmgkJXwQrSmVLT17LYvkZtYCHMStcUzvUKxkil0SG8UVCn5QpggBIbg0AnDEZEKhiIkWfWS8q5h0f_s59E1Y7-MlShP-CMo1ePDqvQYQVu1YDm8FPKuoYzoJr4cfi5fGWNHMXXCwpC3nKi4ehZu0ClFk65DPZWZg--272bpuz_FmoeZ8hQhORU475A9oNb6lpqZcRFrhLkU5XlrvPdAOAL4mOmyEWIIRd2sekB9-Q",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112590050513994850181\">Bricolo Café Céramique</a>"
+        ],
+        "photo_reference": "ATCDNfWc9yNuwMYH7KcZw0PUZf-iU7-BBn2fxGDmuRW4o3O4ze9OPWo1R3XCRfmysv4IpG3lRhXNcxCHxFvLpIlR_sN7cquzWVlwSsvrXBzFqUnJ2Io6dKeTh0ko1sXOpUpzZOD0TkXjEZxPmhv5ZBag4MdBVhCFrMVnEHSuMokF7U95vdFJ55WShceVmtotgz4RpripF_MfK_qe9FVqZrbHhi-BpoEPRVKJWpeiQ7u8VRWyDAC-7T0yklcAilhhihCz4oHWSIvButS6kcXBrAdSFnyoE-jxcql01dkc20N1QQ_RNg",
+        "width": 3024
+      },
+      {
+        "height": 3787,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108637766315711407710\">Cheerful Cusp</a>"
+        ],
+        "photo_reference": "ATCDNfW0-QZMJghG5-rzLg0CrFj3_ttYVnN7UUea-92hYOWkqSPts2HEhohQpXVpMRICCwyTBDCiMKgi3hPDLQUGbN1opOmtMAGyeib-ZVvEnkLtuH4whhVOtYYbDLMdHXHFjS7nY665aFlnu-PEwt1cJZsDCz93zPRrxMz7kqwqBBM33ayvf16dVCoJbKu8SnciUvhYZtMUXoyJ18F2JOm4gUOfDo-oFYE3fchpUBhA4NaI_3bK0bdFp06oMqj43Kjo8D_zljN3e9XgJ3ybsWvIAKChdhukMd4KnsrX7tH8fcMtzKqd0k3Rbvs6AvUPakXFutnM6l6PAYdyVoMxnWmqS342_XsHB17lLJbooZ-euzOTRg30uWFSGkYHTQ0y0TMiydjkm9qMJEbEL-0yu3PX5Q3yw2-MlATBSUgRG3dp8CotUA",
+        "width": 2840
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103170814434488147823\">Rosalie</a>"
+        ],
+        "photo_reference": "ATCDNfXSuR3QiPYVaV5hHqg0KL4Cz8pBsmlR5g2zbE-rfTxy5REJDHtao7_V2Y5nrxXuOIRi3ge63H8s6fVU-19iZUyv47aoCtpBD3YYj8dgO8ktx5_0huF8-SIMoZA0OuOBAYjfGR3ejYZ4ZkLPgCcpbHxCtIWRPAegXlQygbp_4vbjLDIOUd-UYpYsUnXX6RJm2H6Ad3Cqr228q7wP471-EfwGhgYi9eJekWbCAQ9ZXy7v-3NaGMe3tWUIX6akEaL_lO3YJvChkh9r0F9aijz2-6kVWsvp1JBySmVLaJZCo3gNYEgO9_hTb_pJXzkyjsLWAlOSlWQMmCZ9-89DOuT8o5PUCblBNxBs4-s-1kON4Bblyh63z9gDnBd7-mk2MNMdwUMXYUlpW__v_NSOZETFMZDYBXhiqFQbgBBvOxJEE8vjmZzB",
+        "width": 3468
+      }
+    ],
+    "place_id": "ChIJxzp11ipIyUwRErTXXIAknnw",
+    "plus_code": {
+      "compound_code": "CX2C+2V Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX2C+2V"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJxzp11ipIyUwRErTXXIAknnw",
+    "reviews": [
+      {
+        "author_name": "Julie-Anne Henderson",
+        "author_url": "https://www.google.com/maps/contrib/109832171856334292568/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwX2QZnR_CywfTvq6UxhSaHG9Z9zH9imlfm8muIwkblwT0G4M=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Cafe Bricolo is such a warm and inviting space. Each group is given their own small table, thoughtfully set up with paints and many paintbrushes, making it easy to relax and enjoy the creative process. You get to choose your own ceramic piece to paint, which makes the experience feel personal and fun for all ages. We will definitely return in the future.",
+        "time": 1767130147,
+        "translated": false
+      },
+      {
+        "author_name": "Rosalie",
+        "author_url": "https://www.google.com/maps/contrib/103170814434488147823/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvjPT2V0Ef8M5p_p18jN8IC1PPbJfWbFHNphGUhUyWZxn1s-wJ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Soooo relaxing! It was super nice and its an amazing place for a date! The staff is nice and helpful, I would definitely recommend it. It's often full, so make sure there's some space before coming in! It was my 2nd time there, and I will certainly come back!",
+        "time": 1682963749,
+        "translated": false
+      },
+      {
+        "author_name": "Alexandra Shalakhova",
+        "author_url": "https://www.google.com/maps/contrib/108032902098918996624/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa8k0864QQUxiNQEsLroCkXsAZwdQTtBrKO41ZlsZs71mZLQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "It's a cute little place, and, surprisingly, very packed!\nI discovered it completely by accident. We were in the neighborhood, saw the word Café and decided to go in for some tea and treats.\nMe and my son found two chipped mugs for $5 to paint so we just had fun with it.\nIt turned into a lovely pocket-friendly artsie family date. And the staff was very nice as well.",
+        "time": 1694941884,
+        "translated": false
+      },
+      {
+        "author_name": "Cheerful Cusp",
+        "author_url": "https://www.google.com/maps/contrib/108637766315711407710/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIH_Se4Mpcz-pxycEGajG70FWI4C6ui-NMw1k_bDeCTKSoEw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Went there for a birthday party! The person helping there was kind, patient and very helpful!!! Great atmosphere! The coffee was delectable!",
+        "time": 1656087860,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah M",
+        "author_url": "https://www.google.com/maps/contrib/113293384024376666308/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXg_0cnP0r-5DcYYBc8ajDtTxgomQTEyoWYuROW1z2EeMmz79F-=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Came here for a girls night to paint our own ceramics. They were open after hours. The base fee for painting anything is $10 and then you pay an additional cost varying based on the type of ceramic of your choosing.\n\nWe had a good time painting our ceramics. That alone came to close to $30. The table was actually so full that we didn’t have space to order anything to eat.\n\nThe ceramics are painted and then handed back to the cafe to be baked then picked up about a week or so later when they’re ready.\n\nOverall, I had a good time with my friends here and would come back to try a coffee and pastry. The selection looked nice and they have a proper espresso machine.",
+        "time": 1737330210,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_brunch": false,
+    "serves_dinner": false,
+    "serves_lunch": false,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=8979654840755401746",
+    "user_ratings_total": 149,
+    "utc_offset": -300,
+    "vicinity": "434 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://bricolo.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

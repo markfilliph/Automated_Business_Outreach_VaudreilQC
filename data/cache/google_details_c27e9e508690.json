@@ -1,0 +1,378 @@
+{
+  "query": "Stelem, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340083.5537047,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "364",
+        "short_name": "364",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">364 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 4:30 PM",
+        "Tuesday: 7:30 AM – 4:30 PM",
+        "Wednesday: 7:30 AM – 4:30 PM",
+        "Thursday: 7:30 AM – 4:30 PM",
+        "Friday: 7:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "364 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(514) 453-6910",
+    "geometry": {
+      "location": {
+        "lat": 45.4064337,
+        "lng": -74.0517679
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4076381802915,
+          "lng": -74.05027411970849
+        },
+        "southwest": {
+          "lat": 45.40494021970851,
+          "lng": -74.05297208029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-6910",
+    "name": "Stelem",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 4:30 PM",
+        "Tuesday: 7:30 AM – 4:30 PM",
+        "Wednesday: 7:30 AM – 4:30 PM",
+        "Thursday: 7:30 AM – 4:30 PM",
+        "Friday: 7:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2221,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfV3XB66Q3sWhApktZUDYWhvskH2Qnus8q5Rkitoon3tClruvXJo8kz7t3zFhxDcOOpiO-OnTi8yjdEfLK9GDJbOGxXVAnzbE93iHqMrIHb1yI0g95N4bKq2I7nAPuXDG6abYC07PPYPq3GuXP558qWZqkq89a5ix2seruwWVXR2I3E5N67QcGz-5Mj6AmdE40knQ4sk2rLumvyOxPv6q9BithFYjeDZ_c2mcXc-AMVl68pDaPTnv04Chv936l1bdjmODCw-KIz20xVvlTXqyvHytwSEJ76qinur6fFJEKnMLg",
+        "width": 3501
+      },
+      {
+        "height": 3645,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfU3ICotiMSzCC1xMKV0HVMgIbvWNS58-unD9sRJ8lZL3Eghja705kyf8UXmCudsZeInkkdVVGGh63ezWN5J7tumfks5Y-6o7tB1HFMIjRPA3zKqMQiQiYPGP0p-XyjqSWgZkzpR6lnvhZvK5eaRXcIwohXn1XBJPVxiFr6Nbp13grf-B7XlmOecd9SY8TqE9FlzHyRGsfCMyimwasGTEF4NdJxKVQEnXI1GYCc-Zf0Cak3JABSa3W2EaDID2jmjAuRIzPca7grp03wgBT6koDfYN6gmperwVjm-qdfPfMLdHQ",
+        "width": 2724
+      },
+      {
+        "height": 554,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfW28A9IoiI4EGQd8GtdHxAISJTC9WwyL8vxbcIgekNk7P-FtPWMJHPbc7cI-aAVZ04G_Z60yC8BnaLej6xsk-nfg0stIx5OP70My6qNunTvFdjve5rYvCb38PkVZqoEp_5qT7Q0DATpXdRF1qn4pr4fYp2Ms36vcjSUVNbbTHPNdotP7P77jiGZiA5xGk9Tl0EkmuXozBuBxiZiRIvqoeot_czgvDnVhPpx6EKrEIjBvxZMs5ZNlKZQTtpe9Jzi6uNrkWoOoIaPdWF_8xcK91YXAu4_s9P7xgFI7RYBeNTUtA",
+        "width": 737
+      },
+      {
+        "height": 3189,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfVqvWDXyIqEh7dq3UZlZVvINaI6U3xTNV_lcmFyITkgM3-67GpVHCZui20s_WnQZke7s4tHi19xEOmE87GLjxmrLVKVvplFvt4PVwUEBbCrFJydRO0rO_KfbyfiK0q97UYsx_G28CqZzE0DNdksx2L2MWzKSdGYU2lOO6deu7-Dpr_Owp-FDiSuSW3B4OSuJqvtG8tKx22PJG5O_dPL4AwwfEar_laZEmQ1uTP2zRbd1Ig4P8RcSGs1REY8kJZF3X8d22uWN9NkPSbcCzqFXTb9I_xetsYKqwZDUI50PDrPzg",
+        "width": 1939
+      },
+      {
+        "height": 425,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfXFMiVgrRVmelE9nXJLj8tyDWsI3Q2glRypwEcSCWr29IalbKsWwwBxawGJ3070QY1STk-DDluUxQ6V-hbqbRMqt-441nwvEGj-cqojXfemGr8l6rGIT4agnJYy5gjz_LA_BFflD88CGnDzyh0UFOieb9pxT1w6Js_tOy1x1aCEUQV2VHA78OXD6mDxemCl9VuC4yA0AJSXh5ssaFYORDBY7ZJ1p6kexxHgu940bp8E_rEQ7BZJ5vJ90xIuI5viRKU8eX11WQQ3IbZZbnL-PypZUDcAj2z-iyskvyu9DQM75g",
+        "width": 407
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfXmI_Cn7Dwy2aysbRnGw6vchjzeS-oGZv_gbRvg2qc4sQU4Xss6I-RETBbco2awsHJtp4oYQ9DW4wmYxWWEv13gTlwLzlbsPTQ_0j7C3mDH2o5O0ztcccXXBQvc0dFSY3ZeVOtPAZPWPE4uxdsrtOVzYiC-qI6S9x8xU3AfBNMepDqGkj4IcFbxe-sS2hffIs1gbOdKLavkUrjKVE89TlUaC8JwO2ya0Lmk9d2duHUc_WBwCtGE5CqdcEO2S_6JP_5n-AdsnQx02nC8tycTNoEIdGw9OFj9PPOu2NLajBnw9Q",
+        "width": 3024
+      },
+      {
+        "height": 777,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfV5B3gsEmLvBzT0u93pBkxFT7fYuSSvjvYHcd8MvocAnccu8baPTE_Tu7Cr0B-Y3zkWenSnOr8EBnDGUHD5QBxq2q2Hbelv2XwNsAjnEb33udkhFeTosI_xjxNNd6JILuoNJM7AkcO2CJn9FiAwCNZRlJxPi1tzmvbMzP3R92vh_XZHoHpj2wULTafQAyeGgL_3rOL8oU4undY7fRo4WwK9ZwE_kuT6Tc0w1kGGk4Hlb24todF1H3ZxFtX4jOsoO1qxRundF-vPnwhgHvDzDjU4zzb6AKLb9VbfOcOEjO6rlQ",
+        "width": 1600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfUkyccD5ken9TjATnhmnUbP-wXTu8I3DlSuKUXcBDykLl8au3jgfwKCYHm_csD5VXy2v5HAFBUtu7Guf22p0rgNh8wf4zKyp-3BPutehw2th_3drMSzPny4c3LgvExRT0p3vGoncKDLt8ItH1z2h9lcRw4NcelgBu8ovMrrH_bzxWixkRy1iigPJYhj2Rvq0Jy6Z2fgdkIUSNKK5Fk4xQdpY7WjF8CuOAoEomCXhxmwYN09xPT-048-TYIDeL1rQLIhmKL70KDqssNVKOd90s6P7X_mByzhE3Px_4KzktaMbg",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfUbqWrRQ5AWF8ZVhxhWuiKOnRsac6sdm9nRMTYfu6HFw8-g84quks2-53WoAh4Ho4IGYqlJjo7fZjZQuBDBQXbH6Du3EwGPLADY-5wY3BBU8O6WICEgtUab2MsNi04ZONDMd7knFZgWinUVs4j95kogEf_hi0nWdRs8yjq3-BS5aJ3ZtKLs6N8aocTkpg-mwIMvIvSUQH15UveIydJ3e-Cp8paDITmJAtX3Aiqih7ITecIQIQAKnJYzM8S4MIwsJsV8FoxPAGPp-4S8lldCI0xXM5llczE2HGa7iqg46ds67A",
+        "width": 3200
+      },
+      {
+        "height": 1204,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110994376910519630205\">Stelem</a>"
+        ],
+        "photo_reference": "ATCDNfWgOALf0NNJAKjjEg4xlk-zOTV8yaPbo4altGZMxjzuUuXq1MmcfHVuOEUKCVgwywdmQYBBc569zJ4dtADXnCSX1o3chV9Ullx42yvifELFTndbVczsr_VM2BlbcXX9DjPJ0_dswx6yzXYa6cCjci6kBfZ92dEw4N1-5iZrywBLkhQD0q7-q9Nl8R0NrMToXe15kEH1neDWE65MhTKR2w-JfKHiVExj6QGJXhe9f8CgewFwPocvOM0TxlJUipYc5TMq_WiOBtbkI4AnK-DRNrl9BjD1dN8jikZabP25Ty1taw",
+        "width": 1242
+      }
+    ],
+    "place_id": "ChIJucoohHg4yUwRvrvKZeNHL1Y",
+    "plus_code": {
+      "compound_code": "CW4X+H7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW4X+H7"
+    },
+    "rating": 5,
+    "reference": "ChIJucoohHg4yUwRvrvKZeNHL1Y",
+    "reviews": [
+      {
+        "author_name": "Eman Positive Mindset",
+        "author_url": "https://www.google.com/maps/contrib/110643255050378982393/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEinux4JK5S_XyvNZXl3GJLCeO0bNkkSUhZ6UEUCs_kP1eKHH1Hg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Excellent customer service. Hans provided me with a clear and helpful answer regarding the product I needed.\n\nPerfect rating for perfect service.",
+        "time": 1648569986,
+        "translated": true
+      },
+      {
+        "author_name": "P G",
+        "author_url": "https://www.google.com/maps/contrib/109075544119622645351/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz-KO_D4MSNhnoVmbjwq5nsUvotDZAQf3XQCDpD71Dq5vXKbs=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "At PMG Maintenance we really appreciated Stelem's after-sales service, thank you Alexandre MacDowell.",
+        "time": 1581360867,
+        "translated": true
+      },
+      {
+        "author_name": "eric routhier",
+        "author_url": "https://www.google.com/maps/contrib/109093412337435214828/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLIMnzjIyPRoRei3jy3R3iNTDsHCXLCz9jnYw7V_EWovXkmw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Super dedicated and welcoming employees.",
+        "time": 1668608614,
+        "translated": true
+      },
+      {
+        "author_name": "Alex MacDowell",
+        "author_url": "https://www.google.com/maps/contrib/117432619461310488458/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUorOe1oNyWv7aeqZ1objyEtsGl1h-7kjnXZBddGjhDxXioE70K=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "",
+        "time": 1549768533,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6210261453158136766",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "364 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "http://www.stelem.com/"
+  }
+}

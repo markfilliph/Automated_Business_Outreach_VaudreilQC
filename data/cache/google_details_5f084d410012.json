@@ -1,0 +1,441 @@
+{
+  "query": "Dormez-vous, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340176.9532135,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "54",
+        "short_name": "54",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">54 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "54 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 510-9927",
+    "geometry": {
+      "location": {
+        "lat": 45.4056817,
+        "lng": -74.0387671
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40709118029149,
+          "lng": -74.03740731970849
+        },
+        "southwest": {
+          "lat": 45.40439321970849,
+          "lng": -74.0401052802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-510-9927",
+    "name": "Dormez-vous",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116058188426882906392\">Randy</a>"
+        ],
+        "photo_reference": "ATCDNfUxmR0sWTHP3mAfYiCL9WB5C1cqbgN2p0iPXCpckfSk6bRhpQo3oDDaBiHyZq3t48ZMe8xIm0JYScyDQEgRPt66NTrgB3viaiN7_60eDfCreKdzUf9I-p7pALoCgJ9HaFIt4-K1yDMS_xwMn0EdJ9OysfB8Jh3MiSmm8U9RefiT3Fr01jyGdM0xFiHwk3aTUykUjg9_yfwIUScBtJUUSC84pijgC06XHzkjJgLcWXsB_STj8AQIoE7obJMjzpZU0sIZnMXx4slEYpF8EMAdpbyxQUwzogb_z3MXE6G6jxroaYV35FBw2UuVidxUxtm7CwkI5k9D4QBju6lLF2-euLDqG_aOS-C5gWaPTGsKm6sTlvbSvhTHI6w2wrVMfE5cFy6xCX-OiiruKO6z_B0TIh_Uu1yPbqb1YuMJfuqVjMs9kgY",
+        "width": 3600
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106422435714250224379\">Kathy Kuoch</a>"
+        ],
+        "photo_reference": "ATCDNfWJBLMUsBzuog4J8nVMW2vQY_ns1NXVBzYHPSDVurO0_yvTpPEA8zrxVqmwjy8XclYsBEjpIADoqoWF6H3GxzLBmKKmN8-6zLHRBtaVucUCR21mN5KlQ5p6r5509FRiUPlZnX1wTVoFvoxee2NCon-mnPaNTk2Ywrpua-rw07w0o6iC_FYZwTm4RaBeEVgKC5SbvhVK8Wd9VVlLGgZtKOZpOixAeNxXG2jfP3jttt7yt6QKxM3uMGqWQBdpfwDm2DWpOT3FrLOIoYFkcRXJW13UhYaApIjtz8xOUb13RU4tZqkjgnnHyqfBhdlbjuPaWECPGFNgj1p_7oUihtgNsB3xbvIArXz94t9OTzu_APP8Sz3jWDTKP11esQJKaenfJFFjLAob6gIHEN0rfjdoVZI1xWhLtSq4OY_YWHiZGVipF_N-",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfXYBy7zAPX0UVOBHkYsbFfzH-efjGFZuYT0p_HPGtNagI5DN2DP-YRsc5S79jYggeRZ-_-sb_HzgMYGdGc0xLU_hyqanIE3rtYOYN678LceJJCGBHYGNcWn0wJvw1Hvy_iyI-5jmlMg7-VepdN8NQPQpToF7Nxj6oZdYUexOZfi0IE9ZTWwm3qzimYMnfT0njMyS51H9tPbfTrzmEhU5Dmjz9sad64IdEsTkmC3bUhMNt7RC8RIf8AQDeckJSZYhgGKWGxBbi7GGTvc10jlC1vioiXWEYPfQfUH_TsZ2FCJnfxT3_F1_pBf1vB4SeB1e0BbNIXe3he8phjV_qGnf-_8nzGQnHcUQNKeDL-xNjOw79IlU7eWy2gKa_6inmUUH26wsS3JeXrYo5NY6HC9hwA3Kx9PWolJ2Ja__iqeINfmYwF6aPIqtxuvFPyCOqWx",
+        "width": 3024
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106422435714250224379\">Kathy Kuoch</a>"
+        ],
+        "photo_reference": "ATCDNfVJDiZq76Kp-NDb9RnsrE-I5b8W44JIXszLNFyKrMSRSahIvWscLSx96yzfldP1s9njM6IMGMqTDrE4IlTKXR_KUWo2mGDCFUH16yKVGQlSn3XIt86Tau3__dRfoFsljXKvtExgaodmCIWM2W6V_qpox9XgV9vVM5r0pwBRCkpdlpgBvejt8hSxd38B7tnRDNkrnJMixhP3coQoIZHJEpzEFtDvAr6gbgcT5ji4zXZurq7qv2m1bwutTVNT5BIUteAO2qNki86W_Ue65gBTd4RmkWoUii3As8BDvcnXY8Kq_cWE-sBujMgESxvFzw00AVU-8_VxOeNQfo3g2MY3JP9gwb5ljQkCdRLN63ji0BfkknMi4HksRu9DO5ZRAXC1CopW1iMP-tNABPBB3x62XmupDuZkCJcWJH2b0Sh0dbgdrAo",
+        "width": 2048
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfWvfJ5HYIwg09MvQmjmVdxBCuasmd_SyLBAmm0G-NYhnh3vJiIkyGRkNRCZBhFrn6qfLWtMqCST8upOROsqPUEgkOnkGgvucT7C7OUojWwGuzERw7nL8kjjkiH1Q6eKT_TvOd8e1LojPN1dfw9eR60xCJZiEgevst3fl-bAlXk9rG1Ogach7-6CduZSd1Ezq2O99Rq0XcKhKxZd2by-coOvoL6GpPyydBHnKi_93p2WKZ0zNrh9D4YqPS2UWTM5KIM-t5VFVxp40fmFE_9RFlUO2M5T5SFP1dSYJ9vrChdyeFtDhPCZZIpdK-QtkjsepanMwXtCVTKXCHxSNyyiwcF1VmQpAcBhlt0CYYN-qiGJW2lzl2_ZPPTpRaR-n0MEV_VTKFpx9RJ_Os_nafTS41ROBUs3YDLcDnrSeYwN8P4",
+        "width": 4160
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106422435714250224379\">Kathy Kuoch</a>"
+        ],
+        "photo_reference": "ATCDNfWi44vjvYfgINz45dXbF41zNcAhZcU-CuaPhuCDH27VU3lQBh2tn_ZHeAAb5f682LVYTlnyzHB5C9c5JezCjlZbR7YMCaFtDJz851V2Dzq9W-EKZvuExEBiD4iwYAfb2HJeUvapzVz9YzSs0p-oEitPMj09nAHA1pIujJAL2W_475qfJ_nY4I43fR5Ar90PrOk2wnDxvlGpusdTe3iKEMh9yd-Ia5ZkFUTsLoet1aRBSGbKJjpA40-EzIvCix8otiIt4YkGdzE49V3qCeASS-7WP4PSDYOyRPnD54iJTgH_qGm9hk_Xsmal9F0qjq6P4hv_yxpoY3QYJhX_xIXv4TYDRMwIa3kdqLSUobeOkylJlMzmLIXJz7KRrGl9oPnGT3p6fSL5DZH-rTc3a1ee9-tbnbhk61wILTcHdsUNyCVtvQOj",
+        "width": 2048
+      },
+      {
+        "height": 3779,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXuBSlwCrwgPl9rTqPpi-UCfeZtBSAflgf0y9BVj08pvDZGKIX56mDqlyMIS3u7-i5TLxDhOZAP9-w180DEVi7FF86np8xhjDtngz9Shf8olEk_71EfBhJY3MSiltb6IwDbrQl0uhyItK5L4F0GqEcA17HdNdLUKDr8xnEjfv_Emc4W2_5Gg4U-A6agOrWm9N27fuN8QAw2CW3T5cHICsd2UftO-j-Swu0KUhGEviAGsc7KvBcTeIaHIfjTCfCI7ko51NmSTXDoraS0BPxXPyzBV11PkF-P_LLVmsz4lfgI4itG9TgIDJWtqHon_qb9j6vhsxk6Vg-5DgDn7QpwtMJLpoVnqoMBZYXegD_kLyg9R8d7QqCvxSag9BChE2t6uhdO0_jtyVJXI26aFO7CxSolSqQx9QkMDS6PcfPNtcZxbA",
+        "width": 4800
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106422435714250224379\">Kathy Kuoch</a>"
+        ],
+        "photo_reference": "ATCDNfUxLOhwXathaGwqtQjUzlaFVe_Lg5ju7Ewut1GJWN7qfBl7HP4ohAWPbIg0Y61boaaCSHFQyN2YXp-ACbPRr6YYbOjHBqyDYd0Ok2K4ZBSFQrvEFsP8ez4FoU3Ew7Bc1jzFzYvivXrO70NyrkF73VPHM7T10RM4TrjkdB_wlAUkBaGBRQjnPLsNXEGENBB7LTT6PerVX6FDk2Ve6UBjS4x9Mre6sA3Y3KUFCmmRjkV9J8IHUuCDpmDgcLdBLlZmTdY_Fvx0gdgokFYr-VGs5I_QneAuxRvf8reh4E5bymmFiPJuDu-WJK5SMgisFMgcSKIDZ6XibRvbydyI3gsIl-CgR7KWAB6ydjF-79Yy0xhB6sOW5jvXxzF6LhBiq3ZqfV_EbksyXzH--JPUGmrV3zrn_repxRT3rkxTHw",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109518713387718534621\">Jonathan Daudelin</a>"
+        ],
+        "photo_reference": "ATCDNfUMFD1iIKd0dxwUjY_d79K50Jf-5FyIZ0Cz4eDTZ8L6yA_JQgjqaG3Et1hvsrxp_9cYn3CAsNbzssMUdHFnfMjnu1tKANW9MuTeidHmVLj_vWfHRVMn_XVajZJi_BF4u7FOVVi3ORPskrhSIqGbPwcgXnc7vzDqC_jJFBOXrqQbMPed8c63HRYc2xRsMxtfaKgrr8ZEOKzT5ZAYRpbjOANjR2_7UamXcR2SZwdVnWm7OfZjU-8eCf0u25ckL9_DMvt4RcSg-1q4SCxd6nL5uwe-H9-8JISR9mzd9h8ZeqSkgCopZHCVRo6JgFstNuX_BDsLEkQC3GFr90tydiV6BkdxyFIOgXp8wOY0W5a6BkfWWTd2FkOlWcXaPHKI2VQV_PYc5yzjztUL5NKZKGay3YUNgnT2PG_4D_D0vKa3c9a6taNvv4ifxFMTcf1mPQ",
+        "width": 1536
+      },
+      {
+        "height": 1537,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106422435714250224379\">Kathy Kuoch</a>"
+        ],
+        "photo_reference": "ATCDNfW8VAmfQH2B_PqBAwMqjRq-tCW4LQUR_6_QOK55TGQJx9IuEQRcUXramPbUE76a2ElrsDs8IixRxVUdBmkqPdzAtLBmFTcyQe8vReARx3eTs6_qmEoMAzUnO-YI0o-X_cOX1fhLT4J4Rket9vnUkHLHAASmuloDX6hIsdSU4zs1suHP7o87dxalAc0J2unkIsp1WBhBbNTQNvThDFT6EnupeaicUAbY9vw3Zq3uWicL5OBpm0rtMTcDflT7brBLPKbKP4A_2GLlv-wg1ZgA0RCmhUNIfqhvfa8FbgJrb4XVzd0ula_rhuAHsgCTahbNX3XcsekUkR9To6AbIQhNGYQP6gOO5CKqstdaKhW0dVtMxaDLDa2D9qvhBXsEzFMn3NTrPS9MsQrAgraeSotYky85EGeRD06Te3Y1DyYLpkmdsA",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJt2ChBCBIyUwROjzlgfts_0U",
+    "plus_code": {
+      "compound_code": "CX46+7F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX46+7F"
+    },
+    "rating": 4.4,
+    "reference": "ChIJt2ChBCBIyUwROjzlgfts_0U",
+    "reviews": [
+      {
+        "author_name": "Charlie Dupras",
+        "author_url": "https://www.google.com/maps/contrib/102160333356760773101/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIolA1fDoW4Bj7pVoCMGRWqcIegjmQd2UeWEq2ET5LY2YUtDtY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Had the pleasure of speaking with Andrew, a very kind salesman who helped me find something within my price range that suits my specific comfort needs. I can't wait to try the mattress out in my new apartment! :)",
+        "time": 1769026301,
+        "translated": false
+      },
+      {
+        "author_name": "karen harris",
+        "author_url": "https://www.google.com/maps/contrib/108100898356718065231/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcqBMOHiEL7FxJV5EncBC_fylf86ILmCyxiNmLXDoK8vka2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I rarely write reviews, but I had such a great experience buying a mattress that I feel compelled to share it. From the moment I walked into the store, I was greeted by Michael, a friendly and knowledgeable salesman who really made the whole process easy and enjoyable.\nHe immediately took the time to listen to my needs—whether I was looking for firmness, support, or even mattress materials. Michael didn’t just push the most expensive options on me; he genuinely wanted to ensure I found the best fit for my comfort and budget. He explained the pros and cons of different models, answered all my questions with patience, and even let me take my time trying out different mattresses without feeling pressured.\nWhat stood out the most was his transparency. He offered honest advice, helping me narrow down the choices based on my specific preferences, and he even made sure to explain the return policy and warranties in detail, so I felt fully informed. I never once felt rushed or uncomfortable, which is a rare experience when shopping for big-ticket items like a mattress.\nIn the end, I walked away with a mattress I’m excited about, feeling confident that I made the right choice. Michael made what could have been a stressful purchase into a relaxed, enjoyable experience, and for that, I’m really grateful. Highly recommend this store, and if you can, ask for Michael—he’s the best!",
+        "time": 1756508969,
+        "translated": false
+      },
+      {
+        "author_name": "Mario Carriere",
+        "author_url": "https://www.google.com/maps/contrib/106149970408411020987/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7P_dx2A635V6bjPD7FOD-SKLnlA8-e38L3E7nHrC8zFEZmPnN=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Just bought our mattress that we’ve been talking about for years. Dormez Vous as always been our store , in Vaudreuil ,and the service we receive every time as always been exceptional. We were welcomed by Michael, told him what we were looking for. After listening to all our needs and differences he knew exactly what would be the best mattress that would satisfy both of us. Experienced,knowledgeable and patient , he answered all our question’s, and addressed all our concerns that left us confident in the choices we made. Thank you,Michael for a wonderful experience and can’t wait to have the perfect sleep on our new Casper mattress!",
+        "time": 1758589227,
+        "translated": false
+      },
+      {
+        "author_name": "Francois D",
+        "author_url": "https://www.google.com/maps/contrib/112172527180257459168/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWeHehS-roynwpGDIOsxOjn2iK8zOGOKa9gAaYxk7hSF8MPHaVmA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Michael Ortenzi was fantastic to work with! He was patient, never pushy, and truly made the mattress buying process stress-free. If every salesperson carried themselves like Michael, the world would be a much better place. Highly recommend!",
+        "time": 1757513373,
+        "translated": false
+      },
+      {
+        "author_name": "connor cheetham",
+        "author_url": "https://www.google.com/maps/contrib/112736028589102146948/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVWcYY324AdSlW2gbUVm6ChzzbPIgQaWbKzwN-c3m8H_oUPA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Absolutely amazing experience! Andrew and colleagues know all the products very well. They are patient and not pushy.\nI walked in with minimal knowledge and a big budget. Waked out like I understood everything that I bought and bought something half the price of my budget.\nI will be recommending the Vaudreuil location for years to come to friends and family.",
+        "time": 1757781692,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=5043869935150119994",
+    "user_ratings_total": 202,
+    "utc_offset": -300,
+    "vicinity": "54 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://fr.dormezvous.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "query": "Armoires Senécal & Fils - Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338832.2961836,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "suite 100",
+        "short_name": "suite 100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "1",
+        "short_name": "1",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue de la Fabrique",
+        "short_name": "Av. de la Fabrique",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0X1",
+        "short_name": "J7V 0X1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Av. de la Fabrique suite 100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0X1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1 Av. de la Fabrique suite 100, Vaudreuil-Dorion, QC J7V 0X1, Canada",
+    "formatted_phone_number": "(514) 453-0032",
+    "geometry": {
+      "location": {
+        "lat": 45.3839195,
+        "lng": -74.0107965
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38520978029149,
+          "lng": -74.00932981970848
+        },
+        "southwest": {
+          "lat": 45.38251181970849,
+          "lng": -74.0120277802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-0032",
+    "name": "Armoires Senécal & Fils - Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfV2zDhxYExVd0yx3jqS6YDftL0ddXCpD1Mp5FCtTE-WXc2zkOxQnWjbzIJDBzP0VgJkz8SsvX2l3EX6pk6NbqWR-1V-RsGoq_W5XFLYn9LIiNgWVNgYrIflnS_EA2QE_QbG3UG0pxJkECCjpKRH6TZHU2YgjYfX6zWOYZpSvT4FIS6E_xGqm2ePzGP-Vsa5yuLged7fowNKe7OgcKg_wUs7utjSwlMbNyWU6uqtsaanRnNUXm1Yb2uurb8KnsRW2blDkHo7NprVhXKx2bTZTAgptu9WuysdeWeR6XkWNJQcCw",
+        "width": 1536
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVC-Hs0bgy4osAwLOo46I8rJLABxnKM8jYKEuMuzCdxlSaWhDvIMU7s4K69CUsioGaWykxZf33S9eIpFYHkess26w3O3SvMO16TUxCtcA6r4mfau4b5erb-_I-A5hREfQ7pzSuwFNWIyQkEoCYqGjbU5rihkax1NIah0uv0gGRvH15uL3YZEJdtMLcKT6xScUM3qzhTKag8zYrWv3bo6kr7zkX8ahl1FTM50QKFXv6rXQOMcZiO50ZgQht4MoCpSks8doBVjqftVqyI2Iez3utOP43VOin7zfkoqJLF79QBtw",
+        "width": 1800
+      },
+      {
+        "height": 1134,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWX9wZyimJhXdPOZSRwwPgRaU1XdzupD-65qyMyWpSgCHmosj3ILpa0NB-q6VTXy8ndpje66EMvqk-Sz07SKb5tLysRt26x9SVxXXi2jn1J6vQnPYCTUVG2UsdCaNTmKTaGiY7vzDdEBr8F0ZX_ijsgcaSvdfwej7DH_EI4xE6zzK7TV9ZTZx8CcDZKOgx1OCKgvUsDB61f-3SOLMiIrcx6uzp1eIf_eNbfdThysLMo7mhOamZ-SYKyDe05Ez44wefXZV44akpczN5KSiui0lodELwQlXvyEy3KA85SeG1tGw",
+        "width": 1700
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfX7zMuFxnc1hIkd2pE2SlmCCj85P_LshK9EiKkSMUYPSoo22rAZhQ-d4pRXU0p34_EW0EQzZEqC94KlO6w7If9i60_b6tbzTux57S1yK7NG9RdvV9jXgBt0BopauAmbvqP1rhVRwqtnLuoBGNzj2LFW2_PfXJVG1EDR-OGX42-m58yp5dgT6MlTCwByIsLWFg9otZ-n_KG6FFecRaj0_T03wJU_jnv_o33LnNn6ZZyNLR3AsyR-nZfjUuCFNVCMgNsl1iRzaYet49ALlg7835wGt6Irzne3ThnsHRSWAj31UA",
+        "width": 1800
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWsVmbLyeYQd4txpjXuLY47c-9vICII5Go-Gliqfhs4Ccsx_gdhttsgUHNWv-HzLQ2ATDiQj7gbD7O79e3jfMrPgJc-79c6OVa5jbUMTorVSesAWQ7kHoTfsfbaDFFUWdH5ZvNTWSUzq4ouqgb3DTYNjhRcETKBOimDa4dZWYbr-mzGSUg4PHXTbQ8kxBLKiFyoaFgtkdPOkc6Qo-iHgsQX6seEQSgzgINak0xfLXEUq716TsfJ8rKljH0BByFG6Why9KTFTfeXSdxZ-d_p2ltidG9HnQrVt69jJnCLec6Qvg",
+        "width": 1200
+      },
+      {
+        "height": 1201,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXzjRU9uhjAqvgRqXUQNfC-VOr8ZsYRBVrbyWL1jdVXfCLow9GwrjLZSwAqdkaBb3GbhUFDfyO9TYaQCc-iTp1t9gMBAM_E0Sw8T9lq5cpx0e3AAiztuRyb30-qiLAEkOpuMxOD616wDb3ALWISifMYGZSkITTxKqz878A2pE5mwFKl7q0D6cSCt9mFG-aHVjcUYjz5w8bFeenC42AsjGjO0vXNUpefXVUC_2207I2hgIn7RifPNkRW0uHEjH0PP8ylr6XyggYUhdxbS9BsbIPbh-gRRMrAcoXOzFpx2AVpjQ",
+        "width": 1800
+      },
+      {
+        "height": 1133,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVIICeH4Wq1Vbw8uatUdhXscUqZYVFXP-1NCmcXpyWmAVgmnV0qiT5engtO3Al8e75pjvRmZDK64wnadpF7Z9Jxj4MBG44Y6bU1OWKkY-LJ_vd0K9hm13rGriOmxpWIGvJJYQfKrmp4cuxHIksrO-_CWS5zkNwoc8j43UNiBwic_zs2ah1LrrsUjLnfSX-x3ixqH8fhIhdxf-PhPUtWVLMgPjYDoqjktdR4lAXfOeuBZcbNxkQ9ASNMGg9W1OfCPaa3tb_srBmAlJ2LlFNNztcDTD_HZZ2etrIdF5HR-MlDqw",
+        "width": 1700
+      },
+      {
+        "height": 1133,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUM5KMVxnVtShIpTP0kRfY4K0JVKbGKEJFQ_OFs61uySItZ_QE4niDlXIkT3JYoDINm52RmL9DY6shiBaxlLao9Kpr40838fYhSWf_srYClrWRD0eRfiHb2XBv9WA5s4Whp8o3UGNbc2F3vUAYuSaqAqLHw_eFDvfuNR-jnMhn1WYiYlqluuqIHEA99GdTkSLodHD2SOwyTVq54H93GGpEF6uUQQcpi2TK_rNsRvTbSyhDluJYr7p4X4Z0cYtEPRAu12RIALskR-KrNPhIFXahiEhWMb-533k4D_HR59oVIkg",
+        "width": 1700
+      },
+      {
+        "height": 1104,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVr-X9As_RK8HnA-rRqrwIT4FCfz76TG3Nz9u0Z760RN8m018XIZsWLapvz3GEhlFLyUrmcz6wfya1ug21s4-dwvZ_qWOPj3wyfhb1CJ9R0RnVlkkoIUKo_0FUQuHj4xnr7utosLmGP8Il6XUMQ8U60UHTwL8Ub1LRqSn1E5cjm4acEt00-hsMRSdRbXcWqQFsyfdUOOPQnJJgUuYwXHVz5hFdjNSFqmbsWyLFpnzBHg8lkKyIoSTSNBDpQSFiXshNTJ03v-BU3ijY2uTeOAQCVESNClzWkmi8CtWB3WqDmmA",
+        "width": 1800
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117417012692607396524\">Armoires Senécal &amp; Fils - Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfWzrSAu07ObYA08bcS4eW3KZc2d513Krlb-fa392DMgU2G1zk27rfCoTI3v3XaKgXlYs4A6gz7Y--2u7_JzFV4oXMtB7g138uowbubXLVsIba4MAj-NBKoZdjjll_r-6x_ANtdtpKMiKzoT-fQhKCuA7YxzI_pP2EPU9eCBtLRldDiU9glUOgGK1Un3vWo22P0cgoWtZhZlDqw6Q4nJfd9VOAocr_g6a9fm43mRapOYg9THv2ydkFOe8YSE5AaEvc55jM7DL9MnvsurEzkef1MbWxZUmRrAowgjW08RQbpmbg",
+        "width": 1365
+      }
+    ],
+    "place_id": "ChIJJ1inR_43yUwReK0ixJcf75E",
+    "plus_code": {
+      "compound_code": "9XMQ+HM Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMQ+HM"
+    },
+    "rating": 4.2,
+    "reference": "ChIJJ1inR_43yUwReK0ixJcf75E",
+    "reviews": [
+      {
+        "author_name": "Barinder Kaur",
+        "author_url": "https://www.google.com/maps/contrib/115969811035068593579/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-sSZEqhYVmCkcVv9c2MxjFDYPpkeD4lJ_Q2gycXBYpeNgLoDE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Thank you, Sebastian, for helping us choose the perfect kitchen for our investment property. We’ve worked with Sebastian several times, and he consistently delivers exceptional service. His attention to detail, knowledge, and willingness to go the extra mile make every project smooth and enjoyable. Highly recommend!",
+        "time": 1764608537,
+        "translated": false
+      },
+      {
+        "author_name": "Rene Stuart",
+        "author_url": "https://www.google.com/maps/contrib/102095166730608309008/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3q23UqvoM4OHHgtjBBmB5uVNQvtVgco_AocnSCLhQeoIAqYSJ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "We chose Senécal based on a designer’s recommendation and the beautiful pieces displayed in their showroom. The vanities they created for our home look lovely, and now that we have moved back in, we are very pleased with the workmanship in all three bathrooms. Based on other reviews, we can only hope there will be no functional issues.\n\nHowever, while the product itself is attractive, the customer service, communication, and professionalism throughout our experience have been extremely disappointing.\n\nOur first issue began with our vanity order. There were delays, no follow-up, and no clear communication. I was away for three weeks, and upon returning, I went to the store to check on our order — only to discover that absolutely nothing had been done. We were eventually reassigned to a new sales consultant, Sébastien, who apologized for the earlier mishandling and helped finalize our vanity drawings. We were not happy about the 12-week delay, but we proceeded.\n\nWhile waiting for the vanities, we decided to order an additional shelving unit, since it made sense for Senécal to build these in the same finish. On July 17, we finalized all the details with Sébastien — color (same as the vanities), lighting, dimensions — and were told that we would receive a quote by the end of that week. He even told our designer that if we chose the same color, the shelving unit could be delivered with the vanities.\n\nHowever, when we returned from vacation, the vanities had been installed but no shelving unit had been started. When I called, Sébastien offered excuses about being overwhelmed with work, but no quote was ever sent.\n\nFrom July 17 to mid-September — more than two full months — we did not receive a single update regarding the shelving unit. Even worse, on September 16, while away on vacation, I received a missed call from Senécal. I immediately emailed Sébastien asking if he had called. He did not reply until September 23, one full week later. This is simply unacceptable customer service.\n\nAt this point, I escalated the matter to his manager, Manon, expecting professionalism, accountability, and a resolution. Instead, I received a defensive response in which she attempted to shift the blame onto us — claiming that they were “waiting for us to finalize details,” despite the fact that everything had already been finalized and recorded in writing on July 17.\n\nIt became clear from Manon’s responses that she had not even asked to read or review the July 17 email before responding. The lack of internal communication was astonishing. The only time I received an apology was after I stated that I would share my experience publicly. That speaks volumes.\n\nSenécal had every opportunity to correct the situation, take responsibility for the delays, and salvage the relationship. Instead, they chose not to. We ultimately went to another company, who completed the entire process — measurements, drawings, approvals, and quote — in 4 weeks, proving that the issue was never on our side.\n\nWhile Senécal produces beautiful cabinetry, the poor communication, lack of follow-through, and refusal to take accountability make it impossible for me to recommend this company. Customer service should align with the quality of the product — in this case, it absolutely does not.",
+        "time": 1762998707,
+        "translated": false
+      },
+      {
+        "author_name": "Stephanie",
+        "author_url": "https://www.google.com/maps/contrib/100747133054929370770/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5JD3znmr5t5pOoHjluP85PfjYpsT-_kQ3R8-cUqCbaRD4Ng=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "My parents contractor used Senecal Vaudreuil for their kitchen renovation and at first the cabinets seemed beautiful and they were very happy with the results. 1 year later to their dismay their brand new kitchen cabinets started peeling. They've reached out to the company and Senecal did not acknowledge the faulty product instead offered to refurbish them for 2 thousand dollars. This is absolutely unacceptable customer service. The cabinets are nowhere near humidity or water therefore, there's no excuse for this. Don't be fooled by the beautiful aesthetic this company offers. Their product is not quality and they pridefully put their logo on this garbage. My parents paid a lot of money for their dream kitchen and it makes me really upset that they've been brushed off like this.",
+        "time": 1700364826,
+        "translated": false
+      },
+      {
+        "author_name": "Ana Alarcon",
+        "author_url": "https://www.google.com/maps/contrib/116888159498917227185/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULtk-F3abjgFemeuMITjZgtK5rFXQFkv4LKeuvSBXZ6MziGKU=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "We did our kitchen 10 years ago and shortly afterwards started seeing peeling of our wood cabinets . The original kitchen was from 1987 and was dated but the cabinets still held up . Not sure their product is top grade",
+        "time": 1714572690,
+        "translated": false
+      },
+      {
+        "author_name": "Victoria Alexander",
+        "author_url": "https://www.google.com/maps/contrib/113786682772983802090/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINn4CWpAiEEFM_rBMxjrUd0tH94aJttOACeJD7rHQAm8zjzXo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "I recently bought a new home and was told to use this company for my kitchen design. I had the pleasure of working with Sébastien, and I couldn't have asked for better service! He was punctual, friendly, and incredibly helpful throughout the entire process. Despite spending two hours with me, he never rushed and made sure to address all my concerns with honesty and expertise. He also followed up promptly with answers to all my questions. If you're looking to design a kitchen, I highly recommend this company—and be sure to ask for Sébastien! His professionalism and dedication truly made the experience outstanding.",
+        "time": 1743773164,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=10515658391624527224",
+    "user_ratings_total": 47,
+    "utc_offset": -300,
+    "vicinity": "1 Av. de la Fabrique suite 100, Vaudreuil-Dorion",
+    "website": "http://www.armoires-senecal.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "query": "National Transport, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338168.4766152,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "231",
+        "short_name": "231",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Rodolphe-Besner",
+        "short_name": "Rue Rodolphe-Besner",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">231 Rue Rodolphe-Besner</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "231 Rue Rodolphe-Besner, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(514) 633-5444",
+    "geometry": {
+      "location": {
+        "lat": 45.3769761,
+        "lng": -74.04366739999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3780272302915,
+          "lng": -74.04203746970849
+        },
+        "southwest": {
+          "lat": 45.3753292697085,
+          "lng": -74.0447354302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-633-5444",
+    "name": "National Transport",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1370,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112402989169779319498\">National Transport</a>"
+        ],
+        "photo_reference": "ATCDNfWPotcqK6cjgzI0mEWNPe2jOfrvufbDK67S1bW3OpUPZSc7ggGD0FjuJ3wIxdQKrruIhGDjTHVDOeGU22sE2AtSadcCXf4C6H5i9xy31J2Jrk7rTcMoqHYhunfiKw2cDvC9i7p-6LCaH4ADtG5KqQmo1trcyxFVRHYCfbHqBxgDFsLGy2aqnELWrK28tCrAaPQiG30Dzy1RWi3lwBVqBmGY8eTXAllvK9AO0MxAsvWwHgX9bdNDgfSnP644u5hULP02oPE6kWVRZ_H20amA2jZ6jMW_pRk2EnUSS_cIVP2VVw",
+        "width": 2434
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112402989169779319498\">National Transport</a>"
+        ],
+        "photo_reference": "ATCDNfXMIvPQ0D7Ae-h474mHaAoeyGD8xjLziuoVG61ucqnFyMUz-SxNuhsr5JOfZYLZidGjHbxW8wPAc_36bJbOEpFBXBjRwEQLrUUE2Nrp6n-pNWy-O-RThkss1gh-fbxOk3PiTnSYwb5_C5oEPzOhrKHlUMiTMEpUPgs71oCfbwexZIe9pMiipdsgl0Uv5nu0wsgGxpb_GUIDYwreKbCFfx2scf4pNK1NH7H3wI_P6Ku77txH1A9HTEbUwrsRoT-O9AOZg7mxrwsqd1Sx9WlXTpbah51bIRKMX5tRN6dJ624zXg",
+        "width": 3024
+      },
+      {
+        "height": 1568,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112402989169779319498\">National Transport</a>"
+        ],
+        "photo_reference": "ATCDNfWMVupSHm72fZxgme83kKAqC9LlVclnd1XmngOLAzq9_HRDAaAl3gg0E1aEXe3BfVwBcXB19etaPNTOShxObPT5SVGEzDDHFP2Td8VbyOM7RN6BKluwOxAN7NtUlZylwIA8229ZmrP7S2vfHOZ8JLnFqAoBW1kU80c4A1OU9gWsCXRS7ftGNCkeL9JgbghhydUD3-qK1EA29tfmf36i9ZICS-Kw9X2wKzChK-uaX7nR7Wh8yVW_xv1p6fCv-k6SwcklcWVGmlZ9hSgb5JYGV_ovpeEJccRhqJ6ib5g0YDkybA",
+        "width": 1170
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102991278999418411967\">Anmol sanghera</a>"
+        ],
+        "photo_reference": "ATCDNfWN4nkxsYcTHYDC55kWl6Uzb0OwM5_Oo80vw17K2WJ520XrHO6Sgh6mtJpBuf-CfKscYt4jr_uZh0m9fRO8MF1MBopLWvYl7hpNXSsnZOy4Ypup0JEBiAtv6Y_TNItmEtbe1HqENvFl3r8-nsyvxPPf1aVKyzguNkrMeef_bmpwbiuBtyQdKDo1dtJACI3KwPCLFmAViVJky2lfEYXrOn14bKL8hWq-uiBVO9dHn3iCGY3cJtdmkgOA_5cBzm9_uPGiCoJD2mqq_pQ63-u8uRCxYdDWbnh3Uuzuiba05EI-nyDfPOFV7Auyc_XfOwiykb5I53vy5JYX9ZJrGMTCkG_SKzFfpjjtiPNq8hRTRbmBFnGxEXULAtKwr3njCcG4q-jT8fHl9x9AodHRsyuncGBmH0JQojnS8R09cmD4VLM",
+        "width": 1136
+      },
+      {
+        "height": 2688,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112402989169779319498\">National Transport</a>"
+        ],
+        "photo_reference": "ATCDNfXula3exmcF2Y_Zp9PA-K3FTkhO1bwKo4fqDVk52CdESXVd7no0DF4LbtiYmguIV8wqJFVIG34XmAMKD6HbI8Jb431JZ_wFu6fHK5kOkm5kuSEqYd73PAwlom3OujOTaYqaHZnJWSpZWc6-anz2Fw3LiqSWdaIeAzfZIefOcw6OtBJW3lxF-WaNKIQrK5DPC_L0hxgOv7f4BAyNpOSvtNj1dQi4mv42ivYw57rfIpzIuWiVLl9XtMt5FWs5MdgvYtSB6Hu48t2JcPt1563W5pR8Pp_lpn5WiiZTqDghjE0iYQ",
+        "width": 1920
+      },
+      {
+        "height": 2688,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112402989169779319498\">National Transport</a>"
+        ],
+        "photo_reference": "ATCDNfWyxHJwobrsPcx4BZ-8BWSxEwNeBCnnSK-ACQzrhPyXfnzJSxb09LNL3T4lyhJnwLDXmdtnVM0w5_ZErT6nE2qPXwiKcPG3Xxujd5yQ54oit91ZwRLRD9nNdg3GadWPg_yWAlfPzojxpu8UtPpeCdrGEY7dipA1y5xFzFSk5UvDpQzaQwB8co4YebRCz6Ki1J5YWOXQX19ixdsGOHEtctC4jpITauZZpuFI0UdEaeE3mjZK8qnZy-mbkZYbfLPfRGWFDNbjGyBFhI6trZOlwpfUPDiNZfPHbl6fViIe_8Xncw",
+        "width": 1920
+      },
+      {
+        "height": 2688,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112402989169779319498\">National Transport</a>"
+        ],
+        "photo_reference": "ATCDNfVkP02B-9Jbt4nLEss6H6XflUkBCxsAomRuuOk7_aaJhSyso-IVqQVIBgjbuDZXuRKN88VwMcXykdcOHF2b3rswGCaFeU799WrbZT2q_SNFPcxsdXdtl0unynHEhSp706XHPuUV96h89X_J_GorNiLjkUW5xpSpYEpiQsE2vC9_0FNO652S6dtBYOdR0jF8Vzi6LcuJqmHMwY4H_zzo2uzt6BTUedYXStiLf9lmuu2QmOnj0juthGYOKyHQQcl-U-dojtUsWWNo1toh1XktXyP5HwpA3DHkUtXa8TlUSeFbKg",
+        "width": 1920
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112402989169779319498\">National Transport</a>"
+        ],
+        "photo_reference": "ATCDNfVYLMpCb5AS87-lbWeoRneavVCRlnsbcL62wg-XwXtJooOJkslMxCCs9dAWeuHRN0OfVR-yrxjAdJyRJB97vN_Y6qbr0ZKXLG2_Pno2tjx-wCyMY9V3Y0pSQ59owlxUALwr-UYag3G5KzczTlieR0eWweYin9qotLaJMK6PvlWKvvRbfNHT5HlQZq2t4jcwT1XR85S57wJsKy-IBv2fIDvwBSUR4i4dqHJ8_ist-Nvp7Qvzg1QTgvCVDYB3q7F3Cs1-OqZIYJwLtWAQwx3gMXclpklGotGKj779v3nGtE1n4Q",
+        "width": 1545
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112402989169779319498\">National Transport</a>"
+        ],
+        "photo_reference": "ATCDNfW51stR1ZpndfCtpGi4uWxFTNkz--miobE_1prJZl5WgaEiTreAwRYUZaaaDg4PTb_03og8huIeBTeaJlNYn7TIlW_vt77vDQN5f2CoaEETQLxLdMpsvbr6BZstheWBvv-c1RnXwrDQ5rAyQQEJlolIvNmjt5HOnw_XX2XhvfbDUKcxnXD9QRyYsLPGDdr_LcejX7kdMlaAkDZdDDrEpPmqj9Bzi6_nIpM5R7mv7dQc6sqG1onPwi5F-fR6crpyEX5hT-XIIp8-a3yozSSEf4c_63vHuiptqVzh3JRJRmAQCg",
+        "width": 1545
+      },
+      {
+        "height": 2688,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112402989169779319498\">National Transport</a>"
+        ],
+        "photo_reference": "ATCDNfUyeQvTIYh5Ki9UlHMqC72CWz8GmQxvjVdkt3spTk7pZ3ApjYb-n9Cs1AcWD6hAnm1aKgGkQt0fRYC7wwHDsYNJtogF1zTE7dFG3p9eTAdmzcS9JyXm7C7AEJXJEQEGbUg7IIkk7xp-S9dC9x1h6uc8Wja1pjEcHkMfEqyHBsayhY_aDBAFvzES2biFrNBxfFyB7Rx0jmuCtm7c2MTIBK7_kagfzu_eY9DJmzLzf4VCmbEhXsjjdv7oRaO8Ra9oyuCkJR7iN54XgpZQmvhktX1T3zFpzUnYYWrIdMt77GVyyA",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJPzbxqS0WyUwR007rQ6FE7BE",
+    "plus_code": {
+      "compound_code": "9XG4+QG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XG4+QG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJPzbxqS0WyUwR007rQ6FE7BE",
+    "reviews": [
+      {
+        "author_name": "BLUELINE SHEET (METAL)",
+        "author_url": "https://www.google.com/maps/contrib/102966134928129465325/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_TPsytgtdguNObaGSyv7YUjyDtICAlPab7QWwmHSUW4OnBo-F=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "We used there service manny to British Columbia very easy to deal with them no problem at all drives are very friendly.",
+        "time": 1756355766,
+        "translated": false
+      },
+      {
+        "author_name": "Yogesh",
+        "author_url": "https://www.google.com/maps/contrib/112650422310936613961/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyz5BUmlfXaE6iIHsgWF9Pj7rMPSOB3n-B_dyBAEUbeW-doleBIQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Stacey from dispatch never replies to follow up emails",
+        "time": 1767020804,
+        "translated": false
+      },
+      {
+        "author_name": "Parvinder Singh",
+        "author_url": "https://www.google.com/maps/contrib/102308130188245673431/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJW0Bgs1uOFWBSr0TxAaUSO3RZAJOWC6vAjENxnzz2WfAprMgk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "12 months ago",
+        "text": "Their trucks are not locked at 105 kmph. Report to opp if you see any . Highly untrained drivers who don’t know how to go uphill and downhill with other cars and trucks at 401 highway.\nI hope this company is not operating at highway 11/17.\nOne of their driver is definitely a safety hazard at 401 highway. I was in middle lane going uphill with fully loaded trailer and there was a car in extreme right lane going at same speed. We both were at 105kmph but slowly my truck slowed down\n\nThen exit 464 exit downhill came and he came behind me tailgating and started flashing lights on me. I couldn’t change lane as there was another truck in downhill right lane.\n\nBut this driver kept on tailgating and flashing me lights. Once I passed the trucki in right lane, I changed the lane and gave him way. But this driver whose speed was more than 110kmph showed me inappropriate gesture.\n\nIf I had applied brakes at downhill definitely something could have happened:\n\nSafety is compromised by this company. My review is legit and it’s not fake if said so by the owner of this company:, next time if I see your truck is not locked as per  Ontario law. I’ll report at 401 scale. Good luck\nDate 18 Feb 2024\nLocation 401 east\nTime 6:00 pm",
+        "time": 1739924158,
+        "translated": false
+      },
+      {
+        "author_name": "Rajan Sareen",
+        "author_url": "https://www.google.com/maps/contrib/108278418878837220828/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWyuge5_YGN4H3S0qAyjBmIeyrb0DELlrtrNKmah-iOFAPGvk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best service highly recommended for all your logistics need",
+        "time": 1730776402,
+        "translated": false
+      },
+      {
+        "author_name": "Oleg",
+        "author_url": "https://www.google.com/maps/contrib/105693505883985286708/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItClXMdTED2f2v3k8oGZvAtOdgqGLdTffc1if7z_lkx93_rRFP=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Good place !!! A +++",
+        "time": 1764707131,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1291482652568407763",
+    "user_ratings_total": 39,
+    "utc_offset": -300,
+    "vicinity": "231 Rue Rodolphe-Besner, Vaudreuil-Dorion",
+    "website": "http://www.nationaltrans.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

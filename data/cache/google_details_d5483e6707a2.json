@@ -1,0 +1,352 @@
+{
+  "query": "Clôtures Raymond Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338482.7174037,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "suite 211",
+        "short_name": "suite 211",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "412",
+        "short_name": "412",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7H4",
+        "short_name": "J7V 7H4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">412 Bd Harwood suite 211</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7H4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "412 Bd Harwood suite 211, Vaudreuil-Dorion, QC J7V 7H4, Canada",
+    "formatted_phone_number": "(450) 424-3820",
+    "geometry": {
+      "location": {
+        "lat": 45.3785637,
+        "lng": -74.0191425
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3800040302915,
+          "lng": -74.01782646970851
+        },
+        "southwest": {
+          "lat": 45.3773060697085,
+          "lng": -74.02052443029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-3820",
+    "name": "Clôtures Raymond Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 585,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110880544021367831272\">Clôtures Raymond Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUPyJheRv3Yi-PLNO8pglWcQLN6UsFmoO4DDF__Zpav7VTO6ugmK19u_ysQ3d6jfEBX5vcy4kaAZB1xuTM7Ec8X_A-8dDz1oDY1aJ4hHO-JRKmD8dNc9myLWdvnQLsCyc8rF-60wJrRq0waljUFmWhxi5QY1K_cly6S9HMDD02hipHyomnvuDKJl9dFAiC07d4u2xfyHnvKzlHp1BYqeiKB-JlWnonCfr1oekf3xsv2OtO0TTLjxQh9-ddBqJWCjcVdXzinq5Z8TIUPouDnUREtcfz9qtqlyZsP9HtS__wNEg",
+        "width": 800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117978856767868571398\">Gina Michaud</a>"
+        ],
+        "photo_reference": "ATCDNfUgMYPnkh2Ga94uXbU1aAILf1F1nggOVEqdgVpHztOqSHenmSVp-ddESC5r87jr_XfRvanQrQWf4Yv40rcL1uwJqz8PjFRi9NG4yFbOF4mZWHtRGWRadVw6k6j72xhRgfk4pb1QpFwdaWQ1MroWkIcEYnxKRXLPXEICEJV-WmOdV82VG1K216TnNwdEqfKlo4tMofxybQPjOi7EobCDQ_XNbyS7yniKSFwO9PcXJt6HueLK1_Xsy5OWY1xNnsh6pKY7Um8pOOziPExn7XW3EwNDT2PVS8fUNTCNhHcxuKGXr8rPm5ZaTlzULOB4tV_0niFSzmqTOT2FeJb4EQd7UskhWd-Cp4QAO_JLykop1TUKJ9wGgBajrwQBj8afoYw6gj72__3_3BSy0gpk4JCeLDBHKjfOA7Y584VQlJl26Uma_w",
+        "width": 2700
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117978856767868571398\">Gina Michaud</a>"
+        ],
+        "photo_reference": "ATCDNfVRUneuvXLk-dlhYbfRBjoo9hXi-NvHHX6cDtDSJfq6FZ7GEekuCz8H-aXeubuYJBP4FCLphAzvnw3j5W7R95GzoLlTp77HkHlQgetj3GYIwF9sLI5dus8CwnrzFM2xLPIxSg-mL0vbihZfwrPDTCgl77dZLNvISgVi3T8qDGXfrLJR4N6fDtgDWjCnnlGqwJXCu9qvUzZ8iBkqcMEhjBiEzWrnXNKN41gB8Vm7e_Job4pZApPtHk0bLY4b4vu7a12MEYANc5TRDkA5gPc3tqG-kMjy9LBogDSm9fEHT2knDWjCM0QthD1Oi_P6FpMD4O2qd1z4iTiy-T86WQGMqk9jsf5fEvk0oZUiH1bkC9jKr32XT3HzVSxXbc9ovIusCHdAAKK5GlM8lIylyQYfArLLj0phyp78C85S9ulTM-DxSg",
+        "width": 2700
+      }
+    ],
+    "place_id": "ChIJO_ihCzZIyUwR5Uh3xRgqDO0",
+    "plus_code": {
+      "compound_code": "9XHJ+C8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHJ+C8"
+    },
+    "rating": 4.7,
+    "reference": "ChIJO_ihCzZIyUwR5Uh3xRgqDO0",
+    "reviews": [
+      {
+        "author_name": "Dawn W.",
+        "author_url": "https://www.google.com/maps/contrib/107700900161076096390/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK70x-bJePS8RiH0bmUVEQ2UskcbLr67oa-WNCUAJUrrXvapQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "From the first phone call to Dolores to the on-site visit from Mike, the entire experience was fantastic. Everyone was very professional, knowledgeable, and genuinely kind. The crew that came out to install our new fence was absolutely amazing — they worked efficiently, paid great attention to detail, and clearly took pride in their work. The finished product is beautiful, and our pups are in heaven with their new space! We’re so grateful for the excellent service and would highly recommend this team to anyone looking for quality work and a great experience from start to finish.\nThanks so very much\nRoss & Dawn",
+        "time": 1757434410,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Fania",
+        "author_url": "https://www.google.com/maps/contrib/101424452576055372639/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMCFiClDShH8i2oA-DVi_I3tPiCxUgU3xo-F9QdkHiEDqKSw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "From our first interaction we had a great experience. Mike was responsive and attentive to our needs from a presales perspective. Alain and his team of installers did a phenomenal job. They constantly checked with us during the process to ensure we were happy with the placement of our fence. After each step they cleaned up and left no dirt or mess. I would highly recommend Clotures Raymond. Thank you Mike, Alain and team.",
+        "time": 1687533302,
+        "translated": false
+      },
+      {
+        "author_name": "Francois Castonguay",
+        "author_url": "https://www.google.com/maps/contrib/118168585800967994554/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpi6E8plKS4QwF-3ZukcJSuPpT-HU6PzNC8lzd6GimtLvaUw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Mike and his team made sure the product and the install was 1st class, they showed up on time were very polite did an impeccable job …btw the left the place cleaner than before",
+        "time": 1751747899,
+        "translated": false
+      },
+      {
+        "author_name": "Amanda",
+        "author_url": "https://www.google.com/maps/contrib/112307607891570981166/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLojsx8HVkFSS-RLINxGz0JmpmLuiNe07Zhrx-tXgfnk61ww=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Very happy with the installation of our new frost fence. This is our 2nd time using Clotures Raymond. Their employees are respectful in keeping your property clean, the work is well executed, and was finished on time. Thank you again for another great job.",
+        "time": 1589568314,
+        "translated": false
+      },
+      {
+        "author_name": "George Klass",
+        "author_url": "https://www.google.com/maps/contrib/106090131091160859152/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLk_3pPELo5v0F75ZRZ-46JQu69JtiqdEtOXzndKVugptxd-oM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Mike (the proprietor) always took the time to answer my questions and made sure everything was A1.   The crew is solid and has a lot of experience and it shows. My new fence looks amazing.  Thanks again guys!",
+        "time": 1628016918,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17081073772589959397",
+    "user_ratings_total": 14,
+    "utc_offset": -300,
+    "vicinity": "412 Bd Harwood suite 211, Vaudreuil-Dorion",
+    "website": "https://www.cloturesraymond.ca/"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "query": "Ford Ile Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338921.479341,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1800",
+        "short_name": "1800",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard du Traversier",
+        "short_name": "Bd du Traversier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 0K8",
+        "short_name": "J7W 0K8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1800 Bd du Traversier</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 0K8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1800 Bd du Traversier, Pincourt, QC J7W 0K8, Canada",
+    "formatted_phone_number": "(833) 561-0407",
+    "geometry": {
+      "location": {
+        "lat": 45.3857779,
+        "lng": -73.9871751
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3873323302915,
+          "lng": -73.9854119197085
+        },
+        "southwest": {
+          "lat": 45.3846343697085,
+          "lng": -73.9881098802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 833-561-0407",
+    "name": "Ford Ile Perrot",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115263884028502791846\">Ford Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfV2PLvPmXgbV56akhR2lNbNbRFmOxHneIs8JmucW8J__a3vUGN6r7VA2cQLTdXr5aeKd7HZqh15OTPWcXXJEURivoqqk15V6UpxKkjTwhc7i67SZfg-oM_WKi9DTZg_Zqex8xrXAlPik6eggKZNShGJRfA5JZ20KCbMQUUUA4S8CuctVEPSSjPKdaeLZ__0TDw3DJT1CXD_nupHWJBnmFzZoi9ButVhJcwuBL2hIdUUvz3px_flueTViEh5pgkkhEDhvyEbWQ6d4hrXHt7VaDxK77oEI4iqE3Vl_MKwp_teCQ",
+        "width": 940
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104455453235087655953\">Alain Garofalo</a>"
+        ],
+        "photo_reference": "ATCDNfUIO_lC6Gkg4hP_dcV94LIM6iIPVxAWdkWjo2_Iz9AqP-0HMZY29K9YjEqCOxavWZ7GGEMnZP7_hmvxWKTg47VmFOZL-7fJPyys9nDE8wvoJC6vJ6LJAVxMN63mB-pmUbQvXsIanve1djMGFX2A38kMJzAn_gHm_7mOuGu0G_PLKblgGurKyatm36GlasHsIwa5UP5L7i85DQPKvXtvR0OlPjNMDnLaAJ-XU7U26D2bCaElL0rzFzHJqVAuGQC23dahRmf1ckx16rr2UlsMfHCbxsOpCFMJQOBWk6si0Z5zPdfEIYdXQzd56yoGU9pzYHee1lji7Cl2HqOAy4mW2C9AXers_uOYhajGQHCTOyeGplfXe1skXEK30dSvaIc0SRVlQjdpxtB8x2Q-q_wxYol2KteylqPQREIIft6_VDWLfuLf",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116651201903054577228\">Jr Jones</a>"
+        ],
+        "photo_reference": "ATCDNfVKleyyKCwfjsim4kygd1li2gm0t4Bef4H4uJmxOPpIS1ep-msegb15FPEUe7D9RhRahozdK61yb_DFFdkn6d0q-rfGNgEfWYz52r4-o1racgc8sOJ4GSChfSnhj-iN92hNT2UxSYOXQg-jHjCcZ9H6Ci26V1L2qIMlmakiISks4zEWTCFG5yUgVX7483VeoLiZ0eDKL_3hQ142CmypZZs4gxY2JY9o2Yo0qtKBmQ-WBvIQqpvjgvkUvhhhXBUfolIzdGsUGu37emP8Y8BO4wRDvnkmsE-zTuw5m2cuJvR3DFgZG8HH2oDc3jxcSXF6XhDd6f6CmZNYx2JdzyTRs0y1kcwznMLZj1-QJnvlgXbNW9UusSsjGBZYPctsWl-hYU7E_yu8jm8usF33QaKzlyMYVzqHfUG8bYo6mAT8_KhSpA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104455453235087655953\">Alain Garofalo</a>"
+        ],
+        "photo_reference": "ATCDNfVAv1YB8Kzz3shgllyANQGVH97Ty1WOj7Q0GJVV1jBwocCTC5wveON5Iw-sSC4e37kKk_Y-rG5dE1ueB4yXarZI9HJ8SWUW1zjdbkmMQzWBzp6rFB5vlJMjDZwItg7Eere_8rasYAD7lDEybB3I1ZFppzZf1Yg_emQQ8LvpNmXsa5RFWrSQlMVA4taogTHKkVrSKfrut4crAjcUOqfFmcHxJTSDR7NSfcb1foBD6btOUzk5CzVok7GZekm_31Ve5--TMecB5k1H5Eb72UDyYhUVbiYsDH4gCQ7tb_lc0iaxcVhlNqfKRcVGjHqMaZn42vVpMXNQaHRXR1RSRAYKQl71xmVDuahfp29ZRxrd1Q5_G06kJ3rcFzWeVEEyGCe1LQ0gbEKAyvB8xlH9LI5_Fsc6H6nVzitcXUvQ5jzePFoWia1Z",
+        "width": 4032
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106194860778546343938\">Gwendal Le Pape</a>"
+        ],
+        "photo_reference": "ATCDNfV5UD6G2iXF3bR2oDvUmgYjEKH9xca7Uqo0XwW20H13sN_V0M8e-sXH1TQcvu3ELLmmtPlykUrRsNH2xu_c7oCsEs0sSOxg0M41okGUGIe7kUHPj-zKUDXuhuhLmlMngimC4k8UB_C7M6kNHYbCcObP5t1QY5xSbDVQU1jubIMikjdX-h0vJ84MxZNagkiym8ySabVObol6_z_mIl5EEilITtYZh1rR8ZEl_4gmSkr3qpeXT2uPVw2yEWGRTSeFip-NWMrZjavlc3AgTsV33-Zvv6n50lWznzFFalCH2WqocCzaw6laTqzKKvKrXKH6BwrsXrGMVPafABnRKn7sQYNEvgkKyssk6iFsrrTa34hVXVcv3RbNQyx6rHHBdNbEl5vnxHO336nOHP5iD-WBkRAz8ziWtl8xnxUgKYQte-jRmg",
+        "width": 4160
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104203344277964638402\">Phillip Z</a>"
+        ],
+        "photo_reference": "ATCDNfXch0CpI5scrhzrIGYkbOiMB3x39L7N144OIjSB9O616Mx0iJvB2GOqpzkCFlrMQbDBbQx-PjYikTx4yNeCmpET790pzDu7yzqWoyoc4LzAKWKnWFuO0VmO4j917MyWnE9-XMtk3jRODl5SvQCAPnLFOhJ06R94pJvqwXMNdjKcFdPzag3DC6jbdfbHIeSaAS2jqPn-6Q6vciyUfOHsNWIyE0tSTn8iK41NxbsqHbHXkS3GYLjLRITLVEfAwRIUepZq6He2ygRaOjSSANLAeDyUE21gcjb7piAqwBHUaNyb4VDrfolcq54tR19tYayKkVYNsx5e_ZodNSQ0SxM5Ft5xqQw15OGcsUlAGlrDp_R_JhxYtF_zXfMLiBQVl5uD7ZtNT-0mNXwB1cXCS8TN8bTq-7zJzq7B-qvHzThfkb1xs7JU",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108126486181947925052\">Johnny Evangelista</a>"
+        ],
+        "photo_reference": "ATCDNfUSZp8iQ57W_-zY2Nm9HfsL4V-DHlOh3FVepbB8uyUb6-IF1m4MuhphX1vVeiBpQ-mDSTZJ3Vpyxe2H7CDOludVgUzAYaNCxEX8IV_G43FUMw4mfAu1_TmMs2qzpEa5emeguYtXVwl-YvJQwMM473_Gldh0AiBdhQvHIzgAgeCl69mZ5UVSdUilUwpiziYaPr3N6syuT61Zj6SWdwnQWVR2Bo36BOpPdh9-wpVydaRzExijHGrAE6Uu4vfL_O-yp70rBDkK6_-bbY_Qsb-78vGT4-GSy-xdhucW_QmDuTV1oLh9Tn2IKNGxF75h-Mtg-EZfwXDgSd5YslSEt7Fful_LC_dKGCZNMbVnjpK5KBN73B2BKqYewX9YaGRmZzRUDAksEn96GKVGhEv2ZlC7GCCivnxcAmk1Yfn4E--ULWPBzFtY",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108126486181947925052\">Johnny Evangelista</a>"
+        ],
+        "photo_reference": "ATCDNfX9lVYMckg_Rma-GgCpitQi0eFg3yvTLBlHtPPXHJqXuphMj0cuoTYVPCSrYthAYz9bhWquZbTkQG3TfFEVvnfDCFyA9BrdrrooVP373O4gItpEecidXyQ7UuQLNvodMLUE88hmqpLq94dkj5UeyCxacbd7tTTA_FiJUT5LG4hS-4sR8H0hkFp6531F7UjMeH41ga2atBwuyXFOsEWps7pRoh3KSRyx-4qsdJ1DZtB7vPGxbXF-jLROC8426oS2zZ8b_BUL7oXwkIzpIRMgGLxbMb4VJaO-gVgF9KrNMgGfr3Sxh0NMAvqMsr3hah18XnVVbcGlmyEOV86BjcCqy7yZYjdJX8OCgOHHKyjmEjYr8mVF64Ax9oEp6UyOL5c7foGAcYuTa_x_rca6uaLYWs50W1fafrMKh3gv4zlA7l4Nf6yA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116651201903054577228\">Jr Jones</a>"
+        ],
+        "photo_reference": "ATCDNfXEoQXLxdsOBooh-Ru-ybKyNJF9ZBuoOzwE4Jh1dgsfiRe5DbKialgPZqD88TR_iUJ5jUxZPg4CirQOVa4HPajS64lTF2OxeEJHxR-A0r2rZ5-oSgdTDbsjd3oTDNn9Yt4SkxiacuWqMPTAfACd-ojPInxoxY3Y7IramCFl_V73V4WsxDZnkmhxGXzPAXzcJpASofPdFh4BcKUWa_zycgaCmAebjYXrLfWivlco3u-2bA1ePAonVTvoEWtpOWLqBD_qS5YlXVq-yHF_jfFQewmJxE0FFrT43feTNQPauqG2e8BtqjEgVu71350GwQSitd3END1OflLV2HqS23xNSJ3bcwZWXVsGijGyVGsJaUd5IrWzSNN13T_lDybxJf_LRfohvk0N9c07nuGN3e1aPPu5jp2Wm5xozBTGQ0kqs0s",
+        "width": 4032
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107856146376346278344\">Mykola Tymchenko</a>"
+        ],
+        "photo_reference": "ATCDNfW136Lqu2VZ1hhdDxgWEo_ftowgbxfMNn3BRMtDJI1JtVsCq2dBpk68QvuwHWDR21vN3mst1c1Hs3d-hSA5NsfXn7pa0rs2b_SdZHrb8-wD8UmGEZRtDCBJHVSg62c9ctn_MH9LV-4hNfjFiOWTrvmdTzOgrsg3k2yiwIhofMuRJNme2iyWz561GMBiYFj0B8cQwRV8TizOE1LHmW6loTyf1H9T4lqsUCMVCc69sPT4rgGgTBah4se7mTQiCdh87pX-5789_XnAZ5bxaKyqKwgrGL0GP3qKhDinRXzRwAA3R18te3Q2YfyzhMv90-yyOo7srcxYU3l0dx25iQXmBYsP0FEhohYFe0fgdY7H0GhEvRZKHJ9IQvWtYgKUQWWQqurf1aHkCJ-MCXrWN8FdDmPWQuMRIzYDmUsTY0a3GfQ",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJMXnSpxI4yUwRCMdFFN-GfRA",
+    "plus_code": {
+      "compound_code": "92P7+84 Pincourt, QC, Canada",
+      "global_code": "87Q892P7+84"
+    },
+    "rating": 4.5,
+    "reference": "ChIJMXnSpxI4yUwRCMdFFN-GfRA",
+    "reviews": [
+      {
+        "author_name": "iamKath C.G",
+        "author_url": "https://www.google.com/maps/contrib/111037525585401222035/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKR-XpvLr_qx9CJEr1NQc4RszKaOr9Qyz-42sp7Nt4RR6IbpA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "As a newbie in the EV life, the seller, Vincent Morin, was extraordinary answering all our questions, he was very approachable, knowledgeable and bilingual; I love how he would answer me back with whatever language I used. He gave us space when necessary and provided higher level of professionalism and of course, he made sure that my lil 8 yr old is comfortable while we process the transaction.",
+        "time": 1768244755,
+        "translated": false
+      },
+      {
+        "author_name": "Maya Kumarapeli",
+        "author_url": "https://www.google.com/maps/contrib/102827587334561250095/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhd1UkQbqOdiSlz5PUdTse8lJbSw29QZ3EVjDZEpHYmv74AONE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I purchased a new vehicle in December 2024. The salesperson (Olivier) I dealt with was very helpful and knowledgeable, and the entire process was easy from start to finish.\nTheir service team (Melissa) is also top-notch. I've only had my summer tires installed, and had a safety recall done, but both appointments were effortless.",
+        "time": 1764806915,
+        "translated": false
+      },
+      {
+        "author_name": "John Duff",
+        "author_url": "https://www.google.com/maps/contrib/103171888525018554048/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIX1EEngePpHU3Mpigk6WB8hfscXWhkfiDvXwCsWS3tBj5Hg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Louis Philippe and the rest of the staff in the parts department always give me great service. I don't come that often because my Ford truck is pretty reliable but when I need something they always help me out and have decent inventory in stock which is rare these days.",
+        "time": 1760965919,
+        "translated": false
+      },
+      {
+        "author_name": "Gra IN",
+        "author_url": "https://www.google.com/maps/contrib/105143622125692928381/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeShys6FClJ_YcXXS7o0YdyKcCj-QW5lQWtVBjmft2RNa83A=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 weeks ago",
+        "text": "The sales manager is not so honest. Do not sign anything before you check your car and do not pay even one dollar to them before you check the car problems even if it is new and has warranty which will make you go back and force for ever... sales manager which appears to be doing many tasks there do not have to hide the truth... Big dealer but quite, I think Autoforce has to reconsider about these managers, if they ever care!!!",
+        "time": 1769624195,
+        "translated": false
+      },
+      {
+        "author_name": "Starlight Entertainment",
+        "author_url": "https://www.google.com/maps/contrib/116691595988228486868/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-00A_gzJkx0kYY8xuSfzk4z3LLMIpW9C_cLphpXMqNytjJkc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "My sales person was Jonny Iskander and he's amazing. Provided excellent service, was very knowledgeable about the vehicles specific features and communication via text was superb each time I had a question.\n\nI purchased a 2019 Ford F150. Post vehicle inspection-Johnny made sure that the small work needed was completed. (Wheel alignment, new battery) and he made sure to keep in touch with me a week later to make sure that I was satisfied with my purchase.\n\nI highly recommend this dealer and Jonny as your sales guy.\n\n- A happy Ford F150 XLT owner ☺️",
+        "time": 1753885653,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1188254169371625224",
+    "user_ratings_total": 715,
+    "utc_offset": -300,
+    "vicinity": "1800 Bd du Traversier, Pincourt",
+    "website": "http://www.fordileperrot.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

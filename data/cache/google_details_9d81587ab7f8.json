@@ -1,0 +1,283 @@
+{
+  "query": "Le Linq, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339115.6723344,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "87",
+        "short_name": "87",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Jean-Béliveau",
+        "short_name": "Rue Jean-Béliveau",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2G4",
+        "short_name": "J7V 2G4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">87 Rue Jean-Béliveau</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2G4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 2:00 – 8:00 PM",
+        "Tuesday: 2:00 – 8:00 PM",
+        "Wednesday: 2:00 – 8:00 PM",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 1:00 – 5:00 PM",
+        "Sunday: 1:00 – 5:00 PM"
+      ]
+    },
+    "formatted_address": "87 Rue Jean-Béliveau, Vaudreuil-Dorion, QC J7V 2G4, Canada",
+    "formatted_phone_number": "(514) 980-5467",
+    "geometry": {
+      "location": {
+        "lat": 45.3898151,
+        "lng": -74.0504957
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3911573802915,
+          "lng": -74.04900411970848
+        },
+        "southwest": {
+          "lat": 45.3884594197085,
+          "lng": -74.0517020802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-980-5467",
+    "name": "Le Linq",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 2:00 – 8:00 PM",
+        "Tuesday: 2:00 – 8:00 PM",
+        "Wednesday: 2:00 – 8:00 PM",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 1:00 – 5:00 PM",
+        "Sunday: 1:00 – 5:00 PM"
+      ]
+    },
+    "place_id": "ChIJ56YDK9RJyUwR8YQWoFF4qAk",
+    "plus_code": {
+      "compound_code": "9WQX+WR Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WQX+WR"
+    },
+    "rating": 3,
+    "reference": "ChIJ56YDK9RJyUwR8YQWoFF4qAk",
+    "reviews": [
+      {
+        "author_name": "shanece franklin-hines",
+        "author_url": "https://www.google.com/maps/contrib/111237498800958338551/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL49okIfoxW8IYtqfhtEzhf12q7DkTHci9lT_rHo5DHEd6HPA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Very nice project in a great location. However, be careful when you hand over the keys, big surprises await you. Big changes of plan without notifying you and above all a real estate broker who is not completely honest with you during this precious and very expensive purchase. Mediocre and disappointing service.",
+        "time": 1634785292,
+        "translated": true
+      },
+      {
+        "author_name": "Robert Landry",
+        "author_url": "https://www.google.com/maps/contrib/104449621739659430377/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWEFmcD6QQBcqOaK_fveP2ZvyO8kQ9A_-G4qA_AUqEVXFT_s-5=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1664319384,
+        "translated": false
+      },
+      {
+        "author_name": "Derek Sargent",
+        "author_url": "https://www.google.com/maps/contrib/105533992087716919111/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCG65LwBIl_e4ZmluoqLk_4fLfOsoncMw0T3hxx4KoTy4-2HI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1625343130,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=695938434402256113",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "87 Rue Jean-Béliveau, Vaudreuil-Dorion",
+    "website": "https://habitationssylvainmenard.com/linq-ph-3"
+  }
+}

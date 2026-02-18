@@ -1,0 +1,361 @@
+{
+  "query": "Contessa, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340056.3227882,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "370",
+        "short_name": "370",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">370 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "370 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 455-6682",
+    "geometry": {
+      "location": {
+        "lat": 45.4058709,
+        "lng": -74.05257189999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40724983029151,
+          "lng": -74.05076436970849
+        },
+        "southwest": {
+          "lat": 45.40455186970851,
+          "lng": -74.05346233029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-6682",
+    "name": "Contessa",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104717054972419848471\">Andresito Lopez</a>"
+        ],
+        "photo_reference": "ATCDNfXtUCrQERKW7a95WyPVbXW4KZM6GbNZmhLYHfIcD76S7JkK_MNaY0kSLR69nd51d2739IYmcN38JeAP0vXpnys44wmkIxTK1Nq2J-K8YpRd-m2pZmu9rt_RmRrWRcklBJkiONMVJpnzBj_pvNKRZ6NZLLZezgUGKNgiZL3nZCCIByRILyhVN1-j1xpNFS-cqup-hrV_iYAUCi4eBkx1Wvt9tHds49KLyxX7sHi_6eAI91cMgxllxk_hjOa_82tWFRwrUPj6ePtWzQ3Z0ea9DDJ4dJ5IF8Mqkb9VcYSuVwqybY3zB_eGpO2Kicdqbe7wf-_7TbVHBLtAqN8f1Mk2_oiz1tkyki5Q6q9ranzZlYiTxVrHZLdLyc_moL_Zpz4JHwmz8xOiBCAAwmzl8eGY97AXhs-nyNcY_tmDO4nZ0NIJ0_VP",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104717054972419848471\">Andresito Lopez</a>"
+        ],
+        "photo_reference": "ATCDNfUsLrqs8MHv-wYeEvItfFGhZOwA8EVyfM_G635mLr-8SB6jwcEz9dUPiJP7Y3fAwAZyFM-oP9Cw0q-xeylK9ammkqFQjDcXCM7LSjt3wjfncU48CQ6gIvXVX5xoayTouEXwL2KtjXLQsKqBC6zOiJsGZuBOqj4tOzrOTEhI9SE9nYCmRp-azYQlmnbDUSaqtRAgjEonTOrwYf-KrgcpvPjP_ph8o3wOdgjYwYYKI8Ejq8gWUv_5WmZh6bZJRIyYlqGJEM74UnelY9NW_z0GXWymESg1en-niI7b-16RMQI4bW4thfYDiAWnUO7knpYcs5D9sZMm26J2gQd6L_sFQrkOOCMOVodOZ3aPWUhS1NvqPRg0fE1pFzzUs_b7LMK08U09jbJLFIvhcOzi3fF9tUwFHa4tr-D3iZEubRDWalE",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104717054972419848471\">Andresito Lopez</a>"
+        ],
+        "photo_reference": "ATCDNfWjSqWB7KlhhJihQmsTb2VxvaLWMf12oAMYTs9eR7WMqE51hF1dxsL3Y_DYRtDgWKne79GjmXn5nfYGJbGOoQjJFnxz1KM8R1VWViM2rWjplf4o3AvPaE2RkzLd1ylPv5SmJPgqmbL6tIwGVs3guUWBsY3tmfsvEbsIxOndiR_i6SUSbSUOt-PaMii8wlYwsuWZxSeRsZUal42dbCbNU0WSDXAeYgTxIxpPGWIw21dqLXYOTOnbjmle4GxoKTssHj_xkcpHqR9v_hO9r6GiSMb-MpMXYo5g4ORRJyHogOHY2tJ9yE1IDDatyrx3cA4Wa34GfcTWehzP2WmjxmkKLWK5pamvYLSK6W3b36_brUXC_gXkEJHl_2_dlYjFzRT_XQ0LvsshvlHnk-PYXPKKWlueIFB9EcQAkU1myrnEbKi1Ag",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104717054972419848471\">Andresito Lopez</a>"
+        ],
+        "photo_reference": "ATCDNfVBbqcr-QhZHIN2AypLrtBT-OiZGtGN_rzh5-z7HmFItGobpwKHrml2LTsSGHdFKvk5kbaHhg5omy7Ijcj3g9NX9BZxBJbQ_-4eMn1czNTr7gSI5UpmHlFo5Kl7oeX4RqOxuzuIq8TlD1Qy60AvR5yvKTtmlav-IYUf7kpzVV6hpQ2WqRztHiBeiZIL7UcoFwQ2Y6K7aXDREhnvSIXXATDiesVDZSdFD2ZJY8AyHIvbuA4b942ib1DaSownle0MhrFFIyUxd8snBq-l_Bk0gt5I9b9gh5Ooa0M3HDAst2n9YUX0Z5P_9vf2sQHql56YP4G5JVJjB747_8bEg2rquvDaeQkktvSAqU1F_oAm8N8MLvfstVQ-Av69Su_ZvJsEadmA47GFpGlzpcFaxJW4yejaWsHKAeExllgnypnQnhMTumU",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110782285185300671218\">Natalie Ragell</a>"
+        ],
+        "photo_reference": "ATCDNfVp08Zdlj7mnJBX99oWovO_qV7xCWEFEMDBUpslpNwK2Ly7c6NiKUjAdg07-tVdgwPTW4Hv4ESCks37Z1-eCxKElxBaY4UHnkPP_U_et8ibMsIdOIbmBG_W4MGbjx-B_k-TBQxStvNehgUH4z74bAn_AczmkCzZ-4xtw3aX0--7KuH3e5sC3eK-YZOCDYndwT0a3FosQZ3R1Y3U_d_sY5DerxobQca6IZdTocg3FAQpVoL-d_2zeaevdXC384v7p3L7umlEsZjv1GBjfkXaodRLM2bI0Wafv-E9x2ZPZbQaceQWwBadqMW2YdcrtoenfsqCeqQTGSW0Xw68FavbR09_nSp-sdz8d8jlZyTyic_jT9Lic5hjYvFSQVsfDAjsJZGTthK8m2ynBPVO7rvsXXJalH1DKcsI1US0sD1-IWo",
+        "width": 3024
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfVgIHo3l8k_TRZIPJE7rJoaDiw6QjqQrcf2XNwzjTtLq74DsjuegOoyXF-Kzp1-QyDV_ydA6UnORCyYJ84_s-_dK7KH6dKWBLtcx8wrKwZeNJM0jFh1QKf18Y7GvuQuk41liYrRATDyaUGH93PXMuTNLBewjJjzXsCMfpnei3qMoKfaolaY0FNY5o3v8BUxxyHhhtGuvtiPTJcTbLCxOewL-b6chZKCXt68-3Ls-K7JDL57Y4G5OO2CKqQ4B4jUVHHI6GpzR_vMyStwmqko1w2-2VmTpPhxMm61m48rWpIA_i95IOMeJtbsybfV2rNvasGs-EWbslMp537jlt4wRBv-Heg03ZNqiSuJmXFk9X2HkXf6zM9h1pTdfqa_W-nKEosMjEgnVE7KYEF34uHobH77swYnvpk2vvJu0BxQ9PHScA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJB4HRrjA2yUwRyC4rI5ZzJJU",
+    "plus_code": {
+      "compound_code": "CW4W+8X Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW4W+8X"
+    },
+    "rating": 3.5,
+    "reference": "ChIJB4HRrjA2yUwRyC4rI5ZzJJU",
+    "reviews": [
+      {
+        "author_name": "Natalie Ragell",
+        "author_url": "https://www.google.com/maps/contrib/110782285185300671218/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwKfy0l0HQuw3N_sRuzis8I4E06_3ZMiDrok1hajJt91KZAA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Please teach your van drivers how to drive. On July 16th at 12pm on highway 20 a van was driving 1 foot away from the back of my Vehicle  in a construction zone. If I had to emergency stop he would have crashed into my car. Here is the license plate number FSG9365.\n\nDo better. That was so unsafe. My 3 year old was in the car and they need to learn to drive safely.",
+        "time": 1721146510,
+        "translated": false
+      },
+      {
+        "author_name": "Andresito Lopez",
+        "author_url": "https://www.google.com/maps/contrib/104717054972419848471/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUypvKTKROszvQIVYLJzKa_gslS8IefiBxEmJiWQrSoGObXg4g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Highly recommend it !\nBest staff!\nCustomer service is always good 😊",
+        "time": 1670508903,
+        "translated": false
+      },
+      {
+        "author_name": "Fran P",
+        "author_url": "https://www.google.com/maps/contrib/118306712302731070302/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8kY9NN6PeLp1nu-iAMQorlXldu99JOuXWG5OtBYyC5bWgbw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "7 years ago",
+        "text": "I purchased these cabinets (white MDF) via Reno Depot in 2011. By 2015 most of the doors were already chipping paint (exposing the MDF underneath)  and when I called the company to honour the 5 year warranty they claimed that it was due to excessive wear (this claim was made on the phone even before seeing the doors). I was a single person using this kitchen and used it quite minimally - I can guarantee I was not using it excessively. After coming in they refused to honour the warranty - saying that it was due to water leaking in (eg near the sink or dishwasher). Cabinet doors should be resistant to this kind of normal wear and tear. People use their sinks and dishwashers. Now I have to get the doors completely replaced as they have ALL chipped and look terrible. Would not recommend. Cabinet doors should last more than 4 years.",
+        "time": 1534333076,
+        "translated": false
+      },
+      {
+        "author_name": "Jesse Holiday",
+        "author_url": "https://www.google.com/maps/contrib/113060275134366114512/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOhOVas_jHr3MkcJBLEGxfzSxiFfwtgcXbpyvib0epCJAqMv8M=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Excellent drivers",
+        "time": 1730290368,
+        "translated": false
+      },
+      {
+        "author_name": "Éric Demers",
+        "author_url": "https://www.google.com/maps/contrib/115684197569624464548/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6NzodFlqL5Ro48cEI1Jx-_SQkjqq-xbY6ZNADHgjJiNu2VQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Quality products manufactured by skilled employees on modern equipment in a well-managed company.",
+        "time": 1683246468,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=10746841699485167304",
+    "user_ratings_total": 20,
+    "utc_offset": -300,
+    "vicinity": "370 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "http://www.contessa.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "query": "Arseneault Bourbonnais Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338857.700729,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "21",
+        "short_name": "21",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">21 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "21 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 455-6151",
+    "geometry": {
+      "location": {
+        "lat": 45.4141616,
+        "lng": -74.0255109
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41573778029149,
+          "lng": -74.0242803197085
+        },
+        "southwest": {
+          "lat": 45.41303981970849,
+          "lng": -74.0269782802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-6151",
+    "name": "Arseneault Bourbonnais Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112118739851006349028\">Diane Ouellette</a>"
+        ],
+        "photo_reference": "ATCDNfXgwTomt8HqYtjEjPgyBg9Qfw-HOfOgESZ1rSkUAabNzxtCmQM4n0VUDcvswutk56gFRUzPp1eu2dSJYO4SasQFuBhSkC6oeVle7kcyx8WylJdaWpvnGOVjyCnQAMHwdpA_DungQykDLMWVyA4YmZ9P16PjKtqH4h3uQmF3rMJUsKmUuYlhXSQrhc8WhVZrGx729m4NYdStulpBQfDbTZXUaU6MutoJ5HWxySto3YZbNHpzj-aQ3TBJrjEwpso25BeYPqbqR9pwGSflakxYPfnT_NfMea8mCkGacbSEKN1ltVJPoW6OAHE5rnV0bKpfgeddLtq4gB0tL5_vDWaZHnIaOxdMO1osTqCb6B6Z2z7mFGVigki_Y5VPyxqRpDOoSFw8N4iEXDfdW6DKmMrGHzEr9WEiDH5mX3uj6a2lQMAhog",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJo73io7E3yUwRAcYaSMmVs_I",
+    "plus_code": {
+      "compound_code": "CX7F+MQ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7F+MQ"
+    },
+    "rating": 4.2,
+    "reference": "ChIJo73io7E3yUwRAcYaSMmVs_I",
+    "reviews": [
+      {
+        "author_name": "Robert Salera",
+        "author_url": "https://www.google.com/maps/contrib/115399289850721800029/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSZTQBZtet-GIDuBz9PktRFnPe8hwo96ey3rza7XAIY9541G45=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "While I cannot speak to the full experience since I ultimately did not go with their services for other reasons, the level of help and professionalism given by Audrey was very appreciated. If this shines through to all aspects of the business, they seem from my perspective, like a good company.",
+        "time": 1710785067,
+        "translated": false
+      },
+      {
+        "author_name": "Jimmy Rustlan",
+        "author_url": "https://www.google.com/maps/contrib/111669636788024494440/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq9Bz1haH1D5LeSfxTr12-a5Wq-35Z45-SwaBiI6WPvqsUWeU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "$900 to come reverify that a certificate they did only 5 years ago is still valid.  Go elsewhere if you want good service after your initial work.\n\n$900 to send one person to check that nothing changed and move one circle on a certificate of location they already created - incredible. About an hour of work including the travel. In addition to this, 6 weeks delay to do so.",
+        "time": 1573311374,
+        "translated": false
+      },
+      {
+        "author_name": "Susie Aird",
+        "author_url": "https://www.google.com/maps/contrib/101209062696581668075/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfqT0ZwvMQhW56fVU0gZxh7Nq0_jbXknixpsh1XMoC82PQ3w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I have been working with these surveyors for over 20 years, and they are the only surveyors I recommend to my clients- thank you for such great service, Arseneault Bourbonnais!",
+        "time": 1666909894,
+        "translated": false
+      },
+      {
+        "author_name": "Go A",
+        "author_url": "https://www.google.com/maps/contrib/103997549162303912953/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo3QntQ2XuW9A0beGfZcJdNeUMHR3cR8JQn2_Il5qUwb0vE0K0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Worst company ever seen, they double prices in week of different and do not respect whir customers.. They sent emails by mistake and give lead time in 3 months and more .. only take money and do mistakes and take more money to fox their mistakes.... RUN AWAY!!",
+        "time": 1665153527,
+        "translated": false
+      },
+      {
+        "author_name": "Diane Ouellette",
+        "author_url": "https://www.google.com/maps/contrib/112118739851006349028/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxV9G2cw43MAGeEVQWdRRSI5xfa8bcpU2IbnaJ8cr6xZC0WA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "We were charged an extra $230.00 added to my bill because of a surveyor's error regarding a misinterpreted phrase in the location certificate. A square of patio slabs, which was supposed to be a fire pit area, was called a \"terrace\" when it was actually a fire pit area made of patio slabs, not a terrace! We had to remove the patio slabs so the surveyor could redo the location certificate, as the slabs encroached by 8 inches. We were forced to pay for their mistakes! What a lack of professionalism. We do not recommend this surveyor! Go elsewhere. I would only give half a star, but we can't publish without giving a star rating!\n\nMs. Audrey! The encroachment isn't the problem. If you had used the correct term, you used the word \"terrace\"! It's patio slabs! Madam, not a terrace. If you had mentioned patio slabs, you wouldn't have had to come back and we wouldn't have had to pay $230 for your misinterpretation! The notary and the buyer would have understood that it was patio slabs and not a concrete slab! Patio slabs shift; they aren't permanent like a concrete slab! See the photo!",
+        "time": 1576282514,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17488486469740447233",
+    "user_ratings_total": 19,
+    "utc_offset": -300,
+    "vicinity": "21 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://abag.qc.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

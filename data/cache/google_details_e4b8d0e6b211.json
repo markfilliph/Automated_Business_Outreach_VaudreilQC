@@ -1,0 +1,384 @@
+{
+  "query": "Clinique Médicale Privée sans rendez-vous, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338869.4174514,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2nd floor",
+        "short_name": "2nd floor",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "18",
+        "short_name": "18",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Henri",
+        "short_name": "Av. Saint-Henri",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2J6",
+        "short_name": "J7V 2J6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">18 Av. Saint-Henri 2nd floor</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2J6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 11:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "18 Av. Saint-Henri 2nd floor, Vaudreuil-Dorion, QC J7V 2J6, Canada",
+    "formatted_phone_number": "(450) 330-0470",
+    "geometry": {
+      "location": {
+        "lat": 45.3846727,
+        "lng": -74.00961459999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3860920802915,
+          "lng": -74.00813066970848
+        },
+        "southwest": {
+          "lat": 45.3833941197085,
+          "lng": -74.0108286302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-330-0470",
+    "name": "Clinique Médicale Privée sans rendez-vous",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 11:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107937771641028020940\">Clinique Médicale Privée sans rendez-vous</a>"
+        ],
+        "photo_reference": "ATCDNfXv55K_dSK15Ku1e8IfjlWd6tVNhWVSyBAt925MeoVKiNp324fcrUrnW9cF-M1J_pnmvpYfteK8UOvP5u3upsGfHEK9kRKJkqazxxyipmKV-BWe7DJHghEWa8JEeLAMhI-Kn_qEt558gq0B9XRKDrCrW-LPHf4Jjv0TITzOyhvmRiK9kx0pjbcEX7Au_MRSbp2NSkm1uaKONN-iScdwfOTs3gv9c7JYV76UjcWaUSRvLCiqPpnjbDnylKB9zyRiHyY4HZYlUEoxYSnN6sBO-rNd1YtMQnUrcaGM8XeZDq4T3g",
+        "width": 1868
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107937771641028020940\">Clinique Médicale Privée sans rendez-vous</a>"
+        ],
+        "photo_reference": "ATCDNfVo3yXewaZzBrNg4_SomdKGfmp6A6PA3BWQC4-jEZYQ_XCD_ZdhxUOTaFlXGqqflZnndmimCDlVWQ7tofG8II-P3stG3BehnGmiTDDVIQLqVR3m6IYzCvBpguGvIdHYuXboMCx5MeblcMaFNlMrGneFlMN5t38Z2tqDwPQC4QVoV-g7nkvxpmMgxtnCPFaSqwKojOHlmIn0ZJheqyzyLRz9GVc7hK_pNywxdXc7oDIIGxvfvFsrr15REROXwC5BoibmKgH1nj_qwhDh-7BF1YGkY0uyrCzp8-rWKSfG7Y4pZw",
+        "width": 1868
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103488073063845986585\">No Name</a>"
+        ],
+        "photo_reference": "ATCDNfVFwdVJBo9L6CPqW6x-tO-J0cO1mWZ3n3eLQZtfc7rdzAJdaqUHYjpPhu_YvO3kUAVJgsU9ReN7PehvxR52ccRlh-KtyU3TlvaLGd85TppstJr69UGXi_RMVEbuEVhNflKV_0vlbQXrD2-lNPQ_Vko0Atk01daiP19MTClMCTqMr8SbHedVtLXe8odHOtnOqR3xOMU8P-qBk3LxgVxOGWD6ZKp-etNiGR9a-QDccuml5SJ-jGe0vFIKPLmhdqp-2qRY9m4LlS3_Dd2RY3iQxLJ0_aWW_eoEvlomPPtrkRtRgeZuMaIbAM8suof2cRnA71N_pAM_qLCHLt8xpWV89OmXNft2hnk3eBrdppnTDiwoNUmplxWrUyD8D4HrHcgm-1bfq_8uQnX5GIJCIUeODJSfJXG0__nd0Oal0LNPStIZDi0cFQpx-2wJGmFPKX9w",
+        "width": 3024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107937771641028020940\">Clinique Médicale Privée sans rendez-vous</a>"
+        ],
+        "photo_reference": "ATCDNfVrmwX6ol8oSm0IaVJOrkLYT_W9CNhw-JtewphaiI8qf53FxWLbTTNbelFhBsAB6EEGFEYzwRQbpwOZcD2GR58RxpBdSG_ATlbeqD-ncy1aexp589fdQsTVyX2cDxZFxUOVHvTqJNfmn8Mae1TII7ejdT-VLOfWW5Hz10NyhjUsiIsrltUCX8MuuJjcQRicACpTboEVjXe5Gwcv8DdHkETdIbY0Ioc19hkAgsvVPgRwZ9shrTAPD4ZOSWaoOLYUQCfa2Xb1Xe4MWZBBUeBlqkQbpsgWQZxspuoGsnGxqGxw3Q",
+        "width": 1868
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107937771641028020940\">Clinique Médicale Privée sans rendez-vous</a>"
+        ],
+        "photo_reference": "ATCDNfX0xfio4INMr1bIyiHXwiUmK-5ME6trlR3puOaX9aWoRFKS3oGoHpCL7r4suuxqq00fu0IxIoVe7iR2-Zy6XoOF4ydYSk1vODhfeC4BP-C7aATrflcny9lGhNcIsMG08NStSDO8QWyGl5RMkmEUiDmmAYdE1qT6X5QquAwDW5mx-ZcgbTBEuna7oxoWYn5bebpvtaCHBlIMFV21N8yySgvNsf48qS4wln25fmHEwfqkehW1HUYI8MG9NdWSUUfNfEfxAFiZoDZleZ7k-DqTukS0VEbwnLm2HzUY9scjggvQyQ",
+        "width": 1868
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107937771641028020940\">Clinique Médicale Privée sans rendez-vous</a>"
+        ],
+        "photo_reference": "ATCDNfXhIR6kttScfmpF0oB5hIxpd84DnEoMzACkMREUmwmaDSvLOxkKZT2wYHNOIVp-l0Bj1YV65vyInl10FYLiIcMA9BH9elA7FxG7eVo4Mo5QxUeJh3CKsrqk1Tj33_6K5OYRkWtmG5svWio_Kekbk5CEgSMa-ogNrYgmI87ejy353g5g8hhf4cny1qT5WRNbluWhTowzNgeyRIas8_uVG0FxYoCweu8kNm0rSa4n8wDNM_Lwj3OEpZiPlPxnFcOxjdHmZApGN1DtN5ymq5JGXrFBrqY2v5_AKCWA4TCTa8jmyg",
+        "width": 1024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107937771641028020940\">Clinique Médicale Privée sans rendez-vous</a>"
+        ],
+        "photo_reference": "ATCDNfV4tnKRBFBsTYHzunHNUdICOBgBZv7vYP1nuVx3RpFbBuHrX-ZvoXmebszL7eWfsvyF3rb3_DRIpBoTl56FENjIUvuBzSfb2rYCdZuvOSQT9zDVqbH_NcG0S6QVOI1pFOZ7Tul-Ta9U_N3yxLWffUS6fDRUxZyEdgusSPNB-7J28Wv09q_MrkqCENn2xl_6MBorFVXLGppVmr80ZK2kG35D3OMOgFXkn8p_P4gNOxNnQJS6w0Rwm2Pf9dOyKDdCq-397lqAmNWS61Osd1N-tzpnve-VPYGYBvU6-DHMIDzhqw",
+        "width": 1868
+      }
+    ],
+    "place_id": "ChIJZy1MumhJyUwRywH4LyWM-B4",
+    "plus_code": {
+      "compound_code": "9XMR+V5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMR+V5"
+    },
+    "rating": 4.7,
+    "reference": "ChIJZy1MumhJyUwRywH4LyWM-B4",
+    "reviews": [
+      {
+        "author_name": "Noozah Ansari",
+        "author_url": "https://www.google.com/maps/contrib/105154741293603635240/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTPUdj3KDYl13D4t1QYBe876CJIWHM9Iczegn0xKnq7-jl1w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "If you're in need of an emergency appointment, this is your go to. It is not a regular medical clinic. It is more for esthetic work. But the doctor can lead you in the right way for emergencies.",
+        "time": 1759802816,
+        "translated": false
+      },
+      {
+        "author_name": "Флaрит Насuбуллин",
+        "author_url": "https://www.google.com/maps/contrib/107615234639737997522/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXAvmKKNfcPc1bG_rJvyiqwukt2LJT-huKqTMN0Tz0ot1N6A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Every body nice, polite and professional, we had pleasant and positive experiences, we will recommend this clinique to our friends, Thank you very much for what you do!!! 🙂",
+        "time": 1762648250,
+        "translated": false
+      },
+      {
+        "author_name": "María Tedesco",
+        "author_url": "https://www.google.com/maps/contrib/116743996672077458087/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuZjmuRpRaQLTNB0YkIJHIeo_KkiFFhW3o0D9NgKjfNwq_s5Oi=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I highly recommend this place!\nThe service is exceptional from start to finish. Their treatments are innovative, effective, and tailored to your specific needs. Whether you're looking for relaxation, rejuvenation, or visible results, this spa truly delivers an outstanding experience. A true gem!",
+        "time": 1753241185,
+        "translated": false
+      },
+      {
+        "author_name": "Andre Remillard",
+        "author_url": "https://www.google.com/maps/contrib/101313581857939457366/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISk2fqqSD93U5xcqv0UKR21tHNr9NBnbaCiCMQKntn99KoeQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Call them. Asked for an appointment. Have urinary tract infection. Call me too bad go somewhere else I was told the doctor was leaving on vacation in 2 days. That's why he wasn't able to see me receptionist needs to get her story straight",
+        "time": 1756165633,
+        "translated": false
+      },
+      {
+        "author_name": "Jowana Barazi",
+        "author_url": "https://www.google.com/maps/contrib/105133631437849581413/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpXAjfe19Q0c7BRIOhiCVxUohKoGGshtCvIoaMEnQvTvavvw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Beautiful service and great customer care and support. I recommend to everyone.",
+        "time": 1761750224,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2231687706708541899",
+    "user_ratings_total": 29,
+    "utc_offset": -300,
+    "vicinity": "18 Av. Saint-Henri 2nd floor, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

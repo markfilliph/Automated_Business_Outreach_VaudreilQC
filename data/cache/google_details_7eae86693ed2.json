@@ -1,0 +1,408 @@
+{
+  "query": "SPS Avocats, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340565.7827144,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "bureau 209",
+        "short_name": "bureau 209",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "Est",
+        "short_name": "Est",
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "long_name": "11",
+        "short_name": "11",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">Est</span>, <span class=\"street-address\">11 Bd de la Cité-des-Jeunes bureau 209</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:30 PM",
+        "Tuesday: 8:30 AM – 5:30 PM",
+        "Wednesday: 8:30 AM – 5:30 PM",
+        "Thursday: 8:30 AM – 5:30 PM",
+        "Friday: 8:30 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "Est, 11 Bd de la Cité-des-Jeunes bureau 209, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 424-3764",
+    "geometry": {
+      "location": {
+        "lat": 45.4148923,
+        "lng": -74.0221931
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4161270802915,
+          "lng": -74.0208166197085
+        },
+        "southwest": {
+          "lat": 45.4134291197085,
+          "lng": -74.0235145802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-3764",
+    "name": "SPS Avocats",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:30 PM",
+        "Tuesday: 8:30 AM – 5:30 PM",
+        "Wednesday: 8:30 AM – 5:30 PM",
+        "Thursday: 8:30 AM – 5:30 PM",
+        "Friday: 8:30 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfU3FZGiQRxA931qTm3vxrGYp97icdmSwAS5G1duh3xwrDkJZid3-wgZUlWWUVsh69YBTv0-MNopIT2WKwLlKyeTM2WK6qAOxd-p3-QIi4Lm8UN7J9_gjnOtL_cWKijmrSy1N97mfhW9KtZ1yDOtbSaOPgrqnqQ6qaYcIoQ9p8OiDVrs6-hu430yZc4wjxiIN_G2-3cwzU6b1mnzfat-6_IdyAwkSizOABWCRrFlixHNogRHDKJITll_QusGArJUE1dGe06CkSIef1NqXc4VZb4qd88G7q6kMO4KUwn5Jmk6Kg",
+        "width": 933
+      },
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfVumPc_jG7HRxLM9ZIXglDL84bKccyvJ2EHwvBEoB9rxQwqehQxkf7psXO2IPMlpzdHFVqgg2WxojzIld79Q7Hrq6UjOqodPryN6RecPjwwjJCbQdQoEfuiNu2I0gviQGtLyWK3m3GE_x3J3ukK3N9h_XIHVQ1JusFDjHGG2Gl4EpcUb5uxms2-FABsSCB4mgVVYaQDdQFxfrdPfwehfc9njj-iTDpa-t6JkeoF-lwm3gzBPQH6xB61Xb5G4fi48zn0XlpY-vMuDkYEumaSWizzQzlPMn7yQsZi0-_o2Hcr7Q",
+        "width": 2000
+      },
+      {
+        "height": 711,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfX54-Sow4SjJdQunnbjJIRVTzIbSl6FyYNy0HzuR6_UTlBlP3BT8riZVzJtMPTQkipVi9to2fAtOlrrF5CiOjQFJqjcPGSNx-SEHG70AHsGaM02FX0jFBdVexZEMp_8t5hZ96wAdnljcxzUtRFg6C1DRkdJURaVv7gB-vhXeCLSA5vuBSfFNLGrUO9VOr2uSyqA8jYTIATK_at--4O1oN-WUXsFfYLOOOI_QUqHvvgUumLCwVE0jADc1lLYSA7k4K0FkRq4fPZptAfQJAlFWQaMExwZljJsWF4Fs2aSbJ3R7g",
+        "width": 1264
+      },
+      {
+        "height": 1066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfXK843Ym3AsPjUOjHk3ThV7o1n9umf1vpUMGraUTYC_cVPkk0frkw4grKVMZpKn47l9A5luA2ZP-mOZfJNkSnj-HG5N-aFrCz1MCGWxj20N949cn1rq_Gj8_DBqgQA3rLFE4bUv5S8ylnCQTKitr0m4xF5WdcDpJ3xLX3G42vYD7q7_iX6DyqI-EX-8WggSu6jBxx3klAyGSbIxhfYQPhG-YIaK92IdGxMRs82teq-rA2GBs8cJhrxqguSc6cksHX6O9c2-JHUXCMYFVtRFIgG85Q-3XUyNTRX-XHT0U733iQ",
+        "width": 1600
+      },
+      {
+        "height": 1066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfWpfRTBRUceDoNVf_fbwU_56CZVi2UWA1YkueUvaSlf6YFJtCmZaYd-e-XZ-pXYTQKNPnx3HQZ-363m1uVYfgZGI1OKGFVwal-Sx64IrVbO-No5ciO4p1Y2H6d4vbA9zK-pgXteJyL5IECv8g4jYHWcVnqXBGpHrD7SgwEbjxnumBTS_399DG55q8wruIIrAJTMhlSRduq1Nnp4c0gSIbpW3ZVhx_f1CivEAWZNXDJ3zwMZc8yG7jfAcD_vCvh8-6rNDSw0vhWiz1EcXuIq4pb4ijzRG9eg5cZpE8rwwJzAXA",
+        "width": 1600
+      },
+      {
+        "height": 1125,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfWfuPPgJ0bo1IJxqm42ZdTxLO70DluoH2RDJCycXXI07bZaqb8nHkNVdNYNw8pa_UXpjFRcPKCBn8toCkvPVEtQACkgayypq5HMxLQrissva11NaYGkxFS1HrpOw9ecrkGVpiootYmYr-eX_tBMtv6j-9yz634QLV2YQEG_Kck9WDSCouF43QlahYOL76R-mZUPZyIeqbKPjC8p1SLQM3C4dWYg0oX1xVn527FRUEEJ0dg6JAl7lc7W98esZcimoZz_a75NuOdTOhzf1VJRdsc8J80gEE_JgYNZeauxWUTnHw",
+        "width": 2000
+      },
+      {
+        "height": 1066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfVloPVBfpGJPjouOIXqnqZ6PRimGiS94kC6nPT03A5jVDBvhYBwS87_ugP5RjhwjFKUazDUgN3QILz0o9k5d-xNnY-t3HaiBIHcxyQ6M_ELtLeCCebnT2IwzIkZ2fK02hDTBPeBn7Ykx02t38SQ52a0o-DymZg82mdOB3o60qfbLZWWB7qZmzK6nK4fnJo2k5GIv2wY720vEIYkd-VaDI8gPIryt_diz7xrtl0ZY5E9aUQXImIUUKKvuC6blRsUlVT5aR09kX3eneL31jjgIisvZ4cMBj4KGa1sSiSG9ZHTOA",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfUcqez7TZdWfCbI6etkkEaGmi4Fi3rFn8UlgxR-kd8HM0HMshDmXxYsc61XjQSW22_jiGevm7rj57T8OCRrrd_18DXKdYKUlRXA3j9KdEWoYuWTZNxxcRKuad5iXyFW3aKDpOjwknDuY8jQK6QP4DlDOHzUWMpYwc5PfmKAV6i3rAJjAIofeyKFJ4Q-ITStKKI9V3K065GfT5EPhMUmK8MB-ckuOmPgewowQh1xNZYVXbLe6x_KWuO3NTd5G_ARTdwXB-hpeRmqtSk4FgpQnpk5Y8gkdJy0lDPHpWtmvMggfA",
+        "width": 1195
+      },
+      {
+        "height": 1066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfU1bpvun3D6f-JHJUxss93JbLo44yyiiSDobj4xxM3j38yVQj05g0aUbZYTSC2Tu-f53glcHElzqg73mbWUJWbKQLtdQXJ-GafRvhfgn_rrgHSekFnJmPsJBNdd24AfGQsVDZoW_rtBwIrXVzoIu41n3Lr7CWpFJXlRTq69Nzp8kRhHkdwYyZ8wkM_fazQf8sYSgUQSJ7zNd6YxcmDDe5og-Dhsq8L4KeYjzdGQkaRW6W1lsop6zXAcJ337OGgWtATJHQsIe3nt_6_ZBBEyDzWbXtuWE_Z-FOZIT_b3q9RJVg",
+        "width": 1600
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586217700136605794\">SPS Avocats</a>"
+        ],
+        "photo_reference": "ATCDNfWCqGV_21F0AWBcpOIJTSVeGfyQ3ZXFizHJ63yXWK9HP57hMKtl81EUwtWi9e7KvTwNoqoONyTCAN5V3H-7q4RfUIuY4opfVRifTtcxCAyv1He0gqL9dvDPT9sABGxjOIqnDFjBoojUIxLcXqQfkOkmWqwZyY5qYHOPomyk3kcyQ87nGHLABbbxKvvV5Au95NrtGplvZgBp1zge8i9xBlTL70knjqxHURwdZAEvbIZ0r9xXkJT7lg0TnG_TO5flg-06szEzzBcswRZIEN8fud_WuaqZXkpt_fBRhjHtRkRl6g",
+        "width": 628
+      }
+    ],
+    "place_id": "ChIJKQ3n5503yUwRVQqBIdKYx2o",
+    "plus_code": {
+      "compound_code": "CX7H+X4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7H+X4"
+    },
+    "rating": 4,
+    "reference": "ChIJKQ3n5503yUwRVQqBIdKYx2o",
+    "reviews": [
+      {
+        "author_name": "Antonia Ganis",
+        "author_url": "https://www.google.com/maps/contrib/108729772963547620038/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILfDWyk7L7oOAJyyVbpYcfwMo6wTN3bCFxTGiNNF9zvC2cdg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "This lawyer accepted my case and all my money just to tell me at the end that he’s going to refer me to an other lawyer who will do English court proceedings just for that lawyer to scam me as well do not waste ur time and money if you want your case in court in English because after taking your money then he will tell you this news smh I will be reporting this to the barreau Quebec",
+        "time": 1725403327,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Lussier",
+        "author_url": "https://www.google.com/maps/contrib/117733435204869521637/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPOjYq5yFe7gHVV-3xuo84xFY5ouslmcEM3yqc7Nm5i6VJ69ZKCg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent service",
+        "time": 1701017781,
+        "translated": false
+      },
+      {
+        "author_name": "Jonathan Lamontagne",
+        "author_url": "https://www.google.com/maps/contrib/107964473968180686093/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmE22wMGEk7cQE1VYGYFIx9cIzBMnJWklfTDWNtbmZOrKr3mq6Ww=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "I was recommended to SPS Avocat because of their reputation for professionalism, but my experience fell far short of my expectations. Instead of being assisted by an experienced lawyer, I was handled by an inexperienced intern who seemed to constantly need to consult with his superiors. This not only prolonged the process but also raised doubts about the quality of the service I was receiving.\n\nHowever, I still appreciated that, behind the scenes, a senior lawyer was overseeing the case. Their work seemed very professional to me, and that was sound advice.\n\nRegarding pricing, I found the prices excessively high for the level of service I received. The value for money was simply not justified by my overall experience with SPS Avocat.\n\nIn summary, I am deeply disappointed with my experience with SPS Avocat. I would not recommend their services to anyone looking for effective and affordable legal support. My recommendation is to look elsewhere if you want quality customer service and fair fees for your legal needs.\n\nThis review is based on my personal experience with SPS Avocat and reflects my subjective opinion. It is not intended to defame the company but rather to express my disappointment with the services I received. The criticisms expressed are based on specific facts I encountered during my interactions with SPS Avocat, and there is no malicious intent or false allegations in my observations.",
+        "time": 1720104551,
+        "translated": true
+      },
+      {
+        "author_name": "Nan Ferraro",
+        "author_url": "https://www.google.com/maps/contrib/110440060436234052326/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlv5otBC0tTk_giC-CuNX0WjhNa1IumswrV6kEMj3TW9Gw8rk6=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "To date, I am very satisfied with their services. The office is large, the rooms are comfortable. And the two lawyers handling my case are very patient. They know how to listen and always return my calls/emails within a few days.",
+        "time": 1699117690,
+        "translated": true
+      },
+      {
+        "author_name": "Sylvia Bombardier",
+        "author_url": "https://www.google.com/maps/contrib/115343636447753586068/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJlRY0iOSmUw3e7zkLArtg8TRZR8MEWi6kC2aBvWwWHATqo0cS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "My experience with SPS Avocats Inc. was very helpful. Their legal advice and consultations were very informative. Their services are fast and efficient. A very professional and respectful law firm. I would not hesitate to recommend this law firm.",
+        "time": 1558019135,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7694286516658440789",
+    "user_ratings_total": 12,
+    "utc_offset": -300,
+    "vicinity": "Est, 11 Bd de la Cité-des-Jeunes bureau 209, Vaudreuil-Dorion",
+    "website": "https://spsavocats.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

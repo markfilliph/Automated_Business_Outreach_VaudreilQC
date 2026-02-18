@@ -1,0 +1,354 @@
+{
+  "query": "Les Viandes Première, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340070.430112,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "270",
+        "short_name": "270",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">270 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "270 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 424-0500",
+    "geometry": {
+      "location": {
+        "lat": 45.40797,
+        "lng": -74.048698
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4089663302915,
+          "lng": -74.0471160697085
+        },
+        "southwest": {
+          "lat": 45.4062683697085,
+          "lng": -74.0498140302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-0500",
+    "name": "Les Viandes Première",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115445360428101604836\">Gervais Gagné</a>"
+        ],
+        "photo_reference": "ATCDNfWSOp8JXbGz6KL-31YL0BSt5xWnnMddIasCTu39ERItjRzGz96xYeAZ6fiCJZSNhjsarqsO6xKpGAxL3u6mxLs3SSVW3XQ78klMhO9YNR1MxGTVWe5sQUfoxsP9kSA6y_DBpWLt6sWvWqZwVnrJXROlZNb3N1JUOTYzT1NeOT2oHOjjN81RKW7hcA65QUXZ2Emc0q58AFtaCUNxcR0WuAlPj_uOCbrS6xGBh_NdofNtgh7beTbW6vKazqPqo-vOT07A6pCRrwkcDGpQnHntLhSF4ADP9nwlQZccGVxOgFSmQnM1lUFKdlZ56Atx2_kN8pHmWyqqcASbFDiF6iD9C8fwd1tbppXzRmqidh_xS7gEwzJvTRJkA0JrVwWzuXZyeo4glWw6z9XR-sDvX9P-pFass-JqNR0-6M4AxOhzws0",
+        "width": 3264
+      },
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115445360428101604836\">Gervais Gagné</a>"
+        ],
+        "photo_reference": "ATCDNfVKkmKcIyDZHXADq4Xz2_A_aj-vKdeszK92kd5QN_jELPCiOytM3R8uYvq74mi1PXsYHAEjzjY-eVw73fO-5hBvpHbZnKu0DnDzfPDOpP5HudZVZWSIgbHChAf2FVPOFA2Uqh44ObE7eR3plsoG4XJGZNrv8kEXJr95HOFmgLkpNi_TMkzFL6fLvZsR9mq950cqRXWD1PJEg-SlUZ5HHAXstuujh94LtdjHK1V0vz1p0fHrOn17pnXj9N12p-29VbjdEPoMkjoVd1ykMX-7KWZE1UWu4u_CtGryxfxownicjkFeMsYy0uAgBS5ESS8T_XOENPRf10y65zbyJxt8kA6BVZZIw1i_-GvNVfqX890AbzkI-xZ56ApKXFxyRkMbUPBwpTmawxx77D-yjeBw0Mo_8D8FIDA--_cMGocd8HqWVHQ",
+        "width": 3264
+      },
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115445360428101604836\">Gervais Gagné</a>"
+        ],
+        "photo_reference": "ATCDNfUvRa2Tl-cQKwL22xqwbkKwZ4UTfFMjeWwVG0NpXnepTuFr0zBmilXnHVn9Y0g8PXnQ_Hx0sAHqtD-o0B8vy8SMZP-dc0cy8eK9BJTrb7Cjqi2qK6ZoaPl2dCPJSfjCj07chk-zhaU5jy1QpzQw0QTYIx_8bteIX8piXbtr79htqrKfR4XZNIntWt_CKXAPWgbCTpyO7M7u15jPxq_c5t-LjRw8gmsQOjU-ZaxkalywvEs8jBKwDBxdx2iwPltTPmaRILvez02En_j4RjHupTkphVqDPWdcX-Ikf9IJ3fi1571wGjGJiNSsM1VFy5VN2fZUZlq24bTdaNXe1raP61Z2x9jm5CaR4-F5JdBY1PiWwjbhes2nOA2djszPgHUufpE_GBinVIvZeoti5ioBkdKD0llvMayTYTMBbKOFQ1-YT5zQ",
+        "width": 3264
+      },
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115445360428101604836\">Gervais Gagné</a>"
+        ],
+        "photo_reference": "ATCDNfVHY25wZ3Rh6rw_pSGoPhP-aTVHpmQo7ysYL1wztA4Hh0cp8hcSJiya3aHdIWasqS9Mug_VaRqIRJFcpw_ZSQrNDtiiuVFnV7YPLcINX2ZAcP_RzJCSGl0vHLdkS0aCwWf0ddSYC-MrI1l5P5e6avXPKNoufN-8oZFOQMymgK-MCWymnRJ6TnD31Jzf2efeNmSK0v8QhF9qItJiv2XsehDJ4QoqeEvJq59vnayHv6G3BXQlUmTMKUPIME7AzmAGIWekq5x0CIl-NGBUAwUP6gQ7KZY16IuhsYRRrASj7hXHs0ufXoB2pr8LZE0Q7HKxPrgCrEj2BrkgkfLXaRVy58QFubM5s2mv-G1PAIvZUe__K8L_szc-V5sa3w22S3_pnGVy1wyBI6CwBC8Y5fgIZ3DcIRVyOtyA3ssOpHcwApiljhQ",
+        "width": 3264
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104441980603230820519\">Harsan</a>"
+        ],
+        "photo_reference": "ATCDNfVxaxGLi0OFlT56UhD2mhG8MDTOqMz2yH7p12DgGNjYMFndTjjOFF9Zuv95cm7ACVn6i_ev9v_qeAEkK8e6zzZwoOgztC08llRwE8wdgw9Wv1fV3TVDtdPfCCoxLaM_lI_nZaejNUyWR6EvLnbWI4waIx4kqYx-Fq5jZg9pN0NPlU-b1jP5PPhZzu-IstGwMmEdSkJgs4F02u_zDS7OyAW0x0oygiXyVQ-jNusaR0sHUHzJrrtfTons55Hy1IwMdqGsh_e91-w2Uu2JBHWL8WmxqasDOz_QLanEItXOZkmT0XjMlPgKZk3LEY7APZdgHK7O5OW3Dt1i44zyRT6Cf1DEkEegWtMPNDpo6IcC-kZD0oBwyolhIuK2QSW4q3lQBO7ZwIHAzuTOc8uHLIzoFaMQpU_F7gTLLzYkxVvVqws",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJVR3j6Dk2yUwR3PICyyVbciE",
+    "plus_code": {
+      "compound_code": "CX52+5G Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX52+5G"
+    },
+    "rating": 4,
+    "reference": "ChIJVR3j6Dk2yUwR3PICyyVbciE",
+    "reviews": [
+      {
+        "author_name": "Harsan",
+        "author_url": "https://www.google.com/maps/contrib/104441980603230820519/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqXBLJhaqWxGIXSkOerXmZ1HyblzzWEzgIZfFObxt0bWjoig=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "10 months ago",
+        "text": "Tight driveway entrance if making a right turn. Shipping/ receiving in the end beside dock 8. Must back in blind side. ( depending on how many docks are full ) quick unloading.",
+        "time": 1744295027,
+        "translated": false
+      },
+      {
+        "author_name": "Wolf Demoking (Marshawn)",
+        "author_url": "https://www.google.com/maps/contrib/111733437624074872782/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWqQJFUa_5nd5FYEo6_zRZNGO34xvymfaQ2D1s83QZWRBbLHw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Would love to see how they work over there 🙂",
+        "time": 1734523456,
+        "translated": false
+      },
+      {
+        "author_name": "Don Bryce",
+        "author_url": "https://www.google.com/maps/contrib/100049885442019694155/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtWBDF4w4gWLvVc8bDqm43n87TjFtZgHSWVtl8a4w4FfBl=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Pretty good place very tight to back in very small parking lot",
+        "time": 1626287388,
+        "translated": false
+      },
+      {
+        "author_name": "Bill Greig",
+        "author_url": "https://www.google.com/maps/contrib/106860113715320086353/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIk4k8eDXjakvOKxbmhcKJOJFqNlr6tRbIqCbSGIFK2IP-K7Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I deliver their and pickup. Great people",
+        "time": 1631043699,
+        "translated": false
+      },
+      {
+        "author_name": "CP Morgan",
+        "author_url": "https://www.google.com/maps/contrib/114715368509450890202/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcJ3DC8C-RPr6cxcXlAbWz4Jmi92N9mNev2wffvFD7vsSvnA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Fast and cordial.",
+        "time": 1551810972,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=2410088968474522332",
+    "user_ratings_total": 44,
+    "utc_offset": -300,
+    "vicinity": "270 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "https://www.premiermeat.com/"
+  }
+}

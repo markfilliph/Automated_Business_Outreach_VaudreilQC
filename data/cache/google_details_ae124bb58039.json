@@ -1,0 +1,317 @@
+{
+  "query": "La loge Vau Do, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339761.8439775,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "9",
+        "short_name": "9",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Jeannotte Rue",
+        "short_name": "Jeannotte Rue",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6E6",
+        "short_name": "J7V 6E6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">9 Jeannotte Rue</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6E6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 4:00 – 11:00 PM",
+        "Wednesday: 4:00 – 11:00 PM",
+        "Thursday: 4:00 – 11:00 PM",
+        "Friday: 4:00 – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "delivery": false,
+    "dine_in": true,
+    "formatted_address": "9 Jeannotte Rue, Vaudreuil-Dorion, QC J7V 6E6, Canada",
+    "formatted_phone_number": "(514) 726-5410",
+    "geometry": {
+      "location": {
+        "lat": 45.39731099999999,
+        "lng": -74.0283543
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3989392302915,
+          "lng": -74.02726581970849
+        },
+        "southwest": {
+          "lat": 45.3962412697085,
+          "lng": -74.02996378029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 514-726-5410",
+    "name": "La loge Vau Do",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 4:00 – 11:00 PM",
+        "Wednesday: 4:00 – 11:00 PM",
+        "Thursday: 4:00 – 11:00 PM",
+        "Friday: 4:00 – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "place_id": "ChIJfbafcDU3yUwRiKvFPT4Z64Q",
+    "plus_code": {
+      "compound_code": "9XWC+WM Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XWC+WM"
+    },
+    "rating": 3,
+    "reference": "ChIJfbafcDU3yUwRiKvFPT4Z64Q",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Jason Guay",
+        "author_url": "https://www.google.com/maps/contrib/105234194362694457609/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI__IyH0PhJjGUmgVAdby3fwKA8oqvOGxb_uWkJv8r0c47f8w=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "The prices are too high for the quality of the food and drinks.",
+        "time": 1759754243,
+        "translated": true
+      }
+    ],
+    "serves_beer": true,
+    "serves_breakfast": true,
+    "serves_dinner": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=9577776787648523144",
+    "user_ratings_total": 1,
+    "utc_offset": -300,
+    "vicinity": "9 Jeannotte Rue, Vaudreuil-Dorion"
+  }
+}

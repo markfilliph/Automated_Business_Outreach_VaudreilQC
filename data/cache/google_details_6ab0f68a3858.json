@@ -1,0 +1,351 @@
+{
+  "query": "Powertech-Quebec, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338163.7272604,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "40",
+        "short_name": "40",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "240",
+        "short_name": "240",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Rodolphe-Besner",
+        "short_name": "Rue Rodolphe-Besner",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">240 Rue Rodolphe-Besner #40</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 2:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "240 Rue Rodolphe-Besner #40, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 455-2585",
+    "geometry": {
+      "location": {
+        "lat": 45.3756131,
+        "lng": -74.04419469999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37705933029149,
+          "lng": -74.04291086970849
+        },
+        "southwest": {
+          "lat": 45.3743613697085,
+          "lng": -74.04560883029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-2585",
+    "name": "Powertech-Quebec",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 2:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111457242032029463581\">Guy Rioux</a>"
+        ],
+        "photo_reference": "ATCDNfUioNKQjvp9dX3Y8Aoxfy8hOKEddzm8HZCrQ_skId0lB6n6SwcRkGw4K-8ZQWbzHNW7hnU3fd4BMTHxmP1oewy6Pp1Bq3V2C7emVD4rHvVLsD7AHj5kWiF805OK9g9ri4r-ci-PEhwq1TKmOqNNbHaLzj10LL54jeX4AI-MzgJlv5H2U1MhAA9p9q15EgPU3Z8eoBR-9Yhg7ie3N0e8uqMBDmt5F0yVBsMg5X9tEbpD6v7nR19hYJj_ZavxdAbQzSA9zfmhKjCdqE_BLLmCWK0cIMrP-IBkwfXHszx_IrBkKuMFSqttpOh_2CM21AeWqU_YC8w7LkDVYhYCEbbxmC6VptE_TyiiLMLWiaJf2Y93oHqzKGXnF0i2kgYcBI7ANqfTu9QuhqYUxdjAGQi0oFFQx_u27D0qgKzduKI6x04",
+        "width": 4000
+      },
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103130497095497849153\">Powertech-Quebec</a>"
+        ],
+        "photo_reference": "ATCDNfX5GhGKSzpZJJDWdx0AdroOHXytR_PjXqtZXTMHNyq6SowlQCt1r-Tp0DYVntmhZb9aLskg0HtCbKbJhJZe1AXVLUfMYbkLU7hQWWdzenpK--blygPZK6g1qB8cXVzzPWtGpzpQJRDTuhSe4eGmSrX7bCs3m7v-RmwxTjeAUOrG2u2Bxyg_E-4rLfcPVZvw6UZIEjrEkaHlPBqwpDno_gIv1tYObzWAeqy1q9Hx1q2R_2oo6cMCpUneog8TeI_d0tmAQI9_prK74Li4o2bClQ_tLgNptwwUzl1h4naNA73u3w",
+        "width": 960
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111457242032029463581\">Guy Rioux</a>"
+        ],
+        "photo_reference": "ATCDNfXaH4PSag54cqa1P3yHQdymtYVDxBltYhr1ygRbcV3ZVE9hHSOIlyTCy4EF-WWryCCphqI377RuFJ2X79H70H_3O2aP3xKhr74VYJ_B9ldMponCY4qwJZr_PphSUgObYgh5H--IWXzkeR8vsmkGLQyfIpTVFbqmL9ARSFVkyXdafWmQuElkmXWn0HQU8_b4-3tbhEyodareR533tgvuHZyYZxCkDz9QPi1haWNoajeESF5meWCdbCirk5bNaF5QO3psHg-Q_se6mZIvpK7CGwjx0W8bSwxLrIwmklmx8ppQipb6m3f-nE0xatfwCa8_0qA364erTtpmi4WMziK034CbTfj-4E1i5PFH_DPnjdYN0BJhlvkSb3h4F5PSbNM4nIAcDmGJrhwxZyK420cX98agCIal84E9hcNqyAc5cVck619a",
+        "width": 3000
+      },
+      {
+        "height": 260,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103130497095497849153\">Powertech-Quebec</a>"
+        ],
+        "photo_reference": "ATCDNfXKg8T2iv79oxYvvSfhAfjb8K4aBxlfEyQMtYQ6Hq4bI7zSSopwpwp73MeoAXLt7esTKKhXEnL4a-fWmZNqunj3cpLhgQf-19_AvooNjGELh1xq05vyhZEy4oXmFf3N5Gbjark9-tNuRmDyGrzigb9JW-n6AoEqy9LNXYpMnG2O-z7JVvuBsrKTbNJBMV6ZWu8aRY1njQv_0W3rDXT2SRNY4LlIW-iYkmex9zLhppwvrlaCzPdCSkSbOfluoLOj-ZvpYRI-BadD2pO_91oWrviOTDLbvUsToaZ3igNcSCenBw",
+        "width": 260
+      }
+    ],
+    "place_id": "ChIJ9a1OlDZIyUwR9w1exLiTDSE",
+    "plus_code": {
+      "compound_code": "9XG4+68 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XG4+68"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ9a1OlDZIyUwR9w1exLiTDSE",
+    "reviews": [
+      {
+        "author_name": "Jesse Nestor",
+        "author_url": "https://www.google.com/maps/contrib/108461509615543060034/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_sA65cJSz_lxjz6IsAyu0RbnurLn1qqwUhmafP5F1kQ2PLDO-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The best Machinery available and a huge supporter of our industry !",
+        "time": 1728999313,
+        "translated": false
+      },
+      {
+        "author_name": "Debbie Charlebois",
+        "author_url": "https://www.google.com/maps/contrib/118101115426558408030/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkDGu9_MBkieHKO2O4gyx1O69bCpWsLpRiGENYdOZDAECI_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Good service and close by",
+        "time": 1700173701,
+        "translated": false
+      },
+      {
+        "author_name": "Danny Milligan",
+        "author_url": "https://www.google.com/maps/contrib/109710135318967770021/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSWi7anFIZvzzIlmO0RnroW7y26bSboRAQ7_ZM4qMLUO3B7MYSCw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Knowledgeable and great service",
+        "time": 1590758659,
+        "translated": false
+      },
+      {
+        "author_name": "Terry Monette",
+        "author_url": "https://www.google.com/maps/contrib/115343942404473482239/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz-SpvZlNjw7MvyvXNEijxK9HmzpiPDbFcsyKMWOgYATC-UHxb8w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Awesome service",
+        "time": 1682029032,
+        "translated": false
+      },
+      {
+        "author_name": "Annie Gauthier",
+        "author_url": "https://www.google.com/maps/contrib/111525136827498061296/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDxyxHYhIDY9nRnq6qYv46CLIYt83yyQRoUTRvQdkuY9XZPQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "We always have excellent service, thank you to the whole team 👌",
+        "time": 1758549940,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2381722199726624247",
+    "user_ratings_total": 21,
+    "utc_offset": -300,
+    "vicinity": "240 Rue Rodolphe-Besner #40, Vaudreuil-Dorion",
+    "website": "http://www.powertechinc.ca/"
+  }
+}

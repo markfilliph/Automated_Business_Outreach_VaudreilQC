@@ -1,0 +1,451 @@
+{
+  "query": "SAQ-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338500.7954924,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "401",
+        "short_name": "401",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7W1",
+        "short_name": "J7V 7W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">401 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": false,
+    "formatted_address": "401 Bd Harwood, Vaudreuil-Dorion, QC J7V 7W1, Canada",
+    "formatted_phone_number": "(450) 424-0008",
+    "geometry": {
+      "location": {
+        "lat": 45.38001999999999,
+        "lng": -74.019699
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3813266302915,
+          "lng": -74.0180432197085
+        },
+        "southwest": {
+          "lat": 45.3786286697085,
+          "lng": -74.02074118029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-0008",
+    "name": "SAQ-Dorion",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2181,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXyk3hYxIxs37Hs0IQ3AYXgvOLczqgkU_TWIm3boZWZedKgdmMcCW1Fdsx5H8HYw4vWtmNbCjLmxFhs0nRYn1wHnNS0M0g5-QhkxkULwYmBUrfzPuVM6lVK7K5jPhWGxwXZwKNgiYU773mzu-j5LYjjKU9_4qbCGkArME3YGVPv7Ur0MKiJ_J61dfwizUSGx274RtpUaFHCnmSwJP3o6lcNJVJegfgAUMRa5S3dyyiDIc1RPvDkv7ILBptj8p9KL8Kq1Kd_19K5ADjxOJRQ3BUkfbREKmPjk87G8i9__iglp79K3Sdu6HrQ38-x5f2sXI7KOcYuUDTj69387fSRQzEhRiO2nuGi2ja9pMH-mZ9Lw34EM8ahwZVRo7UMOC_LmuYjEoP_xPa3TDjFAhiLHU5zXHnAWirEwS13YM7m8yM2TA3X",
+        "width": 3874
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105909847170446262423\">Robert Samuel</a>"
+        ],
+        "photo_reference": "ATCDNfX4MGC5RgXBfiJkNPdx8_3sQFjdlmVEjdxYhZZjRZ3CebOzasXaGZ2S_nmJmOA84zAmRqPrS9ntleEhhBSmxocZRxQQSUiBWo-S6UppqsTT_W1Vl_dY6hoea479ei2kTRsidf97ng9vzxUu6SQT6naQStDPo6RI1-lJsjjgRpFA1YALfUMFZFdC7zELKkHqJ2GtpC9C3BQfNbfTWYgL2jP6waHGh7iQI0brGF_oOLbk3oXpR78py3MJG-QUyBI5WZWK-LT6g-aFpzbNGwYhLF2VDsVhEVUkXMQxdKXXaon2Afi5iGlfwBQQcs7Ki93HkaaYrK3FL26ovnd3R59Lh9yAGE4qrYOz1G5Oqva9R3yFFvHpn8Ywyg9isZum3hoKgd65Gffug3NB7GUhBSNt3AePzvw7vPPh1DgwArJA9MYEQg",
+        "width": 1080
+      },
+      {
+        "height": 2181,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfW2WR9qALaA-B4XqxJ8Mx7wHZjd-yYtq-6PJwgkuA9GwdAxbv52cwWydq6wL5KHPVLtctka4-AbXLasrPUPWHdkPMkjM3Qc4zJZ_S0r6gUghUzxo9WwpiRDTNJp-M1_fwPBSC5cpd1CxjEnC85NtItqT4UO86Y3k7Rbyd4lEC8IIgd4v2sfYb6a7i8TtMAV5QKABDAfHVtvUI1R9gRPGtzUItMTOuTukTQtOSoEMfIpyNCMLEa9g3nS5yNKmjdpl0AUKjWOVtrTIJT_gFQ4nmbYdJBlGL5e6CVYw4_jir7343XepVlDaxOi24vvLeDSy1Ajk4l7f2KVQA_XHAtphZig9YIHWBEPmOgXXyI1E6F7bL-C1kDtmWyqRV_Qtu_ovuS1e09ujhPyExOAAqxtaqwvG1ttDYAp90jkCjXsn2C_kw",
+        "width": 3874
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114488753113294454213\">B T</a>"
+        ],
+        "photo_reference": "ATCDNfW-2PStqzTw5dYqO1cDTeUuX1RrXNkRWf1sToWqP01jk7YiErkEOw6e6gvfTJsG287MU01FP2QqgR9ZkkHIZCrfAHd0T7B1zRdWWMN_9PISjz-8zWi3RlIMu9AdwMYcb_AICuDqY0sPx_3ixQMHJrYE7hlMofdFkt65K0rz1gx8SebMvC--SMkyKGUcRrJaZr_gQIyJoftTrThlOchrpxPtY87Kp0bNnUh_no2yORNaJpd_1_eD6-QMBiLWisq9ndLzrxw_-OmPTNEmTDiE7jRbzoqrYeqI-vrLIJqI-BwQVWuAEodrbe316qGmF5o5T1FiIIQOYC8IoDOFtn4-KoED1Q9WZ9JpXujrdOX4K4Kr7u3NUSLoRhloHrLyhjBOPC0x3v7k-HwkHinDrmQfB0vGsvUvKwH-0EbclLrhbwKpZg",
+        "width": 4032
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107848395168640280356\">Baljeet Singh</a>"
+        ],
+        "photo_reference": "ATCDNfVVx2rXn1RXYmiOKpvvfo8xwWu88cUjYGYTAyfCbMSKM4t596d4ieVGp11Zkv3R0eAV9iiMkG4VuFcLCrHEhd2sC2MiU-zkb7-A8RVA9gs7IyAVhoIv738U96Zlaj1CiUvdYuY5ohyAtFB_vYzdFvo9vx4ipy4yxcX4Huar4MIUv2E0Sa-Oyvx5jH9vMkjHp-lqbKvP9LFKPTMUYaMIitofHoA7LQ2zUdxNnaWSFKyZKnXveA8Dx37ndLInqtJR4FrsEReIlnZDdg9wV9Ls9xnYXuUSI_ridUVp1nb5dSiFIALZ2SjKPTLP6QFMsbgRHI-krHwQgyhf-Ron9g_eh1IIypfJS-p8_bnvNZBsJviL2dw7kKxpI7jNZQeZsolT1nRROv7BO1i54_-_mDEusPinGU28fZmXPhVmQA_U8Mlutw",
+        "width": 1920
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106930699730824557456\">Sylvie Lavalle</a>"
+        ],
+        "photo_reference": "ATCDNfUwT9ecHyyZj-40FQNFZFXPpoVNJqOrnrlh_OmbM63XInIc5vtwE4fel1Csz55swOnNzV9cywKo0MU_mDt4BF82cA1UJs65-Z-KAPOqGjsM4dZhT9NrtrsvRSgLFIRG_NJKaou4nVL6FisKVjREzf3g6A_j3t97HapAWVsH7TX0NEp6FbpbS3w-89qqhUhfJEbx4BNOIYRpugd5RqkBA-1TrIqDhgmtIgCXxRjKbrmDAuTunc3cTiOAUwTH6h_Duvh-8YTjSFsQ4NXxik6VLKU6qkXHg8emoBq9Mb-teWPDDGaKKE7dKV80nKv0GOlTsXJsQPU6kKs7iz5wK8ClyDhKU18ZeuQYey5Y34lg7042k4AS2aKU-iPdqqWxcgSVEA3_lIIqREtsH-Rv8JNR15Ha3SmfPtWFK8h5iv3PsdTHlA",
+        "width": 4160
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112269215945643954578\">Sims Widjaja</a>"
+        ],
+        "photo_reference": "ATCDNfVr0l_S7GZLmupU1kfBeHmua6HZdnwiIFobEy73tE1DXfZoptHie5j7iTpQmLQeZ3fws5Flzf1vVBum7Rw2Xlx6ORipZVTq-wC0_z6QYO5DgH7-Qe9nBXM2Ykym27qWBoUfV0oQ_tfjR1zKn2GghvZgrdkqhDWiJAeWx7niwzmr2Tqkin98haZyN_0VAqCCaBqSmGT6zrAut2PLOmRyRfrKuCHbVPwKEq-LdQa809-dxe_m9e_rN3yKnWDc04VDLf4s_8uctKE4ZcC7bWLDVgPJvPYUI9PDL96A9RrBK-idUoqrzQ-0u5tAtPC3tTeu0YZSmE_FyzwIAe-fFyBZcd3y-r2gQEkttl8-TuRxEED5qIPz7XeBGSxQnNtaMEJMssthOoCKdHJAyQMFpqi3RR0EsHlXRrxjUQEFixQtefshc7Yhe7KqdbLdtSLRflFM",
+        "width": 4000
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfUNb5f3rXWCf7W2bWWPra8RrJwtVTffBu6QCKUqvhrROm7hlU8cUEsL199J_jDlNwglUVX4oXR5v0CnlBWwsR6hj2ss7aHK3hnOQ4oHrhaCyUXhb_xQltgYRNUJqMA5OeQ1vH2DagUPWqjNIl0abi7zaouXJUAo5STUI9p_PAy4QHzH07DAkE8KNTQjmb4ov1WZOWNIOEhnb4z66WqURmix2cpc-sT0XEOkZkkC5gUzX8K5wM_UxNYjA3TnCoMHi2HwG7sSoqBhAQN3zSlL8EtyS1Pm0TJ-pW9wtY3L9j94qYidwgA8euNyVNk1ZGs7zQXHgezrevwvGZI0UAYaaPGgUEraewmJCoNdJwMm0nzXCTWPOMoQCvIzbIgsWpgiBd9sxAxEOeWrq3LVEHjhrOoDPJ8X8OwkhO_uou4JrlTU198Zv0PTdbm2VrkmBhey",
+        "width": 3060
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109888604419331810769\">SAQ-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUptUUDpoAguiZGT81Dfn2YAuwN-cHkj04A3kzP03hjhwsZeQt0vwbRf-g5dPR-BBV04eKq5aF-LQgkJQdgCqYmwUhC2_luUyOKSnZsQ_sS-joRO2sGqXuaUiEB-eMBLWFKPxhtvBeKIT_z65Z65j6DjWWPoRx-to7nH_SW4ewQxW8wJwBoDAnGVzTKoZnyH4mKEV1P31oVZegTrVDIAEeeXSnznbYRfRGDe5a80TRjV7sOhaya0gWOW-ja8oc1QaA1njpoQWSiUIPEx9xY9cjwFf5gQCTuf6P2fnw-LJMTiw",
+        "width": 640
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110646963183880276134\">Stellar Tunes</a>"
+        ],
+        "photo_reference": "ATCDNfUxuvhU-3-rh1hlyrQDqk1n1nfvFmszPcOwD6WSjAMPQpHchW95J2L74wqYT3I9kWflmi4lsFadX8Jnwvv3FCaaYEBV4hBZpDMUXrGPcYbYrO-8X4OG2eHNxJBpJEEvWoEoQAGt36bgRUaECwWpQPytY8xJpwrBihODKSv03b7xWcA_WvbT84oqde8LQO_ATtBSFUcPVuNVvuxBTuihaYaDI965SMedo7WDpnLkwGrU4YHRyGwEnX8Gygo6vdhphgFuyXen77RcP4tWNTdvq9yeMQHkIzzZSZX0W53EJGD8wJOt7msyGYNloxaZtP-7LDGNW9QBIOghV8_vd8pYY0N2Pg9WIpfaaKlfxiKYDnDHxsolxzdXp4T8fNG1oD2zNlMzWqgwx0NxyrKE5gXELbFya60NtbG184oX5HS--wrz579M",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFbelKxhIyUwR0s1NZPvrjUo",
+    "plus_code": {
+      "compound_code": "9XJJ+24 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJJ+24"
+    },
+    "rating": 4.2,
+    "reference": "ChIJFbelKxhIyUwR0s1NZPvrjUo",
+    "reviews": [
+      {
+        "author_name": "I.S.",
+        "author_url": "https://www.google.com/maps/contrib/106505039357780914597/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIv9_e8remSyk2-1k5b8QNhTbwBdXhNz0TRcG4uC6o16pwvew=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "It was a lot better when they closed at 8 pm. Now it’s 6 pm. Maybe reconsider old schedule?",
+        "time": 1750197522,
+        "translated": false
+      },
+      {
+        "author_name": "JASPREET SINGH",
+        "author_url": "https://www.google.com/maps/contrib/104937832010531931405/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYF_sH-kIokvUYO1QgOAKur1xAbbxggxkpHE8GHno7sBnCFBc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Great but they don’t have all brands",
+        "time": 1753587352,
+        "translated": false
+      },
+      {
+        "author_name": "M C",
+        "author_url": "https://www.google.com/maps/contrib/115382002958737494404/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHb4K2R9nD2D2EIpw02YTDtt1Y-IlzChNLrexA5qN-_tLKuw84fg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Great selection of French wines",
+        "time": 1761876690,
+        "translated": false
+      },
+      {
+        "author_name": "Field Racer",
+        "author_url": "https://www.google.com/maps/contrib/101257358614349687732/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOnfgXEFhhGELu7iXBsGGLbN1fovtvIhftZlmWzc83odDQ3hs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I was well received when I walked into the store, sample to sample available LOL found everything I needed and was introduced to even newer stuff that I didn't know about, the cashier was an awesome guy with a great sense of humour. It was a pleasure to shop here. Great bilingual staff very knowledgeable",
+        "time": 1580407739,
+        "translated": false
+      },
+      {
+        "author_name": "STR. Eugenio",
+        "author_url": "https://www.google.com/maps/contrib/105760616991198925875/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKD2cx1GyOzoKfY7jS2jN7Jw_RXiGS_iISLgqpvAi3FI-RBEA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "3 years ago",
+        "text": "very little choices, like every SAQ. Prices are high, the wine taste all the same. No vision, ppl buy because no choices, not because it's good. But SAQ is a pride store, probably just their opinion. Us , we're sad, and can't do anything. Just take a look in Ontario, 20 km away, not to mention the US. Maybe the good supplies can't pass la Duane!",
+        "time": 1674567824,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=5372209395475008978",
+    "user_ratings_total": 528,
+    "utc_offset": -300,
+    "vicinity": "3, 401 Bd Harwood, Vaudreuil-Dorion",
+    "website": "https://www.saq.com/fr/store/23059?utm_source=Google&utm_medium=organic&utm_campaign=fiche_succursale",
+    "wheelchair_accessible_entrance": true
+  }
+}

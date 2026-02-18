@@ -1,139 +1,200 @@
 """
-STEP 5: REQ ENRICHMENT & VALIDATION (v3)
+STEP 5: REQ ENRICHMENT (REAL Playwright Scraper)
 
-Validates existence and status against REQ (Registraire des entreprises du Québec).
-Crucial for filtering out "Ghost" companies and closed businesses.
+Scrapes the Registraire des entreprises du Québec (REQ) to validate
+each company and extract REAL owner/officer names.
+
+This is the SLOWEST step in the pipeline. Each lookup requires:
+  1. Loading the REQ search page (~2-3s)
+  2. Submitting a search query (~1-2s)
+  3. Loading the detail page (~2-3s)
+  4. Random delay between lookups (2-4s)
+  Total: ~8-15 seconds per company.
+
+CRITICAL: Deduplication runs BEFORE this step to minimize lookups.
 
 Input:  data/deduped_candidates.csv
 Output: data/req_enriched.csv
 """
 
 import pandas as pd
-import random
-from datetime import datetime
+import time
 import sys
 import os
-import time
 
 sys.path.insert(0, os.path.dirname(__file__))
-from config import CHECKPOINT_DEDUPED, CHECKPOINT_REQ
+from config import (
+    CHECKPOINT_DEDUPED,
+    CHECKPOINT_REQ,
+    REQ_MAX_RETRIES,
+)
+from utils.req_scraper import init_browser, close_browser, lookup_company
 
 
-def simulate_req_lookup(row):
+# REQ fields to merge into the DataFrame
+REQ_FIELDS = [
+    "neq",
+    "req_status",
+    "req_registration_date",
+    "req_officer_name",
+    "req_legal_name",
+    "req_legal_form",
+    "req_lookup_status",
+]
+
+
+def enrich_with_retry(page, company_name, max_retries=3):
+    """Look up a company in REQ with retry logic.
+
+    Retries on failure with exponential backoff.
+    Returns the lookup result dict (always returns something).
     """
-    Simulates a lookup in the Registraire des entreprises (REQ).
-    In a production env, this would use Playwright to scrape 'registraireentreprises.gouv.qc.ca'.
+    last_result = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            result = lookup_company(page, company_name)
+            last_result = result
 
-    Returns REQ data fields based on heuristics from company name.
-    """
-    name = str(row.get('company_name', ''))
+            # Success conditions
+            if result and result.get("req_lookup_status") in ("found", "cached", "no_results"):
+                return result
 
-    # 1. Logic: Detect likely "Registered" vs "Incorporated" based on name
-    # "Inc", "Ltée", "Ltd" usually means incorporated (good).
-    # "Enr" or just a name usually means sole proprietorship (lower value).
-    is_inc = any(x in name.lower() for x in ['inc', 'ltée', 'ltd', 'limité', 'corp', 's.e.n.c', 'senc'])
+            # detail_failed is retryable
+            if result.get("req_lookup_status") == "detail_failed" and attempt < max_retries:
+                wait = 5 * (2 ** (attempt - 1))  # 5s, 10s, 20s
+                print(f"      Retry {attempt}/{max_retries} (detail_failed)")
+                time.sleep(wait)
+                continue
 
-    # 2. Logic: Detect "Closed" businesses (randomized simulation for MVP)
-    # In real life, we'd parse the "Statut" field on the REQ site.
-    # Here, we assume 90% of filtered leads are Active.
-    if random.random() < 0.10:
-        status = "Radiée d'office"  # Administrative Dissolution
-    else:
-        status = "Active"
+            return result
 
-    # 3. Logic: Registration Date estimate
-    # Incorporated companies tend to be older/more established
-    if is_inc:
-        years_ago = random.randint(8, 30)
-    else:
-        years_ago = random.randint(2, 15)
+        except Exception as e:
+            if attempt < max_retries:
+                wait = 5 * (2 ** (attempt - 1))
+                print(f"      Retry {attempt}/{max_retries} after error: {str(e)[:60]}")
+                time.sleep(wait)
+            else:
+                return {
+                    "neq": None,
+                    "req_status": None,
+                    "req_registration_date": None,
+                    "req_officer_name": None,
+                    "req_legal_name": None,
+                    "req_legal_form": None,
+                    "req_lookup_status": f"error: {str(e)[:100]}",
+                }
 
-    reg_year = datetime.now().year - years_ago
-    reg_month = random.randint(1, 12)
-    reg_day = random.randint(1, 28)
-    reg_date = f"{reg_year}-{reg_month:02d}-{reg_day:02d}"
-
-    # 4. Logic: Legal Form
-    if is_inc:
-        legal_form = "Société par actions"
-    elif "enr" in name.lower():
-        legal_form = "Entreprise individuelle"
-    elif "s.e.n.c" in name.lower() or "senc" in name.lower():
-        legal_form = "Société en nom collectif"
-    else:
-        legal_form = "Personne morale"
-
-    # 5. Logic: Parent Company (Crucial for Subsidiary Filter)
-    # If the name sounds Corporate, we flag a parent.
-    parent_company = None
-    if "groupe" in name.lower() or "group" in name.lower():
-        parent_company = f"{name} Holdings Inc."
-    elif "division" in name.lower():
-        parent_company = "Unknown Parent Corp"
-
-    # 6. Logic: Officer name (simulated)
-    # In real life, we'd extract from "Administrateurs" section
-    officer_name = None
-    if is_inc and random.random() > 0.3:
-        first_names = ["Jean", "Pierre", "Michel", "Marc", "André", "Robert", "Claude", "Luc"]
-        last_names = ["Tremblay", "Gagnon", "Roy", "Côté", "Bouchard", "Gauthier", "Morin", "Lavoie"]
-        officer_name = f"{random.choice(first_names)} {random.choice(last_names)}"
-
-    return {
-        "neq": f"{random.randint(1100000000, 1199999999)}" if status == "Active" else None,
-        "req_status": status,
-        "req_registration_date": reg_date,
-        "req_legal_form": legal_form,
-        "req_legal_name": name,
-        "req_parent_company": parent_company,
-        "req_officer_name": officer_name,
-        "req_lookup_status": "found" if status == "Active" else "inactive",
+    return last_result or {
+        "neq": None,
+        "req_status": None,
+        "req_registration_date": None,
+        "req_officer_name": None,
+        "req_legal_name": None,
+        "req_legal_form": None,
+        "req_lookup_status": "max_retries_exceeded",
     }
 
 
 def main():
     print("=" * 60)
-    print(" STEP 5: REQ ENRICHMENT & VALIDATION")
+    print(" STEP 5: REQ ENRICHMENT (Real Playwright Scraper)")
     print("=" * 60)
 
-    if not os.path.exists(CHECKPOINT_DEDUPED):
-        print(f"  [ERROR] Input file {CHECKPOINT_DEDUPED} not found.")
+    df = pd.read_csv(CHECKPOINT_DEDUPED)
+    print(f"  [INPUT] {len(df)} companies from {CHECKPOINT_DEDUPED}")
+
+    # Estimate time
+    est_minutes = len(df) * 10 / 60  # ~10 seconds per lookup average
+    print(f"  [ESTIMATE] ~{est_minutes:.0f} minutes for {len(df)} lookups")
+
+    # Initialize browser
+    print(f"\n  Initializing Playwright browser...")
+    pw, browser, page = init_browser()
+
+    if not page:
+        print("  [ERROR] Could not initialize browser. Saving without REQ data.")
+        for field in REQ_FIELDS:
+            df[field] = None
+        df["req_lookup_status"] = "browser_init_failed"
+        df.to_csv(CHECKPOINT_REQ, index=False, encoding="utf-8")
+        print(f"  [OUTPUT] {len(df)} rows saved (no REQ data) -> {CHECKPOINT_REQ}")
         return
 
-    df = pd.read_csv(CHECKPOINT_DEDUPED)
-    print(f"  [INPUT] {len(df)} candidates from {CHECKPOINT_DEDUPED}")
+    # Process each company
+    found = 0
+    cached = 0
+    not_found = 0
+    failed = 0
+    start_time = time.time()
 
-    enriched_data = []
+    for i, (idx, row) in enumerate(df.iterrows()):
+        company = str(row.get("company_name", "")).strip()
+        if not company:
+            for field in REQ_FIELDS:
+                df.at[idx, field] = None
+            df.at[idx, "req_lookup_status"] = "no_company_name"
+            continue
 
-    print("  Validating against REQ (simulated)...")
-    for idx, row in df.iterrows():
-        req_data = simulate_req_lookup(row)
+        result = enrich_with_retry(page, company, max_retries=REQ_MAX_RETRIES)
 
-        # Merge original row with new REQ data
-        combined = row.to_dict()
-        combined.update(req_data)
-        enriched_data.append(combined)
+        # Merge result into DataFrame
+        for field in REQ_FIELDS:
+            df.at[idx, field] = result.get(field)
 
-        if (idx + 1) % 100 == 0:
-            print(f"    Processed {idx + 1}/{len(df)}...")
+        # Track stats
+        status = result.get("req_lookup_status", "unknown")
+        if status == "found":
+            found += 1
+            officer = result.get("req_officer_name", "")
+            if officer:
+                print(f"    [{i+1:>4}] {company[:35]:35} -> {officer}")
+            else:
+                print(f"    [{i+1:>4}] {company[:35]:35} -> (no officer found)")
+        elif status == "cached":
+            cached += 1
+            officer = result.get("req_officer_name", "")
+            print(f"    [{i+1:>4}] {company[:35]:35} -> [cached] {officer or '(no officer)'}")
+        elif status == "no_results":
+            not_found += 1
+            print(f"    [{i+1:>4}] {company[:35]:35} -> NOT IN REQ")
+        else:
+            failed += 1
+            print(f"    [{i+1:>4}] {company[:35]:35} -> FAILED: {status}")
 
-    df_enriched = pd.DataFrame(enriched_data)
+        # Progress every 25 companies
+        if (i + 1) % 25 == 0:
+            elapsed = time.time() - start_time
+            rate = (i + 1) / elapsed * 60 if elapsed > 0 else 0
+            remaining = (len(df) - i - 1) / rate if rate > 0 else 0
+            print(
+                f"\n  Progress: {i+1}/{len(df)}  "
+                f"found={found} cached={cached} not_found={not_found} failed={failed}  "
+                f"({rate:.1f}/min, ~{remaining:.0f}m left)\n"
+            )
 
-    # FILTER: Kill companies that are not Active
-    before = len(df_enriched)
-    df_enriched = df_enriched[df_enriched["req_status"] == "Active"].copy()
-    killed = before - len(df_enriched)
+    # Clean up browser
+    close_browser(pw, browser)
 
-    # Stats
-    officer_count = df_enriched["req_officer_name"].notna().sum()
-    inc_count = (df_enriched["req_legal_form"] == "Société par actions").sum()
+    # Filter out inactive companies
+    before = len(df)
+    active_mask = df["req_status"].isin(["Active", "Immatriculée"]) | df["req_status"].isna()
+    df_active = df[active_mask].copy()
+    inactive_removed = before - len(df_active)
 
-    print(f"\n  [FILTER] Removed {killed} inactive/dissolved companies")
-    print(f"  [STATS] Incorporated (Inc/Ltée): {inc_count}/{len(df_enriched)}")
-    print(f"  [STATS] Officers identified: {officer_count}/{len(df_enriched)}")
+    # Summary
+    elapsed = time.time() - start_time
+    print(f"\n  REQ enrichment complete in {elapsed/60:.1f} minutes")
+    print(f"  Found: {found} | Cached: {cached} | Not in REQ: {not_found} | Failed: {failed}")
+    print(f"  Inactive/dissolved removed: {inactive_removed}")
 
-    print(f"\n  [OUTPUT] {len(df_enriched)} validated leads -> {CHECKPOINT_REQ}")
-    df_enriched.to_csv(CHECKPOINT_REQ, index=False, encoding="utf-8")
+    officer_count = df_active["req_officer_name"].notna().sum()
+    date_count = df_active["req_registration_date"].notna().sum()
+    print(f"  Officers identified: {officer_count}/{len(df_active)} ({100*officer_count/max(len(df_active),1):.0f}%)")
+    print(f"  Registration dates: {date_count}/{len(df_active)}")
+
+    # Save
+    df_active.to_csv(CHECKPOINT_REQ, index=False, encoding="utf-8")
+    print(f"\n  [OUTPUT] {len(df_active)} rows saved -> {CHECKPOINT_REQ}")
 
 
 if __name__ == "__main__":

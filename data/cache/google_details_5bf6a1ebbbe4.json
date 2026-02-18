@@ -1,0 +1,365 @@
+{
+  "query": "Biron - Laboratoire médical, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339964.8908906,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local 120",
+        "short_name": "Local 120",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "65",
+        "short_name": "65",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8C1",
+        "short_name": "J7V 8C1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">65 Bd de la Cité-des-Jeunes Local 120</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8C1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0630"
+          }
+        }
+      ],
+      "special_days": [
+        {
+          "date": "2026-02-17",
+          "exceptional_hours": true
+        },
+        {
+          "date": "2026-02-18",
+          "exceptional_hours": true
+        },
+        {
+          "date": "2026-02-19",
+          "exceptional_hours": true
+        },
+        {
+          "date": "2026-02-23",
+          "exceptional_hours": true
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 12:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 6:30 AM – 12:00 PM",
+        "Thursday: 6:30 AM – 12:00 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "65 Bd de la Cité-des-Jeunes Local 120, Vaudreuil-Dorion, QC J7V 8C1, Canada",
+    "formatted_phone_number": "(833) 590-2712",
+    "geometry": {
+      "location": {
+        "lat": 45.403676,
+        "lng": -74.036481
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4050918802915,
+          "lng": -74.0352528697085
+        },
+        "southwest": {
+          "lat": 45.4023939197085,
+          "lng": -74.0379508302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 833-590-2712",
+    "name": "Biron - Laboratoire médical",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 7:00 – 10:00 AM",
+        "Wednesday: Closed",
+        "Thursday: 7:00 – 10:00 AM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfXHsmVp7DCRf-Hj5V6kUCbEB5H2OEbafaQTaUWdE--CGBgFooXt87OZtd02f10pyd3gBQnbHh-9smD05PhxkqV3Z8Pf5y0Ty0NyQemTx1znxpZ2tRTbPnuPKhQkpuq6MKU4kNB2LXS3-TaV5RGNTglqmPfm-5-wcENYRgEN7pVBFfcKM6hjUWQW8X1X5N5wzXryXmy20O_4gu4F6Uj01EwLYMSJgDRxQL0MDyR_rsJTBwqvBP5pWaH3rIvSYzPvfeuagAHPtZ7YRfNfF4LxGSMiaprEINlva5IZwT5mBWcUkQ",
+        "width": 1000
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfWSAd43azqBrIFRnBfnXfI4yRsh8B0iJe0nMQ99wTWmqVnSS0UeECHl01kyHB7-YwBIwPE7L5NlPYIIYYiIPNdgCwrYh6sgfjmiZfFrI5CbeZiGNSPn6Tnjgci-kUkipTWk7UH3QKTv6EhJ_QrvOGFZjWCzXDWrsBosDruwRVo5xkHVRdwpam0KaVH9u7ZebIVoF8gsRRWZL8AWGzYjLXqDxIIr-WqcphHaOyXv-itLNkuuuOgZ44NLHKz5efPAZ7uQSo6TgF7-Q7Zqsvpp36A8eOg4UHAuHKDEMn1hQtu6zA",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfWz7qqWWP-SXxI1TixASM5krj5Vzf6ApKpvNiSTcTLEdj6Y_uQQLLsY0n-nXVrqWbbpwKAXHDRQyC7X0Kh7JidtZ-xOELZUctn0ULu9dTYPMS148rP1jIVTqly8isTtosVdw0iQxH9TGZP6a7NpsTlOkO5seWBNyqzdO6MF9Niyi8jQ6Z-nbzzOBK4cNs7prVY9s__wqWpK1kgIEbTNjW2yUCUKqvqoPAThoPs7InlUYKlHUxCk-GJMs247fb_JMplyfd4dR3TMJOkvMCrC04MoPGdKiC-oeRyYZYSQFaAXSA",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfVd4zsgAvG_vs4Rt7em97EC3MX7dD-R71YDDeURey4uP904su-igx46pRjpGemfaX_K1TGZnyyrKuZ-gQy5FWGeK8BM6dUs8B8TgVe2_WcpgLOy4SHWp5Dw_Lq_mjRqHMypnnALElz5xhhnnKKlPpfzat6Zpr-ezXNp7shtvli778H2ZBJ8CIWFIFMd1m-fnr39v7kZaOH0uJMpnghK2bA3T5bZppma7IMWCZzIetPDlVbwe7kT1Dh5hj7n5gyRrQNtNwFHygvlFuUtdMueLpd9XRsa3fXoZd-tHGoDa05S7w",
+        "width": 720
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfV6ZswpwS48SFvNI5W6LU2EgW2noVXi7-1VTqfRymyyzzUprx7KqRorfNmj9dKxMMMuLe1t1lU5kLlbwt5B95TzaVtHL2cuNAxeLs2doBl2MwJzJ6zLn-VwSWnFbN5Zed1LLk2t9kZ1ijyDL8nd36HvZRNhZ95g5G3rNyS0qjoiyFu7JufttNi8qRGEYaLmzbDzSY235AqOn3-SmYJXP5lR_YSbnZ3NYuIQmE9Kt0-6bNRHTSxf4LgI6_CJeeUFQb5IE99Deb7mT23zLkfQIDKdOBr9hA2xqJNexnQ5QNXyoQ",
+        "width": 1000
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfXnr97ZzUwnqE1V2W4FE5_6CV2f9FyiE_r9AQ8XKROgFdqQ1u7Qf_KMTyZ6uKQp5TMOXHvxmb1lbj4mJP2Jy97TaXPfjoFHS4WZQnf3rBS-gV1qZMF5syBbI22qEI4zRt_e8oG_4f1EqEhnPrW8OrMJKOgwXhRoRbIY6bcc6K0UCxuQJqxoAL6wrxjZh2QH3Puh4tB020cyGETyMrJnW3nk8CAuRVqXONewYU52odSQHb6hC56OstZBBI3JsVuF4e9OqJrIeYJDPZ5kfWTgY20P_mvbDH5jBMJwjdVtLsrSAA",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfVuI8YQgyP5EbgRaoRqHjwl0r82vFfW0VWxxTF8TricuoAE6EM7lFXJVNvWXDnOjzluGr2YqmNK8q1lMnmapWXLmzcRWVdUWd9sTPYS1oXnD5A-eZYtRyWn3TzMsdMIbFhBcsRV86rgDj06YXKDGOqYdqglvY1r1sWqgnNFNJrEE33iCC5Xe4KqxDDc-wv1_G-amaEvVWOCyv2zkBV56Ny9p_pEBDdqPkl6EsXdg8ozKSL4J8o42lLRr5x45Ky1QVURmld_TQgT2tZtLIExmQSowFd5D9ou2_Hi8vOU8F-Y9w",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfVSDHGqKa9Rw5Bcl9VCG0Vm7eeo7eleDuXXw4rQ63OGDu54j8pu6xK9XsCfOVwayNfQxx0b870OSrfsetaY5qFbWmEA6nycoABZk3SeUxLao4k-PiM-RDaW_5-25I0HkxjxwUAIyzRJCBn9UlXXWa0dXL3o1-wxeapSzVLGAVfUpyqdc4SQh3hbp9CEf7KvQViy8rJT0xEQKmzsx7jE59xG7nF8S8LY6oX94r277FfUg__PxvT6ArYA2-9y6b7-yeGKMiGc5cSokaX2wSHFdFZ8uiq-gNxZFYJpXSHMBycGNg",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfXkGI2cAjifO9zSN_Ka3gb6Klnqpwyx-qApcky31gqCBcyTQuAtqHQSksV8m-iO1RuzCRCjyXpQR8dDaj-hhjKR-hYSrvJY7ysgN2Wsy6ncNbs660IHMgJBpIqKZqGKsChQrZPFDaAZLeiWM8YUxBZndmfOePhWGq9tmJSMKFLQ7OdfGVS2PLpDZ5319w7hB4iYsZCuq60-KXlrXEOUu8_9vwu8jYsjgN02ZZSSrZLPFeN7kwpEI-g6rrzs7CoBTL1hLezsj3voe52xCMjSnt5uw4R6V8fvq0UgD1jrX0CE9w",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105721186891206417068\">Biron - Laboratoire médical</a>"
+        ],
+        "photo_reference": "ATCDNfUuCKD12VPpYsT_t_74y0L9FeACUFePK852_WsdppKtgfckhA8hg_IzONDVpPGEHb8jsdysADOFdCfVoNn5epZO3CpSt4o5uyEJFkgprjY5tu1g44lpy_Y0B4eHMSaqNEK17BL-j-BQJAWiHbgYX23GK4dHMOlPu5ojszgMHVx6MZWUrHZJ17HV2ue9cpEz3xQUX0PdF3IvGElI5qlhEzE2bcR-PnZ2iKXt0R2h-chlBxkWhYZXL9JbVF9DTEj8wbkdygT59edq5furJmeLj-5wiBsUJkydegTI5_F0WfsF7w",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJQftFIwU3yUwRU-7IfSijGlE",
+    "plus_code": {
+      "compound_code": "CX37+FC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX37+FC"
+    },
+    "rating": 4.5,
+    "reference": "ChIJQftFIwU3yUwRU-7IfSijGlE",
+    "reviews": [
+      {
+        "author_name": "Marielle Harris",
+        "author_url": "https://www.google.com/maps/contrib/100721311927441535636/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHhqzpkZ4l4q9gMahF49Cp4rhhskmY5S5L6CfbCoQ8KUOuTA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Excellent from the beginning when taking an appointment and when having the service at one of their center.  I was never disapointed and if any problems, there is always a solution.  Thank You",
+        "time": 1765569831,
+        "translated": false
+      },
+      {
+        "author_name": "karim dounas",
+        "author_url": "https://www.google.com/maps/contrib/113205022028486758929/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO-WdZpcTPI_hQ8Rv-uCHoQ-4w5shG-HsB7TZRv1JIm7zIDINP=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I made an appointment the day before, the welcome was warm, and the blood test went well.\n\nExcellent service, very friendly person.",
+        "time": 1768173633,
+        "translated": true
+      },
+      {
+        "author_name": "Marie-claude Desbois",
+        "author_url": "https://www.google.com/maps/contrib/112005946066193828500/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcSgyZb8M4p1_PRQTVUOHl78JYC0IsXdSmV1S1K0GaJLp5gw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Very satisfied. Appointment booking was very efficient and painless. Very welcoming.",
+        "time": 1756994445,
+        "translated": true
+      },
+      {
+        "author_name": "Carina Guzman",
+        "author_url": "https://www.google.com/maps/contrib/114383514324618665695/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZ76cBD0Wm4IN69iBqtUyJTAAWlxiUkOwRfaWysI3Ru8lt5-p-=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Very poor customer service, the nurse was sick and did not follow mandatory safety protocol.",
+        "time": 1751968113,
+        "translated": true
+      },
+      {
+        "author_name": "Julie Giguère",
+        "author_url": "https://www.google.com/maps/contrib/104512767016875173198/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAx6au0WyQzviS6yvZVnkIFDWrcJ4myuiNeWwOdATxrHyAACCj=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "The nurse on duty was incredibly courteous and kind. There were no delays for appointments. Furthermore, my results were supposed to be ready in four days, and they arrived within 24 hours. Admittedly, the prices aren't cheap, but that's private healthcare for you.",
+        "time": 1653191636,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=5844162860770979411",
+    "user_ratings_total": 8,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 65 Bd de la Cité-des-Jeunes Local 120, Vaudreuil-Dorion",
+    "website": "https://www.biron.com/fr/points-de-service/Biron-Vaudreuil/?utm_source=Google&utm_medium=Fiche%20Google&utm_campaign=Fiche%20Google%20BLM%20Vaudreuil&utm_id=Fiche%20Google%20BLM%20Vaudreuil",
+    "wheelchair_accessible_entrance": true
+  }
+}

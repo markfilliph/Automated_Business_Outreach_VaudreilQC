@@ -1,0 +1,155 @@
+{
+  "query": "Cca Electrique IncTowing, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339393.4415808,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "96",
+        "short_name": "96",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue des Opales",
+        "short_name": "Rue des Opales",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9B1",
+        "short_name": "J7V 9B1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">96 Rue des Opales</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9B1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0000",
+            "truncated": true
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "formatted_address": "96 Rue des Opales, L'Île-Perrot, QC J7V 9B1, Canada",
+    "formatted_phone_number": "(450) 232-8649",
+    "geometry": {
+      "location": {
+        "lat": 45.3892435,
+        "lng": -73.96948359999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3906417802915,
+          "lng": -73.96808251970849
+        },
+        "southwest": {
+          "lat": 45.3879438197085,
+          "lng": -73.9707804802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-232-8649",
+    "name": "Cca Electrique IncTowing",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "place_id": "ChIJ827hlQ04yUwRl20AUOqP_r4",
+    "plus_code": {
+      "compound_code": "92QJ+M6 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892QJ+M6"
+    },
+    "reference": "ChIJ827hlQ04yUwRl20AUOqP_r4",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=13762595747818139031",
+    "utc_offset": -300,
+    "vicinity": "96 Rue des Opales, L'Île-Perrot"
+  }
+}

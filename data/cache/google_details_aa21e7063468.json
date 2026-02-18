@@ -1,0 +1,372 @@
+{
+  "query": "Pincourt Taxi, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338114.8175442,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "301",
+        "short_name": "301",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "des Buissons",
+        "short_name": "des Buissons",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 0K4",
+        "short_name": "J7W 0K4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">301 des Buissons</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 0K4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 AM – 8:00 PM",
+        "Tuesday: 5:00 AM – 8:00 PM",
+        "Wednesday: 5:00 AM – 8:00 PM",
+        "Thursday: 5:00 AM – 8:00 PM",
+        "Friday: 5:00 AM – 8:00 PM",
+        "Saturday: 5:00 AM – 8:00 PM",
+        "Sunday: 5:00 AM – 8:00 PM"
+      ]
+    },
+    "formatted_address": "301 des Buissons, Pincourt, QC J7W 0K4, Canada",
+    "formatted_phone_number": "(514) 647-7741",
+    "geometry": {
+      "location": {
+        "lat": 45.3724532,
+        "lng": -73.9809356
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3737804302915,
+          "lng": -73.9795777697085
+        },
+        "southwest": {
+          "lat": 45.3710824697085,
+          "lng": -73.98227573029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-647-7741",
+    "name": "Pincourt Taxi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 AM – 8:00 PM",
+        "Tuesday: 5:00 AM – 8:00 PM",
+        "Wednesday: 5:00 AM – 8:00 PM",
+        "Thursday: 5:00 AM – 8:00 PM",
+        "Friday: 5:00 AM – 8:00 PM",
+        "Saturday: 5:00 AM – 8:00 PM",
+        "Sunday: 5:00 AM – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112328916870781135304\">Pincourt Taxi</a>"
+        ],
+        "photo_reference": "ATCDNfUiVY1HgjlOcWOA-WsLuub8a2tKl1dmlGWiMalUefmc76Gv2eyZNVrVckVwleIROkqAQZwt34XDQRqe-JihfZ4UNBwh0FksxgpiMLWW3-rGZc-dDMbTV1pBMT8OL7l5cVaP1Clt0_PBeQdmrGDYjPe1ZtnDrPm4y4uVizy22UJAX0H8D53qANcX23oCkF5TqskMEv-m9Zwe8s92yHzY5KlCm7QE90RJ-iYaT-RcbogfPxJtP_J6QQp98gaCnJhV3yrnZXlLYM1W9Vq7a1aHAyCXAk1KRKsDh7RukBn0N4r2Mw",
+        "width": 1336
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112328916870781135304\">Pincourt Taxi</a>"
+        ],
+        "photo_reference": "ATCDNfVn1WwqXaC_YMW1W00A7nNWEIFFWmBDnMtgEpIUcERj9UG-9nM9YJAO09ghzi2H50Z8svEOOyAG8DVxdRy72Y7I4GcW7JKFjlwfRrHdBZ91NpJljkvKOYL1avvKBmCoFGVS3T5S-wwv_qY5LuAYpRFYKST6aorG-3ugMzbZroS2Qo2tIggCDSoI0FpplLY5cJ23vdtmtZJCMj7u4v7pDScVtK6CaJtF4md9krn7U_iu4oK3jfDqaWRr5-K0rOaYP-3SQZ4aWkGSxorYDIs0f5bd5OY7uKI4pu_iWLpSdEO1AA",
+        "width": 1335
+      }
+    ],
+    "place_id": "ChIJP1U3eW9HyUwRaa-9QnL2Vvc",
+    "plus_code": {
+      "compound_code": "92C9+XJ Pincourt, QC, Canada",
+      "global_code": "87Q892C9+XJ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJP1U3eW9HyUwRaa-9QnL2Vvc",
+    "reviews": [
+      {
+        "author_name": "Diane Delisle",
+        "author_url": "https://www.google.com/maps/contrib/112139589443319038188/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkX9d-DqKZYw73frkG-M7-z3WKH4v53i_IxVsRIosGotvCdA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Timely, efficient, great driver, very helpful (my husband is in a transport chair and was a great help), clean car and most importantly, a very kind man.  He will definitely be our mode of transport from now on.",
+        "time": 1760798988,
+        "translated": false
+      },
+      {
+        "author_name": "Monique Gendron",
+        "author_url": "https://www.google.com/maps/contrib/112466508527394616124/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbb2JbbUfm-0nSltcRhE4jbqIXpCyXJHMt7eIh7Nh_Iumi6ae0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Reliable, friendly and kind. We only ever call Pincourt Taxi!",
+        "time": 1751059925,
+        "translated": false
+      },
+      {
+        "author_name": "Stephan Hebert",
+        "author_url": "https://www.google.com/maps/contrib/101826651148714191514/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJP_25-iMw9Vfg68MIsYdYnlX2vyivDsou7NhESChb5yQ2uGA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent service.\nOn time even very early (4:30AM)\nFriendly service\n\nExcellent service\nÀ l'heure 4:30AM\nService amical",
+        "time": 1707185925,
+        "translated": false
+      },
+      {
+        "author_name": "Mama Junk",
+        "author_url": "https://www.google.com/maps/contrib/104814147758930162409/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKEoPotnxfTrBdv2HhdBCcDxxhUI-BkoadsQw8KzQdrRvudg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Called really early in the morning when Uber had no drivers in the area. They came within 15 minutes and was even a few dollars less than Uber",
+        "time": 1683382313,
+        "translated": false
+      },
+      {
+        "author_name": "Neno Savic",
+        "author_url": "https://www.google.com/maps/contrib/111239420911511863059/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYYk57xTGH8RJpkiXHX1HT7Hld5vw3YJkXiXgf_stqKO6cAg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Courteous driver, standard pricing as per meter, newer comfortable vehicle, punctual, recommended",
+        "time": 1699456634,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17822703545971748713",
+    "user_ratings_total": 22,
+    "utc_offset": -300,
+    "vicinity": "301 des Buissons, Pincourt",
+    "website": "https://pincourt-taxi.com/"
+  }
+}

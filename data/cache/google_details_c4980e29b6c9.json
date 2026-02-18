@@ -1,0 +1,395 @@
+{
+  "query": "UNI-PRO Le Specialiste Ile-Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339625.2982695,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "373",
+        "short_name": "373",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X3",
+        "short_name": "J7V 4X3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">373 Grand Boulevard</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "373 Grand Boulevard, L'Île-Perrot, QC J7V 4X3, Canada",
+    "formatted_phone_number": "(514) 453-0731",
+    "geometry": {
+      "location": {
+        "lat": 45.3909773,
+        "lng": -73.9615809
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3922916302915,
+          "lng": -73.96027216970849
+        },
+        "southwest": {
+          "lat": 45.3895936697085,
+          "lng": -73.96297013029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-0731",
+    "name": "UNI-PRO Le Specialiste Ile-Perrot",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUXCQLOmUQ0iZ3-Mxdh6YRK9_Lsf6pCRkGK1HNhPkHZQ7W3jtcyc3dBnhSL1GFE8_hjqYFHRSkQJIqRhshDRfx7L86X_Evuw6I0nJryBPkzXfes96Bddft4n8itOqZQRRFxWrET3T_UdW1AopKNLXxcDjG5N4yvdriB-q_Eia8VRgEFcnx2U9r587so9To_pjPH8SJjJ6vW7yh222RRGk3zNFwp6xrejGTm8xnWroQth_Y5PnOi8sCdQQhsp_YbHbbwfW6pMtOuEd0RtjxfWYik25M7pR_-cqknUhMAncw",
+        "width": 640
+      },
+      {
+        "height": 2956,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfXwse-dFY2cwmGGZfQ6kCgyPIdI2xbTEA0HM5VsE0sqWmh9UnqCkcUYV7dHySe1BFbz5xHMDg8Z51wvApzRHGZrn016gfbxcAyoTwBn72vtFVixGExhP76SAT4Et6b6N14qveO4d1Lw4dcz0U8jpqA1qQ3v0IheMO9Izxch1-IQhRGX0rJnHR0vZajg1zzPJa6kfKoXXBGfF4xrOO9qwA7MlvJCH6q8D3I_xO4Wrwm1nPP8IKQ22xzhUzIRPlqpy5UKGb6367Y4Kar0SZ4pJrCeuEXu_Vs47X-bLxCd9Ng",
+        "width": 3510
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfX1YlYX_VtpYzwMHUCdI2AMMBCOp72gE4itBFd1nbJQdN51olWsp3OdcXwLa_UPG5vTgjrLt4Zj5i2kQQ-lO8r3Nfmx6ksitwkoF_iiDdhePpeoRqLlTvNAyFMd25rEwLxkY5zqgzkBjF1ZKPaOIrTP0ZEGR83Rc-NpqD9hvr_eFznjtMPYmYvlVevx4W8MBss8QPDK_H_LRicempdKgG8T0qX4m2-GJz3YS9mi7vHcTTDFjk-4OTEefNnBJsX6BtZH985yR2RR3YyPEBnMVlNz8gR4XjnweZvBEiAgLPM",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWhJLbJpPunideqvVKjnuuVrFumgKNL1e7GFAwlRK_zUWdigObjn-Un8_pEqKDS0Ika1ueThZWUBSpinIFo-uIDCWoNUBkrxgpqRNICEqX-wu-zPpqHO2SD6CWT55U_mk6zFtSAEERUuMjzXIJXjc04tFVhlusyOKPeAmNt9HCCw7o6N7BDI-NX-BIqIvRD6uK5-zXhF_9qOe9FUZkV5NvokUZh_VESDwdR9dVHVNqHVvOsxlqx9eJkjLCwNiVwGDbqMyqKUTwCAtPk6CZXxcpXjsQeXvpU9raUGWAdhLQ",
+        "width": 4032
+      },
+      {
+        "height": 3727,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWrIS5RRw4Z3yCzy03ic8EhQ6hCBFLssf36g_Fjn5Xt8aF_H61VQuZutN4jQSMdyd9uri-trrLfkeFwiOO7mUjIUQ9Di9QiIiqmjk236Pp5Nx3okeYvd1s5wwSAqF3S1Vjh6t4ogqQ9LFTFwxYhkBpixCHbe1hdiaK9KJbXm835GYWauItngDozTEkDxZ6lQYDIyqFCmR_7ag6KZXszmsRHRcPVjLWfscG2xkUtLGzBB9n1nVkT9XACe6hbSpnCUMaTfC0Qx4AhqUMdwRjY5CR7mOyyfC11eYy1eyHG3Xs",
+        "width": 2823
+      },
+      {
+        "height": 2735,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfU8WKj49kTHFDB6tMEIHQtMcReIdEqBaSdFD-z6FLLxLdpq3lwC7dmzhE3ar8_WRhiTSp6IGrm0a0AkSND30g46XEm_Yuif48y-WhWMcCM7zCj9MYMlm_klFFeeEK7PmwfEvLIby4znFOynhllpHoAp5ICr4hDN3mgSeh7GPocPbvOT_K91a4DSRxs1J8PxOqhXbFVlWpVr8PFvBDkqdy_MVIB5irLM7SSXDlyN7EkNPRzE8JSx6LS4gboaHR7t531Y1O9huOdPUDwsFpNHy0ZgxEmS9Gv7JVxNVrMs4zk",
+        "width": 2444
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfVqFOlcWwRpE4_NpecV1kb1utVmnBGoW5lW81nebLCri2soVOr1e_mr1_7_owRwwwCGstmyiEvsSodHWlSDdNMCuTf01GdDJ0eRuBv-E1aW8iWydZFA55chiVsdIHAAd_7dWOYytT80gyl8B3HHf_Iro50jt3PMYRWrqr3zIaPFvtShINH06bfcScyqVqx0KdaF0HzYxeN07hxDbHW8E6r-zgXnznSfkPrvJ72RmCiQ2YwfzyQPyy9Xsk29Kg2rs5tcFT1bTHfnxDNAqA0PuhAsuCOR9y8JC7rmJAUb1YM",
+        "width": 4032
+      },
+      {
+        "height": 967,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfU0VfHhcWNzSKw53xAo2DZp0GWSDOd-XZccXsEph7Qf0PFCsA8qrzQ2VfQZOh-_NR68FaWpulBIm9D5kNEvs2TupvpONwubj-x8SviSYORY2saw8RJu70BN1v92Z2G4lOvLyzE_hzJMSIkLRGqNbaoQ79qWyPBnDlfaFNlwVMIwbYHzTYwuZYR0cKFLFOftQocDWxfSgD_B_qEF4p-P5F3PMFeLpPXVs0Zkqb--YGpEUbK9mLEu65b6frCVGqxcbQxbtUjUyIkZh7RfiC0Z2m1lur2yAyH5RMFzIyYlHS8",
+        "width": 640
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfVeU_ffKDRwwUUpxQMxpiB-r84ZicDQRxJ7uPzcD8TPfYX21bHaGNtlkF_JKAlbVaECJJOwRj4zKtrnQqQqtyDC9x0MbSvpX3XHhfgDdzkdt9JhryvdxKoiOzhzRBUwmVwiIhZa-BSMjcbORO6leV82OGduJUqpvYJlqIj_mCYjfyzlk9ztyRHijVTnIjFCcKJrcl4iTJjTv7AX4xOYb3eYwFIt_hyHZ1ZkGywEFtNeCIXHFBmn4nEEH-yLU_96yBIbulAVeLKUDu72LDXxXqRtBUbnzD-bjqNkFoVcuV8",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100365319315058071648\">UNI-PRO Le Specialiste Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfW5BWmTKHxiUjHeTuOyaVQi72G5Q4pTl2ABuntT7IFkn0SyblA0lOCfrBADQl-m-VosYM4-Cp6aNrdhJvO9tHIy0wzNTMRx7rtYf7lElzLh9gUa_F6WUhK2A9ZVQ6NBfEnk7EDRNe2PnaxfKwk-PpMIk5z2n8AYDJjiBSAjsXZUrZaN_HUpsWAK40izceAh58ndIbQO3n-r7UatHw0SOWvzrt6lvmALhZHtYBFmsrYuPqe0AAjLlGUg9yXPNaqbUQAinvu0VUVbqJhau20wUMmEeLNkR1585Zqnr8W9rtk",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn_yJGW04yUwRGOEQBPAN9HU",
+    "plus_code": {
+      "compound_code": "92RQ+99 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RQ+99"
+    },
+    "rating": 4.5,
+    "reference": "ChIJn_yJGW04yUwRGOEQBPAN9HU",
+    "reviews": [
+      {
+        "author_name": "Jean-Marc Doyle",
+        "author_url": "https://www.google.com/maps/contrib/103850993366231583305/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSH56PsTFIJN5eV9UqHNeNc430Mw4BSdunVGIRC8xFiqzGZw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Best garage in town. Fast and friendly service, competitive prices. Can't go wrong!",
+        "time": 1762538116,
+        "translated": false
+      },
+      {
+        "author_name": "Michael Chretien",
+        "author_url": "https://www.google.com/maps/contrib/103001327850178847014/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWu1GUjLUlXlDy9c0wEGHsGmC90P6AnLvnQAEk0S_6QNQTO5_s4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "First and foremost these guys do a great job and both times I have gone into their shop it was not planned and last minute. I forgot to get the Gentleman's name at counter but he helped set me up both times and was easy to speak with. Yesterday's visit was last minute and in the middle of tire change season and they still got me in and out in less than 4 hrs. Amazing.\n\nThe workers are efficient, friendly and the services well priced for what they provide the customers they serve. For me, they're down the street and damn reliable in both visits so these guys have my business. They should have yours too.\n\nIf you're looking for a garage, go into here as the team is great and you should leave like I did, smiling and worry free about the car.",
+        "time": 1603899188,
+        "translated": false
+      },
+      {
+        "author_name": "Tam S",
+        "author_url": "https://www.google.com/maps/contrib/116253997136727283581/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCE3wxqvwPMOTISWCMvtfKSnlv3BsiTZ8k_rUxe9xKODzLVg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Been taking our cars here for a few years.\nThey have always been up front and honest about work that needs to be done and work that will need to be done.\nTook our car for a break and tire change last week.\nCalled the next day with concerns. They looked at the car again today and were patient and understanding. Took the tine to explain everything to my husband.\nAlways great service. Thank you!\nI highly recommened this company to anyone.",
+        "time": 1650382191,
+        "translated": false
+      },
+      {
+        "author_name": "mementOvivere",
+        "author_url": "https://www.google.com/maps/contrib/106660986818439889895/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9loSuJMbICz1zvQRlvfros-BVaJMOW5KoJXRPOhYQ-vSW_wiACw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Extremely happy and very satisfied with Uni-Pro.  I had a flat tire in a snow storm.  My tires are those that are hard to find.  I found uni-pro by goggle search, and made a call.  Never knew they could service my car so fast.  Got an appointment the next day, got new tires, and other minor services done.  I got a very much needed professional advice, and i am committed to heed their advice.  What's more? Great Price.  Thank you Patrick!",
+        "time": 1613846437,
+        "translated": false
+      },
+      {
+        "author_name": "Tbone Lone",
+        "author_url": "https://www.google.com/maps/contrib/118182576542741116315/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEYcOcPXMHdEhwwbKdgCUYCuT9SX7f4jp9U9zJJgL9B-C-7Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "My first time at UNI-PRO ILE-Perrot, without an appointment, I got a random screw in my tire. They were willing to help me, even though it was late, and they were extremely busy ! I am really grateful for the great service! They gained a new client!  Thank you to their team! Keep up the good work.",
+        "time": 1667946337,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=8499433721266495768",
+    "user_ratings_total": 83,
+    "utc_offset": -300,
+    "vicinity": "373 Grand Boulevard, L'Île-Perrot",
+    "website": "http://www.unipro.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

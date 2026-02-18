@@ -1,0 +1,425 @@
+{
+  "query": "Tandoori Rouge, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338689.9852972,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "499c",
+        "short_name": "499c",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2A7",
+        "short_name": "J7T 2A7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">499c Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2A7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "499c Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7T 2A7, Canada",
+    "formatted_phone_number": "(450) 510-2424",
+    "geometry": {
+      "location": {
+        "lat": 45.3831088,
+        "lng": -74.0920704
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3842060302915,
+          "lng": -74.09059291970848
+        },
+        "southwest": {
+          "lat": 45.3815080697085,
+          "lng": -74.0932908802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-510-2424",
+    "name": "Tandoori Rouge",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116093272564472510914\">Tandoori Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfVGuf_GyR58QU3_3CMxWIeVnUlFgHHAbXGMGrXR1-fWXZ4ofqJ87CNQm68OYodQl2hKInZWn9uL1-cEV-RucnzNOBTvra5FUyMM8MAOoNW7DIk0XAAX0l3sM9x9xTtzSigIzFH7WvMkkYneOyGqy0OxCBPhKg-ZIz-eagb99hY3NFzvMr8EXcAf9ssVti58acXLCFXX3ZmyYUfFp36TnwBNShHgTx10GLiA_B96pFfeOubLq-IM66f7UKCVJOJ6E3hUFBU6eeu6yUcAfsaBg3IifzbRc8mMF5o7fsEc9R5BRw",
+        "width": 4032
+      },
+      {
+        "height": 2229,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116093272564472510914\">Tandoori Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfWPZezbU_-nkJx-Xr7s5ez4yxi7_w-12ozHiYE7mB0Y5et9NCBwmowQS0ExMkRUgRhw2nyavPlcc_QOZ7ddD91dXCXFYh1txYw5_sOeM5e0iMtl8VKMPV-3EvYcypqudidL_ve9p48T2z_97E09dwY6Vzy-U7r-glJbzAouG8hHrKmXN1apexlIfoS_F4UOlqvUbWPCQ9apAto4gWbe2uGhW8DwQIiPBR2meRoivp3HHB6GEgdKz5CnoDa6ny8Mk-n76vmxcwqWf5-xwBeJJz4c5SXBnrKnjtpaQ1XIoJ39aw",
+        "width": 3385
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116093272564472510914\">Tandoori Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfXU0bqs7rnmcD6ChGEjU79KF9cEMAeD-ZLI8qWc_jUmyM3v-qpSVcgOErcxn2OnrLUFSen_Ie6gbTDQRec4LxpkWCn-PKQPULDg24skn3QZlyiCBHy2NTVQrMDUps2INCUAngvD80OSXKvDwKdS04KPUb2BRe_EFiAAcmBzwAaVZQOR33fNw7L5ReR4sPQN5hJuWjHSBNdQXLfTZ27gG_lZEH9Og3vCg8L2KzfRS0u3_wCp0KhqDIhzU6DLGOH9zn3_cHnmZ4fiPFhA28tOOtxR2HN1bVCwlzANmz9l0hZ32w",
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116093272564472510914\">Tandoori Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfVcLqA0OP8JP681m5nyheTnW1UW01xYxWuV38jqp6AuskU4F6_4iCjH1rv9QPVOckinwwE7IrX5r-R1CDKENUghEgquAPkE7JefB2fpp0LOQXzxa073d4EJyURyJ5Qd3zfgnmKp8O2h7wUk5UbQaRXRq80YegxYMlFFS1Qxb8QG5K2EsKDIn6lCTmhpEp-irNIy0Q-3FA2OcgNCzeSXLDvo8ilRxvByGJbuCZMeGMagsBUWIZPeNPfRtHMSM_rPpycriqFPnb0RipIdfGZhJWKNyMextnFLtRv1lqVf4-PLsQ",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116093272564472510914\">Tandoori Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfVoKcXgQEDtPkq8yhTjNIwSe3I_1y1eLlsoJ-ta67DuYZOffj2sk4CgyZtXpDtzbAplceBZygvIvsfT_ewGj1IqYy8aRLrMuMid6Re-6vIk8s3lzibSIibexQN58gksDNKX11R6OW8wfXJ52MllkhyWikd5vDtG01Grl82kNuBUlo2mp33X9QeGJibjGQX9dFKaq_xYzVoXI8QfpqkBwAbf-y_fNlfvvQrmHQGldaYhiHG_QE681XJEq_YtvVAIqpiCET6rkHBYCvLoL8nS03o-UyzbnwTGobAIofDYHNEubQ",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116093272564472510914\">Tandoori Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfUJPBB2c6FP4bxK_1IvO4vIRrQwsgGKwEgdvsvnyNTA_vZjNUTZ3E5PKFlH41uP1nsJi6wpEUc6J-MFA1f1cnPdHYyPo7STXpXlivRpLjxYGX2Mq_TTlQYfhDv5vA8xC8UszmSGR3Az9MPPBCq7Qr7Ap3QirzxMowUZNstDAsBztnxWa97hgEJCq0FYbjx2ivIjln8E3x17ZbA0V4TA9ssDb0My_7acwqrGp1KnL-BEU7jP-BvwhSTcWFBlMhpeU19UpWWc20ZtAcwLsD9MlOlIUnuKA_YTR5f5KrQup_22Zg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116093272564472510914\">Tandoori Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfVUdQBRxPMfVt3aC-cgWmhwxRNi5x8a_utxnq8HjgWCkHzoWiyPT1IDOaD310NcIJeZNpDcCQ-by38z1kb_n4svKNsQB3AdrNRgyFc3DmkZ7f77g6-RfmRHXdQ-L96uQxbGJT5Ow8xa_n80kWXPt0y_1DC6BLJaUdtYi3UjUijFecUEGDia5ffYAdn6__gPF3uaRNk3mIWkVTI1r8zZZ-kDVSG2kM9cCYjtmcvXHygQb-5yTsATH3YCxRK6FgtEdxXF_fMBm9HU6GKQPsdggfsZosqIYimwAVLXrNUq-UOhnw",
+        "width": 3024
+      },
+      {
+        "height": 2701,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105893140093847891552\">sukhdev singh</a>"
+        ],
+        "photo_reference": "ATCDNfWWuWHxUpEKf1FsA9hb-kDt3RouVwB4AuxAAirfETHlIe0ZnpTV0mESFifbvd4L3YUh8JH595Mo7jvSIoaQ6IzvJq6TJvsQULBnMa2xLa1w3UIkNeEjQ2RvM-QLs7DaixvYBbIxGs7UByVy7M-QFqArX8VYF48ZC-MGqBgckyk59aVHerJLjLK1fpvQAo0Kzpy1RRTUcnYc4xJPEV-02jc0Gp3yZQGrhWVoUm0D3dwD4T0mAZWPJdNvybZ-5MBaz3WCoZkct9jmAdFw9lehSVHDcZcIFsE-XqL1IZt4aZYJNgN5IrzStUIAlFGRRcVW9zw1kxXyIRstDoZQnlR063IiPPaXSVhvfw40L7TEaI5EXB3iowe05gJURooGRlqszMntWIkhSMm24VraXFQdiu8d8PZf7ISchPPgCX1_CYgifA",
+        "width": 3690
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116093272564472510914\">Tandoori Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfUPC2cBGmA2kjvEgCSrVYESKHiyhBPWc_l4o-qgSUKaI_FvBTY1NhbZWb2DFtbJAvMMjAveX3z-QLRYL43YymGq5RKatS1ADv8iATkZjHBV1IvWBOORSQx0civMbRf_XX4fMWb7BI4ybtcwnzUfQLAisylCwM4mWoXWXfCS4RFpX1zoFnOGva1qGSRVTA8gZjfcTr6jAFtJodddWuKyuAYoJ-NsL5VZCa59mAWRTllpl30QQsjCJFi5m3zpzcYVTfflCRIyFRcdSdrxsyfM5xn9xKpD_qwjSI8KtWY3HOXFlg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116093272564472510914\">Tandoori Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfW1ZQx8H9fbakbHYqLU30GM2ERDQ9DLH6p96aNEC8NAhqYKeoQHddODfcG6x8hu6EEQU0Fh3xWrhG2e2HTuwGSfzJ6hO4vBtFRlUNdih6JTb8XcS77ojfhT5ijJ1avoF7Z5FryKA5kQcMVF7JXqwti2-tefrqyPk9X9HiobWFfK3TEWOUDi9KDrBpdkt7H91hQ20wvgyuYMSzV8z5TkGyURVZ75Ikv9wcJhtml0Lyt3wezTfTWcrflobJwG5w4QjmxPEy15ccwXmFdIWftGdgD7XxqiHLEjs71ggoSua8gQ_w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJm9el3NpJyUwRqdZOysKS2qM",
+    "plus_code": {
+      "compound_code": "9WM5+65 Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WM5+65"
+    },
+    "rating": 4.6,
+    "reference": "ChIJm9el3NpJyUwRqdZOysKS2qM",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Dayna Kilbourne",
+        "author_url": "https://www.google.com/maps/contrib/105246143748103001123/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyP3IPtzV5G0-YEbiGYd5RgJs3e8qxiU5MGpbrTiB3ebDsNjrb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I dont usually do reviews, but I wasted no time for this one. As soon as i cleaned my plate I grabbed my phone to write my experience. This was my first time ordering from here and it definitely wont be my last, everything was so delicious. I even paused midway to contemplate if i could make this order a part of my weekly budget. I love a good butter chicken dish and this was probably the best one ive ever had. The flavor was so tasty and the chicken was cooked to perfection that it basically melts in your mouth. Loved every bite and didnt want it to end. 10/10 yummy",
+        "time": 1768175913,
+        "translated": false
+      },
+      {
+        "author_name": "jatin kumar",
+        "author_url": "https://www.google.com/maps/contrib/104709692632702477331/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM1sCNt5bbp6-WEX4hrVVoJ6m0161isN8oGaMwtK9_XYkkVow_=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "randomly chose this restaurant through Google Maps and tried the chole bhature with a cup of tea. Both tasted amazing! The achar and salad were also really good. Definitely worth trying—explore this place!",
+        "time": 1768950437,
+        "translated": false
+      },
+      {
+        "author_name": "Dan Parent",
+        "author_url": "https://www.google.com/maps/contrib/114730656782703069438/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4dW9rgC28tqhldxIjxZKtwinBMS880vh3j9Dw7IyrDnPegg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Just picked up food from Tandoori Rouge and oh my god was it delicious! I’ve been to India a couple times and it was some of the best Indian food I’ve ever had. Tikka masala, biriyani, palak paneer, samosa chaat…all incredible!",
+        "time": 1768961207,
+        "translated": false
+      },
+      {
+        "author_name": "Jean-Raymond Stratford Desjardins",
+        "author_url": "https://www.google.com/maps/contrib/101855801734349698030/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt_okDzv9mnVv8jaE_A7iTPyvAbcxhvhwvmeYYyPTOoPvUqJSP=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "This place is very cozy, inviting and clean. The waiter has been helpful and super polite, I appreciated my experience quite a bit.\n\nI see they also have a caitering option where they make the naan at your place. There isn't much that is as good as fresh naan. I can't wait to try.",
+        "time": 1756224327,
+        "translated": false
+      },
+      {
+        "author_name": "Rameet Singh",
+        "author_url": "https://www.google.com/maps/contrib/116227069979050162408/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsQbNhdOuL4PyqU3aacdkRKByjOFIMbryXkxGiKblxM2rM1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Honestly, this is the best Indian restaurant I’ve been to compared to Toronto and Montreal. They are absolutely so fresh, the ingredients are pure and fresh. It’s like homemade food next level. I love their parantha, paneer wrap, chai, everything. The people that work here are super Duper kind and humble. Really really nice people with big hearts.",
+        "time": 1759684976,
+        "translated": false
+      }
+    ],
+    "serves_brunch": true,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=11806910738420651689",
+    "user_ratings_total": 207,
+    "utc_offset": -300,
+    "vicinity": "499c Rte de la Cité-des-Jeunes d, Saint-Lazare",
+    "website": "http://tandoorirouge.ca/"
+  }
+}

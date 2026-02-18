@@ -1,0 +1,279 @@
+{
+  "query": "EXP, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340549.1240392,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Bureau 306",
+        "short_name": "Bureau 306",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "11",
+        "short_name": "11",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">11 Bd de la Cité-des-Jeunes Bureau 306</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "11 Bd de la Cité-des-Jeunes Bureau 306, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 455-6119",
+    "geometry": {
+      "location": {
+        "lat": 45.4149836,
+        "lng": -74.02204329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4164644302915,
+          "lng": -74.02078756970849
+        },
+        "southwest": {
+          "lat": 45.4137664697085,
+          "lng": -74.0234855302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-6119",
+    "name": "EXP",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 864,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109361377504835341759\">EXP</a>"
+        ],
+        "photo_reference": "ATCDNfWFagc_jUCrQNhc_tt0pe02CWWzHOeg5OOE0b6k4aQWQ1u93kQcaCzgX51I1Il486rIQ5MP7s4l-ED_WmY0psM4kKXmLkpWAS_JHjlm5LWnEfn1IzvSyRDTq3YzjLawOYPxN38e_hFwaZiJAyOPMETC6Qn0o1hDoVFlhoVQwjztp0Qi57mzFhwIn4Rzul_4k3g3LMY8DZWHrG9qiNAQ-Uv9wQQoq0BjpmtDgwqg-gvenZmbzRVPFfvaHTvU1GtB7i8AO_dUW9977yw24q8OTlonIWT3ik7ynI6EjiT5hDe6iA",
+        "width": 864
+      }
+    ],
+    "place_id": "ChIJgZ7StYw3yUwRtxd6D1z-cKQ",
+    "plus_code": {
+      "compound_code": "CX7H+X5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7H+X5"
+    },
+    "rating": 5,
+    "reference": "ChIJgZ7StYw3yUwRtxd6D1z-cKQ",
+    "reviews": [
+      {
+        "author_name": "martin fournier",
+        "author_url": "https://www.google.com/maps/contrib/103586374087875570230/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV05-GjjvsMDojWr2B8QFVQPjssABbtBm-F_uWNDo4TszJVd_Gk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1706093684,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11849250290961881015",
+    "user_ratings_total": 1,
+    "utc_offset": -300,
+    "vicinity": "11 Bd de la Cité-des-Jeunes Bureau 306, Vaudreuil-Dorion",
+    "website": "http://www.exp.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

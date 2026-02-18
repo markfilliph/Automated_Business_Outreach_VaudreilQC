@@ -1,0 +1,100 @@
+{
+  "query": "3167 Boulevard De La Gare, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339897.6347525,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3167",
+        "short_name": "3167",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8W5",
+        "short_name": "J7V 8W5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3167 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8W5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3167 Bd de la Gare, Vaudreuil-Dorion, QC J7V 8W5, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.40224689999999,
+        "lng": -74.0467678
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40366813029149,
+          "lng": -74.04527801970849
+        },
+        "southwest": {
+          "lat": 45.40097016970849,
+          "lng": -74.0479759802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "3167 Bd de la Gare",
+    "place_id": "ChIJwy7MzDE2yUwRSLPWJ504sZc",
+    "reference": "ChIJwy7MzDE2yUwRSLPWJ504sZc",
+    "types": [
+      "premise",
+      "street_address"
+    ],
+    "url": "https://maps.google.com/?cid=10930580018234307400",
+    "utc_offset": -300,
+    "vicinity": "3167 Bd de la Gare, Vaudreuil-Dorion"
+  }
+}

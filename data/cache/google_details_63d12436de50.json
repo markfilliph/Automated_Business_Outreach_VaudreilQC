@@ -1,0 +1,462 @@
+{
+  "query": "Coco frutti, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339658.5233047,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 100",
+        "short_name": "Suite 100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3061",
+        "short_name": "3061",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9B9",
+        "short_name": "J7V 9B9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3061 Bd de la Gare Suite 100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9B9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 2:30 PM",
+        "Tuesday: 6:00 AM – 2:30 PM",
+        "Wednesday: 6:00 AM – 2:30 PM",
+        "Thursday: 6:00 AM – 2:30 PM",
+        "Friday: 6:00 AM – 2:30 PM",
+        "Saturday: 6:00 AM – 2:30 PM",
+        "Sunday: 6:00 AM – 2:30 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Easygoing dining space serving traditional breakfast & lunch dishes, including omelets & smoothies."
+    },
+    "formatted_address": "3061 Bd de la Gare Suite 100, Vaudreuil-Dorion, QC J7V 9B9, Canada",
+    "formatted_phone_number": "(450) 455-2777",
+    "geometry": {
+      "location": {
+        "lat": 45.3967709,
+        "lng": -74.0540522
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39811218029149,
+          "lng": -74.05259151970849
+        },
+        "southwest": {
+          "lat": 45.3954142197085,
+          "lng": -74.0552894802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-455-2777",
+    "name": "Coco frutti",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1430"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1430"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1430"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1430"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1430"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1430"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 2:30 PM",
+        "Tuesday: 6:00 AM – 2:30 PM",
+        "Wednesday: 6:00 AM – 2:30 PM",
+        "Thursday: 6:00 AM – 2:30 PM",
+        "Friday: 6:00 AM – 2:30 PM",
+        "Saturday: 6:00 AM – 2:30 PM",
+        "Sunday: 6:00 AM – 2:30 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109455370914938973757\">Coco Frutti Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVejeFxvHHIVbxrcZ8aZuEFrqI14qRz-9pKBmnOl-SzoJsiG8dFcee7IrGIia57iWujWh34PjVb5pR9GQ0fteZK6Pu9CNA_S2D3VrGZr_SwuQVG4blmtxe7N7JUtVIYd9MQ6uWFJ3qnqeMe3jItSV6j7_rE7posC-Y1RaswPQCVpYSDklzwWcUxGU_KDLWhb6k55JnF3Q1nc7GT_mRBdQMGNGW4Hf4owZP17-8ZVQyCFPQ0JwJXQJNU6oFDbxVpeBPO4_K9xwIX_MMPZJmjuKzQYWMggLU7XJGiZpQVsz2STg",
+        "width": 960
+      },
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109455370914938973757\">Coco Frutti Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUO6dnwz2gcwcL2OUSRre-SGWn-MoMZX0WZo2l9F8NsEIU4Tkr0NDhuCsipaqFBvXRYZlBVZZrNva_l4TwP6OgsWPbQWLbflGsA07ca9SdkAoYlnOHCIwp-ATM5xVD1BAeVY2QksCPYH10AvEH6S0u8CXWDZX6IaJVmyBBJ08hlnf-QKdz-eChkdTStmd2QPKaiFIpxysvinR0bj5PBsNOWh-BzhBLCZ1Vi2gmxt08OmFtaCudjfarIpmmYxfGkRaBL1s0wYTju8TLj_dC82930fSGv2j-DNwv-lG8GQylqVg",
+        "width": 1440
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110095053174369721083\">Kathy Liu</a>"
+        ],
+        "photo_reference": "ATCDNfUQGNQ7rCnFVYFXimEi7U1dlscnUTBSa9mzxaGjh3DE4QZeGvoboLmFg3oikNJN4RcnjUnrUE2egutzQLVdgtYfDJeU2DmyE7P8hbOyaP-EXjReOQiyfMHqOrkaCPU0gyIpY9nVeipK9DMLdrkn8Ld02xEAHdpU5eDNJILg3WiIqirEgWVq5p4QniOH2xZOXVfLVPDh5yoo2TF1TFpY52Tf78YtZwmuhv2Abnzw7mYi_2_z_YXob9k88mD5WgBTHzJHw1vRWpYWJYd-RqeOwrtmOU9FYdOywFQAjWiAAEFXEruRhqWnB_zkSJ9L9tvpyfLLTM_wLp9V2qVHH0mXsxH1qn4zqASnsj8UfJ3CPB_PmjYvQVexqjab-U7fy6CYsL7js0g5_ppNixoAhyORknx4ltPLQi96PgczNa2A0zoV7reZP19UlY15UdO7_nDO",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115434744477418808552\">Nicolas Filion</a>"
+        ],
+        "photo_reference": "ATCDNfWKPa8es8-EWhIfdLpJXf_wHZ7cUZ8-l4f5rnaVJNHr9LfcLkqmNHr7fNVvJ6Uv2DwgNFwRaQ3wd7PswbIN0e6BltfIEa3qVznueMK0wQFUaJUvvWcwR6PbZkHagYlxxIC2yWYGFqNiV9CbaXGIGksNxAC4_W0QQOcONFDqvus0x78FALIKCOhS9sKmJf6YlwWu0yuCLR5v-XGQOTJPAJD5vaP9EGtTBH16QtnK8Uyy3t6yzCDlpBgO3KinIHk74ipsZHEK11fCLS3nsTbHtQwmwBmDFJ-v9JKsUfGaxVF9P9ERksFsVBC7jhiPbkXcq9oD-XDDJ28gvXJEOMqfVMPtHXELkFQRHtyZ6Z4HfRLA_FDHGNRYBhbZqWw0iWs09m9rLsIXXbFgVQ2qTkrdkVbWM6Uc4pMCqst9GM76E-0",
+        "width": 4000
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109455370914938973757\">Coco Frutti Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUxMdkwwogUUSqQnDwuuefY_BB7K3y8sjUqI0PydVcf4ss92EWErTL3a0WtG521Bk5ktD8T441U7M6Z2fvd1g0mkViT3dXA9SxMOBDoVGxuyYXc-BHZlSkVzuKbFlQyk_AEI4SRkqKGWzc5ncNe5ru9uOu8AL3a4o-ZkorQPxc3rNvs1lTYqHy3MHIVcCKD56aRiKlPTRlFsTe2Qf35lMOCKg-wiYThWYDR6-uPN3CCoLOMEYLBplYaYS8sX7tC3_m0gmbf3RSXS-DDqPeIDgZG9_WMAJywmT1C0Lvr4bmUqQ",
+        "width": 679
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109455370914938973757\">Coco Frutti Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXhR1rpNNkMruhsJOqEfsOzRFYjYH4IldLkkJY3AhK69MvFrvg0o5K1GSRtl5-pGPw1w3BKjBm3FV32UI95HH0tGk70yFiQ5egr9B5GZAMtCX-Kz10jNVUWEBAUy7fPA-qEgWEOxjbe8btFjQo72t2-iOdamV9sNCGUCoTmFtlL83c_CrG6Tj9l5zY4xZYAvTiQiO1iTjI9Ue8OB2zVqx686ey51yDbeQh5O-zGofiCDM4n9Lbul0C_ZBDcvI2cz5zWJIqlaFHMNSMBud_6xW-cKQYwKQXMk2XHjikGUuGQyw",
+        "width": 2048
+      },
+      {
+        "height": 820,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109455370914938973757\">Coco Frutti Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUV-mj0LsPrhAeDhlf_iHMZ49kyhVS5O5x9WoaiOzoU-lxw46U7IqmWOFB_segThsaBiQ6qPKBD8P9xxi8Y1rcZvQ70l-HrfOFJWHLtzl4HEREOuJ6JrZxsAdMy6FGo5wEorMqUlRdWwXwQNaYWsZLqzCr6A0xoIWNypanen10zs0IFqZxPDyoPp1Icmp74zcmlDSvx0_Ok3YopnflvZYT5Crhsjd4v_O6qcTwEpeRrJsOmQfp9PIMDaqJXfdij6uo4ufHHe3P6cDQgVGgiI3qs0yi25Mgiac2A21mQJaeAAA",
+        "width": 1200
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111696926072651824326\">Tyler Creech</a>"
+        ],
+        "photo_reference": "ATCDNfXr9VLDIr2cjS8arovr7SwNFcRee60h8Zl3MPu7ecP_lHXIXS0Cj75x_TMOMoUosMc94V_giGGYC47D5tV3XyPtYV4CNNIxLl7VzH50avS-jHsnxCiK0-VPMqGLmIsmp5kJIvKkMbS-Z4d7GpXX7Tnx7TBWFxDzabpXDtEbw4E8XT7VOuOx-S5bJH1GuTcKVquELbiWXYEXoGIqxLGQ4eUmNSTPglFvrGKLg1H_nk5wK_f2-WdCjPS3TCFQDM3dVxgu9eJ2UNw_OqEbaGzNktYohcdNGVCn7TPJFap4jIJXS_kZDdwYY-0fSv5KzhrHdrxuCYgAgTPo2biybRgpul1e9FwzJzSJW_sR9Sl4aocSWdBpwbO9L5ohTWHSMe6egh7E2we0Ux141uuAVqtMv4qPEvgVgKbiPnHeqZgLAWg",
+        "width": 3024
+      },
+      {
+        "height": 884,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109455370914938973757\">Coco Frutti Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWmq5e5KsqMSodII0eInmwtP45hmznfmuTtDNccg0ubcTbGJN93xLfioosVmVKNyfM-PtomLcxgMjW8hlu2zU4WfV9vSjmO4lVZKWDk5dGAUNDmZdQVdaMayag3HbU2a7ZJErQy92XXZoXJ_IT1ccJ55BXgcBFc2B2e4EXxKMipWq4C3SBPSjgaIvMZfzFadCLOsH-KvtbS8HgWs9ZoFCuiaed-zizHE37HWsTTiwSDZlRHERz4XsldudwkXDLyCD2-nI5Gidc_RKn1SdVcASgtNiAJumh1tOpszemoXTPWbw",
+        "width": 1200
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109455370914938973757\">Coco Frutti Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXyoT7dbamggoAua8Dc0ARNtOeEGU-V3_vtpXKbqG9XQNid5BOn6W0ZFwEWUWLgI5Mxv8z8qy9UVP8Q70b40JfHeYn5Lu8je10EQVU91CnRNS_5ZwyeOWfeqjWzuY0iy7JQEbqPE7kADop1VJhMtnv1pEx3we5qUpM03gk4NEWUAbD9-yEcU0yDfQ14wpAnvbh5UmdWjxYR-kzEXZDOZpW-CeDh89KlTSQs2kiGitAyOEmejBVoWZcmBE9gP19m_hyq3R0ymkvxZDuDmPQjGOpCnwhxhMVVmT27AsTKfOcvFg",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJS3DzdyU2yUwR9mCqL6Xz2MU",
+    "plus_code": {
+      "compound_code": "9WWW+P9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWW+P9"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJS3DzdyU2yUwR9mCqL6Xz2MU",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "D Pineault",
+        "author_url": "https://www.google.com/maps/contrib/106791538628679317985/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXSVwhZBfIRGAjIgtvBbLsfoTW_y2BKcvAGFxq-iom8dpXLw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Went for the first time today and have a very nice meal.\n\nOur waitress, Amanda, was extreme courteous and quick (and fully bilingual).\nFood was remarkably quickly prepared, not even 5 minutes!\n\nLove them leaving the coffee carafe on the table rather than always having to bother the waitress.\nPortions were generous, all the fruit was nice and ripe.\n\nLots of parking.\n\nGreat first experience, would easily go back again.",
+        "time": 1577985214,
+        "translated": false
+      },
+      {
+        "author_name": "Jeff",
+        "author_url": "https://www.google.com/maps/contrib/101854018720154765362/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtx4ynScNNYTCc6TtKyua7iPetQ5X7xXIpOCr7533pFPEhliIf=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "We stopped by here for a late breakfast on a Friday morning. The restaurant was very clean and had a good family atmosphere. TVs were up on the wall, but were not distracting and the place was not overly noisy so conversations were easy to have. Attached photos of our meals say it all.....it all looked very much like what we saw on the menu. The fruit was all fresh, the crepes were cooked perfectly, coffee was great, and the staff was excellent. We really enjoyed our visit here and would not hesitate to recommend a visit to this great little breakfast nook. Thanks!",
+        "time": 1534282950,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "Their food only tastes ok; the crepes are dry; the french toasts are not flavoured nor seasoned. Though the presentation of the plate is beautiful and the fruits are always fresh. We enjoy the great service and the fact that they open as early as 5am; the earliest in the Vaudreuil area!",
+        "time": 1550150416,
+        "translated": false
+      },
+      {
+        "author_name": "Angie Di Iorio",
+        "author_url": "https://www.google.com/maps/contrib/111251055512463242113/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJS24xpAaBjzQXnBFHK493uiASfCy_KBF7icu9wd9v41I8QVw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "9 months ago",
+        "text": "I found a piece of plastic In my California poached eggs on “multigrain” bread which was actually just brown and they didn’t take anything off. Not a dollar !! I’m shocked ! So disappointed ! especially because I come here so often. What a joke!\nI didn’t even eat half the dish. I also asked for the cheese melted didn’t get it. And they had no avocado !   Forgot to take a picture of the plastic but this photo was of the delicious multigrain.",
+        "time": 1747497976,
+        "translated": false
+      },
+      {
+        "author_name": "Ashraf Warwar",
+        "author_url": "https://www.google.com/maps/contrib/116749983499898277802/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFuATy62RrDTSuG9fJAkx2xL2PSeh4t8ptxdhIpuyrpgC3vo8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Amazing delicious food thanks for the chef 💙 very tasty coffee and espresso\n\nService is very bad compared with the other amazing  food and atmosphere Sorry for saying that\nThe waitress who served us has no smile no eye contact we have to wait for a while to take someone else attention for a hot sauce and no water were given while having breakfast and no one around to ask for it\n\nRecommended highly for a breakfast and brunch\nThanks again :)",
+        "time": 1739237232,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=14256412511236153590",
+    "user_ratings_total": 777,
+    "utc_offset": -300,
+    "vicinity": "3061 Bd de la Gare Suite 100, Vaudreuil-Dorion",
+    "website": "https://cocofrutti.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

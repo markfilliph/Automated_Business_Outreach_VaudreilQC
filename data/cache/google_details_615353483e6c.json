@@ -1,0 +1,416 @@
+{
+  "query": "Foyer Gaz, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338499.5596976,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "suite 12B",
+        "short_name": "suite 12B",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "401",
+        "short_name": "401",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7W1",
+        "short_name": "J7V 7W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">401 Bd Harwood suite 12B</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Heating & AC showroom selling indoor/outdoor fireplaces, wood stoves, heat pumps & air conditioners."
+    },
+    "formatted_address": "401 Bd Harwood suite 12B, Vaudreuil-Dorion, QC J7V 7W1, Canada",
+    "formatted_phone_number": "(450) 424-3693",
+    "geometry": {
+      "location": {
+        "lat": 45.3799868,
+        "lng": -74.0197386
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38109558029149,
+          "lng": -74.01854401970849
+        },
+        "southwest": {
+          "lat": 45.37839761970849,
+          "lng": -74.0212419802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-3693",
+    "name": "Foyer Gaz",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 533,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110293588749414174134\">Foyer Gaz</a>"
+        ],
+        "photo_reference": "ATCDNfWSeEjTNOWSGdNQSOHqhZl40Ur1Y_UGZ7zGKcm4Ca1DXqus58QHgw-ho8MZeCqWa8NoRjhRwhtScJR9gOAoCoQ1d1QS6IEEJIQbRVR-6iG014lcjL665jEViMRibOocNyY4IhDH5AKLhz6E2_9wKVuQT1wXEYlaoHrI_QpY7GWX3sQl-ePUWzmsQdoW8O5JUrN7Ju7ZL8NkjRIDgMoJJ4uhyGR1EreLMc-RVlbuVJ_1LR-FgTAwMpqMWPikeEGRD45IaMg7vm94uGiBRWTQYKJJMtUklQfkj0BrdnH-Rk9HCQ",
+        "width": 800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107352822855038028423\">Marc Durand - Panosphere360</a>"
+        ],
+        "photo_reference": "ATCDNfU2IMnO8DPyvF4ILcp5KKXhgq2r2BkNsmcflxFW655mIv5xRxNsMdrCXTLdci4cOCJa7mapfQ2xd7qO6_0I3JTtP7BHMWAe0LHxamdmchq9Zmm5Y3TE7U3_pjXIUIsqd1ci8_rOoZG3Mv4tBd_hRm7unfFRvxm-9MHC8AuyQAZmnhbpZwXBmbhm_4r0x1Sm-hh3H2QTTu7myhVrvwIxK_jvpSNQnKYmIAaG_KIn3vPB8UBCXah_6xKqOPHlc-3lCSnuDVSTe_5a1mYLVOtZrzMykCsjX9Swo5ANuhLo7ciqYXjdFVUz-V5iokMlAkHqh4-2qvL2-8avxa_xbaHq7tAXuMt5x5zypBzkEnajCxfJPp-ckJecnpMRvJANuKipq8I2UtqlfqZqA6fdIWv99xnHPLh0yjz8wI-cyE9AkJI",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107352822855038028423\">Marc Durand - Panosphere360</a>"
+        ],
+        "photo_reference": "ATCDNfW9zXHixFLoaldumPFwJbxwM8aUT1sWQ7iPwwzC3yVXK_ZGNty2qci_jbcLQXK1FbNZYct0GXQS489KPpqufhsyoFX1LHq5UbKy61QOSvPGOOP3gmwsSLHMXIWYVK9uhXQxs4ZjbkGHDZ0NOs0vIeK2djabRk86urGpp6da0Y2vPVj-jbXsuaE-17fPgRcZELvCT9HoPw5ZrgL5KOLlmPVD_CV4lr0PLkxxXNDBVPQgd2PNyNxoHyZoNua4skqfAqg1oN56uXjlbaXK9dBQ_dBLHvXpq4ZnCL6kugWZOF1NWFHxT-VFXCTGS8FOEUKwU3I29S1fo-7ekpca2ZuE5j6o0_QahOJAE1I7JB4ZSSPJuzONPHeloTKcqzODTdnxYufX8zOlFhgzceh-D7D6QeJTCDCNG4XBmTPqBfLcooY",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107352822855038028423\">Marc Durand - Panosphere360</a>"
+        ],
+        "photo_reference": "ATCDNfU5tW7FtLqxE-_eopDuuB4VvOpoZ-x_w2knJaiWH5PUsvme4BkvlN0coVSUXkklwDZiuJVO9kjoLtePBkfZbuVzxHzjgN1LzXZcXmR3cCGlrDPEXLzHBam3KyIQG4qHbj0VnC_BDzb4S38P3POgKmT5p_BU_l2pldvJSuzDS8R-zxRtMd7QONjcsLG8Nf2pdsHvl8pFL7PodBTBM9ci7g7BxBN5yFMXkIDn4u7dzlOpC4eXgoJweJwDUtps5OJXtAqGYbKEB7TxJPjtYtWi-6cvg50XJqlUr48IV7URK8iXoixUTo2zU46aOMcZpaRSvTWZN46Xv4X9p7MxcwO9wfr_MEXYfrgztQ3WYeVIZJ6Cevhs9bAtC3nfBDaWyqudDP_iHo6Tz7PwUywEl62xCxYRT2hYEcUNziuKvm6FO-Hx7Pc",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107352822855038028423\">Marc Durand - Panosphere360</a>"
+        ],
+        "photo_reference": "ATCDNfXNVkIN61TEqOUjZ0e0sLfEU4qn7bf9z4hZaaZpE3mYvWT-mGbUXGJGlJxftTyNvUSRymYYJgLWvVLZW3sZnBxdKyex1u5ilI8dlS2Hc2V-G67ohSUprRCOW0Pk_QXdB-JTvhDjY9yx7rNS67P7x2jK8zii-qIbiX-Rv1AeG7gSiZ4rPPKaWqdy2Iy7Z5bQpr2wvR3lY0aIxR02mX96PU3knqBG-7xHI5uzeDtDLruNdxxylRUjDPYKDgv5Xz-g9E4OfKNUBxUQwHs9KBcT-SW1NNkiC-ZJBzE44hrvslnwZZAsorzFnBC0C2aoRTFEuNHDUAPQttKo7iTybXWmjivVahyJ_0juvYyHgbw8SQFUm6s397FQCokzQ8OFFdgwJMo6cqEQpPVdSQzPR5ivXcdMkDnjqx4_bg-6AEUia4_M08bS",
+        "width": 4800
+      },
+      {
+        "height": 2336,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111024157739669177855\">Foyer - Gaz</a>"
+        ],
+        "photo_reference": "ATCDNfUslwXT3xdwLVoI6JmJBYqO9C8kI_p9bf_N8CeNnc_vDt-U8Na2WwVbteuXoFeHVMDPkpviIbiaAdXlbHnmsdVCZjTsFYU8m5K3nFwUqg20fkhMHhirWwQZw5CbM8d0nqpYPUci3kIfs_69JNxDHmP5x8Jg4ZMzzjIydDlpouiVmm67cB3Vu-qFsHEmjLlbX5gcKxWhmhM5cClab443W6qpymsXz-nq7IeM23f0K_RTYliB6pHMbJl3e-y2y4L86ayN-9LqWuqZYHYsmBqWdOndsvje4Q97lvSHpiZe_m_EbOMJgKBPyUNYz-As4EXmrGEkqPDs1WXEQo0ZGq6_NlslJezP_GkxIYgLhf721v0ygsmepHxc24rRqRSv-f_gch0Oyth1__-lPgX9BROpWjCHe8TA0AFLaK9ZjsdpVRoezg",
+        "width": 3504
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107352822855038028423\">Marc Durand - Panosphere360</a>"
+        ],
+        "photo_reference": "ATCDNfXbCe7ibI18KSXbOE8a_AJC33aRpvnWKmTkjl87-hOGnrOR5_TyZA_n4JOURyv_MpMBW9s49zZYz_MhVXVVmMMOhdzkKGdLW0rPovwC7iWZv8YWBJmY3Vtvwbk7g1cEJfnTHAF4M_9lAq3GZK4-NMGwbbx9txTujArBnRRson-MNOiaJNrweYCq-7g9PtRXmS-GwVB84YEqHaBo0IeeIZqcGlw9Dc1wwvndwMd0WYJaXztYqmx8vHupkN-I8ImsEE4yQU5acuYRAA9gB_JTz4tYGLWHFqj_RCBQVWYilkcdV6wFff25ook_VOxELkw7I_gGQXfWbbYtUfCwwqoldy_iJru7BOTRjsIr-ypl1WgEWZ4mg0jmSaco_NievgiBrH_GUXLtQoPe3KjCmLnXU5jNp1lJqupiBCCZPPelhB8",
+        "width": 3200
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110293588749414174134\">Foyer Gaz</a>"
+        ],
+        "photo_reference": "ATCDNfWIRhTAnedq4mkn50zOuXZb4F9YpgxC-KynheiWobXmFJSwYZtb3pp-h3Sh1-RHYr0FiAOnyTiP3-f-CGhWUhOFsjiT55p81PHP45px4MGDyqVZkJAKWJQdq8us9jwAxWDMJy3ry0IUanL88r1r-7m44ARfXMdeznzZ8ld2t6_8geNuGGHauPdzQfJvqdyzvlwesX3WuCR376S51iw9UL8RK1-_813hnUWEclxauyXDXxFUpr2IIIekSLtPv-0rgP2cSfWkupHVE4uCWo9vt6SPIZ-mV83TbsE3_y3B3iH24w",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107352822855038028423\">Marc Durand - Panosphere360</a>"
+        ],
+        "photo_reference": "ATCDNfXunSTt7j1mW9cf2vZBn_63bdWbYVNQSyskR7iP863HlXxzSNap1T3iafOIxVLo-7_XsVpLwUv0fyJTTao-og1KX1KkyvQu2h7EknH9HX5doiSQOZFlOv0KKG_zg_uJAUV4V6Fmj1TCt97NRYOvlCa7sKo8F4A_4shxcTaBWasbM1PsI0ina9xE0W9h7MXCCAz7Qj3YY3N1XJbzUIYoA4E2UpOlv9OxN5pFbzsGNAH9JuA4e4QdQ_CV84ifLEkL7DakcXx730muFu7DI-r_QLuj0SktN0gZpGntbp3_Ki_QhWl-rB87lSfudpDTGFRD1M_P_WOAx5ICPJoI4w53LnF793ziPxli1i9WOrA691pbf9Nw6Scv5ZOyYN-zlOXONAXvoGYZEDLzkYjjUTVzyHh_CmqYurUDg9lW6IpKprbmmw",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107352822855038028423\">Marc Durand - Panosphere360</a>"
+        ],
+        "photo_reference": "ATCDNfXplPNAHzIsbovmK5F5V88UeP6G_ifEYLFU_Qo3CzIDUUU-oEE5E_ObdwoFojjm5zy1uvEyoMc3wnmIbQufvSkgxP4iFPUOALISeYOuM9AEAxo4r8jdWct9MYcDxN5RveR7YHIxj3mmZj4L_cbvxNgFYSRMeIM3lLdZrgC8f6Nr0LOoDVhCDYkwH-56x4EeCWwEuScp658dKCYM546lLiyGE4XaRwaO19S3cd9C39a4PvLlvPZQk0uze-afH_wfgNY5_hPR38isKoJpd6B3F9f2MtHwzPRRCOU7srT0XGInCho-kmiLbZeF_BIvbB7uX5IlzCEr53Nwq6mlkDjRjwUVs-n_96vWcQILjr52uyLu-iHONFMBZk5g4f_kbHXOcSSXY2WY960K_BKZJgjjsOKo0vVdobqihd_U2-q-Fp-HW6F0",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJFbelKxhIyUwReWGlhj7srzA",
+    "plus_code": {
+      "compound_code": "9XHJ+X4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHJ+X4"
+    },
+    "rating": 4,
+    "reference": "ChIJFbelKxhIyUwReWGlhj7srzA",
+    "reviews": [
+      {
+        "author_name": "William Taylor",
+        "author_url": "https://www.google.com/maps/contrib/112370617020730746433/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2i3n_0LyUY6auLzkOB1J3NgOEebDctC67F-fR9tZPAkwD1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Purchased a wood fireplace to replace my existing one.\nChristian the owner was very attentive to what l was looking for and he carefully explained the possible units that fit my needs. I settled on one and Christian offered me a rebate as new models were arriving shortly.\n\nMatthieu and his colleague removed the old unit and prefab chimney and installed a new unit and chimney. They were informative and happily answered my questions. However there was an issue with the positioning of the air intake vents (wall stud obstruction). Matthieu called the manufacturer and it was decided to make custom vents to fit in the location.\nThree weeks later Marie (owner) called to say the vents were in and what  colour did L want them painted.\nMatthieu and his colleague returned shortly afterward to finish the final installation and fan hook up.\nAll in all a pleasant experience.",
+        "time": 1763407843,
+        "translated": false
+      },
+      {
+        "author_name": "Hank Johnson (Hankster)",
+        "author_url": "https://www.google.com/maps/contrib/103574426570922879686/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXpFbhsXh67SU21hyxyzB_3hxGbjlNKR1-Y_m4pxBt0q_rscj-=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "EXCELLENT service by Bertrand . Nice to go somewhere and the person knows there stuff. He is the Pellet stove specialist. Very polite and took time to hear what I wanted and gave good detailed explanations.  It's nice to go somewhere and they don't force a product on you.",
+        "time": 1549322371,
+        "translated": false
+      },
+      {
+        "author_name": "Tyler yakimchuk",
+        "author_url": "https://www.google.com/maps/contrib/104591803290575166758/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJD6Qbu4ay5nDCN_ike1RJWBb_JyK9P3XABwoRXcgX9xyGlDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Excellent service from Marc. He took the time to make sure my gas fireplace was cleaned and in good working condition.",
+        "time": 1765477527,
+        "translated": false
+      },
+      {
+        "author_name": "Terry B",
+        "author_url": "https://www.google.com/maps/contrib/112381032740646769825/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPLlmuiFfWZzjUYU46PnYmjDHmvWZ7ZjOPQzUc9_E0qHYhGg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "EXCELLENT SERVICE ...Very professional, knowledgable and courteous.  Their after sales service is exceptional.  I've also had fireplace cleaning and repair and was extremely satisfied.   I highly recommend them.",
+        "time": 1753103607,
+        "translated": false
+      },
+      {
+        "author_name": "A G",
+        "author_url": "https://www.google.com/maps/contrib/108846749161524958302/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtg-Bc9m7NE5jYmlXVrjpGxdXDO0Ra8KFmtzgq7h-dLPmo9Vlk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Foyer Gaz were very helpful with installing my underground propane line during my landscaping and hardscaping excavation work even though I needed to get it planned and quoted during the construction holiday and installed right after. Thank you Marie and Marc.",
+        "time": 1754388803,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=3508282388036018553",
+    "user_ratings_total": 109,
+    "utc_offset": -300,
+    "vicinity": "3, 401 Bd Harwood suite 12B, Vaudreuil-Dorion",
+    "website": "https://foyergaz.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

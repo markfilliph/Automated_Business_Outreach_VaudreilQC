@@ -1,0 +1,393 @@
+{
+  "query": "CarrXpert Saint-Lazare, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339006.6360888,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "261",
+        "short_name": "261",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 1Z7",
+        "short_name": "J7T 1Z7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">261 Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 1Z7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "261 Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7T 1Z7, Canada",
+    "formatted_phone_number": "(450) 455-5757",
+    "geometry": {
+      "location": {
+        "lat": 45.38749,
+        "lng": -74.082739
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3886235302915,
+          "lng": -74.0811918197085
+        },
+        "southwest": {
+          "lat": 45.3859255697085,
+          "lng": -74.0838897802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-5757",
+    "name": "CarrXpert Saint-Lazare",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118027506480318906850\">CarrXpert Saint-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfWfNwgr5NpaMuUeP9KYFe2JrOq6f6BKmhVvdqxu4yUKkPY8CYS-EJxbOs93qHIS-ovm5tt9oari8cd-BWXZK5uOLBOsUo_ILCKgjzHm0d2oY4sWfwWhx6J4aLdIfifbJT63yGNe94RiMwgetHWC_zLfTxqUVuK3V_siCJPBA9gOLeZC3YO4G9Iyp2XCdp7gBQFhK19hJ-ODU5MWIzbX2Mi9CCsTdJdVedMdYrumNs3WGoS6t1WxtZFwHyomdZeVolak5fo7sWmo4GbVVnFK1nvCt3qx2BF2kIqa0CSQASJwiw",
+        "width": 2048
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118027506480318906850\">CarrXpert Saint-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfXIr90Pfthu-zsnPZiU52UNNsgYYbU9xe5ho0e4tOhXvrxfwoqJAdfE6Rz7fDpwD_F4PjWJ93ucBSE898D0tzFO6LVZ116Zy4rrGpMjGCKL1wY1Y2HI1QdHjaPTZbPd8eOXJOe2UqtaI9RIsUOzPkI9DggwSi0SaUswP9Cy7pGgdut3qtf-7zEz-FexCkqdR_EZXbQ0-JDE5mdVYCHKWonnyN5PvtfeRY8d3QprVpWxRCH2DPTfrQSq5rq2oedv38mA3xJEfQVcgg8-IOLBqQRCxCzorPNJHpcRbZtP81n1Zg",
+        "width": 4032
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118027506480318906850\">CarrXpert Saint-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfVpSBVCnHMItR5TjD74Aoq4r1voR2GJZQGd9IJOwVqtncIyGXL9cEFve6-KiABsklo-hmki2ynXKz1VTa49G8D-2kvtdDL8bprJRVraMrzudvJyWYRbSLvaVM2meFV0o_BMJnzyYYZuuZrpWbIio7KOrvzHivRXDdF4z-XmaMUo_kUXJO-PCGjq-zwq-F1CfVU_oVP7IrLkbMn88LNSIP-vVtXUTHm5NYI7f56NdC60XjBMZji6wHQgMV36ZMVrzWCMs5Okpivz3evBbI90M6ip-D8rEzqplgB7Ebi-X9HACw",
+        "width": 2048
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115302632171890805821\">alex provencher</a>"
+        ],
+        "photo_reference": "ATCDNfW0gO1ufNdUXGELKpIqY2GcLBwuQZI8LJXThiQQUaTnEatI2f253qrLBy5A7I_qulLc21FMxky_AG5T1EjJTNrRqVNz9IjSYfoaGck1b0_PDYmWHRFBwv6Wgc2DNqkL-gLrEZWFpno9z1qi9mvRCe7iyqZFUFhWqfRyvPC9Xxd1rKXxyrSXnvLXDEc7gDXHwS5PiSW8P6s0MZ7rYm0GZ7eD2-X2z8eORF998uBeE_cmKOv0NYGZ_FatCHa88OKtprXQIZ7S_f4Qp4qgkdTkusXWk4Qnxei1_GbHtSGe0wX3GoPuKd6I6N4NSwH13tyqRJEuMszKe47DmNRQYWJM-BXn-UOcBmFqKFxjRFFaB_0jGOifC2jevX35UhZsg5mCSnv1-0uJdnIT3lHkj2enzGpZ1DlzYiyy8KGiU_QGFwrSHoxiFe1z1XBaVeSwIsdE",
+        "width": 2216
+      },
+      {
+        "height": 3432,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118027506480318906850\">CarrXpert Saint-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfVZvHNi63LxvKaBAkqg_zaSJT_W6wCAKatEUGWUo4WzqAeep68KcDUwzLKXBaMVGeLdWQ1juyV_HFfvLhxqGEsjXjE1r-sAtZgpEcXla0kbJCsTTjLseiPeVBkjjQcbeSrrtyqg4wSYyZ0dUNlUgugt6LWb-XxLihJE5fjswRDFYWn7carW-QFT6OIqHoEGYie-pwYUIG78gDaD2LQL-tb6YvYmh6oD_oGGXc5mpGZc-VzxAkvtZhz7je1YEeEIRfx_8YD3_McVhyxqBf1BbhNKuzFm533U-B937g17s51Hbw",
+        "width": 4576
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106328376094058147696\">Luc Duguay</a>"
+        ],
+        "photo_reference": "ATCDNfWbRG0Zm86XzL_2nIln8YIIe2WI-xQGGQNBVY6kniOUX6AX1b6mLxUS9Pac8qYjDmKiXEVZfg0IdwaGf4VWb2HpQ6lmkZ34Y8ukPLj_UsviF23vyruzNqZ-DwYygGOOHq6tbVn-yEbkwm-ULbOhA9uyKa0WAcXuUtakLI92VrWXRd43Nt-M3EhgXrlprKLCCvdQ8oatp7x3InaDJm1g04FOy2yZ7pZ24-rDrgoDr_7vxPOfCqGAjEhke5O-N4kZ2jyENLIinQpi2QkcnqNQROkqkxtBApt_MN6r96xw1Q2uguQDo7glvGQn_1vMnMlFNyswKmt5TzCu2HCHlyv1BlpFYRHT-zqm5WZc3iTlSdPMZhI1i6Medwxex-d6rSOa1xcKaF_-geuSevikE0pKh_vEkAVa8JyfhHHNKo_akysJhJA",
+        "width": 4032
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118027506480318906850\">CarrXpert Saint-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfWy47TpFF9LGFc7htdledmYRPa5Yov5X98R5J_vN4SD48Lu0ODZK_5ovDFeLT69Rv2fvDmDPfohwHcsTLumdCiKej5WNLc97_HcKo_KH7Yx5qW3IuGQgLw_vDRYkuxd9o98jrYkcUIICtSAb6WBd-FUPNn127qGTs_wbAbJtiag3apAdOWxngNT4BrMvjsykVDPzJbiQooBZwolVlSziX-AAurJADHoE2RuX1gD5iJ6GWMakW9a6-BOOI6DfBV57evYcYDg4Wkm9ycugxuTf6pe_8MOoA2QM_jqDOZoR1OlpQ",
+        "width": 2048
+      },
+      {
+        "height": 2068,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106328376094058147696\">Luc Duguay</a>"
+        ],
+        "photo_reference": "ATCDNfWj2qSXY7FQtuttLcO8aGTz9kk6MFoohgtJxlTd7vmNwEAIgaSrr4Is4ybLf1CTqoH0-61IMgbG7umKm3nrxFAe_Ebg_KUz7kkNugKsizAwxKcRcO9kZfD3yakUejh0XLvkzIb5eOA_BFEiwcp57rN554gdFLm5vL1tfDPK9w6TLooEVicSrACo5WvJWhkdgZz2tVFhsyDCf5vkavk8m24ePh1q96cA8YwOFhY3kWjeWkFEWXt1-Dd1rCFq2VPQTSi8b88oX7UdiaI-9di_tLqyrl1sd6_Nxv3NndWv3kw3dglov9GbENlQk4o0qGHLB3W-BNHfpIhOzvD2-ZoLxoYhKrgUOCRW1cFFi4ekWETzmXLL2VXnboVOzyHpDkFXKoIeoUxh7bprfTsTLuI9x_FN8zwcAusZLxL9o5sNoIxf1Q",
+        "width": 4032
+      },
+      {
+        "height": 3432,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118027506480318906850\">CarrXpert Saint-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfVt_lOta7VNEgcycd4-5XsSkyKWYWT4RvrzIs3pW62f2NY0E24cccimvl1PEAi2w2yooVTPEfmzixote2Z2nX_6Dyzf-vmf8h2IlKJX5GPZ8Em77XzxQ43HUTym_TzINsNnHhdObzfLmop4Sc_p7i4EOprWq9C5BlsubQWcGXT2cy4Jtgsnv6XiTtl7AoBD1X9_Eltu2sXtfEwA84MlZP6_pcHzG6NOIfmFopKkPJAL6z2rz9STy0VwPN95a7ScR7Bh4_qJ5mv-hcaU3KcT_7NXQo42lObBvCfXt6pIVkp7QQ",
+        "width": 4576
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102124742291992788479\">Justin Meloche</a>"
+        ],
+        "photo_reference": "ATCDNfWbegP7nca74GG2LgIyb-2h3hOXCMUMX4x5M4hV8dNUFPt7zEnzMK3jDkz67lagjBxuqvCoGAAXaNRR7H4GKCjVykZNdg5jAMuIXHFTVpRoePeA4FTGg27brTN4D8_Gyee3VxvCEYiusBuPr2BsmAfXI6azWIs0vPhJTJk4XQ-5OoZPn7RNYSk9K_MGbQ-8mLzF063nrXVKldPSSOzk9neVqiXNXsAaIZX892qX03-nrM7xv1WkmcKaUfBF3TAH_iHoMI5MZ8KTfOZVtz9hx7KgMoEiYqwqbyhMvXgZspZmu7Nz57uMoRm4_TlUdRKBRL8fy4e-KIHUtn0F4jVbmxufLYmpr92gwQ-hC_l9a2z841IfmvovjAIk_XNCNMPR2jK5hJYmY2FIEL784nvoC6v86DUVhpP0wTeAutR0zJX-zsFy",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJub-ghe9JyUwRWnWty9dtJEU",
+    "plus_code": {
+      "compound_code": "9WP8+XW Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WP8+XW"
+    },
+    "rating": 4.9,
+    "reference": "ChIJub-ghe9JyUwRWnWty9dtJEU",
+    "reviews": [
+      {
+        "author_name": "Brandy Read",
+        "author_url": "https://www.google.com/maps/contrib/105455836842760239021/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqVca66eNh4eBdbM9MhNgVtLS6mRUpGPrw7ij9LYo1OwoxRw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Superb service. Audrey is phenomenal, so professional and polite. Would absolutely recommend this place. Also known as Carroserie Michel Rouleau.",
+        "time": 1736284726,
+        "translated": false
+      },
+      {
+        "author_name": "Vincent Coia",
+        "author_url": "https://www.google.com/maps/contrib/101674603612168486398/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUW3liVlh_fC5iKwILgYQcZ4HBqzAKFSh0q5JG9tOAlqHbE7fE2=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "If you want your car fixed and painted properly go see them.\nMerci encore pour mes 2 Accord",
+        "time": 1721465200,
+        "translated": false
+      },
+      {
+        "author_name": "Y. Pat",
+        "author_url": "https://www.google.com/maps/contrib/102395203447735658305/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3P5-AwctMHtaePsFsXo20f5SLliDYfLchvCk3ssuxAJNA3w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very professional and courteous",
+        "time": 1734015925,
+        "translated": false
+      },
+      {
+        "author_name": "alex provencher",
+        "author_url": "https://www.google.com/maps/contrib/115302632171890805821/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJVyk8aPr-yUxsGkuvraWQNYWTPw2jZU90PNloNqhG561-vvn9=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Here are some photos of the vehicle repaired by CarrXpert. Several adjustments were made and the door looks brand new. CarrXpert was very efficient! :D",
+        "time": 1761745307,
+        "translated": true
+      },
+      {
+        "author_name": "Brendan Mergl",
+        "author_url": "https://www.google.com/maps/contrib/102695692387795777013/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUhQCHLgnsT688WzbxDkKWqRERUuUoDjAIcrCOREjexqcqHfxDcw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Impeccable service! My car was repaired quickly and with great care. The team clearly explained the problem and the work done. Thank you again 🙌🏼",
+        "time": 1764948426,
+        "translated": true
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=4982227861381150042",
+    "user_ratings_total": 53,
+    "utc_offset": -300,
+    "vicinity": "261 Rte de la Cité-des-Jeunes, Saint-Lazare",
+    "website": "https://www.carrxpert.com/fr/atelier/carrxpert-saint-lazare-carrosserie-michel-rouleau"
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "query": "Cils A Vie, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338364.5343242,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "842",
+        "short_name": "842",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue des Coccinelles",
+        "short_name": "Rue des Coccinelles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 0P8",
+        "short_name": "J7T 0P8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">842 Rue des Coccinelles</span>, <span class=\"locality\">Vaudreuil-Soulanges</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 0P8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "842 Rue des Coccinelles, Vaudreuil-Soulanges, QC J7T 0P8, Canada",
+    "formatted_phone_number": "(514) 817-2107",
+    "geometry": {
+      "location": {
+        "lat": 45.3794919,
+        "lng": -74.1097316
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3807759802915,
+          "lng": -74.1083164697085
+        },
+        "southwest": {
+          "lat": 45.3780780197085,
+          "lng": -74.11101443029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-817-2107",
+    "name": "Cils A Vie",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115493670478466205109\">Cils A Vie</a>"
+        ],
+        "photo_reference": "ATCDNfWzX-rQwbth1h9N_5G68xlR1knS6SG7ixIt_JDRdB2tg4NGQ6vz96CVUfOcmjjJa7SR85X1za2f8uac1DZjyU5Hx1WbYsTCW6zxd0-7Xg-nCTcoAQ9bvbiHdhRhCKuYBtIY_1WGOsEorGjzWw95H5nE0SjG9KTG8sRH5z18lNqLBfOrPikvJ67hM9_eK30zbCM2NzrP32ardAH09GXqMfY4nlhNLurGzrfIPwaWmUleJUOuJ3JGwDUDwTWxvkgO_TdP9VAvkGnX7PYEHQ7cvxpwdDawU-K-4g-mIRexqOuWzA",
+        "width": 4000
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116601422209227734404\">Jessica Hémond</a>"
+        ],
+        "photo_reference": "ATCDNfV2mpI7l4oZiS1X2-WubKJxJ3B3trTiCh7M-F9_jWs2K6_EWPm0FIY-PhmnDFFT6FwbL1VuZnWZneq2U7a-W9DaLjgMQcMpXKQvOnVvcD0zJ1EssI8TbsUmbvydT_L089JxfU8IcU8YU7hfUMX65wqRq9YG6RwcUqoqIQCAPbj8NKGI5z5-YixNAGYBEMQ76khofFdRWTwA9xcSnK_LmLNyHH-k1YpJlSUW3bGT10ppAqvvYjsMUMFv15mLhPN0TUaqTRcGxrJMYWKSzFbcbsdhqxvVcDAepKK9k9zbFZCsuVGYFkiDtxFJvlce1LLxoPYRW3OC8FG7vM0JvID7IxGVsaWYDCT-OymGa6aBNxD6H_m0Ihtp6K6Q7S8yBEx2jEcGxWOX_FuI1JDZERwygW898udg5yfOgeIQWZDVqh-pHQ",
+        "width": 1440
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115493670478466205109\">Cils A Vie</a>"
+        ],
+        "photo_reference": "ATCDNfX01YcGfqfOvfRADdkT3Y9vJDOMBDR6SAx52uXFSiIc7sMREfIEnnJ7nqnnDL75b--6LnFSnOZUNg-dn_ZDYBloWXOtcdfLDnFoXy1r4UNiG7rJtzo5C9b2THiSpqzHr234w5mmwtWroYKdVbbvz8KjwAY15eyAIUNr7oshB_RhWNdlQF18W3uElHE9ZyiNZf24Y4_95kfF0v7QcXDOsARDCvqHYmYipVHGAmViTGZNGB12lxZ32XL077DG9bqlcSYwGwIDgnAA0LNhhHsZ8XwfUj_t9vKXh1CDR5cirVFaaw",
+        "width": 3024
+      },
+      {
+        "height": 1912,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115493670478466205109\">Cils A Vie</a>"
+        ],
+        "photo_reference": "ATCDNfXdLbcxWjH75c__X48Q7k-NH6UbumqwDSUfRFVzXRdp6nEzA0qELiPqHNe--Kg5gRCBCrvgsvPKq9ZiCCkiZxU0WkKNq7xv0lPoCO42PBng052o_zAbsxi-IcmguZ8BQkcG7cPO5_ngGFVeaisTOKDi5TH98Bd7cTm_sNc2dDIrxgr6eg-xp6dDKH7SgP-kjr8fiSRahtTEvDPIh8B50W9nEnXH_FarhzXX1tT8u75I9us4VqKY2zfj6azRePejQm7N2MhfUG_aCtzjYrG-FhqetG6qasF_6_nMabF6Fj232A",
+        "width": 1912
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115493670478466205109\">Cils A Vie</a>"
+        ],
+        "photo_reference": "ATCDNfUyGl7yQtSy-jooIKGCaKTMhWoZ-dJeRkgNmw6hn3uXtnFGaWIA9eZxpPJ4h3cniQ77DGAPBbTtULP7rNeFp0YFwk18lcTNNOqe8kAnz7kxhh_AHLDalmhhnb8riE-P7ZN9VKRGGsetj_rYNdMWxpCQjuSRXPbAV5KYgwixTVDIP-9FJJ1X4btfVE94mNb1ti4E6Pw_Ry4lXFYdeVyhHzPVX-8zz2Nn9PiNQZTZackiw8ogniugxHLStYHSYEu0SwIMNkmlhmfC7Vg-oPSyIguiXm48Vj5tC5WNoyjpXXTy8w",
+        "width": 3024
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115493670478466205109\">Cils A Vie</a>"
+        ],
+        "photo_reference": "ATCDNfVR8IPwXi2h75ihrf0g6kSnPXzWEKDg2E-yXmLrORlQRO94jsLY4qntpwksvq0zbNWOtNcrQCusAEY_G-HoKS--GrhVoHWHMmDnsRWTPtVCiFKrXOktAjS9DnBLJEZyAm25nW5_kkhqGgMv4YscVBDsjAEp903TuNQICTWYPPwp86iURIn4GwEMoi-FHwfHSuyHDirYr1BHa3xwDIKal5nP_HOaad0GJAC5nkFOWZ6oe-CaVEz26mYmI1AtKqub_wDIpwVvYU5uwx_CuUH5lHqX3AOfGBOJZeMHtnHXsVq4aw",
+        "width": 1440
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115493670478466205109\">Cils A Vie</a>"
+        ],
+        "photo_reference": "ATCDNfW9vrVu9G5BeY0YyGnsiNoTLfCJpQEUF3xO-OGj-zN9LjCHW2C9-ekz1CoU66r3FxK-kHGYwhz2w-G3s8mffDUPoZwKeowpgSULMa5-kpmS7hrmzPwq5pIsiI23rFZzwfuolOewEhu71xbAHuSDqLqAziipqc4CV3KzWQYW4NhNlDLGLnKHCVlt9PS8BoQKVeQcDxTRbiHb84d8bo7-BblheNPP1FXSTfbhqWZnMnl84aRo5PPyxQQI7UdQUx2u-HqRzD3KxZT3BysoPALwB4IMDijhNvI6xM9ApyVCfttPVQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115493670478466205109\">Cils A Vie</a>"
+        ],
+        "photo_reference": "ATCDNfWWcgW8QrQt-fojd2m2M-meRiniduZkhfAAVxPx8z2Mbxr60EXtRqycaPFpx3ByCzArZmVkoWeze0vjoPHb55OnvCczIePR8YqGQTV7MW1Q83TMPGWqoN8NDu-cwmngiPvo1MZ11c9qHDk12x_Pzv8uFk3iGhOI-CxEwhC17Sh4dTYrTgEB42iSP1xqJDWRNJIYjvj7H7fvjkrqQhwlyv3bTJSUl2x9KZaZnVejYBq8fMPVDvXX__YpoCyQwxUm59Pj9R0T-NWUPJ8grcgWPZ4Jv9ZDkNjizmQ7GZnHnEGnrQ",
+        "width": 3024
+      },
+      {
+        "height": 3496,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115493670478466205109\">Cils A Vie</a>"
+        ],
+        "photo_reference": "ATCDNfXIaeiArMM8IK05iSA59K_FTJ7IEvBjSAxG6lT4fK6KVonyUKbZTUTpa_ArQzLtjdPWMCPNexUr5mO0XNrTmPGKRYukWiVf3QhSF5bF9k5uSks7duChg_fOdbFGCRAW9RJSF2jSisOLLvrjDrQJTdozNygpkp1d249v8dgrQdHPIQo53c_1nD8RDaxbs9q_-gkz6jua1mZuIdqOqSf8aQOmFxBcQ-RB9t9KVQ0O2nXFG5GN8JRLo18kEFtBvVBPWIc5vgYJzYG5cf73D4F-I9XJnwykjvQ10G0DGSKx_i8G1Q",
+        "width": 3496
+      },
+      {
+        "height": 1926,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115493670478466205109\">Cils A Vie</a>"
+        ],
+        "photo_reference": "ATCDNfVXUv_5pGEDR7je58M_rSypdWkx5u5DQVpviOQidgma4fcxe8ckhwBq7fEOXeiaS0gnXoecWyzQAI3A8bakjCWbJ55YU51B7Y8bA0GwJxjUusN1R7tmC6hjZqlVbTLjGweIhNlwBsQTk0NamUyZoTdBkkNarzejYsV3BikekwjsShC30MnH25EAqxJqHHlw_hPqEg2DnqX9Uog-5tjze3GA4HKn5WbXfEre2JV7Jgepu1uFS5x6a23PS51VmNwCX_SenmHM1cUeTt9qtCYwe_wdvm9dv5xnCTjDz9G4z6NaJg",
+        "width": 1926
+      }
+    ],
+    "place_id": "ChIJ__8Dog1KyUwR2a2KbSBP7dk",
+    "plus_code": {
+      "compound_code": "9VHR+Q4 Vaudreuil-Soulanges Regional County Municipality, QC, Canada",
+      "global_code": "87Q79VHR+Q4"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ__8Dog1KyUwR2a2KbSBP7dk",
+    "reviews": [
+      {
+        "author_name": "Pamela M",
+        "author_url": "https://www.google.com/maps/contrib/108101849077262457317/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnOEEOQwUU6YhcNoXFzTj_Hh2Fmpu7bfyaEMpaz1m7vToklrPc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "The best place to get your lashes done! She is super attentive and professional. I've had bad experiences in the past with other technicians but now I have finally found the perfect lash artist ❤️ don't hesitate to take an appointment with her, you will not regret it!",
+        "time": 1629482943,
+        "translated": false
+      },
+      {
+        "author_name": "Laya Heir",
+        "author_url": "https://www.google.com/maps/contrib/116006711694763955356/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-eP1t4rE8dSJ1Dts2B0JQPCKQ-oQxCpBnk9Rqa8Kg1nhTcA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "DO NOT GET YOUR LASHES DONE HERE!\nI am writing this review based on a truly horrible experience my friend had at this business. She paid 100 dollars to get her lashes done at what she thought would provide her good quality service. To be returned with a chemical burn to her eye, and for her lash extensions and her own personal lashes to be falling out. When she tried to reach out to the owner, she returned rude replies and simply didn't care about the well being of her client. With this unprofessional act she portrayed,  she is clearly not someone to put your trust and money into for quality service.",
+        "time": 1627273527,
+        "translated": false
+      },
+      {
+        "author_name": "Kimberly S",
+        "author_url": "https://www.google.com/maps/contrib/110759744496690491741/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh41Nqc6dCnts1bDNJ1IZnHuBqtpGZHmxWD9ar2g5jSDCmJw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "i got eyelash extensions here and i would give 0 stars if i could. paid $100 just to end up getting a chemical burn in my eyeball, needing to see a doctor, and getting antibiotics all because the owner of this establishment put the cotton pad in the incorrect area therefore lash extension glue, and whatever else was used during the service got into my eye. very dangerous what she did to me. when i told the owner what happened, she was very rude, didn’t care at all, extremely unprofessional wow.  it’s been a few days since i got them done and the extensions have practically all fallen out along with my actual lashes. i’ve had a horrible experience here. i do NOT recommend at all!!!",
+        "time": 1627270295,
+        "translated": false
+      },
+      {
+        "author_name": "Daniella Raymond",
+        "author_url": "https://www.google.com/maps/contrib/115339635067882197647/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhCWt4pnz1MmMlXojJhIKIwnGwDLyzO0uZDDZv4jcAtt_Vxg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "I’m writing on behalf of a friend of mine… She paid a decent amount of money to get lash extensions only for them to cause her a chemical burn in her eye. She waited a few days before finally going to the clinic in which they told her she needed antibiotics to get rid of the burn. She then tried contacting the company only to receive short and rude replies.\nDo NOT waste your money here!!!",
+        "time": 1627175463,
+        "translated": false
+      },
+      {
+        "author_name": "Emma Ray",
+        "author_url": "https://www.google.com/maps/contrib/115555088256840329435/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcEfYZ4E_nTapIimIF0c5KIBYgYto-REzbSJbVm-HgqYuYKEjA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Always have the best service when I go to Cils a Vie, I’m always complemented on my eyelashes and they last a fairly long time. Prices are fair and Andrée-Ann is always there to answer my questions if ever I have any!",
+        "time": 1627561108,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15703294476406140377",
+    "user_ratings_total": 35,
+    "utc_offset": -300,
+    "vicinity": "842 Rue des Coccinelles, Vaudreuil-Soulanges",
+    "website": "http://www.cilsavie.com/"
+  }
+}

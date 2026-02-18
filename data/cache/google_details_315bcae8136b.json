@@ -1,0 +1,553 @@
+{
+  "query": "SEPHORA, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339869.4543688,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Unit 154",
+        "short_name": "Unit 154",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3120",
+        "short_name": "3120",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0J5",
+        "short_name": "J7V 0J5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3120 Bd de la Gare Unit 154</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0J5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Retail chain with a selection of upmarket makeup, perfumes, beauty & skincare products."
+    },
+    "formatted_address": "3120 Bd de la Gare Unit 154, Vaudreuil-Dorion, QC J7V 0J5, Canada",
+    "formatted_phone_number": "(579) 800-0360",
+    "geometry": {
+      "location": {
+        "lat": 45.40224329999999,
+        "lng": -74.05129079999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4036405302915,
+          "lng": -74.0496725197085
+        },
+        "southwest": {
+          "lat": 45.4009425697085,
+          "lng": -74.0523704802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 579-800-0360",
+    "name": "SEPHORA",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 277,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112355407090616621254\">SEPHORA</a>"
+        ],
+        "photo_reference": "ATCDNfXTs23NjALCsNY-k4pwan9YguWJV7S96_PEN720ArK9yJ2DPrZvaDh6wnSSCO6TdDQBBD5JCPvKS0nk_hJ9A_ciIy_NlWXCxbA12tFj03yETt5nzCpYgU6ISXegvMy_osGA2u0eWGwJwDrvdr_stj7PWCQzOdmu2EEPRu1WXpio0kD7IE8j6d_q1d8VljF4d3b85vJx12ICJa9VpgyAv4iQ0TP0gd3l3ZwxWuv-YQj4vQEVejX4mvy6Aqww7VQ5yc937_MxitBW4FIBGwn_YegOgkTinwoWixtXnXqjZlqiyA",
+        "width": 500
+      },
+      {
+        "height": 450,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112355407090616621254\">SEPHORA</a>"
+        ],
+        "photo_reference": "ATCDNfUoxnzp-wReDGqrrwwka40e34wbjl-szxvo1NXTVF-EAQ4oFF2bR6KHgLJ4vhaX3rVIrEzIBKd5PPlWE26jP6IXmxpwxOatAz-Mj0cQMmJG7viSCUocmsOkNBbvIdET7QH1dnjXPHEA0RASOqDvjmIhHF4J6vquVqRiUrAmCD81HRybgXnyy4GYKvGk9wAq0LtH3NzmxwmUHwJyInP5haMX79k_xZZvM8H9XUiVQ1gQHlWeiXFeCq_NxTYDI_wojgzan1su5O7eha7rSIeOow8zPJAbCaSbZ-WV52oXqLsU6A",
+        "width": 800
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfUXHTo2xf0mBoiYwORzhDkS1bySMEs4L-A6KEupeXcGQP-Sd8nuBPaPVxhe_hZQJpBafJ8yOiLKWNo272y5u2O-sPWuCvcRnJydg7xJxriTKKMEEXH6Cu533Oo3MS_CRZd44lW2kk8yTwnr0mzKz0mhtl-ZsA70I1EZevZPN4uh5QCGVAbqqGsnWK_bD6nUQBwoU6grANVMMl49WhrkMyT2vq5Ov6ADSkwMoTG-64_X447PlmakEXT--Z8Zrotd0rdanggNLHLEfTvfv2jcXam5oyXQ9tcTEBD30b-F55ZFr8JNYg0T9TW_qZeFtv3lHElhGSbchdVXbznVq-8tHCYkZ9dI4sXQbXQxBz_VXQKHe-GXcr5TTmyTOqxu1t9N5MZbJbxSO8rjt6UoMbOrdg1sQPBmX6ArLGua198tjwDEN1Ym",
+        "width": 1920
+      },
+      {
+        "height": 2554,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112355407090616621254\">SEPHORA</a>"
+        ],
+        "photo_reference": "ATCDNfVCTndEgNEZe7LoTy4UxdXABMYo8VIkIvD8qkg-Sb-Go5ms5NBvj7fjN1ycvjkEhAiXD3rjBWbN76Qy-wLJmX1vS2BQrL5I3X_Xdvl-eLYnT0ZK9_II1dYoOvb82Sdo9RcDeiEAkGTXvAVJkSIqPweoixHydtfcEn5Hj-uHeAmZq8vVuXjQDfpjksrSdFVjTVVqQIOnypoeAdyKJRFavBNe6ByIB2jeDxqj5NFMU5KFvr3D74_UorxOggVrfhswruUa4TCLpcnBKwzCKqbJfdSbfhcj20NoOM2KUi7bZtgT8A",
+        "width": 2554
+      },
+      {
+        "height": 4192,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105585517353433059593\">Keep Life Simple Allan</a>"
+        ],
+        "photo_reference": "ATCDNfXrAiwISB-gSyqIvgnm5vTkbIPb7uyEbdPfK-McIZm5k6as0hJu3m2kQLE1g4r9bUrLLeuvb-MEH56ROZ3S-CvNQlxEhGBLai2ke9OIgNZNIPTHKVYn9k9uEA79ZjVIW26R_6DWU514V7bQhhn3CgnF2-Ww4saLORuC9djfiH7k9wLO-s_3cOJIZQCjk7d-SDkDnC7VA3hPODxEIndiKA9QWJor06IVVk5JST25muSNLHXPDHVFsqbwSDOjhYPoS2oM3dNRJ8oUGs4RjsTtynHbo_-liSXxYhZmLev-RSjsaR_Vu0E_gN6eZP_4IgAnoLYvCCIuIy7c6ihseZ2-OOhrn35TLx3Ex6kV6VLu7qf58sXz2Wbz06YDi7OvgPhVlH-B1JPGL2BXnXyG_hSpMfdxwZ7mdD5jaxm5vAJwqpNEqQ",
+        "width": 3144
+      },
+      {
+        "height": 3211,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109986233070161777632\">Devi M</a>"
+        ],
+        "photo_reference": "ATCDNfXsezmZapTUTJ4JcmRK3H7GqnVy7IOTDO5k4M9iv3As3T3frDzzIlJRQTN-U3U-ONPG66Y0Xd5x7VjtX1676_gBPRmJrPerjccI6tjmVjUz_HLfDyV9J4FBXMLTJH9BPO1q9f3Y1ofwW0OuJZWYOnW4sQyF55ckxU3oHhwqTDCSWsQGVsLVSjJqk-zmauuCwBUHh3VrMncSu03-GxqVvqwtmqIkKHAAcr9GtpdIxhP-Xw1HRihypHSjJcunYaMooAIYfMD2kVROoslGwSn2Q-Pw5awKHJY9FSohvBIgeZ1o-irE_lXIgSS56Nvl9hKX2yAn0884L6jtlg2EyqE1L8Y5yQ2R2f9QYesj8xqoYEMzwjJH8iOm88YDenkc1Cy8_J6xHgZB_8sODib3_p-JNirHin-L4uvZ--excTvV8_NEJ-Kl",
+        "width": 2409
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUcBUeSPLYGeFclvhiW6ttggmWRlk1oI-fKxrYatNifFJSsbPooCxRv5nvTtiE4_vX6wgCnQHCASPDd6J7Ke4JZeJlFkcHc1kRx9kS94IDD1Cc7xCrVkOucR_dYCMHVEitNORrVeOd-7cCckQBmjEsRmUyD6VO54VHr-b46OMBbGsJhItUMTBR7NVeLsAXe8UhCP8mUKJTKflZgrUQ-0-RHOfJUUBE5cqVors9auhdLATdS9hKdUTEk5OaoEKUVdrO4DHs9sTfaQ4CCafc2N1ICbRpDRPHC85eBTZPLBlOhqSO3jNaUnj224Kia3FdVLTHscQT5J2VcTvEUAPOFV1M37M6FbY6zXXX_V-ho3lmfymKWpyJO546z99wjipjKh63QCYHUbzOpZEnOte2M3qkTKfg1Hr_9NnUiwhieNfwwvkg7",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfXEliEMn5vstDC1J90PqUmqEJOzDMepJCHIYLySjSs6cLGeZdeehMLcal6tLoiqW0x0pGc_ggYGTddLTR66hZezv55MfWcyspLSZusy9IFteW_U0BTlz2Vu0tF3MFUjiAGEi6zn4bCiDmCbgMwJScQP50rHYtDLGdztRrWmoMn9dfemZhg5-SzUjzaMABsAipiYSMr7qPIbXTNogaf1IB9J5cObn9jZX8coB-K2Z5Q36U7B8eIf1waHbDYa7NUymuqehT_PYeRocdQQpYGbLrxxzKCnFdDmvLUSQZqzPamcrsAJIIUYBVPKUcIa1-uMsLauUzhsAZ4VEM5PxrG8HLpfqxjr8vXl-I72PMAoRnKOyDcFxDEqDj27l73Ce34eIxrd3qachKfveCNqrMLouuCRvdF7vkqN5Un-sBuQm6Kcvnup6DJHuSh8RrKb7A",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108081218341448071035\">Eng</a>"
+        ],
+        "photo_reference": "ATCDNfWoJuXIg6fWX4MmVnJcgKO5x9gPLNhdgdEZdh4VCTZY5dhltp3HSFWM7mRZCVTL8cfJu2JP3rRE-g2-KcAmUHdbtDTGDJEgNMLvKdTS4vavx74DKZoNa0_9E9RUGkwU-sNFsz2J6Rjcfxw8CFakZ1puFW7LD11bV5vMEfdeGZz2IuwYZQpU2KbP87_4sNjKsxDn5xvY96b-4DtzUDwNHsuLxjGKYf0nUb8WTkn7RssY6gsBMTzhxNY_XP_AoYiA97AWlCfM5vHi9TCAuuYna3xelBRG8hW2kVl_m--bnMoB1rWvmYfDAyR5wIEWjlKEh4EkldegmyVP3pJaeRkCv7p1cxGMWl2tjuRM3vA5_0_9eWPrzRYhKn-EtU3FCTBpsQ5yFyVpaqNOmUY0UiBmGwT4LRkM8QymW6lKSLSPsHwN2w",
+        "width": 2268
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104049684288933503058\">André Chalifour (Zombie Graphique Inc)</a>"
+        ],
+        "photo_reference": "ATCDNfVZvNz3ZtgnjQxX_YH39smzWrDZAWhYqRXD6g_gyLpcB9s_iVzlQBRTPewJcmIuiq_fJxoJXD0G-QdP3ALhZXhf9X8mHIGsHpWrwSVC4_9q2I0iCLZUKrAS8MjEsva4YpE8E3aJDT3e5Uh8AjyClCVBhGGnsSnfH-UY1Hbo09Aa4hf4ukJIPc33PLJS2KbVdCP5DAiITtQa48o3xLhh3VtEFxY276GpTPjoHwKznWdEOzLAIScQnoRqNDQK6oh7uUcDZHvyHuo-YrUGZU6Cza8vMQ8NYTWnoeSDWgqUxoClcsLsoQj-FMVBns8G4WeZI5X9XKC4J13QH88KggGW55ubZVEHIXV3Vthfk8kUozCkmPxWLG972TkfAdshkECEAvfCaNNQiJ6rL0twF65KY2JL6wrbjw2RgK3qgZIgQg61C3_M",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJkVpjlmw3yUwRWqAAF2g_FuQ",
+    "plus_code": {
+      "compound_code": "CW2X+VF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW2X+VF"
+    },
+    "rating": 4.2,
+    "reference": "ChIJkVpjlmw3yUwRWqAAF2g_FuQ",
+    "reviews": [
+      {
+        "author_name": "Francine Bourdeu",
+        "author_url": "https://www.google.com/maps/contrib/113096438914946774838/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXl8ck_DzTa1sn2Bs4rx2H-uD1Kk3Z2L-29rp0gaq9cvbWHhss=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I shopped at sephora for the first time and I must say the service was amazing! I was fortunate to be assisted by Katia and I would like to say her patience, expertise and kindness towards me was so amazing. She answered all of my questions and took the time to explain all of my needs, it is rare for me to encounter such amazing service, you could really tell she knew what she was talking about!\nShe explained to me the makeup workshop as I was having a hard time remembering all the steps, so I booked a workshop with her and it was incredible! She really took the time to ensure I had all the information I needed to meet my expectations, while also providing even more tips and ideas to go beyond what I had imagined. I highly recommend her to anyone looking for a professional, patient, and passionate makeup artist.\ni am now able to do my makeup everyday with the right products and techniques, I couldn’t be more grateful!\nI will definitely be back! Thank you Katia for your amazing service ❤️",
+        "time": 1763787179,
+        "translated": false
+      },
+      {
+        "author_name": "Zaira Macarine",
+        "author_url": "https://www.google.com/maps/contrib/114974892805714509428/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXr7AU0RGxFYjx1toWhSH_Az698lhlqB4jspPXF7KFz7uueSDKp=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Soleil was such a kind and helpful employee! She helped install my lashes and has been so so friendly and social with me! I’m very appreciative",
+        "time": 1759807441,
+        "translated": false
+      },
+      {
+        "author_name": "Evelyn Spalll",
+        "author_url": "https://www.google.com/maps/contrib/110043819327345662209/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVA1wOWJwyxkl4Y5jEVkGNK7F7PGnupxVaPJVBVwqaWt7BRnK0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I'm literally obsessed with Shephora!!! As a 16-year-old makeup girly, I was a bit intimidated at first, but the staff were SO friendly and helpful! the staff  gave me amazing tips and tricks. The store is literally a makeup paradise - there's everything from high-end to affordable brands, and the displays are so Instagrammable! I've found some of my new fave products and can't wait to go back and explore more. 10/10 would recommend to anyone who loves makeup as much as I do!\"",
+        "time": 1758417446,
+        "translated": false
+      },
+      {
+        "author_name": "Luna White",
+        "author_url": "https://www.google.com/maps/contrib/101470405097044568907/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2EUoDlgn4VNWBmQHVxVq6qN4qtEKsHS_NCw8QHFp3kvlwXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Loved the experience I got my last visit. Amazing service by the employee named Sara A. She was very helpful and sweet, especially for someone like me who doesn’t understand makeup and skincare very well, she was very knowledgeable on the products in the store! Sephora needs more employees like her! I will definitely be returning!",
+        "time": 1750476801,
+        "translated": false
+      },
+      {
+        "author_name": "Deborah Ferdinand",
+        "author_url": "https://www.google.com/maps/contrib/106480795331566390058/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9HuzZBg1Ic-gMwZeorPu8OuLtWlWWa8N7qbT5MvEF5ZjjyRjFdA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "The service was great. The associate was able to answer my questions and recommend the right products.",
+        "time": 1757198960,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1000"
+            }
+          }
+        ],
+        "type": "PICKUP",
+        "weekday_text": [
+          "Monday: 10:00 AM – 6:00 PM",
+          "Tuesday: 10:00 AM – 6:00 PM",
+          "Wednesday: 10:00 AM – 6:00 PM",
+          "Thursday: 10:00 AM – 9:00 PM",
+          "Friday: 10:00 AM – 9:00 PM",
+          "Saturday: 10:00 AM – 5:00 PM",
+          "Sunday: 10:00 AM – 5:00 PM"
+        ]
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=16435393606430269530",
+    "user_ratings_total": 208,
+    "utc_offset": -300,
+    "vicinity": "3120 Bd de la Gare Unit 154, Vaudreuil-Dorion",
+    "website": "https://www.sephora.com/happening/stores/vaudreuil?utm_source=gmb&utm_medium=Yext",
+    "wheelchair_accessible_entrance": true
+  }
+}

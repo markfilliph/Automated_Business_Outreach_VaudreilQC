@@ -1,0 +1,358 @@
+{
+  "query": "Quai Dépôt, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339075.4219382,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3500",
+        "short_name": "3500",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4B5",
+        "short_name": "J7V 4B5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3500 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4B5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3500 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 4B5, Canada",
+    "formatted_phone_number": "(450) 510-5553",
+    "geometry": {
+      "location": {
+        "lat": 45.39034530000001,
+        "lng": -74.0709078
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3913708802915,
+          "lng": -74.0694533697085
+        },
+        "southwest": {
+          "lat": 45.3886729197085,
+          "lng": -74.07215133029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-510-5553",
+    "name": "Quai Dépôt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfWb1LraFvm8_DVCX5OtCe3_QZfHzY7EgJ_nKVnQbdnmeiJX7nBUQ6Ovzrxx2xrLN3GTjWEiw-ceD_Qi73zk2pZZqkezgVJxjfSmQ1DwiWRAVx1TjVRr5es5WQFAGHVjuR047GaLiPK3_KcO427b3ST7bmx1ojS0kywqhI5DiLZEikKywvcQ0JR1gK2Wy_7j8u2jC-oZU21tUyGKSEd1Cpkv3rBh-h6VcZ1hBnzDRe7IJAANL63vFTNWq15iJSCdlAVRvgXMs4pFN1plpiJi4cu81lrYP5LSIMBBvlzQeavMopQI8JKzeoO6oyS62pzMivMtFUfszIYjU8CkpsV7JQmaG71qnYLlQa9RUo3W07ClMg4EZHIOKhl9ZwVQFVCzlI25_kSw4Rk-QsqlfsB4rcLs5vtFDzuZk5d9Hpp_wqBKbg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfW3hqHJTYL_mOzJD19sCTIZKJtJjVzgXoV31aCKbf_pI_0xIG12YaL3-UxAE2KvWaFe9lhQYiwTC8pft_ENfiZr5e4Q9K9lIw-TIgXKVPT72jSLbPpwB6DnQXnzbvghX9V9gb5s8eAXJ_5VxPmZaCc95jkK9CkpbTjcrf_GndlRR7hKmtKJ9EUSkRZ44_x4mslGnjMiPB-NyE3IoN5i0e3PgzyTYiWszkY6saDllErhF3nvgZ_eOb8aeOG2PRcoNlCTLNM6b5iuF4bpIEWBFa02rNL3APP9xJoaDXna9yFN1WGvnISd0W7KZnlLTv0GR8lXnYisEPOtUBwevH6TseJcN3ZFcatrGXnxI6FsfuA-bbYZCnl8gqurL-aYRySw1LHGIZhx-B5thztw6NpbePHfe6s0USrK0lPFL2z0glUcng",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfXcpcXGAC78AHg0kYh4VnUk3aYBPPnAnIzuQO4oiBRS-zDFr6z1P7gXJ2xIPH5_H8nxXJpuNVW2pv27x5DzPzipMAXHlAn8idRkvhnjqKInlkDf_vPatQEuVrfasj9C4LyjnkQDmsL2gb-nnDQ_H22GCIteCzEUajCHWR4g0nwkbNVKU2rvZs08a5N_1heVmv7akCsI-39-3y5OqaXd0LF7zWP5252BleFhq6_AiyGnJ-sSIk4EptcxobwJn6v4QsLOF-GbCP_ZilCqrjylMDqwD5L-jjK_1QXFiObKfAflOMRDA34f2ZoETPfqLJIvF684LHeywhLShV-FMNkjNeBzJX-lEc6t7yNnmYflH3ASOaSDo_0KwRGlQ-qxKD5Kd3fcbrxQtIJYEJ3rj6QR8k5QWl7z6evpUDZg5YU6rdOZmg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfU9BJV8Irxb-8l3eAO9kGBfy5ASvBRqb8CVvUEhW0HQAkarqLEnEyEsfQqT9jHQCvr8WaqfNNhtHlJ-ZzZ1HCXb3Kkh2yGo3f0SPdBdOXYTrVCE19GKjijKCP2SyPEWbCwLMWpb3T6Sed4-X1E2SYEm17QNT-rJJFmBoFnbW9c4UJpmsTwAKTGgHnShTG8WWwg2whBcX1hqZbs1V8v9sNv3wmoYRJWJvaQHd5D-vZDPBZr4-5PULHyqs_fyxhCm-fcNXXrCePg6mHwGlVfMgdIDsIGZdqYcQCn__zHCNNT1KluekK8wU2bYXat0Hu955MzSyyayZHyuMnifL3yUuaR2inx9vTlA_fpzxTPh1gyEk6OkHTMssyrMgjqa7LJUY2rajF7Q33SB-s71mHiW3xDIjj5C0pykiLvjNiBF6h9oHw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfXRbXu_IIqI0ydXXsPlAqEiSgWAkw4c5Pdvook6MhpZiewnr-uoKJ7EbysRPGRCSTJbFz0nLvGYMUL5IVm2Au7x-UosSw5I2wAeP8EL6MrdfEbsoaqPdyBfz3uyboYVnX2GcOwKB1yYw4pz3EIl1aYS7p2P_J1OA8ZkjKJbYnYArWpPdqfaoi_2x1gAktPoH-SBm0p9HH8aCDcI8zh_d1ZV6WXIfr9MF9m-WedGahGjXydeZ-mK4Lgi8kQdYIF2VDF_R1WRJkaxP0CDEncjNbcKuizPsLICuV_ndXXpR7ZTWUGkuWcPnYxMGy0igyI699wnxeXZgrJxHVsGnR_XhMAv_KWkuWK2Bgzw_FqGmDJxQrxQV8nYe2LLzRnnkg9120ZJt1yc3mWt9o-4T4idLB7tqyAQtBY-KqthymdjOjq8DkHI",
+        "width": 4032
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfXPWy8ymfW2AWBv0IU1CxDo-rNQ3mVe0-0L2EyKWFY7FF01bNa4jIQha-9SiQUwnJEYxN9xLYAMg2-IDA9OAvzK9MlKbaXeE6AtZcI9Lv3MdjGOHV8H9ISttFNTv5GRZow2SxYR4u8D89ryfis6I-d6jBehE4sADduIIWCjACIdHUN-HEdOnQYEdSEg6cyTVtdfwbolE2nRWPUDH5iGIwangJiB-XRvWgixfEf-QbtXgQwLx2LDku6mOhW1Z3HqIYHC0WErt78-bJYjiX2O_s9Nfs5tErF32S8MRx1bWwjyjXE75bHf863MyqbGsuYvKuOfqIG7dZyxAdIBAWKq9naLW1H-oThATynq0ZtwH-uNq820genb_r6fDWmye_uUjctzo_UWYBovbQWITf606Rnbw6hUKqBXRwbtU53fNsXexw",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfUFz9jDTDjM_qaLoD6CCjFhnqrEa-CrLRMk1aZHZuznQIovsvJGJ6rqzkEFX6C824nTjcDX2rBvGBk5G0vSj1FHcnAKFBkUpiLh4-DX2kPTVSC_FXmUgrG32EqZ8PJVUiC2c8_t-ya58DI7N58nDdfj9rJy5rW1wGlp5HxxfIlVL5ZxSPYe50ZtYRWhnE5s1VvnHVBCKE7Ry3QS2SyrCUy-obW0DtZnr1rnR99U-WeOJ3JwRso_kP3LxhSfIwdJKVLZ3tov8ooE_WxBFtZE8-KaSHIBH4Oi4TXSNLQJOUeKCQvUq2FGkbYizrvo5qTBhNv1FUU1eGPHfZrNjG6QCrT1CBz2iaCwnobL7fkbayfLdInMkitM54f-g8-rC-QKvH8PnL0ZX32u16JSMBBKLx65vy9nQZofaQy2WJUEKTQ",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfVNKHjJLhiDCxvWforh6LRCfhtDsXdZ5Vo2v_wz_hli9A_3nmNKb9K_SlFxkTk6iepvNDwDVMQz-lL0RIHIBitusKDzjAlvRCOorxLuoVoDLcpYku6yfaTG5y4yDkozhUzTeYs-qQVJCCmTsX29G6pqyLhV3-cRgZfcIYkEJ5ZC1Ee4lAVjQr5hnXjkeFHuYYJ9oJPm9tlkIYndGVCaZiU4VdPj-Bw4O3qmmM1P5lVuyY5LhBGihOYwHCxxOCMErtAlRel3urJzz5wrxaAe_uyBqPRYrkwG0E_C8a-dcDLoTrYJ6kz6jvAefHAbMXKi-VWowx2gGk1MYLAXdbrA2XBj9BnyQLdd5QHtpbNCBnYf9H9njiVCi4qTiThCv6l26EE8p-VeFx5wGTlkWgvRcc8016qBCCrSCs-DqNfdDSBRz9OM",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfWbDJ1W7aQW42ERvmhbz5SwpB2WrWTwEe6C27u9oMEjhKFYiK3PR-E3f8s7nb4SEl3P7gnmZn6d-O9ErNVuwFSpQazQR3fdgT7y_-iC3M1Qr4DwR-IsLJQVObVeIpo-mqNDMNRIBAbGPpQnOKV2iyKu9KaQG28xBCnelHwzfAcNeXVQTVCymtbpH-fr9iBiAzbE7chFsySeZn-RqsUD5ntKxl3X9t1JylQeWfKH23RBJLW70wxkGipsuUwNaSyVLEDbTvbPJKKl4EfCmjt4XHs_sXIz2CkuHVCpsw1kEPQnJQJI6gjTXyu47pesCYoptlPiURmjo5jMgpjEvpyi7gHzJwFFy_wWilCNLWYOkDwTuCEW5datHva2GARrlj8Hk2b4uyciKFWi-RZ982T4EvBH1xVMFiA5qPxKcwGDsbYvUD4",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfVFDXG7k43wO4JMSk-qvnQaxCSGrGHrmeB5hTyPXhv7lpbhedXTLzz0m39depeW4RyL7qfE6H2xFIMJI5ITH8etDeSEV5mwr6vvawG2mOtwmfO1LIEUCg20swFWIX-OveXPRKos9nNhobm43XEAc-fX3GjRFmRtIzlzqe0_aG8Lc1BNvZdOm_fWAwIcknjvnqkfrJdoAvE-y0GNELum1Qmnfj-jbx1e9qX4R2Jl9axuUF7bFiR6gfeLT7__9wfnW2BvXwK3bCKCC7hBZ_n--MkRz3qsKrNdEcoePZ0oxUZtNO9WjUeVY4BlgJd8UwYf8DR50aOsedNxZk4blUsmZ-BlrzY2TZMMhyOfiuXqjJ_UlcRla5IeXtqgufUVq47BYHrPliMQ76w9R0815emBLUb0JCT7vPk7On9cGIhH1umx_0rs",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJEah-5N1JyUwRECScJcai6Pw",
+    "plus_code": {
+      "compound_code": "9WRH+4J Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WRH+4J"
+    },
+    "rating": 3,
+    "reference": "ChIJEah-5N1JyUwRECScJcai6Pw",
+    "reviews": [
+      {
+        "author_name": "Claude Cousineau",
+        "author_url": "https://www.google.com/maps/contrib/100452674312500757551/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrPSTzPvB9n2i902gs3Tns1NVn6uLsS7IYQqYL0lueXJBo2g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Vaudreuil Dorion location, no watch room on different platforms, unprofessional place, employee who gave us the information was polite and ok.",
+        "time": 1581512071,
+        "translated": true
+      },
+      {
+        "author_name": "Petru Mogaja",
+        "author_url": "https://www.google.com/maps/contrib/102784297968923832784/reviews",
+        "language": "en-US",
+        "original_language": "ro",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLK4GTMJqIr6cAeu7nLc7dKe_luitJx6My-f__qezKHuAC19g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Seriousness",
+        "time": 1679940854,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=18223994864072926224",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "3500 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "http://www.quaidepot.com/"
+  }
+}

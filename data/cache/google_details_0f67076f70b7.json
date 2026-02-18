@@ -1,0 +1,460 @@
+{
+  "query": "TheBrethrensClub, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339907.525253,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2555",
+        "short_name": "2555",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Dutrisac",
+        "short_name": "Rue Dutrisac",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7E6",
+        "short_name": "J7V 7E6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2555 Rue Dutrisac</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7E6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 3:00 AM",
+        "Tuesday: 8:00 AM – 3:00 AM",
+        "Wednesday: 8:00 AM – 3:00 AM",
+        "Thursday: 8:00 AM – 3:00 AM",
+        "Friday: 8:00 AM – 3:00 AM",
+        "Saturday: 8:00 AM – 3:00 AM",
+        "Sunday: 8:00 AM – 3:00 AM"
+      ]
+    },
+    "delivery": false,
+    "dine_in": true,
+    "formatted_address": "2555 Rue Dutrisac, Vaudreuil-Dorion, QC J7V 7E6, Canada",
+    "formatted_phone_number": "(450) 455-0569",
+    "geometry": {
+      "location": {
+        "lat": 45.40361799999999,
+        "lng": -74.03670400000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4050364802915,
+          "lng": -74.03534716970849
+        },
+        "southwest": {
+          "lat": 45.4023385197085,
+          "lng": -74.03804513029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-455-0569",
+    "name": "Le B resto Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 3:00 AM",
+        "Tuesday: 8:00 AM – 3:00 AM",
+        "Wednesday: 8:00 AM – 3:00 AM",
+        "Thursday: 8:00 AM – 3:00 AM",
+        "Friday: 8:00 AM – 3:00 AM",
+        "Saturday: 8:00 AM – 3:00 AM",
+        "Sunday: 8:00 AM – 3:00 AM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112262472339413693257\">Le B Resto-Bar</a>"
+        ],
+        "photo_reference": "ATCDNfXxLuE7Vzcx-0YQWl2UbzuoXC2TN4LJbPyzWh-mQjqpEXDwFODLPIHc8gdMM4YZHjDfTutEOriC4twkOf8hjxFdWqdElJf61_BTO6qhFqD84pVgWOy0VSP5HIiWwLrUgZuBfbT5PhCVLz-YtUobhOFkrjtDnv0qaw0_i83xEw62NnrOE7Qo_1PhU8X5gN68iUojPRp3UG7ejRS7Um1PaFINtg5pXBVVoVi5MBEi5pvYYaF44LoHcCGvA91RnNfuc_q3qs2q2fJ4z2Ab9k9DFLGsf1RxBiWdGy9tgN0UjmeQwg",
+        "width": 3024
+      },
+      {
+        "height": 3157,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112262472339413693257\">Le B Resto-Bar</a>"
+        ],
+        "photo_reference": "ATCDNfWny1CZiK54BVCrkE4AfDuKQxT8VtLvXUHMo8yKdCtX0P6wDAoZWzOKbytKPC_Lm5pPRoq_k_3J3fvRFvyHKSG5S2GVTrg54ip3__5XGdFG8ivNYVOhcNZxJFr7krLgK66ctGSmdljMjwMCt5vVB3ei_typ9K6ul85Riq2U1uy2m-pDdKkNDnQeZLqW7YgkSUOccO9W0ljfKRFTTACOhRb7GtppeMrM655zRVpkOmbWmCdv7nsY-xfe4HJ-XkO0vApfMjtGrODgCdiJjW7KcmWV4Yg1-qKMsXV8lp5L4MWYtg",
+        "width": 4736
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109362128322654684807\">sara kurokawa</a>"
+        ],
+        "photo_reference": "ATCDNfX2gLsm3OXXjNO_aXzIyDtAS7NmtUlgJxN_rwlPjO5M-j-UH0mBhivIiLo2GGMZEMcEgJQqgbmsJce4__XgMc7hxYzDgNLKWYsLzLPbPPCj1vFc9PsIMVIb66_OzGSm3sqxJKjgU3i7zgf1Jcnuz-g9fHOoNk0CV4uFl3gWhM0SCQo4rMC5xptsg5Jhr2bceKBuj1ln4-9WvYn5qtGUqYspxVbzPRWuV9XLRbGgNqdRQFk1APqq1BT0fkd6Nogxx7IikPC4aah-Z3HTGKWYsqZvH09Ya3ooRNks9ol1eONX3iu7TWgGsEMdmOh0Zb7FghIdY---L5tZf8mn736lo7j2_KZovXK8LISnKhqx8UajGXqwRC_VhI58Up78bzYckyVUl-jV8EucnTm-SXveuwZJHcnF_8jJlub9FAAJIOAlmG75VAMLdNINz4Xwgw",
+        "width": 3600
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfXhhkDd-VACEImtKvd8otheMCeE3Jhjl4RAt7S-9db2XGVn2kde7-J4afN5KqhXJt1fphLQVxEuJe5bi1i7yHdv3SXL3WNUbD99NGaHo1Fxs32kkj4n49z-Z0oeRNLdllubsqImV7o995XPSElGBlrgVj0_cODpJ7GzrXo0-0QAIid0K7JlFOhQV42ZLUN-X-1gP06DJsvmzKnOFg4hQUhkL7I0q59kkHKXmAAUIAivNBwe9CL1rY3opKHkyXqbDI0BZ-lMH_gpFZq0FD2rDrxfApW2jDYORE8KHjKXB2p78Y4OipmvwICd7IUM8zuwcRhRJcUJR6WA_pkXQvTJp9E9gpm4CJOOKhqM2fBLCH8pkMXD6zI9KaUZr4KC0vk_7Y5Rj-FjiyKQ0eSKOJbmj8p5tZOmHbFDoEzeTQlHGLwq0fNu",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111247576263429941852\">Krystal “Krissie” Ouellette</a>"
+        ],
+        "photo_reference": "ATCDNfVjUkFaMLy6tGw4q3VLm9vevKUyHu5ZPLgnwXyAnUD9WcE-JV2JMRuBFOyaE1Q6BAI-hzGAuw9HWqEy-A0aKlRnJJcHsRCjIsZkG3OKJcaL5p_chhkZXp-U0W2QKr2U79h_is5kKmB8D2wC-9JWKfyXAXCGyEXiROfOUF4Lpd2to4UJsLIfY4g9tkxzguBHXEr9aAMmalwV3hxrvsuIKJ20rCrvlXw2WS9xsyWB7YsdRO3zY7kaJF0OFxUsQ1cfyijFpqQNBdQF3Uiif8n6ChyaRsKx2e-h1Qo213MvUhoqjZV_eNoiTqop5FCJaqR-WeXTPWFl12ruS6yKUjizOtjobugL_S89m3G1vYKGjDf4SjEGCg5Dm0SrppyonPBWAffrKfw1AuXKFIy-JGpyvNglyNGZte1_yIpfNnv8WI-LCaZ_V8bHnkZ1kV745A",
+        "width": 3024
+      },
+      {
+        "height": 2430,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112262472339413693257\">Le B Resto-Bar</a>"
+        ],
+        "photo_reference": "ATCDNfUuRejj-ihDypws7KylcUi5Uc6rW4SCXHA4fWPK6UIBJ3X04vV9kvUb9gxoz7SqeWPME4ZGrhnggREc8_WBTDUFzl8Op0b5Vkmvn0bDqzS-JOVp_n2HimEKuNBaqJpsL1gHGwC4weRIRbUTjplCTzrQF0UeVIrIWWt6Dr_Qe4OTczk6Sgm6c3I11KYh52UwVz1O8O7tJz-oUY35dP0Eu9GBbemap1lR9_TJZh1tzM0Y7-7OV-zGCedKvlX_paV_7PxbzS4GBVcqUkIPBcj4e1jTdjig2tE2mr8vDMQoj3geaw",
+        "width": 3645
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115350903700914826704\">Alexander Halford</a>"
+        ],
+        "photo_reference": "ATCDNfU7WifMDxpz-Bl13L1HoWVQXTGyOB_Q85tIKG94u-wk8NqyVwMrP-kmHj0MdvV6cePAG6yO_UqjdHSR-6zFWLVN3R5JZwVj5BR4mm3_Vm4Vk8FtGQwaUnccOt48bek4ExRQuSSSlHQxUnx1XpzsU2F45BCiZ5hyr-qnBFTJDVYcnUxd5P3O38vs4dC2uaed4dM2qt-0WUjWaSJ3OAn7fTlmk9E5aVONsOlu47KWbbFM_trWVzF9QdP20CYK6wNr9CnYEV6Z520mA1m7jIxZOisyogNkUeDuOHhZr3nz-YB4nbm9b99JAIZK2l_qcgHM32We0hMG-eLFRYCmwTS3VPbTSow92ZQ9GwxiB_4GfIfFBOCVSXVDFHdRHlx8-Zul3QadgRcrmXO9CdTRu8lV6p9x9ukzO8GSUXvN3pjYpgXUQw",
+        "width": 4160
+      },
+      {
+        "height": 3540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfUNN3SOlawGUvNi-IpHYosTheTFFeM43NNq8pM0t_C1ySQvCUonfM66nKGX0HxeSrN0MVHe92FqODekU49QH3fdfyXPJdjxPxkJ6sYMHuz1vTg4d9uQ4LDPiBFno6huoeh-sNHo1OerAUdagcAShO_LRrLlpZCYPuCN-eqNnvj_c-KX3ZPSV3OP88ho7qLjDzixX1rDN9yjmyILmY8aZMABOmrp99zZCLzDQdD1nFRxdve4RRfvIRxsCStz6fcsWbm0alZtnpGGkukDCYmSMCIkku2czbzcP1T5-LZoUZDJbzsMpHdR7ZWuJs3IkRKjaWAqiQ6c8dg4WmUlghFiZimSrWL04-L-TBn8AtfBqnCNi1KF38UBH4z1bVjyb_abuPWl2qP-iYon2_VsZxq582CR2WOdubOCjvLcBQWpPYD5SXzB",
+        "width": 4716
+      },
+      {
+        "height": 3540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfXG4wtjnDF6wDClVh8DwQQ1DlhuweAIsDaWCjW4zzgeCjVJEGuvjt8hpqFR8kdpd9PTRE6_wiRy2TC_dJlj9orjL3q4AdjNgK9s8zn92_mDx3xSVvf5yLCaCUFjqMCCch179kV8sLZwRn0tBtKmghGZXxZQ07mxegIKsNd6_q8PXkADbnjqXdpi8-8bdu8NbDrezeftmBXmeI-z7GJzLfknjBsOAvOzKBWQ6NzxyJpLVV-WLNOvmwt3j3yyoOvlYz0HLsPMOF5-58V8wZ9Oeyi6iWsEFkUlun1J2zzBBDzUaRPqoNebokgzgT-TeKnsIpTKTAmioYHJaP34jr7-rbWlJ0OqrL5OVKWTDRc2gf7TIAu77YdhyxNWV0303NtGEAwHV5MKI0lTCkIUVKZ3dgF46V3v6umXaU_T54xhUzc",
+        "width": 4716
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113831902659161807259\">Lisa-Marie Bisaillon</a>"
+        ],
+        "photo_reference": "ATCDNfVEW9Jlp1U8ev4L2O8RNZnu5G9rFqphR2gKzJzEJ8fIazC086PLq4Tkdkkeo3Tnz9mFMzTLjGGw7JZHiUJ99KaiJul6bDtfvpffZli3B4nO4kkyNrYszQAqOv41-PNgH1B81Mq2EpwmbTug2JJ_Jdlk5OIo32FUgLgBGH1xx6xaf2ZsCfeM6usn0LL788uGze_rH0ByOdsCkXa1lseUi05UpPgIdSdRzeiuou3gQwgRYJUjEPsDyqZtlZ-rKqhiC0J14_Yv8BYgMwtt7L04rJqYQk19sB9d4GeBsg__z1eeP_cmOiH-nFPFMIZzOewYMVbET5gLB5ZZhtu3wgigyDRi-W8I0Tyh-iyL59mFYQjb1Lp-m6X7d9GKmc4m4P3pTWRaoKbs8duuYyDJkwtmVN9DOjGeQdqdT32TLQ7ocSWG_S3E",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJYcEeNjM2yUwR3Y4a5z8Gx7Y",
+    "plus_code": {
+      "compound_code": "CX37+C8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX37+C8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJYcEeNjM2yUwR3Y4a5z8Gx7Y",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "zackary killingsworth",
+        "author_url": "https://www.google.com/maps/contrib/110174726385948592935/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWgigax2bqxoJMaW823f6nAutqjq7JzVfIhhvnqezaU69LaXc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "This spot is so underrated. Very generous portions with a great ambience and a variety of activities to do. Great for a first date or a night out with the boys. Claudine was very kind and friendly, and we received wonderful service. I will be recommending this spot to others for sure. The homemade mozzarella sticks are a must try!",
+        "time": 1762624329,
+        "translated": false
+      },
+      {
+        "author_name": "Krystal “Krissie” Ouellette",
+        "author_url": "https://www.google.com/maps/contrib/111247576263429941852/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU80JrPmHkEvyk6usw7-mGHSmoTlvlbLCZKklJDVemn7p9nJfM0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Was first brought here by my granny that lives next door and she told me it was a hidden gem- and she was right! Second time coming came here for a little date night out and hubby liked it too! Huge portions\nThe cost is unbeatable too.\n\n****Claudine is the best she’s so funny and nice!!!!\n\nAlso, the slot machines are so clean and new, very chill spot\nYummy!!!",
+        "time": 1761439300,
+        "translated": false
+      },
+      {
+        "author_name": "Mike Spooner",
+        "author_url": "https://www.google.com/maps/contrib/102191159408350398017/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbA22g7G1ZCFPj25A4q4f-YaQPxL8KlNxgAzU6EcDvK6ISkWwA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Le B Resto-Bar is truly a hidden gem in our neighborhood. The staff is phenomenal—warm, attentive, and always make you feel right at home. The food is top notch, whether you’re in the mood for traditional pub fare or craving something a little more adventurous from their incredible Asian fusion menu. Every dish is thoughtfully prepared and full of flavor. Highly recommend checking it out—you won’t be disappointed!",
+        "time": 1746919890,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best Asian food in the area! The non-Asian dishes were amazing as well! The wontons had a delicious homemade flavor, and the portions were generous. The fried rice had an excellent wok hei aroma. Super friendly service, newly renovated decor with slot machines, and pub TVs. Highly recommended",
+        "time": 1739142754,
+        "translated": false
+      },
+      {
+        "author_name": "Lisa-Marie Bisaillon",
+        "author_url": "https://www.google.com/maps/contrib/113831902659161807259/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUTlo9kXX02-H8F8OAxzSTwIZkIBUs9f8KqPxdFGXI3riPMqw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Amazing food and great service. The dumplings were amazing and so were the cheese sticks. They aren’t the normally type of cheese sticks. The vegetable saute was amazing. We had the sesame balls for dessert which were different but really good, not too sweet.",
+        "time": 1742606525,
+        "translated": false
+      }
+    ],
+    "serves_beer": true,
+    "serves_dinner": true,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=13170502506798288605",
+    "user_ratings_total": 79,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2555 Rue Dutrisac, Vaudreuil-Dorion",
+    "website": "https://www.facebook.com/profile.php?id=100066751265692"
+  }
+}

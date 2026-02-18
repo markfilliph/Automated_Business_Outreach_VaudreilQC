@@ -1,0 +1,409 @@
+{
+  "query": "TD Canada Trust Branch and ATM, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338525.262092,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "40",
+        "short_name": "40",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">40 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "40 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 424-1124",
+    "geometry": {
+      "location": {
+        "lat": 45.40698150000001,
+        "lng": -74.0372527
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4083877302915,
+          "lng": -74.0357784697085
+        },
+        "southwest": {
+          "lat": 45.4056897697085,
+          "lng": -74.03847643029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "international_phone_number": "+1 450-424-1124",
+    "name": "TD Canada Trust Branch and ATM",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109518713387718534621\">Jonathan Daudelin</a>"
+        ],
+        "photo_reference": "ATCDNfV30KZNwqQCF29zK-EjPSDmlJfwgxNvaxFtofLoyFSiqAGgTlwZoOfXhcRmsOpMunFdkUQKsEDlTsSki6qCSL-wcBxoKlyJ8mgaHBJTPS7OFl5CwE-Ke06OGmlum3rFN3UxF2BtfqNHQVBTkhq9gr-UKM_dwoesO4PYufQDrlThH_ccKfe1BnbBNpRuol8sD3NMBZy0lc8juOix0IjLoFNQWXFlwGv7OMCzVhemg3xqnUvmgQr9wQmG19NZ4g8EydHc9wsxshnwP7QOXPUfOHVcvwWJsiXMZHAeni4FH_EYLGQWEEgKLMUK0MAo0z3THZMI3f24Kl36bjBQlZRjydBOf1Em_beyC-WNZnFlOZtHT82gkOt3J80kQ7XNftR9XlM54D-BvmeKLl_6NAW461yb-jx1UvR45FXSNfQxXRHqf7sfjjh_yj-fquK0QU9I",
+        "width": 1536
+      },
+      {
+        "height": 1817,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105585517353433059593\">Keep Life Simple Allan</a>"
+        ],
+        "photo_reference": "ATCDNfV0YmFuh7On5msbK7V0HIzdqgPYPs0ua1e1l9k2vs95n9jHMgghfuPiRvWz8xDHGaHxNpEBY4eCgqWDHhebOLubZQ2i_6xNyS1G2qQDRfgTCGP6I1sEHS891qpmQTIwIR7KwvKPhNkVkDx20-UAafZ3oKUHDAtOr1jYqtE47-tLCDUwTBXxKFjRCKHVKAzNiw_WaNOgs2_gMu4jwRiP3STNIxV_o1eOB5Hv29RBqKBL-4RiwTZq4Pf268KdRKViyVbgPuB43s6LGA71IZWnEm8rmnkFNs-T-RRG_xoyV-FF_zFidAJNcKYSIebK0pjPWNWPYnfQiEANgkSu6BlvFS2wsmTploZJCC9DuooICDxleCkcPkL7s3BgRFA06jf1fI3eU_LAuHL124cJa2VFF_XHgMAdmE8k1nTj0PnZBmIM-LQ",
+        "width": 1561
+      },
+      {
+        "height": 3510,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113527247090638141727\">Yee WANG (Architecte)</a>"
+        ],
+        "photo_reference": "ATCDNfWRgB6O8Bdn2zJaGuTGRgzfBFRJOvPuwgLV6NjNtkdPhWzcGMr24lAFNsJPU4zcf-64lUMm_vwJoGvf28O5AyQyPBN6t0hscYdPI5nGXpLuLCpnVyeCelHraA0bK17zGdcv3sHmOhCspFFWa-SFKRIf7JSFpQEYAovSZcV3ZstEnkNY8iToP7XCVjaodVYgSYUZZUSGbpDl9Nkx0cpyCV57RQNHQQALJJngOYP3Qnp1G4PZ6NCYlnN36yaWSkvXuXKI6PvEIVAD1HFWXHWNcS7eXTFk_yjOGMEnWInQgE2z7nDJOTfFlF-2Kd_MbQbGZDUwCVnO71ZDIbkkSqxWFv2sh1YpSgiJXganVFuUvI9TYnLOVc0GSq5hIbo1ML2fwCl22dzfKpw8hmxcUfoitFs40eOpQneArTCPS76V8UqRIAyhoaGqcUKf_aD0e71B",
+        "width": 4800
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUaOdunjGt6VQKBbPXW9kXbn2E0IIUmpx8BkQ_s9XxZWUzCX7ijxjvsWiBOakF3P3qmLRhvBDX0iJrt6v92fyvgdEtU_n6LRJtB8pbTrv-VNaJALsLIi_z30fzikAJjxTQxVPq4EBUUkJTv8JMaq46hajawPejG7IpAuMAVbCpYWrdcQ-52ce6t6s8-ElTAy6h6NSj1SBYyjFn9-ykdrQpWbPMvcYvW7nPuUaLFUPQDCDvOjJG5KBKkOMXCOsqP_3dpwJJO4zC03bC9SzWyFLhzWGtSO140AaHJwLT5W6zVJqKWZLXtGvIZzBLy-hhRHOizBSVT4CKg7MvsfCMv3JbRvdy1RtqNtGuEkZsmV0BnRV_hfw_JJfIgV8HVxzFvIIdd2JXV4EmN61wj8-g93a6mg9KdGotpw8rA6ArJO-g",
+        "width": 4000
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106923259554242279657\">TD Canada Trust Branch and ATM</a>"
+        ],
+        "photo_reference": "ATCDNfW7DkrJ5drVOB6n7966_dzHkbPk_PV4mP-ut2kijnfuQ1t5hXMIXcGaqBfE2f00itpQwtW2T8gPZsaFqPmYHujZcChftmx5gVMqSo6aocCGRprpb3gFU5FlA71ayhmm7Ns_QXHKc_IAnyCOHAI59AZBMLmAFak5ufFzIE0Xzuu87M2KeFmVvPVcu9IUEjjfYBWCWpt3qnGNtK30Mkx2mcYf4DKQb7iKMkbBC15tapT2XkRbiJfZ9wzHPWnf_7ZnDAxXQlMG9fck3ptoAr2bve3sjcurAduH5MUTkbOUL-z5cw",
+        "width": 500
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfVvcidux78vpFXjmJQMtHfDBpZvwnaRHBTRUK30vjLn7samiIr9WFU2bkj-dGrdSJ0Qq59LhhpoC_Vac5OV4h53_uDkvaOr_YgBRBOzJ2YGgF_5edhhbrHNLIhiGNrjuAFj1AFqCshFQ3imo7IiRRypVLQ2keaxp77tnOtVJU9sQGNyc6VUCeGuuZ_QEv8CTF381kYNi4zfBdFI8T-_2GsWW8y_dLRB7RStRpEU8t9Mj3FhFQT1Bq8hDFDiUtoUF53cXithqiL_zABBkVEb820WMILoycZlJnZ2tdDZ8ADjAuGiyibzWfX5XH9ZLI90oTMRrn33CCbUCG41Mzft8zR8DR-r29Ldt4XZhJmlxx4PkbCuRxdBzd2SFNEmCWg5JF90ZyI4hpPZN-BcdfepApyYWHwgm5b_AbrSvrRxgIpJcJCsrKyfV7S-G5rbb4wV",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112118075245789188601\">A Ksr</a>"
+        ],
+        "photo_reference": "ATCDNfXcjS9TnQzTgYLg7PCQDgc8GMObfZbBsyFz8ajapMrqS5dxopm8CfH1jy84eEm1DgOwTozPK0dq11dqvK5cC5UmUTaMdF3-fHDbpJzwHR_ZCh8Unn1WWMAFHFOr4502cAkGSD8MGFmCmxXrAgpKNADh5Pg3RhxU2lLBs7paSOrrDkrl9IsS7KGoN0vA92eupdVhdV9fK4B0TyJT_F9zFqCizSYxoNdcPt5DAmIpBZ_jrfmCbVxcveQDBFoUeubH_2ef3BvI_TipitjTnWbI9Iiy-ebErNlfN4CWws-qIOuV7R_81I5ukzzuSj3khN7XOyfCDaB83ULQfGfIxW-PbD2jFVczy103GXY77-8pOaLHSFJyxtenDxElFvjK2gCh7aawHXw1FlhOd0hQ4QzZ5QGMNwVYW7OhWX-fEpj4WlIgCJb1",
+        "width": 1920
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfUfjlebHnwEEaU2_vW7ftMXniUvMzoTqC-QEO1lo89jg8aPrdLk2dvfU5ZuR5135a7_zqxOgwiABbqoF0nHQ1CAT7JZLAdwtAJW3hqClijiNYAwNV_GbQeSCHHKUbmQoDwGtwZM8w4RXSFTJzZ8vKhNeHeGynrcWPuFrD6De5VcTtcaSd3BulA1TPiWjT51FI2iaxWui4ms19BffaHyROhs9eOU1qqPSCI06VTd-3An8acafcXYNmSQP0NzJ_Qk5HZssmnbC15zDcFGR38f8_rWe3Sqx16UaEK8gLwjGuSBcZvAfsF2lrnL4YGugDb1hWEWghy5wh3TPXrqV9P3noi4Yf0bR5GLgpjV-oVkwS5RNdtbVBF1pS_h5YdNRFH3MDlgYF6j1Sv3G6q_CiNkcGiTLeanYUqeBBRgr0QM9RovowjM",
+        "width": 4160
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXI-RRTCzSrt_rTAJOWaPdB7uZFaehuRV00Oxh68Ok0ZsiLgDdcjP_5IWF7OtSoT5LpNsERt4iIAioxAizuSmaSttIntR8RFNZ-0Je6BuU-uVr587sZjCdyp3NkjprN_eR495C3RkwDKv2iblrmjTunw8fKsc4B2swEuiTT4WRksFQ0YP3mz4hiy24gcLUiO_TBq4HOvgUJBmC4jrgvEQKKwg-crERqQqrC82wvfC0eh6M4L_uhVNuCu7gGDqafpAGxZuvyPdT01HgZ8R5gJ9GyS4XqMXSnadPqCP0xOV6JdStD1PDkfSiZk3RDF0i42YasRvixwrSdELcEpcXBSXIKpldSJB4kyDAeHDKF6JOIKKqHV3i2guqdgFqBcXLz1vcYaV1-vznpsqMI87a1HCK5btGhMGjrsYwxWKWuWvH9BSJx",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJyT430jA2yUwRLuCXOWPNJvc",
+    "plus_code": {
+      "compound_code": "CX47+Q3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX47+Q3"
+    },
+    "rating": 2.9,
+    "reference": "ChIJyT430jA2yUwRLuCXOWPNJvc",
+    "reviews": [
+      {
+        "author_name": "Eleni Volis",
+        "author_url": "https://www.google.com/maps/contrib/116114771327207621408/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfaxTooZ5s0oFHGnGz3sH2nyfAFJR9rL3OgexWQbrRhVasjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Horrible service at two different times by two different representatives within 3 years. Both representatives, at separate times and for different matters, never returned my emails and telephone calls. One representative was contacted by my notary as well because she needed their collaboration for the matter, but no return. The bank manager's reason for the first example of lack of professionalism was, \"She's no longer a part of that department. She works at a different one.\" Nevertheless, she could have forwarded the emails and or telephone messages to another representative, especially since her new position is at the same address. Their lack of communication costed me time and money. Their lack of accountability influenced my decision not to visit their bank for my new mortgage.",
+        "time": 1758035462,
+        "translated": false
+      },
+      {
+        "author_name": "Sherry Tang",
+        "author_url": "https://www.google.com/maps/contrib/113309709343459468518/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnill7qwG_U97W8jQAVHQGDbED1l_n2Ny8Ci76eQ0lC1oC7RdN=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "The staff here are phenomenal. I don’t think I’ve felt the level of customer service from a bank this way. I walked in without an appointment to create an account and the staff was very helpful. They communicated professionally and with patience even when I had many questions. I felt like all my needs were taken care of with attentiveness.\n\nThey walked me through the ease of prepayments on mortgage, provided advice on GIC products. Amazing staff.",
+        "time": 1752941217,
+        "translated": false
+      },
+      {
+        "author_name": "drano 514",
+        "author_url": "https://www.google.com/maps/contrib/111647224378730305454/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1P6iZbkVm5B8M7rAOM5UiSWtGu7rDv7G-KFN3f671H-ZnWA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "9 months ago",
+        "text": "Worst banking branch ever ( maybe not all TD banks)\n\nLast year it took them more than 5 months to complete a process that's soposed to take 2 weeks at the most (even they told us themselves at the start). When we asked for updates, there would be no reply for up to two weeks most times. We had to go practically chase them down and find them working in person, complaints, and nothing changed. The person with our file was Yasmin, good luck if you get her, she'll reply every 10 business days and say she's in school or sick. Does it even make sense for someone to be working part time on your mortgage?\n\nIt was finally done after almost half a year, and many more problems I'm forgetting at this point, we made ourselves forget this most stressful and horrible experience. We actually wanted to give a 1 star earlier, but only the last week before it was finalized, we were treated better and let the idea go. Now we're not happy, because we just found out from somebody in finance reading our contract with them that they basically screwed us over, somewhere on the contract.\n\nAvoid this branch at all costs unless you like losing time and money",
+        "time": 1746045225,
+        "translated": false
+      },
+      {
+        "author_name": "fashion tiles",
+        "author_url": "https://www.google.com/maps/contrib/105002507936955120190/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq4mQWGIy4cJ3psPVKs1CcNPxfNQTGQJMXxNxFHjiKPJvnzlM3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Michel is simply the best. I applied for a Credit Card and he was very good at explaining to me what would be best. I highly recommend him!",
+        "time": 1756232011,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "I've been with this branch since 2006 for all my banking needs. We've renewed our mortgage with them this year. Always had good service and very low interest rates.",
+        "time": 1628003953,
+        "translated": false
+      }
+    ],
+    "types": [
+      "atm",
+      "bank",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17809147602534916142",
+    "user_ratings_total": 105,
+    "utc_offset": -300,
+    "vicinity": "40 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.td.com/ca/en/personal-banking/branch-locator/?y_source=1_Mjk0MjAwNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D#/?id=4823"
+  }
+}

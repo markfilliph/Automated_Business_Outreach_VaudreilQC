@@ -1,0 +1,361 @@
+{
+  "query": "Groupe Farand, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338686.2460866,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "430",
+        "short_name": "430",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2A7",
+        "short_name": "J7T 2A7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">430 Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2A7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "430 Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7T 2A7, Canada",
+    "formatted_phone_number": "(450) 424-1515",
+    "geometry": {
+      "location": {
+        "lat": 45.3835579,
+        "lng": -74.0891666
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3849469302915,
+          "lng": -74.08785926970849
+        },
+        "southwest": {
+          "lat": 45.3822489697085,
+          "lng": -74.0905572302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-1515",
+    "name": "Groupe Farand",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104534229102698937770\">Groupe Farand</a>"
+        ],
+        "photo_reference": "ATCDNfVx6MjfCPBr3a5RDfS4wYENhCe3T5Jb_tcxIZgIGf1N86DPuMxFsUeyTv1x8oEcPRfpCOARlVb_Ys65qEzNFKBTWeRE5FL2B6bAzs9O7DEKn9Y6iBPaXAwC5w0U2VK34xeGgzIfqC-CvN2X5fshKM4b9wrkbnpJnJ1yFlc-PwR8ZMBJuyaSFWswrHwj1YHW2va_7k6fIDXglePmreXakhqtC0VDW49GKECo-PgI-KKEW-0DpLx-TMGhyGFCo_h9huTxuIFxMn1xKrBJ9ZU5MVKQFdMy03KBmib_CccQ8bN_AQ",
+        "width": 1300
+      },
+      {
+        "height": 3380,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104534229102698937770\">Groupe Farand</a>"
+        ],
+        "photo_reference": "ATCDNfWmFpl8kzDBVg6KAkkSmWDMERBaGks9wvT8XbOQPoqRC1OiA9Vtf1aiPZ2KLwyH8BG2-tlmXkQsnRVZ5_33BZ_R_KMnmoMk3Q54OephOSR5FxXikjCe-W1zMqwmEgcXSDZvLDvsKsvSUCcI8mvZXdp1AiG0qoJPQ6qijmBIbv0HTCv0HHYIrQuljDYoofPul4J8lOA-eA87r7VgBIjiiMhuol4Bn79WqET5I2c-Qxp4b8XItraQE6Yl8VXP3wXsvhy51n4TnEz9Av92jAnjrYwp4DbO_bdwdAV1Uxk1w0WWGA",
+        "width": 4800
+      },
+      {
+        "height": 2832,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104534229102698937770\">Groupe Farand</a>"
+        ],
+        "photo_reference": "ATCDNfUNHwnIKNx0FvxmL62NU_9TL1lfH_AReJdvsG6zsPw9mM6THfcxglTzvLXtCFRUWGtZb4kM6TRHrnhEZbbK7yMl9lQ6YJCXXcN1p2JTdP36WcK_Oq42hsWkGrfmYNX1OTif2BtE-hG5_CTlZ1k_hvi8eCGW7RvSj8D2CEGn22cuZ7RkZDJAvH6N2mXvMGcg8J40GdvsL2VxRdm_uisDofITuDxnh5I57m-5iy-fxtTDxi3DkG5G617QvZ39aLZ6DI3MrBYZzL95pSJ3Gnv3j4ZGi2Wd22RIRufa4paML2458g",
+        "width": 4256
+      },
+      {
+        "height": 3552,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104534229102698937770\">Groupe Farand</a>"
+        ],
+        "photo_reference": "ATCDNfW_6kpSCAC-ymqNCMppY30XfHe_JA-LdKCHg0l_8vDnBUBcnLuhbXW4jxBl2YbPsVRVzeolTj3jEE1QedVsy85Kq2VcwKrQupPPj5E7btfNusVb9MtCPfklHNIuAoK3lrxkiUkwiAfHXwBHGPndwqoOAzJOXk8xOd-UmuJE2dBO0YDGCfdAqhlm2SmSXkxR2JiZs9KDXdTm4FLJrhFuJ1EOmuhep_iIrwykolrx_aI6EX1OricslDmLdxxAgbjlg-ArQQ-lC_saYYo5-BhvCuD-IzxfFFJgyuizYjmwuwmjHg",
+        "width": 4800
+      },
+      {
+        "height": 3093,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104534229102698937770\">Groupe Farand</a>"
+        ],
+        "photo_reference": "ATCDNfWZ-AzS94mHQOa56EqORKV1ipVQC83t6ISDJqWRbBIBy-la6665cnfabHWb3SqF-LXdBkKhSOLLgiFrXDT8vq4x4drdjSJbPK4kDOPGHy1ttIxWwVIU6p5_IbG2A5egFIkf1uyAhIEglWNxSlk8x5EZ6ogalDIGjro29YQV8sNayNui1swZHcxCTNVTghEIGNda253QR6NcH_nUYw_f9EG6C5eJL0isr80aritjwNlai55Kb7rZISK3O5UoaYFz1Q1IGhOKzxlyKCNF0K1ElZXTN-d1BfAmKCngRlcikRGSCA",
+        "width": 4800
+      },
+      {
+        "height": 667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104534229102698937770\">Groupe Farand</a>"
+        ],
+        "photo_reference": "ATCDNfUDztw9FCZogFbe-TORzTrgg69QAIMUNTxiRGcfC3d0CL4dwxvdyWQN5Oft_ZabwpM5pI8Lj_YbpbSVdMwVcYGNYCiaDaBiflYQZvob3fLBBZ4s2oaogB_jMDfwBkx5Ji7RGNuMVm1A6xlo80NBeMdi8Zygsx68_wDRrwIMllislgOnPtuNSRKUqLM2CaeKGfdwcJK4pYkdl13HrO5lydyvHZou8h1G8Mxt20g43JRbZlPifffcKVulW9YuTnGeDuC-EWHtuRm3GboD0NtsfA9LmNo2sxS4Ups5Jy7kxfHetQ",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJ6xG7SR1IyUwRbxX7gvWtstY",
+    "plus_code": {
+      "compound_code": "9WM6+C8 Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WM6+C8"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ6xG7SR1IyUwRbxX7gvWtstY",
+    "reviews": [
+      {
+        "author_name": "Tinkberll45",
+        "author_url": "https://www.google.com/maps/contrib/106469125383048036576/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIpJ2CJfzumbykWoMjnfQGdtktt-7YCp0SW5xQbNeGAkhrn31sQg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Awful service never come back and repair never return your calls ....avoid them they don't care run as fast as you can",
+        "time": 1666614816,
+        "translated": false
+      },
+      {
+        "author_name": "Molly",
+        "author_url": "https://www.google.com/maps/contrib/117750759551277067436/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCT78mreN-npNIhRNkGFiY9EvdFZ1vqUaheRH1IBl_ca7lKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Owned by a group of incredibly corrupt, heartless individuals. Stay far away.",
+        "time": 1692123120,
+        "translated": false
+      },
+      {
+        "author_name": "Dominic de Montigny",
+        "author_url": "https://www.google.com/maps/contrib/117041046246532295087/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICalz5fu822oJ3cVIErE1Z-BcuHfUyK5_iLfOUl3A0c_wmKvQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I am very satisfied with this builder. Meticulous, thoughtful, and excellent service. Thank you to the whole team.",
+        "time": 1764384176,
+        "translated": true
+      },
+      {
+        "author_name": "Mme Lacoste",
+        "author_url": "https://www.google.com/maps/contrib/117083009825256940952/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqN4dMB_FFb2C-k0kg5mYgtMnovj9Cvdir8g0AHakTcdRitQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Really disappointed. After four years, the shower has a lot of mold, even though I use a sealant. I think they forgot to install the Duroc or membrane, but they tell me it's because I don't clean my shower! Seriously... that's irrelevant. And on top of that, they were recommended. They build for our friends, we encourage them, and they can't even come and fix a small shower... their after-sales service is very poor. Losing their reputation over a small mistake, I can only imagine what it would be like if it were worse... I definitely won't be recommending them again.",
+        "time": 1730401142,
+        "translated": true
+      },
+      {
+        "author_name": "Antoine Latulippe",
+        "author_url": "https://www.google.com/maps/contrib/116357017473672322862/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmS3CGDI-nMkolHgqKNvE-bVQXBEuAk4W1QaXLRinc4HUEOEAm=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I have only good words to say about this beautiful family business being passed down from father to son. Customers who buy from their project will really get their money's worth! Regardless of the type of project (condos, semi-detached houses, single-family homes or prestigious residences) and the price range of the product, they never do things by halves and offer quality products to their customers. Having seen some finished products in some of their projects, I was truly impressed by what I saw! I recommend them without hesitation to my clients and I would definitely buy from one of their projects if the opportunity arose.",
+        "time": 1663245678,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15470618939947160943",
+    "user_ratings_total": 18,
+    "utc_offset": -300,
+    "vicinity": "430 Rte de la Cité-des-Jeunes, Saint-Lazare",
+    "website": "https://www.groupefarand.com/"
+  }
+}

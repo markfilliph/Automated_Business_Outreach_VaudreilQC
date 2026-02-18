@@ -1,0 +1,441 @@
+{
+  "query": "Métrise Construction, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339645.4168928,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "15",
+        "short_name": "",
+        "types": []
+      },
+      {
+        "long_name": "Suite 535",
+        "short_name": "Suite 535",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "101",
+        "short_name": "101",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7X4",
+        "short_name": "J7V 7X4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "15, <span class=\"street-address\">101 Bd Don-Quichotte Suite 535</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7X4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 AM",
+        "Tuesday: 7:00 AM – 5:00 AM",
+        "Wednesday: 7:00 AM – 5:00 AM",
+        "Thursday: 7:00 AM – 5:00 AM",
+        "Friday: 7:00 AM – 5:00 AM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "15, 101 Bd Don-Quichotte Suite 535, L'Île-Perrot, QC J7V 7X4, Canada",
+    "formatted_phone_number": "(450) 319-6043",
+    "geometry": {
+      "location": {
+        "lat": 45.3909424,
+        "lng": -73.96446730000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3920083302915,
+          "lng": -73.9632780197085
+        },
+        "southwest": {
+          "lat": 45.3893103697085,
+          "lng": -73.96597598029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-319-6043",
+    "name": "Métrise Construction",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 AM",
+        "Tuesday: 7:00 AM – 5:00 AM",
+        "Wednesday: 7:00 AM – 5:00 AM",
+        "Thursday: 7:00 AM – 5:00 AM",
+        "Friday: 7:00 AM – 5:00 AM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108841179713667526220\">Yvette Djani</a>"
+        ],
+        "photo_reference": "ATCDNfVzVyZe0D6hwnWzax7aJJz5EXeus3O5JYfqC0IBoE9PsFueMyRaHfTHBlpI6AzP_X4nUMh90luxt5mW3eI87jIiVLvBpPQ7P2dV88PXW549vtEpzwzLj6hFIBI_aKucbEdQ0tX6KNespNPWx0N2WhrNGi6DpqUZoFaQMZvOg_KTSROzCYkEEqcgvRn32nt-ugryKQwlL0OtW7VEqF2O1b3TTXbCCwWZAjNTX94xdigahdbZlY0MUSF_YLaal21TdemzFk2yrT-S4G8KZ4X9pYJRXR0bz8dFikTnng0YEBTHiBJHdfrREzio3F4XfPy8-GwTbfwXYalRD7wWEaJxqoNXztHT1Fd2iHlvLkoMHQ1L-R_Yodxl1YxO7vosGpoZ52EnxVKevY4TrOeu7wKXYMo8Xos8BafgCRzf2kh1eMOnSHobSg-3qZuflViIQZtF",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116293948560403483269\">Métrise Construction</a>"
+        ],
+        "photo_reference": "ATCDNfU90riPIxThVcFPqsMiZ5tk6FAf_PRxc0gsGt1lnEzVF6reX-FtZB0QOeshLJI1NQLA5FkKCzrIuJFDNTPv-vzqUOVjsy1Qj0QMnlDPJKqpF9FnOvOI6XJgdHJXGQYb8RyJlqUooTl42vMbyBw4o6b3-HGZSIZEPmzGrhsTsolr4IIWuLc3gf2bHn7zVyptvrrWncf06qdCDRof8cOlk6_xjaBpGKr9yU825EsPsXelMe8kikHRgdWDonzXdB0bajNiS_6a9LTmOtkANJvDBWPScuSY8R0Lry3Q3nO8g7XlpA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116293948560403483269\">Métrise Construction</a>"
+        ],
+        "photo_reference": "ATCDNfXjAioWgyVL0iDdLS6LWflRgH3h6e68_Mw4V79QfjnHNeexfLRKe9UN-hXhgF8hWGfYObkdt1H7vHotqwl1d-AyBk9r4wFTxz2umq0spvc02ktT_Xfnd7nmSMECX_9NiuIJUooofgCmC_I5UqxxivTWtmCM8-USH3y775esgVrmj3-l1vU4WhdqPjvGxi_oXhswO-AatAsK7T_522CJwbf7Lq-A5sY_Xbb5sjnP7wZ86ao1iZntIiVrXysPOJzpcc4Qsq68kyAqo-RCWx9tQcVNl0VQfhTYOvN5O60UAYa0pQ",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116293948560403483269\">Métrise Construction</a>"
+        ],
+        "photo_reference": "ATCDNfX4GhFBdYnLYz_sWF9OWOwUi7A0cqfEgm3pUbM3fKP32mzp7g-4iK-kaZZUQXRQ5n1Z6-V6Ul5cZpSmwtzqr1Clr7Nhhc1CJlKRNhgTytfpPLgIPfb0YD4s_v-cogUTIB_SPsEFpdAThRspRvJkJzImLZBuMPr7JZYreKxiPKIxW5geZUgbsqTtJ1q-yG3Es6_htr8cVxolpybp8gQgMgHoGOUHJOdPAAp3RSYVqPaqmay5XFxc15YLeM8bqhqktq56GYCq8uZg4IQDG4253uyyXPOuJL1LlpepTIsXTOKT6Q",
+        "width": 3024
+      },
+      {
+        "height": 1505,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116293948560403483269\">Métrise Construction</a>"
+        ],
+        "photo_reference": "ATCDNfWAYL2hCsX-YhxSHyrR1FNfJX219dTk7REVxv_BVs7H0q7crw3CnFg1ye_z8CEbK5H9mba9nsWkw6ffFwxypDCMEX1B2sW8Dp5_AmUsKDuluQYXLfqtSLYQTg3dzyct0RiTODU2s2miPUnTCfx4qrthaWFZQRISr_ZIfOzd8qQyFxfjuLo3QDzalwAXLl88yaFoqqNfdnzhdI_u_6Tj4w1hIufLdItoI-V7Dcx2q06tp9w2pLPTZSZXVokShE2T5gNWw5hO3Z7CfpV7Y-BEhEs-n59AxI5wHgkas-KNDogUwA",
+        "width": 1125
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116293948560403483269\">Métrise Construction</a>"
+        ],
+        "photo_reference": "ATCDNfX_TktYefRI73eZQAIfP7bIL1MMAWLSQJ1oj-Zhl_6jowqAhwypZ7LZIQUeJyvJS_9BkGFnZyTZq9y6KIUrRuMxk5H128M85SWH74_1V9QjQXEF7S8ETtW11mywDT-UP1YnzRztNLlX-HZkSIM6cZg3_96nU-9oOHJeudyJDbKD4Y2EjiSFsNfKnT899THfI1KQe1BkdA0JkbKs9brqlkNSXh1iGAqifaJA7mZ2U4XiOFjCVAM54u3-ExKEGcrrAvhn_Vai5EBOjmoRyJviXvwHMTwEl9lHJrbwW6nS95TxpQ",
+        "width": 3024
+      },
+      {
+        "height": 3962,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116293948560403483269\">Métrise Construction</a>"
+        ],
+        "photo_reference": "ATCDNfXnwhUs9w1aI0njp4ZEHGSf-yp3K8RDLYl2ziyAWYjpiicPb_-ZjUFYm-wfPcFg4qqaMPUjq7-waSeUx4DEgsG0L2zkBFjHWFboUlFK-BHxCrU7XwLpvTOExW7KdCY7d5Hxm1b8mh101xiPgv3i3yCEvvCW4hHYJ464zI-YFSpscs_YNRrBwVrgan6A1cNn7dxTNkcoGR7mOjE1DKOkFqgmC_r-F0TJ__tOQ-ysAEDKAIVBXInmAtne6mmxFdOIUfkya5TONqbFk3O-2pG4IQ0FUD87bRYlopKztwX3TNjZ_w",
+        "width": 4800
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116293948560403483269\">Métrise Construction</a>"
+        ],
+        "photo_reference": "ATCDNfXxZMum9Qk1wqXtpRR_5e6vKPc4iXLZUw7jtCMtQluByDr7dn_kWzty4VAgqla9CaTRLpbwJpYLm8lACK-jHqG-RXup215SJpULn8UFncPxpvphFDvx0N8-_ol70Q2xL_KqOcRsiXMwyd4Lsxe8omc9-M1K_WKHH51OLajlaHGHOLq4puM0iPmHKUagcm6Bg1MrZPazy8a1vnn6C_YVY8DUzguDt53ao5EcCIf1ltaTpRA3PpLwFSALtyUF8HeubYICtEA-BIMNnHehDsltDyStI_B00yx1cDRiRrCQPlbQtg",
+        "width": 4800
+      },
+      {
+        "height": 2894,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114088078454943371617\">Sylvie Lebrun</a>"
+        ],
+        "photo_reference": "ATCDNfWA03Exmjs5Jeo0L1OW4Dy2wt2JPG-jvRa4Jy-Pz9kbRdApcAL3iQpG90c066s8ezPQP3zzhhE4RUtmwiz5hlBQbyqWU-ZJUUqjX3eY1mVrfYJPS68MNvImQEy1HUi0cfsTrlXNZv3DN4QcxIJ-4ltPQRvcRBuRx7P4sAKKAMkdBf92CK4P0wNL7TDSNWfdKSZbRAUNWaHM3JlgtzhE_iSqWNw4WUlQobcn1Vm5tAdAtIuX7cU7xF2tGU5CAMZvFrcLjm057EYlP_bcL-IBPLIYIrXbUtGHgks_S2RDIY62tiPoB-xlaf1PsaNPkX-Qy-48N4j8WMJQ6ZXB1B9krEjeJhhY2sbZrwKayJRUjxatCrgBvandlQPWtdL_622H5pL_pK22hd3kWrQ2U675K6LDJgRrt9ricDBsA6swFAJftXbRI9uG-jH84LABBw",
+        "width": 3922
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115610794721171958910\">Marc-Andre Duhaime</a>"
+        ],
+        "photo_reference": "ATCDNfWPzrX_0f0WciT2LeO7qd1GgtSQJrzqtONoB52JN6TKO8fuDE0sBfTLSodk1t5ynCrwHyvBrr0G2LKoHzA9mBFmnmF1ORPKQdpK6dA7s2xr42n204TeiL0BjegwshTNpHDM63aWIV_cwgTui7oTibKgV9wPJFTBjP36PAzBMC8mo0JrDSANSMzqJkvZxt0QtQq15qcrKirffyvJeIb9M1mQUiWc64-oeE4bqH5pwvVdVR1LMDcHwp2twaA7Uvpfc754b5XW0ia4NrpdAi13R8RkZo9MAxGZIsCDx7AZZOXoIt6Je1xEMFgNJ8xs9MCifXfo44ARJv0Pmp9qOFnBJ73vIkLF6YFsd-VkKMLgHfIAwUMmfJhHCS_V-nNsFtNgyaoY1hLdhmHMn_k_GVY1LxjT6Kucyl3yknSJFT69muQ7tp_W",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJPZ-NctY5yUwR5dvxkd0-p4c",
+    "plus_code": {
+      "compound_code": "92RP+96 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RP+96"
+    },
+    "rating": 4.8,
+    "reference": "ChIJPZ-NctY5yUwR5dvxkd0-p4c",
+    "reviews": [
+      {
+        "author_name": "Derek Lightfoot",
+        "author_url": "https://www.google.com/maps/contrib/116486198546044548822/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEF_kgkpBNQ35R9qc7bTG6AKM8hMj01okcgyaMyVbOw9cq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Eric did an amazing job! We renovated 3 stores in three weeks and everything went so smooth. No delays, very organized and honest. It was a pleasure working with him.",
+        "time": 1749205858,
+        "translated": false
+      },
+      {
+        "author_name": "Jay Patel",
+        "author_url": "https://www.google.com/maps/contrib/115663123513259430363/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOk2YspYgkL5_xUD0ZbdWiwnU_nTSNUIXYFStNs_0SWeebmA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "They renovated our store and it was amazing experience. They work on every detail and has great team to complete the work on time. Always available to our request and requirements. Highly recommended. Would like to thank Eric and his team for all the great work.",
+        "time": 1749648278,
+        "translated": false
+      },
+      {
+        "author_name": "Medhat George",
+        "author_url": "https://www.google.com/maps/contrib/100314907599331580355/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvIQ9FpDClpUqkIbepOB_wO4Lbw-fT_5-90u3y_YpPoEh3CQiyWA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great Company & Team to work with ..\n\n1- Realistic estimations\n2- Attention to detail\n3- Timely delivery\n4- Delivery to agreed standards\n5- Honest and adequate follow-up\n\nGood turn-key business partners ..\n\nMuch appreciated ..",
+        "time": 1726406855,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Benoit",
+        "author_url": "https://www.google.com/maps/contrib/115144209176081688557/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICFeWBhnPa3hTBv0u0U-N9XRKkzE85Tss7BtreXrCi9lDqiQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "living in vaudreuil-soulage i wanted a local general contractor for the renovations of my washroom and boy was i lucky,this contractor in vaudreuil was professional and very upfront with me.\nI shurly recommend this contractor.\nthank you alexis for the nice job 😁",
+        "time": 1661479618,
+        "translated": false
+      },
+      {
+        "author_name": "Yvette Djani",
+        "author_url": "https://www.google.com/maps/contrib/108841179713667526220/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxV5W2ZizSAk_o5jo8RDmPiSSyiUnCeiudrontbYyrm4T3uQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "It was a pleasure working with Métrise Construction on the renovation of my restaurant. Eric managed the project from start to finish, and the result is absolutely beautiful. I highly recommend this company for your future projects!",
+        "time": 1751031550,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9774850637588192229",
+    "user_ratings_total": 21,
+    "utc_offset": -300,
+    "vicinity": "15, 101 Bd Don-Quichotte Suite 535, L'Île-Perrot",
+    "website": "https://metrise.ca/"
+  }
+}

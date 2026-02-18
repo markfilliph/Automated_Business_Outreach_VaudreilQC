@@ -1,0 +1,402 @@
+{
+  "query": "Lucky Stripe, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338055.722567,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "760",
+        "short_name": "760",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">760 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "760 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 510-5031",
+    "geometry": {
+      "location": {
+        "lat": 45.3723663,
+        "lng": -74.03320769999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37384393029149,
+          "lng": -74.03198421970849
+        },
+        "southwest": {
+          "lat": 45.3711459697085,
+          "lng": -74.0346821802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-510-5031",
+    "name": "Lucky Stripe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116868248947845269357\">S.T. Motosport</a>"
+        ],
+        "photo_reference": "ATCDNfX6Zb77azz_4vmeXFL6oyQPTyMH9oyFPXgncBWd3lCVk7E3lwFk1HjgVKsP97Jch6NsYAyT3LCoSUSHoA4E-Lp2mK40f6uD8qMqteFs0uy7fFlCadLExqL8cY2kkbBYVDWpgwpSziRa1kSWCVJvhwLCmYUrD7kudZDjATEwSdv0spIC4KtT_zrt0RWz7S4rI8PiJammO9Ew6vwBb6Mlsn8-aX39mkK0LKLUxP16aU2fRGPVqSdOqCtuzN7T9U-RD7Hh4ykYqRz0ygBkdnEIjr44mS3jPRB5R9a1svHDOXDj_kBIVZ7pY2n0svlX2GoYMBlEV77237rtL_EdE1iNYX68HlgLj8eBjq41rgif3_1KNHSvGWl7qWiayjP-zoH-oFHUFMXklvQryf5Op8iRWJXBakeoQLbEYwAVfhfLD85a69ct",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118033403764774056091\">Alex Libert</a>"
+        ],
+        "photo_reference": "ATCDNfWuiaEXt6MunjibZp-aWgSzMf8k0y4TrCPj50vj-rRNSX56oCAVrkLFY9IDLP6osAOgeMb64j4lIEMzUMANomvtiBfWUHKkF0gasQoZITv3cbLqBAQdMh57xrqd3lzRpS4v2wj2vWRmfZJoxLVX_vgr0Saekd-eQeO1fS_ibx63wMiiKpm7Vu66Cx6EvOW9PQ5AZtmIoJjTb_mCv48CWIPAOwZ9U5Ma-bA6yIEpjwocCDOOKMatJmlQ3-BtTZhPZ-GQdqqyCpCXPDGX6bGOwjDbGSZqUz-M_qzRzRLqqhFIXTKZrRaIs6ngnRejmgQ-OS2SA9BVrvRvROuvmhD-hP9XUOLv9HseE86dGtaAYrJrTHLFi7MFSGWNg3g3d4A92avcekd0s3rD9xhj2YQt0KmQmXpmVioduwsRws7BKMHKXQoO",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116082550829536435790\">Julie Bigras</a>"
+        ],
+        "photo_reference": "ATCDNfUzEjYUkNzasM8OHynxRT7Qza7VxFjhqAkBRpor0DdyUEktvkTqoj8EbDaY1-WtOFG03QqS0qXy-WqPnoBzfUq3T2TAogDEu7dOS7SnUu7MCBGqZD0TjhCPiHzHXUhTXIIZRuPtc4kzX4PL3Q3QmobIOQPgVaAVEkXR4hKfTASkZlRNRP3QVyjjckTHLAwtUHYeqKb7Iy30jeFOfhZIZOeD2pwZMSymGfoWmqACY8QifQDub9ceodxs-kOtizMf8TJ_DTpwZCNLVZyvT7iKpM7rJhlG5ziAmwI4flIGQIyLcYrj-Jltn0nBy_Iu7NF-u276KrgTXZNHo3tRxJwdiS-0WLRfdXzKw-g1sECweT_jUdNmH9aBF46EXZUFSAMFYiCglhg2ITUMq2ranLY_vI5IrJ-Kenww9NzZHB9wKIs",
+        "width": 3024
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110422616908073665926\">Luis Albuquerque</a>"
+        ],
+        "photo_reference": "ATCDNfW2jKaZV_Rf9VTvqW4WsA23B_Hxz7BzW1YoGVcrw75NzS2U28caYdfWY4WKRm-5Sreppa3-OpggSYZfC7DQEKy0yz4-yX_1X66TWm7IS27Le4U9ufZu4KxT2p3IYB2yB1NbSe77HyApexds_chmba4WhoYpVhPK3ud657S3lGEuiyaOxYCnm_-kJB80MompLsQminpmB6hDACUe6vDgAHbPzJzfU5heyJ4OtDxFAbzD7r92Bx_7oEbhH_RgyUgdkA4spwkpvUa-uBdUXOp1pq-HvZFauD3Q2IVvb5ggpjgDIPDZqdFY1yRzt7jKQ8-lgeJzO5oBX5khy7Nf0kG-TBib2CQXpC12Iq7JG1y3MLRGvPuspXUUQVV7sjOsjVine2MZQ8B91rwq-gYcDn4NCsJJqLWZtLhyL2kDjFahMpMeLDA6",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110422616908073665926\">Luis Albuquerque</a>"
+        ],
+        "photo_reference": "ATCDNfVfAiQ9D9wJTlBX781m9BzvxIHxx_5Ez22kLWu55-krQpbD-KpITbiA37JhWYlsyxn8cbEoVswzcQgalnlc_xk5SWcsGboz7AaL_3yqE_bTlR9aMzeKMJhimFmvd5AnAyNZsaqPBuepwREKN5NoEboQCYZT0aJBuq9y0UXp__w52ZSMGKhXrIrictdVXfI5E6BmaDNUEPiiGn28BK9ju_Jby8tPfjU141fnx5Bz5DtgbgqDqXj5feY0Oo0xoNshagL4XYLvYQ09N1rDd8bHDIX8jecWj0tGrzrzG1aUIqO8I5ZCBBWSBIKhp4LnrsL_iKqbeaO3iqQRprpELGLZM4JPw872nh9GCB1lkdJJ-9aRavOh01M8LMrkT8uaYrnxH5U8tkgQt8scctxErMCzwq2aNge4OtvIYw5vY8cq5_OGQRg",
+        "width": 1080
+      },
+      {
+        "height": 3848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109163905261760392690\">mgermca</a>"
+        ],
+        "photo_reference": "ATCDNfUiUeAkT_eQpY2xvca_VkdHV7FfGfkoVOHSVoa_jzqm-Zg7WP_soxQw8qols6cZBXNftOX9gaYLfojkwQiJZavssLXVdxpmfUBy8fZC8aScn_AXwoXakkh9d1bRObhl7ZOTfgtmUtHN7d85dvBbWTCVrl2KA3kl0mRk5dL699pt3OA9Os09u8-xGkPjvVRyaHc17sF_mEUXOZzCpRajDgiB-l-Z-4jKBj0MXYpIu5hNZkvvAY4Ojj3KwUUmc8jxD-mWf4YGZEbSrtNvsvJWpJIM67GtyWjrUp803rGb5A-RVBXl85KkazfDOPReRUIEAhvyUc6KXCk_SfIDB6NQZfz3VvsDGClCmSybvYCrl-f2zVk0kCK85yTXNjSdqi-2Q98kSWZ6_Ko7K_33NDZih0wwhUyEByYUJSw8a_JdkHCeifk",
+        "width": 2474
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110422616908073665926\">Luis Albuquerque</a>"
+        ],
+        "photo_reference": "ATCDNfV_8t7m0gkqO-mvWHQR_-988S8uwVh9p1ORtA6FWtPMjXsFEMY8EE-F51xhBbt45PEJGif0td2dgHddT9_gBGVrCOW4hcQNpWNZDCMQR2h1nbnzfK1gNpngrk6LthDUQlmYPz2SsbC_26HtEXZr-mGRv8FBKrxcsQcSZFQVvO2IK-2QiNpwv9xqMKVqvKZ2cO_ojxnl3IMySCaqnysFhkaA4fuZhNzd9BBaKsJBn88mR9XexihrWwh2oxNbZeg9trBq39iWfIa9myj2eavgQNJMlVX80PeYLJ0nsm69YBkD-iN51ZuroEBMUtinDnpsBYndyE_RO2utEA9PORKeIjxbpo6OCQcaIvNi6YN6p--epiD10Iy7HTwD6pAZrMhGiEjZMZ2WHszj1riL40ZrhPBW8FwiqyESVbySBT2atDS-ugK0",
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118033403764774056091\">Alex Libert</a>"
+        ],
+        "photo_reference": "ATCDNfW3897VJt2Dt4OELGMWxCpR1CVl91LrrWeRzxcpTSlqgoqfFw0AngmTTUGnXnxaMx6leK-i-JuasLo2Aw7AVwxt453-t43ee0txYNqDm69GS5fuo7hVMJlFnFCi-PckP_tiKF63gfCPkoF4_nuJ-s_12_rU5gBcFrSHy6Ui-5w6CgHUkuvWDTgeLsC0oT9S6kTZSNCtInrorHgMuPM7htdt4CCw7rHzLB2B86GhE51hEifAccODexTSTtd28PIKkq33e_dRSOSmhCpHikLX6DcZEYX86YCaFWGUgQkyAa3GVeXGv3FqnIXwX2Gk9FSdbGrcFz-LacpQrqxlObJBu8cj2KIjZn-4nYNPfUifwUvN5cFVgJiol22QASvtk7fI1uw3-Q-6fGs4Plmz6SRGA2k1PNLaBPvihNx2JWQ-IcRWYQ",
+        "width": 4032
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118033403764774056091\">Alex Libert</a>"
+        ],
+        "photo_reference": "ATCDNfX7I8ExZhXn1qtn5L6MIfQuHT9kP6kyuQahfNQGKGTYvl9uxrFjrpY0egTXCgCqICTHGV3gU41YtXy-33LeOPybYPznJK6LIgCrTg4-KkvprQ-Oi1t0pBTN9cLwmV0EBZjyy-MvIqtJuceH0L8AbLFwanC6t-6k0Ih-zmd8pAmJ3jfsTFrADkB7HbKKlAm4a5jclVEMstXxZnwt8ItN0paOBDKn4zGx8bBxgY5AMKL8h1cTdzbzpgZMgx4utvnfIyJzw6Dw-Of_7yWsU-9d0thFbRv-VkmNBN2VIQDS7zei8VyeyXXef8a9_4LA0U1grVCb7ieErFdaK3-VccBphPTovncJ_0L1CsTw_urxvPd_nDY-yDBlkEYKDf7N2bTjryuWLYPqPhxUqU3l_EK5_b4jTxsHZEL5-2QeLZHqqDjhQg",
+        "width": 4032
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117463469649156889206\">Pierre Vaillancourt</a>"
+        ],
+        "photo_reference": "ATCDNfW2Qdy23egsPuTloS_OLojGCv1b7RV_AOnf2G4VYzOAKIq-SlOeLPoXaLLgfHKccsK1qJn9GtLVUnHqzkG7mME0_L_32odFVaYQHyyE1UwEnOb8ew9vDgRVluAXQDE_z1WlXO0onqJcpM0R4RMcZUEi796rn64dP8HILy2ceT6x8QRizjxpSu1ZfFIrMS3Iel9IxElgQbe_IKKEl3lW8Es0enlqwNpYWq_g_hN9pob0X3Cy6pq0FO95xcQtdgVYDxiQGyNi7FIhJSFITClWKMjfHrd_PAmrSFtxsEWo6RCriDZkWa_oRKyXBMidGH8oS47yYDOySfcVgwDoSQkoLAXgZujLNz_Gn3OlLx0lwWtSxYcn3fP56hFNZXn0StOdm0gCT_ACBi4DF94xTBy0tcLGuwbmaPD8asdEYDmnVBRgFTHS",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ2cZdSRZIyUwRrcpX8mBaQik",
+    "plus_code": {
+      "compound_code": "9XC8+WP Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC8+WP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ2cZdSRZIyUwRrcpX8mBaQik",
+    "reviews": [
+      {
+        "author_name": "mgermca",
+        "author_url": "https://www.google.com/maps/contrib/109163905261760392690/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZ-SASJxc9U25V_eqatzr9T2nFURLoxNXq5_NJx5qDBTHltPI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Just picked up the finishing touch for our tire machine restoration. Thanks Pierre for the excellent quality and service!",
+        "time": 1733357543,
+        "translated": false
+      },
+      {
+        "author_name": "Eric Dutton",
+        "author_url": "https://www.google.com/maps/contrib/114017604780230195776/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVolVb7T8jVjiciteaQGsqvWe8ltOsdzKt9XNkARpU2zwrXL1Rr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Peter has been lettering my trucks for years now.  The service is amazing!!  I used to have other companies letter my trucks and with in a few years they would begin to peal off.  I have a truck that Lucky Stripe did going on 8 years now, not one sticker has pealed or dulled in color.  He uses only the best products and is so meticulous at the installation\nThank you",
+        "time": 1748872964,
+        "translated": false
+      },
+      {
+        "author_name": "A P",
+        "author_url": "https://www.google.com/maps/contrib/111985933487082113657/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLV9hEuCFOqKjMRGmeOyMc4DjMMCyhmHvHUvaqi4ogN6UtJ8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Fast, professional and friendly service. Their work is top quality. I went to see them with a rough idea for my product labels and the end result was more than I ever expected. I highly recommended this place.",
+        "time": 1682607462,
+        "translated": false
+      },
+      {
+        "author_name": "Cezary Maciocha",
+        "author_url": "https://www.google.com/maps/contrib/110072519064867264140/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIauNbE_rbTnn5K9hBL0B_5cJ5yFw7HRouVNo-maBZICwTz2Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Lucky Stripe has been supplying our rally club with racing numbers and various stickers for several years now.\n\nPerfect quality, great prices, amazing service!\n\nNo drama, no surprises, always on time!",
+        "time": 1683065988,
+        "translated": false
+      },
+      {
+        "author_name": "ASM Inspections",
+        "author_url": "https://www.google.com/maps/contrib/105001517387811708275/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEOltUZCAtTSv3NVUynFKzv5TY6G5GjkIaZN9zuZGmJGZoiXVj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great service, great pricing. Very fast and professional response time.\n#1 place for race car decals!",
+        "time": 1720639299,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=2973038076447148717",
+    "user_ratings_total": 38,
+    "utc_offset": -300,
+    "vicinity": "760 Rte Harwood, Vaudreuil-Dorion",
+    "website": "https://luckystripe.ca/",
+    "wheelchair_accessible_entrance": false
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "query": "P-town Skate Plaza, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338101.1307297,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "375",
+        "short_name": "375",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Cardinal Léger",
+        "short_name": "Bd Cardinal Léger",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 9B6",
+        "short_name": "J7W 9B6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">375 Bd Cardinal Léger</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 9B6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 9:00 PM"
+      ]
+    },
+    "formatted_address": "375 Bd Cardinal Léger, Pincourt, QC J7W 9B6, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3706095,
+        "lng": -73.9892161
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3720611802915,
+          "lng": -73.98782296970849
+        },
+        "southwest": {
+          "lat": 45.3693632197085,
+          "lng": -73.99052093029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P-town Skate Plaza",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111787037819773131952\">Anatoli Rouban</a>"
+        ],
+        "photo_reference": "ATCDNfVnmlmcnZiBQZ_K_ryKKrMjzVN2XEtWDLxdxx_RmPhWJTKbizj3Aaeli5h9kV9-5kx2qZ7suSxnnYi14VQjuqguDh6SBq6I3k_0_gx43RI-528MiKy27IimRGdb3SC3K4gtpnipKSUARh3RYy90FLIXNccueHPvlif0QXg1QT-lkqDPND7tCFK6JsK6nKBmZe_1d4nH4uq0R5DYd5qBjjY34ZJqjl54RsD7aN0-4N1C8q17VkimHx2M6LC-cCNlAZSHgkIvRVDGfjSXrpkD9AIhWmM4Mzs7ywbPghuHJixMADwmgn_NOOPpfEexNNoiMlAWaZN7czzOVVQAxqN6umrOlL70oGGJz9w4Jo4fboZ_oyvzCBu5m_3XHn9jF2uoh0H3QEzv5i3037pBfdprBmv0olIQqpzkpwQJCtlqm10TiXY",
+        "width": 4000
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108607260045812687428\">Marc Reesor</a>"
+        ],
+        "photo_reference": "ATCDNfXZtTcNHxAWcYMAeHyv3cPdT0jC6QHHA4eAsOsS7OxARUriC4QpFXZ8MiHJTwHqQo2GieYv7vsRXluGSlhzFtc6YZOJlDV2pVvTJTeGvbGmVfKw_lVuuXVRW1pGkMxKrp41UzVD2bh-8DcPKm0uhzI2kZuQFQ65h6YCvFlaKrBaZ2MWbijoj4pAP_0BySiatzrhmhBMxzSV37MvxMaf2t_ep7wN4kw5OeXl_6lIAGiHBlNRBaR18gsdJaO0C19M4FpuPk-RfKTwlT1DML3AUjq3ZtACRlVPocKFjbLfNbYPZ34-ohPiEQ1MQD509LQvbWyrXrs1F-0wrXgT8rJglVTzGnfyC8SWy__A4Pz4HizGTfsyxOm0LvDW5XxgARuipRrMej6v6fPUJfzsgLsykJypu3eNz8bpz-Xis_fz77fuEF8",
+        "width": 4080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108607260045812687428\">Marc Reesor</a>"
+        ],
+        "photo_reference": "ATCDNfUrMCWFx-XZxmF5ef-LF81MWg_c4S2q4K6H1M8laQ52nhpfUyu3w3RefNP2-qYiNoHggyBpw5s9xa4MS_cNEzILF2BXuBs71JDSzjV6BTXQ8Vall7Ntb7IbNFvbe8N2y38nCtchTS1d6ETRneyRsPjSxlKPGPYCNT3nz2vB4EKihZe_MS6ERqQmm2aW66tdgZr68dm-abt5lqdjrZWJtHSs1hK1r-YMKrBKJfiUN8UNCxOFw4L5VJFkYyXYK3_LmKlMlUGNiMbwGGJtbOGUOmxmPw45Luek2Vu_y9kaSJI2tXolVk_E6rPJfCcdeWia7V4zmb1futw0cUPf9TKbYEbORHE7me8s0wfeYJlP5V-kIKDOMYtbRGT76kT6B4-iEv5fGBJC6_L2muBhSdwF_2YFSEUSRM9GdqYpPt2tfC6yBt3R",
+        "width": 2268
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108607260045812687428\">Marc Reesor</a>"
+        ],
+        "photo_reference": "ATCDNfVBYLkQ26Wvp5mEp6JgVVzWf85uJq8-YQPUtuwruG07gQGmeqxYQ8_IR9ERAlzEwegPf94wekR0S0qQegTihgVCh8yf1k-NGWViUaemMMD4AibuoobsNXR86Z_dmjDpc6aV-k6lg6hNGziq-WaH5nr5duzj2l8w8SJsY7g-xNJoBhNgker302gkbCm3U7yUdPkGtPV-3lDYtOdzzXPx4XQNdZbQccen9qsWThH0HDI3ab9t-aTugeTb9GqB5JmeBbRxlCdrBBMZs7Zy_8GYNw-4SNT-s-CyvjWD90F_Ik7Orl6eZfyQ6aHjyPK37vm8QuE2rd2mjQyGne-NTGT6vEVSBvcvrxEti9RYnB7ZH67PNF1JeqoXT-2rZuz1u3_p0IuI6vmfOC5_jXHY3M0nGx-HY7JHzPM81-yzBlW24wBOpg",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108607260045812687428\">Marc Reesor</a>"
+        ],
+        "photo_reference": "ATCDNfXvSYf0pYdYbeDr0WQ9JQ0nTG30eLHc0QoBAw8U6WXtIVqq2Kl-NyNTMB7HgO-pFOigXL8g69U0wbqUn-mf0OrY3gAn_abi6KS9vn2g4CCGe5iPkQjZAviwMPK1CoWIXz1fw4LKHzWkrj3IZfV74XBoYcZKlMjLOUgow89kVGVOJJWPUFHXjvwl49hGPk8xHocKRQyVgzzrTW46Is0BAWdg9y-mmNc7p8XxzUKGq7MTHv4c22c_Jc1rSQfMIEGnt7F6V6b6kkyRENccrEC0u2CAYmjFrYC-TEHZfuCxZekov1ALOShSwDc9pjT017qIi8iA8VEV-c8iTvQKU6lQFAoDjUXVD9RLL54a6Cg7zpm7KSU035_tuUQbqme8PNkGQWBXw9TAM6nKP7ognJQqhdB4XfkTmiq9jYspOQ885yUS8w",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108607260045812687428\">Marc Reesor</a>"
+        ],
+        "photo_reference": "ATCDNfXQc0yVj8vIBAO44zVyzoD7SmCGuMDlMAUvP0QQk12Oh2ETG0pfRpcqK7-9RMtfu2bq4DsklZpahXzbMqZL6AG6mjoPRh_KtguTeUNVejnbvvEhDIjUsIL2cgOLxUB1r2kzoq39pf0-fG8aMUrIWprEcOJFY-lP4nquzRtl8J0kEzI1pZeCXxb4WVf-_FmUw-icgxnagU2sZxTMcb1P80B4VvgG63HJvUMDsk7ESHYkT6Igo0fujHmA_O00dJASbf3vFz7B7fVib9Tp2NkuJhiWbQLHYXC9sJ_uY5FaxQugDO-YG04cNlKTDQMhMO999UbRmEjNE_uIHKMIk7IVZZIn50dR_vMZkAlSuvvTJgRYJqGkwv0rlesTa3JpZSkiw5QoBf1w3MBEWSL0suXueSVSdyUP7DTaM8n4px1CnJhfcQ",
+        "width": 4032
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108607260045812687428\">Marc Reesor</a>"
+        ],
+        "photo_reference": "ATCDNfV7_tsawmrAz91rxnvKuMVdU9NODN4TQcnT0xPM3FxOjOGZUM7n7RAGhYzUsVB4q1cg15F5QoDIPTdcNvvpKf6HobRQcgj-8nmnxTd1t5uRGd5QnmarGOh-s97EgB_LvX29XRlLAzhU4Timz5hlXiYXplstF2qzDz7XZZ6h-m6DIZrBCs7CZN1lqfSc5lVmdNM4bxH2Nz_AExXlpDyGFmr6jtop0np909fgvj6jpyF5B1wDu38M4aqzohie8BQMveKr6Si5yzaT610mipApHEfa59M3TSGoGWsQydZrFuSnW0ndy93RulCc0-KBZK5Tq9UVe66_izq4J_Nzbe5YsmdWeMqVj0NkI_dL-qq3wCrK4JOWRNii_bMAlQEOrS4eT8R9SMmJTlaVHaw6NpWsrcKqmSL0M8wpW553hJ8-Sax-4Q",
+        "width": 3072
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101189340459518042966\">Neil Gillies</a>"
+        ],
+        "photo_reference": "ATCDNfUdf3KQiCnZetnimj4l2mqOceL0R7XSsgTr25qkJb2CKXWDk3nYmOh4P4xLmvS5ygHeShbElmd-0PBVoJTz3Igm3hbDbn1nbhWhe8gOU5xGGFg4AzeV8JDbque71KYR1UmwwVlksZKATOgDZDzGmIRY4M0NvSDQXqABS4wRdPPuIM-HUTkwwhB8J_7B98lxjdLs6_XKQd-YrEEgM1bXL7RhvQ5aGLnoBNGLNVRUTQeGPcpM7TPIXRF08MoM4NNLuhm3fSpQSDDNkyzPX8ztk-f9tFKBFCGaO6VfFXW61CkaMbVkfQkBfI1Vck-m2tpS5viYii65ZtgqdPAVQG0qpYOBwwYc2yxWlwAfXm7-LQwZLBVth2sM2o3ppeVxyVKQ3MRDoI3rAXjqlE8ImocvrlHmafvXzsBU9sH4CcjfC1xFCkle",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101189340459518042966\">Neil Gillies</a>"
+        ],
+        "photo_reference": "ATCDNfVTIhLr1c3Dv6HQvfRhggIcVFE_BMb9dvidiVkY7UMFSTFuXl3F5OnMH6tcynIz0Lnp53WaHA9rkigKjXLsRjMCjsJ6npYnhwE3YfXl-s567hFFL_dSlaEt4xUchI1JsRjbXBCSIG29yLDV0X181osGj726CtaqYDR61tTNFD72fDV9Uto3ewnGV-NwDDvUwkQ4gav4UCMLndBlpT1aJ_un_GfP7WZT_7tvDVww2P3_N6NevLU1VmE2pKmSUURONSswzOEDbrITOJtJQNMyKtOrwlpOJPCyYJ_VEt1bWxlYKTYzrXCvlOQ7vP_DJwpd_RX9Hu8rRWVAz3V_nc9vIwz-AGgLlokqs9T2cKuWgzy97cnKxRq5aldup7QfX_4Ji8ZsdIMD60ogro-4NGBikKuSS-RBein9otpXIypFzWCGlw",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108607260045812687428\">Marc Reesor</a>"
+        ],
+        "photo_reference": "ATCDNfVsKG1rIJyemtGtuAGP-Wik6gJx-1eRmRBi65aI0hw_EcpE_AE7bCxUalpWjUqRxokmGDBNyeIjZT_oUfGtdraunPJfKCo8NV-JIisvcJZkYfzozDSOEFVAmB27pejLyeuXl3MmSprztiSs1iQVvR6K4ukSrix71PyQ60ygxvnSbdhIchJak7b3oWRaTEmxT7ORQuV2o_OxmttQi3lD0AS6UWiyBi1VLD49JkbISxf-YcfXvyrSLVMLZHW-0ZvFp7DHHG19O5B9dBdlPWoB3AYliJleB2k1Hy2ZKwwpkN9yaibdohaKryDt_yD6Y0iDBDXMMaoXPmydYCUu5sOXHnnLxtUxSqOXhInPq3jhGZeY_OpP8axFSoyXXIV1ceASOlE1rEEiaMEIGkBUOvjrcxQWudfttPAfWS16g7B7YWUdZA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ8bFYZxdHyUwRQEIXY9i2-7I",
+    "plus_code": {
+      "compound_code": "92C6+68 Pincourt, QC, Canada",
+      "global_code": "87Q892C6+68"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ8bFYZxdHyUwRQEIXY9i2-7I",
+    "reviews": [
+      {
+        "author_name": "Noah Boudreau",
+        "author_url": "https://www.google.com/maps/contrib/110604216110104288579/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZwQS2cL-SkoUdPh2CBh7i8cn1L9RCXcn5tRWx0ZIVqC8JmoxEBw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "The pump track is really fun the skatepark is alright it’s not bad has abit of everything i geuss but it’s missing something I feel like",
+        "time": 1760212853,
+        "translated": false
+      },
+      {
+        "author_name": "Neil Gillies",
+        "author_url": "https://www.google.com/maps/contrib/101189340459518042966/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTf8sofGxJlXCOJe1Ns_8rYuIgoj-XBIFTXT_4zoDiLwKyJ51U=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "This brand new skatepark & pumptrack had some serious funding and it shows. It's the real deal! Absolutely nailed the design & layout, such a cool place to skate! The pavement is smooth as butter and everything glides & slides perfectly.\nThere is something for every experience level from beginner to pro which makes it a top-tier skatepark for all ages!\nRails, quarter-pipes, ramps, boxes, curbs, ledges, stairs & even a mini half-pipe!!\nBeyond impressed with the finished product.\n\nThe only \"downside\" is the skatepark could really benefit from some outdoor lighting fixtures for night sessions, every other sport has them at the park... ( Soccer, Baseball, Tennis )\n\nGo check it out for yourself, you will absolutely not be dissapointed - Guaranteed!!\n#1 SKATEPARK off island ☆☆☆☆☆",
+        "time": 1692851943,
+        "translated": false
+      },
+      {
+        "author_name": "Anatoli Rouban",
+        "author_url": "https://www.google.com/maps/contrib/111787037819773131952/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuqeCMxKqOjWmtgqy3wZv5ny3XGIm9gU4nFqDcmoSfUogF3IYmYw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great recent addition to the local parc.",
+        "time": 1714883401,
+        "translated": false
+      },
+      {
+        "author_name": "William Sauvageau-Hall",
+        "author_url": "https://www.google.com/maps/contrib/112330897356977415342/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa5LU1aivE4rIql9JvvmZbSXejw3JUd3Nh7lRf4dQ-wnd0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1756074428,
+        "translated": false
+      },
+      {
+        "author_name": "Etienne B.",
+        "author_url": "https://www.google.com/maps/contrib/112422077678741990323/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVK5-9BciFT-z27zoGFeP2O3_B31WtsrHVw4I1S5m-6X2AkzvYdg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "",
+        "time": 1750277654,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12897102998397207104",
+    "user_ratings_total": 5,
+    "utc_offset": -300,
+    "vicinity": "375 Bd Cardinal Léger, Pincourt",
+    "wheelchair_accessible_entrance": true
+  }
+}

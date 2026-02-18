@@ -1,0 +1,378 @@
+{
+  "query": "Piscine de la Cité-des-Jeunes (pavillon J), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339549.6186428,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "rue",
+        "short_name": "rue",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "2580",
+        "short_name": "2580",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Paul Gérin-Lajoie",
+        "short_name": "Rue Paul Gérin-Lajoie",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9H8",
+        "short_name": "J7V 9H8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2580 Rue Paul Gérin-Lajoie rue</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9H8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ]
+    },
+    "formatted_address": "2580 Rue Paul Gérin-Lajoie rue, Vaudreuil-Dorion, QC J7V 9H8, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3932218,
+        "lng": -74.02955519999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39440828029149,
+          "lng": -74.02832731970848
+        },
+        "southwest": {
+          "lat": 45.3917103197085,
+          "lng": -74.03102528029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Piscine de la Cité-des-Jeunes (pavillon J)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103932957641971698211\">Vinish VJ</a>"
+        ],
+        "photo_reference": "ATCDNfXbjXDTw_UZbQl6Eyny4TnTGrPgJcHJvFwl5Q2UarG2yuf_jPrxNoMHSmtUxS2aTDBwxvpA-v5gxBJ2nJNalJwoDE1TMdPjubVDR9NiNyINU1OD9c5odZYj7iEiYg-7hOuKCtmyMqDYMNmIFxtr_ufvm_3VcOWTuOuiF_9Y8UjwezQTqtFEpEp11EH4rp-0OWEa5jBs89zjDFRxMVEgUfj3q_MoRzbx5UN4aKyhx59tar2NEYDNOn5HR0krHpci2T5GPrFErLt3H9OL8_wrIigVQHQssZbDKeh5wyfNchAUYHQzzwa7mM-RG5CrNlz7MRHNTkLqJhnw72QFYWabxtdt1zkheaWWzybc3Rl7JCWsbhXgQXf6DjoRAD1hi5y8KM8-rjkPSkPOXaUI0xAkl7c56uXdZDmIm-pc8W9idIgzNfgqOHwJldWiM63PaaPP",
+        "width": 2843
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117120407163949577646\">Anthony Woo</a>"
+        ],
+        "photo_reference": "ATCDNfX7lOjut5LwTbIquh5Bs3AmeO4TRQej7BHGJWDJDy5i3800HmUzyWHcd0Bsp7XiluRWkjTLncDUDSlNR4eD1XCOzm6T_VPDhpB6CQ_sotCHIB6BEfO9GAUG-qjyPWk3lK5WbSXpmTK0YV1UYTOZZV6YYquVu70Fqka1O5Ki8og03O_grSUfST2thpgtTEcqWZnq8zEu3ff-C4rl0l8LN9Rwb4AWQ3G8kJhI87VDA3JtriRW74VDkUYZvWHgo6V-NubVxhEfmhRqsWqZXdoYewOFa311JuT6HHoSJLAKqtoNpdVivhqlUD3YpK489m_wbY7p_mh2Z5vNfbAePg_ejpTFWmOYWSxzVKdwP8_kHt1CYTJ-q4S_tCcykfU0THEZDQoacuTZR4Nt_lG3bzNCl3X5Acc5pbZxw3QC89oFAsMEQE1d",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJoaxcW9c3yUwRuBFKI4TcCSE",
+    "plus_code": {
+      "compound_code": "9XVC+75 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XVC+75"
+    },
+    "rating": 4.2,
+    "reference": "ChIJoaxcW9c3yUwRuBFKI4TcCSE",
+    "reviews": [
+      {
+        "author_name": "Go A",
+        "author_url": "https://www.google.com/maps/contrib/103997549162303912953/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo3QntQ2XuW9A0beGfZcJdNeUMHR3cR8JQn2_Il5qUwb0vE0K0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Good and clean, but need more maintenance for the long term and need more time schedule for the kids lessons and adults as well but over all it's a good place to book and to reserve kids lessons to learn how to swim, parking area is huge as well and easy to park in this place, teachers are great as well but more time is needed over all!!! Keep the good job!!!",
+        "time": 1761589250,
+        "translated": false
+      },
+      {
+        "author_name": "Noozah Ansari",
+        "author_url": "https://www.google.com/maps/contrib/105154741293603635240/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTPUdj3KDYl13D4t1QYBe876CJIWHM9Iczegn0xKnq7-jl1w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very nice place to teach your young ones swimming yourself. The security is great. Very friendly staff. Clean atmosphere. Available on weekends. They also have swimming classes per season. You have to sign up in advance.",
+        "time": 1728383614,
+        "translated": false
+      },
+      {
+        "author_name": "Maxime Chohan",
+        "author_url": "https://www.google.com/maps/contrib/116152892920032056695/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUn40-6QyZ-kqbhbYBB1Bup2n4cT5W-5rE2OnLU87Z0gY9p6AY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Great swim team, nice people. One coach but, that’s just a personal opinion",
+        "time": 1746152045,
+        "translated": false
+      },
+      {
+        "author_name": "Martin Kariakous",
+        "author_url": "https://www.google.com/maps/contrib/101986744521078152253/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVAACDtN_yrQ8vzTtfc74BVNaNR3Mqni-_pAuXlOAoc6iwqos=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "They follow perfectly the rules for the pool safety.",
+        "time": 1753745899,
+        "translated": false
+      },
+      {
+        "author_name": "catherine milard-bouchard",
+        "author_url": "https://www.google.com/maps/contrib/117406144808937764286/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtiRK_tF_kmRoZ5QXbr8kSrvUUfFYbmrFOmO-dVFehZo3zWA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "It's always a pleasure to go to the Cité-des-Jeunes pool 🏊\nThe atmosphere is friendly and the staff is welcoming. It's a great place to enjoy swimming with the family.",
+        "time": 1756691944,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2380676338127868344",
+    "user_ratings_total": 18,
+    "utc_offset": -300,
+    "vicinity": "2580 Rue Paul Gérin-Lajoie rue, Vaudreuil-Dorion",
+    "website": "http://www.cstrois-lacs.qc.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

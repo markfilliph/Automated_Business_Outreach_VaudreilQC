@@ -1,0 +1,450 @@
+{
+  "query": "Pizzeria Quatre Saisons, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371491.3843818,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "440",
+        "short_name": "440",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N1",
+        "short_name": "J7V 2N1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">440 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 – 9:00 PM",
+        "Tuesday: 4:00 – 9:00 PM",
+        "Wednesday: 4:00 – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 4:00 – 9:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "440 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N1, Canada",
+    "formatted_phone_number": "(450) 455-5545",
+    "geometry": {
+      "location": {
+        "lat": 45.4001932,
+        "lng": -74.02800140000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4015680302915,
+          "lng": -74.02657911970849
+        },
+        "southwest": {
+          "lat": 45.3988700697085,
+          "lng": -74.02927708029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-455-5545",
+    "name": "Pizzeria Quatre Saisons",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 – 9:00 PM",
+        "Tuesday: 4:00 – 9:00 PM",
+        "Wednesday: 4:00 – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 4:00 – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfUEyW4-ebhaEbuNccLC3p8wy4RtvIrxYX1YYZLhMNvlxN5rUGM2Tyrs0lZD3XegeNatS9YcwNULnW7h5jhNt7Wc3BLDDNQhhWMzjTyqAlqDW9sx8mpGZ9fKT9gBKMfWPxAKC7XMXOUkmJpDOwRVmccjsPtKPQRqHFd-gJLB_mZVE0lVpbtZQfB_pvJxNBpvm9BNR-nI0IPSWUmZHIbSGzjB9SIzDuV5PFueWXe1bZCVKqDM9I-QUeK87oHff_akjis3EauGkF2PvlUt4IYOMmY8dh42oEUVCsOentUGCPwcJABDeGrmB_xKr-R7tY-HPXizEbCDIBrlX9gWPvHwQVCkAR1DxFNbAqdNEewYhwUWMI2skDOrCSKly30-i3hlKgsfmfWs5wTL9pR8SbOEG8fvnpBusbq3vbstcqYR2eNKlg",
+        "width": 4032
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101316651623239330214\">Fauteux Travel</a>"
+        ],
+        "photo_reference": "ATCDNfXg2t6mOdPlfEvPyn8t3_c8h886q6U9nxuNR_zV4cgWbFnauZ-a04cvZmf2oU6OLNs4To692kikSXTsbFUraaQZ_VJXODIVod_HijcxOkmbAkTP7CNZAgdmuO1ihok9_NEoWZ0VYYSXAwAorNaWJ-qbk7hphDZQwxGwkwnjJA2C4FGBm_FQah1HEVBYhtyKqnm_aNzCBBE-7yVeRgAb3mYGljTyZATRaerm91J35YoRIptCb57BzAAHNzcJLH1OIHjq-FwEs78g2ZenkebCZSdVZWxvokuo8Deave0HVxGuxDZCC5BreUCYhrDc1XL1j_TpiRXSaRPsEuM076Zcn6LbaGIWa-34g107LiQoAfEA6_vbatf6TpgMnD4yg5H3OS1WOGJp2t1TUk_kn9RS6eHd-z3CID_NO14FctLx5AUOKN9ilz6APiF6B4j_2iZH",
+        "width": 4000
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111212550985789646988\">Ale A</a>"
+        ],
+        "photo_reference": "ATCDNfW0aFxhQ2DLaOe9ETucXJUoDIgI5W69bC2YZpoUYab7-lV6Q7Pbq3zOecziHPqiQyBvHuUE4w1MNEGnddJGn1OPjYXlZrfqiEc8Y8I28v2TsA_sHJdc_829i-IUrKK0IHptctaVH7MhYHMpYagTP5Y_ZW5HrJEr2jEmhux-HyWTWuCT42t8uff0kIgYKEachoJoRqPRv3rEe-GC1GueF4a-CYNOpyveHpk531msT2ZZ2uCGCGky9PUTxWd2xmxjJcEaHm2OyAqCfaY6UgdN6VauMi9_0-QRGsUtjv8idmhjZOThBd6kVbHCWG2_K0eUIFq-pG3f1Qb7WhAx_f3W7x6QgYmJCGqpMIOnm63vvS25vvriWPmiYkIdmGhCvMvJLTn2ZGiOekmh8l91B1CsYXbfZijPsTKyiyTur8NUO3U",
+        "width": 3600
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103163947831596131552\">Eric Bourguet</a>"
+        ],
+        "photo_reference": "ATCDNfV2f6nJLW-yLOudt5GZ4_sH6Wuzi4-t4ynrRI0gqoSpPyabMR6f5k0atylY4cJvfVYFM-m9iu0MlTOZ2io7IiYptpkwpcG8g5SQTuk17T9_T3zdtpLr6wXwa23fZm8QBlvkQx8WD9ZGplm66dVVDPCvnBWXHi9dAaFU69kPyveJdCq3VzKMqyycM-KIs6crCZnTfm2LcAcBubTsEuPcfsULOteqwlfCEITBalwl7vmAVcAZkYfVYZs0ZU3Rw-Le2M3qZ9faVErVFE2n_5XtKq86XsX27WTQ1larrxNldk7ruMHfy41_mqKJvC2_RWG_Q8yEmsmZN0_rXsr6-QNQ5AASYeR0ip9IbNsJk7TDyAfaX1QcSBAZ8KRQW7Hth7qZDCIjuzmRtvGlK8CNv3-LoaPlUja1iVls49bo0Pvj0LfjyyuUNp-jzA58K7_6I_c7",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfXXd5AUFh-5dUDnTUBpozAE-R-tyC2g3VC9D-UJKKuxdwT17CxdXDPaw1iObM72SnZF6IsxOFO4jOyd3mu80too_iUfdf7KJIapFumcm-gWwK0Hd2L-5QrbSoBp_NACt616wD14qdSzd2MOJ8L8s144V9Mmtb-aXx5UT6QT-tUoLZnNLGbLPNlXAxJnDRqhHb2W4oI5_dOxlp2h0VXV9-NSP08gHIKgtxAMyzXZDGQzclQouqb57SEwMXqelMHXrLa_ZAZDIGKgCS--AE9pbxIurtJSlAHKO19fasIQUvT6GwECCzJhaWJDvwuraX_optB-BWkVbyeQOw3-XMSKYoNUU8uVGMy37A1Vy7jCI3tmu58-TprLOnbahR20R3dMmLFnwmIgJDnBxkvLWOGsSse026b8wGIWqc5Rc-6oiwwa048d",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103163947831596131552\">Eric Bourguet</a>"
+        ],
+        "photo_reference": "ATCDNfVHW6_IhksxlPFbZvDpXnziqnRDmoKgfMgoraDVRo4dQqviqwEhJv_4tOIioRG_eiKx4VRDJA8nnwGqURkgDU_nmscR4JLwWYnfG68BRpv3EnlKwH-sbwyZaz1RtBToL8ZDOBoD3s3V35WRUkOZDqixlhHCr3-NmKnqZUxjOuW01dqum0exj_zaDOjsv07c3f20KaRwkCNsbpyA4SSd4dZcFpppL18vzP5dQapjTpZOEjV1av56yNUWiYANgnT2Xil4PYKXFn0cnqWb5EbnZuWuCETaVwVxtpk0_C73yqUfm19AtgiKGGld4UcNWVfaSD2DUbGAWAHIjqRrvVBPnQ6qYgLQPTPMKoyyscbTwx4CiA7bgL7JljdWlvk2uEXb_ll_41fL0V1wfGRw4O1fcfLzWmwGVWB4HjqojRtUcTQefzlaZRUkEQzTUP0XL9N0",
+        "width": 3000
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107250025206493376797\">Stefany J.</a>"
+        ],
+        "photo_reference": "ATCDNfVmqHEFcWgxYCAFJpJR48kVrAFUaqgx6Mk86cfvEl0UXA1EDzjyaWDkmA5ZKkt30qee4TxSTL_TNm97b_pRmd-tez5A3dvIbqD1LYUbeeseoYBukcjXHwdkJNlS9dDcFKLx9wCP_alUSDZOtmQ3J8e0LA6Jwvb9bPPofBbWmCRO7s-JGHKw0j6pV9yS_YfBxvkHLfuyQyJRdvnreWtqqWMapDcYZhnDmGAk-thZodQo6xliObsbbPLcMFz9gdxbwT0JpsSuWEKYD9hq0n2FRN5GKmztdFEt8PiNOFEedNG6rWxG28BErlemEkA6coC6X630Ju7ophLYaphBzd0LbdYlMwBfYHqFInvmAl1GKB5ccjxobGp5zyfXUm_XwX4FmD-OAv1jMOAePPbYzCR-Q0D79RK77OyBFt0seEJNs5vgsg",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108977792346055568444\">marcolivier lamontagne</a>"
+        ],
+        "photo_reference": "ATCDNfVHNSDhu7PBBA30p1mE74l69ne6YHZUrLp00faBqzYxzKeFeVqtpavUHv8Goqev2xRBEkDAO46J8IDCnJoFVBJDhFnizhpNSZILIbs3HEoj093KwoFHz0hRBQdzOgLM3CX5jF6aS-1zx4WSaic4rdHQUng3elMF-NmxD2Be65m7B8sAXYV5OxZkfr0Ms8Iok1XrYh7y2WM00Yuy00ygUpIaa70NJMIjBKRpbGbLgn9z2PYU_6YPKIYHKiI3wTSwnnE8kkDACs1DWhtvMogFzG2uTw53SzjF2z4dNE9H5cmm2DTxzncN4ZxZ3hv46dYS6J9Js6UAg_xttYOtB-e8ie3bBn0NFxJ56ymFbw_arqA4UimIE5vHv8vo6--uDEiUUUoscTWCilpY3Srd8Db2ABZiJYdnre8UJRqe4dcHr-s",
+        "width": 2700
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101316651623239330214\">Fauteux Travel</a>"
+        ],
+        "photo_reference": "ATCDNfWbB1g3_MrtyTyIddf6OMxQlRdYbJKspq2XZYQzxZRs9rphWwenC50XIgRgusm7OTQ4-BLcdZTF9CMcWq1MHvAGuBsknW7wOXctCLbVzxZEpXv0Xpk2XzQSsYVyzOLYV23O2xwy29Ai1wZsWEgnOPv0n1L38EQGtyC9JlX_7YZ6BbbkH5orB0HLrxeEoA7lZCFLyk127nG1u8YmPvx2J-U-nBTC6v-VmGt6GZK3WDd1cDTLtC77hq_upl4RyHbU2q6XBeal3l0EeyYUX9_ZRrTuem5KE3SkjNvR35SPO4mS_Ee_epyxxE7t6bg1z7OT0WIYR__jrwUFfoClFWPAxr3_p48nEPHkihxEpuOcQGm8QfUxMEPqUBYV6n_5SKa7vMZAcwINuffv6h8DOJplZdKiSs7kveYaAg3zGHWOmmQApcC1QRnCIs1E994RfwGo",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102943910715537003577\">Claude Raymond</a>"
+        ],
+        "photo_reference": "ATCDNfUe0XyMJMovMYi_THpohVF8i8XNbsJNubCdzE_1S7UOYXHlpZ-76QIzWHZ2kknzeEHqZUq8Og0ZK8LefivOjJCzRSUMubKzmKPIUXby3EAegvuDp8xur9OFlZCNducZ_nqeG3rr9pJgjrvGey8wRlCs-m8tUcO3P2nkrln5Y36e1Yt77H6nhfHnFZ7CKUKBhZiGoUEiJfXpnUeZRzBkNkkhY-YCYZfRnRCZWP6I8-lksRUTgWId2pTXRQYdZSj6B0TMcrQeFL4aW5nQt34YEdSMCenURtdgqrLq-jHk8Qu79QIl4XrbRy8A4MOvrHc1ntti2gY0szHy14yidnpQE8ZTRjBg-Cl_LFjU3eVesBZ9281If4CVxhtATyFg_rwSzikqrpawuZ6hLhRDIJJZ2QC7m5VKpxOhJDdHJ4GOYDGmyQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJPUT-s883yUwR6zOq3Q787VI",
+    "plus_code": {
+      "compound_code": "CX2C+3Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX2C+3Q"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJPUT-s883yUwR6zOq3Q787VI",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "We went there on a Saturday afternoon at 3pm, not busy; good and fast service. Loved their specials with tomato soup, main meal, dessert and drink. We ordered veal and spaghetti, as well as pizaghetti, both were delicious! Loved their spaghetti meat sauce and rice pudding dessert.",
+        "time": 1557456639,
+        "translated": false
+      },
+      {
+        "author_name": "Larry Mancini",
+        "author_url": "https://www.google.com/maps/contrib/109735680426049858577/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI25YQuLi8f5I8VY7ajXNMOW3C1DpcHzvqzz7uQDwHpgFkqsA=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "a month ago",
+        "text": "If your resto is called pizza 4 seasons you should offer the traditional 4 seasons. Its ingredients are standard and can be found on Wikipedia",
+        "time": 1768693506,
+        "translated": false
+      },
+      {
+        "author_name": "Leila Sauro",
+        "author_url": "https://www.google.com/maps/contrib/101819647996472530681/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhzK0Mg03J2z_ZFfkwIfjXXz-lAteLjVBals51k5w-iozARA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "The food was exquisite I was in heaven. This restaurant is a staple of vaudreuil. A true hidden gem. The service was fantastic very attentive and kind. I ordered the le steak submarine and the steak was cooked to perfection. The food was so good I ordered more to bring home. The place was so fresh and relaxing the staff made me feel at home. The waitress had informed me that the\nrestaurant has new owners and there is a new upgraded menu coming out and I can’t wait to keep coming back!",
+        "time": 1751441913,
+        "translated": false
+      },
+      {
+        "author_name": "Julie Menard",
+        "author_url": "https://www.google.com/maps/contrib/100342572671409591073/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRqjQQDmqZh0ZXFELemMQskjQVJ-uI8qE3cI2_-sL3EBbMGx8d=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Food has always been excellent, service is fantastic and it's the best pizza in the area!",
+        "time": 1758537127,
+        "translated": false
+      },
+      {
+        "author_name": "Daniel Gontar",
+        "author_url": "https://www.google.com/maps/contrib/111120779047341520369/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtC7ImTRNpxUBusDhUoZzxlti87KJDFvC59NA19PZFhoJVusI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Best pizza anywhere! Not anymore! Been getting pizza there for years, has always been good and consistent. But for the past year it’s been either a hit or a miss either way mostly misses. Today was my last time that I will get pizza from three as it was almost not edible, burnt, hard crust with a cardboard taste.\nToo bad used to be so good.",
+        "time": 1735964883,
+        "translated": false
+      }
+    ],
+    "serves_beer": true,
+    "serves_breakfast": false,
+    "serves_brunch": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=5975709421369177067",
+    "user_ratings_total": 447,
+    "utc_offset": -300,
+    "vicinity": "440 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://4saisonspizza.ca/",
+    "wheelchair_accessible_entrance": false
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "query": "Centre jeunesse, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339958.2765086,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2555",
+        "short_name": "2555",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Dutrisac",
+        "short_name": "Rue Dutrisac",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7E6",
+        "short_name": "J7V 7E6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2555 Rue Dutrisac</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7E6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2555 Rue Dutrisac, Vaudreuil-Dorion, QC J7V 7E6, Canada",
+    "formatted_phone_number": "(450) 510-2230",
+    "geometry": {
+      "location": {
+        "lat": 45.4038009,
+        "lng": -74.0362243
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4051014802915,
+          "lng": -74.0351234197085
+        },
+        "southwest": {
+          "lat": 45.40240351970851,
+          "lng": -74.0378213802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-510-2230",
+    "name": "Centres Jeunesse De La Mntgr",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJT8hiQjM2yUwRJlepsClP9y0",
+    "plus_code": {
+      "compound_code": "CX37+GG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX37+GG"
+    },
+    "rating": 1.4,
+    "reference": "ChIJT8hiQjM2yUwRJlepsClP9y0",
+    "reviews": [
+      {
+        "author_name": "Ali Azghandi",
+        "author_url": "https://www.google.com/maps/contrib/111250403420086096996/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB56oXdVCCFljmkYlTmo4DLWNo4m9UXhF7ZUcMTTEHioU6ggM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Some of the social workers of this center are a shame for the society. I will share my tragedy here soon with all documents to show how can be wild a social worker. I wish they don't make a new false allegation again, instead try to educate more and take care of children.  A father",
+        "time": 1695141048,
+        "translated": false
+      },
+      {
+        "author_name": "jenny duong",
+        "author_url": "https://www.google.com/maps/contrib/112370307131657383476/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGoOEOo0jgSfjjel4OaRTKHP16Mq63qE5pyj1QdH5QmDlii_tg0A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "horrible workkers instead of making your life better and helping you out they make you more miserable and make things harder for you and only make things worst don’t even come here they are just in for the money and are not professional or do there work",
+        "time": 1708996525,
+        "translated": false
+      },
+      {
+        "author_name": "Denachenson PHILISME",
+        "author_url": "https://www.google.com/maps/contrib/112372676230533530724/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFUD3WY7NtoPtqDmcduhyOjYYAfqEuQukSMwO2PBwgt8B4HaE=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "They are there for the money, their goal is to destroy immigrant families and fill their pockets, they are not trained to help children.",
+        "time": 1717597265,
+        "translated": true
+      },
+      {
+        "author_name": "Bon Pere Securite",
+        "author_url": "https://www.google.com/maps/contrib/107825564265193778376/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYxbvxSp4RwBURc62wBumImzlhTxTW_KUhxpLpT0C_XLnt-05W=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1683357357,
+        "translated": false
+      },
+      {
+        "author_name": "Melanie Shaw (Peepsqueek)",
+        "author_url": "https://www.google.com/maps/contrib/102136504931396800464/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgpgjqyO-8WHkbQaUSlBgfMH8AAI_BSJqnM-jcjO99nld7RA=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1680315994,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=3312203091430430502",
+    "user_ratings_total": 5,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2555 Rue Dutrisac, Vaudreuil-Dorion"
+  }
+}

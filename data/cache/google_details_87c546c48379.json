@@ -1,0 +1,356 @@
+{
+  "query": "MDI - Multi-Distribution Industrielle, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771337999.4562893,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "suite 124",
+        "short_name": "suite 124",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "950",
+        "short_name": "950",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Valois",
+        "short_name": "Rue Valois",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">suite 124</span>, <span class=\"street-address\">950 Rue Valois</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "suite 124, 950 Rue Valois, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(514) 788-5771",
+    "geometry": {
+      "location": {
+        "lat": 45.3717875,
+        "lng": -74.04070999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37310583029149,
+          "lng": -74.03942546970849
+        },
+        "southwest": {
+          "lat": 45.37040786970849,
+          "lng": -74.0421234302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-788-5771",
+    "name": "MDI - Multi-Distribution Industrielle",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 386,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116802960482265134606\">MDI Multi-Distribution Industrielle</a>"
+        ],
+        "photo_reference": "ATCDNfXKpzICvU4Lc4JOlzZMhTWXfpqhxfc8dXW6s-7gDP6EKaqkFRvZF-w4DhJKh0prGY84pzQslcfBW8Q3PwuCP4y9IvMD4wW7XxRwV0r46Tz-eLBIFmRoiBmm5-1_v9HNcNcUnN80ZVSYnw3h2AMurONJMBDz0R3EepR2S4m3LmgIkE2ZXWVijgX-idNKW6fSWGXVfeAfwwy-7H87Cvrr__gYD8e-5yqDQA7kXiPceQVZtiAwDxX5HztfS_fhORFczaDbAjWy95LxVWVbSdvOkcgvznea3_rqtphm8Lyk583vsw",
+        "width": 978
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104615474125811206574\">Jean-Simon Ladouceur</a>"
+        ],
+        "photo_reference": "ATCDNfVMOMeOE21uC_ItNXrRwvY9eC32MwzsgT687L24bTlBaekv_lYZ4rr0nSic6qHm347cKLXgMAOiBzdDbHkSTlrjeeNL8TE-NMo69Ud6qOu4O4_NndlwYrmaXcWgo36apLGSefhQ2E2PSv8Vn5webdbEyoLMjtwEtV3t59UpomlMAiebW8o3l-74xIxEYAt8E8ocjIFUKQZDzJ3hJo7tH9cu8zXJ3BYmioHd3Ji3t0FZRI1IzTf8z8cO8Ni1LO24OzrB74VWRdfH0mSjH1Mwz_67Qbc9nvH3XnEiu8wSu6B9p_ctDV2Zgob8vxUyiyUVY0oBnBX0FtGWkrLqyp1JXJtvCtrGD7wiGI8hhBvz9M8p3cVvqo5hb4HWvT0L6--SIH4TaCUUEo-OPmAaUXviwKCo62A3dQBXosnUtqEjfFU",
+        "width": 1920
+      },
+      {
+        "height": 1156,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116802960482265134606\">MDI Multi-Distribution Industrielle</a>"
+        ],
+        "photo_reference": "ATCDNfVa3Do-ZbHt5VmsQbhdUW6ngcIErltaNPXoyMOp2K4_LsDRp9oWZ7hxvvnF_BHHzdKcKkQkcQp2OOJHqsLAFT_-wu58OoJ7SDg3FWZh0GcTOHTJa4xTNm4dCxio_woM3lB9N853AkZVgcsKLRY7zxGT68uq03wItkS21tiYl5pM_DdCbVsUgsV-FIAgbPhPeDkCr6mJJgtTLA6p_m7kItOz2bqnaIMq6fvFPZxnglumdKr3Pw_7HbWoir44upUmigT16ONsvS9dCatUk6s4BoKHK_laL6fFJxWMs_Gs1BRF5A",
+        "width": 2048
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116802960482265134606\">MDI Multi-Distribution Industrielle</a>"
+        ],
+        "photo_reference": "ATCDNfXQxJ1Ca5xIQq6zc43y3Tk7r1STnFEdwvDRROhn0uVcnuuCEZ0QKdggoLPiUnT5tgto_i-uwg0VZux03xzwTcpV5CPVkjkQRsnBkhIAljlH6f_KYktjSgXw04u6Jl4cpOkmt_9R1mxAERSkEQmHeMRmrbR4ccC82eGFlGCm2ix6QcvIlf_QFCPSWeo9G5TeG9k2YsY903fAUN_l_XAaUMWpHagueZwqCXwDsvCU_NtyZlIg4P3-ede7N1-WLZl1Wy68cYLFAfJ0vGTntJeshOvSLxIVb6U47tEDQR0LOEFoTQ",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116802960482265134606\">MDI Multi-Distribution Industrielle</a>"
+        ],
+        "photo_reference": "ATCDNfUDvzmY5bwxzuZRPZsoHhlzF8DC9Vx1U1wK7_OJ_WpClLjd55m8ym4j3I6F0LcwTOYIloJs9wfciVCMrCydzvL8T7X7yODCQckm2sko5mkGpl9kwUNMQFsvQPCUijSe0Kbl1ptuAfbk8p_MvtpYLdcD0E_psf_jI0ES1cG5TLO4lccmPe5A4pMz8YFkAwpTaHHJig-Z3XRvZiFYd2WdQ_qEAtXvDpC5N1xPpSVWOCOZTbSQvCp7Nyjz9AAB0kjfMrJuw0nrz8prLN8syrWnevBmlMpPkcy9ISVMS3NL_EDp-Q",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116802960482265134606\">MDI Multi-Distribution Industrielle</a>"
+        ],
+        "photo_reference": "ATCDNfUqe3NKTlPLetDueOnUKOOdIiArqSd1kfrHdN1lbqgdoCWMfLDTgsC54zyAV561Fj1P7ZsKOG4esz9OCxf7t93-2dMM73R7AzK_gqaEGEdyanJLeQEH37Kbgd-dg1uGORK-1GZ7v5a0FToC0scoTullxf6NkY1EgoC7tSql_uQeWrSLmXKkwrxDC6NUeRJHL-SdS-lIov7OZUh95EhACewgMgn4oco9YzptHRHlr5AAJqrFycC97rUcBRXo8azklmTqN_J5K4B3UErEyQA_0DRfVtGiJyldJcyMc07TgQ-mMg",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116802960482265134606\">MDI Multi-Distribution Industrielle</a>"
+        ],
+        "photo_reference": "ATCDNfUR8Nk5Mn69nFYNS09g7lQDmSPhTZnWyEtWup4dp4S2O3aCj8VUba8Alr31DmcWrNy8TuvS1cJZnihzuNa2ngxZhh2dh52jEPHz13WLpZjStU8fOxnpOiJkkUYqwzVzXtCvD2WW1gYCny76hjW0vlCnh60c4b5yOdONSCTNzei0NnPzf1qumEfnLtbLMsFWoxxSBWM7ZGGNk6DIZv-iCPSeftJRnuq1KYryCelWhVX-yzClV1zDVjkslBeu19eTDDRtyNSdaYrDtg_1Utc3-_zASrigkHM8i1_9Cml9BXDyvg",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116802960482265134606\">MDI Multi-Distribution Industrielle</a>"
+        ],
+        "photo_reference": "ATCDNfXxzCLD4rRrWd133jQeATG1jfF_RbIyTdhLQjvHhDJW2l79Hm7vxum3f54I19tL9Fq0jRVdM1ZjEao2nhL_jkCZJoVMqncnYTTqUerZnxBSbI9yiXqOJHurBJqbr_GXJGuDJVY3xycCqpQhEeIVofMn_6g3g41WPuP4BcOhcLJhMfYYEh_gmg6-p-leVoO_eqTofNBFSTS6AlVvriauIc4TocM7QD1y6VjgWy5wydj1hBMaXrY2h6DH0CKnHCPPxjbhc2d_8n-oMCgWOtR-43j3UwhhCOa-xm-ctCz8G2wOhQ",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJHahKe_0XyUwRrLj31LAN8iQ",
+    "plus_code": {
+      "compound_code": "9XC5+PP Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC5+PP"
+    },
+    "rating": 4.3,
+    "reference": "ChIJHahKe_0XyUwRrLj31LAN8iQ",
+    "reviews": [
+      {
+        "author_name": "Lod Brock",
+        "author_url": "https://www.google.com/maps/contrib/104986994140857389837/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvJk6k3WrkDxMCdieTVX2qAaYj_uy3qI2gv5Q4eCmo7NcaliV7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I highly recommend it.\nNo delivery delays on complex materials. Courteous, yet serious and professional service.\n5 stars",
+        "time": 1556552928,
+        "translated": true
+      },
+      {
+        "author_name": "Vince",
+        "author_url": "https://www.google.com/maps/contrib/103997343940533630441/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSJZvMBxfEDlhxEtnLylrBPA9Kn_Nt_DUl_MZlfXe9OA9f=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1702330557,
+        "translated": false
+      },
+      {
+        "author_name": "Sergiu Mihaila",
+        "author_url": "https://www.google.com/maps/contrib/102763986951222822406/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTTjXsyEdfI6WLMuGEhBI49gXDk1KRFPRbqURfUDixc-h5vfPX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1563331320,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=2662205382867794092",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "suite 124, 950 Rue Valois, Vaudreuil-Dorion",
+    "website": "https://www.m-di.ca/"
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "query": "SAQ Sélection-Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340357.824153,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "39",
+        "short_name": "39",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">39 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:30 AM – 5:30 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": false,
+    "formatted_address": "39 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 455-9347",
+    "geometry": {
+      "location": {
+        "lat": 45.4114176,
+        "lng": -74.02935149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4129271302915,
+          "lng": -74.0282860697085
+        },
+        "southwest": {
+          "lat": 45.4102291697085,
+          "lng": -74.0309840302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-9347",
+    "name": "SAQ Sélection-Vaudreuil",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:30 AM – 5:30 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114533629603123897770\">Walter Santelli</a>"
+        ],
+        "photo_reference": "ATCDNfW3LZej7e8sjfEvLsW-jLiseCY-BYKP_tawJyM3JtsRnLFXHLvSywcQ-QgJXjbHDi18LYagesYV5obWOtMCw3UBkGWP8wH1xHww3zMN5vMUdOiIlMgPlLWBAuMOqCrahC4PeGQ7DrcgKtgQw6BSGUQsxcZriMUOj2AqnH4m20QIQ3Q8uXpfoU-q06jr7lSTwnGv_L0e0v4Jrb4Yfv2TnH51N_3nwHaO9vaZiT0Lh3FgYkrnehDv4lLUrC8PZGw98L21ww_V0W745bwuG3TMrD84_mQ9veVGlm-wkX_pPG3vf859euUJUNKQwnBk3tTSBCaifFPvG-ecD1u-QD8h582ahqLmKYVYc-hqDldwYAwAh7EIlqLgdtWz2DGAp9eMdEUxOEIq7hleLjn0LocR6EDpmRwEPaNTH47rOF1xR8E",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111470001991469887121\">D Mercier</a>"
+        ],
+        "photo_reference": "ATCDNfWYbx7VbsqE10yG_T_hNtC81RryZ1MUcHWQ4aOXqnaGzJLxjY6bM6LQu_5WQf9M-7FUD3n7FK_rxgADCWV6x2kUVxK7XSwOurfiYGobXpPURjWVAIRfVS1zgWIFLfkqjQ9ZXFqn1apXyNuoHy__FMWrr9kVpHwIbfh5RVwuwc5nW01gteJxerEnSXC5SzjX8zEqrNd3MTBU7vPkHwZ2B-oh2WbCLnZAjjT8xKkaJaK6wZ7m9YMek5-OmlldTB39dzYtXnNfsSW8cGDlnek-KMCmRjoIbBpK6mVZgkmX0jv8tvqkYe5Yd7i4-HMAtEs24Dvr6ScudaaZZZS-YWAIta27Nh8kAs2Ssim8QAYZzK_uSXPvFXBBPM3Eso_r9kEB5pWMMF2ddHVkbXYy6O4ghNIR_j8tfRIWi_6hWUgrV-hXi1Jz",
+        "width": 2700
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfVbYrOpYN_hAvWkt03QSnSpGCIlAqtZjfogvSPw4Gr07ER8vmhidGi8cqMPxCnsFwbow2ddkYL-MytatDkpPXGNtrjGVuLS0-LRXcGQCg5QOF2SP5BDNm5NaHcqgcSWgEIjdLL1DJXRiexdBi_TMucrRgExvbmNgF5g_sVluWFnbNQq1ti9pYQYlQq_3PMXoV4tP1cy5O5_nT3pk3F9W80jM2HA84UAjDO3BQVr_4pusj6jcrrdO1Geop9EzC-J6AJCwhNaKK6Q9HMVS7jlmqU_tz3czu7-HJQCZvgLVSV9QXVixu0yvvkX3RNmXsb0D72PGoWKY_x_yQl6IOc3x_ASPcxv2HvmGaKdX3kppA7--mZm_N7Z2oByLqUpXYxdumJcAcs-aPIX8bxknbbSVyVW-r2cZy9XD9MB5rlpLijdhzEz",
+        "width": 4160
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105563066942476131414\">Christine Farmer</a>"
+        ],
+        "photo_reference": "ATCDNfUWvdEBmvOIFdG1soL5jb6uLEdTbTXkD0FT0X2q--qbmSrDDkn2thRMU6rfg0g9fWI7vKm15qEaq3eUXDVPB8y0rJnKWvAoDKULUmruuuhwpxhHbAhj2cdbBQ92eLYbpDaMLE8tqWLYBtR_jU6_uuT4fdd5pq0ixBJ0EBfTrxq6HYYaITVmBPLDP24nJ0d-BpfcEU-88_MHG-7QXkR8Na5jQeINNEBgQLzvfEV-3c0ObC5pBvn-c4piOTnexL4ZsFJlu4AaW3qbP54nXoBo04mZitunVkY-TSr-bfkm6JJ86iaCKSZvt1jCMIW9HAyEGk-lMh8z7dqz1BNGimaEMOswB_TU-dM-hk2wwvWL8-OBkZ5jKYNsyIeYRPkKpbmyyACHgPoEY2B8_RgWDkJ8dkgNsRK2h2P3AFCS9HpwPC3FuJUQ",
+        "width": 3024
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117380238095993193901\">Candis Noble - Courtier immobilier Montréal</a>"
+        ],
+        "photo_reference": "ATCDNfU9tznMRQdTO80DvO-4x_TtRvRj15GXpUxdpOvWJ9RPWfXJhIZVGV2jdz_xtu5WMng-pYRxWZ0SiyEXo_uyOzCTklv6GFZ5_kYT10x3WAFoTd_6jUi0uEY38NEkellodddhnssK7X9tg45zjahpgVWxn3wE0Ywl-oP-od7h5NwRS66mV4l4_1aPShvhYx0SptAaYNrJeH2nj2UA4qu7qFvwyxII3wjZrHLsELtcpV7QuwQGzimEkW-0TGX1WS0zhYqeOl7TWeuZIBSAn9rcByedPUFZeMc8Dd9jhBN9NK2HbRoshZRMnBtzg6mh4pUclK8XaKSNMhXLdThNu7reEuKIOqCgZ9xSGC9eSrfx2PnO-PqlTawVMm-V0_xtt8yVKET81luQog4oXKGkUBgcEN6b-C-nzUV0aChAB-MZ8dU",
+        "width": 1512
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105906328853026312704\">Etienne Lajoie</a>"
+        ],
+        "photo_reference": "ATCDNfX1fV6r_w0ULY_7KREtrICoQh2Tvvh8d5WODMklIsfHlPhtP_5nXtEsoQArCka4AF3gxrYkhL1PRbsnrn69CKO_zupUj5R2JATSub-iF5stq7-xvPHocJDV4-tpKHw6TUd8MaKzsJIzdkoNn26vziDNVFJHxNW7qmnfA32jLTHyt9vM6_Wz-LoLzJ2y0uaCg4qAyqV4BUW80h-NqQ2G-3kokmOTjVvJS9H5O4k5Hjf18O_fwU-eLA14twA9YSYGbFfcg7yYQbqvYW0Srsi5y8tfE29Vox30rLJQvwVfcHzK4wJi5etVKvpTKcszIv_4MAk8So6OyTIhspPOFa8MtXEACtDs_VVqXUemPYKW24c99-pYZDB8_5AMtMt4yArwouoQsAdwug_KekY9iC-Hz9aCe7HzJIr73J9Om-zxxJ2EO-3N",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfWW4G08HZ1nGPyj876QTE_KNcV1O1YBhfmUqQaDYOTDelJ9dTQX8vpKC-nAw1yWKVYmwEY0jHuugToFdo9HHGsa4NPs3n1IPvDFSzU598BBZYocgj1o8xZig1bIM6zoC7JNif7tVkL7JjSYEcT8pSboIqmyx4lCGCopkjuemXV6CmlFoGY-PZjuYqfOeZMoQWAZ_jSoGNhFh7bteNsYG2g8Pn9sE0rrRfimDUSfCmuGd0Yzzyc2iv2lNGW3yoPTY7JyERi43YVAtMU-uXQrpE4_5Mt6dc_Qgwn3Ihv9H--tZ23wN4N7ZCPyVzi9x9t5miyxm5wdpnGIFk7B3bnby6NjzhPqSxCCfhrw8ZNXi-6Eu2-pMy4672Mq5bZMp19alQTx9KmknDcdMkDhcQcPfgaRTXJ6elq73s6ozhpVrydTsg",
+        "width": 1920
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117380238095993193901\">Candis Noble - Courtier immobilier Montréal</a>"
+        ],
+        "photo_reference": "ATCDNfW3NLdq7khibXP7f1_BsadjVAU5n7NddMvOEy5JCwiBsNZ2CJ984ybYFBS0sFKrsneO-O51g0P6HwHsbpMPrEYnIaIavbGIggZW7InyYnkIbugAk2jizQ2yNic9qS6EqU9iGUp2N2IkT40wsz2bLekMaL-3ZGoT_wuQPpLUo0Vslhz0J1Hx9yE7wpwgVbSbcwdI8UdR05kfFBlpaXylKWbOpLci6ddDXuMAcUXK0RYLqSjWoyDct-LU7SOHvloYE0p32plKmujUdPA9joZm5cuasWYyvvIfLVgdDW1bpU7hZ-46gQzw7vQKdRLeHyA-HE8_RWo4qVI45yMT8OOUb-sWG57YrsUqu1fqzyOVQN0yOlOSs8v9VUKTcUi1ZV0hr-Z4RNMlt708vTlYlimsjc7zYEN8EbQqjhE7va2K7u_FbWFN",
+        "width": 3024
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115472083378448829841\">Kaila Langille</a>"
+        ],
+        "photo_reference": "ATCDNfVivfWDTbNo1LkAFOfaO1jBht4MIo8qBooIQCgmmWeUY5dYo0KYMTSuksaEQtsOfCiiPes6b4uBPrJ6ARopNkEVk2_qVNd_CBB_vucCHelGWWQVEhmv601Tqzq4qnC6Red5jeiXd_jHp2PvgepGC_slq4TV7T5tlLDG2ZzeIRnrmGeOz39zn2k_unO1tQNqHcZEx7Y858IxITSzpjSVxTeT5FHB5WMaVgxAINiKXevTVlD2tycfpzthaOd-QO85XuNExbujk1MfwdAcT4aSf2mH_HHSI8P_pelLAhmFtpm3EZhkodsDIXdaYZxVBOPbbr4rnNNp5ESBj5685xhjRlT-IJjKNSGBK-YPtAX2XQv0gdmxiKQqyuYGB1qeUjfatCv0M7D9t-oaCQ6WKzAjb-SE9AQ-rC8U3HJubVJxzNup_w",
+        "width": 1080
+      },
+      {
+        "height": 2777,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXj-_kpPLVte34bjWvvlcfhLOcBJzWIvh002Qdhr0A5erTejlUBNr64YA-81LcaYj1sjGC6kJOTpXd9x4AY3TsEDRui_HaAUuGW456JovL3rZZ0POqe4QJqYPFfPrzPbhEcG4dR2bM7pPRhlQtuscP8tGlak9MQvyForNEkwTt2OGGuHNQYfJmLtiljuBnX5YyVe_SEbbJ9t_8flNGWsz0SlrPSrvD-o7-omqynOhXSJ266lWQC6iTH1nxJqJFvS7Sd-8xGJZBjUc1xdSxjCRzCUUUmwi82_4oeFXwYQ1X-6bjCUSVKsqHC2sAnfhaQetrFPQa5VL9rSJiUzchnZ5IBT52I0UrrGC4J3xoBrJOAqG2Z2onhhwFWY923-gliYbz9FC90XX4_iCfju2t9qZT9DDroh7HcPJJIrUFv-iNAJw",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJ0Uwe58o3yUwRpHbEBVFz4sY",
+    "plus_code": {
+      "compound_code": "CX6C+H7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX6C+H7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ0Uwe58o3yUwRpHbEBVFz4sY",
+    "reviews": [
+      {
+        "author_name": "Mega Bear",
+        "author_url": "https://www.google.com/maps/contrib/113531208738365574780/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBRLxQPjD0nbYd0WmOKhwbJvHBfmChCre-Wdp56XjTrQKZxG8=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "This is one of my preferred SAQ outlets in the area. Shelves are always well stocked and the personnel is very accommodating. I don't have anything negative to talk about at this outlet although It can be quite busy sometimes. But that's what good service brings, customer loyalty. Keep up the good work.",
+        "time": 1765912836,
+        "translated": false
+      },
+      {
+        "author_name": "Candis Noble - Courtier immobilier Montréal",
+        "author_url": "https://www.google.com/maps/contrib/117380238095993193901/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJmo6apZmljtpOAxs_aTSE_uJM2cNKGyvL7o8zwXuaVezQYOKt=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Always have had exceptional experiences at this particular SAQ; staff are polite and ready to help... even offering their opinions on particular vintages they've experienced and enjoyed. I shop there often for closing gifts for my real estate buyers and sellers and find the selection to be excellent. Rarely is Veuve Clicquot not readily available as well as other interesting Barolos or Brunellos. Sometimes is a small gift of a Farnito and other times only Bollinger will do! Always a celebration in real estate... haha! And I always find what I need with the expertise I've come to expect at the SAQ Sélection-Vaudreuil! ... Hoping you'll get some more Sparklehorse Brut 2018 bubbly soon! Thank you for your expert assistance each time I have questions or when am looking for something a little extra special. 5 stars!!! - Candis Noble - Real Estate Broker | candisnoble.ca | Hudson, Saint-Lazare, Vaudreuil.",
+        "time": 1715805060,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah Lowman",
+        "author_url": "https://www.google.com/maps/contrib/106290382398432907262/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGSB-uZO5gRv2WWn_wKA3FguRfiErdFQDdeiuEglh1doGcQHU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "These folks are great. They are genuinely interested in helping you and answering your questions. One employee helped me with great advice about how to make a great martini! The lady at the cash was so pleasant and helpful too. I am always grateful for such good service in stores because I have a lot of anxiety about shopping these days. Others can learn from these folks how customer service is supposed to be.",
+        "time": 1610221797,
+        "translated": false
+      },
+      {
+        "author_name": "Field Racer",
+        "author_url": "https://www.google.com/maps/contrib/101257358614349687732/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOnfgXEFhhGELu7iXBsGGLbN1fovtvIhftZlmWzc83odDQ3hs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Great selection at this location, the staff is extremely helpful, and well-educated on their products. On my last visit I requested a few recommendations and explain my tastes and they were bang on with a few great suggestions. The store itself is really clean and well-organized. Staff was bilingual or at least the ones that I had spoken to. I would drive a little extra further just to come to this specific establishment. Don't forget your points card!",
+        "time": 1520381448,
+        "translated": false
+      },
+      {
+        "author_name": "Andrew Laramee",
+        "author_url": "https://www.google.com/maps/contrib/115664713202649926445/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWadnzzuoQYh2ksS1dmWRB94mmAmX03GqZV7lF3nHg7nY3qcDv5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Great SAQ location. Well stocked with all the necessities as well as a good selection of wines and seasonal drinks. The staff are very friendly, knowledgeable and talkative. The store is very clean and the layout makes it easy to find what you're looking for.\n\nNote* I've edited the map location to reflect the recent move, it should be published soon.",
+        "time": 1656417634,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=14331143756072646308",
+    "user_ratings_total": 360,
+    "utc_offset": -300,
+    "vicinity": "39 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.saq.com/fr/store/23209?utm_source=Google&utm_medium=organic&utm_campaign=fiche_succursale",
+    "wheelchair_accessible_entrance": true
+  }
+}

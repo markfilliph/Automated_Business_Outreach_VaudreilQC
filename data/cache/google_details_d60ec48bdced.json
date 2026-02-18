@@ -1,0 +1,401 @@
+{
+  "query": "Le Carrefour de L'Espoir, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338546.599071,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "73",
+        "short_name": "73",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de Lotbinière",
+        "short_name": "Rte de Lotbinière",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1Y8",
+        "short_name": "J7V 1Y8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">73 Rte de Lotbinière</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1Y8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 3:00 PM",
+        "Wednesday: 9:00 AM – 3:00 PM",
+        "Thursday: 9:00 AM – 3:00 PM",
+        "Friday: 9:00 AM – 3:00 PM",
+        "Saturday: 9:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "73 Rte de Lotbinière, Vaudreuil-Dorion, QC J7V 1Y8, Canada",
+    "formatted_phone_number": "(450) 218-3100",
+    "geometry": {
+      "location": {
+        "lat": 45.3803521,
+        "lng": -74.013171
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3815837302915,
+          "lng": -74.0115057197085
+        },
+        "southwest": {
+          "lat": 45.3788857697085,
+          "lng": -74.0142036802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-3100",
+    "name": "Le Carrefour de L'Espoir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 3:00 PM",
+        "Wednesday: 9:00 AM – 3:00 PM",
+        "Thursday: 9:00 AM – 3:00 PM",
+        "Friday: 9:00 AM – 3:00 PM",
+        "Saturday: 9:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1021,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110661896415287662502\">Le Carrefour de L&#39;Espoir</a>"
+        ],
+        "photo_reference": "ATCDNfV3-gazpj-xfOo46XL2XufxjmgIADuplOQz6yRT8k_xIfF6CXzAEcjyAoST2XYRBEBvAvF66E7Q91KtR_7ByZpu0xRU68vsx3KyHtkRj57xs5HdjT343xJJd3oLwPj0bbwLZ8gEREx8wtxG8c_JTNPUhS_8SDIzW4hgeJZIt9rcxIna2cqvxpHicx_9SHA-lDdQRbJGu6TX4edAa9HTauOYCT1IcLR9FGa_2nYx4u-HE5kuJ6o8vVdCsdWOdYN-2aUiK5iZ9t45detEi2kJ3yytgSyP9s9hfDbMLJXOg5Z-Iw",
+        "width": 1361
+      },
+      {
+        "height": 1068,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114736615493241796664\">Bob Rozon</a>"
+        ],
+        "photo_reference": "ATCDNfVwm4aepWH_VIkVGoqT_LyupG4GSzGbOqJsm4aIxd2cf9OMbuAMXF4BG0jNYDtSdyAZTPiOdtAZT0XuFbjtQuT1eCaV6HgK2qlJf7cab6U5ZQ2PhFqdEveYNrfoNL_DkB_SDGkZjC0WNuoI9ObL8n8CL6TZr698jX948LleTMv-8EHU_AMcIeqwET7yADkYJdR3EiZBT8YbjmQVy50TFnPA2pHmvGjecWKct-GaCritwqmrMs0aqF5fwTRYHJzXhSTkWkXFn6j7IlGfTAaEg-V396lR2Nu-pOucINlQ9IQkMr78H2tWZR4xlGzusqFniO7CGDqGIwb9hR5HlYGe33VE-zzqgSBpq_g2ZWzVYnfowPYi-uNyve1q4ztSRoLjc0PatCmVuhASHKhCxDMeqFNbG1Sub8kToaKxvuIaQADOvQ",
+        "width": 1600
+      },
+      {
+        "height": 1632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100738662282757045027\">Nathaniel Yong</a>"
+        ],
+        "photo_reference": "ATCDNfW-hBxxz_u0OxgTSwnYOjJ1sQi8Cg3WTL93XGWWwkDnqJmQ6tKj02ToIItx9NDsSDHA3aghc9W1YHWrYxBYeGHScldSiv2egrl-EALBx2ULYjJGrSnP1Ck0GU4PJwGxW_Xv67V3kwp2e5aEtnqMmH9B8eC7QjgcNbTjv8JUMRY4eDo8qZD-o723M5z7eeHtSbfEUcQvRylXYMuBplLz_NEV5WCHxAm9kttoNTl-OR5rGrxbcDs1Opl8EqzL8nnAZxviUNd9Tcb2TAaelSxcI12zYPCepJqME4sUmGDTOhbjDcKLTFZnPrBZVldwhkJ2xuq3eUtsX3LyxOCzPLdYh8oSH63lbSCeGcQvVuABTdaRehQtnJ2kM-SPkg5A6GqGicPqJjYBJSD7v5X3QrqNZLaiyF1_6ujJox09JS7PYZlpGLrh",
+        "width": 3264
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111900485484158659939\">Charareh AF</a>"
+        ],
+        "photo_reference": "ATCDNfWaHa-Ud6GtRl1xzmJQFBAlc6dXtpy-dSGuiNoWjqOK1Z3xfsVVwmgC2edAvufvULYCQXfl6OhBWs7YxyQcB3fub3QYCjcvdLdkcEryMvWDV9jyRo9tg-ekdvdiPvas_U4bhJ_RGT61pWT3xhCU09trEdHIekud_axhgGwpegVbJE9EvOE_OjqLYC7cOzP9eNoO7tzbH5ia8jd8u-x21Yw7ECiMsx4sVY_X2vu11JC5TUgLT5_bCwdAANFxZbZcHMscdtlv_vYlD9doTdLCb1SASTHU1xINCMxfgId_ryOUXOCX_XzlVAQgI18oEaaQLDm_z0bZnz-MnddAYK6PubSyL4zZXqVOlMkj8e3PHRXiFC4jkjHGExgvD5SjZ7n9OoPYCDFwmIRH0wyy5EKl3Zx2-7SI8hpJo846PzdGV4fOY81E",
+        "width": 3072
+      },
+      {
+        "height": 1632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100738662282757045027\">Nathaniel Yong</a>"
+        ],
+        "photo_reference": "ATCDNfVyDb-vB2wzEzc6mAsaWAmglEC-dD_I3j4b2o3tOjVyOmLEb-FwNaLpNwVTs99H91eJDQZT3UbPiC4IqtxyVGCkDJ96P5805ehBQ2yOnNb8VCF_Qj576XF3lRQOKpbvPqBQ2X8yJMNQxTk3nfXrpdmdQCUr5y0TdkknQn7S8CY9rqldzVRJQWWPNjceqmaB7NPhW19iUUX7s2TEXbn0dD4Ee-chpAphXklh2g6ASz-BrZH-B7Eg4eWLTEqpyuFCI46diepk6lXlwl1t5XNccEH9y7QP5M793K9siLXkBjxJtqr4SsJHbDz6ubMaZgbYYVQn3ad-1eZl61EdHc3hEhvToKysI313RJlhHs7nFRPemrdTIuecJLu_2qfKa2sXAUXMskwwOq31XBqoYJn2TKUJHo-rfRfE9VsL_6LF1LXjqZI",
+        "width": 3264
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117798267602681196089\">Eka</a>"
+        ],
+        "photo_reference": "ATCDNfXie_AQ71gqc83o5jd2etccqr9UAxPcXJt4L9oYkW27uQqv3Y3HheH2SE-ohFAc3-fBjAaXyss9RK6CB69JARILAwO43B0PfEfs6W0yF0taNR3HBcUziSo95-yoOdvgrOFO3a2f3Cg-GpK389DHgfzww-0xo5ZAaWlsy9MfsBgsz4NQfEAkBNO3qbRnWnVQ74N-TwHWhnMNomvjBGNDlk9I1JcQzvVgCCfqpez_aTnGtzSOevRjG3MvkaZtXNdB_tuWFX0CyutxevtdgQZADkUBXNhRirnjoHeC4NcgimyWhPOISdN07PzVouqjkjCX5-yIX_HCHnDLz-M6WaGlPZvBAQoDyJWQDTyLngTPZozD7-xv6a6CXfTrbmiX93iRqCLVPNFoFYNtmmmAxgmgfoTqUTnaGETVAciI9L-8K5oVaRzhYShwHWgmAx4TDw",
+        "width": 4000
+      },
+      {
+        "height": 1068,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114736615493241796664\">Bob Rozon</a>"
+        ],
+        "photo_reference": "ATCDNfVxbC_QgcLbJKGBCApPqIfRiFCQ0OtLxaoCznhloWZNKI0RBXmcgJ-lYQLrRUAYTp4NRTOb0YYXIL6UC0K1omhwstAUjZgFWQwPWZ_Xaduud2IisN4_gFFDWHaJmumw7tdHSHVEok5ST0oXRcfaDpM9pom4l-jzfHjQ503LMJChQ3M7GkFNy1EyYInzIAFmYJ71NtuxMGc8Qo7-NVu4vqULgowLQQAL0Lz1NVMVrSQRZnrVAxiF-ZPAKiZ5OD9tI6p5mv0ILRZP5RQPvnnJnHlRaDybyGV3xNAqiTCiz3U4XOQgVY-I-6lCeZQ7SyYeth6TnRzJ35DKGzb24Sl-YfTtDEzjsvMyrsnZr6xTLp5m4olsIScq6Kp0ygoBFet3ZzoXDAQeiCG5_3oYQj7kHtNXCKLzeil8kx130NbLMEx6tRJX",
+        "width": 1600
+      },
+      {
+        "height": 1632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100738662282757045027\">Nathaniel Yong</a>"
+        ],
+        "photo_reference": "ATCDNfWJ8iBXUFKXiUu5ZXXYyvqEV53dMjjUeyGP0LLvSKg2D7pwa63IOWFL8SHMAxXsRAuLOqUuDCpwj7mTHe_ZBz5ObTsWcs7LMqL8wnR25NHtU04RLldFzv-xYIyYeuycY7Wgf5uqJt9_TzCHf4d2vdFmB7aOOhKkrnAbXPIX8C2aeffzSakrAKorYriJWRUUH5L0W31ksE8C0cuKB2FROYQr7Uspz2ZKS3bl8Rqm6E6vQPA7hvKI1ZBTsHc3J84OJo6PXwhttkojIDT1jMO-nNEpA2NATGFXqJ7LSBKVpi_rJgoHXxDWmF9G9Y8t3_lJNbeG2hwPnr0xfORsIuqe_n6Ao0z54q66i91Vzii7JgXUmpcyhs-v9ETbWEmbkZzMCbnwOGJVjPBD4JqTuParw-yyQzDr2LlpQCLsyy4lEHIgaQ",
+        "width": 3264
+      },
+      {
+        "height": 1632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100738662282757045027\">Nathaniel Yong</a>"
+        ],
+        "photo_reference": "ATCDNfW-0dJELWaun5wVMgh33Ruz_ZJ4BmJ65gyOV_UMi-MnpVlL36ie934CW4avbo9s9XTAUgrIcvO5sTltx3pYLdp2iscN8Ia1IbFWm2VuFPQusd8qCavkmrM28l1-q2c31vAv7VSkI7ksYkTUlsl3ihsQDyLFgd41kvqWYS2rDBW1pnSm6n-py7iWSUMesr7UoS7eHFOV5opk7y5phlTHR5mmjl8MDFievb6AGiXuPOK9r9HlDMDXYJPEhBJ6uYf2--8u4JYvt4j8H38tyNaXXor5ff1HDbt9VWQ2D05vhnsOcIBggp4WZvxGMkgHZPGlcv_o9FV1xhsqPx99QfaIO_4i8A_wX9C0qdLgQsDEZM8hNODvW_R9GKfv6pmS6pMyI0PZm1OB3wvme6YUpHfTmke45KIaUAOCpTanTLcd9HRXLbof",
+        "width": 3264
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117798267602681196089\">Eka</a>"
+        ],
+        "photo_reference": "ATCDNfX2p8Zs3FbTNG4-83RvGRGcc5ESN2QKLtOnP6GwzFknFN8Driw7ow4eTyFb3DRF8gyHrXM2hQ2KcXkOrPXfBk4PtKwTxaJU7SMa8Cwg5YcbFqJSnDj90AeWpcRyDqZ1351LpfckJnf_GuyOWYhmODw8vR4aLLCtQWCK3GtSyJwYEhWRdd71UyUci2Jk1FBydw3tR3-MUa14rL3eRKz7QevhTtvEfqVuVIUVbN7LNeq-MCrKSYj2gnzlPk-wP1dLDx-sCs-6B2bCcVPT3uafIPqq3O9vrJeSUW8D7sZcK9dKYwpgR4hr81F7jYSAPFd24hlJ2D5q_28M62INsmeFUwVC2wffP_gVCTZJPNIkloDip6nxy_MPfRbdcfLhs_yI7WK6qTlhaM9D2xt15QtPO4rrTtrj9l7-x8me06QgpwRRgDo6stqO3Ehni9zPYpo5",
+        "width": 3468
+      }
+    ],
+    "place_id": "ChIJ8yGRARtIyUwRzsCOtGRiWNM",
+    "plus_code": {
+      "compound_code": "9XJP+4P Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJP+4P"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ8yGRARtIyUwRzsCOtGRiWNM",
+    "reviews": [
+      {
+        "author_name": "Annan Benyin",
+        "author_url": "https://www.google.com/maps/contrib/116528618129954258855/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2H3PYYbZ70IRMveQ0CViApGWmgLKQUMspxrUHN4gUbtmk5Y8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Good items with best prices for my bedroom, kitchen and Living room 😉👍",
+        "time": 1758917749,
+        "translated": false
+      },
+      {
+        "author_name": "Gomer Pyle",
+        "author_url": "https://www.google.com/maps/contrib/106800120944444139956/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtlsGEqHk0FDpYFyo9xGZSUPVUHc-uD3R5Hjrnp2lkBdUlHgjQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Pricing for older, used fridges and stoves is criminal here. Go on Facebook marketplace instead.",
+        "time": 1757531701,
+        "translated": false
+      },
+      {
+        "author_name": "chrystophe veilleux",
+        "author_url": "https://www.google.com/maps/contrib/113153782595327071064/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKySekxTd7iUlsmqK8LlqKf9s4CyMYYWYxmTGKEG5MSDY0JTk=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "A bunch of liars, incompetent people. Never had so much problems with a store. They delivered 2 wrong things out of three. Wrong couch and wrong fridge!!! And they broke them... the handle and the couch is crooked. And we ask to have the right things, oops too late they sold them!!! Bad services. And they lie to my wife saying I went there in secret to change the fridge. I mean, we are not rich. Not at all. We try to get some things that are okish for a low price and they brake them. Never again. Never. Again. Please if you see this, don't go there. Don't encourage a bunch of cheap a holes.",
+        "time": 1662318924,
+        "translated": false
+      },
+      {
+        "author_name": "heather crowe",
+        "author_url": "https://www.google.com/maps/contrib/101927235088132351850/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6oOtveFIelQWFPV3gYxjl3d1zNgfp42K5h58TkGurxfliiIrs=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "We scheduled a pickup and were very satisfied with the service.  Drivers arrived within time frame and were experienced, professional and pleasant.   Thank you.",
+        "time": 1709874326,
+        "translated": false
+      },
+      {
+        "author_name": "C D. T",
+        "author_url": "https://www.google.com/maps/contrib/107044090902052343590/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKASnby2q9H1gb2wW8cBLQkt4lIn9JaYAV3ozP4HDVftxYDYg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Worst service ever. Called because I was referred for aid for kitchen table, chairs and sofa for my family. We cant afford anything after expenses and the lady asking crazy invasive questions about my income, how much I pay for everything, my rent, my hydro bill cost, everything not relevant to my situational needs, I cant afford anything to buy with two special needs children! Really terrible experience on the phone borderline traumatizing.  Makes me sick to my stomach. Lady knows I am first Nations and was probably being condescending and rude because I am a single first Nations mother. Disgusting treatment.",
+        "time": 1676137985,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15229030324618838222",
+    "user_ratings_total": 142,
+    "utc_offset": -300,
+    "vicinity": "73 Rte de Lotbinière, Vaudreuil-Dorion",
+    "website": "https://www.facebook.com/profile.php?id=61556923424497",
+    "wheelchair_accessible_entrance": true
+  }
+}

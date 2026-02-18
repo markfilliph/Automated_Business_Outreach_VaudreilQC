@@ -1,0 +1,312 @@
+{
+  "query": "Construction Goutalin Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338650.064048,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "51",
+        "short_name": "51",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue du Rocher",
+        "short_name": "Rue du Rocher",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 0B3",
+        "short_name": "J7W 0B3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">51 Rue du Rocher</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 0B3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "51 Rue du Rocher, Pincourt, QC J7W 0B3, Canada",
+    "formatted_phone_number": "(514) 995-2380",
+    "geometry": {
+      "location": {
+        "lat": 45.3816453,
+        "lng": -73.9707918
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3829602802915,
+          "lng": -73.9695463697085
+        },
+        "southwest": {
+          "lat": 45.3802623197085,
+          "lng": -73.9722443302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-995-2380",
+    "name": "Construction Goutalin Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfXV2UHB4xpTgf62BjrMeDsCEK33-xl6kVvYPZyLHNTl4q_myjiMUGjeRc34s3va1D7w7hiFq5BLCvoLv1swBQOGz1ElN2GszgYdifC-tsa9AJ6gpPfJofjQ7PDsawq7zsSAGcOarllZKU1JYt86CIQSl-NzHsw3i_tihCJXqRL3Y7V_Kc4rM0xTyRykqltX9XCmarnAldLzt7nxN7V3IrRfBpk6K1NuIFEkues9ywO-s3YbjIbm6Biwxu0ITofWMLPg3gOzVIYl8lvNd4hlrAVOTh9DwWU9kqUp5u0gLdAgoBupLO3NQMmvp4heUTflKzOejM25qpfYMe-gif5iwvhqVxSEzA-mNfNeS14Lhb4hE-n8_6rKVknDuTnWHnQ3lox7w7MhWfM-SE4mi0IcPioCi6s0paxvjf_n7WQbHwp32T8",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfUDfex-vk_91szuvxlyIM18yY4imYAd9OhEPS3I2VUL5_cgW74EKsruIQYmR-1MftGYUBI-0MvPpVUiHM6WjlX2-Zuew3-eX0a_aRoOnprHeDPy4r577suJbVL3ZT_QqCtmY2mhjn0Z-awOaU7E7tn0CLpuQEH9wfIgXMan6fEMD22hpYiGEAmBlPCt-BgJlPMQ-FUvLMJoFFIcqb7FLnDtkiVkIn46_W54WXePomTLZwAszYQO3wae9rHRiFOVl2lm6PPIyGcRCkFCDAR0XMNX88Ub9NVChd3_dOM4RaDSuw0OglR9bUFu3bANIbcLWVQWcpRslrNvfEsBGmFNDLRXhC_oNRtWaBiqLt5v5iCYuEyNOuendoSdsmU-IS_HOS8ZyUzz88VxU1cg15aQ8aEBXBwYtXkGnmq_m7AcqOhnh1g",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfU2gcHaOi1CSZkJXeCaOHvVyJsOAYdcfoopz0LKKBP8QTHILutdT8usHzCU_vJY1rI2riduqdB1hjGI54V36xVMhgu-ZPih99-F04UnrGczFJfxs0LV2blisrA2XEM7XQujXXqV2WDCn7LgRMjH_OMWfJFUn3C-GkLAS6UvFfwg-W7GV2UEj42N3laWAVXCltL7340re2qPNEbZOM2_QhIhmLPMV4IQjama33F--bFYpPtOUzuEg6SoVRnNUSr2QLCyT2KNSf8ouKRBwrczI7Q8535sIgbaXmh3IJVqI7EqV5RUB1GkJZCnOyTKsQ6QCfA6s2EYafm2WUTgxmrJ9OuzFb1p3eNdDng9o6F4pRkvrcLTTWU36n7wZhy34UADpqC-IQQgYCcIGIa2SXgkVbi0PecZ_HBBX0exzMBtiO9YtoMy",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfXGIfxRwXGIHDKHZeZv12T-tLmzIuo0IIu2d6pL9jDJhp__-VYqoq7YyX1l1zfP3jDOAzpN7mU_kR-y44J4r8FsRpCDwlZuIXrJ4uTaCcfaCbcDkQs_wHj79wQCY5CQJodZdWmXaaoyebTa0KxEpfhyCpZyR0bricz-t9vF8gidenxUvuxzWQuuVxc4E3XpPzwB1KfvWIHhJU6s2o7TwlZwX3DvvwjNqH5bQ8j_r2jWs6PK5EHFEYwWiHqC_ECi2903tWAdpbPi_49oHWaP6jZM2S1v5vaukmA0F3n63qHzoSbHGLweSK4bUP7poKNhzjGz60ot2hK96KTtkP13WjLmp5-f_W9nbY9s-YZYBnW8nKYq1PqBTrSKYwQjvDtJttk4mYzIdIkDcxEAF57tiWiwctphxODfvfbMfG0r_0HpiZGP",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfWB7sAkz-KQlFZvdmaGisqGITUZDxyUwmFyDJK3XngC42E_H5EH1qJndiEG3iu1aLs-WGMPaHK8RcHzUBmsjwhaZYiMu4vl6nklQBA5VVNs2PtRmTyY6rwiB2_CB6qQUMPOt2qezKe-pf2NMFa0t0-grerXRKYiAa4saOJrUEruXj02bBSYxS7tdRiu-jqH9w1wGYjHHTAsU6aiGrrebXSh7CFMNwYmwAqkAQOd5h8326nL2MSbakmRuAIS1kORM6XTE4DrVn7igJpCbw_ig37tZ_dgUHa8ZGwZLkV3Im7KikSDlNLYctidf3cjU4HEl3-RMWhJgGuRWWqtyfq0QDn0lpfjVx5AMRjIIfohPLzTAeok-l6YfD2EcG5nQOihYNMGMbVyOt7J7im-NkhiFVyUaTce2cwzLuc6Eu-7q2bKoR51",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfUG2wOBZ4Xr5GPcwPRn5xKRmlKzOwryt0dLvkjXchpCMzUXtCgs75dO9m3vYWsOD6x2N5lnR3R-A3AzInlxaoY-1K7krE_uUBbZwRN00FzxMVrajRIqA7Uz7YzOkKlylRKeUjxxyUnMM7_sGEh5jQMjHqiJZAal0jg_UXIQQXxB-fw8lNVt0NFKiF7t05xMWa50AkIG_yoSynGyHxDnhX5QB14HVXrXpBDP1wn--Egz2x8EEVFl788ElJWX5o3kVG8W-cC8PmCewrPSb20prLXzK3ERIKFNixuaVr39yCyjnBHANWcszLeILofMatHfFuSBSSbedexhmMfD8DjWPNHd8B0u0B6IcKEJFTtHhp-8LPstR4OgljUcxPJj927dgd-dzAVYE0jsTClm8Rz7442ie0cLLVnQbOPl5JgAWmLBHu80",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfXke4EyNxKLbEhI3RfJT-hb77IwtTnLPerzmvbd5lGVI5NidtnxRgsYGz3Jk7gB58dzUMbpJ359nnusTdEx4vIdjewejWTBRoHngKAVbTGDVZW46h4JZW1dGaoak4MTxDsmm-NVRS3JEbZZJLpgFlNvkjsGUnetII4qZBCYvCosnx0Hpl_43m0suxKA370JgLIxs1ewe51l0GIrehuhoe8Dauf_qi_c4ThPDSuGlEck55qey5oh4CE1rQBWR7xEzVry7luH_4lX1iflZ4TSHvlaTYgF4W79_vzQx1kMkqmLP2ZX7ouA9OC5KtWq299IBR9B3cpLAKyX1SPZP7wTsIuCeLtLfvUVLl0_oEmrpIgTU2Uy0nVrzpDh-iecCaGVwOklQRbKMttQZrcNEWsHmEx2qLiZIMcmsaZU3f7sEGalrujW",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfVhMR2dKJbH2PKaBaD0bZXJ3lm_tdsd9bj8JFHVDM8c4hEXrw5ih73mBikQ2oIUPRPZGqO9gY0IFL6jOwNqH04I7cbsYF4WYCmVWX3m7O4ZKTWMBtNMmrjodMM_DP-2Ul97E1LgClUAIAePyKrJIyc34By-gdIMd0zUEzIOCH6GyFN2mhpOohnwo81ISHyavNRjtIR_4XFL4XYfwtcErWD5hMdIdEz4DLEBsGHOMVT6GR96bf2Wsgn2mbaiMsR5cNOCmR8z22a6NBpggH7jA3FitfGlMzBF7zmIsHTZODx-Vvc5F7tjTONzR_SjI2YcsVS9eEv8gxTZ3pqGFJwnIVkHUPq3auCKXPqd3xwenkEYTBSEY1IvNrlBc1LmX8aSp3Mq0D6BGA8o71GlBpAZDecL3i1IIgPDE7E0MtzPIXdrxhg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJK0OhwKI5yUwRDDkYhjDOAs0",
+    "plus_code": {
+      "compound_code": "92JH+MM Pincourt, QC, Canada",
+      "global_code": "87Q892JH+MM"
+    },
+    "reference": "ChIJK0OhwKI5yUwRDDkYhjDOAs0",
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14772596435532134668",
+    "utc_offset": -300,
+    "vicinity": "51 Rue du Rocher, Pincourt"
+  }
+}

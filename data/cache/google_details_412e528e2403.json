@@ -1,0 +1,393 @@
+{
+  "query": "Air Technico, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339102.9771972,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1139",
+        "short_name": "1139",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H2",
+        "short_name": "J7V 0H2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1139 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1139 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0H2, Canada",
+    "formatted_phone_number": "(450) 455-3100",
+    "geometry": {
+      "location": {
+        "lat": 45.389204,
+        "lng": -74.0500247
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3905382302915,
+          "lng": -74.04880321970847
+        },
+        "southwest": {
+          "lat": 45.3878402697085,
+          "lng": -74.0515011802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-3100",
+    "name": "Air Technico",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfWfF3QkwWKAj4BMws-AY1rBalFiEZt0MMGxjdxn5Q3rIvBPfJtV_gu91zotqis9-_WvnkaAkppmuiZrWf6zG_34fKABJpy_pZO6M2swc0ERQt6lBJnJGXCMh4PqbFEN3GvNnxM5onTf15pjnK94qMASOmFxf0jtOaYSSzzvtEsL05f7SAT0RN184F1L2eGSqYbxm1DXknA4yroqCNhcO6ap8Ke5r1rVCv8nccPpUilLTgJ4824cyd_mJH85NT6gidzpMuUZLrVUXiAA_62qG0Nwp3gjpdo-Foy-KeuZB4F-FQ",
+        "width": 1640
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfUKTOhbRjz-C7letdlaZQjR61-palJMlOQZbGeXqVC5x-9yjaJsnFXkEkGfiKox1qDDADT69hfr2T5hXS72NsF7ZuiGutY1m2Qo-Sqc8n1UFnCTfRt2TqKzWoiTqXj6O2Y6hR27kCyPRBZ_Kzio1FlQtDtA0W_SnqDeVeDk0ge2lUqjD4hoT0UC5lVJg1L-zo4q8Adhc_r-Dbpq7Jx70NShJzC8Yna1fEDadcZaDoPvJpdF43lFgTsizS7ErEgEWV5tDmxK5_gGt_oyLHmiJgfk3L-vmRv6OFAkmuV3PXke3g",
+        "width": 1080
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfVAeOiKynPOsyFnWi7111FefAOsXABrQvwSs-OgmPZOc1ZdZQ3Rr0NcWrpECIACNjgvlsggBYri0OxSROFFP_JD8tb3YJoiYPsY-k2Rp5eV6aDIbR-yRsHeH2zDMdH0sTQ4Eplnyf1KkubDFl1hev3N35nmYTze8Un_Y4TgozgAN7U_wzB8r8Kh8qn9_a5WAFGeGD7f5MChm0FiUqDXlOy-bWBPYsTMWTvNvUBgoTGJyXqRYRld6rZYY9G5qysA-z2kattmidp0zUTZS_-4--W9nkusGRNGuAkmcGK8jSARng",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfVLrjzf2IUSbmWry7D4yRBO6fS4bPYtHNd-p1Usti47TyOpBclyXu_bQWyqgjoLC6qw0-UWRbxeI5E2GxP9GA3gMNIdJ9qSPh1eXVc0NxefSjk9du898RRdtgPl13JDJz5kj-J3wKe54jQj-Fyr2POe2PFB3MkbqQNZGN7CgtPWkfGeA-TLTyeUlvaaN2YHjwUUtYKiuz-NyfVqI3RToiXbfFuB_rmk8tHhtCTZKZy5jvZ2ndRr9-CdcWCnk2-8Blc-71A6NIxgVZ81MZKYP8U6o5BER1KIUqFwYZ7ax85Bgw",
+        "width": 4800
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfWlWnJkaT2xpfzHcmxBSDY-KG7gSBWSDDttoNwZWQBAgSxPzNuKSxaBfgpn7jhPxXiR0SNQxiPVU-7CCJdQaLZxXrCP6CKedriUKUO7g0jkL9b_wJc1ZtklnJx5bN369b8Zh7_CWkBRAYs5z2DeEViOLSkxxgmCylrkLGejTRH9rF1vhB6_r3B740KRdjZv3j0olRM9M7EYKjVaAVmEf0ZuCICcoJ45n09OtAku1be4ArE73HoTeaLK5Iql-GosCqvkV4JQ8U50t-_T_VhR3xRZ7cArjhssnrF6Y0cQdMmxag",
+        "width": 1080
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfWwKYjwkg6sc0MV_KPVJnj-D7P04NxpHZfUnwaZHkWL6-F79Wtd342fuVdR1KOB0e1WVRhPupuUlr_euDLDges-qFIpAB7wOseCbcuFDaG9v1bynhonzDw5rlZRhYFxjm8PV5Ka-a3GExhG2g_Et5BlAMDDBHZD7BUnwsCXvnrGrJtsI_cKcrdEEJrfaQueDL0wdP9i8K4fyF00c6-QRRlpOwww0hXscl8b5FpWtiOBqOXIyHh9suT6e7IqHyDz19ZPfZRAwuufNdbUHEGU_N3zzFaixxYehilOlZEpPpDYCQ",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfV8mFXNajhc-goFXBRgle4gcHvUT_OHByV3t1KKE3RSDN-gzfS0ZO7U_eJBLbon2KdXEZ2-DDclFvA3cVIQN8dSxGkuVXqL1kcS-K-SzH3DKQ162VTARvzVPiucKQwecPn-7eYY8LTv4fr6q0FaXReLLnEJEh78HwnkdhqqxkmpnkTvIRKo2ZW471ZZUZNX6Fz9nDjTips2qbewt9O6m4vCxZ6wJ8Qd6Nx1CXL2oLYZ9vfaEMAVGQw_iJtUeQx6ljO6QsE3LWQYcSgSbXR-Kx1brh5LZtSJG705W7MltRlaVQ",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfXm0UQ4wKFvDG9opkoeF-bCiiuCmaSzxUIEBxdp5GSpu33FA9ehPEcrnX5kXpDcK6Wu5XkyW8ImBrJk9UHRuDEXjDpyhNAf-PhdHCxvi_ydkZdPT_QVdmUbKCQomPbfuTxsFYSS3Jk9Mf-aQpXX39ud7jkvlivNK0xt_qMCyQ4Gl2Lryn568RZitBEac-M4LEQFnQo4mt0ItHEuuUV3ifAgn1U_kbqjM-ih_YBTFQja4zRsevJPAsntn1TTJ0cbLMnNlWRymiO5kySVjYKZ6z7r1_J3IBpV8D63lmEBjGS77g",
+        "width": 4800
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfWo5tgKNGCGItgND5ozosW7-Zav0_LvOL6RdG-PLetzJLS9qSbCnsD_-toSQBArZpZJnUhI73tVraIjs0purS8RXscKtuhCN1kZe33v012VnWIWgF6c93QRreC3SviPeI9ZlMI-9W0DqfttObggHG0S6fNws6hb_jAsjsnkMzownZ9jtWrjZyFMjIGAyRPw08p1QkToZXeGrfEO7qHTOIx_w6NG1U4urri18nrUiYn9XbioVccbbeBkxWVWPT3nIRMcRdFPy8Pq0NBO3fRC7QcgSiRMu7xVC4sNGPGHpzIeJA",
+        "width": 1280
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112195296509484274914\">Air Technico</a>"
+        ],
+        "photo_reference": "ATCDNfVo7cP_ZCWeUoV_5MbDXmNhOoq_yVrYXRTogoyONxA99jtq_N908HnD5Uj2BzAE9Z_eqCJAkV3hgY627QdHvIEX58aCcploc393qlhx4EEjr_9Yvn5UD4pQu1NtoIS1VV1sDeAVmUAogb1JqUx9ZSNj5Wy5HJZhrOLso57pqPPb1ODYZeHmt53295LMaBPM2LiNRph6k5HsTflEc6QYvV8CWZU3_xXWlbOco6TAIz51a5h0eIiKtn0voK6LxJEPlfoZx-qqv-EGvWN6ximE2mbm4B2lmd7GH7d9KlvY8Wczag",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJ6_Ih81lIyUwR9sCCNQGTH-0",
+    "plus_code": {
+      "compound_code": "9WQX+MX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WQX+MX"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ6_Ih81lIyUwR9sCCNQGTH-0",
+    "reviews": [
+      {
+        "author_name": "Emily Turner",
+        "author_url": "https://www.google.com/maps/contrib/113232878607296969156/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXllYC7_-bMtlzBRww1fShQrLeERnuRUCWkipi2qHGYP_WHaUkuyQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "A fantastic trust worthy company. We have an older system and they have helped us many times with cost efficiency solutions to mainintain the system we have. They are knowledgeable and very good at what they do. Thank you!",
+        "time": 1767816360,
+        "translated": false
+      },
+      {
+        "author_name": "Richard D. Adler",
+        "author_url": "https://www.google.com/maps/contrib/110905944554180168166/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLBgA61dJ-44w1LoG-kTC4cEwZeCQXpYF8Jjqhf45YV445rg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "The Air Technico Team is FABULOUS!!\n\nOur two heat electric pumps and furnaces were almost 30 years old and needed to be changed. After three months of extensive research on brands and installers, we had narrowed down the selection to Lennox and Daikin.  After meeting with various potential installers it quickly became clear that Air Technico and Daikin were the best choice.\n\nSylvain and his Team visited our home a number of times and clearly detailed all the specifications and the installation plan.\n\nThe installation was performed (to my demanding specifications) by the highly competent and efficient Air Technico Team guided by Stephane (Lead Installer) with military precision!\n\nThey completed all the work to remove the old units and install the new ones within one day and left the site sparkling clean.  Everything was working perfectly before they left and Justin (Lead Technician) returned the following day to complete the final programming and instructions for use.\n\nAfter sales support has been equally impressive with rapid follow-ups for any of our questions or concerns.\n\nWe are exceptionally pleased, satisifed and impressed with the state of the art Daikin equipment and the super impressive Air Technico Team!\n\nIf you are searching for the best home comfort equipment and a highly competent, service oriented and friendly installer - save yourself the endless hours of research and meet with Air Technico...I am confident you will be as satisfied and happy as we are.\n\nMerci Sylvain, Nathalie, Justin, Stephane et tout l'equipe Air Technico!!",
+        "time": 1544083596,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "We had our defective Haier wall mount mini split replaced with a new Daikin model from Air Technico. The purchase price was lower than other local AC companies. The installation team was awesome. They made sure everything I requested was done. They pointed out the incorrect slope in the wall from the previous owner and corrected it. They followed the same path outside for the lines to the condensor due to discoloration in the vinyl siding. They even put clear silicone on the tiny holes from the old flashing to avoid water leaks. Showed me how to avoid spider web blockages by pouring water in the drip pan to clear the drain line monthly. A disconnected box was installed outside per code. Overall, a great experience by the installation team. Very pleased and reassured that the work carried out was professionally by an experienced qualified team.",
+        "time": 1627175761,
+        "translated": false
+      },
+      {
+        "author_name": "Amina Sarhan",
+        "author_url": "https://www.google.com/maps/contrib/117310868772185133623/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLjCqnnGT2W5C1TH4QkKslVfexiJzkf_nPO-TOonUrHnhBKPMysA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Extremely reliable! Our heater stopped working during -20°C weather, so we left a voicemail. Camille promptly returned our call and ensured a technician was sent out as an emergency to fix it. I’m very impressed and thrilled with the service. I highly recommend them!",
+        "time": 1736388790,
+        "translated": false
+      },
+      {
+        "author_name": "Dan C",
+        "author_url": "https://www.google.com/maps/contrib/115664709638137600313/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcBpX6MmTvpq9oeQVxVn5rhUrll8MxvMhXQCfs-AwcExHeSg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "9 months ago",
+        "text": "Air Technico recently installed a heat pump at my neighbor’s home. Their trucks were parked about 30 feet from my driveway, separated by a 20‑foot grass strip. After the crew left, I found a ~1‑inch self‑tapping screw beside my car—far enough away that it could only have arrived by being thrown. Earlier in the day, one of the installers had glared at me while I walked my dog, which now feels relevant, though I shrugged it off at the time.\n\nI called the owner, who returned my call promptly, which was appreciated. Of course, he flatly denied any wrongdoing by his staff, which was to be expected.\n\nGiven this experience, I cannot recommend Air Technico. A company’s reputation rests not only on technical skill but also on the professionalism and respect that its employees show to surrounding residents and their property.",
+        "time": 1746251150,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17086537144668963062",
+    "user_ratings_total": 116,
+    "utc_offset": -300,
+    "vicinity": "1139 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://airtechnico.com/"
+  }
+}

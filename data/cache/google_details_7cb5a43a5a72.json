@@ -1,0 +1,432 @@
+{
+  "query": "Trattoria Lanni, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340168.2778203,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "590",
+        "short_name": "590",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8H2",
+        "short_name": "J7V 8H2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">590 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8H2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 10:30 PM",
+        "Wednesday: 11:00 AM – 10:30 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 5:00 – 11:00 PM",
+        "Sunday: 5:00 – 11:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Longtime option for Italian dining including pizza, with a wine list & checkered tablecloths."
+    },
+    "formatted_address": "590 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 8H2, Canada",
+    "formatted_phone_number": "(450) 455-9300",
+    "geometry": {
+      "location": {
+        "lat": 45.4066689,
+        "lng": -74.0349374
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4081485802915,
+          "lng": -74.0332932697085
+        },
+        "southwest": {
+          "lat": 45.4054506197085,
+          "lng": -74.03599123029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-455-9300",
+    "name": "Trattoria Lanni",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 10:30 PM",
+        "Wednesday: 11:00 AM – 10:30 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 5:00 – 11:00 PM",
+        "Sunday: 5:00 – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110969400668846238771\">patrick pilon</a>"
+        ],
+        "photo_reference": "ATCDNfXKwUXRun2pZxmJqfmF-ZNV1PkcIAFV_w8qeO096P6alF97cXojucgvGJAn24jwwSm0N_MN6hbhrkKDq-biEIge0iGlAZoA-d-xdbAqtpNeu_T9IK1jlhjdJozCwy7Tat6Pp-imh8uFTKFLyq0IDS3kjfLBXxryAomWFX63PPqIHjxtttYtk9uJ7ycVwCWGMIoWJ8f5q0KoS4qlhA-7uEMIuqvoolOdb741pfr6ZLDICnybkSH5_zS13Yhgyon_lD_P4vjghCg5fFxO-cuIoOwNauyfPa_-DiOLohBWPBIH1WOAjH31J6dJNYVFS9YaE2Mp94Z_ALvKcKQrDoAQQ8vekMDYa7133iOwlKxcZwyF5rom4rOUqoEgEY6dWcrQneibJIyPjKqARo4mTrPWtzGTn5XjGlj67cVx1SPQq_ukl98",
+        "width": 4032
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108903536341726104549\">Nicolas Lapierre</a>"
+        ],
+        "photo_reference": "ATCDNfVyWP5BbVEypVp_VdwI4bexAFR1K31Ao0auVKzHr5tOzwaolTyrpnEYJP9uQdJz1ZsB7XXQ_IUIopGzXrLDvUbEoYNf-Qj5jt6SVkiOFVA2jQ0UxGpyKGSU0HJ-5PzlpD0tAinIYNwsnxVvxDw5vTj8Hl3UpyfATNpl4Vq-oo_vfmxYVgcCbhOeFG_um267kWmnXkKj_eNUCfWhoCxWO9e2InnOQiLiG5Ml9CkKusEnEbv6uR5nIOFJ-yjpKX3SRnXxAzUmQlXbK-fObvDRE_p32KWwbnH6xDAPuKhLp4Y3M9u20i6JP9V7OkruDV4nkI-Hkro0Qzftso3nGt8LtLrQXsiR3Ew3rJb17q5_ja_N3ORaQkTMVJjRsMrtjlnjUm1uKDhLAzoTSmUDwumu-tAiwJ9ezt4dVx5utTzhkfflMl_9",
+        "width": 4800
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812337821372957381\">Melissa Mayoff</a>"
+        ],
+        "photo_reference": "ATCDNfWWdptjn3qgva9pL1vkNcMPEUiEUtwlZSojPP4aRBmZ_VQXDT8YpFioXqgxhGghv8RX-i_pLJejhYDwlewtiuxq-ulCm1PY56Lc0fCEFbFB-XIo87olzpui85kgj7isyr-eYOYJOGiV7ensARVvWyfC360qKdmd6MN7tHyNFGTivDz2FPED5Uldlhuqcb-E6XSbKaV-XwrjMVJfulxfq7YVD7Ki27Zg74oMSc6MI3Y-LvUbT_D8ZYM_XmJTNQ348cjbcazseLV4sDj_103xJ52EdPvVbtjx2fwWEik0bIfunWv1_NM-KW23Cy8YCRac6F1ZL4LcCbzc1qB0FHDd38GZKlCj6HpK89vUwD_WqD_POq6KcXZ18RPdVFEy_kGKzUMTfegPAgVnRzqGhvMYDlDAWoA2mEgJyup4cugcaZ843o6SpxJCCVOdeLRRTE8d",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102413847959372012687\">Jerry Sheremeta</a>"
+        ],
+        "photo_reference": "ATCDNfUU2VhSGx9eJyTouoNL75p6cP4lEtvxLj8JSyY9SCONv4AwmjmFAv7fesOWLlBaZgFDJqZm9oh_ftevr3Wx4V11HnQBCyC7U-UqkOVdYzHm6ujDZOg6yAouq_Dcu6-OWYX9VYVvrpiVzgguclsFZJHutqHYfElWG0rQQ5wEjfIkfX1MsKuchC5PqN_RUHcmDrmCPIYfq-09zImW2GODWojXFU6qFQMseg1odEMZGOI3DUlidEc4nE5tpcKTCZEhLrSnjXfnskIcXX8qahNBsIpMfkKXeY__ybzygDCTnfMkPGEZSD8iwmLwDXt_cB95HAz30WCFnWuVy0NKLj9vMSTx_hgs9-MNatr22plIDUFzogKGKSw9RdvkSqGjsEQJ8GvTnrokRjiYmeaZH93D60OdZnIXjSEALfGGfV7qcgKz-ZoRdRcKjBh9AeP5hxSE",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100257231332904129246\">Eh Family</a>"
+        ],
+        "photo_reference": "ATCDNfWZmdYULlitJDXr66d8xEQv_hV7C2asSOo3XJDswCzKPJZmN24SO756ljWCzYo54T875i1y0vda4vvKaHZER4hTl39crujPG65uuHfFubIjhP90PoYi-BpljJec3w0PDO43pU7vw9Qmo9RM17SegMAXDCkTBvD_Zsu5Azgv1qCX4qT0CxO3RFABeVwF4-FeTf_6a6tQ6q6thcKExYt6r8bV45sKEOTAftPVPsoQMczdtASzLEy0NOd6_HoI--n3IImJUDWyzIMX52-agUPo4Xn4I8BpNI1WcgC_0Fm96K--Tmsww-Typmp-n76R619hen16LBQ30lQQT46kY7qRzC9-Ctr37565b2nDzeb6Ki3T8BWBRYhdZk7Duc2ybeDIK94JGLQePNMltCBO-xPC0bNstS1WfAJ_jaesUdHSaV7nkg",
+        "width": 4032
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114619314459391563933\">Luc Tavara</a>"
+        ],
+        "photo_reference": "ATCDNfUox1_grUGYqTKcgxw8hGTCeIgAlaUu1tzVC2mBOTW78knSpbJpYO7_BbvjbwjGv7XU6nsKq19f_bPybElevvu-22s2Qzyfb52N6gBrnDDvvkFNJnYUMQvC6iQW9ddyzZf02gab9S5ROCy-QVlIbfw6-YX8AoWmGhFWw5Uo-usFhYiYJR_stz7TKPmHRw3EIEm9rc1plyI-3fIb10uoP8Bi0DSMmK8hLg0IOUP5zWOVhcAifxt9DK8gYt0guRgCT_Amr4zehUhU0PzQTgFB0ZtO17_Dp1BOK8_3F_Sdr6ARr31rRLg7A_IunzwCABNAMn6XmDmAnx-s9kxWOwdvxC7Tlg3uoFgtUUrkzsYnJsL8BYnyEmL3uT2vAI9uyRxO8ro9ibHZ3KCSYSJwQ6kgUm5aAk-p70GzP7S-l-hlh0gkUA",
+        "width": 4160
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100257231332904129246\">Eh Family</a>"
+        ],
+        "photo_reference": "ATCDNfVIufcXhqAp2ojmoMORsShng2XHCg_38irK-69075DD0Y90tvOfNn7qR-9SGCCYqL1CP1vvVH6zLOK_h3hVYf-DjqoVgmsLBGnLxCPuoLLJGJeSlc57bMUK9WN4Hf4gSJQG-yh23nmP_ZgeMDdN4usUg0lKhfDFIF-PPIL7XcCqRnHUUrVljEqOde3hziIzOHjpfwilijejwgeTYFDr28j8RvecGnFoDRCXBqGmiMoFvwx3U97TjO86h8wo73ea5trEAkCwVwDlhL5sdyOmYcCGaySZ753Kmkj74e3FKFdto17Ni3MmXDkipFzva6ryF4eTGOG-UDKkftXOOlyrn9tanyUYCxSbgf6b1JXh1rP4fdiCpJeaJGEjnUmAnsmgWbpn4FYe3osa_ZGEWoPQKlW_n9cST3NQ2NBbF758-dsnjOF_",
+        "width": 4032
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108300900701287904347\">Paul Salvetti</a>"
+        ],
+        "photo_reference": "ATCDNfUHMdzul2rIsqE2-71YJpCOGPOdHCBU_1OmPZMPnEkLiXhGv33yjN7SDRaKPNIm7MvEpYP_-0F_jx4VfQWB218WncFVVlpC89g1HBfHlxAyPHaIxtNdXvpnCLb8x9iwhiI9ndoI6xI_j3dzrivoZo0bi-R-DZl9ssg6nZKCtMDola9dRarT_AB6u_v91bdE5SMHjjmEpwZ9nvh7ddBPd326NDWg9GozWto0LGRqgjOF1U14DqEuTt903Ahth4OWMSpcPPLBhr4gskrE_TbCo0dAr9fX8f9lMtzPXhblGjCWF1C8r-fgkboBre1Etjh1HiTJi-pBKGvwZY6xyoTM8VsPsm9eMaYUlWOtCR7h-zxtg_DeNLIhEIV7vlSDqJ7Qc4965p1s0-yrZW-wGU9w1fbO0LOGf0xakHIksxqMhH88GsZRtSfe-qaLsqCYgUPv",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115503748785370093797\">Kristin Johnson</a>"
+        ],
+        "photo_reference": "ATCDNfXoKf90N4di-bT2r0uo2sR_sQ8kIBV0yCNyKGne57vXfhd90W2UKblxrWnfxIn_8jx8CvncAPj11BDOeac44UwNhZqOun60Ht3DQbVTu_SmDl18ORsfmcgr82JQh8HSRz3zijJ6SYNIt747Jde7YrPCQF5O0iIkK8l_pNaPAveoiU6Tk27dkYqmlfIwCmRRSZHxyjOFi-JfAVbQKozF-ihmeVjpUkvkUIjKn4kITvgyZhTk3YeOQlbAwpj_PP_cpVhWWaVHAtO7pDzRgLf8sZD_PsUzeq4OqC2-3KyfWtYLOYciywmh_3r4JE-4xRH2ae6-8Lh6SHIm7fxHW7MYUE-Bm0hr8doaYOYhZHp6LIj6JTiqaREyymn-IlQrTYVszCU4GTJ_ZD3tYMXrgpEd7Z5yfunlQA6xMMomnXXego0uB4M-",
+        "width": 3024
+      },
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111779428171614196609\">Shirin Nur Roslan</a>"
+        ],
+        "photo_reference": "ATCDNfULNFAiwMi1FR41mNuyPnHzClTWtO2mba20Eb10e3DSppmCGenYIX9tJGnQMB8LwB6MR6W7NV_PpXr0TDTgNJauGetRM45S03_A3m1tyN_dtHc46LCBGsw8WYBiPCnskIasPMEVsrBRFLJCterPelDABFNjWPKlVQAFmYUAFr1aR75-Qoi576rXZYl7iR255iI6yIwd6Mq_YH5wOm1KBPCyixg-rew9CfgREmFsNRyysc9hst5l_iCv8J4det9QD33i92aHNeRcfL1SpdmWww9WdIBFXDsw7-5FLmW2Iz1ugpMFRWQpJFYwM14MP08n3CQFBl7Uninf5aeJEl_ZfIKOqfxx2mbReoC1Kkh4p0kbCW_Bf7W1Tiu4tE3q-5i27HHMxGT3M_nZtYntIjwA87LRAALlohyuvjD5SX2J7eVXDVPV",
+        "width": 2992
+      }
+    ],
+    "place_id": "ChIJuRv7mEk2yUwRGdGyZvOzLy8",
+    "plus_code": {
+      "compound_code": "CX48+M2 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX48+M2"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJuRv7mEk2yUwRGdGyZvOzLy8",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Jerry Sheremeta",
+        "author_url": "https://www.google.com/maps/contrib/102413847959372012687/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3cnrBRk5HmGgtWN7SqBCfEOznpkCaLmEVyVFy1LWmLThGSNej=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Staying a couple of nights in Vaudreuil-Dorion, tried Trattoria Lanni. ‘Un vero gioiello di ristorante’, an ‘absolute gem’! We wanted dine in, and the tables, the vibe were spot on! The food was exceptional. Delicious.. flavourful and plentiful. Value ++  And the service … attentive and courteous. If you’re in the area, or passing through, a must stop for some fabulous dining.",
+        "time": 1766927010,
+        "translated": false
+      },
+      {
+        "author_name": "Eh Family",
+        "author_url": "https://www.google.com/maps/contrib/100257231332904129246/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4sdUprDh2uOZqAIx5N1_f0-FhssYhA3eRQEMA5P20zPYIJK-K=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "We came here for the first time and wont be the last. Food is delicious, and the service is fantastic. The ambiance is very cozy. Our first time, not our last. We will become regulars after this.\nIf you try the seafood pasta, I mean! It’s the best I’ve ever tried!",
+        "time": 1742481602,
+        "translated": false
+      },
+      {
+        "author_name": "Noah Aguilar (VLAD)",
+        "author_url": "https://www.google.com/maps/contrib/112835748996478211935/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs8ibOT23Xn8ybCMaF0ZS9cLj6K1ssq2cvsbvBhv3wO_lHX9Jc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Dining at Trattoria Lani was a truly heartwarming experience. From the moment we walked in, the cozy, inviting ambiance made us feel like we were guests in a charming Italian home. The service was warm, attentive, and genuine—our server made us feel cared for without being overbearing.\n\nWe started with a classic Margherita pizza, which was fresh and flavorful, with a perfectly blistered crust and vibrant tomato sauce. The prosciutto and arugula pizza was a standout—salty, peppery, and beautifully balanced. The gnocchi was light and pillowy, served in a rich sauce that made every bite melt in your mouth. The tortellini quattro formaggi was indulgent and satisfying, with a creamy cheese blend that hit all the right notes.\n\nEvery dish was executed with love and authenticity. Trattoria Lani isn’t just a place to eat—it’s a place to relax, connect, and enjoy truly great Italian food.",
+        "time": 1742752711,
+        "translated": false
+      },
+      {
+        "author_name": "Ronnie Fox",
+        "author_url": "https://www.google.com/maps/contrib/109435374565190673071/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsu1lZhuz_pfmNp2OeUHpOOQfWYHQ1hLck-tmAClW1XdP_7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Just had new years dinner at Lannis. Went there for Italian food but on the limited new years menu they did not have any.   I ordered the steak and it was very fatty and had lots of gristle. They said it was a rib eye but it a strip loin. If I wanted steak I would have gone to a steak house. , but the other items on the menu did not interest me. I have eaten at Lannis several times and have always been happy with the food. I guess they felt they couldn’t charge $80 for a plate of pasta.  Very disappointed!",
+        "time": 1767244814,
+        "translated": false
+      },
+      {
+        "author_name": "Candis Noble - Courtier immobilier Montréal",
+        "author_url": "https://www.google.com/maps/contrib/117380238095993193901/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJmo6apZmljtpOAxs_aTSE_uJM2cNKGyvL7o8zwXuaVezQYOKt=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Always inviting; always delicious. Dined wth a real estate client of mine there last evening and had an absolute divine Caesar Salad, followed by a Linguine with Rosé Bolognese Sauce that was simply out of this world! We were never hurried by staff and enjoyed our slow pleasant cozy evening. Do not hesitate to try this exceptional local Vaudreuil Italian eatery for yourself! *I also added a picture of one of their amazing pizzas from a previous dinner there. Fantastico!",
+        "time": 1713380619,
+        "translated": false
+      }
+    ],
+    "serves_beer": true,
+    "serves_breakfast": false,
+    "serves_brunch": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=3400134101669433625",
+    "user_ratings_total": 753,
+    "utc_offset": -300,
+    "vicinity": "590 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://www.trattorialanni.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

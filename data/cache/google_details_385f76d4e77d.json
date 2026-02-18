@@ -1,0 +1,457 @@
+{
+  "query": "Frite A Brigitte, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338787.9922643,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "347",
+        "short_name": "347",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7W1",
+        "short_name": "J7V 7W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">347 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "347 Bd Harwood, Vaudreuil-Dorion, QC J7V 7W1, Canada",
+    "formatted_phone_number": "(450) 510-5151",
+    "geometry": {
+      "location": {
+        "lat": 45.3807591,
+        "lng": -74.0173909
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3820655802915,
+          "lng": -74.0161337697085
+        },
+        "southwest": {
+          "lat": 45.3793676197085,
+          "lng": -74.01883173029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-510-5151",
+    "name": "Frite A Brigitte",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107825697486005277965\">Dan Clement</a>"
+        ],
+        "photo_reference": "ATCDNfVrWMQki9oUuXKk9R81rgvHoDj2aYDjdxLUOqAH1V7Q-SurFryjci87tOGcb-0HKcriISiroqIVJWtpQKOeJoZ7ur6KO8OtlQOCQ3Yf9u4wh7cBfDZSX58LzvRY8G6eh4KBqxoKxCDNYZR4QNNyqJBfdyw0h9Zgo-4RYpuC2wGoHA-D2kdymjJ0oA9VB1k6W8KKju2EF1oRDUtprrWnrlJVn05aTyB-CDvPN_Obkf0ByZexOdaUWNcU7z_VRVldbKIBqPXX5owk-mmZQ9Otfn58rzfrlxEB9NapaOBMQQ-7y1tUxH-w59SL9lmrWRiXdOn7PliXpIs_F_hx1dgaTlAvwlAXo_mutqBLbzVQdspeXqMQJHxq3PlNHwyNCQprTv6X2dA6lw2Cm0_3893eVDLFVzFZbM3rOHnhBTUcNFbKoA",
+        "width": 4032
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103607116954067489803\">T H</a>"
+        ],
+        "photo_reference": "ATCDNfXDLtQrZSYXaS8h1wr_juNxObY43690oTJxnLSffDRl6iDcvgWtP-rubtFx5nOohHBT7ru4vQbXtA5NKd2yTzN529xFo8KAiIL848nTcXLN-cFGWkDYu9--BKyDUtzkXkf_ERI-Hg-1uY8F5NFl6vMEQw1DyiZQs1r_kAO2w4MW-VYrh_OmBffg0d0RuC-B2T98SI6EE0LObnwpIaXbflpbJmZIMA1MVFrGZ4FpDdUb8OBHJ8mHm4RqSr0DReRAGIrNQtBp_aLivyDSkWIuYlijAeTvefDdusd13k5yO6WmDLvdIAzMdFR5rRutxgbXV4AuxWqDSr52Szf__zS4D7wrrc_BMV0RCoazuNVu6yp2Kckq8rVpdePu3vMVKIiy0vqmWY3LDhccX0IaosTIBZG-HRTBdVMkdaDucI36dwwF9lHOlGswNkHGi5a14_F7",
+        "width": 3072
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114260461090751567251\">Eric Mongrain</a>"
+        ],
+        "photo_reference": "ATCDNfXQJEEsCC5G4F7io9m_OrzpRe_Z9cyFVO9tChFuReVTEVYnM8I3Z-cGGrPZ73_tP2O5qrE_CUEFEPVssZTl5W5XvtsCyDdwfxhIOi-LX-3BomGwZDNq_hloTNQTtnD9cy9rcBysoc_u4dziAWcTl4EmjpCEoFIDU2fNF33KHNck3AnKCzraXhmJkkwJdJCXzrHGiPUyuwY0qpkHnuom-ku9X9xwRPtRjXNfYUVaYl9hbVGJ4qBNPI5ZC7CVBregyzIX1wGeV5WfzU30WNu-pzf105tYZX05KrtwdPJQxuOUS5w0qsaZsyCvik5WsDzfcBRjoHm8umh0CiiwKwulxQ1P2riDxzHrr0sNUxldmMUhc0T8rmmkLOB4_rTPWO8BLKCYppgObqcf7WveCTK0X0Sp7SawJVH4SRHLX1RAIP_POcL9",
+        "width": 4032
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109673625286909961687\">Camil Martin</a>"
+        ],
+        "photo_reference": "ATCDNfVKAuQIQ_oVz2EdzoKpUZ5IAYm845VS_fKxc96n2AqbMe00Du5Bb9W-w1MWlBO1KQiMCRGYulTl3JO4n3rUiXOJ7_khuXt0NIHlD9qnkxqCvvhg7xBL056S5G-MM0qP2f_7Ruds4ZKln027ZBaHgLyIEvzw50ZdCcVj8blxdKvZz1tSNGgVjfdPlGTPd3sbVK_WcuAFRUQbRdSpHpHI16BYaBCdszx-_BJ9mdAKer5-dFkXkKuiWg2Hp9YSA57u5wtE1rKxbNjjWmKSkidOpCBYYwK-D9Z1-X7gwCbmHKEeDHAMVy1B5qUz6PARgxdmrGtXes_dlfDc6m1b2zaXkXF0Eilc5danlCcAgRKBjhZQm2ihBo7-ZU4Yq-nTnm_elkArFlXlgNphbP3CbmzsKK0VGN9q0taM_sELhmny_05Apw",
+        "width": 3264
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117428284773030458578\">Foucauld JULLIEN</a>"
+        ],
+        "photo_reference": "ATCDNfXOPyU6a2g--EH4Ty_ByH4jVhRy4RmncSedQiQoTxWsrF1S72vk7DI6VQBXjfo008G82dbSyFdJxp6ET9mbrZcQOg7_FT8TB2iG44R2r2F1GZm_h8cbjC7iF7CDPisCEE3O3ihvJjAIlmact7yVzuXSjVtYH-9zfrW8fUwfSn8d3LfZjEjZ0JkKpsWZ9Xv3nHq20e3sI2Fhz-84RkDIb9rvo0t4F0KTVVn2sZo-RM9kwmduFb6p0RawACiuMPUgMKyM5mN1GMF5Qp1fvIMS3CfW-DP4BIG27RYe1Q7YvEbV26vdY8vH2Tj_DVNkzx4QWnj15oCZp-hBqN0CkFCqUNzP3FXndYsV14N0iq39OviHfTf0Xcl2cRmBa_5VFpbbXBn5K3xue3soU8abpTtW3A_u_XTREU8xRZ84pVnX0Ozx3oOg",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114643452943574709303\">L J</a>"
+        ],
+        "photo_reference": "ATCDNfUWbrF0OaKyhuK_bgiEKoYKaSrJosiiB-spJyw4EDjgBDiMqMIvYQ5xledjahSfQ5kXOlOeZA56GjMN5bASoF2oN78F6GW9zN5HkaxzZTnWzhCOudxd2EH6p_lHd4lrm8nFNgfOqLD8Ji_Awv5rjudbNowu-07LG2y0Rh7ZXgy18YS3mh1qwiT7NKnebDCiXa45R88jo4zkcszXf5x6wD56SzlZ0k6_hPADU9ZXp25nf-ZA5CfP52rq8m6Re9vcZtXDbOwmxOwS2r1mj4tKAzHKC-a1prFx8Sy-s5dJmyaEQadTUO4X5sLhht-iVfpLHu8N46cvjlqmTIPRty-NDRamEsWvNP1T00jwDznaDSs2cYXKd7zLyNHbyNfzwXajtJ6FdE3RJeRcagDrsAnj8Lncg4khJ_KaJl6sUkjQf1dpKQSixfvl0ghS9pNVnHKN",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109890668244165138906\">Michel Desrosiers</a>"
+        ],
+        "photo_reference": "ATCDNfUCnpf9UOEzh3b9kUWeEn8A7U3JNDKkSpAorYvpJchmqSFK913-8HSlMH5kiKBrhYEa_hqhq7pN48GOjB3X8UThi_cY3GEa7p8tWfZ3FOphdT55siNoNeQwkz7Buc6SONsgIHe_K7nMh0TltlVgK7rvGMPhFiynQNKmQ0zK_RNzZ_Js-H7h-_QsP8zCXDYr8ZGW0DqLAvdDkMMBHQtNpADF4BjPOle1ZLyTRjIKgurnabVQBFogQQ07VfhqOtHKLWWHu25XuboVfMHFGCSBkkRhG7UzQ8IkTEV6cm9kPJU979ZHTGGBXK6lJmZYVTPQm7F93hvmm4G9OwCzUq5NI1yNslcM_0PBRexJdqpCy7UXnIj9G0Bl2KnHjPOashei8Tn8xNxRKeLhXnIjU4Bg2VuH18odcqMrtMH0HNyC-LgHAg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110650666882359613575\">Zachary Zandona</a>"
+        ],
+        "photo_reference": "ATCDNfVNryq-lkTIDeZrdRqXcmtdg-lBMxCYnt9Z2w-H2Z7zmKF7LtJavJdl2qf-uoXbtpgJmGdgcr46peWohy3o3oGi0sBX0QyEzS8c6cyLU6OWxWABqzhX8oCIFdwepKe1dE45rjEYk9WyuJM9-_PPmMbsOqxMe771emyiVhdmeldobq0MRT_SDnjO7bjRakPcTBuC4cs6PA42guipaUjEXDH-pwqByaH0hJ1-1VUu-qcxPHY1EuininLtB0GYl7hVh_3pfTvSnCKhoIkSZiBJytAgXPkIJK1sZhHhQLSOs9RdwDnM9l0iv90f_n4xRzEH0yK5D70oBpPl3fr7Mt391j8VnRDrPmtEnXQqMGsXI0JZdRZJSBOEcjCbsA9Vm4ahxLt0HCicBoeBzRz3HN_LbizZS-rqbWksVyz0T2IIAK8E0Q",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102990330563976867846\">Natacha G. Filion</a>"
+        ],
+        "photo_reference": "ATCDNfUxer_y4Wr5_V40EwqWaj9bupglJyINSfNjryV5bNX9nrxeSsHoU8jhqHlkFuHZRNTR2hRjMIL0z60v3Zu4awFa6g5kdqfKoX9pUUfEof_OID9mOicNLcIUc_Q0OwuPinvTfHVokIDXsNBdC41e7HWDkwRx7yfIrY04jRu77-ZDKHnnKOO8KS7TbmPX_Ov37VYz9C57S_cM93H1S8Bqs5DZgjMhy4JGDA9GCYjKUMiGRRQkaYM-nn3XI74PrLdBY-cHD22CGPqAGpt6rP7xWUswtJMtNhHGEQY6MX_Mq21LRHjYkZrg0U0zzjCOQ-7JXP-oZSUQPC1pa_bIKKwHZm_OVp6dwwY1Fn698_yeK9DXcMSK46yDn3FL27YcCDJBVFI-FRliTzV7yTz_Bpl025UtX0cWrWzOEmylrkTdVX1I0Q",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111508264136993585387\">Julie Lebon (Maison Constance)</a>"
+        ],
+        "photo_reference": "ATCDNfVlhnrsjMgUUXIA8cW1bFFFbnkwQygH9wjuDnBl3l4xc7qTb6znNErqL0B7jKEEtLeyA78yzSEdzlJO2NVnNAJGCFJBCGZMXN5OB8HqK5Z8rNBccbdTxIVVRlm7RgMYe091jeFaEf9mwSE_S4r6l9sC2PLZhGA74fFaRpTyDAYTc6LMnuwt6_MZnXZMtfsCWgyD0jw5xzy7nzIoPNAQ6NRBH1q2icvF6bkpiGMbfxO7PzDdk0BHP2iy8d5FlpUj2bVgFI3cEMsHDXr-t_b-v7MQ3SmAZ1GJTi3t14UnWTP9HCFSYprcrDXK33v2T4PjM_EbjyGMfaP0vJbcdbd0Mp3p6abexHpVFoXBYjsdAhWVk_Zl7S9ZeiHU5oMohVcW004li7BqqJ--ZUgs_5X21n124BferkTv9MaFqJFd_SZXvMHFw9Eri0PYHSJ7K-Fv",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJ1bQvehlIyUwR70xHj7W_4U0",
+    "plus_code": {
+      "compound_code": "9XJM+82 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJM+82"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJ1bQvehlIyUwR70xHj7W_4U0",
+    "reviews": [
+      {
+        "author_name": "Asad Akash",
+        "author_url": "https://www.google.com/maps/contrib/118151236033165368480/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKp6oIgwNrD1V8eqclmlTKMc2pm1I2rd0a80dOO7aVX2WbMY8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "This store alone made my trip to Montreal enjoyable 10x. They staff was so kind a friendly/helpful. I came in a few minutes before closing and they were very accommodating for me to try my first poutine. Excellent service and food. Highly recommend.",
+        "time": 1753796090,
+        "translated": false
+      },
+      {
+        "author_name": "Jay Webber",
+        "author_url": "https://www.google.com/maps/contrib/107758525939618039911/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOT63Ji-_GyL4Bp40DS1BwOEbIkOjIcUUkGNvTpo69C_CRTg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Great fried food. Poutine is tasty and of high quality.\nHot dogs are great, also lots of different options. Hamburgers are excellent. Staff is always friendly and very quick, interior is clean and often cleaned.",
+        "time": 1767563029,
+        "translated": false
+      },
+      {
+        "author_name": "Zachary Zandona",
+        "author_url": "https://www.google.com/maps/contrib/110650666882359613575/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNo6w0h13mkDBW0s7wda-v0RDhi8GwPD1H_wUZGo3xpsKd9lVcZw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing authentic place to stop for poutine on your way in/out of Montreal. The fries, gravy, and cheese curds all tasted very good and they had a wide variety of poutines to choose from. Staff were friendly and it’s very cheap. Highly recommend.",
+        "time": 1736097028,
+        "translated": false
+      },
+      {
+        "author_name": "Sara Olympia Smyk",
+        "author_url": "https://www.google.com/maps/contrib/100991846885513763368/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvVaNpuflnVqYn2eZj6oooCyYc3D3NDV5yodhTZX4B2ZfGpw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "This place is amazing! All the food is 100/10! The staff makes you feel so welcomed and appreciated. I walk in and they already know my order! That’s just how la fritte à Brigitte is! My favourite thing to get is a cheeseburger and that young man, Alec, makes the best one I’ve ever tried.",
+        "time": 1759290651,
+        "translated": false
+      },
+      {
+        "author_name": "Lara Stagljar",
+        "author_url": "https://www.google.com/maps/contrib/108519293841792727953/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxam56gNGW9UCfHxJmd-NAoMUfG4YMjEJN85hQShgxX5BgATRb=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The poutine is good, but the cheeseburger. Just wow. It tastes like what I imagine a burger used to taste like in the 1950s when food actually had taste. The meat is so flavourful, lettuce crispy… we  ordered another one 😂",
+        "time": 1735416047,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=5611977397194149103",
+    "user_ratings_total": 842,
+    "utc_offset": -300,
+    "vicinity": "347 Bd Harwood, Vaudreuil-Dorion",
+    "website": "https://www.facebook.com/profile.php?id=100027452032902",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "query": "Tigre Géant, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339604.2187777,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "25",
+        "short_name": "25",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7X4",
+        "short_name": "J7V 7X4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">25 Bd Don-Quichotte</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7X4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": false,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Big store offering an eclectic mix of household items, beauty products, clothes & food."
+    },
+    "formatted_address": "25 Bd Don-Quichotte, L'Île-Perrot, QC J7V 7X4, Canada",
+    "formatted_phone_number": "(514) 425-1650",
+    "geometry": {
+      "location": {
+        "lat": 45.3912859,
+        "lng": -73.9652476
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3926242802915,
+          "lng": -73.9639653697085
+        },
+        "southwest": {
+          "lat": 45.3899263197085,
+          "lng": -73.96666333029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-425-1650",
+    "name": "Tigre Géant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107223638872387268298\">Tigre Géant</a>"
+        ],
+        "photo_reference": "ATCDNfUIM9VkLOqrK4XlfIwpRPsBTkTOUIkWjDpwdb3HN3nM3FjWKeROQFuo4jAyxuOeVXvVTq-wtB5Ej9E1yfpssY_A8MhIujLOxLxq9vrZ9IVnaMV3zW0SW6PLHRMJjxysxUajeAr1NU3G8MUfv54HNqZoZf4tVMLNIXfSV5mp2mIcxdvoc1Pn2VtiB4tdlRE20tBnQlSwC4U4wBzZC_6Ia4oZdX71F2VVSRBb6ik4KYzH4P-egrC5bZZq3RSXd3eq5BnJZiAQEKgsvld8gfZEt4CG-RvD1ZWg2Rr-NZ294Sjq-Q",
+        "width": 1024
+      },
+      {
+        "height": 3984,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112777504881229207319\">Heike Wangler</a>"
+        ],
+        "photo_reference": "ATCDNfUql-tOZ0GY1HW6G4hQ5O1i1WCugYk7p515-yi0Lv_WV-xLTm6GPrtzMUd3bnPO-WxUm8HLc_ACnfNLHjhuV1rNrydis7gJPgtlFqXme3NjLJdNybkywtN7plfaEmLOIskdkQuluzYlB3Vuf6hDlqE13aaWwd_lA7Cfx9Ryycqt8UspMOlSDW3ptxNeqpWbQGDlOFsbi78JoJn_aetMs0Mq2f8bBjCo28WMtJBiSVxnJKqJYnLIZ507SqkU9sY5TAf8A4pXbRrNdPIVEpaWxE_Xli-U6pPuMYFSAY9yDTW5jtgRHvGuQ-EQXHGm3t69W3z-DMsXJ5och4b3C2Rj3opSNP9NFgGfyRYm7FtFL5RWToJER-FMNsiAfWEiNrj517q68dsW3-bfZ8hu6tpLJUNLBbAqJfpFbXY0dCYY4-Z71qc",
+        "width": 2988
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105573616236604900146\">Justin Gervais</a>"
+        ],
+        "photo_reference": "ATCDNfWZ3gc3-eiJi_iwn2o_H0sxNxlj9A7FCocuSye688GnM33IwDa7I9m6Op8gWdVAfKZKc1aMt1Uc2frhOcOlM_nWgeQshYuBueQrFWWt73c0CFHlrl_gkMfZLtrfxcF2uotu0uPdLV78W4x8aXNIauDW6VbnVvp6dDfH-CV6p-RpFXlhDQvAbE2-ONbBuikd6Cb5-Ccs7gSP_SAsNPSluFEDvTkDfpNqcWsFWk9z-FpE1BFzgGqbrxJVBY9C5DQbD97KmbSt5iDyCxoFL_OhF7G1qPEnRrDmSH1IJDFOYrYmPYGGT7jdRe60wHnFgOy0lTSDN3CyAHJy524kslQOzS5DwE_GyfYhxNi3XX40AR_ytomZ6ddqOkHG_WBMEE9Dh1UmbMkQNuN9RRb7h3YxtA9xLHI_9B6VMdqf6dyYopnOYA",
+        "width": 4032
+      },
+      {
+        "height": 3984,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112777504881229207319\">Heike Wangler</a>"
+        ],
+        "photo_reference": "ATCDNfWF1XY7TB149Sy9UXRauH-Pb4AYh_n5dfTm5qtmFN-RoYHdi_Af5r6ScnsQDiBzDqSu8EMvi-qwTk6gbrpAw_BLpsgTwafjpU0V66YXASzrDDMsNQ47wFTGjoJQ4vlwMltyNTv_anNvsPJSD_PfrOGYxxIGVBmJE0UuFg7ASX1bSDHl8qcT4-fYqkQKMYiPaVOT1J-wgRv7JWZ9WvtDPoJMuKa9XAS3zoIgUD7wZkKPxWbN4A6DFrKnKtSOinbSKw-AyY-zZqSZu15eVZNnMw9z4hUlzPLLNPLDHgh8gB4rl2UJq-SuMdRTZEbwExxYDbPSCC3noaOgD8S_3-MgndoXCjnOswak_dcaJ-ZpflAbZeBcXtTC7G_XyXD1UkSWW92UarhJnWyhq9cjQbresZTsoDE0148nVIf1J0FQvYACCA",
+        "width": 2988
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107703595149122728030\">Nancy Michaud</a>"
+        ],
+        "photo_reference": "ATCDNfWx4oRHk-Z6dFfCrx_F-mThN2CWD-cJX7-EbWrfrsIwSyqB8-kU3LCqMzEa95axGvL79jcUTIHt_7v_hmvHDyCiFS4a-ZvgrIiYPAvyYBF1TrNppzf0p4wzGr2VJneHyDIhWZMXM0CUSx9qhUW9r4y7kmkCer8oSqWHYcO6gw68HxUu2rDoSOd6aR1cf8lzTIzChX0cNhHArKwU9K5UOToPpbnh15zQ3HQgkCTcADJiJCGcoZCMx4JBVRqhNtD30xH8ttxIAtWuhwkeZy0VcdHvv5s2bh_jpw72Zx8PtoeKBkeDa3AXSaMh2kYop2VhgHVg-hUp1HvCubFLX1nK2LDnc2IPSo6-DTxION87LvgmBm8wyuyZaEclAmGxbSjaiFAnbH_djoARGsFv0x2aFxT7rGik6bEYGcn5cIYq-T8U-w",
+        "width": 3072
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112440671721040321209\">Arianna Lafoley</a>"
+        ],
+        "photo_reference": "ATCDNfVQY_WmMjGR2l9J35fgkweNvkL_hI9KT3YZK1A-KA8wjwWqSeJX-ZhXyYgW0Z_Opu15LTTVeYrQIluiPClN00z9ZFmmuswfL_S6sukvbgA1ZYDoL4Bk5iSjWznErlHZyPqha8PQj632mSvttBgzIDy0j-oWzA_zDtQUyv4XGNCf_G3CsKX9rj6bjX8pm0xHh3bteviuqj6LA9Pzs_w49EwulioCZn-iDCJFA838RZB7mIb3yjq-2woxmKX2lEXjfD2UXtO20qYTvAH7ggnfSxZjkWZA2f8GFLnwnhfvGR7CXHUrPUfydV9QqozJiJYDGhhiD1KORJ_4kQGbWYYlcCCoh9K3VSKo32IDDRvzOCxHCmvv5ZIGq_BvccCdhblSUj9Fiw-CBQpIHBQqaX5ZW4RjhfBu_TrONAVjVTDARWdlx9o6",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103451748780298564289\">Polsky Murillo</a>"
+        ],
+        "photo_reference": "ATCDNfVhIwqYIwxSUylMO_lTGUI5gJ87-5opDVOLO5lP8d-GvrcMeGIpTouMrE1hnoepyq-AhJHEMhHOxoIp8D6f1qunIPi0rSa9Fugeh97su8Yit4keWrgAcnJqqvIFVkRYaItdOyu-3QPAUXtD-nlFrOhPOvU21HGg_AicRipBlFZmc958z_ElM9RxDTr9hPhKwHa-3CKAstgce7qvviNt915JO7-3Rn8AxIjWSMGNt_mTkXYJlEqpSaKq3sMQqLJLCpf_YQ0nIl0C4INPWP4MliHjUWP6vpcMq_IXyOp_NV7nBaJWENi7EXNtjUCUbiTEFz0IEeRAjDc3r-Mr51R2GxikvR1zZaaYNcgmQOMuH_-r9NWUDQscaS3Z6vViiNytkKWfuiUonR-_ZNOhG8vkM-yL1PT_zpcD3pg41fWAels",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100256504779099800688\">Al Drov</a>"
+        ],
+        "photo_reference": "ATCDNfX9fZYYtkx4Z3DtNT-UG3CXROF6OGAvUuXMOBr4HOK-HIp8cvY0-yUkeqnp-NhxuO_nLPo9pCEeaFE0_WOh298Vh9L6f5q6K0RnV2_cNtyJ9ZGebGW9s30gDG3-9EgKJ5civAV16Mqz-nm6ID-SUVwYXWMgOXXVOETV_SDq7DwfWpIopwN4_YZnQ0DBOcxoSrTu3NjZ-yNA8QXIV42pco_MOm7_i_WmJIlxaUV6Wsqaf-Bw8OZBS2FRnO3aA4l6RnuAABlPxiVdiG3fVq7rzq2rmhEYTpikvfPZ2hPbKCpSoNBs49VA2jtJCaCd0-o1VY9MmoQbO8vX93OW3VceqS4VWfKrRBefdaDLjAXpVmrxu4Iia0KSV3RdiizWi7Bk6mm6ehroWYTrCNDWDJ81LZY9PoZrRPNiUbu8p1PagUeB7wlg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113155888395638285871\">Dave Pearson</a>"
+        ],
+        "photo_reference": "ATCDNfV5bgs2tQ50IDsdJ_CxEDepP68vr9xOCkP3JBf9S-gL4Se0oet2KZ_OSWmnKcXlzyk0QQ9l6CSHO8uzO3m4iji0SYofDukqgRw_eEjcUmAtEltmyNDNJB-ze-cZeSDmxCNKzANzaMkPHt1E4q0Fn87XowqpSAQcq0I57Tre1u0n1xiKlb35MDQ1VirKNgIWqwLc4YxNSkywIHy6dp3omHwYf5kRiIla7rBOHyWDu7Ag9vvBsfF-mcXqkHe_QpByNRq1TQxFZuOqqgYEtNVFY-MZX3GRROk6JbkdZpMSyBZKzCKMtJXlGz00xBIOWWiG2cMR5QG2vEIV4mn5dLrmIMFHTGgbm1TYRjFWn7--yqEDlU8c1hOp2QssTUCi3iOsftvFmiWrIIkHi_glShqjI_0v0lCYD4K-7Y5iehs2qZ3vi-GU",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100256504779099800688\">Al Drov</a>"
+        ],
+        "photo_reference": "ATCDNfXSZdKR9wslJmQmucbRgYc4iirWuTOC7OJK0BpOtW7T_a7neqT8h3m0kFdzGqVwFWyvO6xxAc6IahfXih_hzI0lsUcut0I4-EmH9CAYwa6aMjy95iMc2tBWerjeU3j8XhTOFmLJp2PgC1XYfYXPs5SNpI0h4lbg_rk4wLMnx86yUFhOwrYFR7-viH-oeIECpwTdWYVObTeAuoSj1wxfbB1tbTLjbHYpHNmGGzNwswUwv6Kk_rmNP4NC9AkSf-Iespq8o_dDRBk0_mZT95FJ0u9AvyWnY_78bp2Xj8TIaW2A4kE0yOlshkMoMzTYMb-FJwGY6eDEODO3KBlx43qk5QxbpbB5lX3hdzYbGLwn5VbWpXnZxb-MKBFe2-RLB_pmXkDhDlOugM_PCawruLnhohsf6CuhXW_zc5BSfZSzXeM",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJzz5so3A4yUwRlHrPndGOupk",
+    "plus_code": {
+      "compound_code": "92RM+GW L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RM+GW"
+    },
+    "rating": 4.1,
+    "reference": "ChIJzz5so3A4yUwRlHrPndGOupk",
+    "reviews": [
+      {
+        "author_name": "Leslie Grace Swiednicki",
+        "author_url": "https://www.google.com/maps/contrib/117902762926605389479/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4NtN11nPrCQMkh3VpKWBakz0W898F1HibzmbIXObi7r6gKw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I just wish they had those great big hams more often and put their klubasa back to regular price when I first found some there. The people there are really wonderful even if you see them working elsewhere after for whatever reason.",
+        "time": 1766007190,
+        "translated": false
+      },
+      {
+        "author_name": "QT K8",
+        "author_url": "https://www.google.com/maps/contrib/113203033041578491560/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjXNh309jhFilb5vesxgkbgASxHzesR_DsFlVoCorYmPOoGaec=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Mon magasin préférée. I absolutely love this location it’s my favourite for my weekly stock up. They have everything here and a bigger clothing section.",
+        "time": 1764787846,
+        "translated": false
+      },
+      {
+        "author_name": "Eka",
+        "author_url": "https://www.google.com/maps/contrib/117798267602681196089/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs5Jp9u34H0bH9hxzl8H6XLm-xK0g71_oiNn3o81DXTjszXKU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Very good store, good prices 👍",
+        "time": 1758815572,
+        "translated": false
+      },
+      {
+        "author_name": "Sharon LaDuke",
+        "author_url": "https://www.google.com/maps/contrib/112412724337743810495/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWAnqh2dZ_FOBu3vTbwxbiYe-7pgnH9X2ifV718XZO0GchWw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Great store.  Lots of variety. Always something to catch your eye.",
+        "time": 1762092174,
+        "translated": false
+      },
+      {
+        "author_name": "Joshua Yeldose",
+        "author_url": "https://www.google.com/maps/contrib/100454815039259106829/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKA46uTlrlB6mGxxbfGpdc0s8qAU41RcfVWq6djiXWX3fE3XA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "A frequent buyer at this store and their prices are good but staff at times are rude in their behaviour. Raising their voice at customers because their equipment are not properly calibrated.",
+        "time": 1758241210,
+        "translated": false
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "department_store",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=11077323264418085524",
+    "user_ratings_total": 608,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 25 Bd Don-Quichotte, L'Île-Perrot",
+    "website": "https://stores.gianttiger.com/qc/lileperrot/ile-perrot-don-quichotte-00193.html",
+    "wheelchair_accessible_entrance": true
+  }
+}

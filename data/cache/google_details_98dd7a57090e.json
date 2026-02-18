@@ -1,0 +1,400 @@
+{
+  "query": "Manorex Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340093.1533992,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 100",
+        "short_name": "Suite 100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "330",
+        "short_name": "330",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">330 Rue Joseph-Carrier Suite 100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "330 Rue Joseph-Carrier Suite 100, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 218-6072",
+    "geometry": {
+      "location": {
+        "lat": 45.4068036,
+        "lng": -74.0510037
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4080106302915,
+          "lng": -74.0495862697085
+        },
+        "southwest": {
+          "lat": 45.4053126697085,
+          "lng": -74.0522842302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-6072",
+    "name": "Manorex Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUvGmfHOJ1FRdL5xWPUFJm5PrOlM1C30hCH5v6bcht5lx0hEo9SwOBBalMzdhOcpwSk_zQV2XxCgyT8LJgQEm_nh85UOosgqilYlG3iouD4k4WTHVNbPit9_PqLcFfRw7nKUspdmokWc66NtToym9VjAFmCIJ3MWbQ5-GqkJII-dIJ2X4gF84Rgvuy-rFKRlWVfGVBFDyeLBYs_tXjQie5c1V_FetrBAY5JYr7_konhTP3WczsSw2Ov9z3UMvU4PvdDiJSBm1vkodCShwC_k9TNO2NDh1MIFAQMBUD3KJvkvw",
+        "width": 1536
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfWzQGdQT80X43I-TjMoQND_s4-YRM6YjZ7UTuMVDE7igASnUJayMYouDuZruM_dxoa4KccpjHTJpoZrDVpSwF_W2T0drpFwEPOWJ_aLSgedUwXRtw2_QVDSdqr1ykAOruY2AaohV8FTHj_1P5TWdrmwQOvlxg5RdrqPpTlBPpPiq-A7LcLER_uvlUSTW39uDQLaTWCNv_abPmEdqaXBiR22bfaf2mSY_WoVmi1mVvQCmFu-q3O4sHC3UfWtU9V3TomT6Zj6SE8Q-JiBhMAQcyCLmuqkAMTDwzoZ9wmUjMsTow",
+        "width": 1512
+      },
+      {
+        "height": 1549,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVMpgO25qpHCmWv848WQ2Ng1Fnzqbxl_lJtothld6WORGx_sSn0J4nn3zOvyOlydjgokhKRP1iPh7JR1ovc4vUVu6E1s8b7r_C1NLZXZfDEjYnGkugdv8-IJ_vUh6Jdv0ismeWrsSBGRbTwO74AkMo8hru5kqdi0afOCzUAUV4KuBAbSTnfnibui6q4ci0Mog2KT_fmzogtqKhNx03WORW6n6LVKJm1D3ZI1c7d8Kty5MqojKmi9WfEHlYYeZJPSizSc4iU-9KQMvX2_6hfGBrmdFOMxpJ-r_91cmQR8YhwXQ",
+        "width": 1143
+      },
+      {
+        "height": 1300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXV4a3vI2zISyUvsn-b59DORMs-ompSI2ARk4Uz7l-a0tqGMgvRQxhfQQZFmODSf7LpRypM8TdjadWf3Lteiwh9a3Z459Mn36zb4vKLz93UzMwoc-51KGDLzsl75X4K5U13rnkz89FXX3wzKZMk_TBmpifO5gZ6JOQzvH25xArATQtCCpSS8VtbaxGOqNwbQVAPKeQ_njGYXaXqpbhIjtEf1OdtFpBhVG9fXsEWeWTOfgg_ny1kdC6Hkzyk5ily3LGNerJ2w3TARi8TPGEDcmL2fpTUXB8f5tGf1iqstE_IHg",
+        "width": 1941
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVmnjK7-RdNaappxmx-aEHp9QO-GFuhtVGtSp2AtGnNd2dCF6J5AJwR_NxT7UAMHk5hEPkh5KOLcvOEQW_3Iz4mCA9K9eIE3skxIgmCIs4eBl21rGjVdaV37iiGX5W_89mPaGhy2p7vss3KgY7NQ_zF8pjeM1iYahqu81NAvF9LLxw00FSpiayQNA9cPq25pwFCB1sFaOPCzEa0PSuiC5qSMfhlWRc2MDzetgInNtaSpOxtrCb2E_QM9CmxXDSPZZLcAsfsXYaAa0aAijTGjeP8JvXoNSk4jvFgPmyhQ3R6Eg",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfWGJLFfrIZeG3aeK356Cp2MWhfFbdrJBPwOKh1DIUh8oAMpXQBjwv8lebgMgbY0HDpTJKSkROOT54YwNWM6cxkIfZa7_iFs9VDcXF8G8gMXtMjHdMwOLB8dCMsNVnxVPS_zDsQGptd0g0Sk9365fKK8mWEOSo_R-usOzixxMw6FqVcrQz3edwvnuDOf5bl8V_4yfyB_aVJ9RnSffXPs8FKsJmWStTb7kvdegboXgJ5LzMGbj-Tl2YvX_jC2Qhgf5cddJHydOgU3c7UuzIdmTVaquBrBrAGw9pcpUF5O-WTe9w",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfWywpF6vv8qEvQ92hitogD69atf6I4uCzWpBetH2wm8j2XAPEu3DScU2oPrzxcTrmzo8i_DbDnbyrz-FS89i7lAxhokX808SDL5poUeTEQI35fkYjSpX7iOPiuoLarJ47Yq9YSS7oZb4g8euDuHDrSizKWLXMmxLOeb2QDnXB-bdgZNIo48rMp6ePyJVif18Spzm1Wzin-DUse_T7sT7rfa-zMcG9VViA2f7omcpEBxG4kQoX2ADQ8Onl5J2eZRYDq_q7DCz80rtnCnUZY_vl_Y0f3oWAVS2w7kcT9-dkhAyQ",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVNJanx0DbK6ruwqPGh9fOqzzu_nIazUaw9BPrYL5GgLLvjuFmh1jVsdj7Bvi6_gh87HKoYQyHTDtXFzrKGZgdAd3vJCU6JMYZMXKHaH1tOT75VlSuM6VAar509MyUJIUlp24_s_fw-x7zXAPuXNNcMXeQb2dvvNuiXvsNznXuEg6p9dot2v26r25cUGLVRY5221D5yT52Cftob51MACOJeqCqmU9hTlvMRm-OWwCsBYrDTjseRS1JURboBx1TGMmAq8btfsSAzgWhgN5hM0uSu-j1Oe_L4K2dIvkzLd7d-MQ",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVEDMpdLAAH-yd6p5LBqEBiazRxgXH1kXILrSpjvXxGNsdjGPh12-HOd9QaVRDhPOpfZFyMsvGxFNaY39OQ_NL5adLLyJadVLx_XXhDa-JxujLKeqJHEiCx5K8SFQ-oX90bOUoGm-V0uLkrg4VEVd_Sp5AS7iRq3Ohg8RMuuHYtUEEBLQzS6nwGSMziYep8VBRYqZRx85bEimt4xcbRSfdKW9qC2FbL9VBg3hj2mMxkyxqEkWuDbNGq_-Mzhr6hkCgOy5JCvqIG0_j84BKgtV8uJ2y86g485u2WBoGQa-xouQ",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110837057292630530830\">Manorex Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfV7AqMammvCBMpwTXthzb_sI98M0sRvytXBi-tiWTl1ecOB0Fa84RpXn1y96NkOHocOPadpT4drc_lqIbhZUBPMJG5YJ52UZTKi00jco8zTzZ6TRYp0txQpVMHvbuM08VNJsZ0EOP-ThbCZ8RZ1zqzAsmxGkVdXoxsAzIobOr9-H-bsB5RBqZeVp5p6UX0J-JDvjL-KajKyEZ470UZPmFjnnSJlK7GRnK-cMdwSbnLQW8BplZfzW7_24rqBKZ4NFLeWr4tacZbmHJJYlVIQop2VyX88RNPxi3Qjl31OHVcF3Q",
+        "width": 1512
+      }
+    ],
+    "place_id": "ChIJlcmNz0NIyUwRV4zQKkClfCE",
+    "plus_code": {
+      "compound_code": "CW4X+PH Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW4X+PH"
+    },
+    "rating": 3.7,
+    "reference": "ChIJlcmNz0NIyUwRV4zQKkClfCE",
+    "reviews": [
+      {
+        "author_name": "Cornelius Christian",
+        "author_url": "https://www.google.com/maps/contrib/113301833989153370481/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8CFf_JH7948x89QPoDG8ja6OD5fhEGccld_ZplETUKhXOSGY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "unsafe and dangerous drivers all over",
+        "time": 1724847129,
+        "translated": false
+      },
+      {
+        "author_name": "radu stefan morariu",
+        "author_url": "https://www.google.com/maps/contrib/116324393559612437069/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjadKr9ZFRwmtqGFsmGbWv3hrbYlTRWMRNZYUBmsWAhp4vYxeA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Nice place",
+        "time": 1593539469,
+        "translated": false
+      },
+      {
+        "author_name": "François Depret",
+        "author_url": "https://www.google.com/maps/contrib/115379380108302944935/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCXmSmXuJHV8AIwsdT7ERwhrXTzQ5FAnllN6hnrA-p0BmEvA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Be careful, avoid this at all costs if you don't want to find yourself in endless financial trouble!",
+        "time": 1698931404,
+        "translated": true
+      },
+      {
+        "author_name": "P G",
+        "author_url": "https://www.google.com/maps/contrib/114770969710121935491/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkCkerEfqYGSdMYLMLAAo0giwqpwjyh3Q40dzREomtRKD7ANm7=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "Their signs have been lying around on my street for six months, and one fell on my truck. I've called several times to get them to come and pick it up, but nothing's happening.",
+        "time": 1607639050,
+        "translated": true
+      },
+      {
+        "author_name": "Regent Primeau",
+        "author_url": "https://www.google.com/maps/contrib/112596511612145017083/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX44Ac_uoKPtEF7koKypMZDeWvuV1XPdy2uGU1IYVNxygV5_f8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "5 years ago",
+        "text": "Very clean fleet of vehicles",
+        "time": 1582206468,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2412985195378543703",
+    "user_ratings_total": 16,
+    "utc_offset": -300,
+    "vicinity": "330 Rue Joseph-Carrier Suite 100, Vaudreuil-Dorion",
+    "website": "http://www.manorex.ca/"
+  }
+}

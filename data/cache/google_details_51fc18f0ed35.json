@@ -1,0 +1,360 @@
+{
+  "query": "Transport Roger Léger, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339731.7321427,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "333",
+        "short_name": "333",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Boîleau",
+        "short_name": "Rue Boîleau",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7L5",
+        "short_name": "J7V 7L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">333 Rue Boîleau</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "333 Rue Boîleau, Vaudreuil-Dorion, QC J7V 7L5, Canada",
+    "formatted_phone_number": "(450) 510-4488",
+    "geometry": {
+      "location": {
+        "lat": 45.4004031,
+        "lng": -74.0462752
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4018949302915,
+          "lng": -74.0449698697085
+        },
+        "southwest": {
+          "lat": 45.3991969697085,
+          "lng": -74.0476678302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-510-4488",
+    "name": "Transport Roger Léger",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111192730796820406896\">Transport Roger Léger</a>"
+        ],
+        "photo_reference": "ATCDNfW-qcH0BUZ5Acvt80G7mvTBnck4-PYc6c4inirNRpYSWBHhZYhp9Dm_Y_VRUrEW09_TPw-ZOmL-3BoTlWscYcOqUhT6NTBv_G4zoAnpICfWb8slixGmJ0yQdUILZ7o0Y3Ij5Rht6i_7B-XAkSqo6mVMAdsncgaRSSAfu-Cl7eusoBN9XEfhTNS_RW5I6JAvp7cIMSk7GsIV_M3oSjOdBGuMNyXZVyn3QNkRcl3226-QG8Ja5lyUMw2-HVaBdK_gIfVUvFau9CrHy5_tQxz4BTe1sR2V_ldVy1IUm-r1IqB5zw",
+        "width": 940
+      },
+      {
+        "height": 448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111192730796820406896\">Transport Roger Léger</a>"
+        ],
+        "photo_reference": "ATCDNfVoS80Zoj5wZn6GUB3XeBDWsKG_wm6wMaH9H_7_EK01mWSY5iIu7w0-Y1Jf_f6ZFWETDG8OG6i8ElXVN9CP40hJf8IYsQwVS6OGkaTYY8CNyt8Lb5MiJUmxFlkCj0l1lJA0XJMGcT2cSnvfDTVjOnlS9XN5o7pdbX3bwr7BSJrbJkoGPWN7MpyJzPL5kM9V8nLXySIrvoMUx-UxP8Ki2-LKzORjTyG9iu3N9zqHkT8H7bX-vcN8oDwE7y9FRHRCvjzQskZ1O75ePo3g0Jjfkurf1ILUrvRlQs9FHZpsNx20Lw",
+        "width": 940
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112837068526751580031\">serge jardin (hyperman)</a>"
+        ],
+        "photo_reference": "ATCDNfUPNLFYrG3D_EpJLzLpDkOW5B8wOHtYn5BDp13IcKn-S_WXoD_a1XBX7SAxu76BwislYR6RnheLCCwfYApTYsoUkATT6d9S0Y9bsRKtj6UNPPZtlbSlZqUeU4exZyMPUD2NCaeCBNjQ3VBCA-Rr1ppzwJPTsv5S7xjieEUPBze4AXMC5jqdXY4IV4A9eN2OVvKNGO11qm0CvpWgSyifoPl0fDOTHBl6UnBfq_clS9VVFPFSPxOgvnKiH4c6HG4ZxJQ96h-pY-xkcX653YB5LE_2EHZvqKhEmovHh_iyfv1Stejl6NaMOUZJGG8kpSrmvMDdRMAZrZsY8EzomnQ39bG6cB-FB2V2SFinARct4KcNLkCnLYB6Hp5XenXw7hDcdCthyUCTTJxf8P63ZGuazRkULLdHooUM3OcPKsnD0Pk",
+        "width": 2736
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107151100720799898418\">Olivier Cousineau Gendron</a>"
+        ],
+        "photo_reference": "ATCDNfVqpx30PW2O80cng_b-Bv3pQR8vkbUyXbm4MrYJcIfCH1goEdktF6enLnKUChatw9ck4UY9UcwXQWtcL-3OGlGWrcozy7-nPswXzlBFwzrhpDR73uq1dZDzRVb9OKP5M0jDZPPQHysfb2NAq36yEloBNSZgApfzDwGVi4gVUWJIKuqGCLNY39udaciKiw3OrmzmpuTdjn3EvrD4ZB4aBYSbgnWe1o1Z455CBHouxY0ySs5-zEwJiOkx0FEDKlRPcpORbd3N60caPIjDwoCWk20ByPwgRnPtfA_byjU0nvx0EPtmvVO4judPOrhSo2Hx9rjjGnlJ6pkcEA7qfbalN4uO7ILaUHezHMe__R1BDT25OUgCpw0yPkeRfE8YgD-MBqXCvVDA34KMX2sHB5CNpTAFjLOEt1rBaR4k6nslbnDLcWdk",
+        "width": 3024
+      },
+      {
+        "height": 406,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111192730796820406896\">Transport Roger Léger</a>"
+        ],
+        "photo_reference": "ATCDNfU3_b_-bu3RBWmWi7uuV2Ib4GOkwXbggyfUsZIUe6HatVAa03dECqg4o9_LP4NEgf7YsO51qrd5qhmYWkeRLpcPi-kEulme8zgoY15Q15RmgM2SHYXbglQm-Sl-2UaYLHJ-zXxh9SFDY0_8JLEUAG3EKSp-Y6C_X7KgKYHvyQQasustvEOXtfDnm0xEnwnCT8wbmnXU6KwuJxhsXSViHTdVuQQKcJ8h4XqwMDXMfGTxGWPTex8bG5_nW7vNvtyA2gQGeQS7mJt0FBWKlWPdDWhgRaN34t8aPXMYwk_FWCN0dw",
+        "width": 943
+      },
+      {
+        "height": 376,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111192730796820406896\">Transport Roger Léger</a>"
+        ],
+        "photo_reference": "ATCDNfXki5wDmkD0woETmqSXCFtCbSPUkadaTsWxMZH4_miCW4JJskZEqoVd1N1m8-F_cNk0jUovc8ljCDEkCitU761zd9pPInk32Qr0nMUUfwr4gHwBa83aimKFh6PrN6GyPBnrDrddjEtpltGEkBL6gKShwMI_yRIKLAnT0Pi7XzBWv_GOCR0dH3oVB6Rnks7j5O0cY0vBJMf16herQWaOMB6N-HeHxOzyixV5p03O2a8W6tkVo6WOuSimDLmauwFJKeYDkhQfdT4GkzyhKXmvtqlxRhD-7em1-xYnOjMZ08IIpA",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJg9YDDS82yUwRnSuUmZrD55A",
+    "plus_code": {
+      "compound_code": "CX23+5F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX23+5F"
+    },
+    "rating": 2.3,
+    "reference": "ChIJg9YDDS82yUwRnSuUmZrD55A",
+    "reviews": [
+      {
+        "author_name": "SabyCrew",
+        "author_url": "https://www.google.com/maps/contrib/109484480460977542565/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXsYTszUfaq1PItjMY97CGPPNYXDIJfMkWNTMsthDgOsslgW5k=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "10 months ago",
+        "text": "1453\n\nThe driver was being incredibly reckless.\nHighway 13 to Laval North #1453\n\nHe almost side swiped us 5 times and even when we moved out of his way started tailgating us at incredibly dangerous distances.\n\nWe were going 101km/hr yet he flew by us like nothing…",
+        "time": 1745030782,
+        "translated": false
+      },
+      {
+        "author_name": "Greg G",
+        "author_url": "https://www.google.com/maps/contrib/114288998539843863595/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhfVj7cPfSdYjysStFFdEPrqtEnC6Xg-w7d_ErruGSAzomQVQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Drivers should learn to driver. Especially the one driving #1872. Nearly killed me. Happen in belleville. He was getting off the 401. I had the right of way and he turned right in front me. Had to slam on brakes and was at dead stop in the live line. Called and complained but doubt anything will be done.",
+        "time": 1568155126,
+        "translated": false
+      },
+      {
+        "author_name": "Michael Godin",
+        "author_url": "https://www.google.com/maps/contrib/116007348297764059974/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUS5q3gYp4WDuxhP0rOK15PBQuhjwRfj5wHFZGuMz5MKturgf0C=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Driver ran me off the road when he merged on the 30 crossing 2 lanes to do so. Shame on you for putting a family of 4 at risk! Licence plate # RF7320m. Nir r-578559-8",
+        "time": 1692913731,
+        "translated": false
+      },
+      {
+        "author_name": "Ann Alexander",
+        "author_url": "https://www.google.com/maps/contrib/101075763444640971442/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhlWOqYEP7OIhrErpdktxjC-4Wz3iVrVjQ1jnobKhkez2sFw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "8 years ago",
+        "text": "Too noisy when people trying to sleep. They r  located in a residential area. City should do something about this. Trucks are very noisy.",
+        "time": 1499796501,
+        "translated": false
+      },
+      {
+        "author_name": "David Messier",
+        "author_url": "https://www.google.com/maps/contrib/113667960281372494450/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdkbt6xIoFJXlDj6_EA7QLEAiKQ9thsZ9qdZwiYM0IXEi8bUJX=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "9 months ago",
+        "text": "Go learn to drive, you idiots.\n\nI have a toddler in my car, you're crammed into my suitcase, and you're weaving around so I have to go faster. I'm driving at the speed limit, though. Then the driver passes me and does the same thing to the person in front of me before passing them too, only to run a red light. It's ridiculous for a company to hire such dangerous drivers; something serious is going to happen, it's written in the stars. You should check if your drivers are drinking and driving because that's what it looked like.",
+        "time": 1746891227,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=10441529329850788765",
+    "user_ratings_total": 22,
+    "utc_offset": -300,
+    "vicinity": "333 Rue Boîleau, Vaudreuil-Dorion",
+    "website": "http://www.transportrogerleger.com/"
+  }
+}

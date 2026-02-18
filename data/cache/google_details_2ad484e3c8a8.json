@@ -1,0 +1,430 @@
+{
+  "query": "Manoir Harwood, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339938.1260033,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "170",
+        "short_name": "170",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Boîleau",
+        "short_name": "Rue Boîleau",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8A3",
+        "short_name": "J7V 8A3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">170 Rue Boîleau</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8A3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "170 Rue Boîleau, Vaudreuil-Dorion, QC J7V 8A3, Canada",
+    "formatted_phone_number": "(450) 424-6458",
+    "geometry": {
+      "location": {
+        "lat": 45.40341,
+        "lng": -74.041327
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40459283029151,
+          "lng": -74.03978816970849
+        },
+        "southwest": {
+          "lat": 45.40189486970851,
+          "lng": -74.0424861302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-6458",
+    "name": "Manoir Harwood",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1844,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118202794143405987885\">Manoir Harwood</a>"
+        ],
+        "photo_reference": "ATCDNfXwhPOl7Ym_GBNnnSddqi06ZdHEAhQPIt9S3fP_i6NggPG4bs1m6jEjAytRas9NbGNpWB5rp67Awaj08RGrvZWyDQ13f-9k0T0LTkIsI_lxpKWFgT_wEzwZ2gb5bUen4asnbajVdWkDVwvwvJ4KvW-fYWXIGtTEeyiE9QLZV5cujpq90d42MckJVybVi8lSW__3ngPGUJKbvd8S8fqn1sP-fISoApMVrjBgUL6ZdY8ToJUYF2hnYjHzHMsjB9imdZHFKjS35lxuBy9Z6Gc8uA3y9oZ_iR2Vcz6LiH9rORB-Nw",
+        "width": 4800
+      },
+      {
+        "height": 3199,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118202794143405987885\">Manoir Harwood</a>"
+        ],
+        "photo_reference": "ATCDNfX78ehFAK_dt8MTqd0YAM0iamtcx_PhNmmmnqGpFlIRZmuh4b7TApcgHVBsTbPiWoVJdQYXxfX4peFocbl97vb6Gu6IELVfPM9GtgyQOVxLKKLcf42WWlzwQAu4yJWlWNUmu3dprl84F0Na72PFHvNpbcoR7ix3Ds-578Itwvc9BjJ3iQuapG0wY4F96-LYIxBXYNgZC66UY5ls6K8T6Nw7nvdlfxx_qyEaM4VM44G88yKxams5uyKMR-xzeTeqrE3MTjVS9AnF4k0bfAxI3yVOCz2hQ34I8A6CFolOximnBw",
+        "width": 4800
+      },
+      {
+        "height": 1595,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115652085864455447621\">Noelle Hannibal</a>"
+        ],
+        "photo_reference": "ATCDNfUaL611KB8tn5NJVaVK7rwu3IFuH3za3KBINUskytE0akhQfADCWiecRHAPSlXObgIyX_oerGNx0GZdSfglCBjsEsF_xe6GjD39zKIbIMqHGWVcexOlDnr0DYNHnNUEvv3zoXU1imaTmhRT6U-zwTsZUkoJga3qW7Cugnpmxqg8w07FOTCGhV68LLS_NEH2t3cu-Il_I02VYQgSZucd4Vj00njb4CvDxZVVV3fvW9FS4jIKIA4gPl1r6AxTH97O5jGUbXxuld659QcNU56u8osveQEUYojZp9-6XIt7y4lzbzN1CNhl7gwM35LWSvSM1Je9seFOgwgGdQdyvMC7WeYkf_QGF_A1WBGDHcM1xxj3ezrfVovNBodEx86l3-1LDPdO9DTtx4x6f0vepBYPrinpPtHYoWAPDyrGmtMOOBkEPA",
+        "width": 2127
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118202794143405987885\">Manoir Harwood</a>"
+        ],
+        "photo_reference": "ATCDNfWrfCt-wXVEhgWolfY3ShSt_VlRESZsDJ_EC3YECowo9OuXKm5UnCLdLy4lgeruk34tiYx23I5xRtpR-hjczOHZeXkcC1gXugn3YXKa9y3HYJSv9QttrugenLI222u82TiA_Cj-pQVBhDO-b8NrMHVTw49dnmDVvspc9h-F15AFvqxgyl7Nwrg-qqDYpZiaVNGpEVD_4oCXcd8bus0vGhYrnLAErDi1RxjfO0HhB61gB4hOI04gJ13UrCaJT1qNrQBYDPtOidBoGMeSpx1UEq9lPX84sW4WD_v2IJogkZAQtA",
+        "width": 4800
+      },
+      {
+        "height": 1984,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115652085864455447621\">Noelle Hannibal</a>"
+        ],
+        "photo_reference": "ATCDNfXJCyBMojakTfpCUhEDMf6rlwEBn4UPpc-qSsXUFB4-SPV2MLh8c_QFtLe0hefbwqZPiLLrqmR65WpoH3jAvQxCs86Ra-ZVn61BTgJbwAB0tuPZjAFN2jppLDclm5Y1N7fUWak-rE1gwIij7R6Ef5JsFvpx3HcAwpNwEUJlW-IGr32E2aOo3W-ZKFMWizjrZN8ZsXHJB2S4aZUlWoTSlLUtntpbgDQVBdwh7XYS2RSijMRtp0T_0_jqN4WmQ-Q3rXyukHXSPvvQcsJUxMe6VWMHpsj6KPb09uOtw6NJAB2Y5-N9Ed4jD8Utrc9RmBAkgZ4YbjC6RemZalwR6G77ogbXL-DZKM2RWPdxvkoKleWCWb84Gorm3qkiMDFnNFBqn0XD5zZWwdmofakkoE6OSmd88NSRVwVqOxwWXS-08Csqe94",
+        "width": 2645
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115652085864455447621\">Noelle Hannibal</a>"
+        ],
+        "photo_reference": "ATCDNfW_6RmTOD2dqUpZps057EoqedEMDA85KSl_opVT3pETDHaLUB6_nl5r_KZNQtnNodm3AkGGoFskZ5knFZdDiSTjS-Uvm5WkyJJzQR8IpKhsp30Vp7TptiYv7uHG361kqYUizngOk7gQkg5Im3mok_Q3cgf-WLOr2mnVs2jtk5wW-ICDA8o3X7H4L-GehjoZB3v_a1v47qXUNr_-6aKqpZgLaxrHwBLM93SBhfXC5c-sp8_FkPl2hf6QXUg36fEFF0EF9jgpd2HR3uDSrWkSeAAqEZQWfJb0xn0N5yVEI9VkiOv1E0BN1GlzkkBOsqBD_CXFpikMjZoJUVoxqOmqPuknNn2Y3x1XfH5iq0pdTVyX3wN-VjEDgYeDgW_NH8HfAGFOcV34DRXtZ-UuVejGlJq9rThnf8qllrNvpAXbOnYjWQ",
+        "width": 3024
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118202794143405987885\">Manoir Harwood</a>"
+        ],
+        "photo_reference": "ATCDNfXvvefKmNVB6bpYyEI8yQ9-VrFp9Z86TWPRusa8CNg_VeBhywDMqOx1eAmeHbH9xEpPbPF6tiLpWXiXmYFYyIurxoOdpOdNPECu2Q5_kg2H9_ocMLOpQU9PpHPwwuinZwl_MtDO3yGH-F5zJqA7Ciax9_q7QmX1AnQ_L_DHmZzz4urVvOryGElN-7VRIpIgH0YDSg1WLkeo3esOUkVzDeuH7qdW18D9KRuDCMHtCC2-miINQ_gMkso7hYKxzBfEVXy7BluXqKWDYFA7CreBGasPEkI4QIfj-54VzLj7LJIirQ",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118202794143405987885\">Manoir Harwood</a>"
+        ],
+        "photo_reference": "ATCDNfWmzPtEEeD7xmZYNUBiPGP9XBby18AxR5hxGMj3ZmXZgogRmZ2NMyj5Tu9AftTO8qhlR18NESrvym1cpPnAS9g_TKMJJNS2M95WV-SyO0TEQQ7EUtpJnbsqeQ0eXZIPiXuAecd80zmkWSpTkoz82N3ETy7Y57zaxctbBlvZSF6DdHHYvhAuTZrQo9PkwHqNHN4adRhxh2lEn-AtqkSJJ8dioSHJ1wEJfCjXIrH2pziY7QHnuJ7psggVSxQCHbLCenCrO4DeGFHb5lNIJ2BXJKvkEtG9g3IxYrZnGtctzZanow",
+        "width": 3200
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118202794143405987885\">Manoir Harwood</a>"
+        ],
+        "photo_reference": "ATCDNfUcRhKW0MYm9PVUB5iOajlTehjS3_0PI8uZ-aYFRU7fOz_w5R_SlZesTAch2LjNq29hSJltt6kklv-B-njyu5NMdjJLocoYToXLbx2omfu28zRPwefsgzo3CnfBzpFKCY9E1uWoA_obuYFv3r5PZT8QXB2eggTdduXf7vVDHEfUIGpn3mGyJLa1qt3Xep82mnpImLN3Ctn_FiHQr2kqOvPU5fuZasP3BcruFvk4b8Z9U0kSrUHUy4gUNNuoHKh1NkunjHDRFjFAGcQBYOiQbeWXd8By3TE2Y51a1s6VqATvDg",
+        "width": 3200
+      }
+    ],
+    "place_id": "ChIJu5O_OTI2yUwRwSOdFrD0vnk",
+    "plus_code": {
+      "compound_code": "CX35+9F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX35+9F"
+    },
+    "rating": 4.6,
+    "reference": "ChIJu5O_OTI2yUwRwSOdFrD0vnk",
+    "reviews": [
+      {
+        "author_name": "Noelle Hannibal",
+        "author_url": "https://www.google.com/maps/contrib/115652085864455447621/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFSB6BYTMUWXnXjWpzB7I8jgvjXy_K2QXr0P8oQfA0CXFclhc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I moved my mom from a private, semi-autonomous residence into Manoir Harwood. The staff bent over backwards to make sure the transition was smooth and easy. At first my mom, who is in cognitive decline and suffers from Parkinson's, was upset. It was a big transition. But now, she loves it. It's sparkling clean, she loves to food and the zoo therapy. The staff are phenomenal and I have peace of mind knowing my mom is well cared for. Plus, they let me decorate her room so it feels more like home with things like her treasured elephant collection (over 150 elephants!) She's gotten loads of compliments from the staff as well as other residents! Thank you so much to everyone at Manoir Harwood!",
+        "time": 1715363100,
+        "translated": false
+      },
+      {
+        "author_name": "sandra yule",
+        "author_url": "https://www.google.com/maps/contrib/113754800138061228935/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHJAJx1EnTCmi2L-eEakWYQOJOhTKr1h1YcmWEkoPHqpntAQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Outstanding staff, very competent, compassionate, kind and attentive. The rooms in the new section are very beautiful and equipped with the latest technology. After a two year stay for my  mother we have had only one glitch which was worked out. We are so very grateful for the care provided for her every day.",
+        "time": 1693392495,
+        "translated": false
+      },
+      {
+        "author_name": "Janice hogan",
+        "author_url": "https://www.google.com/maps/contrib/111646204921189555453/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUMJLL9VTdMsIf-DszpaTxNJC6UisED2VY9x3PUu4HZoHaLk3l=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Hello i live in the Vaudreuil area & i would like to know how i can be a blessing to someone in this home at Christmas time, either by blessing them with a gift, a food basket, go shopping for them, in anyway i can please let me know thank you so much ?",
+        "time": 1605463271,
+        "translated": false
+      },
+      {
+        "author_name": "Alyse G",
+        "author_url": "https://www.google.com/maps/contrib/104529353813429749052/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURvPUAWZBFT4V9FXgxzLCk8H6oMc0kD6FHAiXkeAJg9Orag4lv=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "My father stayed at the Claude Pavilion, first floor, and I have nothing but praise for the staff. The staff was attentive and kind. Thank you for being with him until the end. They are kind-hearted people who work there.",
+        "time": 1720699874,
+        "translated": true
+      },
+      {
+        "author_name": "Louise Stephenson",
+        "author_url": "https://www.google.com/maps/contrib/105786830212810879446/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlHGjhUpc1hYwSZnaIduDhaMBg0EZ0LcKzhoIdrIiNEO3ptE-M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "An absolutely outstanding staff, hyper-competent, human, and attentive. The rooms in the new section are very beautiful and equipped with cutting-edge technology. After only a few weeks, we already feel surrounded by a second family. Thank you for your welcome and the excellent care given to my father!",
+        "time": 1685043713,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8772718161295123393",
+    "user_ratings_total": 11,
+    "utc_offset": -300,
+    "vicinity": "170 Rue Boîleau, Vaudreuil-Dorion",
+    "website": "http://www.chsldmanoirharwood.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

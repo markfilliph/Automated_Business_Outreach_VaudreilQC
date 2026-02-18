@@ -1,0 +1,402 @@
+{
+  "query": "Banque Scotia, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338927.4905577,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3070",
+        "short_name": "3070",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H1",
+        "short_name": "J7V 0H1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3070 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3070 Bd de la Gare, Vaudreuil-Dorion, QC J7V 0H1, Canada",
+    "formatted_phone_number": "(450) 455-2233",
+    "geometry": {
+      "location": {
+        "lat": 45.3971229,
+        "lng": -74.05479430000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39837538029149,
+          "lng": -74.0534523697085
+        },
+        "southwest": {
+          "lat": 45.3956774197085,
+          "lng": -74.05615033029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "international_phone_number": "+1 450-455-2233",
+    "name": "Banque Scotia",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108283357356355104920\">Alex Cutti-Meloche</a>"
+        ],
+        "photo_reference": "ATCDNfUpgzeFWEHQAVGA8ToEIir_HyUuQRTTS1JBnjLZMpfaZASM4u2cCiYWVwsQ5XUDvmAs8hMNL6WIBu3p5WxqBW2avPUkH11eb325WTZjXiXVaHSh0Bdy5WDpRHeDK0DC32_Ewg6qiP7iRFmoKP1-eUMrb3IqlsqbY-P58tYdhRQeI3asKXq96XEqUVb2oDsXaaSa6an93_OSCEyASCH3Z6hXyXZU3FyXg7mWhm3dFq4A2QFI7C87oUUpH0u9fiadBVmU4BsUs1O-YpHn8ftNXNP4GPH-1WADn-nyOX_vDjGgr1Ehi5NiNJvv3jNtPCjNY2BifoRV9d9L-BdlWjr-jx-H7fx6B3PYZwTbVbSgKH2Ix3UHSesB5W1ajgwzgyfwCtOTqfK5AtkFz3BDc42RfkpUuYjcq3Tbzki4fc-IQrpCUUyYBbTkXP7R86BhRg",
+        "width": 3000
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfV9gR_qMSTeP0PK_Pkw7CXZTkh-M3m9-U8kxrgsCs2IevPhHmpXccB3BkQ2HLv9Caf41iu_njtdpqeCJTBEk3-7iysqm2go5BzlhWlUG0Tli-PMHY5xRXm2hrt3LV4_lyToYGkvxyGmBm_1z7rBxtJ104ViDJqm7xWGvhIXrmfz1PtFxNxvUE07WizUtfSSQ2vGaGh_4BcBU1lh-R8lfcx6LG0mbVrYGEYvb-cxW03hHGDeYDj4sBKaxHxgy2N4PBq4O2cK6uwyl69s-NFr41yzO1WctXitQcOB1wT3G3HlEPQ02ap4EIBF-LFypxmlkJ4SlViLTs0L3W53j0ChOZwQqztuX3kc839QAZK9hsw9WjRBCA5pv58_b4uIWFmxXaNnk2dxYdNH30ULrhfJ8siQILaTuQWk-q1Xoikm5LMJ6aQs",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfVrX-pRUQtf1DPtKikVZzYsiNh7DrP0Qp6mGqc-IcNG1vHlZKqi1TnSdDUe05b1DqUTxFvzz-gfB8iSJKlsgl6AvLIVeTyKj7mmhZt1UmLh6hMEeeC9gZaNPtOvG6xUS42_QxG3yH03HpMbCkrezvJXC3DkHJbg7RvW3gHBPwsjp4wmdIGLHqQMd4USCl3VaGQFBDjwjXsdKJrJLGXytZ0mc721n8o51plP6hUyMmh-i7bFsE1kt_DadiXK8hKa5QdMyUKzioBYF5gVT7rwlF-jrTeaKOoGTP-d94QgwrYmGOxcBUKqp9Eb_mTBlV58NhUFQoToH05HiDgJqcvrphMCtGFJXdk2oSVhxzlVD3NxrAm3PN5DYQbgnEQkKHVICWO3JdmJbNgGPybW2Xg8o51FNe76-w86n8Uwp0yhWBFuRcvIp2HE-8t4sLDhgKIu",
+        "width": 1920
+      },
+      {
+        "height": 1472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110456644003568543953\">Dany Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfUlOJtyl8CfSwo7TEF4T8mL86jPnaK4dahME-mhdO2QWgDUZPGSjmosH8X5fGdWNYiO_sVJ5Jp2m7z-bHUEN1eYIcUzMS_lTyjrhCWl9SyAebBKzs7pLSROnqR0_UFed1odwJeNxcK72DWE9khWaxOZIfAtFhjCHWIIIsNNi7U93lkBRAj1YZ-hxco6QoY7q0AvYkE1UCxGeG1kT_tBwfRc8CEP8-zkU0U-YIYV4mrdc_OT35z9C0OiqzhET4Im9L-LXvLDMqL50kTIC98r-QD6HwD_hdh8q705bz7NSjP7t7_fT2JgRSI_SNYcHPcuM7hJhMcCq68hD2ACL_b8PfM-UWsydoixSnRmClC8ejQ9_H3KNVGRzJ68OJezAupoBG0vbljzw-2QGclpJO6OhlrKoP_hdBtF5Js0iztx6wPTrw",
+        "width": 1962
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfU4o40LwsWeCSxprypeWZAmR2fjWGW8b0ee5OnNWFBlFw-a19RGFezWseSGamHYKYBnlXOTWfQRoed_F1ym3zMBH_4GbXOf-N9xYRqF693bwYHmoZAWl6aalndPu7mkL26n6mbHlNZv4TYrODw11TRtNnHbTlc_RvWcfQQFKmBWU0F7TnWlC_KV5OFRDH54iO6ey1LQdDAnPd9OZ3GcSnCktekZTULLwhWcminbCEHCZgnG_ac9tIG7yuY3ebkh6uoDZhlxqImwkfxkKnStGwLU4SnKh3WKJs0v_vmHHb_Wa5qRbHJ6J1Yu1-9rPWaStoZbvcP1wvElxa-3d4Cu8NkF0PD_yZKqaLsGdsU5VdtdyjEgQywfJlr7wt6GCMBiavKcmNARn0TZaQcZfjxsYWXS0P79_oUl2GomqQTZZQpeQB0dHerFFmd9vtiMBLUn",
+        "width": 3024
+      },
+      {
+        "height": 588,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109074663699167342584\">Jaspreet Kaur</a>"
+        ],
+        "photo_reference": "ATCDNfUPnfSXCPnRGcWfaE9efd_K3waBJ46uDZo6TfYMWMudq7yiTg4NMvtXPNvrY9w5nYGCnzwk8elMcReztEcnx4ZlAKm011rnXJ2ZPaNZ4u6C7cQRdcZopRA3fzGneR4hR6__OBKT-iniICzZDFKZCsqdeCBymaFnZDOVc49Iq5lnIcExbZy-xG54Wrq5_yXB_j7zD4c5iw0LZqO8wJcc1qcN1THKaCvUOA59f0O9Z0DLH2nGpUXKmv0QpC5TwJcGdAcYUyqpy9HKUuHSAbPp3alBEkf56rUDnXEJo1vw3xlecRJNNzcODWhRRSFGJ_-SuZlEAScg7iX7R-_S-eoZvWmH4knpHoGsq2UuKcyiI48Wxx-dRgCsynUKUq9X4aR6Jv3gfFUXJgga5AFUh-vNmGzOdJN9-h2BwbLXYOVtMP8pOg",
+        "width": 818
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfWmanQ3EQ_RlI-5wSSi9cJ6LhVzP4naU3T_Jdz2O3v7dzUXEs-hzHhkwmE-EypPwwL2gWgcaMGAV6lyQSZaP19JGcEBsut_rCzxdPLoFJDwG0JrraLD_AIA01s4tm8fqeO4ki4bRc9FZmrjEbbV_Q9kmjTtJabHweH0ITMZp07HcTOOMOQCM1K9w9TT-NPs4H7knPQWt9Ya-cq2Mknhu5JNbRMShqF1ClTq-1GHh86ARIgImA-9vbFRdfWwaKiYH6hS8ewc5YJY-5fHma4GnujrZ06pvHNUKebp5yUu6wu_hwZ3qZR73iC1BAixg9bkYPh8UgsbHk4aWM-EYFYworXbMUn6ZTodazBqzcHcUoYA9s6M54VX5u03TQBb7V2KiHsTxR9n-wOjnLIpTf2N8Zy-g9NHL7DS6pRmb_a9GxOzPQ",
+        "width": 4800
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfV3AMfC_-CABq9s4s8N9YwB5PaKsBFWZbCZRVQqvvh-G8o2B3vdILFb6VUw4bgf7s81n_QfTDpUpz6JyJ-7c7Jt5R25DvzGfJbRjYa9ehS2p62NabSJBAdf1za0lumZJVIfDEDOlhwz3CQ0IUEJG98qRIPY_AJgtVkB2PGvRM27kAigXRAeFPe9lrhOUh6y2uObKlYV244JSkPdpkSYE86Ugyv2k9K3IcfYb4b3bgdU-XVAFNv2P_Y5SZndf1WkCBouYSaeQYPX3O7_GeHOj41hoPrmyJytPtj9GmhBPQ312CYc8t_3X-Wajgg1Lsy0OkezatMhAPp1lN7-t2RxADwA15B4N0QWH3rJd9eileAmQQa0Vhb_m0gZl98KY514C3sxkKBuAZkurMtF32mB5knm-4yyuPOA97uCRb3IFlV0Xw",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJ1az6WiU2yUwROmxzf_UMFaw",
+    "plus_code": {
+      "compound_code": "9WWW+R3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWW+R3"
+    },
+    "rating": 2.4,
+    "reference": "ChIJ1az6WiU2yUwROmxzf_UMFaw",
+    "reviews": [
+      {
+        "author_name": "M P",
+        "author_url": "https://www.google.com/maps/contrib/109008316224730867162/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9q2eEMmdJmY9JO-U1GLVdTG7q66EC0VA8C_no6CuTeUVbxxnpQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "I made a transfer from my saving account into checking, and a day later the money itself was back in my savings account, and there was no transaction. I made another transfer, but the money isn't transferred to checking. It gives me a reference number and that's it. Nothing happens. I can't get my money back. Tech support isn't responding. THIS IS NOT A BANK, IT'S A SCAM. Honestly it first time in my life.Never happened in another banks. Only scotia",
+        "time": 1760464550,
+        "translated": false
+      },
+      {
+        "author_name": "Fan Zhang",
+        "author_url": "https://www.google.com/maps/contrib/113884967228614326854/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXcDXeD69rOuVlPPYVV6yAsty_nPfgp0hlxZZg6HcuFRM5qA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Possibly the worst banking experience I've ever had. I also work at an FI. I went to restructure my existing line of credit and when the outcome wasn't what was I was told, I complained to my banker Sarah Dean. SHE THEN PROCEEDED TO ACCUSE ME OF USING MY BANKING KNOWLEDGE TO MANIPULATE SYSTEM. Absolutely unacceptable",
+        "time": 1764690529,
+        "translated": false
+      },
+      {
+        "author_name": "Jaspreet Kaur",
+        "author_url": "https://www.google.com/maps/contrib/109074663699167342584/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfzmroR8Nn0rCvidJ3EE6SUZKjDHsIKi_Cw_PcA7XUXBa37Oap1g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "The experience could be enhanced by reducing wait times, as long lines can make the service feel slow. It would also help if the staff received more training on the system to speed up the process. A bit more warmth and friendliness from the team, such as a simple smile, would go a long way in creating a more pleasant atmosphere for customers.",
+        "time": 1728572791,
+        "translated": false
+      },
+      {
+        "author_name": "Rakesh Arora",
+        "author_url": "https://www.google.com/maps/contrib/114932248618714390476/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHIW4-f25fUuqpc5LpDvxrSQGtNL2EDH8OgWyB8xLk536i=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "We had the absolute pleasure of working with Carolina Stoll at the Scotiabank Vaudreuil branch, and we cannot thank her enough for the outstanding service she provided. From the very beginning, Carolina was kind, attentive, and incredibly professional. She made every step of the process feel smooth and effortless, always going above and beyond to make sure all our needs were met.\nWhat truly stood out was her patience, positivity, and dedication. No matter what we asked, she handled everything with a smile and made us feel truly valued. It’s rare to come across someone so genuine and caring in the financial world. Carolina made us feel like more than just clients, she made us feel like family.\nThank you, Carolina, for your warmth, efficiency, and for making everything so easy and enjoyable. We are very grateful for your support and look forward to working with you again in the future!",
+        "time": 1753913033,
+        "translated": false
+      },
+      {
+        "author_name": "Jennifer Mancini",
+        "author_url": "https://www.google.com/maps/contrib/117193015923834792045/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsQ79-e72ny70XQTlz2fqC4Ugi0xcDBuqCorinM7V0oZTW2w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Scam. Unfortunately took a mortgage with them and am forced to open accounts with them. Dayane lied and opened and overdraft account against my request. Very sketchy and unethical business practices",
+        "time": 1762454384,
+        "translated": false
+      }
+    ],
+    "types": [
+      "atm",
+      "bank",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12399831397579320378",
+    "user_ratings_total": 117,
+    "utc_offset": -300,
+    "vicinity": "3070 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "https://locator.scotiabank.com/branch/03111",
+    "wheelchair_accessible_entrance": true
+  }
+}

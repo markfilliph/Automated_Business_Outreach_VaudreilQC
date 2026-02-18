@@ -1,0 +1,405 @@
+{
+  "query": "Mo'Bagels & Beignerie, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340375.3250499,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "235",
+        "short_name": "235",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "585",
+        "short_name": "585",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P9",
+        "short_name": "J7V 8P9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">585 Av. Saint-Charles #235</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 4:30 PM"
+      ]
+    },
+    "formatted_address": "585 Av. Saint-Charles #235, Vaudreuil-Dorion, QC J7V 8P9, Canada",
+    "formatted_phone_number": "(450) 218-2022",
+    "geometry": {
+      "location": {
+        "lat": 45.4079416,
+        "lng": -74.0325916
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40911193029149,
+          "lng": -74.0311695697085
+        },
+        "southwest": {
+          "lat": 45.4064139697085,
+          "lng": -74.0338675302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-218-2022",
+    "name": "Mo'Bagels & Beignerie",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 4:30 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115909587867604040512\">sylvie bergeron</a>"
+        ],
+        "photo_reference": "ATCDNfUy5PvqpZGX9o7oh8L1ASti9bHaKaFqVUQrT5OQXOcN6dUAthiRyrhu4RJOOlC5kldJqup-kpX0_bMo0C6k6RasL-824iQAxmFe9fy5XWJqQULSBHrhqeso6op8uXUqnW9JVWdSD5tgYI2JQxo41QZIIZhqn6_qlI1j4lhJnFbTWc_O_OQYbhk_F-lFt4N1dln9EZOmHQK2Ganx3lLA1x1gvzN5DuE5nqLBkNRX7YJdVgYrdN4UxwsLWUfo21BKCcnsp8L34yc8dNcgnjufzVe7MlrcNQAXFVFH6d9WjNSMNaaT7D2HKs1kAzsLOu6f2wiAfhu5eQNhDpFzf4bMx6UCDb2elDFFjk0DVAIJgkA3pvkDNdGcdg38kMRSc0YHQFnWsytZJWWcci_JjjCwRbSvBRsk0Oq5n0ktWFkBi1KQ0_Je",
+        "width": 3024
+      },
+      {
+        "height": 1178,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110728142862515421495\">Mo&#39;Bagels &amp; Beignerie</a>"
+        ],
+        "photo_reference": "ATCDNfVmEH8SoysuDhPtOMz0QlZ5ZIolJDlG80MkSMzuXMkiafGojeYrOsP96buTTZ004GCZvdiAUoH-axPA1vq1VyTrvRb1D7LC2oazh77U9hMfIrIbg8TXf_ygs8evpWpwvkaYFCROtVUPT5gc2B1xMOT1fJntMCCgNwpA2FqHsHcAh3lp5ZZTcTrxUMCoy0t1oKnL42fyO3PU1WjlhoPZBs0Lg9o8Q4qwhlg6LAB7b5VyOh963FvEEsHrp27QleMUlYIjPM_A0UftcNRv6ueGPVWr1NPACqAaAQ1A695_Rj_m1w",
+        "width": 1440
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115281563594352145613\">Matthew Cragg</a>"
+        ],
+        "photo_reference": "ATCDNfVGYxs73X-dGoX9qQMcp_IbnOlH_-QH7xEyR3ewDq6blaxgM4fKAggpgUnVsAWZto41vh_ZI8C8L2HLNICcjzv-UhsqNgQVEMJWUHRckSQBVEfLO3W7keaGRrHm4Izd9rKD7KmmszGbR1aGqBfM1_8neT19wZbGds9q43RKjIL9ixAOCgNawe9ROrlQAiMNiBVMYI9p8Vk1pj9sSW12F4R-4ArfOVr-dU9qm5bM1Dl7hTsLo_ttkX9EP5_Aqtr2dP1vSoZ5TffRyUvtduCSiDk28b377OvmzR9NsCJ_frXRgV1Gi_DAr9QMXfkEgI5AFFqPbD1-FNy1FUTdde6wrOiY_b_MHGqI7sBRTwFfBQLfbnTggkYXPBzOQ9oR3cZQs2t05cwa2vfUz7lNq3bZkqFW6OSSP34PwNvxk6yJwo9Rqw",
+        "width": 3600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfW87ta633sB4DQbRJcE2SVR02lS8uGvX-9vblTiL4DHKcdKXW__zKPZIYeluLMQo2ZhG5SZ2txszrOC_VASlyuhb8jQWtr3cOg2IltVfJ80PBXgGdQ4ddNcrxoN0BS93O_fvNuk5rO7tfuIIoKK20z9C42NqGO4AWPxOyuxzosS_jmdUEQPzJwziXAVt_-dAYzhxGipSam35V_ZWr4_crhoCr_PFhngYfuy2G9eMaExGm21cI8dhgUDlscLtjasijT5F_QSVrDqcsNrfVt0fYe1s5IzCMak8UCOyvar9pbM4Y8m6zmXJ3gc8Ah_ylUJZl9ETQnF-zU8SuH_1gAgF-vXCjXmyQcMoLrC_ktZz4QIta81beVHxUmhAYHdQLT0oMElZNzlT-0NSwBRq2Ycl6vyhFAts9zUo-EWmf-9nsqW2ECj6jpd2kJ6camxTqbZ",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117366626289458110984\">Jasmin G.</a>"
+        ],
+        "photo_reference": "ATCDNfUqSWJ40rE01fXX2Pa9DpRaqOZgAawtBeqsRKtEyGsfKefK_XuZPDqOUw30rDrLQKHtbtZVYHfR61-c9Z96C0UU-qCqZva2VfqOUWxZpKBwR1C3Jl34PehmyXgGmcbGa0fqVkPZqf800ohttCW4PN3SElnKdW49FkvXYh01e7k5yG460Ny96XP7P-wMSdWGrfCBmQhKq2BAepR0-bJTlNPyFdQsStF6roTJ0WIZ8k_xOW0Ez99xjjJLbHBKQJaRkWlNQ7VHlYiYMJ3-zI-URiZzOCehptuEdouI6XRK1UornhjoZ51GpSSQIqerXu-sVO48Uzyb4ybBs_jH-77Aw0G9KsXpCPklPPIajT26a7BESbxk1IUfLvRqOyUUT61pFDkCSQvax6BqnGJt7Yqp13PC5m6ZTfniWtL_j8n9Nh5aSQp8",
+        "width": 3024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104848410476171130105\">Mark Maceluch</a>"
+        ],
+        "photo_reference": "ATCDNfXRc0kH5y2_9KPn_VbKBWOyY9BpPbFCGs0m6uxLTEPfmbUOYATU1DAQWp1jheqfwEYNLxqckYbk0BgWEiM9dZBJuXUaTHwyavweak6mJFp4x6cZS_l4-BxwhXlP9ltj-8H2ykLN8a6O7MOLTH1uGMRdxT-Gl7kqe7PUwcLSxe6Fzu66KV80hC673IQc19IhV-qaazHLZ9lbaMqLNSds-RTETPUTWSA79qZz-2Zp9QMinjTf79ZncIqHlQqdT95We9uUAyKoyKT1X0y49ChJM8jW7A0iAOWPyZrTPaiqLdI1DV8GOvGmznMvoqS-bAvq53zAWGhDU09TEOQP7BnGdeBGTc613oVES8ePQlx_zIKW9svvuWf2s0K7pEw8CB1aZlVpsMRXGZtq4xgtr6wyRciI_7VHXDtRRD6m9UhcDjDblyQtrU2jW5H8acb4vOof",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110728142862515421495\">Mo&#39;Bagels &amp; Beignerie</a>"
+        ],
+        "photo_reference": "ATCDNfVGwAOWAi977bSG8MA2_o3xMx9djXzlRZeHOqqp2Z5IqzdPK_hghv8WnZWGmcz4yv_i86PFvheRv0CM6ux0khhjnoY3VEKUHpvD32-7wKdUWsDYtx5Hs9FQZtc9bJlRPEsPK7RsHxtPmsid7L72OYI6k1_B01ixKu8WlPKnak260mEnoThskTVP49io4NUrycrne1lobpmf1lPXZtteYWALFFgJeC2oJoGcWZqblVMZwxHtj-Z0ONugOn1WjrQap03VWnI7xGkz7ECOqbcl13Fd5mxplKtr_rl7lrtqV5Xk4w",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106371976364328310498\">Nelly-Anne Bouffard</a>"
+        ],
+        "photo_reference": "ATCDNfXaGT8m881Ays5cH0M9Kq9KCaH4C2C1Mw-KfsGWBsIPDdYKOClSSSzf8JfHU4BpnRyNv4gDsDVeGahkWhDuS1MEOgPwZWAZrgk31wYITjWWTEzCTK_F0jqQSgjyR3a94R_vSlFxfcDEH9YFDMgQ_78D-_FiUuCkOnMQlzLKkoVYLDtJ55RI7GrC-udM147sJ_m5GWyxwJrNjYvTKJ8iPpG_pTxy4u3IWAfLUBMj7iWRskDKOtChCvTmoCeySgkdpMNE0-2vHcuzdqMK4ZAgXPF9c3wCzqSYynGfuMjj2zcoxExLpcdt4JbRiFXadCgtFKKaAo8coW8bCl7U1itoUbhj0dOYSUJSBiLsg3Ry_SrZuTZ_kbM47eM0XdK0aKIo6XcR1-uPFj5xqGav2oozKEOxRIR-3eXrNHIjTtUyelc",
+        "width": 3024
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110159210996169301242\">Dee R</a>"
+        ],
+        "photo_reference": "ATCDNfUihp9SYnDFM--IfiuaKZaVxm9TE6Hcl1kVy04_t4zCwJf_6vRqhZqXvltG41plD7Z6LocgzDWK6-tAd8Qk8E2dvsfvlTVHLisrfPJ9AjiQvis-9liZfJXUn4bS2jiDLUfeodKoVxOqKP9Lb8_qXthNO40UQFMeEnCiJ_cv6cZGfJ87N4SdA3K_ZcySZ9CQOtZfQrYG1eRQzSitnUbO0tg_rUPN2oOCRTDEABX3ULyn0moByrkAOHrbRXw6h6aawmQDgKManZDBP9Hv6yU3qgurgtgqrFQ_c4qd1YF_LHNIsYHqo60ivouEa6df5rl7l1VfOUPu3WCh5eUvbKAPSppvIWd4Cb1nw24QPjX7LJi3FtfEcTRS1U-Pd3UpiJgUYH_A9yY3RCgmPdBf6zb1uq0Mp9o8z-zN-bL0A6-_E4CkEw",
+        "width": 1080
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117366626289458110984\">Jasmin G.</a>"
+        ],
+        "photo_reference": "ATCDNfVwBARzQMj63MKztCmsrq3hWB-hz1QCYMEIscTeTV8WNEBN0FHbtoZ88M56Qqll_ptoEvJmNwwdJQ9a_2D-JkMF56s6qSkqoYXMfvITPQorYtOMaRreH-OJx9-3P5e24e-kqXRvZugaKJk12QQpDpwAp8Yj_nlwN-ACEFIRKOuj_XpF35HIuxyHw5QpD4gegdMm_WxNOSHEA6eXC7rJkLfi5LJS6Bz9VXIsocbbwO-tXjkal8h7JcdKTH2y3RdsqfK1jtlxN3_5A1RaWbk0bU8br2W6TDs5uiwlFVZVDtwtaB-VwDynmcmPy5wX2bYDCodn5TetXT9h3JEXiNuUFNXKIwmiuOobsi9IWImsizm5bwRz1TMhAadMGoxNAGuP6H6s82YFHw_CxVz5OKgjoPYiW3tIKWtkhFctdLN-gBU",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJq0jMwYc3yUwRmE21s4_5_Qg",
+    "plus_code": {
+      "compound_code": "CX58+5X Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX58+5X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJq0jMwYc3yUwRmE21s4_5_Qg",
+    "reviews": [
+      {
+        "author_name": "Mark Maceluch",
+        "author_url": "https://www.google.com/maps/contrib/104848410476171130105/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWmbjJlB3vojk6_HKmMm4t1AzPYgAxBsajrQcg-N3z6pnDStXH=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Served by Krista.  Bagels are top ranking, so tasty, I was actually amazed by the these wonderful bagels and now understand how they sell out quickly. The bagels have a honey taste and ingredients are all natural, and bit soft and chewy inside and crisp on the outside. The donuts are equally a joy to have while your there and top ranking and amongst the top 10 in the Montreal area.  Wanted to try out their donuts out and was informed they do not make filled donuts (no Boston Cream, No Strawberry or Fruit filled donuts), so I tried out their Apple Friter donuts which looked very appealing and were quite large.  So I bought them for a few friends to try out.  Everyone found them to be delicious with some apple peices here and there.  Some folks noted the dough was a bit chewy, and others thought the dark sugar was a bit caramelized.  Overall they were exceptionally SUPER TASTY AND AMAZING and would buy again as my favorite donut.  We were informed the Apple Friters are the most popular donuts and this makes sense as they are really tasty and fun to eat.  The location is very clean and service is top notch and friendly.  Try them out, the other donuts look awesome and bagels per reviews are very positive.",
+        "time": 1759002267,
+        "translated": false
+      },
+      {
+        "author_name": "nicole",
+        "author_url": "https://www.google.com/maps/contrib/110066512314952250523/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrVEUrtXCuuHekDCq22NzI-CVLoN7rM9hDTUbgNGEjj65aIg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "Fresh delicious bagels and donuts. I really liked the texture of the bagel, but wish the flavour of the cream cheese was a tiny bit stronger, but it was still tasty nonetheless.\n\nI want to note that it is more of a take out place. They have signage to indicate that they don’t toast or make sandwiches from the bagels. So they will cut the bagel for you and then you can select a cream cheese and apply as you’d like, which was fine with me.",
+        "time": 1753757039,
+        "translated": false
+      },
+      {
+        "author_name": "Dee R",
+        "author_url": "https://www.google.com/maps/contrib/110159210996169301242/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuK5p2OsXzl8VN2UxN0d4wLH6v63ZjG3jK2mN54z4sqRZTrGhD=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Checked this out, when I went down to Vaudreuil. They have so many varieties of donuts and they're all soooo delicious. (Mouth watering as I'm typing this). It's a family owned business and they're all so kind and friendly. I regret not buying any bagels to take home. Will do when I visit there next time.",
+        "time": 1748475378,
+        "translated": false
+      },
+      {
+        "author_name": "Hunling Power",
+        "author_url": "https://www.google.com/maps/contrib/110656719710018986456/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW9TbyXJ-rLlcFR9c4fyiKkD_xnAkS4hfH-Xwa4WVYcZ5KyHVn=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "So I tried one bagel from my colleague, then I went to grab 2 bags this week. I love the freshness and the texture of their bagels, and the service is amazing too! I hope they can open one in downtown😋",
+        "time": 1751547603,
+        "translated": false
+      },
+      {
+        "author_name": "M L",
+        "author_url": "https://www.google.com/maps/contrib/103881271613962755268/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKSLe4eAnPpuD2hmRgABitMM_CxeiQC4tZP-GDJZ_Y5ZjKaA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "10/10 sesame bagels. Donuts were SO fresh, a bit chewy. Apple fritter was a 10/10 with actual apple pieces in it! Very cute shop and really fun options, definitely worth a stop.",
+        "time": 1765806640,
+        "translated": false
+      }
+    ],
+    "serves_breakfast": true,
+    "takeout": true,
+    "types": [
+      "bakery",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=647948317001862552",
+    "user_ratings_total": 145,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 585 Av. Saint-Charles #235, Vaudreuil-Dorion",
+    "website": "https://www.facebook.com/share/16QDxrySQF/?mibextid=wwXIfr",
+    "wheelchair_accessible_entrance": true
+  }
+}

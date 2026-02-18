@@ -1,0 +1,394 @@
+{
+  "query": "Armani Coiffure, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338984.3348405,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "573",
+        "short_name": "573",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X4",
+        "short_name": "J7V 4X4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">573 Grand Boulevard</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "573 Grand Boulevard, L'Île-Perrot, QC J7V 4X4, Canada",
+    "formatted_phone_number": "(514) 453-7071",
+    "geometry": {
+      "location": {
+        "lat": 45.38703,
+        "lng": -73.9690847
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3884100302915,
+          "lng": -73.96791106970849
+        },
+        "southwest": {
+          "lat": 45.3857120697085,
+          "lng": -73.97060903029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-7071",
+    "name": "Armani Coiffure",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100313462357261175227\">Armani Coiffure</a>"
+        ],
+        "photo_reference": "ATCDNfVG1ZK5-f85sJ6xZVLK5_o8zFq3ZTkKqYK0-v8lY7Tkn4LWK7jCJZ-mhQLfdZSm4LCednbm-fNBvx7rOS6ewkrXtdw4ke1k4SP7n98OvtsCksioZ7kJDY7kIsGZ8vvpjkjENz1pVHrfqh37w33c9WjsoS8SQi2NhkXHkq988JPUCmd-azy7orNbqOXecbkdJI8M7ulucqRTc9mopQ17QjJ01uW71BpwHeEwtLqJ-eLDmlIMg-LvkEuanOOLHw_30Cx284IRqNNESJimTna6RFPg9qiGzXGRa6wmCUuXrpRgHA",
+        "width": 800
+      },
+      {
+        "height": 1619,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101753506985368218535\">Carole Turner</a>"
+        ],
+        "photo_reference": "ATCDNfXMF4aFmvnI1kDtRKzUoTvGiIZ-z2RZ7rikRCABI6jqdDXv_74d5-AfmMrlfo3W9sq2FQq_2tlVc4J-Jf80q_8SMdxLfniALA4lLwwoOI-fIcwv4l9NDBd_qZY9O7mbEjeiL0eYaQVPiNY3KlN9QLmi6Qimm9OANjaUeMi8iBkaKmBDbZfjcBHei0HRbBsyzjaWqts4yCqrYoCe_9g3fjsFySI4q38X3NaRkJsim9iFtlWfqqrw0IeXyhuv20c9w3D7POoMRo0pa8XMiS8Om5DWMWBX_S5FUmjUf19DwzkdG_XNlTyz4i-72i03GNUDgGetQka2PLng3FABDj3KP3irvbpYq8PBZvxaBqUx6EUw3urDaer42VimfmerzAERdQCeNRTYQs-25sFB1tjwoFMeIjHbVAIZ0BNXAlm07-3DEQ",
+        "width": 1080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114454308022548004328\">kiely hurton</a>"
+        ],
+        "photo_reference": "ATCDNfWxAGkqivDH4BFXyD1VMlM4o5XMQMrY-CWJ_r3LEOomQK1_cB44WduBIQ7pk-F2yWwPfq-a1aTTctqn4nLSRreO4b7KV0VEBhb3t3tbmWNShfAt_Ov1k9ZdRvwOhbRt0xQnzkWtBv-xNcYS75QPG0kHimEG-ex4o5DzmwAXQ8OuJjxbaZDoJ1BlqDaa6lKJeDGhRo7hdSQFAmrelopkjH7Da4lBDXfWth-MaxU0SRxtfBQBIMv4WlY-etTluLR4LzJ48Hhhhr-58lp-FsIy7EtFKcY34Tu4d2PAeksFIiFNEXK4fWTln8PFb9Mevv05_FlrOVSV1la_j5hw5RQ1Wn24MHqJn-gAgT0-iEPx14mpjZtWKKGRB-8BCAEwfObcqQp4eaRMFaP6VdWN6werQFazshCW-FDBbfwrxKFrlyPQgnIa",
+        "width": 3024
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109281509860561340630\">Hailey P</a>"
+        ],
+        "photo_reference": "ATCDNfXY5kgfUn9a4pQplZWN9VQwxkca43ccVTqa4LgUJsY1rRhCVuPJTV_oJQE4rNapt_z5SLKTIAKTqunytXj6y5miMUD-eLf7DPnPt5e0erxcXppmXY_3Nuop4tF29_YA2uJIUtvVzUBszzaHVxWaqQ6w79t1bU6yjravS0DTeA6hZ0eu1Y2DIYkDJsjIVTWV6WaLP-WhxLM33vO3EIOHUszokZuC0Cs54lJr3_EpNmygWQSlifPJLYZHULANaz1zBf99ctMBWDIkDJBapZ0-s_ArQiqIWCDshM8xNIfwRyVKP15KdXFFhZA1DZntpF86YCbMzx3YoOO1BCIctCHh9blku9lxdGexzS9ZbZX7TFM9ZEhFzGC2RwuQdl1GV3ovjLUcebogcG8OIhaAP1Vn8IJp2qctp-VR6KV-QVI5Sy0",
+        "width": 762
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109281509860561340630\">Hailey P</a>"
+        ],
+        "photo_reference": "ATCDNfWVuH0c0FPTP6GUouHDe5ufue4aQ0uotLx7Phzad-Tadvwm4W1Hc7G27eoDiLpMKs7YzWSZggxz2hJKGqIVWBzza1Pqlm5Qzuxy_Bmfa78IFBDHNZfbC3SyjZR-lV_DjhGzxl-5_tG6myvMhVvDz9AKtojqfOUEzGlSByL6VMG012C8GUUeolXgggTPU_0kQQpdSihL3yCClaMmR5j57QmqNLo7EIsISVGz3gZDx-qGPQ-WB--sRCwCcoE7a9zz4c0e4xM05ZLjEx_aRJYP5Je9ZcqIZHB4gR9GnsRegHyhXom5efQkoa-GmwrQfH-VmV0OVSJx7xBTaeElLUdOotnwY7b-EM46rP9hG6-zymw9D53AqRkLBZS9IrE-6qfBsdZOzR68tk3wumXJtGJc-3RhzuA5BpLEFHgKku91Bds3Rg",
+        "width": 669
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101753506985368218535\">Carole Turner</a>"
+        ],
+        "photo_reference": "ATCDNfVmLvgB8ojA33zAKszHr3IFmkCJsozk7UcXIptmBwyYnfD15fY8Of4g_XUmGkdXmXhey5tEC0QWAjr8cGHSoVpWLTOiVMzZBUd3CfNYPlQyneb8atkqJxKpjf-kcmn_lHA6oduiHBgjlu_dGYFgsvSt93qaqkyh2qNZ5vdi9i25UusdCLdycD0DfmGzhzWb-eiLn8G3WN1I3hgq7HtTOTpNJUkFxZI1tJaAdjOZrPvLW7nUH2bvVb5BWVXOtZ6DjMjPYL-sgVHL6deksGJFnZtSe4CCDYQq6PxsNacYoXV4Pxb0Z51CRTWRlM2ld0_LpseSL2J5I9NSd4CA9cS8M8sHKE11m1LFQLGI13fhIg7qbHCu_VkibsXYFA23Dncz2yWjtxpGvvZDQQjt2HNlO6og3VTG3faNqVCJWwRTTdb7EQ",
+        "width": 3024
+      },
+      {
+        "height": 619,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101753506985368218535\">Carole Turner</a>"
+        ],
+        "photo_reference": "ATCDNfUWXNcYdn48gWj_oQX3I1Rrn5dUTmazp0qQNyUtmUhZXqS4Bqh-kzfXWw0hpP6qa-GAucilTW9-LcUSaflgSkA8Nh3Xrk8hRXIX149TLNqTT23uGDs9e7lg3rGPHnXO71YAd4mN7opoYdavixZ0subU-96yfB89sMvm5pTtPUBbmKKM9HBkjae3IB28seCvEiQyjMdxVK4BWsOQC2M6JJfrhXWoCD8_It_FXjLK0UGogRGd870sQ1O4v_g-LP8bYw8tD8ktEd5GuVp7X0w8RRiGDiyiqjeaFEtmqceAzq0rhGtvROfzaGs3-xN4-z6d8C71kqDjuAsjEZZf4YjMmsLC1Fh3RSuQmMPcMT-3ABiIRf-9HlFCM0duK_B-HFv1NB6hDnsie_j0woOItWpgn4van8wQ93bZ2jrd0i6us6sobQ",
+        "width": 659
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114454308022548004328\">kiely hurton</a>"
+        ],
+        "photo_reference": "ATCDNfXINr6C94abXoc87fI8EQD73-bJ-8S3aKdyWOMWggG9l2a5AvhJy7LHFH_jNa0UUhvmaNSHbfkWVHFDGhHPH9guN83p7ElLgaR1y3ZyGIHjh7SDraQnyUV8pol36ZclZFMMhLQ_177v2U_CgbyPbAiqfPflCrsJMYQTnx_IKRitszHfxvgSAaJjS4BBtf5Tyh3Dms1AGZDIpKQPZrhclSItd29gtXoUTNIr4S-_xO6m2_fVNbTsMdoT4S5e5F-bQEqQvee-WDBfBeVueaJ5E_WlcwWrPB2KoJAX9M8DX5-Mi-1clmjbCKru444LOcDnzkcZZHNQ6Wtsp8TifQfORNxUgFP_9rv28RrkFM84jmEekpTjf_mknlQWzGSpP_j5dUpujb9DZWxdBTudurtBPzJXLKytJP209s7qPzX_smOv1A",
+        "width": 3024
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111569120775754618442\">Louise Sauriol</a>"
+        ],
+        "photo_reference": "ATCDNfUzqjRXogNO5FES-bRcJR__u2yKWyjYTqmznUuelV9p-1P-0Kvb3Aths5OveHizrQBRsZa16jruS5WU8I3E8JSRPVYVsKEMlc1jXdLIj7cKvcDE7GslDHxqJ6tHWC69NhpRY4Rv7dnyt77CCYskt4tOc6_h-7OTrfTkySwMMxZmI_72-oTrbNhj4LaTiW6svP_uqc_VrCPk68hKuT5wW0vUigX9drXjaM4edG4SQqJOw1yNyYrzAAk5oCQNb1tNAUL482BqOZ5KG8ju-ZK4Co4BR5xhCdG82jrsejAgNk2zaDJfMpyNUBUEWLNpoHyh6oPcJ809Rl0SoYWbCbosynkYE48uto_4UcYvUzzULNFzbtTTrFa-PHZtlD4vT7MSKjssgkteVJKuxLFba926ABw7jAaU2QNY5Bhs5tPecnY",
+        "width": 999
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112218972142438478974\">Nathalie Gervais</a>"
+        ],
+        "photo_reference": "ATCDNfUdU5LwRxhtq0DhMi_Dj3zNVVCjQ_2mnQzsYx_QnQ5YiYZVgyg2vfLuh1TtBSuOOuHwa-5eqGf7qht-waR0NWvCZWx3x5aa5_369V_n9SdvX0DbjIz3KmLKEeVn9Bh2_PMLe8UcES93qHQIT0Kl6Mo6nv72obIFsjtAhRyMwcAi8sy6i4ojF30BbsrJ9LK9xH0vHVAgz_VAIGIyf7I1ndFt6t0S2VWEvpim33z9Pi1krGJWsaPCjTyYr0jY48YMJTs-YXnA0VNExbcNhRhbhZguO9Qv3fll3s2MoVDroEkJmph1kyiR0R0ffcJy2Nu5fEoJd8cPRVASzwoL5sUeywYC_s9tbrYK84IqGViR14CxY0EFJfxPygyGrj29jsTWWsYpQ4DPz9LOSjjMICd7u2sGv_tyS1zYngKV9wYEVs2NRKgl",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJyQZO8Qw4yUwRDBiLAVz_1bs",
+    "plus_code": {
+      "compound_code": "92PJ+R9 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892PJ+R9"
+    },
+    "rating": 4.1,
+    "reference": "ChIJyQZO8Qw4yUwRDBiLAVz_1bs",
+    "reviews": [
+      {
+        "author_name": "Hailey P",
+        "author_url": "https://www.google.com/maps/contrib/109281509860561340630/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTmBJFdd945m9xmzSWNDzvNnxMoFO-dGvFfSOtdmkTNWnwVA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "After my horrible experience at this salon, my mom went back to talk to the owner Monica about a reimbursement. Monica acknowledged my hair was very poorly done, the first time (by a different stylist) and the second time by her. She acknowledged that she saw my chemical burns on my forehead after she left bleach sitting on my skin for 1h 20min. She agreed that if one of her stylist does not have the proper license they shouldn’t be charging $355 for a service. She shook my moms hand agreeing that she will fully reimburse the service, and told my mom to return the next day.\nWhen my mom returned Monica came running out of the salon shouting at her to leave. Saying she saw my previous review and wants nothing to do with us. My mom was shocked at this behaviour considering yesterday she was very understanding and professional, acknowledging her and her teams fault and responsibility.\nI tried calling the salon after this interaction and Monica immediately told me never to call again and hung up.\nWhen my mom was finally able to get a hold of her via phone Monica thanked my mom for reaching out and AGAIN agreed and acknowledged everything she previously said. She told my mom she was upset in the moment but said she will talk to her husband (the co-owner) and will contact my mom the next day. The last conversation we had with Monica was her telling my mom she did a great service, despite her saying previously she was aware of the poor job Carole did, and the poor job she did after trying to fix it leaving me with white hair and burns, and that she will not be reimbursing anything and to never contact her again and hung up.\nIt’s unfortunate that, what I assume is the co-owners doing, has completely ruined any last form of professionalism and credibility this salon may have had to me. And it is incredibly unfortunate that Monica went back on her word of reimbursement after the 2 very poor experiences I had here. I truly had faith that Monica would be a professional in this situation, given my conversations with her where she thanked me for coming back and stated they accept criticism at this salon. That is clearly not the case and my overall experience has been disgusting. Then she blocked me on Facebook.\nFor context my first experience: I asked for a balayage. I got brown hair with chunky highlights. I called saying I was unhappy. Monica said she would gladly take me free of charge to fix it. She pulled all the hair surrounding my face and bleached it for 1h and 20min leaving me with silver/blue hair and chemical burns on my forehead. I showed both stylists reference pictures and they both completely did not understand what I wanted. After turning the front of my head white, Monica asked “wasn’t that my goal?” No. I did not want white hair. Of what I left with the first time, then the second time. This was my experience.",
+        "time": 1733445908,
+        "translated": false
+      },
+      {
+        "author_name": "Sabrina Nazmin",
+        "author_url": "https://www.google.com/maps/contrib/101644484402544367981/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ96yga40iukLG7VqOjCPEAE2QWRfipyj-s6G3z3YQKWZBq9Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "This hair salon is horrible. Do not recommend. Usually I go somewhere else but this time I went here to get highlights in my hair. The lady that did my hair did not do what I wanted. I showed her pictures multiple times and she did not achieve what I expected. She charged 135$ for highlights in my hair that were basically not even visible. Her excuse was that my hair was too dark but all the pictures I showed her was people with dark hair as well with brighter highlights. While I was in the salon, I asked the lady that was doing my hair (Monica) where she studied. Her reply was that her aunt which is the owner of this place, taught her. Monica is absolutely unprofessional and didn’t even study to be a hairstylist. Why would I have someone who didn’t have a license do my hair? This is absolutely unacceptable to have unprofessional people doing customers hair such. I am so upset that I payed 135$ for it to be barely noticeable. Monica should not be able to work there as she is not professional. I came back today asking for a refund or to fix my hair but they did not oblige. I came back the next day showing her my hair and she didn’t even look at it because she knew she was in the wrong. I showed her the picture once again on my phone and she got scared that I was calling the police when we were doing no such thing. Monica was scared because she knew she not only ruined my hair but also my daughter. I took my daughter to the salon 2 days before my appointment and she did not so what my daughter wanted either. When I came back today, she left and walked away from me and my daughter and kept on telling us to leave because she knew what she had done to my hair was not okay. She was standoffish and when I tried to show her the reference photo I had to compare it to what she had done to me she couldn’t and wouldn’t look at the photo or my hair. You can’t even tell that I had my hair done so I will not be going back. I do not know how the owner of the place could allow such unprofessional people to work here even if they are your family and ruin customers hair.",
+        "time": 1723303599,
+        "translated": false
+      },
+      {
+        "author_name": "Emily McCarten",
+        "author_url": "https://www.google.com/maps/contrib/108040818870503050383/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3NVtandFtcMXTLGBrqcbpQr5GBlI4qkvuYunb1mk9Infr4Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Called late afternoon to see if they'd have time for a cut, took me the same day.\nFirst time at this beautiful salon both ladies were very welcoming.\nExplained to the lady what I'd done to my hair it was very badly damaged from me bleaching it at home myself.\n\nPicked a colour to fix all the uneven tones in my hair, a very good condition and you couldn't ever tell my hair had been bleached.\n\nI am so happy with my hair now I thought I'd have to cut a couple inches but she saved everything can't recommend enough from the service itself to the outcome of my hair!\n\nMy new salon ❤️",
+        "time": 1724242543,
+        "translated": false
+      },
+      {
+        "author_name": "kiely hurton",
+        "author_url": "https://www.google.com/maps/contrib/114454308022548004328/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUkIrg1jCodhwOIxw6uPKP-Jo1lpmrkWoXCVihSPGAQLRPeqk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I have been coming here for 12 years + and they have always managed to get my hair exactly the colour I wanted, I leave the salon with healthier hair too! The prices are extremely affordable! Never going anywhere else. Their work 🤌🏻",
+        "time": 1709992474,
+        "translated": false
+      },
+      {
+        "author_name": "avy",
+        "author_url": "https://www.google.com/maps/contrib/102806377358850913922/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCoY6ABG0353Ocbb9TI6BQHW0V2u7tZi7JNL0yjwMnukb3-5MePg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "As i see i am not the first one talking about their price scam , over the phone lady told me $135 for highlights and hair cut ! As soon as i got there she said it's $185 . I denied as it was out of my budget , as i was leaving she made fun of me with her coworker ( with the old lady that comes from lasalle) it was very disrespectful behaviour and i felt very bad about it.",
+        "time": 1717728026,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "hair_care",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=13535005025759860748",
+    "user_ratings_total": 94,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 573 Grand Boulevard, L'Île-Perrot",
+    "wheelchair_accessible_entrance": true
+  }
+}

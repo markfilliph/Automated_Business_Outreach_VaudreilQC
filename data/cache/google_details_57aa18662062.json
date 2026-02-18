@@ -1,0 +1,447 @@
+{
+  "query": "Empire Sports Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340170.7548306,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 120",
+        "short_name": "Suite 120",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "46",
+        "short_name": "46",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">46 Bd de la Cité-des-Jeunes Suite 120</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 6:00 PM",
+        "Tuesday: 10:30 AM – 6:00 PM",
+        "Wednesday: 10:30 AM – 6:00 PM",
+        "Thursday: 10:30 AM – 9:00 PM",
+        "Friday: 10:30 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "46 Bd de la Cité-des-Jeunes Suite 120, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 455-0999",
+    "geometry": {
+      "location": {
+        "lat": 45.4087735,
+        "lng": -74.03766449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41014483029149,
+          "lng": -74.03636856970849
+        },
+        "southwest": {
+          "lat": 45.40744686970849,
+          "lng": -74.03906653029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-0999",
+    "name": "Empire Sports Vaudreuil",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 6:00 PM",
+        "Tuesday: 10:30 AM – 6:00 PM",
+        "Wednesday: 10:30 AM – 6:00 PM",
+        "Thursday: 10:30 AM – 9:00 PM",
+        "Friday: 10:30 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116058188426882906392\">Randy</a>"
+        ],
+        "photo_reference": "ATCDNfW3w6SyAsHSyjaF9zjSkQl1RbnuGym98ONpzcsVWVVirFq_RdK0_FVd3HmTxVhTNN4Z7-NABSy9rPVljEJ-Ib2nRWZqxfT_l9iZQM4Q6Rw54joolNn9ahjGgCwgBf-ALlPIJ8B0BBZ-7lZLoOv89lIfwGZyONyV2fTb05ToThIFii1ygz4TRSUU5_7of-I93yukMhChH6qmbJjUsZ2A_fUEN_eRwy6ZFLbGvqyzXBtULxSgCHeJugXdRhmUyGgLB28-5fukNlKeGrdzWDEWcPJ_1l4wwaYGCWxPeplI4t43tmqw6iLUu7A_V1jg1Fbr4-rD2PdyPORUb19PzJIKOJK6gj90gM-fnhqI7XWywgaPixlnE7W1V5lw5o02f_L0ES6fwnWj3rehU0nC8KM9r3SlZ8MwU3BxbP6usGK0Wrkauw",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106159791888305992339\">Simon Dubé</a>"
+        ],
+        "photo_reference": "ATCDNfWkoysj9LQZQs6S5A03DHvqwrvIM8Iw2EYxuibNYBFOr6_u0J66ZHMRHA-yAn3pSMfsqd_zIy-jkR4pIyhT2GngaYYdpmcJgXEXnLMsq7zYOwYf1uNUi68Kc_tzCN3jaP-yACVuDoUSfELCbb5rl_2XWtzeLkiT7a-61It2-AjcLTSSJ3V7Tx5Y-1Evvn7cgg9L5WSlUhD3EANN3oEusj6ErAdnb_RMsfz1lTQvg40eiVmb_MM8rgZwdnKUwHCGzWO3jD-vWWqyFxDbJTCy1afyaS0tX9lxugRzfRuW3Sq0jJzYvIfxE_KXL9uKOhCjjbOOwfjkTGGhe7JJpOCRRROg_xaWSEEqkzLcNCsW9xpWVxk8WjHO1Je9lMuo1vdSuoFveCiIGRn3E8cOx5KLuLoEkN_Lm8KI9vVSfvncejXwkBKz",
+        "width": 4032
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108527105519424389026\">Louca M-L</a>"
+        ],
+        "photo_reference": "ATCDNfU01f88536cxDLIaVATRPc3R7115JP83zgQ87FKAPS-WirZb0d91JRnnQH-3F2eajKLxYdXEYnjOywCPcZq8NYezOzOyYnRP0_tZDysy3hbQa-VdizAHUkZTERsObzzM4sHKhhbAeii75qy69xKFGUtzvscW2Cn9K9LfpGSvy9WYUGoQw_CqCDs9CTz3azXLBHGDayksxcE1T7xSTxH2eaF7INPaqScIbUCWsjUhp6UC8pT3VxYN6ezwRTLCe8wduKCRcS0DYAx9RKf5PHjxHKKjFBb96rcfLrR2wle89ppUQuYQMhMH27-DnE_4lwJwiqbvBaP2zeOnef_sFtdysPspKa_oeJB0Fakugs9unFDPrTyYJ-p0dZ1vbpZXHPrVr5jJfD43ca0LJhKBoK0EnzmGQ8MiqJeZP5TepJwJlIqvg",
+        "width": 3468
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfX0o4HlhaIBMeL5gZKi9bSfdsT8yIATxNUk-3EYva2ioG7oF6KPloxoaoHl28BN-vUR1ozaQhmRVQfHB-NblV1eEcLOu8lzbOSJYUThMejUXQrdFMT4UYswj84WrugC5hnkoDS400UaO3zV4fRw7JgHz_uZ0tyz9igfDB9xTClAHoSZInXxmxwpgz1C4IXG5_rjPjKCFEAMHD7zjln9zMGioxMBslMMZsFXpxQkdJenuxvWvQ2sO3A3mGDMS_o11D-nY3l2YXdp6paulx3Odq0NyqQbnr612Vk8js42x-o0kE-IEururaEplyAzpoQ1C0hw3YhNUze-yx7eDCQ8Xo10iUVfQ3lAPl9ia6Gh2CiABkEd36TfeFrn8IM5WXqmX3LE-NhEVeyfp5z7qGQ4SNcLPsfz3cISBZrdKLUksn_daHE",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106159791888305992339\">Simon Dubé</a>"
+        ],
+        "photo_reference": "ATCDNfUZEOO4Mfa6K819NGGVNS49mmYR35oqwg9gkYIdAut_h25tUMpy0JtiwhnJbS-KxFBTVQCAwMxXnGfvE5Urt5m-Lw7wx3TKcKN6a_9qE7-euneIekg66k5ovNMuiajHFq3zpGclhKeDYzK1unM81MZKdgp3BnJ-v9f1V00mupA8ftZsVYHSjv9plKYz0RXo9fw3DCY0Z8Ke2mbJVhGcloFl_pB_r67XUO4VmV_CZoOelbSCF4nX0cfbnHB-1XFrqPQFngJdezfXRy4tPmseoHv5nzqTwXq-W68n3JYcNA9Q0WZoDuiP8qcUJQPc-4fiqIYidditI-BQuAoUj3s_xc44NUbd-rroPa2xN_mvLDgLHmTmrlWpEhTP9gHiDj29sOa1LxgIhWW6qdHfW97VqhmFB7tAgjA8Z0sZiLfng0zmzQ",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117120407163949577646\">Anthony Woo</a>"
+        ],
+        "photo_reference": "ATCDNfU1v7l5yEx6t1lya4xejFkhXM9zeLZpAZeCBORDfNsDX9BnDKj6gFjD7RA8KLgRLLhCy8IBfQa9ho2oAODTdB-iosIdWXD6NIxaSLAGk_0Fpfv3cGP1k9czAGIa3PhO3c84dlqLsLqdOeQcb_BdQI3yHPudnx49cq0RsltFtwh5FjFvPMzGGguVAoEnlfwECnkxJP4S55QPokwmzu70e5Am3wRqAY47LakRuqdS1w9jjUDGT7JWzSXrgL3xL4g0oKnyyuuhZBomnUoWCYYBZrC0O5yuBhSDVs1_VGLkAbLcQ4kNNnUNlv-6PYHSzLGZDUU63wXt1lYlx7jCgYaG-djITcsdZBNXmoffOJEEt7I0V9KWNPVp8_ZT-Zu8LXIW8BC32somO5YoSmbls8cr9GjJFkujVMUt5WSqWlxOPuO4cWr8",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104049684288933503058\">André Chalifour (Zombie Graphique Inc)</a>"
+        ],
+        "photo_reference": "ATCDNfVZ0wRpIArCm4K57WQc_c5ioSom1Cn25o2GqG143BicPFhwTCguNPz5fZyI3PYLU0V3niqz3KiSkNUfkoizDURgFlBA876cdGhUadR6EzXIrnYcCqYzg-Fw2ZiqN05Un3hmUWelwyMw85nasmjbhX30Y2QLKG-xeh7h93Et7M7IMKvb3XPBw__8sUj_ux3Tw4i9gj-2U4KTRDgtkiE-Lput4NbOj3_j_vUXjQL55RCxG5dH1gpyHveeNZtZz83ZvOgVf8zdzZxE8W5wnMlJh7CZu6ydrs6EdGSKAnb5eBbcqWD4B2siZm-skfMhl1vqP2hA42qgvZKkZnmcrQhmPeSXxPwdNdvJ_C8pHmROXQAqQmUQJrgnosO0qCcpN_aMjVN_hPCvFs8H4yM6u4ubFoaMZvkjG_Yh7SLAgBfWIULU_seC",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106159791888305992339\">Simon Dubé</a>"
+        ],
+        "photo_reference": "ATCDNfXYvky2KOrfzzFDupQjNsIiw2e0FKP6AZKlnRZIOIYLCRQOVtDg0CTAadiNrPfMeORZPZ9xvbI1uviZKg2wxsGbmg6IvHT82jsJbYh251rT9C70VlapMbgVujw7OmrMqR_M2n7XSAFWYOz2TIYvNkeLL2Lzc2bxBDjDO6gsX1IoSbft7D7E6X0UXvS7x5-8bGRbaxf_KHlewiB-xsB3Mqk24HR-5AdKFPnWjioI9-Dux1lZLuxZjkEZNKJTsF8XLom8m5hQZVCP710b8y8ReBppegNnXWE2Do_PO0MEzxSoWlwIWx6MFlbLt-VlFWXOCHP0K4wdg2LTwl-zy8QQlr_jg5dccadHJ0NFSVgxNF3tgWrYFZXXzQcdHfaDSHCtnxxRaPsEdlQYSCFtlJ421zt1gAw98c7Gu0JTTarjQMwr7T0",
+        "width": 4032
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104848913934000757741\">jennifer maroufi</a>"
+        ],
+        "photo_reference": "ATCDNfXbCFmGMyU40aPjtcEm7tHSMFSLJD1ImONkPwl4BZpd62E-592VCfXVMIlLKMmzbb_uvHqkhe_qe0dTimt1bz5_roRaNiJAkJ0bNtCU9hxNDJnJ4UgmN3Wwf6DtxjJb6x50eUqpmnfOXN0tJ7njUNNjnrytS5Y2Et6ysxE9--JylbglxWWyEHD3nYvmfN7-v1LfROa6wm6OfrYHLt6-AzWnEZMGsrixWAQXqqReA_8pQTcls7e-e0bCQ1XbQd09DZULVrFmFh4WfpV-lpwUvAIJpn_OpLRy9F8un_vKVl7JvDhbeXNDnTJuTxn0gMUOp5eSAJ2DWJSbFI9mFbpuM0RVvrRLt16ICKUIWdhM7z9nQRyuQFQviZsHQaOBeYaV0KufeBOId5frKrBo4BS6ZpZ4x_-gUtP_LgdPuuBjbgserIp2",
+        "width": 3456
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfX0m6FaeW4eWfpp3IdyMe1l6bonlDOxu6MBRg_OqpZTL2j5xq8OOOy2JF70hCfe2RkNEnmZTezrynmYM5XrfUgo0WuiqBO4uMbXI1VCj3yre3Sas4TgVggbmH8Lw33lDkHkP0Z32gU_IrVkpbGHQ9GL4veni69_p6BHcJV5q5qHnyH960Z3SiIp7si58wDEYGvy5Dx0lnfKhkB7vhpq7yFUMeZqJ6jUZo3P8A16654R3h-ZpVLIHb_T_TdSacc5F_HUrGVljz6glUH_CB4BXXWkjtfr7KbSqV9W8mRunA4Z2R4QIhO5BEm8hv4lwp3aGEEaXW1WVPRzoZd0JPIWAl55-DOkI97YedpsNRJnsbOdUrb7gDhrVJc9BLPMuglm1gsI8pwSZWT5VEwD4W-1DDr7LN9X6arL3YzfU1n0-LSu0g",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJTQJwpzU2yUwR-fxa4l0Kcxg",
+    "plus_code": {
+      "compound_code": "CX56+GW Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX56+GW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJTQJwpzU2yUwR-fxa4l0Kcxg",
+    "reviews": [
+      {
+        "author_name": "Anthony Woo",
+        "author_url": "https://www.google.com/maps/contrib/117120407163949577646/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjzJny2Og-SfD9dJEM7m3q0HihCFQt_Bt063erVRBul6ONH370ng=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Amazing place to shop for snowboard equipment. They have sales on current model equipment. Its been a while since i have gotten on a board. But when i walked in i was greeted and i met Sebastien, he walked me through the modern gear and was patient in asking me the right questions to find me the right gear.\n\nThank you guys for helping me get some new gear!",
+        "time": 1706746119,
+        "translated": false
+      },
+      {
+        "author_name": "Louca M-L",
+        "author_url": "https://www.google.com/maps/contrib/108527105519424389026/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOKv34URPpwII8a7e6rpDS7P_xKQcwxI5Q0n6A8InekgUXayEf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I came into the store with an odd job, a grip replacement on a big e-skate. Roch did some great work with a strip of longboard tape 👌",
+        "time": 1714177219,
+        "translated": false
+      },
+      {
+        "author_name": "Julie Duquette",
+        "author_url": "https://www.google.com/maps/contrib/103457938553400582532/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUm6iaTwzh9KzHwhvz4Joj0kMQxAiIeCTeodmoTEOY341WYOSdd=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Loic and Eloise took care of me and my VERY picky ( yet awesome) teenage daughter. We must have tried on 15 pairs of pants and were requesting stuff off the mannequins. No request was too big. They were super patient, funny and kind with us. I love this store for a gazillion reasons but now they have my heart :)",
+        "time": 1702835550,
+        "translated": false
+      },
+      {
+        "author_name": "Ill Ill",
+        "author_url": "https://www.google.com/maps/contrib/115156995859861056593/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRFJjfn0klZIG0L777fnayXRujIe8ykSyFQaKNqDvkjvqULA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Love the environment of this store. I'm always greeted when walking in, and someone is always available when you need some assistance. They definitely provide great quality products! I have never had any problems with the purchases I have made here. Absolutely recommend coming here!",
+        "time": 1510032984,
+        "translated": false
+      },
+      {
+        "author_name": "Guillaume Lemieux",
+        "author_url": "https://www.google.com/maps/contrib/104760158807682335707/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFq9sU6WFcw7ZyXED74n5b7AmBk9SbVf3YzBcQWY2ZbwECqQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "8 years ago",
+        "text": "I've been here many times over the years and today was the first time I had a bad experience. I waited close to 30 minutes for service and the store wasn't busy. All I wanted were snowboarding boots for my nephew. I didn't need to try anything on. I just wanted to know if they were in stock. I'm happy they did have in stock after waiting all this time. I'm just surprised that the clerk didn't get someone else to serve me after watching me pace around for so long since the customer he was serving had a bazillion questions.",
+        "time": 1514657759,
+        "translated": false
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "shoe_store",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1761763277577846009",
+    "user_ratings_total": 108,
+    "utc_offset": -300,
+    "vicinity": "46 Bd de la Cité-des-Jeunes Suite 120, Vaudreuil-Dorion",
+    "website": "https://thinkempire.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "query": "Baz Électrique, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339399.3923142,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "41",
+        "short_name": "41",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Lucien Manning",
+        "short_name": "Rue Lucien Manning",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8V6",
+        "short_name": "J7V 8V6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">41 Rue Lucien Manning</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8V6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "41 Rue Lucien Manning, L'Île-Perrot, QC J7V 8V6, Canada",
+    "formatted_phone_number": "(514) 794-3911",
+    "geometry": {
+      "location": {
+        "lat": 45.3871793,
+        "lng": -73.9665039
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38846023029149,
+          "lng": -73.96523361970851
+        },
+        "southwest": {
+          "lat": 45.3857622697085,
+          "lng": -73.96793158029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-794-3911",
+    "name": "Baz Électrique",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691034101620280590\">Baz Électrique</a>"
+        ],
+        "photo_reference": "ATCDNfWwzx2rbSS2PIUfUtyRQ4ZhFhV40fPIWLEkSaoQvnxIguLqvPYucWrHmgCvtLp72tX9poSIfUGP3Md4GGCm9MbMdX5Q_C1La_KvSkUKSEgOVaoU0ZUpWKnXk3fizUgcUbh2mclr4nPTWAVx9G9dqqyw0Ny8w_wtjG1ohk6mQM0KIHCC7-qP_LpW8JVHik0uhvtfzcHCL5qy_s8C0Ew-PEWucSwDlAHPTuCvtDgMUAHsYrQaVRhTmXkRD_F6_PLYCsY3dOTxHMP7cjAj-EuD_e5W87KbsSO9YygybNb6q4KIYA",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691034101620280590\">Baz Électrique</a>"
+        ],
+        "photo_reference": "ATCDNfUonf-O1qbbILU2EaXJI55wIOAvkUU3dbfK_Tcv0hVFJVLgAK14eBTShdGodSYgbOByV19WRDS7IgCXAFSdrYmAaTBY8gamUcoDaz5SBViwb5KMXspzw69obdD0M3tu6cXjWMPYn51ytHUwLDvQFYHuEiIj7dBUI2B_WweeFme94IBxqaZ40hYyEj-f2cD19LUxzwCGy5RCDDJkbs94nC3m8pXvX54cKPuw7PafJuoTg1vsaxXy1rDKC-kwasVbjj_JmxKBPWV1HiJBCHLj_Fngib6ID4CVSrt3WYtsKeQ5Pw",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691034101620280590\">Baz Électrique</a>"
+        ],
+        "photo_reference": "ATCDNfUlm35RBe2YCZRZjSnRP_JjH9sYwoSH6LgJN2eDvudw2NdoRuQFV2O1zZ_ldRjMmAdiewO3K4pA6_uvABEC3WqiBxle-rDDoZsJOeoKG0cj1v7BBaHH4J-Ocf8hCM8oht73_lZlE4jhC21H5ArOioE8W14t-vgcmV8AiVgqkKHj0iSZYuVTgl8_f64J6GOIfMLXqSwL_-xlkoOzrV4kjYxJ--V9RuGK7ZK9D5zWBs7mP9GT0MXii_xDnndwHrA_yXSZQgI-_mcISiGIkUNbvGAvUMGXfluwGYQPGMZEu85ROw",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691034101620280590\">Baz Électrique</a>"
+        ],
+        "photo_reference": "ATCDNfVgMGViFbt9dCTtRc28HoxDDp0DmmydzBqReOtpfA6qnHVH84mjpC9qQuglo3NjV3S8GKzZUXohIt73iTLnyN5cpnb2DFpwpliXqTOSD9Q6Bj6LoBFuWZM2bYLXog69_Z35l0A27t3eNcCsDqXwqfa6CGRmLaEqqJfhCyjcdnn5xRwELPKGYi-bSXMCnyb8g4nCjorKCFhJEoeWU30mCGjrwp-LWnHCHSXUmjgBjTJb1--LC1yD3PTH2D1t6y6vofDVEDEofCbwUxwPNOb6D4cY5n3XvzzVsmhmasFtESctLA",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691034101620280590\">Baz Électrique</a>"
+        ],
+        "photo_reference": "ATCDNfVkaX0v4IyDCieC2Yt6BpwdMaFXOCYKh9vP_UYubhU36WlPDWglXapZ8C7OOOxtVBFp8zckZ_OrER7AB_07KHPQirwFybXjshHeY0HDT7SDpoa_D9E_ZvcgjtH0TVHKwPMZCDoKrHEYLDyZQq2ajASEKOKHKAeiGBqw-FkGtJ9YUEhbjtt8tHCghBToHRCFYvBZtPutiveNggci-1fpzN9nTFr6sQODCC5WsbVNZrqLDOOA7gM8HE6OVM_tmbCo2O-X4o69YagcWm--exQzATsSX2K-oJnh0tNj5XVfTOuXbA",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691034101620280590\">Baz Électrique</a>"
+        ],
+        "photo_reference": "ATCDNfWsH2_cMKfJc9xTSuRZn7_tzxJR5IgITwkdKdbuufAJg1WnnhwyOg2-3oSCbFpTFYJCnhLJzZ1Tw7jjbNGrd76ovdBOxZ8PrK1dFe4xuCDGkj65bxCKWxlER7RhYqqy70OUkKE_HWO_WartPew7QCr_yHh1GspMo5nDnFk_uFOuY2xhBsj_rQqXf1U1PWnZAZCQbY0Fm7FaZ-N5NQRX9wxZp2L5vp_EQ-4DD3033xig5bGfk5pVDuPwUpB6Kg1nO4ae-h04qBaM9DAwqoIRF7k9cjU-Mx__I7-IjA-Yvc_7Jg",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691034101620280590\">Baz Électrique</a>"
+        ],
+        "photo_reference": "ATCDNfXXgkgTbSo8hySOuURi46aVEA__cRBShm0Q5HDdGQd-ZvYVDHWSJcFsgy2-CTsYc9b1I9KlhEa7BhkKTEk_NrFvDQ6CDbEDbffJSRSUCc3RMU4Qjm05nozfoik3frwN94HiOiAHoXUoJYX8XM2q09hbhSTKbqm5Z9wZ3HR1Cjod3-96qvxSX5gNs5m-FapOxYiBEoPv-QiQQiwpO-bMwsi1Ho2mawvUxpJtKzt-aKSeBIa4e9HTOpspmG6JZFh059mZAxaxU1CIp2aEW06p0v8WjzInPYItqt5Poqu7SzIlSA",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691034101620280590\">Baz Électrique</a>"
+        ],
+        "photo_reference": "ATCDNfW7RXq3xounJYQueIA181ZPWY789Iuahyk1arBRbdR8S0NFFdkPYsvw2_h_rBQvsXuLREyJ0MDKkxcKNr5tBTY7lpP0mbV7WeKIPLAf8UAkRx0BiHWT77jg43KuK34XMofT8gpgezyS1rtMaoJE3puOjGmbbqfdEsqX3tzV5UDNWyYxPAsAKWrnSuQ7hGaMjdKHCfz2ucKh43EK8ifkJGR3xpZ4RY0zWznZsMLbAKfc3IlyrFcx1D0-7YVRQ5YDi754bUc6ytp9MN3ysPEn01gSDZCRVaEGlWchtmpsZr7sdg",
+        "width": 720
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103637640806790614664\">Caner Celik</a>"
+        ],
+        "photo_reference": "ATCDNfXUHoo7E9kppWfVVkYKhR43rYnqvZgVT_vLokuyp-HuxumqSNNqWKoDC8Bkdr2AMQrjkj9xjZyT8ANbL-73JwPhwQsDSW8UJlepkDRGyySdFn_1cPz6eKs_0JSfsvAGfqL8MfA18Rn3Ry02UmP8TCOO8UDPoH4BiMJHkeJcwE-WrMh0_SlKfxSuqr9CrPjtv84NzNduHLbpYSq6hm7822OaMoSpDa2Z2hNvhQUdsAYdaLimmpAr0x2QbRNU1Qp5DqKcvRhjUysmxUDRHAiSiT0GVZrH9rwZ7eZ7kNEMHNIGJEcPM9zWCjb3GAEFSG-WjYid3Xus7z0y6GdB1WxZ2Hq1e_MyeoqAdQuSdt7rnp2ekpDrSS0S_FuNiOEq3PHpHnT0hjzt7Kvjp78l73ILcHqo8hLELNs9doHSbHEhwL4-uH_g",
+        "width": 3600
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691034101620280590\">Baz Électrique</a>"
+        ],
+        "photo_reference": "ATCDNfXjD4Vg_bg096aRSbOS3aTRtl555r7Pa8XuqregA5rr5qCns7V97Z2gDxY9Q0cnLO64kBqqjQn7ABxxi7NN-7l8in0uFHBXd39GWEQaeF0JfMM-fery-YJ8Caf9Yv_gfzhPaoFt_igjOiiH0har0VQ6nRIwOo8go5Iyg0tKtOTlfDkP7E1abgi5s_P4wxoYzqbCSu8YcDUnfFJrYkjk9EONnzajpYgPpHmc9BmFT_YmF_Y6_zOVl-KmsAW3LhbBBzXjWEA5Z6bgjKyV7Yy5kQyGHoSDef4KLYX_xx7Gu44dZA",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJccDbTfMixowRAMtuDDEY_Pg",
+    "plus_code": {
+      "compound_code": "92PM+V9 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892PM+V9"
+    },
+    "rating": 5,
+    "reference": "ChIJccDbTfMixowRAMtuDDEY_Pg",
+    "reviews": [
+      {
+        "author_name": "Caner Celik",
+        "author_url": "https://www.google.com/maps/contrib/103637640806790614664/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4TGL8FKoiTSuFBT3z8J50TcyYwjwa6aROI5BQalxWRyiqVziy=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I noticed that my main electric wire coming into the house was somewhat burnt/melted when I was collecting fallen branches from my roof. I took some pictures and sent to Baz via email. They immediately reacted and called me back and scheduled a visit the very next morning. Team has showed up on time, made some surveys, called hydro-quebec, and fixed my burnt cables very quickly before the lunch time including the hydro’s main power off and on working time.  The team, both office and technicians were super. Thank you BAZ, really appreciated your work highly.",
+        "time": 1716213434,
+        "translated": false
+      },
+      {
+        "author_name": "Akash Devgan",
+        "author_url": "https://www.google.com/maps/contrib/103418922629478691783/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3m8ISh1K8_miUJsvqcCg5POY0WeoYKPqG6q0bAOTDOG3FXRrtOA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Would highly recommend Baz Électrique. Installed a Tesla charger. It was a pleasure, no hassles whatsoever.",
+        "time": 1712681850,
+        "translated": false
+      },
+      {
+        "author_name": "Husam Ahmad",
+        "author_url": "https://www.google.com/maps/contrib/116663517444998738734/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-Wv9j5dcLiNsKlOBqxpLYe6HEb4k9AQckBBd1qqkfMIrVMhg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent job and professional team. I will definitely consider your services again.",
+        "time": 1699491596,
+        "translated": false
+      },
+      {
+        "author_name": "Kristina Foley",
+        "author_url": "https://www.google.com/maps/contrib/113495546436566092406/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3ZQmL0wh5dJoTyoZl3ykrg-TVvgpwObT4HJrmRBFBuOWbWhO5tw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Baz Électrique is the only electrician you need. Family owned and focused on doing excellent, honest work. Highly recommend",
+        "time": 1709168579,
+        "translated": false
+      },
+      {
+        "author_name": "Christina Hunkin",
+        "author_url": "https://www.google.com/maps/contrib/113408046749223053239/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYtnYlJpb3oc6vq0XqbzDefaPON0FYsBpoTq-SGJ3Msa9PNw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "the service was spot on!! Courteous, polite, accurate, professional and just actually show up!!!!!\nmany thanks!!!",
+        "time": 1698430747,
+        "translated": false
+      }
+    ],
+    "types": [
+      "electrician",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17941241614478265088",
+    "user_ratings_total": 9,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 41 Rue Lucien Manning, L'Île-Perrot",
+    "website": "http://www.bazelectrique.com/"
+  }
+}

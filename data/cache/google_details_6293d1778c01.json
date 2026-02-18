@@ -1,0 +1,416 @@
+{
+  "query": "LUSSIER VÉLO, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340613.1324124,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "15",
+        "short_name": "15",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "DES CARYERS",
+        "short_name": "DES CARYERS",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-sur-le-Lac",
+        "short_name": "Vaudreuil-sur-le-Lac",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9R7",
+        "short_name": "J7V 9R7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">15 DES CARYERS</span>, <span class=\"locality\">Vaudreuil-sur-le-Lac</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9R7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "15 DES CARYERS, Vaudreuil-sur-le-Lac, QC J7V 9R7, Canada",
+    "formatted_phone_number": "(514) 829-3568",
+    "geometry": {
+      "location": {
+        "lat": 45.4214776,
+        "lng": -74.0334535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.42278168029151,
+          "lng": -74.0321923197085
+        },
+        "southwest": {
+          "lat": 45.42008371970851,
+          "lng": -74.0348902802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-829-3568",
+    "name": "LUSSIER VÉLO",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfWerZwBOVEZ_oW5TBAj8CTN6igSBBG3HiHkLNfhWP0kl9YwIRAE9EmU4vpnu7RnsaSKT85a6mZ7umFXXXbwINb6dttOefjaHttLqVOo4yvSVMq612Sp0EWqEJPAoZ0X9bsJonbDYKDtitwRiGmDRqgvtHYJxd7MPwZP2-tsYcVVs3FGrdPZfub5U4wPU-ktTqujHOLGb0VQpN4GU7RukRlKnjsMTTtHCuLxO5eW7C8XRg3exW8F1iilheUs5gbExDS83PTJxJaXI3yaW1P_AguWQ0PDiPh8kFR9QB995LMfiw",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfXyjBy4-XphnRgl7B_ikNEPgIfx0uWwlbk4972UQzWV4oM5qEnXu_Rd-HYBUkDtDd8McPEC5nZk8UZBL9u9MndOzu7AslmFyAu5bWedKFHniBHPgg5QdpqJaa621YZt2BxvcNo3Di8Bann-gUQaNPW0N7_lRlvfC4kIEB2rfFiQIvIw8zbHj-fZhzILNzzTYccmao1L533WHwjg_eMWRDZ1woE2Y3vNVwlVlGx6lsqODsBtVlwCtXJlVDPBu9kXSWO4xtuR1ta3gQhxNATO1LXZcqGJsZHOaUvRvNpYWrwKlQ",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfUZTTuSyVZ7Axo0DZ5Ax6FYZUH3VplQrC1amNa0Xz2G-Kra5SGHcX3_34OCwtQTwiPkgEm5fukRy5aYxaG81tDIBRFvszn7dnGZLSJ86cF5gaFsROCVK5XqdGNprTN0KAAZ-at7lM5K0Vu8No3ZIsen-H1kSjb5T7ip-GtAmt5VeGY6SsUWjVk4T7fgC6dXbksnfTzXb37Li8KF1HAEI4H9zaHpfvQxiwx13OcTNk9cwXXW1fwUG_u7jaCcKgZWCRmpCmYg7cFIiOAjVyx6T9nCUe4RN_sXEEyQaiI6Pcciew",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfWplrNc9U3NMn5NEGOF5K7fhM1IjSDqM-YiVb5s0XoVCPYUgSNsoehXZ8uQISx7rORHwASB6RbuaMCwthq28CHk_sLZ1VVRPR0rh-wA7SWv8ild_kphqHqK-Xcix9iAKvnq4Rv2fBNcraI9EkJ4FxmmDCYbEqMqWKUh0OPzjuVYKvClVlNHRZwtSAc78AQk7oRZgGjwHKMcYpwMsXDCn7DXvzTQlWLGaePNNUGtBqAWYPVgCzxunI04k1Wm2_mlky0kzkYpqDiSAg5ebYclC4oH5WP3o4YJeNixd_-pKFQnLQ",
+        "width": 3024
+      },
+      {
+        "height": 750,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfW1ZzFUCe2Y29n8JhaOdbMVScuIjjUk58BAOtNCN9T11P0JpFUMENJrjCd7vX3w2mqTN2gxdkVMWFMUJ_5vn-e2W2awqSQj46BOtcTVKzjrnZIsQPTLecTbf40JxerGYXWvd5Fu2TDaGLtk8dFqRzd1rlVJdf5lDKuMDiFZ-2rhO0S7TikCzWYTlv5Nvp1ErwucB2LfFJZYBZnVLLsF9V0mbZPOS2JpWfmpuSAAWCDNdR--gVWG6HHytSQFCDz4uW4o2Lgrbdk4gLWnbi7LT-nqqnyUNLP67fKIid2_VZ1ykQ",
+        "width": 1624
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfUBeNsfVNcwORjLxkRV5swaijhKj2YWdrahQIVQMPUH_kL9ubP-UDycs5C0VcRPqS17082iCKir47a9l9gogy2j4eWPYEa0ds78CaQOemn884_Q1DRIh4b7m5eFk_49wqtMC36U8M326bg5gw3Mk0P6eZygB4lMl6k_kAcuvaiNdC1D0ja2b7u2hWsUySFfgmFXBgn-wzZBUSgRFQtL97GD34NG78YBcDUOGYtR2tmf25DRKTiTRfJ8uxpcMZ6U-VaIGpr7adwnLdr2xXHi6HirNq2ok-GxTKw5AVZ6KOdqjw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfXvhNyJ-AUrEbbxQHyDpxsqONXT18sVVdTKdPqrtEVSw73LOP6E2FjW9UtGkHg56aqjT1fsMkqfYotUsR6V2KexP-XgN_LFr1rRwgAaSaClIxnYydpwuCTuN9MmdkP27weSkDHBO61cw9TFTOC-h5MAG6ND7vlAWoL7t6mi8423XFsyOX99lJX9rjFBLDT9xERBA7IP0XHOT3OfwRCt2ICcsZkCbD4dMEuQ1c4OwFESjrelUZ2RmWRdZ506PuVWrhma3eLvDHfBSjB7D5r14jBoFQgQIy6FtTn3NGN0IjTr0Q",
+        "width": 4032
+      },
+      {
+        "height": 840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfUClMNxF59VBIoUfwJOqAqM_zwC3BS0QscwwLKuOg-e0nRf7m4eCFaQhO3aKLQixXUmiihpIcoBDUsYXCQ8Ca4bRl2eNezdvBa3zHCqHbBmXrgojqXrz4k8bPFR42XTHJFU2Xw3iBBYmq1knnbhvvJ1GolgKuaXTDTKfpCvzuhSTisk5OLQsAqb5z8LWPOx9CR4eiNhZrpkaX9e32KfahMVy9VFtdyi2_RueDiGrCl15NiLhQ0qVqGSNYHlY5zQcgxoxMDVSKwH3e6tWn9SkZPlSHSF6nH_hSuUABtQBn19Rg",
+        "width": 1260
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfVqiCjYjwq-gUKMSDPR2uctoE5o7-Tkl-Dim1hoCXkC8x1p0d84nJL1Zodshp3b2H06iQNAee4GnitZ5jDbVNONJ7VNKAoS_PH7zVetybGSzUkVYpa2gXl9xMg_rvV7stJMc3M_zZ1mBKUnW1UWkeNMB5qub9cQxy5n3vY8TKkFWHnnsKbyjlg4ntSN--jU7O8TkQqUPpHj5shn9afYRuKuNLl9Ht5WSiPEYR_t4Ml-tRXoM1HICOC3ji3HVdp__HgUZi-C7V53BOZaNkYXl8S1LgvcL-HTd_JbI1px3DfJwg",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939828513981800261\">LUSSIER VÉLO</a>"
+        ],
+        "photo_reference": "ATCDNfUyZTj5UvNYkHwQwW__RXztX4H040Jgff1lmkGmXEjPF0rbOqNJQUHcf05WR4oayU1SalBQT0TKUoE9eCQcEYywLZQgKdBmsNt92OaPqJBTcYXIyTxRtKhg_0uXPR4gzoER01fM7TzZYeJpi2BV__FlcAdzYSdHamxds-wZhoQx_vroyuM12aLEPND0dYC6h0gCZhhVOjm8Q3niBdskMv_mL87CS-KhQ6zcpncy0TxPirSCG8ewlcPj4LIKpXY28c6geaIJ4xleb0fwwoAQnm9JhmZk7o2iPnTEc5u9QqYbzQ",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJIetclXo1yUwRgZX7EQvqbBA",
+    "plus_code": {
+      "compound_code": "CXC8+HJ Vaudreuil-sur-le-Lac, QC, Canada",
+      "global_code": "87Q7CXC8+HJ"
+    },
+    "rating": 4.8,
+    "reference": "ChIJIetclXo1yUwRgZX7EQvqbBA",
+    "reviews": [
+      {
+        "author_name": "Michel Sauvageau",
+        "author_url": "https://www.google.com/maps/contrib/114020621295854755750/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk3V4n_vY05plz62kzzmHZcBoMFrmn1p08zmJFrOr25HeCqcdyKg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Excellent service! The owner is very friendly and professional!! The electric bike is very high quality and beats all other prices...\nI recommend them without hesitation!!!",
+        "time": 1750605097,
+        "translated": true
+      },
+      {
+        "author_name": "Marc Lantin",
+        "author_url": "https://www.google.com/maps/contrib/110156851632333942757/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKto56rkwx9Zl5_hrF4A0BakD6uG9cAV851UTRuIN6MYIovw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Excellent after-sales service. I purchased a RICHBIT electric fat bike this spring and frankly…for the price/quality ratio…there's nothing better on the market today. Don't hesitate to do business with LUSSIER VELO…the customer experience is top-notch.",
+        "time": 1632748610,
+        "translated": true
+      },
+      {
+        "author_name": "Philippe Mayrand (PJ Chadwick)",
+        "author_url": "https://www.google.com/maps/contrib/105603564363287460067/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrlilnQXO8gJYcGZF0KRiyYSJS-YPACm8CtI1U7Qv2f3eSBAJx=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Very good service, despite the shipping delays and surcharges. And it's the best bike for winter!",
+        "time": 1643033613,
+        "translated": true
+      },
+      {
+        "author_name": "Michel St-Jean",
+        "author_url": "https://www.google.com/maps/contrib/105871067242002832578/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkcW1_PPWs8EBegSgeulip-NOBODYTL3EWtTHVGVFgHueKsjtY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Very good service, superb bike, very well equipped for a very reasonable price, I am very satisfied and recommend Lussier bike without hesitation",
+        "time": 1609857220,
+        "translated": true
+      },
+      {
+        "author_name": "Jean Charles Paquette",
+        "author_url": "https://www.google.com/maps/contrib/107774751145815648122/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIi5qIIQpQ-43kwvXEdm5n0RoeX77lxMkwTTJiR0UDGyUzVMA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Jean-Pierre takes care of you like a pro very happy with my fatbike I recommend it best value, quality, price in Quebec with more parts and accessories in stock.",
+        "time": 1641219053,
+        "translated": true
+      }
+    ],
+    "types": [
+      "bicycle_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1183578135358838145",
+    "user_ratings_total": 43,
+    "utc_offset": -300,
+    "vicinity": "15 DES CARYERS, Vaudreuil-sur-le-Lac",
+    "website": "http://www.lussiervelo.ca/"
+  }
+}

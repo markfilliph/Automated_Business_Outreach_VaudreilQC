@@ -1,0 +1,427 @@
+{
+  "query": "Wacker Neuson Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339083.9117467,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3500 Boul de la",
+        "short_name": "3500 Boul de la",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4B5",
+        "short_name": "J7V 4B5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">3500 Boul de la</span>, <span class=\"street-address\">Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4B5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3500 Boul de la, Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 4B5, Canada",
+    "formatted_phone_number": "(450) 510-5553",
+    "geometry": {
+      "location": {
+        "lat": 45.3902384,
+        "lng": -74.0710568
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39130363029151,
+          "lng": -74.06961196970849
+        },
+        "southwest": {
+          "lat": 45.38860566970851,
+          "lng": -74.0723099302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-510-5553",
+    "name": "Wacker Neuson Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUcG0lWXvp1XOBmRJItjnMkIOGOANiyyV1jVBElVbAB0-7Zpl1W-OwzRPzzYoReT8vPxht0tAVNyUbkDBjABB1awQaGz6WSn0cCgj9KFopWI32Czv5zflT0LjyRrnSQEwqHULA8Wyg5hcHbAZ-KBmAPzyoU0qDnyrWN6qSR_fIcfmKG31vzgs5EM0gxkOMRcl-oRl53Lbk0xq8KF9GmHNrCTMFlJGgc4VpM5wvk-Pz5Ss_4o85Y6hJoTMVlFr9hAIQdHUHi8J5c9F1OUyO3O-qdFZLniwinPQY7tasZpiVPMA",
+        "width": 3600
+      },
+      {
+        "height": 827,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfW36LHh3T1DEepOc1b2MYPasKBg2WKoulHuk6gJR57Fm3Nipx13r6AJo-RInvc1D0cDeHchKeEDb8T2hAdht52sqcX1snCgalWWmz_VfugFRQUPZ9X7qV7h0ZGy6xCJmi5cWyQqx4KGt0W887bQvjk4twoyDxdDfzf7fSXMYExURFxG1arqWREXT0yxsiA8oZeVtrpf2EbT3tcslKteIajk6yanHnJ2TpAeI2R78YydURHFvbRVPjZiB122NL0aZP0Ld9j9iShCl_t7R1M4EswDM1hzUwD2hYEM0-IFDvpcdA",
+        "width": 1125
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfV4JB3u-qio3vC5D6OfWBqSyPzES8HX_evv_StDX7Ka0BEdpjl_m48n-FyzP03qDthOozOOgBK0LYIQNgeCL8Q95ud9y3jcz2ZFfyC7ON4bqgV_oerWaEKfU8jgq2WxW21NWKJPhXzxp2ApriTQxb6OqIwCQnfD0PNqkznNbOnkO9-SSE_3qlUcTmGWv9WuW9ItdrblxnrSF-1gdHHV137ULkQPyVJodNq9wAoCMIg_VfOCEwDVIV_AakE9EkgrXFpfEw1VGyozSNcxMO7F__UFYD_tGCy47Yqt7Kgjhy3_pQ",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUh4Q0GPgJgl-fBxUlSg5mLSDZvlFGw_tmz4Yjw6b5txgHd5KxoQvCIJKFBtmYVOEWmwSub1gU-7JFZjtmJM3ql17yBhLU-zoPPaZZvGAvXlu4_ZcCFaUHTNCwje2BqygyXob_cBf4vJX6QPpGcs5RMzdQSLFGoFhm7tX6renzMdBmHOYPkfm_5W2aHBygsXP6PHexjGjiFDUqJTzgmmOjLJR9JkWOtqCmDSsBMkTNtzH-BtkQoX9t2qePLdkLzHRAJAb9Og-llvjgydaUd_0qZgGsfizVqgt1_gl7b7pHrvQ",
+        "width": 4032
+      },
+      {
+        "height": 4500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXkii1bE3XhRni7_LaMaT3Wd4HrjKTZ2lxAxvC1ez6_OjSDTk4W72be6A7eerTAfcJxLpU7c7rHm5WdmSjaOQ3_yJMRFOuQ1Q67tRfH9R9uix4OLLpOXQp2nXF-x7zMyazBZ8C8K_8_xJpH1hsnRpYEFPUqNmbpjW8Gg_9jzQy2b1UkkRUaA5FBzkriN46QELBgAotte43qvlnzeKVDn7O7xmVfOHv3w_JdgAwmLMJGeTVs-v1RP2yXLd0fVCF71k2T5CpsZZLnXRYoUuST1JFfORTVwRXGXwbs5bUlOZwx6w",
+        "width": 3378
+      },
+      {
+        "height": 2528,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVJPGJ-gBaJtT3P-FDuHduYaRCWBLuopci8RW1aTQspIs2Cm_c0VtsOhNuYX362YeORzQzd7aVLjRgv7sWZTJO3t8JauP7In43G4_pvDmHZQ6P4_iMpYSfCBNr1LmUdI8zeL2gRUaLUN24bV_O2zGG9i5R8JSUCcsXwCo2wcMDKzfV8BgK_gzaH29ryrSQ52lePaey8e6PM9vtcwlBi4Az0GsOlDOsu41D5XtiKEH_DH6-5hU_awXdv9HVmabuxN6ZD7zU33Ok9FtydASjZjJ8fIsYvZARU4vGyKScxMW_CYA",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfX38L6M5uGqEq7jrL-Km76xjwtNPFGE3UKWwsx3Aj7whkQ1sCOud32OrJktXDOhaKUhNss-HkTjI5ZQx0zp1aSKIXfoduyrJi_2wyZ71UDlTPaIQIAU9_zHBEp4epSq1v-EC8cliwdI_x1graM8twsaCjaU2Cr6KTI3p_2aAkmrggj6I_vqCfJ4CRc7uSO00vQKHuhZaBaX9_Of2R_1b7jISPELPrDsE4xgCGU-vczBUaPT7hX1caAxMhmELZ4wCMxdoYbeqOJQDvlJb9bnMXIppKnh3QIXucOiuAJ3smF-Nw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfV0Ll6ky1fCvNPLIWXuLENY1bl8WpDPaF3_rbE5jq-LvoU5de8TDJbw5xoe2VDcGVCnk3vctmxaKugu1NIlmJi85CGO_L5iUs3o6R_Ahkq3JYicJxsRL_POG-qkk6dXuNqhm9Mek82vdWEpn7VyAm0GRV2_USeMHMfM0gSC8s3V4MmnaBGI8pxzD-23krGzhCzVu73xrvE6ZYHvUHbzzdgGh5O-TXT5urhbhNmaQuPgvbnZ6YUQKNyqP7-AtlizgnGi4AXFiKKP5rvoFVRjyvIp4ftzFglxhcoXAnvoXOx67w",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXKGFPU8-DujlnG8o-hV3YLbRWWfQ7fYt9n22UZkijn8F-dH1Nub5k3-sGnCu7ZjmtnhRN2qQOqnQBxjthAwKLBOPRqDUtvo9vf_Nzds7B3xh0IDPWu8imeLLjLXs0Gnvo4SceSPuaMkr19P6Ij5BGt0Q96edOGNXatJL9LsxZeAOREo0XIONp_Hz1oqn1Gsw8woK8C-zUKNQcMcIKTXXhiurvhBPO3UR8ArI9Wm3ytYcRADYN2M_5pYi6PxszYSWkX_Kh0a0m5pOnA0s8bYNC-oF-hxzcBw4rNb91Uj4I3oA",
+        "width": 4032
+      },
+      {
+        "height": 2004,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108236904393950131926\">Wacker Neuson Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUDMX73oOCrYp7u7K_8TwqVXkmB8LTf4jIjiq9C39RL4VKGTGFTwn6D7Pw5b7s7VIr9RhH6jg84TeX0UprXWfURyFTdmJNswwsm9bU7FBYz_h-4JOKRcnAzj6rzU0GQRQVH18jC9jsFyiqp4fiR88E5QRuVdQWiE69ODuHMLeUz-5ErdEroFiReI1gZ0AA5UZUe2TQhTDc1y1E9bGUFy50xUz38wPZC5S-iZOYUwr7Mye0PrO1X32EbA_DMuAj_Al9QmQApWjOgwBGbkLcBMcDVVF81QCF8wphTgCJexgMBww",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJo8q2DiFJyUwR4FAsTVmcKOU",
+    "plus_code": {
+      "compound_code": "9WRH+3H Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WRH+3H"
+    },
+    "reference": "ChIJo8q2DiFJyUwR4FAsTVmcKOU",
+    "secondary_opening_hours": [
+      {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "0900"
+            }
+          }
+        ],
+        "type": "DELIVERY",
+        "weekday_text": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16512619941114695904",
+    "utc_offset": -300,
+    "vicinity": "3500 Boul de la, Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://trailgo.ca/"
+  }
+}

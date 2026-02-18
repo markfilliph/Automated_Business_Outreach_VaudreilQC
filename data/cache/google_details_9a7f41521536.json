@@ -1,0 +1,548 @@
+{
+  "query": "Print Me Shirts, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339569.4070847,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "125",
+        "short_name": "125",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Turcot",
+        "short_name": "Rue Turcot",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1G9",
+        "short_name": "J7V 1G9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">125 Rue Turcot</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1G9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "125 Rue Turcot, Vaudreuil-Dorion, QC J7V 1G9, Canada",
+    "formatted_phone_number": "(514) 442-2132",
+    "geometry": {
+      "location": {
+        "lat": 45.3917574,
+        "lng": -74.0220106
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3931697802915,
+          "lng": -74.02072631970849
+        },
+        "southwest": {
+          "lat": 45.39047181970851,
+          "lng": -74.0234242802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-442-2132",
+    "name": "Print Me Shirts",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101207915188152938404\">Print Me Shirts</a>"
+        ],
+        "photo_reference": "ATCDNfWyQpAjNr_lhgJBDl8LAwcHz1ZKH7xgC1K7gymzkxDVF-bfPfjCZi6gbkLX13isR_ilcJRUxlb9tc2CZprQrABSII4RXMUbuQ29BxFFjM1kGjamuK785k_J5irc7Pz8IT6aZL1mehnMtmIzmgEFVMj4jcb0h743-890V2xgAU3MEZf2jq1RtbeW7bKoONo5zj6JctG-f6hJebX7OfllmY5eZr_xkDWYqnzFgrfZOKbQitR1yIxu2xC9gSOQjY73vQl4uIejfFNaqF7reFF-7iQ80aSOCGn9wdKy_e3RUy9D-Q",
+        "width": 1440
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117651553430844678388\">Adam Matthews</a>"
+        ],
+        "photo_reference": "ATCDNfVo6u1nV4LUPVDuMV_MTHnjOVbZ6Iq2orhDmOMoi0tFAve0C1NOOnceB8xWsmO6qbxeMvT_fiiLwirJdHSgs5qQ9QHTqupufHUPuZOVQwQEtGbbzceHxAl2uevBbPSS3tiqOPB2x-Cs_8j74y0YbqgMBMBd_FVZn1q02rtdbSm6nRLxC-ygOe6dXoEx7XtF_lL0N4Zq-1RHHWxoykqiizGP_zTAvDq7aNbF3htvx_BDeWMPrQr11qC-f86uTwsUERPOnKCOJOjr82TRTVjnEtr8tV25ndG78QJUI8iJydSJ4dSXc23NzViTI1bnM-J5qhbJKRMRsTdLBb5YvE1Ndm-4ED6pqLjMmvAayF5S9TyCw9SkFwQV9sn4klMCpruPwx4b6-ej1Nguk6UM_cjwkpqLuN3pjs4SGQ5mT2wThtRFIPa5",
+        "width": 481
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101207915188152938404\">Print Me Shirts</a>"
+        ],
+        "photo_reference": "ATCDNfUb7hEYr_87TjZ0sOOu4c5pEnWvaTM2u7GWbFc_v_OC4s_XedO9p-dA5s1PfhJHITZPqrRt5QO9CBae_rZjGOc_v0CDduZq_gS4n2dP6mluwFUj5TWnk4LAT4wOgeIjosledob2kz8gofdp7P2FlUQZmOwtneMhDQIJD6f1PdCDJ2tX-2_4mJCFVT68iSSB_uvfIq-QwyPt9WDdDVFOwILU8Zp0uSqLh_bmwsOdiOLnpeFH-m7dO6YQuJeQpvNdK0vMh1iuun20x65AZ7j03Zfj4UK7TeGdiUdqbBNY2-hM7w",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103730319929075727772\">Jeffery Vuorela</a>"
+        ],
+        "photo_reference": "ATCDNfXhQCHAr-ZsAujeH4aHClvPJu3qRFRNr6t1eAzzhuRiNWJPQ6qHGwnxfKsW-JkmXWscoz-p0C4kbyUgy5vR3DiGjRPo21bNs3PZRDawlfkCRYBY20_e03nxTecBmpu4jqT75Z0JgjuSOHp9e9mssd3AJsR6rTEFSwV2ErSpW60J5VXF3JW6SQR1HpRh01VY_2J_xkA-OvCvYQT5xeBGOnbSpCEnFMf-BXBg8929lZJcevIpGCBwLmynDcoLZgUg6FaUb0vboBfO4Plt17abSgqX7XhE8u7VX5E7tv_vZicw2Bf09KpSBGfnudeCLOt935QRpfvakw4X6pY6wwcRACVf3UeNhVzj9cOc80d9H1ZKds7qAgOQVWe0JuA3vR9fEH3LQXFqCLGgsTT8GM3eewFs5uDNGC78Mug5OEfU2mY2Cg",
+        "width": 1080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103730319929075727772\">Jeffery Vuorela</a>"
+        ],
+        "photo_reference": "ATCDNfW1D_Dp5vq9dz4t8sR4nt3JIkjWCIgvpjHjlNTAQ_vCUKv6CUU4dOqvftWvCP7i3gdFVC54hL9f4hzrxgkfUrNjVhZg6CFi9SRRpUKd8RU_6FO7vp0uIw5jPGvUWhrbEKgq-ij-OsatfCJ7jCmoLL_tTtqyTsPCtca7bstpGIPluD3UpVnQ5oOI0Y_ec8uLiQ45XX2Hl2REjHSedIkx2-1FmCG3wE-2ZkyL6CY-b0smH-6UXwv-RNXB8APuda2S9m2GSmgOp1xfDpFvByn002uDzeAgKFqx9EeGrl-jB0JR4V6n9sIzFPmsfWY-gzYqhLzOa6M3vqwdSSyw48uODddzSmSJFDJIgZzLqWWxD5KCythfQACgHY9Q_5H1rKkE3Pqy1wTBsddsK87LcMPBw0wnOonUc7__zFgNmDMh75JN64sp",
+        "width": 1908
+      },
+      {
+        "height": 1856,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115094910626262265546\">Dany Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfUk8Yih7SrtcbIQKTC8f8dmmxh42301N0bwBBgH5qOLFYNCqaiibcU26wOekmn2mDzXQ42UJO8pbBmEXgrUOCFwn24F1W-frhImZ0zzEXza2iinFjKD6BR9zzN998nvqhiDVL7WHSHm1i9GlkAT8Df601ds8bQ1lHQMFwl-gJmuoxSBuCOq5dNvRAeR3GD3vCOkxjYR1189pE1HOoEX4-yoM8c1SThfKniYY2_KQVPYPl7QRsstht4YKOHI6KG3cyJ0MHOQg6FhTSeHuo_lgp2L1HBmAGMYRibADIW9gjTZSgelalGumxieOjWnvJnOJGfvsIG2hj0ber2mcG9nGvPPftBNdxhzNaP-_tQXVawRnx4V7LwPNydfm_owqJYXnFeeIgmA22Tf0kn_SUjj_hzadneD6OX9aHImY_4Vbc-DDiI",
+        "width": 1392
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117651553430844678388\">Adam Matthews</a>"
+        ],
+        "photo_reference": "ATCDNfVuTxFlRuhxZ27koWfWIrVRXl7k1fmHJYYwZgB6gKtHgmrRR61KHsKgLSDSNkZPDGEPvyNkL28Q0tMsLOgX1k-UuSJ6eaJGvNuavt-v34DFLUWJe0q7yRKGsWDXtxx0wokeSaTRDA9mnzEQnCmF4-mjU48WF3okdCKHFdC8Cp5P2NmDFx4kJAbgXVSfrWx0nThR-hlk6ebsEyUX6TcGRtgVRmWOdBObKg1Fwhv-FF3-TkH6EpDRyeyoJFWCg0nK7kMjDeVU7lE0koDbzLgPNShuXaXiwAzGAdiV7IVRH39eu-RVXqiyUJ0wMctseIDQLcwuCbt5uxTo1KAPjruBRpVEtY42UdKX5qwqIbx17YbCQ3jBGnBS0NMHxXADi88SARHV0IvlEWYlG8xg49xrtI9u6ZQ7usq7giALf49Dvx6Nug",
+        "width": 640
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112413303214198274388\">Tiny&#39;s Stump grinding and lawns</a>"
+        ],
+        "photo_reference": "ATCDNfX0YrYa9yySYnTqgiKR7soDr_8dWTgLB7iOyZK9yavPf5zmB3n6hSmGYGKIcjb8mlbpd56M8PGgs4AgqriU5rrD1jjYAXoij4S14vcIpStpySjJTBvPeQ4DxLosxaGbfAj5sq-LiirUvA_EkDQ0lC2dl_0MzfR23S0jX-LUoAWAtb5NMkrAnvrN4e-0s609HIgeUppns6LJs4q92hiUG3y2y8ajRBmt5m_RJL-QtvQXZ8Q-q4qltxjKLHlRp4XDVzA7EHZPKDbEiGwsPRW19GvsGNsjOIU9ANJ_wc5ETu1CIiljuf0de68GVHsoALyeYL0HqVV_sxrP4mzr73WrTmvE5msQ_7u0B0EtZPkAsPX7mmd6adiqLg7ViBtC47wtbrEInJNCCB4dggi0NEbAJWv_xBsYfHJIGS6QG-5a4OM",
+        "width": 3000
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110044079040984852971\">Alexandre Gueudry</a>"
+        ],
+        "photo_reference": "ATCDNfVicOOv5IUIXF4pwEBMoD1LItXMRe4S7vjCFU3n9yly49z-pbOzCB7i3pvAavelhfmxZCCrMg3-zb4ZG4_fVu5kIxLJ1Ko87S8XFaRtzHE8qlYdDJbkzZst3if7Yt1wiC_IJlF2ssmBjWqSISvfrTeqhwYIPsqfSDyGmDxV3usqqRaOtudumNO_NwspjHYca0njsyBueCB6yKnMNeskobDKvrkbMj0LtEFBJPsxABjPEKOaVtlcQ1q8SJG9Tlx12Wreu1mgGTxf0PxsvokQtKkVJMDtPpmFohYeGLtlex3MHksZcakZJJHKCvgdjhLWKvAbLoRVvLqZm8zp_ghsN30sm4rqlHoIvfUb83nuGegsBdet27xPMoFUyD5XsbEgs8SnSUGSTS3IWV7FQQCjYQ-S0h1gDAdOQRwMQo1YQYy0jTUC",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103730319929075727772\">Jeffery Vuorela</a>"
+        ],
+        "photo_reference": "ATCDNfWTHTKxjc6qQKPSqO1roALa_ep25xXatbhc4wMb255tMRpWIqMCW0aK3o6K1HK5m2uu4zswEXDASrGS3l-Y_WHk9SD0IsZb8lo3z6lG8wfG6AppquLclxN4yj_osuMumnTu0qVJhZ6Rb-6evyHITtKGWcUKJ4eP1wMIRwrhy73mTJxSCTH1xabcnlgkmxeSfPX8gQI2QJkafnoqS0Y1U309Bcrj_AaxdR_zbTxoX8JoZqzLbR-NF2I5ijB_BH9U-OElWRcPpQH_3q70A4jdEftScsUhtjJ52eaC82-mbCN9HwSkWCe67eG8brr8XxA4Sm_c_u_lJlV4fb324_SgicLWdJLipvQXy3-FqUWkY7lmnNsNPFjRMYYGKBl1-k5ewXsdEC_l9J5e4fLmDmb7Fbn4RvDAaF7dZ8e6m_jwDCAL9Z4",
+        "width": 1908
+      }
+    ],
+    "place_id": "ChIJ9bFYTLNJyUwRxjqWuzPbsNg",
+    "plus_code": {
+      "compound_code": "9XRH+P5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XRH+P5"
+    },
+    "rating": 5,
+    "reference": "ChIJ9bFYTLNJyUwRxjqWuzPbsNg",
+    "reviews": [
+      {
+        "author_name": "Danny Malouin",
+        "author_url": "https://www.google.com/maps/contrib/101822755617555575661/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5E4_ZBz0YH0EAqt9sGlE58VEkDnopsgwmnmZLofVvuudI3A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I recently purchased custom branded merch from PrintME Shirts and was extremely impressed with both the process and the final product. The quality of the design and the materials exceeded expectations. Jeff was courteous and went above and beyond to help us, even making sure a rush order was delivered on time.\n\nGreat service, excellent product, fair pricing.\n\nI highly recommend!\n\nDanny\nBeep Media Studio",
+        "time": 1759492132,
+        "translated": false
+      },
+      {
+        "author_name": "Tristan Williams",
+        "author_url": "https://www.google.com/maps/contrib/108096149848298110369/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWBXGJvlxa4aM6vCEubs7v5lBSCOW1C5-NU2YbjZhNfhvbLlx8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Jeff is amazing at what he does! The online design tool is also one of my favorite features, it’s incredibly easy to use and provides a realistic preview of how your design will look once printed. Highly recommended!",
+        "time": 1764289148,
+        "translated": false
+      },
+      {
+        "author_name": "Nechita Nechita",
+        "author_url": "https://www.google.com/maps/contrib/101526631944736831098/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJf_e6Z6HjUEJCbWvDEptLduBuyAeFsvlVO7TKFBvDIKMMvdmc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "I'm extremely impressed with Print Me Shirts! Jeffrey's customer service is top-notch, he's super responsive, quick to resolve any issues, and goes above and beyond to ensure you're happy. The quality of the shirts is fantastic, especially the heavy cotton tees I got. He's got a real knack for making everything look great and his fast turnaround time is amazing. I've been really pleased with the value I got out of this experience and I wouldn't go anywhere else for custom apparel for my business. Jeffrey's dedication to customer satisfaction is rare and refreshing. Highly recommend Print Me Shirts to anyone looking for great custom tees.\n\nThis review is from Nechita Construction Ltd, Calgary.",
+        "time": 1752686397,
+        "translated": false
+      },
+      {
+        "author_name": "Regina Kandiah",
+        "author_url": "https://www.google.com/maps/contrib/102979001094670734329/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNx8-AWQfUfQx1k_OzmwWHzmz2fYIrYVaxTVDFaMDD1VgJ7iZ6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "We were on the hunt for some sick demon slayer shirts, found him with a quick google research and no regrets! He was so kind and had so many options. He was also able to do something for us last minute..we really appreciate it! We made 4 t-shirts and have no regrets with any of them. So stunning and quality was great, no wrinkage or peeling after wash. Thank you again! Definitely coming back ☺️",
+        "time": 1758893382,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Lachance",
+        "author_url": "https://www.google.com/maps/contrib/101317241121142534551/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUbOm_Dp16vo9KqGP5KnmG0auqce1FnSIM9hVQaD3ybU0X6hu-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I am so stoked on the t-shirts I got from print me tshirts! The quality is great, turn around time was super quick! Thank you Jeffery ✌️",
+        "time": 1755698319,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "0900"
+            }
+          }
+        ],
+        "type": "DELIVERY",
+        "weekday_text": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      },
+      {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "0900"
+            }
+          }
+        ],
+        "type": "PICKUP",
+        "weekday_text": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15614220923330509510",
+    "user_ratings_total": 31,
+    "utc_offset": -300,
+    "vicinity": "125 Rue Turcot, Vaudreuil-Dorion",
+    "website": "https://printmeshirts.com/"
+  }
+}

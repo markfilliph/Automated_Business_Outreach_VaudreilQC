@@ -1,0 +1,351 @@
+{
+  "query": "RX1 Fitness Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340672.1112556,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local J",
+        "short_name": "Local J",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3187",
+        "short_name": "3187",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4E2",
+        "short_name": "J7V 4E2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3187 Rte Harwood Local J</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4E2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:30 PM",
+        "Tuesday: 9:00 AM – 7:30 PM",
+        "Wednesday: 9:00 AM – 7:30 PM",
+        "Thursday: 8:00 AM – 7:30 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: 8:00 – 11:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3187 Rte Harwood Local J, Vaudreuil-Dorion, QC J7V 4E2, Canada",
+    "formatted_phone_number": "(514) 918-6490",
+    "geometry": {
+      "location": {
+        "lat": 45.4285183,
+        "lng": -74.1092084
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4297455802915,
+          "lng": -74.1081534697085
+        },
+        "southwest": {
+          "lat": 45.4270476197085,
+          "lng": -74.1108514302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-918-6490",
+    "name": "RX1 Fitness Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:30 PM",
+        "Tuesday: 9:00 AM – 7:30 PM",
+        "Wednesday: 9:00 AM – 7:30 PM",
+        "Thursday: 8:00 AM – 7:30 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: 8:00 – 11:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110603290383583353657\">Matt Doheney</a>"
+        ],
+        "photo_reference": "ATCDNfWxeetwxyYB-d8Prcnw4L7GQhCmcV0enpaZ4ttpzZah3lf9ngxHxbDEoE7ovBpQL0EJd8vyjOSdlRnfMEG27_BA6SLGgDcSRB7V41dWwpjj-1sZCW5yPytbS-lmvrdUMmkyeOLYvWth2hyAHAkNtmZrPEi243Mi50gVS4rKVGcLi4ALMzNXX-cV3a7bh6Dn5ArbgRQtyNQjyUwZgyIBw5oOFiByKQsb_Hs7F1odzDmW-7-4fY2SmkIvRBdMp5NlkpQKUb53F_eYRih5WZI1wVsXw7Q5mroqirz7HeajCdKYk-TZWsZEbNj3HkZrl7i889xzuHqcTQigf36Sz7fPf2zZCJgR9EuGanjtZrwqvw7uvIqXnvkShC-kbATv5C68q0VaruVXnLCkA5kiT6p2A0n8DPhs-hnMtV-0pGqdHr2QJz8F",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ0XFy9ko1yUwRYXDavz_Q3nM",
+    "plus_code": {
+      "compound_code": "CVHR+C8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CVHR+C8"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ0XFy9ko1yUwRYXDavz_Q3nM",
+    "reviews": [
+      {
+        "author_name": "Gill ruby",
+        "author_url": "https://www.google.com/maps/contrib/101503634635222760153/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIk2n9Adc8XBaNS4PJEgKlJfXTaJGfJgQ5EDnh2AtqJLwic8Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "-100 Only enroll if you are of white ethnicity.\n\nMy kids in kids' cross-fit get 2nd-class treatment compared to other kids.\n\nToday, the coach yelled at me in front of other parents and all the kids in the class when we could have had a quiet conversation about my kids' shoes.\n\nI never leave reviews for anything, but today this coach ruined my whole day and embarrassed me in front of others for no good reason.\n\nHis treatment towards me would have been entirely different if it were someone who was white and French-speaking.\n\nI did not deserve the embarrassment I got today from this coach.",
+        "time": 1752951513,
+        "translated": false
+      },
+      {
+        "author_name": "Jacob Weingarten",
+        "author_url": "https://www.google.com/maps/contrib/108538550227055839379/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeNq1av9f0rVFg3BMd8VTFNiiC1_9aZQ26zvq9Uvs4ICo6YA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great owner, fun community vibe and challenging workouts.",
+        "time": 1736124823,
+        "translated": false
+      },
+      {
+        "author_name": "Marie-Eve Legault",
+        "author_url": "https://www.google.com/maps/contrib/101951456786400029776/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFbNIvRnneMi-57w8F8dxNCpLFF3P1CWppG5JdD0loOT8mOw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "What a fantastic team of coaches! They are professional and attentive to your needs. They motivate and adapt to both beginners and pros. It's a real pleasure to train with them.",
+        "time": 1642856023,
+        "translated": true
+      },
+      {
+        "author_name": "Maude Hardy",
+        "author_url": "https://www.google.com/maps/contrib/105116984408006926299/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4g4Hcg42RlKHAsJH4UU87SodPkQ1hJCGsmcq_DZVh2w2HVBIg4Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "An energizing atmosphere, with attentive and motivating coaches. The classes are different each time and suitable for all levels. For those who enjoy group training and coaching, this is the ideal place.",
+        "time": 1669392887,
+        "translated": true
+      },
+      {
+        "author_name": "Marie-Hélène Marier",
+        "author_url": "https://www.google.com/maps/contrib/112533829936590602067/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzIeDvB6V2atz2822w0nRzdaluWz-LXNb_5AwrbsNZvknOnN8c=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "The best coaches to motivate you and help you achieve your goals! You quickly become a fan of the classes! The members are welcoming and you feel at home very quickly!",
+        "time": 1642818721,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8349339731411759201",
+    "user_ratings_total": 14,
+    "utc_offset": -300,
+    "vicinity": "3187 Rte Harwood Local J, Vaudreuil-Dorion",
+    "website": "https://www.rx1nation.com/rx1-fitness/licencies-rx1-fitness/rx1-fitness-vaudreuil-soulanges/"
+  }
+}

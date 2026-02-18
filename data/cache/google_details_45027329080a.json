@@ -1,0 +1,394 @@
+{
+  "query": "Charles River Laboratories, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340632.4425201,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "22022",
+        "short_name": "22022",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Transcanadienne",
+        "short_name": "Route Transcanadienne",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Senneville",
+        "short_name": "Senneville",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montréal",
+        "short_name": "Montréal",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montréal",
+        "short_name": "Montréal",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "H9X 3R3",
+        "short_name": "H9X 3R3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">22022 Route Transcanadienne</span>, <span class=\"locality\">Senneville</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">H9X 3R3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:00 PM",
+        "Tuesday: 8:30 AM – 4:00 PM",
+        "Wednesday: 8:30 AM – 4:00 PM",
+        "Thursday: 8:30 AM – 4:00 PM",
+        "Friday: 8:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "22022 Route Transcanadienne, Senneville, QC H9X 3R3, Canada",
+    "formatted_phone_number": "(514) 630-8200",
+    "geometry": {
+      "location": {
+        "lat": 45.42049859999999,
+        "lng": -73.96416719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4215532302915,
+          "lng": -73.96316856970849
+        },
+        "southwest": {
+          "lat": 45.41885526970851,
+          "lng": -73.96586653029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-630-8200",
+    "name": "Charles River Laboratories",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:00 PM",
+        "Tuesday: 8:30 AM – 4:00 PM",
+        "Wednesday: 8:30 AM – 4:00 PM",
+        "Thursday: 8:30 AM – 4:00 PM",
+        "Friday: 8:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 532,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfUMK5avlZEBenrbqK0199nh5DDYIFRKVmuF4FfQErbMv3J_E_NbI3S459ajpPz7ATUOfbbm7TMZUqttsUCRb1H-UMmDs2ggyBx9cEnPw1YkobcS-J31670vtDl22jzqLkildTYxkCwBHnt13T1xY1A_T4s7RSYhfJNry7yb29ywr9LWcWPgA4sQWVoN1Gw8rgWPapZSm-SSk9iQY-nDRDLRqd0AhIlupoqEiCDsIi9wCd-qAkipLZfM_E6HQ9Gu6DqyDIbvIh9QgLlNLAIuXJ83zrTNWwO2qKxKFynFjUDbHQ",
+        "width": 800
+      },
+      {
+        "height": 426,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfUXGTRqi3ErXZSdQSQ-xFWxERfkbMKFA0I32NzzDhG2-kIKLFvSB5ne60Op2iv5DpEEGM36KEcrzuaWFnUX4sHL1XovuQ__wmjHgBGULZA4q6V_eOYuBrG3qlepQ1psRPXAyZTJSsYVEtWPFVis1xup1kJ_kN__-2GPemSRIBANJI8_LHPCGIREcl_R-qd1z6NzJcko0RjQ4L2TzGZPW0YOC3t1yKkIU2iYaOTOX_bAiyNy2tIt08D6vh99T6RHHu9r-RVyN2e_6yimFP0rbACfSQu7qamWcGFK32_ikgG0Gw",
+        "width": 640
+      },
+      {
+        "height": 427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfWyY_KpKsuyHiD2jlkx9YhE3sVBa6o-cmPZuWbixa4ovwlvaeGIQNvxgl0Cd6yuyCU-krHZwIVvOOE-uuVY14HpTvNB1ub9ZtxBDWPEhZlMuzGiL0uatt-95BBeMKiKdMgwMzW4-1WYxJc_rT9xq7PtuUTfk2t48UyD5uQuZGR1irrCH9rEUF9sh_6XhFNym9JhrxNCyfiu7yBiUThnptIHuDs66wztMPi1YbyalHBItaSwDjflvRdOy374oKmraBKuzxSyU--ROx6rtWGRKNG80_4GUyjxj3owNNPCZ3rigw",
+        "width": 640
+      },
+      {
+        "height": 426,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfUrDCB6TX2DuPdL_PPmtFb0tdO1duCA9l6kfZTuGjYZrMn5EtSFuGlcV7MrY-efi4mZz2uqJBCgFqRDNTpYa4GXsAnHx3c759OP-ZvtzRQlya8O7U-LleaVLvdqVBJFrnU2bTm123dZSZ_9YAJMl-sQYqUo0Dmm-2_e2OaICmd8Qvd9-Wuo55qrDYP6iyudVtzqOwcm6yUMVUu2P0E2AvwVPkl7z46ZzBgMfiqXMgGzAKXcLvG5Q42c-EOcQ6UA7TH7FWjf6HaI_sD8q7tX-6O7L8KmHarsg48Xn_YogEgpnQ",
+        "width": 640
+      },
+      {
+        "height": 417,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfVY7s0Nms6vylLGB_OlmwpD_dHrQfunGnezdi4ON4zSWJ1F85ZeyJ5Y71xEmtxxuArwBfT62pHovwDGOTcnqG87SubQgXoZyRQFh6EvEkgSD7WSfnTZXMAbF_D3hr6t6VXU5jjynwwQ8lpSlCObjDFaaQus7z4E3WtELPuS5GrkjJgwYV0TU92WcvTsEQ68EKW2zYNLGApNUi-R3jT5_7jbo5w5Pjl8INzFaU9nuVCdGL-svt44fYTsxseQq9ilvw_tg9yiwMIoKx3BWzhxUCsowx3fRmnDdSPFs6htPwdMbg",
+        "width": 640
+      },
+      {
+        "height": 426,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfXVg-WatUX2J33VLQBiclPOel_gW-WyFwoNRenN66H28XXbJ0o6e7KP-v71BetW9LPrESwqdxRnSfkcddISb4B1bts4mu8NcYfGaYz-ZGBrrWGJZ5oSubZNKvTZWwNXi1aSopclECpcpbE4EODWitHAmdvuyXzbEeXmJ3TQ_2E8V4orKORMpIrZAmI6goTafkpcpkKZ4J9olm_ESNv5u098eJL6kX7mNPyb4deT_5xUBjvaLFyRWi7ZccLAsk6sXC8Y5xVG8HWHrMfgkc0CSCRIx-MUH9t8FrrkE4wJVt96iA",
+        "width": 640
+      },
+      {
+        "height": 426,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfUgNnetYG58BSgxCgN8z9viLY1UkC7dUZ9bK_jldQZlRFBmMyRyV0jqs2ij1mVy-955Nq8n3EaDJyLB9QHhvNkllLNYhYROUwZR6G7oUK-w51SF01zlnKAUYAzB_gvkVuFhOqk0mFWvcTxcpwzl58RbZlfKsVKNfWcK0i3uOBH_qZToM3dZDp-ZMguQBZ-8UWsSHtGwoj93KVfypazpsVjDlS2vMqMPpQTvRuzSVVvDhIzTjy_eVz3qnXYvnp9ogKpODaqClMCZnz37h2qN6xxjgpmMFT86YxtcyHC-pPdWQg",
+        "width": 640
+      },
+      {
+        "height": 532,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfXgbAKbf7N50KtxFOfyn-bwT3DTejK3A9HyZGOIQ1zGGcjlf5NWrZmiRqeyMTZ365HDnawZZYamKo5G8zAwsi3oVKEoTLCJkBF5fFrvDkWUDGzppya-sxevRAtXxmk8flQD0T0p4_yPRBLIRlSJ1muQcd-_sv-DdI2sEdKmEdT7gVdcW8HGCqS3eF6oMDbYo9mXziJiynThrtl6TpuRZBgBp9MV7tOhdvGldCB89ATGYs5IXH94D5Z1x5pRr9nvdrJkRgvLDnFcw-gdW6ijdTQQ0huk8m6Uv_5Jbg52MORfDw",
+        "width": 800
+      },
+      {
+        "height": 417,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfUOU0Pkv2XRuEqsXdVIQQgz3rVsJDzZNu62h6cajlTj1kk7Xz19Y0ij3DyK3PhFN-QLdgqXJBCA215EsjmAIz68V2J5klMNUq4ctWgLyRWmayZYEKcGhLS-iUlMMXMqiZraKdqhGIPKzsXVYUwYfgdcCnfF2xDi9pD5JCFafiIm1_4zm90x2pAC0fk7AFOP7eHLB6iJ5Gs9YsqNlsEQPa2e3kMrilzZ9xZo5K8YBq_roSbGY4IxvVqXP9o4oE8zWLQnu-tTBD9iYrHsYmy0JE6aOKyvsCto6OpYnZ3ARlAtNA",
+        "width": 640
+      },
+      {
+        "height": 427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101865705706521480548\">Charles River Laboratories</a>"
+        ],
+        "photo_reference": "ATCDNfVexQPNAcznXU3A_lsiqAVMcq2e6innjtXlYUbKX0DMaZ8-ltKX14SDuFad0mHYixBCu0C3yIkeNsRTL_Dnf3VVj_nsHcFW25i1z2cblf85yYya8-ezt8DvZuzIT4sxKnw_zaBgVvsO5Yvd9OLS4HSEquFiUPqo91oPfGS2VWA9HbPTW1wPC9RbIqOcMnetimM8_KiY1gBPhWL0ZZyY5wNV7WW3S-IcoUamNmCjVvueRU0zbKpNlksVRiO-C5a4vmWKll7ccsrw_7teDs4Ork5SZ_ePNBZMd8fl5Y7pCnsVFw",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJz8EBBdM5yUwR2OSd-3pmvck",
+    "plus_code": {
+      "compound_code": "C2CP+58 Senneville, QC, Canada",
+      "global_code": "87Q8C2CP+58"
+    },
+    "rating": 3.9,
+    "reference": "ChIJz8EBBdM5yUwR2OSd-3pmvck",
+    "reviews": [
+      {
+        "author_name": "Mladen Čolić",
+        "author_url": "https://www.google.com/maps/contrib/115664387036780044661/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWam_reeidE3ponNHiDt2gAJSR2rh5Jc2YICymSW9Tu75COpxQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Truck drivers overnight parking available",
+        "time": 1747876236,
+        "translated": false
+      },
+      {
+        "author_name": "Andy Stirling",
+        "author_url": "https://www.google.com/maps/contrib/110869378298651609442/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVeqh3hkbShPVUmf6fFHHBkTRuASQ4c4OR2x7WkX2xW-oZRw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Leading edge facility, top notch staff.",
+        "time": 1525292942,
+        "translated": false
+      },
+      {
+        "author_name": "Joy Katsi'tsanoron Sabrina Deer",
+        "author_url": "https://www.google.com/maps/contrib/117100414980235039674/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOue_4EVzXqcDqSTl-L4HhISkSsFDEg4t44zOMURjpxnfE2GmP=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Advanced research methodology vaccines ⚡ CoViD19 pandemic & aftermaths",
+        "time": 1609985280,
+        "translated": false
+      },
+      {
+        "author_name": "Jason Delvaille",
+        "author_url": "https://www.google.com/maps/contrib/108993140984073722993/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWykG9VqCNjUcVjVOzIdiI1Yyp63v_ej8yeuY25mISTAJsJgrEc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "Nice area to go walking",
+        "time": 1542282136,
+        "translated": false
+      },
+      {
+        "author_name": "Casin01",
+        "author_url": "https://www.google.com/maps/contrib/104431450410710638649/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEnMu1uxUdRfPI0wAGm3RAFLeb37DkgCoSEhUj78Zd0Ppa66s=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "unsafe",
+        "time": 1749597771,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14536887850615301336",
+    "user_ratings_total": 63,
+    "utc_offset": -300,
+    "vicinity": "22022 Trans-Canada Hwy, Senneville",
+    "website": "https://www.criver.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

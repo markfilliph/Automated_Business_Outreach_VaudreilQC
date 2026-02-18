@@ -1,0 +1,93 @@
+{
+  "query": "Champlain, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339886.442746,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Rue de Champlain",
+        "short_name": "Rue de Champlain",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V",
+        "short_name": "J7V",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Rue de Champlain</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Rue de Champlain, Vaudreuil-Dorion, QC J7V, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3959262,
+        "lng": -74.0391505
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39723140236832,
+          "lng": -74.03773273606421
+        },
+        "southwest": {
+          "lat": 45.39453344178532,
+          "lng": -74.04043069664723
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rue de Champlain",
+    "place_id": "ChIJT_3DXdM3yUwRFJx6jjz6KIk",
+    "reference": "ChIJT_3DXdM3yUwRFJx6jjz6KIk",
+    "types": [
+      "route"
+    ],
+    "url": "https://maps.google.com/?cid=9883424520259935252",
+    "utc_offset": -300,
+    "vicinity": "Vaudreuil-Dorion"
+  }
+}

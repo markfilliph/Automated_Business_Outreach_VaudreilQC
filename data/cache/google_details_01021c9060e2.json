@@ -1,0 +1,457 @@
+{
+  "query": "L'Œufrier (Vaudreuil), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339671.8635669,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3052 De La",
+        "short_name": "",
+        "types": []
+      },
+      {
+        "long_name": "#100",
+        "short_name": "#100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8W5",
+        "short_name": "J7V 8W5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "3052 De La, <span class=\"street-address\">Bd de la Gare #100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8W5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 2:00 PM",
+        "Tuesday: 8:00 AM – 2:00 PM",
+        "Wednesday: 8:00 AM – 2:00 PM",
+        "Thursday: 8:00 AM – 2:00 PM",
+        "Friday: 8:00 AM – 2:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: 8:00 AM – 3:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "All-day breakfast chain with a laid-back vibe serving egg-topped poutines, waffles & other specials."
+    },
+    "formatted_address": "3052 De La, Bd de la Gare #100, Vaudreuil-Dorion, QC J7V 8W5, Canada",
+    "formatted_phone_number": "(450) 424-3233",
+    "geometry": {
+      "location": {
+        "lat": 45.3963676,
+        "lng": -74.0551559
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3977799302915,
+          "lng": -74.0537958697085
+        },
+        "southwest": {
+          "lat": 45.3950819697085,
+          "lng": -74.05649383029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-424-3233",
+    "name": "L'Œufrier (Vaudreuil)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 2:00 PM",
+        "Tuesday: 8:00 AM – 2:00 PM",
+        "Wednesday: 8:00 AM – 2:00 PM",
+        "Thursday: 8:00 AM – 2:00 PM",
+        "Friday: 8:00 AM – 2:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: 8:00 AM – 3:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110253199019977756122\">L&#39;Œufrier (Vaudreuil)</a>"
+        ],
+        "photo_reference": "ATCDNfXJEeUjLA8ObAkvOv-VfCSMGPA0Z9PpNxHQLvZdSUFUvtIADWPCtBZGZKRhqMwiePnEO88GmRpJiQFb5GdMPysv98KMcSINSO6wiPy6zv5w3o7qJVqRAdOxKVV1yftiBw0SIPZXhYvLMIwQZKOgEvuSa2jNmKl4A4UanYBEoBz3YfgApQLMMzdMV3jSeeLIg7jOJu4ZAoYZOi-rFs-Mkm6Lno5B4vpnpeZjmCj4WVnVibGoXNtXUwgfNP8yWxCsFEfDVGdr5Ew-u_-tEzcIJ7k1GBp3tVi9iZk_PyWTNK6E9g",
+        "width": 4032
+      },
+      {
+        "height": 894,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110253199019977756122\">L&#39;Œufrier (Vaudreuil)</a>"
+        ],
+        "photo_reference": "ATCDNfUafaOW19aNwAlvpfw3JCtqWvm60pw6bR9Ws8q8EHtqyk8_XVsqHiiNMN8N1f1Gj8q4jGz9Bq7Cbx_MvtMcPGRYy7DqyAto1n9lSqOnimv3UwaTtApHHe715ucrz7u4zH4WfTsMhxYlxJBSVGEDzsfhEVwI0HkEKFEIiYFqkOsbup92RsBWfqdJnmNren_FUbtwrimhjEItE1NhJhz5hikwD5KXs72tVaRbz97VNvgRTHO81_uWTtfKk55etpttJSPFQg8fH-qzX3naPxEjrHiDxxwqpAP8ER2--PBHOddOgg",
+        "width": 1192
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfVP_t3Kna2WrhtwZuggaBW_78_7jStk1IFR78_Ygnd7D0_HZFWvtMuKHSJEDRHb0gwgMCgqxlWi8Z1-buM6wrZi7mMJX0Cnget1aF8JVfaxFHyvs1GC5avxWke7FS4hlkKgLUfg93Uvfq_6HgY5U3aoKwZ9SkENWl9Ui1w9vxFaNaDP-dR3-pTtKsVD4BjgMKx5aknc_P2cT1dtkg0YbqQqzeaCsfgGZtKPBGkJzcGo7rGW1pJTV-Wswxaon-JT2jP6yvHVTmRoK6deHdycS5HIqR_j9OynaeIbLDJzMFT-iurGBliXcxfO1OKWAAZxZq5JQBMIUbVWXAzT-GiUSdWGACrWS-LsWibfA8JuuFGT0mhrfaReER3PR6zy1AN0RBA04AqAUSC-Grfi1Ea7oh2AAMgXPjfBm-9yiX0GKOplhJYutm8G50UHWx4DITNn",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114189435526004038055\">B Mc</a>"
+        ],
+        "photo_reference": "ATCDNfViQPd2G0EeiZWd4RUEHCwYLSGonYNv_okw1fm_OWbcEERd3tQDmy-bqeLNo-hrpzP4Q6ohg1s9TxlNWpoGTHVV-MRf3aMoEh0d-LLPVQ7LbQXp1JaH4g72-J3_nveC3DVkEu9Rl_Dnj09xqZS-DV_YYpsquMmBTyZ3OX_Ogp8JzgZ3uFf0SM5fR2-uYCq1KHbuloYHEnDrnfUNWPLeIP5Z_X05dJkcJtzzyXpafhLDQuaDBfagYTJ0unMu8JpZXEToaQIW15_NEcwPYa3MyBk5dTyTmt5_E-2OLlezlr9FbwD_BoxJlgRmn3gZOtai2C9TChJ7-uU43Q8DIlFAnh75Q2OXoeHMmODwpM1Z1p_XKG8hEDnoZ7C0j4bM_jkfhAphmpLDrs0UvhbuCFRxXLt-bwt2XbK4eUnbaMIkoSsN3WRx",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103156575179909667913\">LUISITO SAN JUAN</a>"
+        ],
+        "photo_reference": "ATCDNfUpqtyVrJq1kFLjh97kn5aL7Utb2r9mQekaWeWLobbTBTjRPQ-byXYJVotOB8qZYxS63KjwyUC4bQcs3KRCTm2ExCTsUT-wIwWssi6m_Pjv07Prbl6Z3i2hiwa5_zd5BWyAp1-LeJC0qwSDRRg6b4Bq8u2eV-cM08EP-hYvfxoLoWI2MW7errZq7vnD20aQURwjw9EQ6okTiS33tN1iQvqoSqmFlRCuylYMZL1GwGxxd1zd538gxpy3ewzAicwcpLroDOatdLAblqIL4g4MTiUJtMKUj93f2yeiyL-OtmNMtfij96C3_vg2Mz_7uOzcJK-x34QWhk7TU6RTSikInFZ2f9jCLv9my4_j-D5TxurT5UmTe4swS3Yu3EobMM9S7xhQo2hJ_WeuEuTUnGLCkMiEFSJtnlV_LHoSRjg8gNh9mFPL",
+        "width": 3024
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110997659413214534882\">Sherry Dupuis</a>"
+        ],
+        "photo_reference": "ATCDNfV_jlX24UnXAn_yRFeACbPqtOUf4LpxvbJUAoc8ja3Z0iUr3_ZbAxqAupNUkWZRmJ8N_lcP2NjMAf7OitHfEDbb05XNcZ38ZUKxmAE-rlyT46vSyTooJq09r-EFS8XMqKDwtJdF5cWawd8ckXmGb2QMUSRcDEs2seSzCWuEtwZ5Qj_MCN9PtIBn746E2hyRk0ZOAWPiiMXBaePms0gnV1wi8ESxBlir6-jgQKz9UNWNJ1M9yzPoUpcmr2Dsnh7d7IcobQ8wREqBvrOtxBId18OaaGVAo-5DFUZZ16sN3xCnecUc1zb4_48CzwPD2lRarS4t3cRPbWk8ZOw8HKiHZdY9ZiNeT1vPZgpl-OYLVupI5_1K-3jaRra-UHQ_bXPfY7J6BWOGtRtfxTMb8bbv6HzMWCDDnldJS7SH1EBaNaw0ynkL",
+        "width": 1200
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117304361917112043171\">alex lab</a>"
+        ],
+        "photo_reference": "ATCDNfVRNyoNy64Ycrj6x996U12XkBIxIDBqvz5qF2KrVPkCjk2nFwuiDxZ2QVGU2S0X3DCGhgGsLsJwyBE9EYv-jqHPLdHiKTd7lXtnvhFEZFWAeTZiQFNwrLkDz7HPdek0JNMomOwYVf94DOtWIi_EpntmvYxHPiSkAXbCak7j6NAvnS2AwV8g06sNqAzt160EwlK_SGAsbPPxMO7bllvui_dZtIUTR9mjTeKCiHBmQiKyzmQfGUg6e-YKlbKaCKe_Y3ytZSmqSGXhgCJiHIuuFUmUC2aUbqtL1aTcoIx3oO3520Vf2ddq2jQV-NvwYIa7fQxez_oH5Zy18cRecA7tnNa810IeLVsuTs4xsAPJ_ooY1yCXMZo9B-gMmhFhd9wDZUYB1ushQEeyZEVTiujKDoHqd0OvUhkuv4hQP0cIDc044I_CDiJPFXYnSdIUbydc",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107473011355038912054\">Nancy Vallieres</a>"
+        ],
+        "photo_reference": "ATCDNfUC8rcIHRwFeY4fGrdowuYfr6oL5zcSBFKoEHLwNO6HHNED_RirbkyffCmpJxGeUuP48ibMwZECamjivNERzKPj2-_p2mjHt9Kb4Rywkb1QD4uT_Bgd-OC1utU1EKcHPjKLc2LJe1JW0Cb2lpmwB_ZQj84awQRTawxKDk5L5LpbNFisKY88Qf4Bv-gindVYeKzgnROcdOzQ_RMZ0T0IyisKbTF4XhNw3bSX7bx_WBaOAcDRcgK_v4bn034smskhtntsV-54jBy4h08w1v2_ZSa1IVvWNGYIZEnt-pUtDrUKNV9BP5x-EFudxEnxsRkmm1LX1wZJ5CssOK7vkvMnw8PIPa91dmjpJFPp-1mktLwzy2U9Aq9qeLPGQVlVQMS6Er3gY7H6IVjf_v0TnVtnZP3YokI69654p1uf4yMoXIaqww",
+        "width": 3024
+      },
+      {
+        "height": 3465,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108610705299000305975\">Mel J</a>"
+        ],
+        "photo_reference": "ATCDNfU10CaolgCLd5uxKqwu1UdcJBdRfvSlJiYvr2KJetu5HuA46mzTZW8vLBxTpjZt3FMnvncYpABEPK-EIisyzuswo7ddvi9aXrp1e2jUvDGMFQLMS8q-5u8f1Y_XZVMAJIuZeHf-G2CQ0QDX7-E06yec_IiRED67pZecAAwDEozv084K6wgcVu8LYBCTXo3yYAgNmxZE2D3OvViqgbjVmLy_otY7GZZxSZ1cF_DolBce4ODhVdFI55hjEWr7svqlQXg8kCFOS-0tIbLTUjTUiKTTYFB99brCJzMHg42DnY_aaDlmtWOUL67qIn_N6rAalnXplGKfXRf-HluP_tjQMfT_b8JS1ZT2F_tKBDv-SgXp3VJ6fhyjU1YMYaT49_tJvHPqRkQi_UQBWfKEUtsgNR8Cug5c5HY7npfMD7A8QQPV9Q",
+        "width": 4616
+      },
+      {
+        "height": 3147,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117304361917112043171\">alex lab</a>"
+        ],
+        "photo_reference": "ATCDNfU1m2eCCUzXIgbbGJBXM5P6OFWRf0pr5VDEuo4ffj-3XbGoFjfT0qSK3-84rfN3PtzXVUZy9pWuNhlM1oftTV5FhMWAm00Vi1m8p8i_0BxHqhXIYPz29FZU3gb1hsJOFJKICeps9xwGQI2G7uZgMjCioN468Z8eGQjk0YZ4Gv60RK3_m7iFmZ3UclY-UjRYFE6iQ1vuCBBut31XCLVwn22tvWH8_kEwMtl5jC2Y1q4wb3KedH81wUYHwA9y94gnsckmdWOPvqUkUYCRbqmwJhxQZACiNvA3xx_OcQbyUeMvPxnJfJl_VfdBq-pOQMt21CqGivbtWb5NMGobj5_ISgRrMsD1BJ2EvfTTXjTK4tlxDXg3wuTDhI3I_Ja0RyMAhRPEEShy6xp-v5RnaJhErM95LVm5cTvjhUdH8qSHHblZLMYPaZ4ColrOAt4FU8rh",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJl8hCbGA3yUwRLB5PDIlGNrw",
+    "plus_code": {
+      "compound_code": "9WWV+GW Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWV+GW"
+    },
+    "price_level": 2,
+    "rating": 3.5,
+    "reference": "ChIJl8hCbGA3yUwRLB5PDIlGNrw",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "B Mc",
+        "author_url": "https://www.google.com/maps/contrib/114189435526004038055/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUn8qTVRGblBYat-FQWDKq3EK38h5KF4e72iEl0yL0pZnHIVBIB=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "Fast and friendly service. Food was good and the menu had many options. Only downside was the constant draft from the entrance that had us keep our coats on throughout the meal.",
+        "time": 1735482139,
+        "translated": false
+      },
+      {
+        "author_name": "Todd Collard",
+        "author_url": "https://www.google.com/maps/contrib/111612017596541552045/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnBQ0_8o2znFD2XzDNDB7f5ybJYDeN7hcSL4ELODjCin8CV98=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "We went back to this place this morning, relatively early, around 9am. We were greeted at the door and brought to a table immediately. The food was nothing short of FANTASTIC, nice presentation, wonderful flavor! Our waitress Sara was very attentive, despite being very busy. They have had issues in the past with being short staffed on the floor and in the kitchen which can obviously slow down service, but today was PERFECT! Highly recommend!",
+        "time": 1759675562,
+        "translated": false
+      },
+      {
+        "author_name": "Brandon M",
+        "author_url": "https://www.google.com/maps/contrib/104581712050055538618/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXo2loZtEsf8FmRiKSgjPU_h3YvMSKAiyGIpzjQcIjz_ra1Cim_=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "I'm not a difficult client, but I've been to multiple L'oufriers, and this has to be the worst one. Coffee is cold, and it's not even the typical Lavazza coffee they use, tasted like instant coffee. And not to mention the cup had lipstick on it.\n\nShould have gotten the hint when I walked in and it was empty on a Sunday morning. Very disappointed.\n\nAnd by the way, seats are ripped, management should take that into account.",
+        "time": 1766333306,
+        "translated": false
+      },
+      {
+        "author_name": "Sherry Dupuis",
+        "author_url": "https://www.google.com/maps/contrib/110997659413214534882/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwC3zy1NbRNyhktXdHh0ZWQP4Lv5co87Uro3CJ7JOmGYlLnw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Salem consistently gives wonderful service! His cheerful disposition and attention to detail adds to the enjoyment of the meal! Thanks for another beautiful experience😊",
+        "time": 1743870873,
+        "translated": false
+      },
+      {
+        "author_name": "Marilyne Vaccaro",
+        "author_url": "https://www.google.com/maps/contrib/110733163534446536197/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvFymL8A1jKV_GCZOvi6-NKY49JTCwy8gszpYtbzosYZdUlxJr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "The staff at this location has kept us returning as often as we can! Sarah is my son’s favourite ! She is so pleasant, efficient and overall lovely! Thank you Sarah for your amazing service! Always a pleasure to see you!",
+        "time": 1758724788,
+        "translated": false
+      }
+    ],
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=13562104882303802924",
+    "user_ratings_total": 562,
+    "utc_offset": -300,
+    "vicinity": "3052 De La, Bd de la Gare #100, Vaudreuil-Dorion",
+    "website": "https://www.loeufrier.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

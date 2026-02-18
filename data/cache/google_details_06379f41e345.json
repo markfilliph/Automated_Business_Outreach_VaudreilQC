@@ -1,0 +1,312 @@
+{
+  "query": "Garage D Lafleur Enr, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339077.8405008,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1721",
+        "short_name": "1721",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4B7",
+        "short_name": "J7V 4B7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1721 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4B7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 2:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1721 Rte Harwood, Vaudreuil-Dorion, QC J7V 4B7, Canada",
+    "formatted_phone_number": "(450) 424-5155",
+    "geometry": {
+      "location": {
+        "lat": 45.3889729,
+        "lng": -74.0667369
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3902203802915,
+          "lng": -74.06548861970849
+        },
+        "southwest": {
+          "lat": 45.3875224197085,
+          "lng": -74.06818658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-5155",
+    "name": "Garage D Lafleur Enr",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 2:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJd7KC1ypIyUwRYP-mFS_hTjw",
+    "plus_code": {
+      "compound_code": "9WQM+H8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WQM+H8"
+    },
+    "rating": 4.1,
+    "reference": "ChIJd7KC1ypIyUwRYP-mFS_hTjw",
+    "reviews": [
+      {
+        "author_name": "Sarah Flynn",
+        "author_url": "https://www.google.com/maps/contrib/102682514591171290881/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRx65gyXjsHrmF7mcNuGAw5PIFsw9XnVW91H7nEiUVmHYaLr3y=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "12 months ago",
+        "text": "Was charged 72$ to remove a piece of plastic hanging on by a single bolt…\nIf I wasn’t too pregnant to manœuvre I would’ve ripped it off myself but had no choice and didn’t want to be dragging around plastic and polluting the highway. Felt way over charged for something that should’ve taken a minute.\n\nIt was my second time visiting. The first time I also felt overcharged, but wanted to give the benefit of the doubt as they are reasonable walking distance from my work.\n\nI will not be returning.",
+        "time": 1739965844,
+        "translated": false
+      },
+      {
+        "author_name": "Laurie-ann Naughton",
+        "author_url": "https://www.google.com/maps/contrib/101363601787278208300/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKM2TDTsWso6OID9p4bS3RRVdHSfwYjMYQ_JKFMW61p_5W=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "I wish that I had these reviews. Would have saved 2k. Be wary, was told my car was ‘like new’ but my check engine light that was on previously was still on. He said you didn’t ask us to check that. I did. The alignment they said was done, wasn’t. I drove for 5 minutes, went back but no one could go on a road test because the owner had gone out. Extremely disappointed. Took it elsewhere for tires, they couldn’t believe what I had been charged. Terrible.",
+        "time": 1703391940,
+        "translated": false
+      },
+      {
+        "author_name": "philippe",
+        "author_url": "https://www.google.com/maps/contrib/112075070823801734112/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQ43A221x7nn6FR-A5neToURSqtGFkfghc33w0wCEIl7zJaZY=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Worst experience ever way to expensive and wheb i tried to talk to him about it he didn't care about my opinion and say 《I save ur muffler so i charged u 3h extra》don't recommend u to go there. Cost me 377$ for only patch my mufler and strap it.",
+        "time": 1563296361,
+        "translated": false
+      },
+      {
+        "author_name": "Dany Goulet",
+        "author_url": "https://www.google.com/maps/contrib/116754952447461230947/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1DZGYTrRh1fl84xJL_9p7j06js3BqPa6QTw1bRrmX6hkmMoHJ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Good Experience. Friendly Service. They call you before doing anything to your car. Price is Ok.",
+        "time": 1639163369,
+        "translated": false
+      },
+      {
+        "author_name": "Jim L",
+        "author_url": "https://www.google.com/maps/contrib/102347932391662762465/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqoYHC7o47MutG8z6bi8eRVgqFgt61GHo-SsCRhRSd6pOu1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Have been going here for years. Honest people and would not charge anything without consulting the customer first. Prices are good, too.",
+        "time": 1526566819,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=4345658282802085728",
+    "user_ratings_total": 43,
+    "utc_offset": -300,
+    "vicinity": "1721 Rte Harwood, Vaudreuil-Dorion",
+    "website": "http://lespecialistedlafleur.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

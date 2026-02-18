@@ -97,10 +97,15 @@ def filter_by_excluded_sectors(df: pd.DataFrame) -> pd.DataFrame:
     """
     before = len(df)
 
+    # Reset index to avoid alignment issues
+    df = df.reset_index(drop=True)
+
+    # Build combined text for matching
+    industry_col = df["industry_description"] if "industry_description" in df.columns else pd.Series([""] * len(df))
     combined_text = (
         df["company_name"].fillna("").astype(str).str.lower()
         + " | "
-        + df.get("industry_description", pd.Series([""] * len(df))).fillna("").astype(str).str.lower()
+        + industry_col.fillna("").astype(str).str.lower()
     )
 
     def is_excluded(text):
@@ -114,8 +119,8 @@ def filter_by_excluded_sectors(df: pd.DataFrame) -> pd.DataFrame:
 
     exclude_mask = combined_text.apply(is_excluded)
 
-    excluded_names = df[exclude_mask]["company_name"].tolist()
-    df = df[~exclude_mask].copy()
+    excluded_names = df.loc[exclude_mask, "company_name"].tolist()
+    df = df.loc[~exclude_mask].copy()
 
     print(f"  [Sector]       {before:>5} -> {len(df):>5}  (removed {len(excluded_names)} retail/restaurant/other)")
     if excluded_names:

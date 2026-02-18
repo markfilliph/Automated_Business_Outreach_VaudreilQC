@@ -1,0 +1,494 @@
+{
+  "query": "Mini Entrepôt A20-A30-A40, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771337959.4030287,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2400 suite 100",
+        "short_name": "2400 suite 100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Henry-Ford",
+        "short_name": "Rue Henry-Ford",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9H5",
+        "short_name": "J7V 9H5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2400 suite 100 Rue Henry-Ford</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9H5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2400 suite 100 Rue Henry-Ford, Vaudreuil-Dorion, QC J7V 9H5, Canada",
+    "formatted_phone_number": "(450) 424-2030",
+    "geometry": {
+      "location": {
+        "lat": 45.37238139999999,
+        "lng": -74.0495236
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37367193029149,
+          "lng": -74.0482326697085
+        },
+        "southwest": {
+          "lat": 45.37097396970849,
+          "lng": -74.05093063029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-2030",
+    "name": "Mini Entrepôt A20-A30-A40",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108033722345331623228\">Mini Entrepôt A20 A30 A40</a>"
+        ],
+        "photo_reference": "ATCDNfWklvwC8pJMGKOMFaZDC0Ct7KNVw9SicyZQ8JK6cdSW_Uuyh3noPldEcSj4TYQq033Rb4VGRqAuD67LBoOH6vWzf0xsbaGYsaHIvlzsI9gSRi-5ljtT-XVMjlC3YxV_VTl10g13EvyO_TjFxCEkt1coBZ49fiEyNis4j0fbOb70VveX2swI7dgT1ZXj0xqXcOuhimEn0pZzqr1gko8EVZksfHPxdbjbu-_5YD2rcQA8UxA5HJCDRtpiWeJ9yMVwl9CVmM3IVzbWIH3HE1pjheQmihIUVBTbWQRd8SRCW9WhccGG26tfLJfBtww1IuiLabr12HFPuJR44oEXhs0dAS34lfo2em2TJnEw71HCfzEMNyX0SvvtmYDUxsUdAL-0_mLR7TI1CmmCKNBLjSgOij7JfA15q5aN7Uf19yM8sXV3Iu_rUppIoIrvrherGATQ",
+        "width": 4000
+      },
+      {
+        "height": 1350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104813844678183011813\">Mini Entrepôt A20-A30-A40</a>"
+        ],
+        "photo_reference": "ATCDNfULkEx3SlHi9cUaiwA90bprj54cth5Cu-Iagczh6awiDPscjeE8cLBZFPDYAjwZhRoucFAily_qvYId1T-RL3ybqkRcoJVeHXCyDebZKBYevgYqDdzF13-Bh2NpPq9GP4Yk_Gs61XVjKKMu3IOwNBFSG6OHXmqh0GN2sYZyGOzaWOEelMykz8uJZHI6lg_G5xb0zWdRDXetclxoWX39o-2Rd9kNIOi-TV3XWhIwwE_iGGu3ovLp54P5EraL1PD7YpyCWFrmyOfoJKtAbYFXWgj8QfnHbe_TTI48UH4VLS5uQw",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104813844678183011813\">Mini Entrepôt A20-A30-A40</a>"
+        ],
+        "photo_reference": "ATCDNfVa1itRGENTMTKBtGzAoXw-J_pvUXZNGHx4r5QACIXh-DGC68Iv3Mp8UvpvC8UmNtEgrLdc6CeVs5n-XiRiD48iHF7lmKyw5RBEVY8z7utcsD6qp2a3woBbXU79TbPAPuYE6R7H6bNF0otnIP3vZLCEq4IbNWSrCWSmSCpCddI367V7OqDq0zFzmHw1DYx_Nylibh6Rxd9RgXWeqk7P5gVOM1LZLfuMkcsNwZJ5gmQflI87obz8VB0j0tOMeLIYDtGMIKA3aJFTDac3pPOj_CGMH-P5oxdDXbnEDTbChYI4Tg",
+        "width": 1080
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104813844678183011813\">Mini Entrepôt A20-A30-A40</a>"
+        ],
+        "photo_reference": "ATCDNfXhRdM0LEHsKM4itO9aw7PK1F0FzZlb1VB65IZPNk_DHCLl9me2UnKrknrgYipBxCrfitItDZVPj6WSB3S2PG9WQgAFfJVYYMPGXx0ywEkmQNyYojB5Nf3e5Uq1bXWwAGgwHo1cURuoJ66FetHg0t59nPso4A5Zc14Q01GrDYKE4aDqX_X37UL_jwTaB-EkMMZgWzNRkVpzoCg8FIDj_G98Y-W6KoTdz5Hdsri3rczoHeFa_PI5ngEQ0JRtrboALHZkkUd731JAcj70XzW7Pr5GBCdm3OOfGzHziBZCyHfcUQ",
+        "width": 4000
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104813844678183011813\">Mini Entrepôt A20-A30-A40</a>"
+        ],
+        "photo_reference": "ATCDNfVHdxPgeEe5YWIcHpAAgWZtZjPaWv7nM5deDHP0hG9ao-tPYW6RLfat6-b_oKWXgVAaf4yUc-xM5mTEnrkvXsKgDKz5HuCRPo3flyGlRvkLw4k2YeVNxFseC9RbnwdJ0BEyzqsdheOuWk7swwN0rsTFA4i_1FRBV6ZND_rpM-RbdgT-Syglnd1irwwdp9jyVJc2NYIk6F-Z105UMBMBZaLoP6TaldZ-i62nbExOHYqPAIu1DXeRJOjm2AM9Qq9NoslBZcz9Eq8hkiHT75z_XLKVF1ec1C9zbbgWYfL8jaVWog",
+        "width": 2000
+      },
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104813844678183011813\">Mini Entrepôt A20-A30-A40</a>"
+        ],
+        "photo_reference": "ATCDNfVVp12rtqnAB8V_oht_h-ntDIGI_x-tAI4I3pZQDxVY2Oi4rxmIeUtImTaWuMuDub50J_F5poxDc28O0qaL8rj0k4FaCUw1vpQZcOyRajTVx4CmbncWBQOILKMry0LnWwkERVpARHH4hlN6B63UA9ompdZTWIbuvhRArvssZFDZX-VjJaNXGF1XwZFa9XcBPjupy-kIwdHuYL7yd84NY6TdxVhZBdVZVWm7fN0fPyhw8lmlEp9nGNTkCYlFGRZzidK3kQM3Tq5G5BjFYRug5VNT5tyHA8E4D1olvRNjf63KJA",
+        "width": 2000
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109346358506085613214\">Raphaël Thiffault Leblanc</a>"
+        ],
+        "photo_reference": "ATCDNfUol9AxjmgfKPW77ElDXvkW-Dv_tw7_6XbU-3sQkJxxN65TZa3wDpRF1TLcKPVfC8br6UtCa4DBbANUkJrwBqtJN2pas6dh_rshbPikzasj_LoKOYJuavEJ4tdfK3sYdwnqEzfvVv31Ai4G837DZkMe5Va_mvYNMOtZTc6Gt-94ht7gSmn4RciU_29x5BTqq7u_s6VhxGWyk-CrQ8hvY5Xmwb65Ejwlo1u_NZB0Ay4Hk8hzaKSBgAgOp3oeX8J4K3VGg5eWEagaFc1rw85YI8EPOWmUDh-T61YGUvrhpr715iVklWGRwDN4kP5cMTdPGkD9ywkNnXrNJ42bypQgcEwdT0is10HTrOWL87bK7OUspt3ts2iTVelXyVCO94Pvdj5xUHrqs5Xmj9-j61XIMMh8k7wxyr8HsF7Eo3XahsbOBA",
+        "width": 4800
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104813844678183011813\">Mini Entrepôt A20-A30-A40</a>"
+        ],
+        "photo_reference": "ATCDNfVNyzvnERWL97m28S8qsY_67gT3hKlPfgtqTPoDq6DbXCndQ7A9PoRUCaJQeyQdPqzBbj-Q2xgeS0ZxJwWjVLrGVyxEb7fitjPD0Pzpu6MhtDhg6mNXutZrxMZt6bW-t7eRTz0ca8d-9qkFfwcJFY02NDV01Nzau_1B2nzCEvNWGwAgojTO50TOzBOxA1VywACRe4Utw4NTlb9Ehszh7i8U9oVcVSbxSwBJugiFQ_AEgujPtoGzvww_8bqUYr1nv5N7zmGAcRo9ou7xEz8pJJg4GDLTEKEGyY4SMags7YvXKA",
+        "width": 2000
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104813844678183011813\">Mini Entrepôt A20-A30-A40</a>"
+        ],
+        "photo_reference": "ATCDNfUMq7n94_Ns6SRl9HOU-h1NUKwdz81qTxK_YYOui0BZ283jbyja6B2xF3S2pUf9CJuy8rHM-5EFyVi83jPukep_CmDlAaWfgGobApzJIYe6QXok-4buGxTVYRFhfgxA-oa1KJ59gvAJN6HjPU2woyiLhnX38kakgXN1tAaDWuHyroTgNlrjsBIdf_FApiVsJOBU8iwPFAXpxte0IpQgDGOCjOgrm8mvm4MS81dRQLWx_cQOdDJDFI8olHP77KaQdrvMeJ7zZUEgAa3u7ha6q8UvLWfgmDnBlHyTe_aY8n0MTg",
+        "width": 940
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107031035506990569495\">Andrea “Boebaeda”</a>"
+        ],
+        "photo_reference": "ATCDNfXK-tKL3ZP9GzBzUt5q4K8wMX5-ammxFG8dg8SlNV9ZPfkw6iY21WnnZQyBe23H9nt06aY__Co9ovbMmNaSpjnDBTqyEiHzwc8peR3SspvuLXgubAHFvUIaPK1JKREq6a9li3AyLItYB_uL4Du3tFazaMi10samBHTiSmx54XbnlmEmFI197IQvnEvcAkWPpavO6QcmFexU_KDSlFzHmtIn-csMtZ4BhlZdZeRwjv0r0MqpJdmAPmY2vQ0MJ8yMfyRdKHxSMO1NtBi2AxmgaL_7FIdS3lUsdRJZVG6cbHVzgh5JWSKrIvHhxyH_wUIKHNSqK0lHOUFZB-S6XbL8C_tft9nqMQWuPxTMAKXfnnhrsRimP9PhONQZqmlISthpGAVPBspgFzW9U2rwd5io8nfdcw_XBn_kS8KmNyGbmnxz9cnM8B69J8j70-zZfV1s",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJjdCjOsNJyUwR1hV9ei_kVOc",
+    "plus_code": {
+      "compound_code": "9XC2+X5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC2+X5"
+    },
+    "rating": 5,
+    "reference": "ChIJjdCjOsNJyUwR1hV9ei_kVOc",
+    "reviews": [
+      {
+        "author_name": "shayne upcott",
+        "author_url": "https://www.google.com/maps/contrib/114295232874552061706/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINRzGrjVZf_XC0Jh0E25pMRWAS9WqjPV7RJTnMJxuE_dh7BA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "This storage facility is an excellent establishment — clean, well-maintained, and easy to access. The units are convenient and secure, making the whole experience stress-free. Most importantly, the staff are incredibly helpful, thoughtful, and courteous, always going above and beyond to assist. Cesia is a ROCKSTAR and we very much appreciate her help and attention to detail she offers us on a day to day basis.",
+        "time": 1761565323,
+        "translated": false
+      },
+      {
+        "author_name": "Giane Lamb",
+        "author_url": "https://www.google.com/maps/contrib/114823098681598882512/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiaLtn8SonaeKYHzSbYLLtB-H1R32mZGX6xGp85HHBOgvqZ7ZY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Excellent facility. Clean, organized. Elevators and trolleys provided and accessible. Secure! And easily accessible by any highway. Perfect storage facility. Highly recommend.",
+        "time": 1755011585,
+        "translated": false
+      },
+      {
+        "author_name": "Justin Rapson",
+        "author_url": "https://www.google.com/maps/contrib/118077684273041414009/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_0dLzvPu8OfXWLgmkFW82MoP4zBl1trWHU5Ui3j7QmjH6dsE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Great service..easy and convenient way to store your belongings.",
+        "time": 1765569515,
+        "translated": false
+      },
+      {
+        "author_name": "eduard agac-ac",
+        "author_url": "https://www.google.com/maps/contrib/118075791660863335781/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTUqOK5r4zB4WNKSb5l9SH_vmNocPzY84_SCDy_AAZsJ-IhA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "The warehouse is so clean. And you feel secured to put all your things. Well ventilated",
+        "time": 1756317638,
+        "translated": false
+      },
+      {
+        "author_name": "kathleen turnock",
+        "author_url": "https://www.google.com/maps/contrib/106518477161788994772/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPv4n0LwN5HbUYZn4kz4SHpbD5X_MZPujOUagZ_AwJPVeYaA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Very friendly helpful customer service! À clean, secure  facility for a fair price",
+        "time": 1753382122,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "0500"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "0500"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "0500"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "0500"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "0500"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "0500"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "0500"
+            }
+          }
+        ],
+        "type": "ACCESS",
+        "weekday_text": [
+          "Monday: 5:00 AM – 10:00 PM",
+          "Tuesday: 5:00 AM – 10:00 PM",
+          "Wednesday: 5:00 AM – 10:00 PM",
+          "Thursday: 5:00 AM – 10:00 PM",
+          "Friday: 5:00 AM – 10:00 PM",
+          "Saturday: 5:00 AM – 10:00 PM",
+          "Sunday: 5:00 AM – 10:00 PM"
+        ]
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "storage"
+    ],
+    "url": "https://maps.google.com/?cid=16669199013374662102",
+    "user_ratings_total": 19,
+    "utc_offset": -300,
+    "vicinity": "2400 suite 100 Henry-Ford Rd, Vaudreuil-Dorion",
+    "website": "https://e203040.ca/"
+  }
+}

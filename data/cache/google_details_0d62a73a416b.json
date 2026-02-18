@@ -1,0 +1,446 @@
+{
+  "query": "Les Moulins La Fayette, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339418.6534894,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "381",
+        "short_name": "381",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X3",
+        "short_name": "J7V 4X3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">381 Grand Boulevard</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 3:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "381 Grand Boulevard, L'Île-Perrot, QC J7V 4X3, Canada",
+    "formatted_phone_number": "(514) 646-0833",
+    "geometry": {
+      "location": {
+        "lat": 45.3907864,
+        "lng": -73.9619024
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3921375302915,
+          "lng": -73.96055096970848
+        },
+        "southwest": {
+          "lat": 45.3894395697085,
+          "lng": -73.9632489302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 514-646-0833",
+    "name": "Les Moulins La Fayette",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 3:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107046229864223099461\">Les Moulins La Fayette</a>"
+        ],
+        "photo_reference": "ATCDNfUVFbzdWqVcJApFwk41iKGzoJjoIGR0HfS_DE6L7s_YXw2oTpKD8F-OhTrCCuDGJOdAzrnpY3DQ2ojBCXClLf6Opr1r4pJS8tMU-cPFUzmL2CKQz1WydtvExu-b-DeqyvEEDzt-b7QQ57Doxzs7ePoLps8sgq2WPTrD6bnnLZZJULb_GHY0BPIxW0Tspwl3RWQSE53EvD_rMAuleCaP-fxGgOmoPBhO_WWv_NBozuxr8JC4ueh9lW8W9aiClCY9Ag3cROqT-LI2LlYkZ3eRK_o20iz_F6s1GAlXUGV2r8VX6Q",
+        "width": 3024
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107046229864223099461\">Les Moulins La Fayette</a>"
+        ],
+        "photo_reference": "ATCDNfUqNkdPl6667IurYEvfrUNqeoP-oUvfe2GlULsiuM1r79F-hQiXxdtxu0M-UpqEpRT2ZtNbStdF7SK5rlFQHeab2FNS6zstS-Kce5xHcPbljV0ib__a9nMu17oNOAA8Ut6ViXNiWWJeJkAiScW_Jijxa3VBbyFLVXdgwAJAmNrnWGE1CmBjSEq0Grfs5nGcoemkbpgeEI2Cw4qiRZNVUX5DZ5jM1MBV9Frcx8mkW66gYPXBOiLl32KOQlWdYKAZNdEgr7zdlp2jXvGokRoLpuYg1pKn9xT7Zzuq1ECR9CtJ_g",
+        "width": 4800
+      },
+      {
+        "height": 3007,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107046229864223099461\">Les Moulins La Fayette</a>"
+        ],
+        "photo_reference": "ATCDNfWVChIMBXa680mLtI08-8op_1g6S3renW03DACTS1BDYQe-OiQte9pynUbb54gDQW_gfsMVzHbJi8rpx4vY8MtTzudhej4LLCRXsyScMbPmOYkok5qTblBUPX_eBSkRSDQ_WRGU9z13k7qPKndv4Dst5M2iPYqohy5_5did4cMFBR7ij68_HJWKhry-rNrDF6jLyRkHMA_AGkoGzBGSSnehNKDfW4vHtw5Zo1oXxQahW7pTJK2zYjncc0cJ4T_I007H_Lh0-CI_U8iBZmmuqCDhYBThyUVf4XSEzTYv8pv-2A",
+        "width": 4511
+      },
+      {
+        "height": 468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107046229864223099461\">Les Moulins La Fayette</a>"
+        ],
+        "photo_reference": "ATCDNfU6NNYUHs4uw2dCdC0uCzX4cJfQjOVkzHHgqbWM2Ofj6WunLf2bn0kfGis58onL3Q535urrPJvARgLQ2eCTDnZVT3fpCX8zpj2gAUQczoLncjC_q3FnYYGHW899WQT6Flpqs0XEcZAgbFiMF_VdGUhDnv2pgB9L_qZ9RT8apvZbSCSsvy0_1rWRFQQK2tz8g9iXPdozgwbiNhxciVRzdUYus_NXwbWMF1hzmlUVUCG5SVaYT86OSUCaXatPziCOGK4i2DMiPTti0XBcynqxAtEt1KO-CQAXGGer-efO1eSkIA",
+        "width": 624
+      },
+      {
+        "height": 468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107046229864223099461\">Les Moulins La Fayette</a>"
+        ],
+        "photo_reference": "ATCDNfWsgchZNzPMJdJ5zLc9_po_DlOHrpfob8EPGbyeXxMQ0z-pnPFF527gE0vUziHaqyjMCcw9IgMZNgqzyAr5p29wBxQQdbL55CVtTuhIZChMlzinh-pcN7uOIGYY7SoHili2dnA4pzY7hdszxq4iAggqkJNhCRuXpe7n-e2PjRT60c_hmo9CCVGfK0Oep05iuZA7TvunTV7wjYRtpoCbf_RM4H6UYJ4W0oI9wDRcviPSmfpgDHx3fDo7GNRDSaBfhlNzRhw7_qB_aFoC1o_3jxWdWW2QusUt3AnnjYwUTb194g",
+        "width": 624
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111900485484158659939\">Charareh AF</a>"
+        ],
+        "photo_reference": "ATCDNfVUbeESN7ffnrbnbxAYqor3dPvWvdy9POOHNwct20nG27yUP7MC7GNKbSD_WcZPq8iboGUpTHNHzJzX0QA5wqazDdEUcThIml_vzxFO3xOJVqc0ooJ56ir54hhpdPFsa6-qLNvvA2WO70cNrA5UXil0CZbzaV0Rcdvbc8CtsF9Ja2y7_-F3KS8iUFgjEQuzIdPpeZvzPDO091rGZDq14AlU4q0JX5oDokPs-kvfrcogsRdVkdHppzj6p-OTdhdEaEOa4uHd3mleKuDHPcM-Pf849rKQH8TFhKxnslJmgfuNPSJK3vxUSBQNCkR0PMt-zBETvdwd8f5E6JGDmpvbBEwvlzB2ij1LB9QeTYB0OxZ-y3yldzqAdku37b1POmNCwHYut-P0XbWhoRkX2dOLTw6xMP9v8Iij_z4o8Cqc9XK-GkZU",
+        "width": 2448
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109553085909048586425\">Kirill A.</a>"
+        ],
+        "photo_reference": "ATCDNfWPjLg5meo8SkuxCoD1YdZgHdO4BXSgDdnojmVEYEUCzjfkNSXMp_8_ABF6z-PVSiMPyAMa23QzRJg8665IaYmKAcEPSpz3PlxleCXyfOfYjRbUq879I3LXyKEOvduEwUmQAeoQ1DSqCN-0pFwjvIVU3cAwLz5AA3WmLpnNTPLRPmimmA_P_J4j0cQkWXU_2vQ__PXYwdnzt9dxaA8iIJJRQMr3dFT10kSdzm67wsCDJBeVW6K4E9WcLSkhl0Hi4zYzrzpKoD3f4vapPMVZAvv4Zmx-b_V14mZNqEhoRvpOrMrhmKs_nDmFe7gjSsUIr_Ag1jYzj_Ev7qFrqYKP2F85kM3iCFOLp1WYRKleL9LpWW375VnroIiTz1r8tyfYFyvCBkVL-w-fqF-XM9t23XlpmkDKdFTxct4ddhdVzbiZigk",
+        "width": 4032
+      },
+      {
+        "height": 3242,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116487338721389438370\">Rui Hou</a>"
+        ],
+        "photo_reference": "ATCDNfW0YcBXeDyeznI99ODmWNVaqaDk-RLg4gY_JB3R8S0aSrgX0uv3gkJuhIFxK0NUDlm_dTxZ90nLo3PLFQb-t-H278IrvuaBn-lPzF9BDQgZzSUTIld8DAOnj7Y9av9TyZmU8RZHbqeJo2P27J9abRzAfbC5ifrwLbXirIuuhMqqm41KEdQrgsWOGbmLsOJqd_K4D8ya_7drX7rwQiw2MrchGPDw5CteHBF5ZEVcYP7n197c6P0Io2xDy4canXmuiY6kfqZ8xRCdvj6Mn0YzZjs-faqVyIK8ZqujemRDjejEDv-XHKX7kqh7BHCzF94bVfZX8tzxYJtl-fwZqoAG33INfk6b_JObptCIoOGz2cCfYrHP4d-lmK2ywD7sBQWXgyCOIanwyZ9hwTkVaA5GQ3BqFruYWfvA04Ru1rAYFGQ",
+        "width": 2432
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112385964224864664931\">Nam Nguyen</a>"
+        ],
+        "photo_reference": "ATCDNfWFKWXe2FDvch8aRqvrThlnM3uplDEp5V6MxwxbJfSYErsRTh-xEtBhghmcd2449t2UseneWqAP2BdUb1uMAs4p1oTMTWdGs_3OHO4aEW_Ap2psp0MvQvMR4kbMdKhTzqnM_sdzPU-Gcurpa5t8psq8qKGIcr5HSVteKvR2wK86TtPgNKl1ekcEuDRHhP0iHPI1_GGN_kXc3dtxIrPa-wMQW-Yk29GIQghnkhtBaMjW2udKGH-9SQ2QxBrDaycTEUu4qWTTvtQsBRnENrWaNr3apN0XLuhwHjhvt0a36zIwaNcC4T3v2_BZSDoBfGm9IohrDEm8rLVVAN-OwCpqhEaqxGQ8PGaCSjxzSDGGRJ_cYHy1Q1VzbgfFwPhY2d9QQd_7NI0AlavQzwBWl2BUXbKkwN1GwEFl44xQtFpDYpe8fr2R",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107952553925694232929\">Maria C.</a>"
+        ],
+        "photo_reference": "ATCDNfXJzw5Ukn4kBqbomuUV-qBLBecBttiMCGSNaRRAFwEbuMco1Y9smIdF5St3IWMLXjQaxpCrbOhxlywlfevHusq6TKl2f7POBDS43o8Ylg_jIuSTO3R0LJ5ec8yIPc5VdgzeYyb1vnPewmugRn4JpspOkpm_IiaZjaVBC6BcFTQmzZWCaBm4CVPbsf5fEM6-06A_dSaCKNi9hL9-49nn06vzTDKtfKZCHF-CUDzfYDFtgyLxA2QWNH2EaRfzNT2RJbgunD0xJSmWtsu4L5Tqp0U8D4dawQTr8wxX-LDP2PZtTRrWu55L1eqlr_vPLGFcTdo0_T79I_GObLs3XkqXdp00W2aj2WvR_ENMDv36HOUGV_XbEnu0tAzjTdZfHMm52BJ2ZPw2rtgA9fYc2MxROroHIkpjxD4sZAH4o6L_eeE",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5aTwE204yUwRkGbQvskYj0I",
+    "plus_code": {
+      "compound_code": "92RQ+86 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RQ+86"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJ5aTwE204yUwRkGbQvskYj0I",
+    "reviews": [
+      {
+        "author_name": "GeorgeScuba",
+        "author_url": "https://www.google.com/maps/contrib/101090248971630945174/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpK8JsveGIjNiSTim0Rcr1N-4rv-LCJhC_Gg9mQAXmINF38C1j=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Very weak coffee, more like warm water.  Moka was filter coffee with some kind of mixture, no expresso shot.  Tasted like warm diluted chocolate milk.\nPastries are better but don’t come here for a coffee.",
+        "time": 1761585816,
+        "translated": false
+      },
+      {
+        "author_name": "Katiana Jb",
+        "author_url": "https://www.google.com/maps/contrib/110011620772458909987/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSymHX3gnPsneW1gjACwD0mF8FaHjV6LNdxTqTsPGsFGgC1x5n=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Warm place ! The owner is so sweet and welcoming. The shop is really cute and offers good quality pastries, sandwiches, salads etc. Best find in town ! 🥰✨💫",
+        "time": 1760657477,
+        "translated": false
+      },
+      {
+        "author_name": "George Rampersaud",
+        "author_url": "https://www.google.com/maps/contrib/109336174362795517334/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDsZWHb-i8_13lX9WqD3TO9z-PRhJUTvw31ufz_V0Mfw3Zx3u7=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Tiramisu is 5/5!!\nIt had too much cocoa powder (some may like it), but once you take that layer off, the cake is amazing!\n\nNo reason to lose any stars for that.\n\nChocolatine are great too!\n\nThanks again!",
+        "time": 1678636013,
+        "translated": false
+      },
+      {
+        "author_name": "Julia Boland",
+        "author_url": "https://www.google.com/maps/contrib/105154322888110878586/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxaFdWpLfYSZ4E0hvPWlhK0RXhj0rgWWUmlE1oyfX3HJQKDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Such a lovely little bakery/café! Everything is always fresh and you are always greeted with warm, friendly smiles! Customer service is amazing and the coffee is delicious. Can’t recommend this place enough and so nice to support a local place!",
+        "time": 1737567359,
+        "translated": false
+      },
+      {
+        "author_name": "Kristen Roberts",
+        "author_url": "https://www.google.com/maps/contrib/104754591313882839875/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIg99VtkRTlpowW9EsNuX7lXxQstBLAqRxjY3c6Fb_rUSfn7A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "My husband picked up some millefeuilles to surprise me as they are my favorite. The icing was hard as a rock and tasteless. The pastry layers were dry and lacked anything close to what they should. On-top of it all each pastry was $$$. Which wouldn't be a big deal but when it's of such poor quality it's extremely dishonest to sell that as fresh or even call it millefeuilles. Just disappointed at this . Never buying from them again. Will support other local bakeries instead",
+        "time": 1737161296,
+        "translated": false
+      }
+    ],
+    "serves_breakfast": true,
+    "takeout": true,
+    "types": [
+      "bakery",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=4796079382941689488",
+    "user_ratings_total": 158,
+    "utc_offset": -300,
+    "vicinity": "381 Grand Boulevard, L'Île-Perrot",
+    "website": "https://lesmoulinslafayette.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "query": "PFK, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338850.3350356,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "91",
+        "short_name": "91",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1X7",
+        "short_name": "J7V 1X7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">91 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1X7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 12:00 AM",
+        "Tuesday: 10:00 AM – 12:00 AM",
+        "Wednesday: 10:00 AM – 12:00 AM",
+        "Thursday: 10:00 AM – 12:00 AM",
+        "Friday: 10:00 AM – 12:00 AM",
+        "Saturday: 10:00 AM – 12:00 AM",
+        "Sunday: 10:00 AM – 12:00 AM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Fast-food chain known for its buckets of fried chicken, plus wings & sides."
+    },
+    "formatted_address": "91 Bd Harwood, Vaudreuil-Dorion, QC J7V 1X7, Canada",
+    "formatted_phone_number": "(450) 455-4527",
+    "geometry": {
+      "location": {
+        "lat": 45.3848977,
+        "lng": -74.0091121
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3861683802915,
+          "lng": -74.0078410697085
+        },
+        "southwest": {
+          "lat": 45.3834704197085,
+          "lng": -74.01053903029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-455-4527",
+    "name": "PFK",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 12:00 AM",
+        "Tuesday: 10:00 AM – 12:00 AM",
+        "Wednesday: 10:00 AM – 12:00 AM",
+        "Thursday: 10:00 AM – 12:00 AM",
+        "Friday: 10:00 AM – 12:00 AM",
+        "Saturday: 10:00 AM – 12:00 AM",
+        "Sunday: 10:00 AM – 12:00 AM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1292,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfXO4QKbHxdCmTBca6gzVu_DAe9JHVDSFS_dtXYVeeVfMIaBEE4BBGT1tC3YUJj6GTZk7Kj8bqtSn9gQj_P55OIEmkT9iAgfN_NQmRVbt8tJ2F8wfSR0DdX6o7N5pLXza1Ih9Fjoj59_1g5OUVlv9FfKUkE7QZjwL88lMZmC6wZ__5TMRjIsmrY2-m1kAjiOYwbr6pSaKrJWJFmvsV7IXY1G3sFFUq-1wqCqV6HICFHQdgPoPwEBk0tZnu_3SwyNppzKo4QIH5KHkMNOEeOe_ubLbl5aVy42EpJfeiXAF60CmzcjRQRou-te3FXy8TVlQwRRLveXfrM5zHP263TyG5IrBHqRQlnTN9uicPlhNh-9Ix4y2j6ePKIq5B2hoAQrGFaUGxDNsBD_2ivVNNVv9RUngbi7nVEgcCiZ75U7izSW85xN",
+        "width": 1920
+      },
+      {
+        "height": 531,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113918603897904068079\">PFK</a>"
+        ],
+        "photo_reference": "ATCDNfW0zJC1daWBg6kgsY_Rh-VQVO_xURd9-aOkjceQWMRPcL8FPWfwOUb_mnA-177JshMXDAlblJXrhrAyjBrrRvPYM1oWXItLafh3bAqLVJ3jAfHVDLpAI5puUMzTulIHI43lVMS3U516BKNtnGvrtvueQtA2K7QHQ-e3PkvNp-kRMU9isxrMgJFj2sRwGfSshssBXC5EKX3aAX-sPbKOzT5ufe4F8odwAmlcrWmU8He1yCczPzYGLF89T6Vh-CiScaSKH4FwUT0LW3x9mwDGfwSXVtKNaRUp20SbS0IO69T8iQ",
+        "width": 944
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113918603897904068079\">PFK</a>"
+        ],
+        "photo_reference": "ATCDNfWB_kTu0DkMDRjmuB9g1zs0i8e1xBQYyvD07tcwHl_uFtKvNB0tW_oxOc4BSScA1nlkxwen18uJdRmwQMkYh9APXd4GGFm4Agozw2E6XKmKpbVtCHHhasSwIfgHb0UdvE-GE5S4GyPsBvVTwwDmsY20Qy5YPWmioVcBcPd7Zp8gCoyv_jXw9hjBUGOwR7UoSH974_6thplNj5APRULrvTl8CE8FQpIYNbwolBBMH1JqouRUhbK1FOShXU05klk-72Kdf6nhMWyhW4i9EWTGYTyuFdjejGlrcf5AE3qw-7ZnIA",
+        "width": 1920
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111059107466934495092\">Ro V</a>"
+        ],
+        "photo_reference": "ATCDNfWgEjW5Ft-hLlA5OytvFCWC02gNMiLMAf3BFHvT7co7Jo3wbxSyIPNLyb1Vk9kcSUz6gUP_TKvOtDvlpjINZqQp-utdbNdKuZkORSU1Y0pt2CIufkJ1WDabQxFDcOy2GYlUBvKt46AFjFRgeDgmvMDFqrcFf7TzB5CVQhbqPlDlS4q-dVVjsETE2eeqhPxI7XhUXInYRBi386aCbcE6MIaXRARVYL2zR5F2WTHndaNDLTUtXOw66t2DpGsjLgMmdz-pWOUKbZizbRmPAV2kJAzwfgVa4C49CwVfDb10QngIAq0sZFQK7RIz26TRdSGiygj9s0MNmPVqxljR5RG5A2-j3GuQLFp076OJdNIZ0cj1oDFwuPuax2sc9j1n_1YeZRPT0Gf1BplZReHeUOAeMbMTi85mqs-w_j5oEZiLQFE",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117595250519502475949\">Rob</a>"
+        ],
+        "photo_reference": "ATCDNfVvorymkup3IfbGvl7UMl2v8wv9onqjc7ZTTziNCfomVt06qWSx_TLEGnrVuUiQCwOdsR9HDiLV5li0Pp0PCtE0dtOU_7Dv_qtDDSrEng8Eyj6OxFwR6ZrCPu6-YM6qGvFIjn_TyAHRee5gZT_w2L3DlVTMXlyzkVetooL8ZT0i8AvvE2an9sYj_CW3AoTUsjSMCCDCxDNXXG1NK6pRCmkTN42ZOM3FGiHXhhu1_fuxMI4Qx095NJniHYR8R1dlVJuik7WOJVbqi3OuXPndtUJODXSWnC3fRi1vvl4WsHreo9hSMF1KDHYReWbxw7op0ixxMitgqh3LS_LF28Clwxs63qt7_3SiaG6qXfw7P0zgjoOC4Lz-q2M6L_f4A5Ui32rDaUUujtny6A1V4qNQZs9ymL7GQaCCx9IFI31g-8OUCK3M",
+        "width": 4032
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113918603897904068079\">PFK</a>"
+        ],
+        "photo_reference": "ATCDNfWK-_sEr6ETPVBPiRRIXHGVAq8z8o4jDe_VYlcUZOVedx9fMRUfoy9ow7TS3ZocToMCfADLcy4zthnHpNATYRRm5-N7wDYW3bIdIddAnSfWpigje5o9CYM6Z_U7xMyZob2F0kSGfCWtEZgXeF_21Se23gN8UYeco752ps4I8IRIR3KAVbNPhu-Q5TcghmcnIMfYAZ65oN1aeE095ulQyJuJdmXCixD_q401VnNO3Favs8rUWUqX4dPdkoi6hijgwbq_1igxqwXhIgn3JSbmEsXPcjrfGWunQvmMaSEwtnOyew",
+        "width": 1920
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104747081046317532575\">Ramin</a>"
+        ],
+        "photo_reference": "ATCDNfXUm2E23eCQVF3E0xm2BF2yIagYKrqOABFl02cG-LL-_-E1fvisavNvtTuSjV6FvWZDCvpb6WZLWtPxe40k9ZyL_fb95zwM_VNmtSbA2DdTGlsyG9NM2Uq6DaWThVZg-cB7Ls5QK27cxxBJPwWw7WH-F8dDFNM1cWsu3cNQcVAm9oomNUFKxb4WQgKJDBSZp_82BIlGNHTMQGNUUVu6EpsDVOFRLa_NkQY6wRJAXJusrRqIHPrOjM2vghc8h7CWcac5FzfWSyXal8Br3Z481vv8dqLPlp_7SrB_xk2T1MizGgQyTyP9Zm47O0wlXX5K0Zte_2NkY7s3U-VMJLJZ31DbSkrIwVoJN8pidlc2_GIXbP_xdoughHdb8gX4mJpN_3oAmQ8dO0-5DWXTuYksQTZHcZM41-ig5-eQWC_lUSCIOsadKEtFWYs2zBpzsfaO",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113635618891000600106\">Morzsaszar</a>"
+        ],
+        "photo_reference": "ATCDNfWx-Cp_9lpwZpQ-jrIGEhfrhLAJWQyoxSmqk8XSy9AZf9KHJz9BTMbFPVj9pJL2PHVjHUauWeGf7QSML6aR51HjmZmeM9pwW3PmUzMIxgUTUt2jTahkbM-nMxY3j1vpSYrCVERM0-jaLrA7tSgdGJiRO5aRGdS4s-AcgwLCL0PNOpT-ffrE0wFqmjcmqyuPpQ-kn4TF3gRmeb2s3PtpY3nEOJpK7MoBUlig6aa0r5McGO-qSIyYFdn5I4asThDh7wi9I2op_F6McqGYRs3yLT9_f7WhO_jEuTx2jmSbcFzQg0IO3CF27Q5_EwHYyJa4W9EMPr8VfsJgIs_xC-6pZfqecgNNA1DltAR2LBHdUEOXyt2Jxu6qAscT3fLnh3x514cZJqBQdEd0Zu_SwW1HBRt9GBN1RDVPNQWkrELFOzrkUQVr",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114688544899797126207\">Sasa C</a>"
+        ],
+        "photo_reference": "ATCDNfV_EPrwcpYA17CLbt3rkOXxo-rzMes-C3HIT5FQCG-tdmp5tNK3498f9EzdSN35JY8KWxlFmIwsCaszNY4KBvBfkQWmhcetAhdbpolht7iGr3d3OhSygA7I-Ghc01z5x4kGGyddrocB98raFL287_cgHZFj7-FxdPVpnVybofHciousSMkIYSVdvN6WmOrMggpN4w4Xujh3bpl1Sar8kpbMzGihAUzemyriVlisT_VxZFxUEnf-OJbH_rMEvXaA5cGh3Yqfd8p1gM6UxjkMTHZ01EExnlrzh6n5N8Z7u6Da6GDIzKpisiJbVud1U-jldBO1uAWAAy_IEeigmoGalEglXJF9_xbxNguoN8i0S-QF38RVi_o9mbqv7dxskQ3Vnl8AhTBRS-l2oCzVzfA0tPdHx9lnqiOFM5P9_MM8yx0",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115496089477679185152\">Nelson Raposo</a>"
+        ],
+        "photo_reference": "ATCDNfUlAuH5PsSpMs5HlClsIKXvBF6gpapM309vMlEqP9NfotpxbmgX2xPvDTkjWpkGOloTWF81rBSt0zwiQG-HF_9xl3Cn04n1ItKo7wFXVQbCGEmuaSKtPuC081NclO_7RrJlJYTqCTBFB899mUgmx2iZa74G4oQ_yu6kUM6v9CMYYXZD951_5UYxKDzT18nBEyNbtZR4TTXKIkNYuHrwGtJQzt8VqhbLadrdt04DMaL308lnBgb_N1Gxk42UeiaJupSJqeTjd-EPs-WUt_jy9Vt3sbAeu1LrME-u0bmZB50hovI0K68g5QifZgl1JMLvJT4JLoeyJBdKELdV143e_eBOJXPstxYcI9_-I5f6SbBpH95EH89oRTMLijY2-QSLHRuV8z4djI75CbfO7LDO_fdT6Gu3z-dDfrfk3mOB6zq5gg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ2_RlFh1IyUwRSTu6KID8yBM",
+    "plus_code": {
+      "compound_code": "9XMR+X9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMR+X9"
+    },
+    "price_level": 1,
+    "rating": 3.3,
+    "reference": "ChIJ2_RlFh1IyUwRSTu6KID8yBM",
+    "reviews": [
+      {
+        "author_name": "Maria Azuelo",
+        "author_url": "https://www.google.com/maps/contrib/103866246585410776376/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI73Mdhv47K7HKncdz4rMtupcGp9OXPcuqDI6xq0ixbh7RdnLMU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Glad this place had a major facelift. The dining area is now very pleasing. It’s more modern, with phone chargers, food was cooked fresh and tasty. Come see the newly renovated KFC in Harwood. Nice hangout place especially for late night snacks.",
+        "time": 1725761140,
+        "translated": false
+      },
+      {
+        "author_name": "Real McNeal",
+        "author_url": "https://www.google.com/maps/contrib/101155897718753030494/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4xrzmpV01G7pcKj-_Jnzgwp4dVTcs-XXiyPJQyMF0-NHnOzY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "We picked up the festive bucket and brought it to a family get together. What a horrible experience. Everything was bad including all the sides. Do yourself a favor pick another kfc. This one is still bad even after renovations and kfc revamping their food and menu, for some unknown reasons the food is still bad. You cannot even tell what the chicken pieces are supposed to be.",
+        "time": 1766767662,
+        "translated": false
+      },
+      {
+        "author_name": "Heba Khalil",
+        "author_url": "https://www.google.com/maps/contrib/114667209104286182274/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXeBapop_rDXW2_cyfT_9T3yMlOssVllfsBPH6t9Mx4VMJ0Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 weeks ago",
+        "text": "Disgusting place to eat or take out. Some of the staff are so rude, don’t even care providing you a decent service. They don’t have even the customer loyalty concept, they see me lots of times , ordering from uber and from their app. Anyways never again at this location",
+        "time": 1769641545,
+        "translated": false
+      },
+      {
+        "author_name": "Rob",
+        "author_url": "https://www.google.com/maps/contrib/117595250519502475949/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGsMDq9XUrqjOR7Bn0pHnqp_yn39fQR4XEGfD7PU9DWo79GpVr=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Ordered a 12 piece family barrel, and it was alright, but the main problem is the difference in sizes for the pieces. 5/12 of the pieces were VERY small, and of course they were at the bottom of the barrel so that we couldn't see them.\nBut it is true that the food this time was better than what i had here, but still, the quality is extremely inconsistent.\nThe picture shows the difference in size. The 2 small ones at the bottom are easily 2 to 3 times smaller than the others. ( And there were 5 of these).\nSo please if you still go here, look at everything, and every pieces individually and confront them. All the pieces SHOULD be the same or similar, unless there is claimed weight when we buy the food (which wasn't showing anywhere, so we can just assume they are being scummy).",
+        "time": 1727556449,
+        "translated": false
+      },
+      {
+        "author_name": "Gka 420",
+        "author_url": "https://www.google.com/maps/contrib/110741217208060982553/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQNz0Yr8nQVO0E_Sdwfik7btiiLFMNq2jNqky_vZ_8k4ThlUqi=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I went to the kfc on harwood, around 18h today (saterday Aug16) the 2 cassies where supper nice and answer all my questions, there was a little wait but the food was hot and delicious so i dont mind. Very clean Restaurant and cleanest bathrooms i've seen in any fast food place.\nI got a deluxe Chicken burger on sunday august 17, i asked for thier names, Harman was so nice at the cash, and Abia work quick and made my order with a smile the hole time. When i satdown to eat i say the girl from yesterday Jessica, and even though she was on break she was kind and chatted with me. They all had lovely smiles and made the place feel welcoming. I recommend everyone to go especially on the weekends.",
+        "time": 1769981033,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "meal_delivery",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=1425666909432068937",
+    "user_ratings_total": 903,
+    "utc_offset": -300,
+    "vicinity": "91 Bd Harwood, Vaudreuil-Dorion",
+    "website": "http://kfc.ca/?utm_source=gbp&utm_medium=yext",
+    "wheelchair_accessible_entrance": true
+  }
+}

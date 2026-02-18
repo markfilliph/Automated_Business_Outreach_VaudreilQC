@@ -1,0 +1,390 @@
+{
+  "query": "Olidia's Bright beginning, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338641.0785887,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "65",
+        "short_name": "65",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Racine",
+        "short_name": "Rue Racine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 8E9",
+        "short_name": "J7W 8E9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">65 Rue Racine</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 8E9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 AM",
+        "Tuesday: 7:00 AM – 5:00 AM",
+        "Wednesday: 7:00 AM – 5:00 AM",
+        "Thursday: 7:00 AM – 5:00 AM",
+        "Friday: 7:00 AM – 5:00 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "65 Rue Racine, Pincourt, QC J7W 8E9, Canada",
+    "formatted_phone_number": "(514) 208-5972",
+    "geometry": {
+      "location": {
+        "lat": 45.3776606,
+        "lng": -73.9730106
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3789801802915,
+          "lng": -73.9717908697085
+        },
+        "southwest": {
+          "lat": 45.3762822197085,
+          "lng": -73.9744888302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "international_phone_number": "+1 514-208-5972",
+    "name": "Olidia's Bright beginning",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 AM",
+        "Tuesday: 7:00 AM – 5:00 AM",
+        "Wednesday: 7:00 AM – 5:00 AM",
+        "Thursday: 7:00 AM – 5:00 AM",
+        "Friday: 7:00 AM – 5:00 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103321863850081601389\">Oprovi-8 Haynes</a>"
+        ],
+        "photo_reference": "ATCDNfXXolC3HwqRe7LMG3VQVoXcRVTJyV4iF5ps_vbz8rqL6OhCmeUM8CkANXbmRuXM1rVygwinFN-bnPZmH4B9XPLd0_eLn5rRPRdSDk9WqsUCUFy6zDY0zGkuLrzjz_9RS_x7szwXVIKq2gEZ78ytAMuiHIz91qvWOrCuzLw9kYnx-S-yVOq8DtybETKao4LJNc13mNJVL1oNne7DxU1o-L-6lLnVSLz_12pEUsmIWKDBL_eeNpV75Us64qCVAu0EJgBAEp-be7RrqY_4dV5tulK2S1CzHZu0J179GXUsYAMXw4F-TtlCFD7dz5AZNw1cSF7tpf7BgyABv_Ab052CZCMCEsIISii-pyWsdG82_425WbuM3nU3I1L-DjnzQi_Qwh_Qr-cTlqjhIzqdKo7vCDyQBAJonA8flMeDBWTn8QW0Rg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103321863850081601389\">Oprovi-8 Haynes</a>"
+        ],
+        "photo_reference": "ATCDNfUTNP-RHh4vXFSJDm-p7TMi8E1ni_UrL8P3WCbEhVxuf9LMolIpbnT3PLxlcI3WSlcsTvYpVJ0BS0Kdoc_g7BL6BUO9hF6ErIVTMxYHo7FPvO2L8IMTbH4fExtZHenTw6_Dri-IET-7jo3CKlJYYrY6blhmEYEAwlWJ5HqhRifcsvn_cr-j6JmaIK0aMWaL5B8vk071YDYmmaoTq8MIBe5Htb0Axop5VhU6dnkHGDCH9XSCXxnm0Cu-lmFtq1ZuCz6zhEeCOvTzXOCvgNvCwW_h3M18xDUCnHBX4nRViQ7aAU3J7bjoGOJ8yJBqjyYlAHtly49SPFXu-KRb44LfVWHOWgfJQxuVHoLsieVHVQIaQ7Z0mKk7hx7bqtTVjYGa3YaNMOmlVBxMjOdPzFykJ84xQAMEUsPUP0uFFF-wg4Euuw",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103321863850081601389\">Oprovi-8 Haynes</a>"
+        ],
+        "photo_reference": "ATCDNfXCDJhtu-2HsiPVfLkW6LVgq6QmeYzvIcI5CehY7AAONvVZH6Aecq9tkhym0VHeBD89bLpiVIBMgJjju4un0ZlVlNPDTuj7jURSiFj2gl7_SBd4vSnbINruR6kKj6y1bDSKTPFko9vAzPGvzhqw6V7PEzYDZwdmj7o9eF5TneLlEa-L7wMTwBW1HRVzx2-22LfOC_ohPXlCZHzRKO14egjaEhnsFdzZQ-MfclDh2my8XlK33M4OTyRPEUk7FzGOE9TFEN6qfnOUEutlagTpJK16UKdAXWK5PR_Uh36uOR9ThY-qiBT07mdP_MaF4LWExzIKb7eAqNppKJtTHDyFnnzs1RlgJWzF9x-8fcA2HULTkdUuu3ElrucIPmYiHwKA0ML17t07yJKAVWy_Jf0NqVqHNGZusTgw9EXZQKOXQF1Mtw",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103321863850081601389\">Oprovi-8 Haynes</a>"
+        ],
+        "photo_reference": "ATCDNfU8dvrzYbKwsnaJ3TdCUpnDpJXR1mFbaAnLp6Lp9tI3fLWQmt4-QgJXH4a5a3xE4peQWJr0yVbiFNpODPN6-w3abOwtUr-4VIxYwaj1a4bRfcO3qz8SWX7tPirqWtDIOA1m6eyoQleYUAS84fTu5JJ2B7uOw037OijC7lTnGxvBn6xKGVRVn6Po5fFPi94pTdRMJpAXLDWP7wVRr9C-l_lx3yrDUWWqRP-8Tv9JHy-1tiPL0A1ZZgiquoKVQ3k0SmsNOwpY1N0po8OhAGusm6Z6f1WoIdFHU7RyWOATRZ6Ir3G1gOMX5nqJhjuh0hHPwRFaDeBTcz0Y7YMVvtkoeZCtjR-PBL-AB7lmKpwwqlirsD7YwYQu8qEPcrvgSqGiYOvM68rir-TjnJef7_aoD7X2DvU_pZVl3kzl27KiAKClMlGKwq3ugR8NN8oYBg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103321863850081601389\">Oprovi-8 Haynes</a>"
+        ],
+        "photo_reference": "ATCDNfVs0u8OV2d9_NzP_PdLbziE5c4wj1LJh8s_SQ4ZOST0aLxxIX4WlpalgSdB5BNT1XcSpEpTIlGxdXb8gHypbI-R7cFLvTYNopVT8Ogtd37iNFEKH994j6Y3LUewSED89DkvFS0q2TvnVpcDEN4844h_IdzIo5ak23m-Wg3x4N1AXYnKhg-j6oI4vm5ONh7qvU0ls1e2ypcOtc_alFwnc-suXRWhzg-oZxOCUdqIJ72vopd8f6xZY0vyvwCLcgU1Izbxz6eLggN0Qtj1osQsuHIdfnW0msNm8RYNSlc77oGc3UZLI5Xon2UQsQEbtPg4COWtjsJcywfHIAfJpjWSfYAmcyC9Hv3HnSmeot_Blaur56qdni4QmttphtyuEiCf1zhvXIxSxJ9LRT8bgW5gdXM9Yz_PEJhUr4gsOpNDyGdBc829BSr5D1R1MJzWUj_L",
+        "width": 3024
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103321863850081601389\">Oprovi-8 Haynes</a>"
+        ],
+        "photo_reference": "ATCDNfWragvBJde3cJcIm6miSrnE0BUmx6GHpChyEeRAoNojiqpavGjm4_X3_3NBMsNPta0W-jOK048tk_C2583bZUAdEsGzgZybz9QqoZzt0BiL0cH-vKIoOPNyqrSkx_XBxAPQ5hxQwKf5UNRTUKhbySlQJK23ay2gphY63E2p4ODh83QPkjJ5jXaoYpwqEbfSU7CngO9Ae3bYuSmKSsvmgeGhwD6leBKKuJep6xuf1JOa3OdA0XvqN9OQRgNkZTV9D4wqLetAx2EJh4Fiz6N57Ra0Obiti-jP6DYyffvlGeW_09F1qhG0PCZVp6rPIyYDfqStZXDr-7QfMvivHuIas7kyD1gUVEmiuNbMPR4QdPMmu4_P6pNbFRJAGYkAjzQj1vFM3N9pvP4kJlQDjj8h0OkVT6hu4m6hDQ_ht1IMcdxCjkQVDx60fojVMS5sRjHa",
+        "width": 1600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103321863850081601389\">Oprovi-8 Haynes</a>"
+        ],
+        "photo_reference": "ATCDNfXe3g3CgQ18rS-dseW3sjCVnsClajmX5I_8rurthNEcsPStAy3PlzL3-_cmZWik3pCMsDbe2RdWDbK0_eBTt47yIrMUgCopc-3LMwK_eZZPLGo8nqIexaCxtrTX8Owv9ThWLebuKNGM3fd2cqOdbw0GHwDXUBY7HN_sb5GzKsHUJWfPHpdqhbyqfcSNGj2jo-YlA3M0ExwjJR-I9tiWYv8dMhS19oQ-q6A-JoRRk_R2_WRdk2shGfXkQZdZ9XI_mdWMjSIeDceHrZpzOenIM1JsbX2TedPL4v8I5FIWDbpnHCRQ8GKybSRstdZJNCSTbaxKCgASUlxl70ynhkuHc7gALUN9bP8CxoVfS_JPBg7z1LXAbuvyKfdHWmon0RUMaOprFNxaUxObM29oJS37mLLK-fhFHiUmxiFQWdyc1e8vSa9Ht38q0ojbJTzsOfYj",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103321863850081601389\">Oprovi-8 Haynes</a>"
+        ],
+        "photo_reference": "ATCDNfWpqjRSHS-F0LU6KX12SohAXHa_VebdokNlzP05YEstkwODUe_yCOeyhB8ANbt5bUKBM7oq_D9TstdJ-susSWFw5lJ5_jQiHE55Aa1XjlkUd9gtis3UBdHksc3k5FVZk1qmDsi-pnzC3VkdvSEcrVnlZYlmCkUVlecjynYp9V_WmmhsOZmWHkiJ8jCN4YaxWnaDLzHh-UxLXPn9Nrje95gPHIqAAAdpBArVtXZX3EY2zHUoSLJ8ggPxopdWyCrsyk-1wllefg3cyqD-xqsx5dR8582YccICPqtUZvaIp5FhIN55Bv5o2f75_slqJNj903n_zHhndg69qR22RXOg2W8YYXqlA9v0alLAV6Xi8IgxI6dnplrXLpbUExrliqlmFX5nmqcW5IdtFjAd_s_x9yt1AaCEuQW4D4rnD7swAvi9aYkeuH0mfiB5NkqoZRE0",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJWxJRBKRHyUwRGZzclhTACjQ",
+    "plus_code": {
+      "compound_code": "92HG+3Q Pincourt, QC, Canada",
+      "global_code": "87Q892HG+3Q"
+    },
+    "rating": 5,
+    "reference": "ChIJWxJRBKRHyUwRGZzclhTACjQ",
+    "reviews": [
+      {
+        "author_name": "Rose Xing",
+        "author_url": "https://www.google.com/maps/contrib/103247204835579146968/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyIYr7tW66vsQoSm-Mp5c5TWdO5UCDfLlCM1lG0gP3-iRx6dgh=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 months ago",
+        "text": "We absolutely adore Lydia , and so do the children!\n\nLydia made it an easy transition for us as first time parents. No screens, a variety of different food and lots of fun crafts has my child coming back happy , healthy and well fed! We love that she puts so much time into the children’s education and development. Our child has learned so much in such a short period of time!",
+        "time": 1739901807,
+        "translated": false
+      },
+      {
+        "author_name": "Varinder Kaur",
+        "author_url": "https://www.google.com/maps/contrib/102797056117690990281/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGikZxJDw0waRpyfOSN5toyq-uKtApBoCgwoqXw2YV7QVL3IQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I highly recommend this daycare.my son really love his daycare,the educator lydia is so nice and humble..",
+        "time": 1754659007,
+        "translated": false
+      },
+      {
+        "author_name": "Jesus Perez",
+        "author_url": "https://www.google.com/maps/contrib/112853470558316166067/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbnGY7j6_C4FnEyRSgEidpCoZrQPMOdJa1mLHgcf49MGTILA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Lydia is amazing!! Your kids will love her",
+        "time": 1754611308,
+        "translated": false
+      },
+      {
+        "author_name": "amanda fournier",
+        "author_url": "https://www.google.com/maps/contrib/109079632351393255835/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9UmXNY5DjOuioA56ZLl_zkUij0GR6DGAbPLogz588g4swjg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing daycare, she cares for the kids as she would her own. You see the love and care she puts in everyday, and it shows in the kids when they come home!",
+        "time": 1739714154,
+        "translated": false
+      },
+      {
+        "author_name": "Corcelle stephens",
+        "author_url": "https://www.google.com/maps/contrib/100987671476816632865/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuBle0ThSGDMW6TctaxqwlU6-v1a80h7IuorRYbUMX_VZFaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very nice daycare, and educator Lydia is amazing with kids.",
+        "time": 1731699340,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=3750020834402278425",
+    "user_ratings_total": 6,
+    "utc_offset": -300,
+    "vicinity": "65 Rue Racine, Pincourt",
+    "website": "http://hellobrightlydia.com/"
+  }
+}

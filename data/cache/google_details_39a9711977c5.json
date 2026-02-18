@@ -1,0 +1,393 @@
+{
+  "query": "Vaudreuil Inc. Heating., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771337971.1162016,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1041",
+        "short_name": "1041",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1041 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1041 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 455-9845",
+    "geometry": {
+      "location": {
+        "lat": 45.3726183,
+        "lng": -74.04470239999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3738786802915,
+          "lng": -74.04347751970849
+        },
+        "southwest": {
+          "lat": 45.3711807197085,
+          "lng": -74.0461754802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-9845",
+    "name": "Vaudreuil Inc. Heating.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116324393559612437069\">radu stefan morariu</a>"
+        ],
+        "photo_reference": "ATCDNfUHdLJIrmWrtRegBSWbyb8BgJstFZUSAfERPGq7bdFETQvqhatKYXWOPioxljVLGStISraM4K7nH6vB0sKCmTQBPv1wkJFszKJSoB1koe_LTWhaSzONLNbOVxFlUWCQi1eZzGCfv9sc7iPWMzliDPf505aS2OWmhCK8FGJ97q4-Tq1J2YyvqNLwm2tfhOze4AFKprZdFQcCngntoEFP0CL4vNqmmwrL-c9TTKOKAgamO4u7Z31_u0M8N6djpRRqdhHshfzDXrFyWG_vl0C37FgkWgYkWMjjMRUQyROgmkTJMHDc6QBWyAgiRjctF9gDFQtW5nxCTJ09wnoaftsob8eyKiyjCXFe-CNGmTIszJp6bYivzngWN3rJYTL9jc_HfuO42lUfCC7UuX98NDWizQcIM_PvwuaPFNcgK8qEVsbkWQ",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109316378574177771857\">Carlotta Forsyth</a>"
+        ],
+        "photo_reference": "ATCDNfUxcLluHnvmPB9MQTIP7x-M62H0CQtzBgzcqEi76ftmdWM1Vl4v4dO3NPQeOOcZmJzXNnWNgpNMb_u78BLWXnpuxcCPrAdMJF_i5o5OQXNwz74Lxn_BvTv-lbxYfN-9vvhbuVY-zXRCUN-JlWjBdDo5gg0rfAx30Wz6ZTDbyVJY6bYWQnZ8oEHjUIzBaZVLgPkzrK3HUK7FMP8LlWzBT_tG32MhAtWI_mtX2q6HIWLVZpWHRZnis7XC5UTyQs7jxkUjztPmCjL8aVm0AG0fflAOPa7Yh0ZIfDDL58ng9-hZ9Vfp8gY1MnD-XFjxaQRS95ncyu8t33dZurWbQClab3dIRP8ChGN8apy-DKSocCcYPoSySFvbZE_3oQ5HLxxwh1giS59Mh0I6DloVrpSs2Jj4cyBpinPfsB8w3LsZB6ImutY",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116324393559612437069\">radu stefan morariu</a>"
+        ],
+        "photo_reference": "ATCDNfWmai4qcn15f3iz7YfbCOuQUdAj3DzVMMEYaeuxTZb58Cppvbn6QMrbJTyLBxTj3d3MDNP9YXOruGfX3EeH0Ps1Lyc0EzjaTsoREVGBKk0pu-YSfGHY5ThvOjHi7D_GG1CsU6U-cdwwEhSWG_KGJVJ6hWer4gn_08kQWsx3QEvPAuPiQt5r0sgEzCzdrhKrJ43YK-trNfWxKk55ciEDkB1pq4-R7IvAg_hwixsMQhlyd117IUc-djJesBQ7wLbsY_W3mRTQmm_SebJGtt-lydQCWg3oEOBSkwXkv7FlODzTwucm2dKG36kgyXq1Bu2EQZGcRMQoRpyYcqKo0Wk0rP_3DrqT1tBTdGQ3or4_05QVF5LljSEtwEB7QhPzm8eAIfe6p7ZFSD2cM8W6Z8pf4RPr2Qr7pYlRIvMao1bnj613Og",
+        "width": 3000
+      },
+      {
+        "height": 917,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106908495749828711066\">Colin Bretagne</a>"
+        ],
+        "photo_reference": "ATCDNfV5ksoyfuV99vNleHCP5EnrtvU81vCqS0yPMb8ICqVafNEWK87r-cxervq1KEdPlhu3-ehPd6NXOMFu_3ereyQuHSJoI34p4iZrkX6eMmDTt7qbfWFkSAdk0zZTe2fp3fdXHc78QbwbYCRTrgchOvlzNSO17uXljez6C9i5erBx2vY346jBxiJyp9zpOKv6OQp4EImTaEffc9tggn2WEgeStuO5HrhwDkv6b43iUGKLusw-P3ldGjCG2hUaUbCEB7mAH2FcOym_JrbcX7ZB6YthEgpi3Zg10uZvLX71fCFTposn16RdSq5AQFex7dXn8wMId1unMeyM6EKfCiAzvy3zTjmxJ_RHKuADzWiV69jPb2j2pKq1oBGwh2QrQvV7ixCEhkY3iDwQEtEfsl2JZ-g6b6aWCH5boIfZLMrVkqkUQVoX",
+        "width": 688
+      },
+      {
+        "height": 250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112965123483980678675\">Chauffage Vaudreuil inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXI1Ta3NUxlwsyQSFGnKy9oZLAl8UQOopZLQ4Zdm8LtpX-n-k8i3y6ILBQ55-878aafbM06ODmOxAfEUShiwpf9cyWgHfLXAvWFzClBk2qPf95xYbjyAn55WzeiIUCI0MRc2K1GenJvsFC7ydFDvfc8vTQTWLj9k4jinHTr1qQeTWWZfY0HmtwmXxh265yNWIV9Oxx0El2C0_XTZBOHMxo4v_hfZSC-j3RegO3XFN_bCqXI2grXTRoKmvnjeXwL4BffM3llXmvcOkxQixy9dyhFThMqjMPTYEEtJfJOfjZD4Q",
+        "width": 250
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116324393559612437069\">radu stefan morariu</a>"
+        ],
+        "photo_reference": "ATCDNfURhTfqiB88urrVrIFsWviTRiZKeb5zor40HICzH_2GK82xoo90iMwnPmZHiONFNjeYp8LYnzjuUJCc8PkVTVvkJji5T5CRaWjyMlqJnb0TruqXGGpqRxjPygj7ueNwLXR4n0ygti_uetbUezCpVRhJe0UVzyJ-FH9i9RlDo7q4HnhvQ2b9TB0A2fXalqc5mABx0xeVFrwqhl3nZ8YXbwNsh2yygjJ4rVW4q4_jReOv76GEJUr8gyZCRhf6K3kpjpnU3h4d7-mha9hLa26yr-zpbWsz8MC5OkPF7AiiRxeQFWrwLW9k95CDF-D4dA5BQ-9IKbmj9ltrtYbNJP7JU3f1c09X0WgdVWvXkvccKJ2r5NqFMAkItd90wrdDHRGA1OJicaPX7Esg1AEttvckf6NqvdObbROrF0Jpc7disyEHag",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116324393559612437069\">radu stefan morariu</a>"
+        ],
+        "photo_reference": "ATCDNfU2y7VI9LffYDLppQ7Yb1EJl9yqzTaj3C__G10hdMhKsQqveWMU6Qd2FoQCvoV6VTwa4nxtNbM6qAaIQJjA_E_KiSKunOD_KVi0eIU56kw5CcjPluQVQMkwmQV89oVXbZI2t7MFwwqtMM6UJike5T1s9SJF8TdZZSbkfq3anpjkg23QVZRIu8Rv6d-Xy-jEhNqh0bp10PT92umNK47IkB9pFgk-IODtVy-iCpT-pLemv9BEr-sl2iXfXIfRchZCYhYYP30s5lnzeP1dF6RLr1G5YIDs8vYlSzr-2h9PH6VG-lG6TaC1BtixJqbDLpWTnsPkizply4BaVu0WwsX5iBmn01r4Ppa-oEAC61A-zhqpdEybQoIFmqqlOEq4ATIKaAJdAYQQR3gh-EkQTuM-rPR1iqUWt0h0gZdb-H3xVuf5Gbvx",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102528907911039305196\">Charles</a>"
+        ],
+        "photo_reference": "ATCDNfWlaUZE6bIKwq5hrVgusjA7eyZBvmgp5uV6HS9pWZBgeNHy3FYfkPJxPp_OK-mrgLQtJE3J8HAHcKRadjzclWNrKWJFdMxlGQP2xaHPXtpzmmZTgSONshvBzoo6cHKbzi3bknHGpaQTUbxRE15eFQtP7tdN7UUJ6jOZzgnAUsnM6-kPQKF_MguSHEz7wBcWfq71d5SkCM_xPBeLoD7zIRb2XOZMNYCujsbxi7WYkkC9enW7atwieg_ZflRZ1PY8tfyttuYKbeguL0wfZfXrX1GHOjByLsfgZkoCfyqihTCOJLqrBfOV2BwYuCiwfe7QG0fNivqqeDbS-Bm_1XYDkf5TQMeEmFOdzlwc_susKWNWVVgE01CBB1bF-7B_2H5uANQNJr1xg_7X4_ru0UbrfgY4cIqNYxT3zdusRgMh9uL3OmLAgsGGRjBs4v3h0_rE",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109316378574177771857\">Carlotta Forsyth</a>"
+        ],
+        "photo_reference": "ATCDNfWioJS4p69a32mSjftMioekeiZrSxhOS9IcNs7CACIP3-GqD1ekJEOCdeNRlBz-f0C3pV8VodWeBqXHhIqiCKdUrMY-yuVPaRbOO5TC4JkPmKDqpXAVSTqQIt-JcEnh8zSl1fcl1zqZXkejOgkawbvOf2Ie2F11oz35uaSmbQiOVtoCzgcws2GcT7nwnT_ll6e37vZOs5M5C3t_arweDpkqqanBMFW1PF4xOxmZD4mRH1JQEbpJZ0VB0LpKl5k2_TcTqDI51ghvZQq_MEl30YivcAdEQMpvCavUt5h9Tu9cJ1IqIsgBFUyIsNABGDVqfKdei5ZtddjzvxBidcVSB5w2tcrjzk8ctsg8KcRXpxHY2FYaa8s64SMyu74snc8L8j6_8iQv3oANTq-7KjhLIi427AUM-VXdIIuyl8RjzBp2C_5T",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113209789655522577958\">Luc Menard</a>"
+        ],
+        "photo_reference": "ATCDNfWagUeWPkIoveWIOv5slOV_OcHvr41lVLFtj9bWWgv8En5RG8wI390aPs0PIckyct99K4hRmeilgjfaOVMAuviGB_vEtI0UEgTy2pYgPqAqyYB9UN3b1Z84Z_O0QEHFnSQlkD1gkfTrbx_wl5FAmx_MAJmlGbf35aTrApUypMdPdQesBk43JML6FVWhEjZcN81-G9onQ3J_Hm6os6iNkgOI-vtcL0ga1qnrPUVnWTPoqUYt-xw7vujlRXqQyg9U4Usar_TXmrMdAfJlVEtlcnqqMSh55sCv1fAXJf45J7dxdR9ti-bbhgM74lPCln8Y0r2GJSgS-KSqYJHGdNuQbP7qCJ_DmnGxC45QyDdpjURvp1lQAD5U2tauZr6knG8NC4gHMvoPwP10DusvjMG7o_Tvnwhz01YrnFejfIlMibQ",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJu4k5LzZIyUwR10LoTmboJWU",
+    "plus_code": {
+      "compound_code": "9XF4+24 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XF4+24"
+    },
+    "rating": 4.8,
+    "reference": "ChIJu4k5LzZIyUwR10LoTmboJWU",
+    "reviews": [
+      {
+        "author_name": "Roger Plourde",
+        "author_url": "https://www.google.com/maps/contrib/101250142564450585441/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtgLLyz8fyUR5t-owfw0wltNkw-kn5M63N1vZqjjrPfIQ38g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Excellent installation team who took pride in their work and left the area worked in meticulous!  Explainations were clear and consise.  We are very happy with the heatpump, it's look and efficiency.  Thank you!",
+        "time": 1760032504,
+        "translated": false
+      },
+      {
+        "author_name": "Charles",
+        "author_url": "https://www.google.com/maps/contrib/102528907911039305196/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJr9puCJ77vM_IadwmaYJ3N0TmXgzZaYigPYL0bufPFiQlS8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I needed to replace my old ac unit with a new one and I had zero idea what’s good on the market. Mario and the chauffage Vaudreuil team really helped me choose one that’s right for me and my budget. The guys who came to install were very friendly and helpful to any questions I had. Great experience overall!",
+        "time": 1764279734,
+        "translated": false
+      },
+      {
+        "author_name": "Arun",
+        "author_url": "https://www.google.com/maps/contrib/102917639241717612279/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8a4IfVRqjwpDUuXpvnq_GOx8DmKtFVSHz9memuHDnac55zg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Chauffage Vaudreuil installed my new heat pump and new thermostat and I was extremely happy with the work they performed . The installers were professional and courteous. They also have a great customer service and I was able to reach out to them and have my questions answered at all times.",
+        "time": 1762454605,
+        "translated": false
+      },
+      {
+        "author_name": "Ildiko Horvath",
+        "author_url": "https://www.google.com/maps/contrib/107588309038788088858/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBHnbau8yu52-wO71zLE37VhUwwpyS82aXdp429nQmVaAq2A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "We had a great experience with Chauffage Vaudreuil, Inc. From start to finish, their service was outstanding. The team was professional, responsive, and made the whole process smooth and stress-free.\nThank you to Mario and his administrative team as well as a special thank you to the installers, Vince, Justin, Felix, Jean-Charles, Vandy, Assam and Dominique who came to our home – they were all polite, respectful, and extremely tidy in their work. They went above and beyond to make sure everything was done to a high standard and took the time to ensure we were happy with every detail. It's rare to come across such dedicated and courteous professionals.\nWe highly recommend Chauffage Vaudreuil, Inc. to anyone looking for quality service and workmanship!\nA note about the Mitsubishi HVAC system that was installed in our home: The system is very quiet and performs very well. However, even though our new thermostat is WiFi capable, the required application to run it remotely is currently not available in Canada. This is a significant encumbrance for a system of this kind in the 21st century.",
+        "time": 1758245085,
+        "translated": false
+      },
+      {
+        "author_name": "Lunan Marsden",
+        "author_url": "https://www.google.com/maps/contrib/103508148365003534424/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWD-e7dbZ7AZ7D4T3yd1KDLBlBeid0FqcmuHbuR1l-KNaBmXrs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Very satisfied, had previously referred to them for a repair in the past which went very well. Recently they installed a new heat pump and furnace and their installation was perfect! I would highly recommend.",
+        "time": 1755731027,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7288487098077168343",
+    "user_ratings_total": 217,
+    "utc_offset": -300,
+    "vicinity": "1041 Rte Harwood, Vaudreuil-Dorion",
+    "website": "http://www.chauffagevaudreuil.com/"
+  }
+}

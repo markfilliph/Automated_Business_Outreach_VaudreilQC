@@ -1,0 +1,346 @@
+{
+  "query": "GML Informatique, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338391.991054,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "535",
+        "short_name": "535",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Place Charbonneau",
+        "short_name": "Pl. Charbonneau",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2B2",
+        "short_name": "J7T 2B2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">535 Pl. Charbonneau</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2B2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 12:00 – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "535 Pl. Charbonneau, Saint-Lazare, QC J7T 2B2, Canada",
+    "formatted_phone_number": "(514) 886-1940",
+    "geometry": {
+      "location": {
+        "lat": 45.3787809,
+        "lng": -74.093047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3799520802915,
+          "lng": -74.0917529197085
+        },
+        "southwest": {
+          "lat": 45.3772541197085,
+          "lng": -74.0944508802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-886-1940",
+    "name": "GML Informatique",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 8:00 PM",
+        "Saturday: 12:00 – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2730,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109743974700860122672\">GML Informatique</a>"
+        ],
+        "photo_reference": "ATCDNfXz5yKmAXjdyB5cIdy0Y5-Uq_2ANgHJ8esfmoo99we9yf4yd3vUV3tnYhdQAGALl0al8uyiq69n0dtBcd3H2fROKWWb3KgTqSB42oxDc2-BDtBkaWiANq6hN4kmcWQazTGvK5GIrrzs9wXbLDumBy1vUJoQxzIU9qddCuHV3GfuTshESS2IXyznw4f22F5f-1MwxIlErX5E1_7wxYQ6FwdbTkkNPCVrOQ_OzGoahPiRT8KLO7-37Cyj5WWEZ068vP42qhPd4x0hUrS0E8szB_sB0VcaSkLtvsDXFZcT94YtDw",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJdQfmF41JyUwRq6gbraGAPx4",
+    "plus_code": {
+      "compound_code": "9WH4+GQ Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WH4+GQ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJdQfmF41JyUwRq6gbraGAPx4",
+    "reviews": [
+      {
+        "author_name": "Vincent St-Onge",
+        "author_url": "https://www.google.com/maps/contrib/109634473657238944163/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcd-6EzVwbJaTpLXSA5UgYSsPr5IOY1Flw4elD84_KMCs2iA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Excellent service!",
+        "time": 1563576157,
+        "translated": false
+      },
+      {
+        "author_name": "Melissa Lepage",
+        "author_url": "https://www.google.com/maps/contrib/101229124472246495037/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhptrVs5isCzQetnUfOO1QqgaxnSWUQheuhWnFOy1V6PkV_20=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Excellent service!!! I recommend it to everyone!\nI had a problem with Dr. Dre's Beats headphones that wouldn't work with my computer (the microphone wasn't recognized).\n\nNo one could get them to work, and regular electronics stores told me to buy new headphones :( GML Informatique listened to me and didn't jump to the easy answer. They immediately understood that my headphones had a protective seal, which meant that regular jack adapters would never have worked!!! GML sent me the right product very quickly, and my headphones now work for my online multiplayer games :)\n\nThank you so much for this impeccable service!",
+        "time": 1562033858,
+        "translated": true
+      },
+      {
+        "author_name": "Snalibe",
+        "author_url": "https://www.google.com/maps/contrib/108738492066271633043/reviews",
+        "language": "fr",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_mmqAUiBuT7l_R-fEQEdO9B4CYUeYunfdQCN8TXCtFpJ6qPYF=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "J'ai eut à faire à Guillaume Ménard, le propriétaire de GML et j'ai eut une très mauvaise expérience. Cette personne est émotionnelement instable et innadéquate dans son travail. J'ai eut à faire avec M.Ménard à de fausses accusation ainsi que du sallisage de réputation. Au lieu de faire façe aux problèmes, il supprimera tout contact avec vous et vous ignorera. Je recommande donc fortement de ne faire aucune affaire avec M.Ménard si vous voulez éviter les problèmes.",
+        "time": 1558377563,
+        "translated": false
+      },
+      {
+        "author_name": "Frédéric Lalonde",
+        "author_url": "https://www.google.com/maps/contrib/102350079432966542842/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU61cFQg-JwDnrHAHv3wDufthXjOGmqoMR_ocEQf8-s9OjM3ER0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Hello, we are ICS, a business IT services firm located in Vaudreuil-Soulanges. Since we don't offer services to individuals, we recommend Guillaume and his team at GML Informatique. We have made many referrals from our own clients or their employees, and we have a 100% satisfaction rate to date. They are very courteous and precise in their work, and we recommend them without hesitation. Having known Guillaume for several years, we know that our referrals are handled very well. Without any doubt.",
+        "time": 1563827069,
+        "translated": true
+      },
+      {
+        "author_name": "Virginie Ménard",
+        "author_url": "https://www.google.com/maps/contrib/103005832173874253131/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9YDNGDLOhVe8l_Q-pPtTFP9lJpsoyNIFXGkbK5q64Gq1DuDo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Fantastic personalized service! The owner is very detail-oriented and always takes the time to explain things thoroughly. I highly recommend GML Informatique!",
+        "time": 1558404213,
+        "translated": true
+      }
+    ],
+    "types": [
+      "electronics_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=2179602176552970411",
+    "user_ratings_total": 19,
+    "utc_offset": -300,
+    "vicinity": "535 Pl. Charbonneau, Saint-Lazare",
+    "website": "http://www.gmlinformatique.com/"
+  }
+}

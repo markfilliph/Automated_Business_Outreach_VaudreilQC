@@ -1,0 +1,145 @@
+{
+  "query": "Comptoir Service Rapide, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338509.4820879,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "435",
+        "short_name": "435",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7W1",
+        "short_name": "J7V 7W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">435 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "delivery": false,
+    "dine_in": true,
+    "formatted_address": "435 Bd Harwood, Vaudreuil-Dorion, QC J7V 7W1, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3790138,
+        "lng": -74.0207412
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3803386302915,
+          "lng": -74.0194036697085
+        },
+        "southwest": {
+          "lat": 45.3776406697085,
+          "lng": -74.0221016302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Comptoir Service Rapide",
+    "photos": [
+      {
+        "height": 2218,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfV0zXO2WKICYnOCQJF1bg_wMDjkZ63wZ6xjWJJag34ouJSNLvfl-YeJXgByacWMVqcjove0NpAGxQOfmnm2gZBF6DXwIbyPYKRqSay5B7Sk2qx_zaBD-_fnG3bSQqIsd7IaOoCEQBzIChae297lt19Nw129E-pu1-HZUDTpFBaRuvz522IyDJPGp4S2iQsXuoX5eHfkPzmICh2gmVWdNeP2BxlN90sd3pLXmHAiWG-Qp6MPRtv-14uVTOOWl1V-XjkzwDN6q5iRGJBbuccJgqctVV6hDvKYiKA0yoF9y7tByAEfOz85_ClwgBJx6fLNgTdYhWGIwDeQoRiYPgF3334kjdxa7xYPnbXtznxZwVe5YWHqo2wBN-XW35TYY7zmptc9EQvpYWUDWY1hi3VyxWADpv6j0Ix6hbnDxEoA8rDIBcCb",
+        "width": 3940
+      }
+    ],
+    "place_id": "ChIJtfoSLRhIyUwRu0LqBqrs-yQ",
+    "plus_code": {
+      "compound_code": "9XHH+JP Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHH+JP"
+    },
+    "rating": 3,
+    "reference": "ChIJtfoSLRhIyUwRu0LqBqrs-yQ",
+    "reviews": [
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Fast service and friendly staff.",
+        "time": 1658800937,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=2664983819524391611",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "435 Bd Harwood, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "query": "Musée régional de Vaudreuil-Soulanges, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340018.5915675,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "431",
+        "short_name": "431",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N3",
+        "short_name": "J7V 2N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">431 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: 1:00 – 4:30 PM",
+        "Sunday: 1:00 – 4:30 PM"
+      ]
+    },
+    "formatted_address": "431 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N3, Canada",
+    "formatted_phone_number": "(450) 455-2092",
+    "geometry": {
+      "location": {
+        "lat": 45.400133,
+        "lng": -74.02728170000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4014498802915,
+          "lng": -74.0259980197085
+        },
+        "southwest": {
+          "lat": 45.3987519197085,
+          "lng": -74.02869598029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "international_phone_number": "+1 450-455-2092",
+    "name": "Musée régional de Vaudreuil-Soulanges",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1630"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: 1:00 – 4:30 PM",
+        "Sunday: 1:00 – 4:30 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 487,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101534095800527249567\">Musée régional de Vaudreuil-Soulanges</a>"
+        ],
+        "photo_reference": "ATCDNfXoBJlFMrEM68sAH2yKhbk9ARnEGF3nVDRydNcufbOMo_ZcqGOe1sYYjnUWRG3RXfhmv94x3ascI3nmIWE7oTrWTl2cYusJ6IqtqowXg70g21gxR2QiLrGg57udUR0PY3UzzkQyjANr4_oFjqrUDJ2MB57mi1QMzlua-Ofu4AJfEOSA3z3_54_MBOvhLipADnFPMO3vZRVLbpZExzSyB3qMXAtwRgBP9E1J7U0m-ITz0ULr-ffEq75SOj5wgBiTgQTLYpd3lzQG8tfxons665ezOYBPBBgWCO0ZQgplCwYAcQ",
+        "width": 866
+      },
+      {
+        "height": 1036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108691848172676861471\">Musée régional de Vaudreuil-Soulanges</a>"
+        ],
+        "photo_reference": "ATCDNfW9A4Ttw0Rr_N1Tf5vHcZFBnICVxfDXiyL8ZQpr08u8kct3jTcp4P4qjaCxSElGT_Ws72ofrM9SPUXKEU237ltsk9QjYLc-p5rxWGrNY-fI8BJmfXtQXqmEvRuwFS_5jc8uvZzLshC47OPK0DfgTSGAjCP5QU5Mz4pSH_wl3iy8lOGqxW_t7ZiGw_OPBHljyd-OmqLb6pBMainjlrkF2bfCaudPYIg5BBiT53_-1cvZNFsnE8DOha3-M0Uuaig6yX79df8JC8iWg_RA2Mi4vS_b_3pKhk6GI2fKPzpaVn8jdu5TRjJksq1IuiNHHMDlErw93WGT-Wa-1h3Glq4IZ4WUB6hs9Q3kg0hgdAAeO__2ha-sb-bI-xh6ARxxQDFIGLvDYCtph0T7IfMOTN0EnCuZl7oiFfeN3Wa60jXfl37Wxqx2",
+        "width": 2048
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101534095800527249567\">Musée régional de Vaudreuil-Soulanges</a>"
+        ],
+        "photo_reference": "ATCDNfW5xyojEY42YuJtlLszU4yxh15eAVBHTL1S20WuM3ylHae3S7X3xao7QPmERMX2tQgp7rVwjXHo6L5SBJu8vhoMhMY1lPZ8-3Ygk_FNu_Hv9wTkeZh1yLd4rPA-79D5yzj_MrKS9DYVidts_YzJa4CFJ1xvuWu6un0h2RlxLwALE1frnf7ZKelzAsaQvAjpSr_3CoWgOqxMaMgjBGBrEy4hvR6X64dDKBF32v20cVSjR8euX-IHvvEi76D0J5tPNU14bDqqry5egZf0CWH4oII2qN6DJN-oxzn3_G0m2zHxAg",
+        "width": 4608
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103769632420879994979\">Lamoureux Annie</a>"
+        ],
+        "photo_reference": "ATCDNfW5C7ZiO9fNVnjtkMsKK38hBYx8RxT6fn13p18GrFxJlM8dDmdd3J664e2pdjcwXwU9p9t9Vzhzfw2KPDvjvyYmqcVRIO656iLuXzVfdf4FUSB9KCjAGkX87A9xqcHhEasDFdvtZdHXaf1ExqCp9lx3sGa34JpEa6D5RBbD2V5MJa65PSJlqK9ZdY2fL2QSqwYB6CALAJ0h875jeU7sJ_hh70uSplsZSKql7kNroYTnkpsVwuqFoibeiNY-NwVBt_bOU_hgstKXvRH0R_NzBgMO067K1WBI9Qp-YcEZVeYqpi0mGZiIvN3keR-vQ4RJANIqj6M7oE-Ax7uJqvkMKb9PRWIKiCWz3uGhpwsoY95oIjJQrVk2Y4WcBv2ohdeBrBVut5SZuINXQFTEocz6QJF1L0CRMV7xVXYjjnSBlD_q12Hn",
+        "width": 4000
+      },
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111845368519549573151\">Alain Quevillon</a>"
+        ],
+        "photo_reference": "ATCDNfWTOaex8Riu0m-L6pvgrkgxynLlZmogQOoqUkgyReQh61iFcZeHsVCDzbeTJ4anQ6pVfey-ng4YkO79oNUSkMwXBCZhNa_DlIesXA5mZTzcBPdhltM-B-9x7hZk2neNrzlBQmiR2qbMneVsddicJ1nIeztxbTuNcFuuT8lzpSXbUAqLh-wnuOYGgXH5H9z_05ywP9Lyl9ybgfwABPxPJPHSp3OjUxRZGrBpSghXMHEDrWbEYFVMUPatgzkJP9ve_sDVKTIklbti4q4j5Ih4FEskrZ6e0WEgI1aBqqu_-TPliyrl-aipVJKMswan9QL6UmIq5pKVffJMPH-j9lnXecmCtSHVYwKbfIRBdKYGAjKc2PxCt_XxJzTFU_cl8jNpcNqNiRG9Vca-3BoGKQNskCtnz7Wee6Ra-74mw6_RB72Fog",
+        "width": 2736
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfVKHTMRBD8xGXf0d39APoB4l9WdOF4sXqwKjGNPRg9cypSFFeFRkBZbJF3NJVgGn-hKKBh3nSCgiJ6U7rsLgkY0VYNJ1uHQJldl_P5Jc69NW-NEyp3WCpSGnGaXBwudSBH8OttMdXo2wMJ7VCQHAukD2UcARAcPHPJHSFRONueaj8SYo1wVahOTx_s4dfkoo0wghYJ2rRhEPl2ptpKTnxeBBA4nhXqKIKXRwpcabizvp0nQHEU96A_Idvqt-2GzPwLKYbgomUZuKcZ1bbpEgypXvnjMu_zXnI_IOGfXCSaidGX7WLJ19DfQULF6zk3EOJdFPbmtb28xtyHIK8dEhrxwzVdbMYsI4LOOar9tLfDfgTAwAne0tr4IeAwdqCTj6G5_xGFLfJjqquKV1AZaEb5QiPTkqZZUJdSvIfWu-HUntHmo",
+        "width": 1920
+      },
+      {
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101534095800527249567\">Musée régional de Vaudreuil-Soulanges</a>"
+        ],
+        "photo_reference": "ATCDNfWWdUDnBbpOvqQWHJHbkDDDcCH5dr83RQ_Sy1IX5XkIO_xBRD3jagGH3ImhkrUNtBe_X-5utE9XxEbD1QWh0hSioYBNFWv--ua1tciEPDbWwV7BZiGX2v9ZcNXECVowkdkhhpCZBdM22zbZMW_91R8WoRJVwxUhplOuwzABQoNCnkwTQuUP9OOVwTkJZx4VM7HAMK0Aq0eHq_yhvT9qbfnEwpJG6qGZusO_8gUQykduyQRK-Vqk4PRsSJB4nVMPZnGsIqSw4Gh7pfJN2t7mYEFf22zKrH1cPqaZyKTwjssdDw",
+        "width": 4320
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfWXUtVKQS42Cg-R_5IP6Pq40BjRWZQb56L6Kcc5yh1UvuyNewis8dangq4BIHkX1cAQ5eKcVydx3HI-9XWNhSAHEeTYv_jRJJkZoLZa_vpD1ItzTgJzxacE9NZ37BMsrU40-8R5WG4uU3NfNvqC0joDIMi7q1ar2c7BHQH6eOOVrPjs-_y0utT1XrluMjYnF60WigKPv8BieLkBrtqXQVXMUCD4eO78jbLxPV9u-yV8G8LYH74FZPs5cW11N8s5ADRWcal71ljDoxayTYEMQGlQd9p-UQTPicwubzTGuqK-F8NALCkfgssOdnjtCJZLM37Fg-FDAU2ot9fpw1h_xUnsP8TSC31eaPDb5U7-G-qQjJql_QTFEMki5UjF6KL4j6AhUdw1h2T-sguRpX8JcFWbaQusz9TNCgR8OW0fv2ozV3Q",
+        "width": 4032
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100687541660225784541\">Repaq mtl</a>"
+        ],
+        "photo_reference": "ATCDNfX-H71y7QsLycVovPMcBy3VySzY68XxPL0y8o1r0QyXk4dOdoBdJJv94t81J8HOd6WGINYUu3CECrS26lrazuENspJPVs7pI4EqYENJb9FQYYTaebIcE_94lhydNtnMJoor2sT-f4lbQanP7gESlWOlmJX8UgHPgaRxs_59vydlFRyIeHj-2H6wPphsvhkq-49ISMlUoK_CtTjAle8NwD_IibEUrkuTLcUrvoKgsjK_uqXa3oPaQ8lbY0mu2bwz4rH6HCJDvaexBjowC8R5iJwuzBJczIzw3mTpkZSUUjhLaa08jIns2OEaJF6z3NhmQD2O8FiBl2fWeEaCqFT92TJh_jVUgNAQ5f3oeiyNPuWYPhEphhdRNtrnr6LvAocZY-NlbaDwykswCnUEiCcu0gv0XXN1ld76xr6ex903YYk",
+        "width": 4800
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115031670623095881299\">Nathalie Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfU45vSf1tW9jVMY_04fT3JDiD7Ks5kjT8A15bHZraBCPntqKtiTiq8cD6uevTogs4NDh1mmfBrwsrvMFpMpnv-1bgipc8r8E5vgcFHerXPJprFE_yOvlHbYMoK1b8BtwpeiTO4b4uCG0H1kiAJBAZTEX1jI60cgwm4cIlON6Q6wn7h2IbfYWUK4hljP79Dx-gqLK2eFQEsJV2tyWLSg2Bx20wU8p1_s3laRuamP9uk8aZijF_CRnN7pqY1gV0zvwVWUmfxHnI4W3t5yfJdHZJR7xTxujcxhIkVR_wh_1s_LDodXl_uGwezJHCU6dX6scpxNmT_X_330HrROxIOlbP-VZSJSeHf38blZTXmbSCCkwP_IVlL2kx5PdoDFT-yX1LV-oEvhrl_7ADL8EXIXYsjDX1ak7ViMwPfYP4K4n6lwNK8b",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJL76Quc83yUwRMCukAM4COhM",
+    "plus_code": {
+      "compound_code": "CX2F+33 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX2F+33"
+    },
+    "rating": 4.5,
+    "reference": "ChIJL76Quc83yUwRMCukAM4COhM",
+    "reviews": [
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "We had a lovely visit at this unique historical building; nice expo that brought us back to the history. Clear arrow signs on the floor to show us the expo direction without running into each other. Cute little boutique at the entrance of the museum supporting local artisans. They also host “Les Seigneuriales,” of which all events are free with people dressed up like old times, combining a “farmers market” type of outdoor booths, quite interesting!",
+        "time": 1628473857,
+        "translated": false
+      },
+      {
+        "author_name": "Rob Parker",
+        "author_url": "https://www.google.com/maps/contrib/104213511237836985795/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKSRPWH6Hmh-gj9S99OKl2MMkx8irVIb5GbZrSMDTIT8tC8Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Didn't expect too much, the welcome was great and the exhibitions were clean and well organized. Not the most amount of items to look at, but a nice small museum of the local area. P",
+        "time": 1615891954,
+        "translated": false
+      },
+      {
+        "author_name": "J.C. Labelle",
+        "author_url": "https://www.google.com/maps/contrib/113072775974234281531/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6BQzsXyPsh-NrlUH7XH54oacP4G8atuNAc2JHc-H-aCU1bw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Really supports local artists and is a great accessible venue.They do great things with kids to introduce them to the arts.",
+        "time": 1573771397,
+        "translated": false
+      },
+      {
+        "author_name": "Cristina Roos",
+        "author_url": "https://www.google.com/maps/contrib/113677283410692116901/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSwhVbYAY8heuk0kQzoc75aMrEt8N-29ziPss7nyrFC8NLfP6-=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "A little gem and historic point. Such passionate people who work to keep this museum relevant and educational.",
+        "time": 1542891972,
+        "translated": false
+      },
+      {
+        "author_name": "Susan Hatt",
+        "author_url": "https://www.google.com/maps/contrib/108831880841583048551/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJj2mC5Le6EX4XkH3IV6I-uISumuL1idsIfEe78hUwroAH8wQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Needs to include English descriptions to exhibits, Quebec isn't only for French people.",
+        "time": 1615246123,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "museum",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "url": "https://maps.google.com/?cid=1385422919167126320",
+    "user_ratings_total": 91,
+    "utc_offset": -300,
+    "vicinity": "431 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://www.mrvs.qc.ca/"
+  }
+}

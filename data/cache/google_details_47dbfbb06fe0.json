@@ -1,0 +1,400 @@
+{
+  "query": "Solage Paquette, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340764.4023972,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1557",
+        "short_name": "1557",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Chicoine",
+        "short_name": "Rue Chicoine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1557 Rue Chicoine</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1557 Rue Chicoine, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(514) 909-7824",
+    "geometry": {
+      "location": {
+        "lat": 45.3652778,
+        "lng": -74.0367382
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3665011802915,
+          "lng": -74.03526636970848
+        },
+        "southwest": {
+          "lat": 45.3638032197085,
+          "lng": -74.0379643302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-909-7824",
+    "name": "Solage Paquette",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103114622875563974377\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfUSauq2gPjkKZSpB8Kefa5SvbF3CrUq61MygDgCjAuhHZPB18jg8zCHCtU-d5pVDE-chut1m0O27KnJxwuBSUMxTztZYy91WkGd5eL2hT3fzoUxG-ZZHoOd6yOVPVY5-fcQ30iPNok3rZyKATRoVDNgXohQp1nd34B_FJrqB0TLYXjYxqFBSVqi-8MnW1-Jw6x6A_Pl38Wedkt9lDTrdUBKwNa0dZ2EYOyeX6bOXt8uC6PKwoofbSubeC7czo-RbB51pM1OfEWYSAlj-WTMEwjF80br5P9F_QQ4BIHLMPkk5g",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812165230825252048\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfWU_1P4OabjBcGmK3RthQhKCRKsL1b6QkyouiMztWNpj7J7EtcOGWJNwOmFbwXpVPx-5dmvRIYyiItsxYfViJn7QVrptaxXXp-ac2btYKtlbg57Nkilgkccw-dBMh0jltQ4K96KTo2Vwaq56QbgKkZIEQiyYev0_9L8VQy5PPatlvUWE4as61PpheIrhYRV4mKiLuWW7yn1rENYSviL8ehOUISILhzwwH9n2SDmrWB00h7v66FuUzmCdMrbBaueibLZe0xm5rc3G9v37XPezoQ4j4YoUG2WrDLNajbNiaAgIA",
+        "width": 1536
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812165230825252048\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfXrLcgUEv8igpunOgknPVGyRCS5UgFv4C0pP4i3mR5m5k7GBt_kny__rG1GZFiofl9aR7Nt8lHd5RVxMRtFkP8G82yvXPvVjbPgOXp5-f91vNmNokuSK6WfJVmC10Bjfl2Rf7cz4rLxK4PFowX3LvDjT79jyzlNaO65alHFmxOPYpVsFxJXynxrBG-rzvxyOtQZ72IvpzD_KemO63ehRj-O1I1LMfHug-c9NVNfWQFFHg7dRagfQ73oiqroHM_1Fkc5zQUZBDVWQ1ZKXoniYRMjQrzeJUMb8zR6uJFe0m4NqQ",
+        "width": 4032
+      },
+      {
+        "height": 628,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812165230825252048\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfXtjoRXxmAcRdi_NWOeXD19y2NobaBKQWtfBH2WxGMzeIHSVVX62g6FXbkhNKZIPi_bBgqyqBZ91jpeHzMxX8bkhqXQGebaVTdKBq95aI1bKbfbTMzvifz04aF79bYp7Eg_WA_cfgrClyvNlJycP4TCGsFmiM-xXX7DV00dUueTG9Q0DUFiVMJweJ54IYDiz5QeBZHRappMFy1W01o33-ueI0k_jwlskVleA6WyZqaXhAor64YwC0_SS3Jb954Isc8H_5pQrgZiPGzTptetnBLR0v8HMPyz-XNRO46DZIuZXg",
+        "width": 1200
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812165230825252048\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfWTVWR5JCieF_0wmuid57I5WLp5XKTYBOrkbV3cSRdn3s4ydzmEZ_aioS9F_kTslI-cnXWMD3iu0h-ptIDqQSXhXTVBzDQYtA-viCdpFd4p4ML3-Bx-xxfl1PJDG_PPqE42Yw222-kQTuCh-HN0EoYqVwdP1-SXnzjon8S_EihmkoBAwTv4H2eyMSZBHOgjFCAXkoe5GCfYyXRhkehB2brJ3nZJTFIZkPZrZm57E_8yLVvTN9d_MWYlQpM7HSDlrHgx1vySyXbrPVxM3ToVn0bFj9Pv3ovwSpYwr1U0FHrRtw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812165230825252048\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfUR_Mh8VC7FONxWQsNkInfzb-jiUIq_EyG5MLQD7AjwBe74VikQvCgVhRINGVU2aVd5u9UoADJv5M-LaLPdcxYwDGjhvFyZ2a1AcTpu2dvf4s_Xg4QjWoaYjiYm6mlM3vp2QTaqdlujWW42KQmnsUkXnPrrR-rFoPCsiIF8NWhaVqhgucC8WZ8jSmH35sqqQSbDOkC_y0ikUIf_NufAywrfQ58P23AhaGeNjTQTDqOjip-EDY3Jz-MLO9EMd4jkBpdcW4NJoijXwORWp6_2Ej2FP8yyvy-83Rj9DbxaHdpNXg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812165230825252048\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfUu-_tm85IK-RBCcDheE6vxi_vSq9w3hVeqcQLecdPe4xS4eBzB-EouQRONRlJSLmUEM2Ta5ObQzitQEYocr_CnWTngqvV6V8mtjBmRghU58nl6KLYVeWeUCkQTa2TOlRxQ1eywRInBTJ1HVlyPXIbYe3JkDkIiZTd3J-sdsu9jHENN73L38jeuOhR5ireCQRKK4B9xwVabXhzNJCAnfedun5s6OSexz-JY8uw1vJJCzfSCPpXF7V07V1VLs3IPuri8OOh0cS5hXbQ-8x29yyXUH1WiX9cFQKasuNaWCrWx3w",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812165230825252048\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfVdg3M8bKg_y0uzwukvXZDqIIll_0tQQAvhNPXndFWj7bAdH2tarkcgBpKOMd4HmEK036x7mjfPWZYffApTmE6fVANG6PA9RQcfVy9F7GZsNBXyLHlr1gZIXo5vnm1pLwMpMj-VhobGTvH9q_RllgK5gvLHk1-JAku8kCC6THLpiw3wJWGqpn7syEPqgVO68t_ZfifBwle-ZxH2MSbfvDE6-fZCfAjXd3YgbwJV_m4db4SIryKLOhjc0RiBFzxpnsYOoVtvLPgfwNSF2BaNQPgp8KtKOvO-K3OfeNZj84iwSw",
+        "width": 4032
+      },
+      {
+        "height": 476,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812165230825252048\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfVFK5WwMTC6oB7qur8erEmQSWZyoKPVKbBLlIQb_YLyOIiMWC6LI6m1mOLldFp6Z5HcHGAPvwGNq-R4iJRE6PTljF1D5ZaQ0QYv2SbORg8ORVvlEcDB5AJfzgPeE0T0eTEQV2UoeJXtdpS0UltslncU3CBnICSKWlhGZ7oHhPto5a_P76eQoa8b_OFlcw-U2zaC43AgLIk9df22P4B-gJav3odLTyl-dwf6sSx7MSiR7w2kKTOEehNqICL-u0Jx_6qwMJw9f-RZQXyeBEhUZclzR9PMX9khTfqZ0rPHLEyj3A",
+        "width": 1290
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113812165230825252048\">Solage Paquette</a>"
+        ],
+        "photo_reference": "ATCDNfULRkmWjl0-Tij7vB40hjelWVMku9nIl62PrKqLCOcqt4xUofOgNyg5kZZP8is6XVtAwpMkeAiOjcjaPiRCldJWqJLq7xjlrvthZ1F3rGL33Jre8t66tc03LsnTfLs9ZKrZlnG5zSSP4P16IzuhZOS8hyJ3Pyxy-QSMKHWXl4rw8Gj2-qv2WCd7AfqeQ7DIPsQqekfx6gWBs2-CYxqZ4rOzQlXCnqIqZtsFFMrk0OHLxrBopTGFs4tK8xC9Dw87Gcj3PHJY-_8x4fmSC_vD0_nPNeiHSmloHIkjKV96uL8l5w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5wsyuDtGyUwR79TwOCufZE0",
+    "plus_code": {
+      "compound_code": "9X87+48 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79X87+48"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ5wsyuDtGyUwR79TwOCufZE0",
+    "reviews": [
+      {
+        "author_name": "Rick Pelle",
+        "author_url": "https://www.google.com/maps/contrib/108314922261143988175/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzGsqs_90NKz0ztIDKXqR94JZSH1ztVeqWh0VZLfIGF-t8_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Professionals that you can trust with your home!",
+        "time": 1745008766,
+        "translated": false
+      },
+      {
+        "author_name": "Roger Tempesta",
+        "author_url": "https://www.google.com/maps/contrib/108332312432637628506/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK44sXWT8s_Vevsk_WtqCX7-AQpmvNXyN9xrJjOQb98t6WoAQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "8 years ago",
+        "text": "You never want them doing construction work next to your house.  Bad news.",
+        "time": 1510067036,
+        "translated": false
+      },
+      {
+        "author_name": "Daniel Gauthier",
+        "author_url": "https://www.google.com/maps/contrib/104810728110579903672/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGmSg86J1ELELdb7aoa5xUSmjwjU-cCwmkJJoPmZnmG04_qngCjA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Yak",
+        "time": 1574149750,
+        "translated": false
+      },
+      {
+        "author_name": "Gabriella B",
+        "author_url": "https://www.google.com/maps/contrib/102932638043826579956/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-C_B0ONjskOKYDmyGBvVpRe2INWfBXOrbsI6r3A1mtjBztx8R=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "We are very satisfied with the work carried out at our home to repair a crack and also with the camera inspection of the French drain. Thank you to the entire team and the friendly owner! The quality of the work and the warranty allow us to sleep soundly at night 😁.\n\nI highly recommend them!",
+        "time": 1715816584,
+        "translated": true
+      },
+      {
+        "author_name": "Jonathan Bouchard",
+        "author_url": "https://www.google.com/maps/contrib/109819427498336258230/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr1WW7m4jXWUS-Uxj5vexPy5VvAv2aOtVpjWaxYY-Sa-imltcQHQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 years ago",
+        "text": "Excellent service. Meticulous work at a competitive price. I hired Solage Paquette to install a French drain, waterproof, and repair cracks in our home's foundation. Mr. Paquette and his team delivered work that exceeded expectations. I highly recommend them!",
+        "time": 1441115510,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=5576757246579234031",
+    "user_ratings_total": 23,
+    "utc_offset": -300,
+    "vicinity": "1557 Rue Chicoine, Vaudreuil-Dorion",
+    "website": "http://solagepaquette.com/"
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "query": "Maisons Rubix Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339460.4389777,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "885",
+        "short_name": "885",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Montée Labossière",
+        "short_name": "Mnt Labossière",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J8",
+        "short_name": "J7V 4J8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">885 Mnt Labossière</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "885 Mnt Labossière, Vaudreuil-Dorion, QC J7V 4J8, Canada",
+    "formatted_phone_number": "(450) 424-6050",
+    "geometry": {
+      "location": {
+        "lat": 45.3920809,
+        "lng": -74.0743583
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3933079802915,
+          "lng": -74.07287761970849
+        },
+        "southwest": {
+          "lat": 45.3906100197085,
+          "lng": -74.07557558029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-6050",
+    "name": "Maisons Rubix Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100595664047360840479\">Maisons Rubix</a>"
+        ],
+        "photo_reference": "ATCDNfWmpFy84kAj_TjyFlsBRXKvXnpIxpOFXL1iRVkME4VF4O8b-dCyfVtPW56sF-AyI8pZC8DTe-hMOogby54MGgOuBEofZMQtWohzvWzQMST93e1jeOplsHAhKSJAuRGTIdLvUEP4ry2ueJh4RFnDYxVr5sCdVzDJfv2KmXRX8YIauuIKlSUEpNqhqM92RMml-4uddgtkbHBgzVAkSWfREzIMo1CVgFbhgMy_CkQrhFmScSVr35euNIgsYdzhQij_yVYnDKzA9k62dRK7UFNEam75UnvUG7rtK4VG6Hd9Iy7RAw",
+        "width": 2075
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100595664047360840479\">Maisons Rubix</a>"
+        ],
+        "photo_reference": "ATCDNfW9-sV752tLVieey2cHoSI5dnAnn9mCPF_5axJZEG50SWwKcXnBIXP_D678CisL4QUWUiSF8ZD8DZcr55NAWBUQhTXOdjLVjhT3MqHyhgN74qc1oTyb6iZq4eiFtTlr-JHTbzEYH0Ej2QOwnA8b7qc0VcOnAboUOvjmlHDpJiA0CdQ0xmr3aE1yZbLkJobPh9eCJbGO_sLQSn7dR69-m4OI9B7QoZ4azP0QC2iYSwwE35WiXKHCyVR2PFOdc1JQwIBsxGITVSFF4cp0LhS1DFD9jyfs6fLSfsRkjoONk5K6vg",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJl0KG_-BJyUwRRFTjDQ4CPjY",
+    "plus_code": {
+      "compound_code": "9WRG+R7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WRG+R7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJl0KG_-BJyUwRRFTjDQ4CPjY",
+    "reviews": [
+      {
+        "author_name": "Lino DeFacendis",
+        "author_url": "https://www.google.com/maps/contrib/109740769132125971095/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV5Hu-mSNrqEIZ4PJk0d-nL1DcJoruRUlOpuWTEwbIlg009BF4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Honest and trustworthy builder, great quality, service and price!",
+        "time": 1555958548,
+        "translated": false
+      },
+      {
+        "author_name": "Mike Oleskewycz",
+        "author_url": "https://www.google.com/maps/contrib/104702995285965930069/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0ZtIXDQpmHPjTm2SKq6Dh5OnjbB5fPNHTIFnW9vMY2ymMEQ8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Amazing work for my custom wardrobe unit.",
+        "time": 1551276387,
+        "translated": false
+      },
+      {
+        "author_name": "bryan doonan",
+        "author_url": "https://www.google.com/maps/contrib/105467503681329142828/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwvBmN0q-VPeSzVYbkgxIa-VuM346inqdQCpkQOsmOteuBuUhM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Choice homes",
+        "time": 1582649555,
+        "translated": true
+      },
+      {
+        "author_name": "Sylvain Guillemette",
+        "author_url": "https://www.google.com/maps/contrib/101053273328395135958/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0dqbF2UiEE4gUGDSeo0fB0YGnmBuQes4Uydnh3toxZ9PGUQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1600822641,
+        "translated": false
+      },
+      {
+        "author_name": "Julia Wang",
+        "author_url": "https://www.google.com/maps/contrib/106512820966971570514/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzgZuX11mLeXEOQFTn-8H6M-jPuAVlXOqNndz-hhEqE1BPWcGi=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1588338572,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=3908563785989968964",
+    "user_ratings_total": 10,
+    "utc_offset": -300,
+    "vicinity": "885 Mnt Labossière, Vaudreuil-Dorion",
+    "website": "http://www.maisonsrubix.com/"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "query": "Smart Lifts, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340254.4297512,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3825",
+        "short_name": "3825",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue F.-X.-Tessier",
+        "short_name": "Rue F.-X.-Tessier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3825 Rue F.-X.-Tessier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3825 Rue F.-X.-Tessier, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(438) 508-4037",
+    "geometry": {
+      "location": {
+        "lat": 45.4100364,
+        "lng": -74.0585151
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4111707302915,
+          "lng": -74.0569505197085
+        },
+        "southwest": {
+          "lat": 45.4084727697085,
+          "lng": -74.0596484802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 438-508-4037",
+    "name": "Smart Lifts",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1729,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113184440122572328851\">Smart Lifts</a>"
+        ],
+        "photo_reference": "ATCDNfU3f4Fkb6f8MGTIQBYpIbOjscra3vHDrTUWcPBGhx-lLdoDRKeSGWW3FfX385PmtzTyf4ZeGw2NLRqQKcEzf1IwXsD67gJv6gMXdvWi9utJ9dXknZ-GDb4Ydy8t3fGS8ReNBXuZmGyPuyRXCOpjSXsjOlbdpPKjhVUetofclpoXz_Ruk1UuR8Rei1eBecCIFgjruS5p5hSWfw8c-KjN_tLtsroFNQkRp2G6Y_WXmyjLn8x0E8alH3yXLNOUAsz6eO5SQ7GLHny26867bLwb_jTUVXvM_6MGnySdWee22ZpBVw",
+        "width": 3481
+      }
+    ],
+    "place_id": "ChIJLRv0CwM3yUwRwR13TNXXuso",
+    "plus_code": {
+      "compound_code": "CW6R+2H Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW6R+2H"
+    },
+    "reference": "ChIJLRv0CwM3yUwRwR13TNXXuso",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14608225652440505793",
+    "utc_offset": -300,
+    "vicinity": "3825 Rue F.-X.-Tessier, Vaudreuil-Dorion",
+    "website": "https://smartlifts.ca/"
+  }
+}

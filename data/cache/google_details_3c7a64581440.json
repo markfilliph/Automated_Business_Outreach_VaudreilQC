@@ -1,0 +1,424 @@
+{
+  "query": "Massawa Auto Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338271.875913,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "607",
+        "short_name": "607",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Chicoine",
+        "short_name": "Rue Chicoine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9J3",
+        "short_name": "J7V 9J3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">607 Rue Chicoine</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9J3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "607 Rue Chicoine, Vaudreuil-Dorion, QC J7V 9J3, Canada",
+    "formatted_phone_number": "(514) 296-0653",
+    "geometry": {
+      "location": {
+        "lat": 45.3752647,
+        "lng": -74.02588759999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37658458029149,
+          "lng": -74.0245130197085
+        },
+        "southwest": {
+          "lat": 45.37388661970849,
+          "lng": -74.0272109802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-296-0653",
+    "name": "Massawa Auto Inc",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100409904259950049161\">Salahadin Idris</a>"
+        ],
+        "photo_reference": "ATCDNfXtahmlvyT8SzXleUvFQNwoP4rX7LJrmMyxRp-rbfCfB9Fl2plaSPFVddsoCWP4xjpwrwJPn90zW6rbywr-wI4QgXMTau-bq3vPbkhIfxvGznEqS8K532E7OV3lyvdNfKtuYpOhx8TWD3pRgEXzG3fGnv5VB-UvbIVDkzN7XIgIUqB0NSinx7aJG06EdBRxOXR71afwYdUdVm7Qq6AeVDUwU4VI_De5i_3V-x9DK66E1T5IcBrHyA6Wu-0763i9lGG_T_Ce1fUh1ezAGuyOWxHI4VAOEBQ_m2RWPEOO4AmuwWEPz7FHPv2bDiJqFNy3piK0S1Li3jrenQVCKStZ-NM86AzqB3soS0EmOBISUaDOSpcDbNzei7SjuxjRjAY18uGo68nBG49xuSYlcFt2YiPx61lNTMvuOAybz8pq76ebubE",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116437233652954180405\">D4ER</a>"
+        ],
+        "photo_reference": "ATCDNfXRq4WNaoDMOQ852gT3Jzu6ueMPIzcGqT_IVn2YT7MplVpVLXyXhfYSPNlHC9x9eg2BAPklO-A7yaWqjIdDUmkf2H6Uqcj6IPWuq1U5XCZXK2m4IMCvnHoRrRoAZYRo0C-lXaPlOyqVKRFf_WckAIF3etgBrAA4a5pwMxAdGqHm4UF1_k5BGwq530os7tYxJ8vsWW3c7j91hy5UbzNWWSqpmPqqLy69IGh6YmNiyfGv0jpt2gCDpD0TLc4kmfsLEFzsIgwRzAiprRPhieZgJlj9drovLUVl_5FMSvOz1sxmD_wMJtZAapVt4hfY8aiOziW5YGAL28bAVazWfM8E0UdsFAiqSBKvokeJDqcR_XBgOAMEtQu1yQ56tXMRcSEvHJ5GbDS-1k_7WlBUEuIPQuK09ZJQdHaHLuL9RE2ZTw5heA",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118140226601985256756\">salahadin mohammad</a>"
+        ],
+        "photo_reference": "ATCDNfVwv9l7i6MjxsoIfsCgDXz1spXcBp2S8cHv0UN2PKD_s9-nBGaMGTMqmULt7cHH34cnr3uye8vvEf9xGHbhGDdARyR8ye1y9Z58O7nDBl_4_5cgwEzn-I5iwStSY5c7wN2jlLRkDBiPnFVi2pCnmT4hKriy-T9vTnCqWuQQa6lg0J7k8JOCktEMBwlO1h2EEojuoYSLAh6jFbdHfdI49_uY_fGNqm0iO8oVl4tgv8b8S7Ai5gkQMy5fxMGeWa2r3G-rOzNKgcT0R7eEAvBGIWuUJl-ZOou0BEERftxFTTrAbD9p_TEpkJ-xSTzQfurk3mjpIglL-yJNgAyzRVWlH9Tk0d5KqQZYRGW9nBYp_VsfHD5yXpQ7eWQJLKHW_XuDURpG2XQD-PT4rZ0uaNFyYo36_mhZqwRo-875KBe_qOfTDA",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116437233652954180405\">D4ER</a>"
+        ],
+        "photo_reference": "ATCDNfXS2c4hcJIwgiUOwGY2g3WGxPYETlSgetUPzs30gVNOcvkI6THsGAzFepjJZobEbgSBbUFbyhS-hW1bRqTvI1V7flt0nRIO8c8qE1LbUY5Tlyad-d8k9GmKbF4Bn68k1VXvS1BrdXJJwso23v4kTMxKnS-XhoMiJak4tqyUUDXrVmUfpMGQAqNcs2BBGbX-7PgH_8v725fkpIdbeYn6NCSs8v85VUKmVaTRQuM_oOO46ONLIZGUKNVfuEtgIdln05dTTAb4Ju9VUHNYMpT8bqMum3JiI9K0BpxDK7oJ9J9KNSadW8hUrflhNcFcl6NhxlFAbRPFsBtNKxVJoujr9U4qJizr9eRMBYwR82jDNgOBwxvgGRzcY4jZ7KSQ0t-GzP7m-vd1_lPvwpqhYU4A0uEQaewccQpWNenKgFyBjOQmhPlp6B57OG5AZk4G9Nfw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116437233652954180405\">D4ER</a>"
+        ],
+        "photo_reference": "ATCDNfUR2GUSCkIMaN12XaCmi18Cphzr1YwoN1fZudNvOsYT4vmDQdNV-6OXGW2KWmMYyDoRmxUi8s9X3dLUs9r69em7kOr-ngcUYjaCEgylPHjusUGG-s0GWEjn2rP_upjnOecfQz-EubSXWQ2c3y3myzzyp0GGdDzIXv3gK6UwhwE7QiKL0ELTM1chUTn7bvQc_NKKcj3wES5Hf5zCwrRu3ffEjWMRx9V9xcFd2xFx96EJiOqT5qJ1lQp8o9ydMmAr5RW9p2N9b2LIlttPNU27s27s7Tw-o1l1VlJMS4cVU2m24-qd2XhAvQYZmn_T6amjwUyHA78rTZewKAfonVaDvHOFTkaKg5msDjsEA6InqNy9J25N7Bz_s1i2_gaAmobdWM3DqHO_1LgVYzama6Q_N4QXb4YTuq64dUJlBr67QN6ku54HqtLDaTIj0q1h2cxd",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116437233652954180405\">D4ER</a>"
+        ],
+        "photo_reference": "ATCDNfXQ8B3RmD3yYJgUX94qOLC3fynCfQapLIp_uKsEMaPbyEAX5wujojxCE0Z8VKN1T86KUcxeKWMwSOvXvKPoGeOl2CaidKRT29GxHUAwky_05h_CSm0iezd8du5-wN6W8dedvkJDFIhM_XwadVtpEw1K9droB0GV0inN1i5zBolrHSK49G_JiqRL4LjetzxkQBu9jrorT8QdHG9zztZjW50Lam94sDDxXUPo7yGi8J8r6pdeY7xU0bTx-hNVOGn77MDziCrY4ull5oqQF4njQepPlMyl4QORlE07EGY_YAnaC9hTJiW87ngvhIDsZtDkZ3FfkffeS_4KPil22UQl0kHNmKHY6RqKtdhuz2QlFjpScjGZbHzHVGZCbXfJR6YlNlAUNAhOunqNgc7Rth8HqQEIRHNG_1H9qEiZHYuzBbBeK2_FeQM5S-WeCH4K8G-z",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116437233652954180405\">D4ER</a>"
+        ],
+        "photo_reference": "ATCDNfURUSQiRRHqWOiflj4c5isytaHt_fs3_B8bcDfiqTsXwK-oXSHKFgivN4j0kngKdr0rDVmVk_bDDmvpFq2Zk6peHIPU5TTyVeMku37yj7Pm4bcFBYoIaov_zE8rpR851YjHL_7Se4vBXnMr6lmEXAZTpEjTgoqwh23DjuDqqVW3sTb6p3uFfHwTk8aGsZJS89AU-ypdCb-6a1SuDdEI_CWAhr7uEeZtLHJa1q18-4KvQooDAjzS9VTrJHftEa2xDiKNYaREg04FYr9lOGJyR9oqSsGQb2wNrEwhysAeC7ivclRH1JxUeYJ-KKq0wS4c2kx6wKj1MCsRCYtMAe_M04UH-fDq5GoR1MQK9CHErSlfdn3G_e8clSs08cfrzM5VA0pVI68bElxi5ftIMANDOKFyqxEgQCuuhkzzXUaKnaeC-kZiiptmoSMm8YXFwjk-",
+        "width": 3600
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118140226601985256756\">salahadin mohammad</a>"
+        ],
+        "photo_reference": "ATCDNfX9gXJhUHpRUx2v91gBoTAV6OsMOMNwcCTs7cQR-27mE5FblK8yObveHStc66NyrBjAJ-wRnZRD4Xv6PRTRj48ChWfaZp9Q9YKhqla7JY4vBiHB9e6-GYXQ79PxsIoI9QX8mOaOtzmUCnN0jyt-819fvf_EXyJIPsPLpsuj1xnXDfLdrjJKNWBbULdcc8ZqV7y8g9UYNK740_L9pCWW6w2bxYv5YDM7p5591754kmav5ncxRRdfKGlHKpCE1lsJUiBak-H33-Ila_EnBFERXyNdxpXtvWskFYAfk8k7DPNizqvvdzH6Di5iReTVQQ3Gbc79IiGlaUypbkabsfjV4n2ks8EzSVnbCLq71B1kexzH47SrTYMjMJ-KquVQ8ukFTc1OCG4D1vGUt2si2kTvvM6vYwNyRX1l33E0tk3p5SvsCw",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116437233652954180405\">D4ER</a>"
+        ],
+        "photo_reference": "ATCDNfVS2xH77iXBLcjmfa4dKPiJtS92qYOhYJQgZx6l-zZ21ovz1mm03RK7BXaPYNePormJn98qT6btc9e97VUSkW7IhkpgIjHlgSvs0s36y-4QUXyUZ46uhPq-d0fGllS_gtMjmqXupT2-XWbqGfkJQNTHrl_N8yYYP8yaLaPf7Wfb8XcYJZ80-mRcyHDY3ULK4EhMagaI3s6hVQXQKdmv7_xh3NqvzkX3wq3ePJm2sta04YKOdCnnasvmQ3BwZi_FrLyyxPKn7x8sxwOnjq3EOYt3EdYCssjyBEP6UwuDHuzDs3V5Zhy3AEaKKwt979t6dP80O4fzUZ2beg7GVdYlIy2jh80UsybTG94PizO0cPYhar87qCtu8fz-FFL7Dq4StsuR0DAh-xKRDS5hKyV_XdXpxtKRcoLwna5nM3T_lur9aOG8",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116437233652954180405\">D4ER</a>"
+        ],
+        "photo_reference": "ATCDNfWaT8kn0Z-9jM5EhsThC3b9sYb36UfTU8HpJRk145CuEWZ_oq3mQpZjzzsE2nehtSBcg3semLbmoYeKHbIHVNj4OV49nluPwZmdQCxH2AphnwPQmHA63Iuyz0ZCtbqvTvdz5FILQpVnF5X2J-ob9GYI-3lrBwqoSoJt8jX9vdpZPqkI_fLAMpOpgwSqA_DN1kk1fVlX0mHOjiyBm5lxPGvQ2hWL6-KhbtgEWn-BPUReak4clXSGsUgxW0ArxDXmdBom8i8EGNmxYmISbUFrgbqpR10iFqJu-uD84sKh6DErRzPJ42nEX606ahF4C3sfusRCLb9BoPr_HDdNKnk63Vz7h9nczE9TvGTzf3pgvBRlSdgVPr2ZB8kB3naEv6cfw3a0f65_qGWk1rKBrZuNFx1VTgCRAgDTNEvfopFDEhKkW43DYB7GJSDnC5irJQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJAXE24cpJyUwRhi3prsSfHsk",
+    "plus_code": {
+      "compound_code": "9XGF+4J Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XGF+4J"
+    },
+    "rating": 4.1,
+    "reference": "ChIJAXE24cpJyUwRhi3prsSfHsk",
+    "reviews": [
+      {
+        "author_name": "Johnathan T",
+        "author_url": "https://www.google.com/maps/contrib/109579390435531936944/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe78GZYVX1aHEqrzEQIOuXbkCRT1l1Ncut_i5HYQ7g-yV0ng=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I had a great experience with Massawa Auto. The team is professional, honest, and really takes the time to explain everything clearly. They made the process smooth and stress-free, and I left feeling confident about my car. Highly recommend them for anyone looking for reliable auto service!",
+        "time": 1759249015,
+        "translated": false
+      },
+      {
+        "author_name": "Connor",
+        "author_url": "https://www.google.com/maps/contrib/111677604632457554235/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz0jZ993sGq_nZZK99o_EeMu3vH17DYKpaFuhMCHGxjLBmeEM=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "Go get the car inspected at another garage, not the garage at the dealer. car was perfect until I brought to my garage and put it on the lift and rockers were finished. whole bottom of the car was rotten. they asked my why I’m not buying it when they know why. Don’t buy from them. waited 1 hour to get my deposit back.",
+        "time": 1755714615,
+        "translated": false
+      },
+      {
+        "author_name": "BlurrTrades",
+        "author_url": "https://www.google.com/maps/contrib/117756970376423631860/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVnWBAz_5pdMmpiAcz9F_N4PJYC9lzW2IaszZ8UxOwGWs0Xg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Very friendly and professional. Bought my car from them and it’s great",
+        "time": 1759637973,
+        "translated": false
+      },
+      {
+        "author_name": "Ratty",
+        "author_url": "https://www.google.com/maps/contrib/113716458515356396437/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPOM4Z8JaosJGc7nuaWKVNcNQnUVDw2ddwwh4jOkogPjf4Zmiv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "best dealer, i got my dream car, he was so helpful and nice\ndef recommend honestly\nyou’ll never find a better dealer any where else",
+        "time": 1754493784,
+        "translated": false
+      },
+      {
+        "author_name": "Ramil Tangco",
+        "author_url": "https://www.google.com/maps/contrib/106337191350658362711/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjwzv8QE0KNT9L8mtWhDHOQN0QVVD0dEDzdzRnI-k424WjRnyu=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "Informed salesperson I would not be moving forward with purchasing one of his vehicles and this clown decided to berate me. Arrogant and entitled!",
+        "time": 1750442762,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=14492196318021758342",
+    "user_ratings_total": 23,
+    "utc_offset": -300,
+    "vicinity": "607 Rue Chicoine, Vaudreuil-Dorion",
+    "website": "http://massawaauto.ca/"
+  }
+}

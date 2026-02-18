@@ -1,0 +1,392 @@
+{
+  "query": "Condo, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338149.6602645,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1400",
+        "short_name": "1400",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Émile-Bouchard",
+        "short_name": "Rue Émile-Bouchard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3R9",
+        "short_name": "J7V 3R9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1400 Rue Émile-Bouchard</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3R9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1400 Rue Émile-Bouchard, Vaudreuil-Dorion, QC J7V 3R9, Canada",
+    "formatted_phone_number": "(438) 812-3063",
+    "geometry": {
+      "location": {
+        "lat": 45.3955378,
+        "lng": -74.0519888
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3968834802915,
+          "lng": -74.0506844197085
+        },
+        "southwest": {
+          "lat": 45.3941855197085,
+          "lng": -74.05338238029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 438-812-3063",
+    "name": "Condos locatifs CARA - Plan A",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfWxOPBfXoGTGvNtk7hyzFJyWacj-t7DlI64BjNDQ5a4uRqZGpeTX8sVkVgSdI54s7OPp3sFHw3SurgxBTntVxtle0S1oKEYg8CS42-BtR9Ie8Y_mu2AoVGhZViWbMoxoJaXt9X2KuVHqhWix5fF3kBDYy_b1XO2ueA2zzpdqL8v_qUqw0O_VwqJYnZsPHWuq-CYmSKUt10UeERPYhJiM1zTqr0U3cvAMzJMvZueMRP5fE-EgXwoJ-TrLHWNd3X-058eDs4KRpf05soz0iuEEYoWfM2ILH7Wris0NsDK0t58Tw",
+        "width": 4800
+      },
+      {
+        "height": 1246,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfV5HN639Gea29bGt1FPHFkJ6Vniojs9BB_q3AWdqztISKefnIA2-0Tp8Yz7NuCa5oQth8MrX269EMR-aozDmu4tpORVuZbo8gOSp05VwtsE_euKUZUnLJaUx0TvR94BRik0kRlWocVi5zs7KOdhHZjtBZjVMczdND-NuVyKctsR01uUZfDsfAmF-0EUNOclI4McoT7mU7UV5_rOvsNWPIhKCuFtMEf_lkEnp_czDuoWoVFDVj-qIy4H0qzBaQb6YpcJmhatz1vGXZi0AdePwRbUcRUJ5ypxvtcGK8ag6QiJrQ",
+        "width": 2067
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfWnR1weQ-IWgFguXIbv84vFigEWXlZP_jc52vSf84Bben2NaYXYNr2adEyBZ0SM-HvHJLOoXpNg6WTah9D4b7RWc-BzitrISNDpOaLHjErJN-ht2exuJftGDh0k4sIGA1mcCxknSZVBs_8LOr4x3Brg7oLNVhBoYUQ_33btsdiGfjXFLgIvOE_8YSFSLTlH-vtEwhIfpCqiag0d3uIbVZm_kP7iTxAQHVF5DcCu86gwImgLWXqry-Aysq2VYzOdjeJp-zGuI3rJQSNhpphmABbOUkDNCt-lHKkhnw_Js5lgvw",
+        "width": 4800
+      },
+      {
+        "height": 1160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfVo_-qFdih2D5lbAqo2jWVrJv7rAwH8o8L0n7kmElft1mha9H6QUg7PTPKOVos4LSPO7H7wRhK_0Edcwg-xXRVIWHAIhH5tCcoLRpbkRhQntduUt9_TVpTEqkQ2dUpXhXhPo0DVl3eMgqi9mSbb2-iZ5YVybeQ419QpoIWInA0SDpYFGutwEmIdRPnL9-BnMuwiyPj0hmmk8OUx8d9t5jxfceWg977kepXrvG2M0tQ_cvzhxzNff7Ky85GgknIm7rbf9dvUZWxXmCAlQaG-dpqNTWvI4SmXekfEeu-irnIROA",
+        "width": 2061
+      },
+      {
+        "height": 2869,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfXHk-iHQi8aTbSsjltP_5VOXX7bEAeHy6AeXn-qpbkzvW9wjNslqJmiP3q1m-K1RHrd4xK897iXZvgsxrkp8NWiRXspSdQlUC8Xf3ZnwvLFMgeBf0A3lx5RcUwvY2Xk0GHB40YKZF1unG54ePGtxXWYEhj4gum6ClGXmPSZ8309JNCMtL0Q2qOknSP902wowYMG_GL8_qdkCenJLBN64sgnT2MzEgUrZnaQwolf75FgFo8yZ54Pdii6rGnurbbiOsIx2Y6_kzE9gwixITqGhG3IJ6az5Sp5aW2ajcFUCN1L0w",
+        "width": 4435
+      },
+      {
+        "height": 2699,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfULxkexz6Nr3Vj3NY0rpuhkjE-lt7hn1mo7xC7X5D6RkDJI7KTXMedJ--HmUYRmRL7mnBi6N_ydXmF_fO1U8T94x0nramEkoSoiguX89J1Fm5QE24wTXAjg-Lx6ErYMlFB19TQgQLAv30vUNXMhuv7SgOig08w0IUutxUw2uTcavDE9x2kttfsvrkD3YKGYPrRuQwdulgcPRG1n5gTxXtuRdxP8pISEoE4afehP3-_MgIvUJoON7hTQQInd8f9x2pqcITb6WY8XyYJDlkEV0WokvfcfOuVaSAW4WX7HlgABgA",
+        "width": 4800
+      },
+      {
+        "height": 1458,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfUTwGkPmGDxkKEW1fZJm73m5Tb3UyX6aBzIKdMZQ7m4-u78yDgTj8pyGvJNUmS-IBUpMpWXKC-RxATwx1LFJLlQ1N5OWrsKKV-nZTUg1nQoGMzpapqrCzJhggzRIHqjYVyLNL7lfS9YP_kP7W6-UzQUzqhyNQ92YjtNyKlbWjNMy182__2hpPUlMbf4TFRvFgu-J6xD5JNH7bEQs_FawYS2x11cZtYEOomzorJomGQZ1y4C6X-aFJIQdyPQXLYpwR9EokHnWmezm2VyCj24h-gLcnNsK2OvkUXLjoihsxuoIA",
+        "width": 2560
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfVAA_FJ8BeKyG-Ath-4eerHjk4eBwQyNP0eTPED7Lfojd9c7p5I1hVEgiLH0hWyrHgHn6uF3asMBLFCMbVVnR3fLaVOtoeley1ydLH-ix3pRcPprSs1KIZbbuPiOr99xMflSshSZ6EwyYzvNyXRsqcuIliyPXSa6g3YUHle_Tm888d1zak7-0PvducX-sCVPLZ3wmujLexbOTARGZ6C2EMBrkOoo0OjjXfvA7gEc1pB0alX4pYT3vkMx1SSApgG4dOuhJ0csHsNcCQ-wq9OWTtedYLBZEpqLg9G5R4S3aG4Lw",
+        "width": 4800
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfUIalFekj9Hg6wvy7OxtCeU_GJpiS_0Ip8UiMRZS73k5TxNWLxSk2mxVzbrpNWefQWJMTgc-ddtRuYtO71qFGox23wT97-6_F39JlAJ6RE7ZMACxRqbcTKsEcrpVlcwIR7-FavEOfoxpUT43ZjYBvQg6Fhea2PqvjMOiZ40ouP8vQW3kbvj7D_GzSn7LtDcN4AcWjpbzMr4NPx70k_KlgT6i5QrrVSLhf5nmoiVN_Hp_WI1eSDrKiYTPrFd_7DLD4JSNOu5SE5HcqKuci-rLcHorSbc94l-ZQfXmjCRRrcZDg",
+        "width": 4800
+      },
+      {
+        "height": 2699,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107673565612826037818\">Condos locatifs CARA - Plan A</a>"
+        ],
+        "photo_reference": "ATCDNfUNFZP5HWvJezi3j9vb3inhtQdbOk3JzXROiLWCagfOMf6yf2EOPiR9N_xRmrKDl76yfwdfoDsVu_DBOYZ9cIJNKmmadmFC2oF4xc0q8GbLs6rN0vW-J9uCLtGqPxrMX0YEwX-kiu88B5ypF9xNlPx6oT-snmU1BashgIz5UHSiee1Mw-uYeaJxlTjl3jNMcQIXLfk_PK5KYaUu1QDJJap2Jq8S21RV-ZcxQs320Ax-pWWH9qlr3NJTFCHKL4pTLkbP_HoTgEc2-HUfyf3jXUlnq5D48qG5ddFKNIb8-trFfw",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJxQQtBPA3yUwR_4StxWqEsuw",
+    "plus_code": {
+      "compound_code": "9WWX+66 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWX+66"
+    },
+    "rating": 4.7,
+    "reference": "ChIJxQQtBPA3yUwR_4StxWqEsuw",
+    "reviews": [
+      {
+        "author_name": "Lorraine Comolli",
+        "author_url": "https://www.google.com/maps/contrib/115903465646468824848/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaL9-Rf7d6EIn-ZMGkL4vKkaVo2E7KaaJID_Wv450rMwij427X=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "We are both very much pleased with our apartment..Being one of the first couples to sign up we were really looking forward to the move as only saw the plans on the brochure and on screen in sales office in the early stages of the building of Cara.\nThe staff from our sales rep Cynthia to management are\nProfessional and very helpful. Valet is also working very well\nWith great security in the building, plus reaching maintenance with a problem is solved immediately .\nHowever\nWe are now heading into August and the landscaping is not\nDone it seems to be taking forever…\nIf you want to attract clients work on the entrance\nLooking forward to the future and all that will be coming.\nLorraine and Norm",
+        "time": 1753444920,
+        "translated": false
+      },
+      {
+        "author_name": "Jacqulyn Hasting",
+        "author_url": "https://www.google.com/maps/contrib/108133613414775301558/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLt1e03-AkZ7rID_Q_sYbZmVi9AEpc3p9M6gDtZrAvLTbnCVg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I love the ambiance, the condos are of excellent construction, and the building is immaculate. Common areas are welcoming and always clean. The management team is competent and helpful.",
+        "time": 1754457309,
+        "translated": false
+      },
+      {
+        "author_name": "Anum Randhawa",
+        "author_url": "https://www.google.com/maps/contrib/117601899257107811714/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlvGwNsPhbIxPL_4_NjvsF4w5GQinHq9nO569h7AwzkkjFnQti=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "This place is amazing. I moved on 1st march and the management has been nothing but AMAZING.\nVery helpful, very quick to resolve issues. The app is easy to use and very helpful. Amazing service so far.\nAll amenities are in walking distance.\nHighly recommended 👌 👍 👏",
+        "time": 1748637967,
+        "translated": false
+      },
+      {
+        "author_name": "Brandon Ford",
+        "author_url": "https://www.google.com/maps/contrib/105927068800583484822/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINzrZxKU62xbUbnVhXfLYvzUgmRbTq_VCo_fWP-V-yitPqEA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "When I've needed things fixed, the property management has been fairly responsive. Excellent value for the money.",
+        "time": 1754375682,
+        "translated": false
+      },
+      {
+        "author_name": "Marion Hunter",
+        "author_url": "https://www.google.com/maps/contrib/108214315069198008580/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7iEHFrCM39iDzRS7MlUdJQuudFg4e6UKwIj-5SH915xaGsA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Having lived in a few different buildings, I must say that this one is particularly clean. The elevators, hallways, and entrance are always clean and tidy.",
+        "time": 1751866290,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17055840332923372799",
+    "user_ratings_total": 28,
+    "utc_offset": -300,
+    "vicinity": "1400 Rue Émile-Bouchard, Vaudreuil-Dorion",
+    "website": "https://www.condoscara.com/"
+  }
+}

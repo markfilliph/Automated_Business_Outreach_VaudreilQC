@@ -1,0 +1,452 @@
+{
+  "query": "Ben & Florentine, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340171.937254,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "48",
+        "short_name": "48",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">48 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 3:00 PM",
+        "Tuesday: 6:00 AM – 3:00 PM",
+        "Wednesday: 6:00 AM – 3:00 PM",
+        "Thursday: 6:00 AM – 3:00 PM",
+        "Friday: 6:00 AM – 3:00 PM",
+        "Saturday: 6:00 AM – 3:00 PM",
+        "Sunday: 7:00 AM – 3:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Hearty fare from Benedicts to burgers in a comfy outpost with a children's menu."
+    },
+    "formatted_address": "48 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 455-3033",
+    "geometry": {
+      "location": {
+        "lat": 45.408538,
+        "lng": -74.03887399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4098227802915,
+          "lng": -74.0374043697085
+        },
+        "southwest": {
+          "lat": 45.4071248197085,
+          "lng": -74.0401023302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-455-3033",
+    "name": "Ben & Florentine",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 3:00 PM",
+        "Tuesday: 6:00 AM – 3:00 PM",
+        "Wednesday: 6:00 AM – 3:00 PM",
+        "Thursday: 6:00 AM – 3:00 PM",
+        "Friday: 6:00 AM – 3:00 PM",
+        "Saturday: 6:00 AM – 3:00 PM",
+        "Sunday: 7:00 AM – 3:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111421100548521779882\">Ben &amp; Florentine</a>"
+        ],
+        "photo_reference": "ATCDNfUSvPRI2rB7Vy5exwaCLUfwfKcj3ubA8PFy4NqyXh3cbpypv7h77N-e6AT2rxFerGMO2MhrPmIJRNUXGFdSLNmiMrKKqanQEso6nGaQVCCKcqKte799giLudwhcPmy4Z7efcVhsWG7cDbaJkxSDwN3qqkc2qKe7u4sROFK42Ypm6YjrTVBu7HqIYqJ_ZEFLBaYEAkMBdg3iaNYPlY3RPO5VWNFvKIC_nmML4XjQh_vBKJkq6CVi9qu4LfdVHvmqhLghKFcLYE-rXwyLE7POA-LTQEuPX6Z2UJjsGzLjVOC6Zg",
+        "width": 2400
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111421100548521779882\">Ben &amp; Florentine</a>"
+        ],
+        "photo_reference": "ATCDNfXF7JnAeBIyClgcpcFhtS1bajVuUCNmvxG_pb_CeCiV82vDaPi0Ga1V-fgP_oqVtwXwlz8hTIr5TQrmrhr-xAEXcQR3ymTN0D9Km1mx6JQhoQbwnpUxfaQloVypuHsjObjreGZtlr0pJ_AuWeRCRZa4q2Q3D6eomvVrBgiY8PtgEi8Gxz_YABWxKOYCDwTHPhpUZhhnBgM9FKWH1FFn_1UtL6t7V7HI65ckVT--7OiVrYfpgjtDyay4BdIP30R_jZvip8dmrU6vCc4HEDwBcRSGyVyAFMGtxWOgqkWmGqYIRw",
+        "width": 1920
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115836597349995567549\">Yaser Tesqie</a>"
+        ],
+        "photo_reference": "ATCDNfWj6Sbnh0gFecZwQDONe2wDyJqFMuoQbO-BYIei2uv6jeU09WOC1aO18yb03cQnTiK0SEAj14lBUbpsHxaZrCQ_aREY1ZT3Q7ibshjgExhE_5Lm_r5T0pc0zfkYyEuRiwgmxAvQhbu1obNzwZ0eNgZo4ygEqAfRUM1ialgiisnEMMn-QTJnGN5NtA4gzycWAPi5GVTnBSJRDjnn-nFHAn4STGw8X__NpPjlUKkJfIZVezOp9Gu-yFjkZXK-GyDpo8xtnWlP78MGLA2-_JAztgFULJ9TTKsOXgsc8nDb4wdxrU09xlU2v6VRrucrQoGqbbqYyRzFKLG9DSaH4URhXXguIhD-YuNKO_FIPB3lne6c4bfo8FFb7sKKaXN9ZorLMJhllVkM_c_2pnOUANkQEFKub2RNR_kM8VSceCh6ZcPS4mbVEHJkIi-vO75QAA",
+        "width": 3024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111421100548521779882\">Ben &amp; Florentine</a>"
+        ],
+        "photo_reference": "ATCDNfUyN3RKqyH9l9jFvglWqoxSCZSDTwUYvGQX4GABjRjJ5zdvN-zGPZHWYmo-Q5GviWoNin0RB40MYx7kZPY2Bqijk_LM3DyBKCnP9kGmQDdjx_AqDRAMWUtCoIKkpfft0OryQrrgc4_cfhwyyMb0Y4XV_BhmtoQCnWRlfIxIJ39KZbLNn5khGxojgnVTuiKkR2dYoNGvrgqdPqY8Y2EINUyC44T6a9wLdVIknwsbWuqgcDVZuSLBp55doWkwACm2y3pbmDjQc2l82omGjsMsIkNtxULBHUiF8OE751m7ReyuVw",
+        "width": 720
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWbOiptSAHpcFjqJ0FqND5q_wVl698UdNBpKyXiDeqecLLiR6hbaNJR1jEIJnmpXMBhhD6Ux_6zUiZzOIJAUpwoG0V-k6OdO6YIbrIt7kntlx1MsbmuMNq4V4EYwOtC1qkpmAayk-uvQZWKmNLyY3ajfVeCZGCJRVAE2dOsQlBU3OihQHg-jVIUNqEEXIzISf4RViTW-K_rMBkW2u5ZzexIwdhw9p1xJsMrr5LhonzydEKqtQTICyARaGncWtu-augAPrV7CJ5jdfwGRmP2Bx63xl9cAVUBgHJDYOSVWOB0ep6jJZH9nnd8TqoXBl3PRMy9rWd8CjYTje85Hz-hjw3skrqUy2tiC-xqupuyjHeOqY30N27eeSaZJSGY-iKytkgt2Zf3JhmliC-WyR15liMhAXD76dEYbZsTPWji1PI9dY8lyMgdhrZXcf8NOQ",
+        "width": 3024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111421100548521779882\">Ben &amp; Florentine</a>"
+        ],
+        "photo_reference": "ATCDNfWf3fH-u8wbWhDgqFzZ9yoOhzlY-XW42w6-N_htWBLOKhGtysSEqPaI5pxdBIILdml_5sVUQoabvNjcaqLylcTMaEa00uNHMFdThf1UxQ1mTF1k0yK1wU3I3NwNWA-1Auikln4s1dXP3SA6PxbUQKEn9PZ2Z6dqsXE_gxvI3q5TBJendobeqTChgzBX7kmMzcX60Z03cGS2X98vyTPzNFHUVLA4UkdLNhGfvtw7dd5FkWcwVX7EQH5mLrhuzcnu_8DSQLI5beNQIb7gBpn5YGUt8xgVWuKN4M-wxUMM8fWo5w",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111421100548521779882\">Ben &amp; Florentine</a>"
+        ],
+        "photo_reference": "ATCDNfW3Utz6gtZROnryFwmE46uK7gEvdsSAUx2ICX0x2QmeZpnwMO3Ix8C5zQ4BToe23PPKyxx-FLgRit06G8C9aszXLjYWG6OCbTqAqC5KHQ0FbHh4O8NV8rYUszYMYk9AKPtH7RUdUZDmEy9LbqV97sTLyAV_eBQQ6H4kqM18pZe68jc87lFnys7DiCy80esTL9C_XxQCEsAmTSGeX60y25V4EmGf6U_8HQ3TtUuMCwi3-252sksH8MXUh6lT-WnL4FRRF7VOCF-Z7r-q_x5diVJp47fvv-4MUE8-4GgwQoyMhA",
+        "width": 2400
+      },
+      {
+        "height": 3476,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117542156103217041817\">Mimi the Travel Bee</a>"
+        ],
+        "photo_reference": "ATCDNfUwqoJVbWoKaqqUtzQSBqeIRZ6IScrt8cL9qQskyAM-SKfEGmNxo_CZA7GOT7QKQaQ9dFylFfmc5fI4GJc2IPoH3PklXYkadKeQzWCL6sbW-biNxEEIisXvec40hVdNDpl4BXI-El85_1s1JLvxDmEt2WxvcJTXHVjBbLm9wdoblKywsoQeonpHjmFfug_HUDL4hosprvkAUeaavHOjXGepCEgZlVexlBOz1r4ie0yK854FvXfb6nsw12vS_0_k9QW2fjYqh3NbQZ_LDVOQa6aFUwJf7jxn30d1coXBt04niNKgpvi3WeeXHY0_bPQxq-0Cdep7vm--FEj85kVxSqQPMliLmdwsWB292Vzes5XbZD-sWo0MWNproHAuF0h3RNlyOY38bjZcPp1OVdG_Oa03QvouYDcdgEF_ziMDBCDbbg",
+        "width": 3024
+      },
+      {
+        "height": 1175,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101244574388014405053\">Antonia Muresan</a>"
+        ],
+        "photo_reference": "ATCDNfVYS4q0A8fPNwRpfntSd4XPb9y5HXq2T5o0kWQEWchCy7gqv_BSy1lxFh8uHXYVt6qOPDwauHDlsJfBhOskZ3vwHNrP7VgbhndxxCzYZr7ySQNX-izpYAP98S8d_48WKpXahQ7pk-RI9mEukdsC5EuwxwsPg0cPChemGDrj1KFUJS21uueNddTLYMTb0Nch5oc7LBY5v-l3SP9hYIUPUryJCl_E8Si-VpRUXQJII0ZDyNkOT_UG-YYQeXbI9PAhbVubDxjw-rs_AGyNCO2jWvVRCM7ujBy7F5f-nfAG3rqWfOzUT3bVYgJru1akHkOIzVNCLv29Hd7jvNzFZTWyXMhQXlcFE-iqZ_6yqOO8U1JPrEm2Xoi9E3t8v0ITKh-iKG3_6dgffldsXwhfD0QAR8eZqQN3sNsc736lX2JHrOoTAIPwc6NkzmvowsVdXOVT",
+        "width": 1138
+      },
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109441114521429294330\">Jeanine Reese</a>"
+        ],
+        "photo_reference": "ATCDNfWAPu69AAYsTXBxphHNbyI44XZF8SWw4oUBLDdU6zCBVXstOUEYg6c7UpHhRobOKuDzuek8Rbg3OT0vEHYQzJg9sTQKF4dX1airABPz8skNHCci6AydIm275sYUJOafpiIlzM1zEuVq1mjeN3ABWhVmduSYDpdCQvpdZS8P98fqmGlTt9jodOfqjEsCrslRJEqdcvQylR338R3I9JjOG7kHOkPhGFc6P2FdhLc9WbZh7bIo_Vvmc48pqX-CgHB7VdTDtn2GDhBKmIw00XxB_IiUazwXeUj6lBspqKS1TzTRfDZStKwFRve1dmNa3ZfS0fCWxnZ309BkQia0k6KEtH3ZgFrLUcTnSCh__zmhnNAVbb_KPzRGdQKcfm0qeNqOUO3hzamC-f-NQsReINdJrEXa4r0e2odeZ9jL5fWg9hCKP1CdvEDVoAVzi_Pv52PG",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJD-rRoDU2yUwRJRERXpFdR58",
+    "plus_code": {
+      "compound_code": "CX56+CF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX56+CF"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJD-rRoDU2yUwRJRERXpFdR58",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Yaser Tesqie",
+        "author_url": "https://www.google.com/maps/contrib/115836597349995567549/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjZxZ3fkR3pH0jaXjQxX2Mra6g8y95S1z2Pu3sTj_qa3xR05Ahag=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "I think this is the best breakfast place I’ve ever been to. The service was excellent and incredibly fast—I never had to wait long, and my food arrived in just 5 minutes. My server was Amy. I was especially impressed that I got my decaf coffee in less than 2 minutes, which usually takes a while to brew elsewhere.\nThe menu is so appetizing with creative options; I literally wanted something on every page. I tried the 'Croissantwich' for the first time, and it was delicious. The potatoes were well-seasoned, and the bacon had a unique sweet flavor that paired superbly with the croissant, over-easy egg, and hollandaise sauce. The fruit salad was okay, but since fruit isn't currently in season, that was to be expected.\nOverall, I am already looking forward to coming back here the next time I visit Quebec!",
+        "time": 1768929124,
+        "translated": false
+      },
+      {
+        "author_name": "Jerry Sheremeta",
+        "author_url": "https://www.google.com/maps/contrib/102413847959372012687/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3cnrBRk5HmGgtWN7SqBCfEOznpkCaLmEVyVFy1LWmLThGSNej=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "A couple of days in Vaudreuil-Dorion and our breakfast option was Ben & Florentine. WOW! Food is GREAT ⭐️, lots of options, flavourful and plentiful.. Delicious. VALUE is there. Have breakfast.. you can skip lunch. Service is DOUBLE GREAT ⭐️⭐️. Help with the menu.. coffee refills.. Victoria was AWESOME! ⭐️⭐️⭐️. Start your day at B&F.. Bring your appetite.",
+        "time": 1767790962,
+        "translated": false
+      },
+      {
+        "author_name": "Jeanine Reese",
+        "author_url": "https://www.google.com/maps/contrib/109441114521429294330/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_gskTCGCXc4ic5j3VPebTnqzSE5Ux2Q3XOR1WMqcpEwX9ZPV-=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Quick and friendly service despite the restaurant being quite busy.\n\nI had the Apple Crape Combo and it was delicious and the portions were generous, could have easily been shared between two people.\n\nThe eggs were good, and cooked as requested.\nThe crepe was fantastic and looked like the picture.\nThe potatoes were crispy and delicious.\n\nExactly what we were hoping for from a breakfast/brunch place - I will definitely go back if I'm ever in the area again.",
+        "time": 1757264048,
+        "translated": false
+      },
+      {
+        "author_name": "Roby Na",
+        "author_url": "https://www.google.com/maps/contrib/118170431448615048846/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgUJC7AlorWPgaHpRmGgKZLpnLSJYm6TEBB3g5ZPOTgbRwHQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We went for brunch here while visiting Montreal. Food was amazing I never tried “Superfood Duo”\nSmoothie bowl with ISO protein : choice of matcha & coco or Ube coco smoothie, bananas, blueberries, chia seeds, pumpkin seeds, granola. Served with 2 poached eggs, spinach and guacamole on 12-grain bread\nIt was a guilty free meal with lots of good ingredients and tasty.",
+        "time": 1767490741,
+        "translated": false
+      },
+      {
+        "author_name": "Mimi the Travel Bee",
+        "author_url": "https://www.google.com/maps/contrib/117542156103217041817/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJufuwpf_TeMGCkA-nEYnaOLVii1vwkfQAGJxD8Nj6h7VDhyw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Had a great experience at Ben & Florentine in Vaudreuil! The food was delicious, and the service was excellent. The menu has plenty of choices, including some healthy options, and the pricing is reasonable. I do wish they had more vegan options, but I really appreciated that the server was kind enough to customize my order. The portions are generous, and their potatoes are fantastic! I’ll definitely be returning and highly recommend it.",
+        "time": 1738946924,
+        "translated": false
+      }
+    ],
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=11477245054306816293",
+    "user_ratings_total": 532,
+    "utc_offset": -300,
+    "vicinity": "48 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://locations.benetflorentine.com/fr/qc/vaudreuil-dorion/ben-florentine-vaudreuil-dorion?utm_source=G&utm_medium=LPM&utm_campaign=MTY",
+    "wheelchair_accessible_entrance": true
+  }
+}

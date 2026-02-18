@@ -1,0 +1,370 @@
+{
+  "query": "Boucherie De La Cité, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339109.8236508,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "933",
+        "short_name": "933",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H2",
+        "short_name": "J7V 0H2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">933 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 5:30 PM",
+        "Thursday: 10:00 AM – 5:30 PM",
+        "Friday: 10:00 AM – 5:30 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ]
+    },
+    "formatted_address": "933 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0H2, Canada",
+    "formatted_phone_number": "(450) 424-2626",
+    "geometry": {
+      "location": {
+        "lat": 45.3884755,
+        "lng": -74.04792119999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38990283029149,
+          "lng": -74.04657901970849
+        },
+        "southwest": {
+          "lat": 45.38720486970849,
+          "lng": -74.04927698029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-2626",
+    "name": "Boucherie De La Cité",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 5:30 PM",
+        "Thursday: 10:00 AM – 5:30 PM",
+        "Friday: 10:00 AM – 5:30 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114019563567548084425\">Richard Dubois</a>"
+        ],
+        "photo_reference": "ATCDNfUDZmLt3S1IVqyDmLwrjHZsLCrYuFcuUhO9L_A7W3JahICpJocJvW0XPmjxghqTjR340uMdSV4ediQI1Qi0aStFaE-yAWYG6NfjF0J_pns0BCZxtBZedYL9phnQCiRkSS_JYfXh9DPH-l_ZRFrGZrSjOcoRxmDvGLW5fpm9Q2mu1BKnTOeLPvhEqaLhenLejExylEeVb2o3T2M3PAq1T3cBo9ZDwSWesR1-fmldsruwTPrcSX1uoUqC-0iU0ZMV_XUndXuqf_jVDQDo1pTGTHFKFypZwokhVyzJobwkhXIfDfD9TBS6cSTUcW1z-Sc2DkU1CIB811lWArhf325bvO4Q0PHlDY45NZc9rqLdJkWVo7GOEeOqOR63CFJjrSgLgNv5OZQ8pMbDXkfmmp0gqDNulE18Wlwu0_qXUO84D9E",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117120407163949577646\">Anthony Woo</a>"
+        ],
+        "photo_reference": "ATCDNfV5U1pg6zKUMksJ8V20ziEB2Dj2tly4ZNQqsSmWCDLdfCo3VmQNQT391kFIBBGUU3jmcNeRmpfsoFVeXWdUh84vvOVXcAA99ISZQH_QfGo9wouftgEazhf-2rqzhnWhdeisMWk1N8YAEdGcRNxHQ9X3BLcg4tba5wzyWnVx2G4JK6nfcDpj3gejxdSaLoye35skg8qyxQ6tffr2tMYmNA8WIX7T3fBNqDk0jrhS7-PPSP1T5Ybi0BpMR8jYHoNEV361lMISeaFyYHNJhllVuSXRLsy2jGTPJLAYV4Q8XmUYbLydnU5AsDIpUFVNBHgvoCXQWHAlRRHRTjk5-oGmGM1hOyxoCxZyPBfrbyLPuBCT-uIolHB2wWZkry9mpV6u5tLGiSMYJbsMBZCMURu344q5V3O2LgTTazBoRHY-HOqQPw",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108032894997142811783\">Carmine Mambro</a>"
+        ],
+        "photo_reference": "ATCDNfVuq0sdn4XT53pDMZt-VKgTL72Rw9JOC3Zq4Tz4fxQaFISPJfW5zqd9dSqTDRMxnKG7hEmXRNtAlcmcrJTZ8lMBm2_EhXdciiashU_m8XpWIp0CpNpjodzhmff-tZzKu0TltG5s0NN1tZqhNkRqDk6sVVKKUY1r4fBYTIN7Ra4D7ls6BOuW0UMS-s3x9FcDUyatv9OtPCeE0dHP2PTJHMrZ8UzprX8oVP_0DbwX2UfpnYk1mg9V0Hn3o1uiFJqgQfV4iGM0AfGafTRDSf1UwOCPTenR8GBWdFdW1GCM_dkVJfkTTE3_as2TYmJf5Dl-lsAiJP-26SEbAWBEmDdMvNC3iSmT-BAL9A0EtNE_RNHBXALkzWON55iWUO8TH1q8lAncmEqOD7tCbkgeB6ka7hYV_nnaZB7r1ms-UDf0T-M",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117120407163949577646\">Anthony Woo</a>"
+        ],
+        "photo_reference": "ATCDNfWa5wkvF_IaUOhNLTTaPObNAjUwcT5HFjy_883Oc2NooUV7rmX2pzlO3edgcOqAF_E0yBbX5E5BOLLKqNbR789Lt_WE89GJXuR7MP4Aw2N6ChG4JSV10NzgKdF0QpTdlluggpNJdHEd4SiDjZL8yWcAJqRhGgZrZbYEyRFDhHPZpqFR1uBpL1ezO1KI2DuzxEYxnsEETvc-lK9lyosLHdSqumrItJWUNqwo5zCypz6_zX4sNviqBt8NO-ifGuVtSILw_3Li4UNOEnB1YCg_FoAnvMOs4Y7myQ_tytRW75DZZLSLC6qY_Vx-CWw0MRYuWq5-YAMFJyUUI4EL2LMKe9GN8X7nIeYyvnG38NAPNuuKthdILhhlPhVzOi8ZZEHeAy1NZwPaoABgS8c3j11o888jc614XBi2-_vwV1cWRWTyXw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117120407163949577646\">Anthony Woo</a>"
+        ],
+        "photo_reference": "ATCDNfXBe1BGyyrLwvYBnksMQpvQu5aF_n8aTLSjfBh2j1tHBzoERXeAzzTmx302iMhn6hEpNjuppEjQurwKsemPXmMInoJAyHWxccCNhsTeoWNyQB5-OMi_iPz1FWj_33aMo6s-YUYKg7bwqTxgXft01d709moeipRBfw-4GRejhVo-8Sc0IkF8CGHkLllgzdKvJzQIxbsXlrKHq4VEeAkLcM17ITyWmR11mlT-iUZr4pEcjySA6KIOQvUdfQnqTtwRC6lkC3v07W-0ov00cCoHgO6Q3p32qXv21jGs4ZhsUagaj-3VzP1CRJeKd0NlOi7dHrHu0yCOzZos8haSqTEJD9b8TYp9ouet74cSmy-brQTwu2XhXlYzTB-qe41ZG0lxKYuFGvORDGBWKPBTgaeGBZImWsYi9BeRr4YKu9H0jo293C5Z",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106435122803651221823\">Patrick F</a>"
+        ],
+        "photo_reference": "ATCDNfX4FS8diq7DSibCHgZMX5s_ADoNh0HIrXDz_y9DkeKHKurCZNqT1-Lh4C2Ys7lIs9ljLiOjjXBKiak0krTy_00OCjQ8dSmyByNVXS3ZyasM1TzKiqjYowyD60fF5DO9ztZqCLRBZxGNaFIciG6c1N0BGNDEKyRr8xByfqvS9AK35Yy6rwX9rm05c0FcQ1bPHjPAbKko-AiAZrDIJSy1AmiBev59XLVjW23bHCsyQuYfPNvBOado5BJxBAqQkR32xzHodotSC4lWIzSzdWfH_iAx5UWY_RdIhI3cuCkZgYUDH7gavNAirXc0Mk20JZnamKxeyni6fv02b7nUqjf7LF7-LyyPSKdN8gLr47vsCbYVel-bbEKWdgDlXy0wDWLXGWgcQtD3yNqWE6TCiBy4DsmpEpOYewuYL3ob0EvRjQ53aKU7",
+        "width": 3024
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfV5g0Tbw2QZWAMQEnxD6BDTWJvbp49h14Mbwj7Wxp0Lpjp5nOPhccDcGy4t1Ydm6uKrOfPEVH0QpVwMH8KNYft5AbUttqTYddVtHhz4IeuPrhehEnA2negSesENYBTiJRFt1j7-umy1MOGiCNQ9JQZd9K_vG3oWcafb2eieAhqrONAfA1tZTfulrBiNlWfpa71DK1wC_30hyCue_0KdSmFebS_5jI0Qu_rrHZQbIidmhUJH-EV0LAObfUBJ_EBO7dgTX4EzyxQwasshDllKa6LPuhjHKAzHyYD-BjmU5NzO1P29eEYLMyy9dvJAbZbmXxeleBA838MgwRG2LLkJVp2ogrEgHEpAoDTxfHIdPKYWYwE2ZfhWv4BFKl9MfqYxj4x9Y271sF30ZZYdKxuS25UUGAl8MDbQJXXbQ6prN2sQBA",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJC7e6hN5JyUwRX4Q1aAqpvOk",
+    "plus_code": {
+      "compound_code": "9XQ2+9R Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQ2+9R"
+    },
+    "rating": 4.8,
+    "reference": "ChIJC7e6hN5JyUwRX4Q1aAqpvOk",
+    "reviews": [
+      {
+        "author_name": "Carmine Mambro",
+        "author_url": "https://www.google.com/maps/contrib/108032894997142811783/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBPHl7wbbkcP6wl-37Ihxc7CBEIhfvWz_YcnUImuc9e2CuXtG04A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Omg so good. I went there today for the first time and met Pierre and Jacques. The nicest guys ever. So knowledgeable and friendly.\n\nI got one rib eye and 4 filet mignon. Amazing ! The quality is so good. Nothing compares. They get their beef from western Canada ! Highly recommend! I can’t wait to see these two again.\n\nI was getting discouraged lately with the quality of steak in our area, both grocery stores and at high-end restaurants. I’m happy I found this place and will be going regularly. life is too short to eat bad quality meat from Costco or other grocery stores. Come to this place to make yourself happy! Y’all work hard for your money ! This money well spent.",
+        "time": 1721518393,
+        "translated": false
+      },
+      {
+        "author_name": "Jonathan Healy",
+        "author_url": "https://www.google.com/maps/contrib/100538618169123303747/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqTo2NWTuiS0yl0xah3aGaOYbgLWJwBytkNSUyxIYHmaezmfUw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Great and friendly service, good variety of selection and cuts. Can fit every budget and need. They are also helpful in offering recommendations.",
+        "time": 1758113638,
+        "translated": false
+      },
+      {
+        "author_name": "claire pandolfini",
+        "author_url": "https://www.google.com/maps/contrib/114713404505122206394/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGWMc8JX0IssckhwkAcGpDUUNfUnSSd2v81odE1CSqq81OgQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "An impeccably clean local. The foods are both well stacked and clearly marked. The selection is great and their fresh meats are a treat to look at as well as to eat!\nIrregardless if what you purchase, I guarantee you that you will not be disappointed!  Keep up the great work..\nCongratulations 👏",
+        "time": 1701813504,
+        "translated": false
+      },
+      {
+        "author_name": "Albert G",
+        "author_url": "https://www.google.com/maps/contrib/106755707107562276460/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgesDEPKLVEgn-B5e8jjEeGROd6-vOCwapsye2JWWYDejMUzX9=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I went to pick up 4 NY strips for some guests that were having over this weekend. The quality of the meat was top notch, beautifully cut and excellent marbling. To top it all off the price was extremely reasonable and the staff was very helpful and friendly. I'll never buy meat from another grocery store. I would rather support locally owned small businesses like this one who provide better quality at an affordable price.",
+        "time": 1685722772,
+        "translated": false
+      },
+      {
+        "author_name": "Philippe Gauthier",
+        "author_url": "https://www.google.com/maps/contrib/112859719036717189458/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrH3SlCVFboLfFyNjLuHGEzSy5jmK5nrz9FoTDAYJylpMtBL3L=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Best sausages and meats.  Asked for ground beef and they made it fresh.  1000% better than any purchased from grocery or costco.   Pork shoulder was perfect and fresh.  Short ribs fantastic.  Must try the sausages as they are lean, juicy and delicious.  All our meat will be purchased here.  To add, staff is also super friendly and amazing.  My wife went one day with our newborn and they ran to open the doors / help carry everything to the car.  Beyond impressed by everything Boucherie De La Cité!!",
+        "time": 1659445643,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=16842522568621917279",
+    "user_ratings_total": 56,
+    "utc_offset": -300,
+    "vicinity": "933 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "query": "Valois, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338216.0040603,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Rue Valois",
+        "short_name": "Rue Valois",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V",
+        "short_name": "J7V",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Rue Valois</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Rue Valois, Vaudreuil-Dorion, QC J7V, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.379219,
+        "lng": -74.0273989
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38737075112274,
+          "lng": -74.00957968538626
+        },
+        "southwest": {
+          "lat": 45.37140573468241,
+          "lng": -74.04425637278199
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rue Valois",
+    "place_id": "ChIJeV1-1zxIyUwRLjMH923obVw",
+    "reference": "ChIJeV1-1zxIyUwRLjMH923obVw",
+    "types": [
+      "route"
+    ],
+    "url": "https://maps.google.com/?cid=6660234982944355118",
+    "utc_offset": -300,
+    "vicinity": "Vaudreuil-Dorion"
+  }
+}

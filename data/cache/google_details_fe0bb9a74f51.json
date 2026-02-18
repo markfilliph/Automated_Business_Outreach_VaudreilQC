@@ -1,0 +1,300 @@
+{
+  "query": "Pyrite Test MTL, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339631.1979756,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "372",
+        "short_name": "372",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "2e Avenue",
+        "short_name": "2e Av",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4Z7",
+        "short_name": "J7V 4Z7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">372 2e Av</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4Z7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: 7:00 AM – 6:00 PM",
+        "Sunday: 7:00 AM – 6:00 PM"
+      ]
+    },
+    "formatted_address": "372 2e Av, L'Île-Perrot, QC J7V 4Z7, Canada",
+    "formatted_phone_number": "(514) 901-0999",
+    "geometry": {
+      "location": {
+        "lat": 45.3929321,
+        "lng": -73.96407959999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3942302302915,
+          "lng": -73.96266776970849
+        },
+        "southwest": {
+          "lat": 45.3915322697085,
+          "lng": -73.9653657302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-901-0999",
+    "name": "Pyrite Test MTL",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: 7:00 AM – 6:00 PM",
+        "Sunday: 7:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1422,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102534965632527350690\">Pyrite Test MTL</a>"
+        ],
+        "photo_reference": "ATCDNfWAWl5ypYy4gqaEmD4mtLPlRVkoGtksKFJnhgyniXKT-CA3h_FPcS09UL43jT4TmjqYnKYQEMF1OhohdEwzk6JMgoA4_hapLuLneOaI60W0n0obKt_OPlvVAyj2sNaD2p0fL8AEWHogXyPL3ih1GsYclN5aXYH_4ze_N4zd8mLthXFj86WKRWNkZEzoNzAYKW_L5xiquYZqW18Wnqw3tDh6WaNASuhOiPJqjAZMogj8Cl32A8eIPcULmLSbbMlsanKCjPxS-S-vrg4tk0JKgsg1O9CeF3Ikm7PYPxnCj_AAag",
+        "width": 1789
+      }
+    ],
+    "place_id": "ChIJTVQz-Sk5yUwRT15tYVczaR0",
+    "plus_code": {
+      "compound_code": "92VP+59 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892VP+59"
+    },
+    "reference": "ChIJTVQz-Sk5yUwRT15tYVczaR0",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2119281550044257871",
+    "utc_offset": -300,
+    "vicinity": "372 2e Av, L'Île-Perrot",
+    "website": "http://pyritetest.ca/"
+  }
+}

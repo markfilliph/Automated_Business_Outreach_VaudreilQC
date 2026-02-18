@@ -1,0 +1,330 @@
+{
+  "query": "AERZEN Canada Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771337994.56442,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "100",
+        "short_name": "100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "980",
+        "short_name": "980",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Valois",
+        "short_name": "Rue Valois",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">980 Rue Valois #100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "980 Rue Valois #100, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 424-3966",
+    "geometry": {
+      "location": {
+        "lat": 45.3716163,
+        "lng": -74.0414352
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3732831302915,
+          "lng": -74.04004161970848
+        },
+        "southwest": {
+          "lat": 45.3705851697085,
+          "lng": -74.0427395802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-3966",
+    "name": "AERZEN Canada Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111279067849995626138\">AERZEN Canada Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXsyWEAmQKLZ74TsYj-y_LGof3DBtAY_Y1mgnXABZs3cD8to0bibmkX5lTD1npYQs_Gflus0ZPvIHOqxt63EwUsARwpZwrJe5qaH6d8s29nYJobrkVItWO5hWCrfZcjTifIZ5TYXpLJ03lXxpWy2t3epE-3oD4SBVbjOt_pXoUMBLNid7951dVXvNidVBMCTCcRH2QlSaJDUOEB1iI4okB_tjMTf8qTgjMQuR3ufEAHHPDp6S3b2XD5REq0lJh6Uy2LLD690F3theQ_c12JaPArlJzEwX4lO3w62qk3Z3gRWA",
+        "width": 1684
+      },
+      {
+        "height": 4656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfV_IBlxa7GS7T8-py3t8m9VF5yXmGH9VLqvzY9gk6Dp9nOIHpW9kWkK7RTXoWjMa3Eah9gWNenMtl1Ic9tAjeWCw6fDY9MQWqpc-X_gHWBNqV9285plf7-8NzfdBf45tHqlBAxveOWaqn0Q7XON8d8BLbdN0iBOaffkSk5zhHAtk24SE8GU0D-sffXsKYHuq7baMVJI6RzXGgIwTPGqrDP_nNMUwqBNLQidJKndvefxlHqJQeIdfl2eUu73M9S2GYstOkvOjI8_im9FqTUvfg7bUfcT3SibqxlO68y0aInhIML5mP4fz5lsK4KY0YnfhfcPFWN5VlK5CAtD6RggoowDjNgl67KdWIhQq5vi3i3HEI7D1bZESJntoWt3DY9a6n2G7bDlN_O-jcRKYu3F8hHsEFgY6TdvQ0A1XN3PyAk",
+        "width": 3492
+      },
+      {
+        "height": 2253,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfVR6ayJRtBYWG4nZ2uU8eeUAD5Hz3VoVVTlZMlRs41znGv4ZqrGJC4C0NdSh94vtHXZNcXKeSm4RYyI1oHDEF2-J-sKtrBgm_3Mt4cxEzs12EOklVqUp93gLcTkhqDDOqgBjAgt8NXqqVWt1r6d8NYzh5VoNKILDdvuU3TrZroxvmtQA71xFPzctZXwElNxHS9U1R3no3FQr56GH6KTCH1s6p3ZQZ935VtrpmeenMhSI9KEsCznkVnC5B_BAuc8m_3N6gKB51P3d3rqCYWTz4EfJ6m4pVcyToMl17uLwJXpUFxmNOeg7KnoJchhprJWv-jzdNVC72EbR9UhWcb_on9sQ--3m6Z5yxuSZWjQNunq17eMC19rqKo9R_0Bjwx4RjROvw94SDHsZh8CuX37_UFBJgOvgxN1lMBhpreXeEm2D-pk",
+        "width": 4160
+      },
+      {
+        "height": 4656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfWLubGZrPUa6G6VHKvHkuCrmYeZ92K6Essl_oRYCzhZVbnk17uW6SZ2V_uXgNH86UoTBH5miB5WvA2_heKMOc9OPRm3lVUy_oYwdTvHTVHtvPyDT9ExzBXlEeNjAknW68qV9ZDC1oREIYDPVsO7VFafLTRUQFdHK75_ueiwNGLtk58iGt4Pcyn4Br78QjE4rDIcgsm3RbR14cE7YJsPTZSqSWYs8zhkWxlHUIUrG0wvy1Djl4R4ScqReOgGl10XMUJAphGvZrxnf7QsndMuVpta1ZAxtOpBrsyfHzez5BpGJIvbtsn5nxHCl8YJsbvA2ORi-rP7wceeIKx6-d9YeZAvFSg7cKgRpkwOKhHRgmFKPAyFooLKkDXymNmXEzhKInqbbUMGtLKjZ-ZM_bGcWgCxVg8jDSXwPpwbpR0K0T7zfNpO",
+        "width": 3492
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111279067849995626138\">AERZEN Canada Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfU4BjjsUb-2vufCqo4kpuufLMKzikKgut9SmGQA-cnoNr7VFZZKfj_8k2Y-DjJP2knpmFkDgGxYIvbQwk9VR3ABqV2357ssSwfuE2LOQZGakjSGpSK2qKZQPf7tTk0AOQxIrsFb9okbbm_r-5jt9jfJuxgxbUnOc0uH_fc0_jHN_ztik1D92xsDu1_s5P3tp4fTOffPnyKJAWBEgZILqqTdQmWVSg1hKs9I5HJo84E-LmxkXXQqvOc6HzA8tlkQr4LHBNDyN7SyQX_kDPYT4Al-zEHWC7IQrKirCCegxaBZLw",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJiVEOnOVJyUwRMQv07IE4vy0",
+    "plus_code": {
+      "compound_code": "9XC5+JC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC5+JC"
+    },
+    "rating": 2.7,
+    "reference": "ChIJiVEOnOVJyUwRMQv07IE4vy0",
+    "reviews": [
+      {
+        "author_name": "sukhwinder singh",
+        "author_url": "https://www.google.com/maps/contrib/112922797344482864743/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqX7BmUpNJEii_GvVzclz8y5WgC4EXJWKZv38nzsAdRAEjly4=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1711614093,
+        "translated": false
+      },
+      {
+        "author_name": "C V",
+        "author_url": "https://www.google.com/maps/contrib/104991394221610948223/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJC59orlsiFE6o1sjLFA64gONXI3figKbipouq-xIakVWINfw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1618225464,
+        "translated": false
+      },
+      {
+        "author_name": "Daman Singh",
+        "author_url": "https://www.google.com/maps/contrib/105320766583529076564/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKH0T8n_JjB2H_QW8XpVayQZ0zo-NvmO5XLtoFbV2SgbzQ9fQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1598016049,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=3296415582935845681",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "980 Rue Valois #100, Vaudreuil-Dorion",
+    "website": "https://www.aerzen.com/canada",
+    "wheelchair_accessible_entrance": true
+  }
+}

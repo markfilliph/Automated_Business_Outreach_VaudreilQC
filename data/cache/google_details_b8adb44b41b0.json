@@ -1,0 +1,388 @@
+{
+  "query": "Le Charleville, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339254.817604,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "197",
+        "short_name": "197",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L4",
+        "short_name": "J7V 2L4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">197 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 5:00 – 10:00 PM",
+        "Sunday: 5:00 – 9:00 PM"
+      ]
+    },
+    "delivery": false,
+    "dine_in": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Upscale French & Belgian dishes served in a cozy house with a covered terrace, plus BYOB is welcome."
+    },
+    "formatted_address": "197 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2L4, Canada",
+    "formatted_phone_number": "(450) 424-2990",
+    "geometry": {
+      "location": {
+        "lat": 45.3886111,
+        "lng": -74.01416669999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3899041802915,
+          "lng": -74.0126778197085
+        },
+        "southwest": {
+          "lat": 45.3872062197085,
+          "lng": -74.0153757802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-424-2990",
+    "name": "Le Charleville",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 5:00 – 10:00 PM",
+        "Sunday: 5:00 – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113896267912031556830\">Le Charleville</a>"
+        ],
+        "photo_reference": "ATCDNfURjoLnYB61271WHHpkShE_iIYYpJ-TUXyrg7pRiC2sdY5Q6hyOvVWzMTlMM4iRiMpCRyAH1Iy366_T03PQhgmNGkpg8Qltv5QwnHFLgoaetFBQQb0VPMvAMzlEgEOFJJGDgltzYbJF4FR4PqvzPSmmxEmRprBCqh-rW8y0QxPFcNmR_FIpWqM5pIzEn5OFcCsq6Jt3383psuuws8Y4Cye-gbDj0xS0a5O_JAZx3vEHQFp9qfZSftb5jBOm5QopuNwZLYOtPBgASZHr__qM5S9vqjgtlCatu82LeixGBks0Tw",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113896267912031556830\">Le Charleville</a>"
+        ],
+        "photo_reference": "ATCDNfVNC6oeBDxu68HF4GV7-PF4pe3ay1yP7qmC3Y_b6RGF0YCMinAvs0wqbUf7QA0xR5X364bXgYVwmhjcrobAsTzdSmW0Ek7Xx2P3Wp5zJLJ_wRujPxD5X7JkfgdqjlU8MC-xv670N5I5h26iWhdF3MVWAgCvq6lTYrLlQyfRrkdtKWg72tS5ywVHIPaBAmJ4GAPJheb2r4tUz37hTna7XA8_wzq1axYBfom9s3C9sGjUwjWWOZ1jbzLqWd-j4jzbqdVbRP7aa11ryXGgipZpVKkJ2gWqMsGdKaLUt1nlz2c2Sw",
+        "width": 3855
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113896267912031556830\">Le Charleville</a>"
+        ],
+        "photo_reference": "ATCDNfV2CSQqUA57WXWXNN7S3lz64XdYrpeo3_mep-GN_SIAfgHwdDcS_iVSahjck_cD8s5ahfJBkmiVRyB_z6tZGgyab13KethmqjqspX8WaFVoKZP7kxL58JH1nhRLICqWUT61ouyAYD21J2Drq-oM-LT0TBHvu-dFnF0e_XF7q6xjzI9B2TYUZHeJtPbZNnDm9wqoiyA4HrWwYESGKaiX9iXDtK2yferufBq2Vd9gyTR5hzp7SjprPdfUbb0wIAm4wAXvAbhTngte-celmhpJb1kNVakp8yJbgoa8fp9USDIZBg",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVQf4YGJbG4_3956vGlE9Q_akDnYYm9szvr3idybYB9R5cR_rN4HhIY96Pumt15H1Jq0Tr6w8rbWOkmnZOp355_a3Y7Nv7icTODzF32S66tFXyX1f-w5d1F9t2_c6K3Azqwu388BfPEu9a1dBeDIc3pe8dpkzsn2Up04n-oxl6o5eNnzTJSxCkbibXc9vY5H9zRY9NfDuQD7-cazjRAwpZOz7bIxw0zO-4zfi8nMCb9_uLD6N0I_BjwgbG2ziIsijmuaHAo0McXrJYfb_-FTI1r1a2i8T9HeEEqwnU_rXqT39Vydyd8k41U-zbOWBONbSYMKq0uhFprZ4ljVa5DwzIDTPRk-C_2YYKyA5DjSR6xOt7GQSRaUAtvGkgrGytz0viT0oY283pn6MtVYiM0Rx1M_18-JXTLwoy1K15837SM6Z8",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113896267912031556830\">Le Charleville</a>"
+        ],
+        "photo_reference": "ATCDNfV591OZXMWjvpx0Rk5SUXXBCkqeSOgW4TYM-kNbV6b-hdIfB-Bu_PLwHs1vWvTfzY7M1n1nlXvc_pn7G372jbDixGEeEJi_sLCqbOuVxnn5Z55FAlbztAz2DCcURkOEnmXL6Y2UyMMMyWqQPrdcvX2H2nNHZebEBNabnKMPpWTW71il0ZjE_EB5naXQRY6wCO9oHw6oSDZG8bEgw_pTu503EL-2vW_ijSKkd9oEysJ_2aeM8UFKSD0JdDhvMa_rNTKqDDljtx88tdtBGWgUABcEIUFsnM9328uj2Op5w1L6mw",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfXgzxoHLAjFdx47HLUSIXkn94zJPlzZ1R7RSD3vlkiWb2bBpoRjBb9lJAOe-llnEjqgZrrKyxG0fEBBmLAuMaIO0A3Hw_MFW9HEvdwd0hMf_JbukrFtcg_i7C6tcS1QfxsXty4DcpaKCRXtX-Etq0DI0EHEJXnZnMxpItS0mkqknNbKm2ena-LLKCnvEX-48IXWg5n9TwlceQADktBheoa5ZIsLptFjuN1uqqdsNRQlhb7vK3AjCYRds1y6TpQvPW_WA2Bx9-Np-58Z6CeDnCi71wsj7tjACj7qw35EWFd_YA8DX5Y2UxaeFWngp4Lzpv4XkKUVK22njHYuoSu_JtArzAdtzXe3f37f66OSBUQGZaTSE0L1uPrFD50x8Cp6H6n1QpNCisgCwEaF8tVK-bUiGFwAkBdsfEo6C1-9Bzu6fQ",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110736974537496527709\">Vanessa</a>"
+        ],
+        "photo_reference": "ATCDNfVsZFP67sf9em_q3TWpd5emgTOM_Mnh5V75uEqG996FxnJoqVXFKqAUFG-_PsXt4MT2yEFbyd8jRYhlO4sLaz9jVKu6Ne7N-20lM0Op21W5AVFQrt3GV2j3ARmZjvoFq1Z9Lq1jAw-sAnapBlhbZ4POW7xitr7im_X77xzL3TLLzA2kmiCDFEJTaUxRhSY1qL34C-zk7SHx6LqsFM0UZTijMz0MuNnSAirqn3dGu-nxp89xKENygyDi7w9zvnvn3_BP53Db8sqrMY80qxCSklFJ0e2e0g9_O05kDNmbH3ERh5j2zj_IE7wDyBEDuEYq0v3PMKaMhHvmMQGLvjcWCZixRx4y7rDFe-RmrjlLvhLoRGoVE39RDal3HIq9mF2MEXMpvBJh4PJcpVhm1ZdQ2M3VA3yWPpeFV5METgFi-m7MoUg",
+        "width": 4080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106271966609975445609\">Donna Dalton</a>"
+        ],
+        "photo_reference": "ATCDNfUOURgmxKeYAKymE7C8sJIaCydsQ3Bd5CAi-gdr_ZnVGIuCMwQx8KmIkI9eaX1o5Cm1xNk-FJkz1cDOeAqwx-NIWYH0tFxPEi9CTeD700Y-mgos7QE2KQ5WqFTqn-B1A7WnStQfTIIkyyC6-DqAWRxnlaDMXKzQPuzf35Peuv9EISsjxk1umP8CttsFegVr9sXRdm9B_YhIa2u3mTI61Yr8jWrGTP-er5vNiiOm1zEClhca7jmVfonMrUmNO-Ja8u3jFLKw4yJt244ZDwR1MQAdm-0XgH4Rewsv8XALyYSuh8h5zOE8oBZX-rESXPJ0fwJxdz3akTwPOfup9GHtaGEMR7aRw7sGwZSuEdcxfPhK3vzkOtqmohOK1tBmnEvi4_VRSZ3MtEWtkuxdeIRxjlGH-sqD9LCXQRhx6AouxQzJRqdGHEYygOErdiXN3oHO",
+        "width": 3024
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113896267912031556830\">Le Charleville</a>"
+        ],
+        "photo_reference": "ATCDNfWKjihrdG39Ns3w8UQdl6-08mB730YoZgP5Si7BF1xCWvZi6fIsP7MYsnA4kWhWdx47_luFLso1aX105U7MlCJasV8Lxne22NCoEwoxcv4M9-J52Leod5heEAd4vLtKJSBauZQZOAjPR7RPvS0dpMmdCHBIK4wqRnZ7aHjEJ8wmiMpo0XObxbkBe5Yp1Vw1F1I-rbVaW5UrD2ZMu9snCcW6MwDJJoAULakOP0RMJcslDQ3uYlhotBwqgys8TYBfwSXKlQ9A-PIdTXXd7B_XV6eyKeQV6edQDP7q1zYCVt9mKQ",
+        "width": 2048
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113896267912031556830\">Le Charleville</a>"
+        ],
+        "photo_reference": "ATCDNfWfrdbRSuK3QclybOpRF80XLVxP692VkvrcrWhJKeGdZCQU3JAwHAOhkFWFq7IMRdc8BhchnYkd6JH791QRhTtU8EvKVmCz7s7Ic9kVbPwIfB0w-2qQOe7wfVxMxV1syE0-7OWVqjsJPjatRVKITBhZduwcuLflTdqelokVuooCpRNRmaMfmExraEH9J5JYvB4D3rPgbR3jvkz_ObdKzLdKvkktTaFQJHiqKS8K3SgOB_4EuQoEKiKgPviCykTcTniewPdBPUAVdbD5Eq3ioeUC5OmJNxZwACrossOSRBIZ_w",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJxecSuOE3yUwRnkeTeVkLO98",
+    "plus_code": {
+      "compound_code": "9XQP+C8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQP+C8"
+    },
+    "price_level": 3,
+    "rating": 4.6,
+    "reference": "ChIJxecSuOE3yUwRnkeTeVkLO98",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Donna Dalton",
+        "author_url": "https://www.google.com/maps/contrib/106271966609975445609/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8FivG8lSjZ-ctEdvrvTTdL7gOypIDCoBQW_kGSLjHLvtqWqYC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "We absolutely loved our evening at Le Charleville, where we decided to celebrate our wedding anniversary. The atmosphere on the terrasse was lively as every table was full. Four stars only because it was a bit noisy and our table shook any time someone walked by.\nThe food was melt-in-your-mouth perfect - and that’s not just the sorbet!!  I had the bison tataki, thin slices of buttery seared bison on a bed of arugula with a mix of flavors and textures for dressing. Hubby had the beef gnocchi, which he found to be excellent. Second course was a strawberry sorbet with gin - tasty and refreshing!  Main course I chose the Mussels Marinière with fries. The broth was rich and briny with a hint of garlic. The fries were cooked to perfection, a light crisp on the outside and sweetly tender on the inside, and lightly seasoned. My husband had the lamb chops, which he described as “some of the best he’s ever had”. We finished with dessert (of course). My salted caramel creme brûlée was an interesting variation, with the salt balancing the sweetness of the rich custard. Hubby had the blueberry cheesecake which was also excellent. The “bring your own wine” feature allows you to keep the bill within reason. Service was fantastic as the duo covering the tables outside worked very well together. Service was prompt, friendly, and the food arrived hot!  As someone food intolerances (gluten and lactose) I was in good hands as there are many GF options on the menu and the sous-chef came out to discuss my menu choices to make sure all would be ok. All in all, an excellent evening.",
+        "time": 1755348794,
+        "translated": false
+      },
+      {
+        "author_name": "Young Guen Lim",
+        "author_url": "https://www.google.com/maps/contrib/113115172897010873752/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVpr_J3SnaEgA-OxsSLwSujR_l_5T-zfTPsIz0gPPyTnG871UE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 months ago",
+        "text": "This place is BYOB, so don’t forget to bring your own drinks. When you order a main dish, it comes with an appetizer and dessert, which makes it a great value. I really enjoyed the food and the overall atmosphere was lovely. If the weather is nice, I definitely recommend sitting on the patio—it’s a great spot to relax and enjoy your meal.",
+        "time": 1750931832,
+        "translated": false
+      },
+      {
+        "author_name": "Aquaholic 3",
+        "author_url": "https://www.google.com/maps/contrib/103104248707945958697/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU581by5S4GKzTPuvIc-s9HRp_11kq3xOUZ7lY7IakqezNRLHJX=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "One of the best meals and service experience. Bring your own alcoholic beverages. A must go restaurant with an amazing chef and awesome staff. We keep going back and add more pictures to this review as it will let us create new reviews.",
+        "time": 1762821584,
+        "translated": false
+      },
+      {
+        "author_name": "Vanessa",
+        "author_url": "https://www.google.com/maps/contrib/110736974537496527709/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDf-YGYBIaf258yXpezFva9iUtobyc7I4-Wl5R1KGvO0G4O4dRhA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "I took my husband here for a surprise dinner for his birthday, it is now our #1 go to spot. The food is amazing. Atmosphere was romantic for two, calm and enjoyable for groups. Everything we ordered were phenomenal, they tickled our senses. The presentation, the scent and the taste are just out of this world.\n\nMy braised deer ossobuco was tender and bursting with flavor even the exploding green peppers were a welcomed surprise , the creamy blue cheese snails and mushrooms were delightfully exquisite, this coming from someone who hates blue cheese. The raspberry coulis cheesecake, smooth and velvety. I've never had one like it.\n\nMy husband enjoyed his medium rare bison flank, he was fascinated as to how did they cook it so perfectly from end to end. It was tender and full of flavor. He had the house-made foie gras, the taste of each component complimented each other in ways that made his taste buds dance. The carrot cake didn't last long in front of him, he loved it, the cream was heavenly.\n\nI had almost forgot to mention the lobster tail. It was an excellent addition to our meals. It was exquisitely tender, with succulent, buttery meat that melts in your mouth. Perfectly cooked and delicately seasoned, exploding with sweet, ocean-fresh flavor, enhanced by delicate seasoning.\n\nWe always tasted each other's orders, I always give him the first bites of my food and I of his. That's how I'm able to describe his meal.\n\nOur server was super sweet and very polite, which made our experience so wonderful. The service was very well executed, front appetizer to dessert, they did not miss a beat. We didn't bring our own wine because we don't drink with every meal, but the trou Normand was a pleasant alcoholic palette cleanser.\n\nLe Charleville, you have ruined all other restaurants for us. You have set the bar so high, anywhere else feels disappointing. Stephane Boudreau, thank you and your team for making this evening a wonderful and unforgettable culinary experience.",
+        "time": 1740289239,
+        "translated": false
+      },
+      {
+        "author_name": "Jess Savard V",
+        "author_url": "https://www.google.com/maps/contrib/100809239733544202749/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyaFrgDnAuTJmqYOoWCn8mNzxbjatE9WW2Em8ZR-keFhc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The food was exquisite! We love everything from A-Z can’t wait to come back in September for the new menu options! & we had a surprise ‘cleanse your palette’ serving in between our entree & main course! VERY LOVELY. The place feels like home!!",
+        "time": 1722195241,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_dinner": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=16085462973003548574",
+    "user_ratings_total": 593,
+    "utc_offset": -300,
+    "vicinity": "197 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://www.lecharleville.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

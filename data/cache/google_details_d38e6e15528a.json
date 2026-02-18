@@ -1,0 +1,329 @@
+{
+  "query": "S & S Forwarding, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340069.2647865,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "341",
+        "short_name": "341",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Marie-Curie",
+        "short_name": "Rue Marie-Curie",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">341 Rue Marie-Curie</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "341 Rue Marie-Curie, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 732-2300",
+    "geometry": {
+      "location": {
+        "lat": 45.4085236,
+        "lng": -74.0525969
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40996363029149,
+          "lng": -74.0510414197085
+        },
+        "southwest": {
+          "lat": 45.40726566970849,
+          "lng": -74.0537393802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-732-2300",
+    "name": "S & S Forwarding",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfU6M9DYkdS6GudnFZXcUfS7pLRmZeKwysay6uI2iN2U7mB08PciDma9MqX-0oBh3g37CLu-eXSHm3X5binqgBShBn03CRGqM_BQNXsvQGVjFrvW-JxsmO27PqUrSziyv84hsPkBVAvJhBCHCbyNR7wLfRnMZDy63bHPTXrfBmsRfV1aOycwCiyak2tFXuJ3zFuo_csNlloScLTt-us37-uUsYFJlH-aEZnWUw0Ye5hhUrAhj656eNA24WF7IVKDXHQ0zSb7zHOLsU6og0bA5Ms-FtKkcxK-cURs_rReBOvn6UEychMlupil0rxTFYvkQ7POz3kCPyqYUkTUWjvRCIPsdJNwgwabRabV60mmsfGUCMiNxTwqLwj8DuHqqrp4CSlJGJ7Ssj5UYjB9IPHSjlfu8YtbsOXG7INYQq8o0P4",
+        "width": 4800
+      },
+      {
+        "height": 2794,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111334168543857496801\">Alain Diotte</a>"
+        ],
+        "photo_reference": "ATCDNfXjUPamAjzQ6MN1tnevYU6wnOpE2gHdoss3-7bgWz9n5e-hWfE8NF61LWsoZoGtTGK0YFCgvPHvskt5fBj2zB8f4bdmXOb2hlO8_SmscoXBn8SG2aRIHkYQGwasGUO4fAh2x5Mi_MLXVcLa7G5_KWxOiybUmCE969Fe_xisDy48sfGlmupeUYVRvWoGOnJQG2mNCRP2J4iKRnHTSOGEbELyJ5vOi0-DKh84IUQK87ST3Rwmr7y3wPuXK-YVyjvqaaQ3YTsQEFMieHJQhWk91NxthGKXwMW6wFfeNs45m39DZxFvy8ai9UUhaVTNusecqRZqoR-3BuN00JfMzlNZS9QaMKq8m6547OrxGtjbP2g84Vb_iucZriSovCCy86nO-zdttzdIaTrePwAxZQeBLIcHRX3G8M_TL35sBX8j0YYjkQ",
+        "width": 3240
+      }
+    ],
+    "place_id": "ChIJnf4ZNzk2yUwR4T555pvDqPk",
+    "plus_code": {
+      "compound_code": "CW5W+CX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW5W+CX"
+    },
+    "rating": 4,
+    "reference": "ChIJnf4ZNzk2yUwR4T555pvDqPk",
+    "reviews": [
+      {
+        "author_name": "Patrick Heinrichs",
+        "author_url": "https://www.google.com/maps/contrib/109201428995950103802/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgY9za89ifY1kCtBq4kK_if9jIBqWwi6IQmz9Ysj1dvUq0Mw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Have been dealing with S+S Forwarding for several years now and they are always #1 on the list to call when we move freight. Professional, quick, and the office staff are great to deal with.",
+        "time": 1580404107,
+        "translated": false
+      },
+      {
+        "author_name": "Tony DiPardo",
+        "author_url": "https://www.google.com/maps/contrib/104188383048986162465/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkpolGI74NTEypX_dR8BxHMZVO0zoJSK1ms2CTl7zLXewG-r4ROA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Great follow ups with our shipments. Highly recommend. Makes my job  much easier knowing that Angela is there  👍",
+        "time": 1688303919,
+        "translated": false
+      },
+      {
+        "author_name": "Book that Freight",
+        "author_url": "https://www.google.com/maps/contrib/102658349264346854549/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcgCzCtsJ_aAgQXvhJaiAX62m5ubom4ug0Bnb3kklkspfV4w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Doing business with S & S Forwarding for two decades, consistently achieving contracts that receive top-notch five-star ratings.",
+        "time": 1697729428,
+        "translated": false
+      },
+      {
+        "author_name": "KMP",
+        "author_url": "https://www.google.com/maps/contrib/107915677378107483149/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkSidQpu2twoJmrOvaucaiUV-FTo6-dok9JN-xVmo_unhBOBQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Always great and reliable service with S&S. true professionals. Highly recommend.",
+        "time": 1679681882,
+        "translated": false
+      },
+      {
+        "author_name": "Beeline Sports",
+        "author_url": "https://www.google.com/maps/contrib/112967247097451427560/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlzJP_ITMVyilI9z_bMlV231HH45NrB3hqgurPmJskt0QW72v7=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Truck shows up with product leaking all over our driveway, unprofessional to say the least",
+        "time": 1615507176,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "moving_company",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17989843785885499105",
+    "user_ratings_total": 21,
+    "utc_offset": -300,
+    "vicinity": "341 Rue Marie Curie, Vaudreuil-Dorion",
+    "website": "http://www.ssforwarding.com/"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "query": "Trailgo Location (Location André), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339080.3104932,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3500",
+        "short_name": "3500",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4B5",
+        "short_name": "J7V 4B5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3500 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4B5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3500 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 4B5, Canada",
+    "formatted_phone_number": "(450) 424-8888",
+    "geometry": {
+      "location": {
+        "lat": 45.3901943,
+        "lng": -74.0709377
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3912897802915,
+          "lng": -74.0695030697085
+        },
+        "southwest": {
+          "lat": 45.3885918197085,
+          "lng": -74.07220103029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-8888",
+    "name": "Trailgo Location (Location André)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 559,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106291710180231666198\">Trailgo Location (Location André)</a>"
+        ],
+        "photo_reference": "ATCDNfU8suH5ItDl1QequBs1_knVDF92a9u-wZ8o9ZkcfMwU_qk7iV8eJN3tlAVRukijljoJV5MNr7SBfsIf_ubEmQ7xcWaU102imKH1dDx3__q2VRQ8QmH2k0GTBaBYNy_EvsXqoq2RL5F2oKBTpVutf4uTjR_DmKU7nvpH_kk3XOoyXV3H23LcOPdFTUIuSidFM3xAtfxkmJzk3I5hAUxzRbijJWEsJGq9t5cWP4sOYZfrBG_I6PYcGGyu-eRzSVh5VUF-Omo0egAQdrLH0SEmq_flPTd9JJJ4KjljVq76hXPTlQ",
+        "width": 745
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106291710180231666198\">Trailgo Location (Location André)</a>"
+        ],
+        "photo_reference": "ATCDNfWvXHUUVibh_01oKbI_gTqM4PdCyHrA9xbb-vVOiNB2e9Xm-2LF7T9oMYLpZOo72bF3wY80Mh-HWpM5BMCxeNuQvhc3E-YPiFX5mf6SjqPaF6BD8KZuRry0u4cbEh1anmgddFX8FD0jusqY7Kp0w664scJNSgVBEOCCK3kveiOO9Std8DmBZn9dg6SUd6Q4XDc4NdRmc5_QmggDAGMHwA0DIp9J8urfioI2y5q95X0H9cTh_vs_BSV46Iw3OD0lEXWQAuXaoDZrH3NpLY-wddMlCxt1VLHslNAG_CvUklPxPQ",
+        "width": 2048
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106291710180231666198\">Trailgo Location (Location André)</a>"
+        ],
+        "photo_reference": "ATCDNfWm4cNKC8bNqq5wVfeS58jPs_NVTh8cf9-vbn59iUylzvd4JZBj7mzjOjxGItTVRI6Az1iHsPOnUOcixs0R7N773ds4eDcmuREk8GQML31h2JTD-SQvQydM7zgd0GhuPf7ouFVeYfqPW5VIEBOCxT50MQ9WkCZS2DA4JLJFxbsp5jRSdUtyxxk_hkwdk48l3MnJsAXn4VcsFIRu-VQnoTi8q5KY3Lp146_9DbRI55xAHa6WsJxi2fFdppJlcaXwChfsGN4Irdr0KCSgd3bI0UnU23unC7k0hvbMPYT1sI9iuQ",
+        "width": 4032
+      },
+      {
+        "height": 427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106291710180231666198\">Trailgo Location (Location André)</a>"
+        ],
+        "photo_reference": "ATCDNfVW-tQeTY3fWiutkmc9ePvRh5WsrP0Xuwk3aS1U04LPNWu2y-ZapLny7DURBEm5bQYl9df0ydaO6Dgzu77BNVrKOEO2eeGnCqB5BbK-WAGGw1C3XUsbC63YqPoNzhrvBUUIlEy7cz2OEzTm3zM3zjM5rqU2aGibb_T3N04TqaknWL2qeKuRto8DxciYFWi00DopKy4ReZCgL6uZMuKnqYbrI5jskPOsNVrP2SFKSMErbfeNnZGsKcz1KeC-Gr9euLKvT86YdJKAHZ45ZcAJLYRgnUvkKFf2vWUBvbSEUUGEGQ",
+        "width": 713
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109990226293713001616\">Sylvain Whissell</a>"
+        ],
+        "photo_reference": "ATCDNfXUtAMOYW-Ss7-WFDYiNgSsXNxSwI_pdpqNrZzkVcK1vyLV_d5sgT3QJokHNR9SSyfbd92aoDGiO--3WHaMxlhhoXdVCr1tMu37iECFTL0yETkMURvQRCwopLKBzh-YpPQP00zITito1mQm__2u-MXL-aHFnued22jjifW0OtW_lRJIzpqbPweJdKsh9MS0fKWbVCRXVgxDtpSbdP8tkyRevoQ9rPkVi3JFyWPKXq6GWVKBgCDK1W_CTIeMeg3RlwCJVQIwefcVMWJY7nNQVMWG3WZI8LuZ_x7qAT27OjiuzHcDZv3hSWhlC32FfC0AFkIvNmDN0M-OuCJ-Iulz86cjDTGKQB1VG2hD4YcW6AQ3vOnC7n57gvvaADUo8V4w1b0rUhf6YIJXq9P6gMuCDIOpzDh29UJOx7aozYlYeWw",
+        "width": 4080
+      },
+      {
+        "height": 1534,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106291710180231666198\">Trailgo Location (Location André)</a>"
+        ],
+        "photo_reference": "ATCDNfVkscT1Unm8q6cvxWduPy8FC5htrioziovdJa7UXoWH5CbnG95Z_k9qmcGWu3xSQ8omX_glgwZXHKPDm8yuXDDwX287RNv4bkUB5LZA5lYXo0YITaLqv2OlbRGkxjoR9UZJliOmQRm9wnjwKJzm_2FCv7AI-I_Hg-nXOhwObjJ7WgITK7mYIp3GHUg9RY9hYj_Qk_kFcxRvht5dSlcwI8-Tr5Jwq0U4cXIGSG_tWM1iEuwidA5g0ROxbbZVqMVroYXDscR-4ZpMxLYL3RJiGhdzmrNi_O9rqHwIQNPS1uHnsA",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106291710180231666198\">Trailgo Location (Location André)</a>"
+        ],
+        "photo_reference": "ATCDNfWSpbxe8xg6GllKzisMqMJ-217MtQh96nclMrJFBb7C-E2-giqkX0rIdcIbdogYmWBZ0vIxIGDQrJpgntQAC_ufMhYD_ZmOPSkJ_-6LkuD1QBGmuSP4RgwQmuRupGNH0rZTeBs7Uack7hkGFiEAsh7hgHL4RJ8jrmbneCw3M7ZfV32gW9LspoDsoCPaFGHzzPKYpnbZ1_Q-ZTFhfeW3g__HnGydJl7_1XOI8LH6DGZqoN2n2koJtiaPOsiRvCOGk3IO5K-8nFM5CP_YyyW4Aemf8pcZzCJ--ddjkP7tPpmjFw",
+        "width": 2048
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109990226293713001616\">Sylvain Whissell</a>"
+        ],
+        "photo_reference": "ATCDNfVyAICEshq-VU6-U9vgxmQlk07ck7LIBFUyH0YVzgx3upIMpHGZA4NmGdhdWo2j8AYdI8OfP_W05MpTr_CiytRyAcp1BELjqyLqI8HaT-sQkMUWdi9FHZgFQJV1ChaDlLnLVftBewq4Dg7ErhNE3Qer1WyrBY9dycqb7c-YB35lr6SZtEUvgpLOiDa0XzNyn76Qfk0fEWBZicHvkCk6Zl6OXDKBUQVRYFfAwY3JPHVSEgrhi4fVmkihhYYQeBqivGnJg9sHW_kqY6Lj-vXGjd5fLczkOuVWZseEx6GtnIgbXcOGZMiPPTOrjv9Gzxh3uYDymkwK3-t5ly4Gby4VbjkI5g_ZRdCuYGkERaoc9lgBgcPiDxHi2qyJQJrI8g90jT1PFg6BFmVweskxMWQkHCn5izF2k-1y_-0iTGxMDbg6fz9P",
+        "width": 3072
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfWxAJ7k3Wwlk-jGc4t-DbIewv6lhdbQB_YVbuOz5VjNEOSsnCa5zsLb5zod7aDxVCMOjMtKeooSXKYc1et3NU2OuSOBkBOPl0zBtg4mN320Q_CJTmdY7tERPjbyx-KobtWQnh8ynsrKOFZhxyH_DKD2pRy15vNcwXRLyqzI_DqBxI5Qb1sv1KqRdYxzgDzo2R79gefz9kSWZbzWNpPbqNxOKcK7x6Yp1wzG7BOXy41psmC0vFY7lKrDbrj-GlQTJyS6KemqMZMhpSGM6M07a6rhO6SjVHTuMAKs73sx3cj6aEJTJelF7G3rMkgqX74mS8e942jsYrmVLYuq15-RxPQb3owPdqn66h5-4P7mFtobobJTC8z3f02SaOp9EZW2JFWD1JB1VDyJBjlR2edJFnSFS_-QB2rX67ehXZ3hUKUtWQ",
+        "width": 3600
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101764759450655023332\">Francois Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfUyJMcZFnj_UQxvyH1ssgixpefM2f0JQ4ZpD4vj7lJpF5D8bICDb98W3njI6W8FOQeMSN61wBl5_r4UXzUZ7jE7IxpTmyCxU88yra3sfVlQX4czUP8TZBmFfE_fWXHaKY_57C-TTinLt8g3PFoDXFpW0t0pwqh00-ofQeiVzb6CQJsYn6oLI6eHzYkvaxHrwvgpGcWvZeGlfeT2Acb-P4h33RykzKh_pWu0ySiIbo9Z0dJuxKWGx72O5_mJLxxzvHXCl11DrWTyHTcKoN8FiiQOwsk4tmUaY91idfSErjqKEcHZRsfkMelNRsRiqB4tR4FsKzd5X9Azxg63ujE_oOKqXvUPOn08qZVfw9SfJx2OQOdS9zjzHj-4tZAa-VK3QlHSTZulmtGFiJu7RLt-NyP3Wwlmr3Klt0DwTegaVm6HQw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJBR0ghO9JyUwRFx7sIdr2Mwo",
+    "plus_code": {
+      "compound_code": "9WRH+3J Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WRH+3J"
+    },
+    "rating": 4.4,
+    "reference": "ChIJBR0ghO9JyUwRFx7sIdr2Mwo",
+    "reviews": [
+      {
+        "author_name": "Sylvain Whissell",
+        "author_url": "https://www.google.com/maps/contrib/109990226293713001616/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUing1ugqJX0XBskdMZyRjpuYhuj5Pqlpb87W5hED61yBtdCAI7=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "I met Ian Feld at the Toronto Boat Show this year and he was awesome. He gave me a great explanation about Karavan trailers and after asking me what kind of boat I have, he recommended a trailer for me. I picked it up this week and couldn't be happier! Also want to thank Michael Rollin who was there when I picked up the trailer and made sure to double check that everything was in order before I drove off. Fantastic customer service. Would definitely recommend Trailgo if you're looking for a boat trailer.",
+        "time": 1745240294,
+        "translated": false
+      },
+      {
+        "author_name": "edward barth",
+        "author_url": "https://www.google.com/maps/contrib/103961935817037242575/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-x80Xa436cDPw4dvlYN3hK9_hbH41dby-VCmZAUqz_DUCyztt=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Exceptional service!!! We desperately needed a generator. Wife called at closing. They stayed open for us. They actually loaded the generator in my car. But more than that, Carol was so kind and patient with me. Personal service is paramount.Definitely good find. Customers for life!! Thanks to Carol and her team for coming to our rescue",
+        "time": 1712319517,
+        "translated": false
+      },
+      {
+        "author_name": "Elise Martin",
+        "author_url": "https://www.google.com/maps/contrib/118043216584030738468/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4B7JXwtAyjivjyhuI6_pcEC605o56uS9gklFOcR9C5y8DtQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Went to rent 2 tools on a busy Saturday morning; yet was still well informed on the proper tools I needed. They fully explained how to use both tools and loaded them into my car for me with care. Thank you!",
+        "time": 1715601707,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Salera",
+        "author_url": "https://www.google.com/maps/contrib/115399289850721800029/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSZTQBZtet-GIDuBz9PktRFnPe8hwo96ey3rza7XAIY9541G45=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I rented a tractor from them and overall had a great experience from them. Machine arrived ready to go and worked as advertised. There was a little hiccup with billing but was quickly sorted out by Guylaine (Thank you Guylaine). The level of service and a penchant to do what's right is why I will confidently rent from them again if the need arises.",
+        "time": 1693493282,
+        "translated": false
+      },
+      {
+        "author_name": "Gerry Mukono",
+        "author_url": "https://www.google.com/maps/contrib/102394459556038958096/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKriJl375k9um-vhl1spNNLOINS4dYlXCBY-2DuZ4FrrQUvhg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The best place to rent tools to do home Reno’s. We had outstanding service and they are always reliable. Thanks Carol",
+        "time": 1728488075,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=735202580923948567",
+    "user_ratings_total": 221,
+    "utc_offset": -300,
+    "vicinity": "3500 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.locationandre.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

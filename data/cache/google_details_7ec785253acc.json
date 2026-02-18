@@ -1,0 +1,385 @@
+{
+  "query": "Maison de la Famille Vaudreuil-Soulanges, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339783.3244832,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "15",
+        "short_name": "15",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Louise-Josephte",
+        "short_name": "Rue Louise-Josephte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6Y9",
+        "short_name": "J7V 6Y9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">15 Rue Louise-Josephte</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6Y9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "15 Rue Louise-Josephte, Vaudreuil-Dorion, QC J7V 6Y9, Canada",
+    "formatted_phone_number": "(450) 218-0561",
+    "geometry": {
+      "location": {
+        "lat": 45.4003422,
+        "lng": -74.0259438
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40165073029149,
+          "lng": -74.02467891970849
+        },
+        "southwest": {
+          "lat": 45.3989527697085,
+          "lng": -74.0273768802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-0561",
+    "name": "Maison de la Famille Vaudreuil-Soulanges",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1257,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfUVFY5M5axu6iW_qkWUab27prERcSW_SNrBrhjuCspkqWmK4IgQYw-L4l07bY8xPa_iUMfA-azfxEVO8Nx6KPURA2VacQKIMBlC6BQALpOqhjeFWI2ojEXnWEk_lu6ic5-jMUqXFDS3xnrIHG3Ohvfm2pqBQ1eGchAuHNH_zFfYp6UvqcXT_AjZ2-noElhH2ldSf9QbtiLf9o9nElIxrdi_VRiNT9OZ7XmM00IYREMAXqx1D0c-QSoSwFWxPQfox_Qe7HRRRvtCx_j0wZXeFkWKIqUpLZAMwifnF7-V076xFEKcCEaXvM_93FcIVoSljgGd3yFD-KGUeSoFdcl31mYY6DkbArpzZjgECa7khAElR9VPUWPgdTGZY6IWKcDXu8qpyasaoLnTSWgfKT7i4fh7dgbvWCg7ix1W2IsEDXby3g0",
+        "width": 1920
+      },
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109112467907770871891\">Maison de la Famille Vaudreuil-Soulanges</a>"
+        ],
+        "photo_reference": "ATCDNfXAPnWePL54_DgngKnOS4v5iTIk8unVCoKKKSxynYFO5Lp4HuQ5pZKGX3xiFxCu565jr5FWY0HU14QxTwRyFGdobwhbUixZFS0iZv7y1IF4AXfKUisjDJ7o9E7IBTRnQFh7E02yZW97aPuOaZWVnuDR1C_a7SH16UeNP5kxkV4H6YkfxIzVIfvrLMyzgDyOel4udbfWTggiqZjq4Bji6kr3OPGruJvWKfFeHdVgTCMzUxXnb7eZfLxA-g8tZYXGnB2086sM8XhjnoQapEXVvOqLO8KX5y-L9EFU8awN1UN60Q",
+        "width": 1024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107825564265193778376\">Bon Pere Securite</a>"
+        ],
+        "photo_reference": "ATCDNfWQXFchcQ3eoO8IqOBEi4tQeostMEshokI_TbIfNnyAysM5miR0_rBF2e8vYJGznV2_4fUtdHoSwwAEN0qZJ9cDR6_vQsycloXEMF8MuO4XJYVUAl9EtjYJxGoNPSTVwzN4Czksg_IVffpczI3gliPpvTt-weJH1eOy-NlfeI3MhH5bJ6ukduTof65CpQjf20nlpRegWwXC8j-AMi0godFBvwWjWggudpVrQf_e7NkwvZ75dSlv6LdPaLJPz0wiR6xCdOoGePyGjpy5-e3bs-who9_1kKjeYDW7nvp_PZQ3be_COetnqqIV-GEuOc5gxLH3o8rUsiUA8ifhxvnLdJqTvVkUsusb1MAa81gHTlE6eGooyolpASdvxH837larTzaO-kiX1eK9x_rAoqqnlvktRk8I0d9AnUsXoa-H4v_c5w",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107825564265193778376\">Bon Pere Securite</a>"
+        ],
+        "photo_reference": "ATCDNfWFoDL0aPn31Go82GzF0cZ9ulS5UTfZ7r7vH60ZmQRH1vq_fO_d-shCOV3VxtYVA3CVBDCQ5LPEUW9B-ahIDqVDMDjTQY5G84cOAvS0Fc8EzP7h4nn5aa-dyVKKZ0M7eP2Xz19288SRFwp5mq8-Oba-vYwWNSVNkA1am4Nfr2m4ZFJMS2amJoyQhgyXR7ccqYCOepSzvprndpu314NIJ2uTaRM_iqReM7fToqUkChFP5r7x_5RNcNPSi6MIMuyNhY68SLRKfJ11q5o4K3d41wHOlkDnEFVZwnJoGGUKeIqvN6QwG6Luuc2VuSi7qULuduwgy-R1Nj54qUnuN1mdfZmFoKWkXODgFrDinaoGvVaCeIL6jzRWpLAb1mbO8iFPxLBs5ZPYK-803rMxuJ_aDbx-qluz977dZQNTrnRlu2qCQLs",
+        "width": 1080
+      },
+      {
+        "height": 2620,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103521018403691589419\">Nicolas G.</a>"
+        ],
+        "photo_reference": "ATCDNfXRw8vf_7jaylfekFIyR-Ej6KfqVO_4iVV3I0JsXGV89EFf4WW_zNpSmEYOKgdk6sX7CEo2qy8O7hicvh59lBOnMufyzCmK2i89Q1KuP78dI2j4zoZ2jXLj5nOvHPgS8jeN-xY3K6JujwiKp1Eq4wIL_M2rMXkj78X9UUQWBPC5-Io8g7JdgkcUdL3BBP1otnxTjrY28MDyrjOB8eCSs3iI7qw37xPeylRtPEeZ9R3lgIykgbuiq5qYC_HDzIlMIQrxczNTRKBk5an3B8dRH07WPvXJQwOnyYuUWRo4VhhCWvLWgbg8OIrzwazT9asiZBHsiwDShp81Ozrx8E-Cd9fRhhUJbYgO639Q5KuOaGyNUxRxEAm-QJmhrikyXucSJziFIh5ZI3bnc_AMZ4-pHIdFJGqhw7g7Z0nJH8urzLzsqw",
+        "width": 4656
+      },
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109112467907770871891\">Maison de la Famille Vaudreuil-Soulanges</a>"
+        ],
+        "photo_reference": "ATCDNfU6R1JJMnwgt9MTUojoUE3yw7RpuPoIwiC-uV1SA2_BFNBfqZKQVDb7nJAuOMIjyffbCya2r6aAzn0784Ys6HKm7nO-9Y_MGvdLKRndbx0cIghcVXcRfWFKcgLCFXx1cC2_T1SFHsIwEtrVXzcpBFMJahcutdphdqGw9fJxR9S8fshnyZpOC7OC2zvS6Rf4PqlT_oJGqbP8C9nMfA10xOtUD-Cya6HY-23r-Rjc8rRB7VAJQ7nzWEN28VWCor6aEZYPIiFhmolX9xf03PvgEopmSUof6W2B6gS1IJ-yD1DSKA",
+        "width": 1024
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109112467907770871891\">Maison de la Famille Vaudreuil-Soulanges</a>"
+        ],
+        "photo_reference": "ATCDNfUUtNczfh4u4FJUEdGGe_K9DYKTBJHWVGZmKOIjc6AH3Qvi_rjPWMxQyQY1i6sYsBIAnlfBswkinkJ7198S-9-tJf7xFLYt5g_gKdhU4vL1S0lfF-plEfOGUbSVMgcfuS3_c1T4TGZABfXu-ztvwZAOcW--dQPc2fsX3dKITS9-sRSaUquKbbgtwnYDDLur1IvN0PL_a3sGzPnVlrcG-6A7jeb9Jg19Ulc7UatE2zXrLG31KbIGvRqrAm-_mgED2nxp0N5RABIxKglSU2cWG6z72JPRdx3TFG2O0O4dbdqiWw",
+        "width": 4800
+      },
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109112467907770871891\">Maison de la Famille Vaudreuil-Soulanges</a>"
+        ],
+        "photo_reference": "ATCDNfV7Vya3XTZcVPgUL9ytA5vpEemfHhS4WeKSISo-InrmyevcYYkpcFMfYrspyy5xoShG47WOCrnJRFi3EJOn5fWDb-eGVsB93qunVAV6wcMqWWzipuZg-rECEo-9rRUk5TEprLldDP71QJajLq2QtcoZqFDXBGsXQl8c0YTM0sQTM2h_gH5O-tBQGuOvGg8irxbsOf1elD8R-UmoQbDqRMvHPUEFL-a-jrsKUoXi_3jTEoBhUxRbUU0jdB8NLiqQx2g9ccixcBfL8ShV0Aof_7-ZYJROIRry8YPsPM7ORFQCdg",
+        "width": 1024
+      },
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109112467907770871891\">Maison de la Famille Vaudreuil-Soulanges</a>"
+        ],
+        "photo_reference": "ATCDNfVQSGwJp7E_yw3fwBuGjmESY6Miwpb8Ot_1KjnMrIkmP76o6T0GG6p3SSti_GWJNnM0IcCm-K_HY7a7l6VM-OAhD5HVLBav6JIgO8ekgZvvANWpjCH41i0lK7cdNsSBDvEPuRb8tU2T2EDkyMNTm8usQpsTjDi5oc_-GyYxk0AclCOpM6YIqxa5m-cDmelwRE4moQq5E14v9JQVlChjrgI87hJJWlBidIrymlab9HJt3nCNtgML6-vyc5JCKEV205NBmdDJtpqdUBvKlIqkog3nkdhGbuqqocdOuehfSgYlNw",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJe6m8x-E3yUwRBJNoLSk8Ank",
+    "plus_code": {
+      "compound_code": "CX2F+4J Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX2F+4J"
+    },
+    "rating": 4.8,
+    "reference": "ChIJe6m8x-E3yUwRBJNoLSk8Ank",
+    "reviews": [
+      {
+        "author_name": "Bon Pere Securite",
+        "author_url": "https://www.google.com/maps/contrib/107825564265193778376/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYxbvxSp4RwBURc62wBumImzlhTxTW_KUhxpLpT0C_XLnt-05W=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Not friendly behavior from the beginning. very very cheap and unappropriated toys (for a 5 years old boy, some animal and broken cars) .threating the child who clearly saying I do not want speak French with my dad. They threatened the child if he does not speak French, they cancel the visit and they did and made child crying when he was going. I told them if you want to cancel the visit, do that but do not treat wildly with a child, child clearly repeated many times, I do not want speak French. I cannot forget the react of young supervisor and manager of this center with my 5 years old son when they made him crying because he did not want speak French and more piteous, they suspended our visit for one month because the child did not speak French. (I did not understand they punished Father or the child?) Photo of the toys for a 5.5 child and the small space that we can stay for 1.5 hour. Supervisor could sit on the door, but he was sitting in the middle of this small room and we had no space to play.\nI do not recommend this center as a Family center specially for newcomers. They have to learn that the family goes there are not dangerous, most of them are in the divorce fight and it is for the best interest of the child and suspension is not punishing the parent it is punishing the child to lose his/her access to his parent. I hope parents can be enough mature that do not need to see their children in strange situation.",
+        "time": 1623203987,
+        "translated": false
+      },
+      {
+        "author_name": "Elaine Abbott",
+        "author_url": "https://www.google.com/maps/contrib/110532882100188643407/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwFj1Q8dWC3deNr2G0NLn5IHBI0ASAUpGpZbAWQ45JdnKlKw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "No one greated us at the door and the entrace is not shoveled properly, we had to bring the stroller back to the car.",
+        "time": 1674399691,
+        "translated": false
+      },
+      {
+        "author_name": "Artem Polybenko",
+        "author_url": "https://www.google.com/maps/contrib/101922131099645459998/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhNDcj0PbdPvZY1KMfbj8wZnxLG_2Qe9JlB12RaxWK0QxWvVqh=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very good",
+        "time": 1722220661,
+        "translated": false
+      },
+      {
+        "author_name": "Marilène Tremblay",
+        "author_url": "https://www.google.com/maps/contrib/111042595429282436720/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBsFJsoiBKiDPYPcCm0lXnzs31G3CfOHqFxgNIMMVaZHnosQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "We were lucky enough to participate in a Language Stimulation Workshop session today. We received a warm welcome, and the facilitator was very kind, knowledgeable, and offered excellent advice! It was a wonderful discovery for us, and we were delighted. Thank you.",
+        "time": 1688057287,
+        "translated": true
+      },
+      {
+        "author_name": "S B",
+        "author_url": "https://www.google.com/maps/contrib/111790107542543683775/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIsO5BU5WyUYlZ2ftLI-OYSNe7DjQZdVX8Ow_Qy7BjXkrrutnc=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "It's a wonderful place that provides such vital support to families and new parents. The staff are really kind.",
+        "time": 1719800096,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8719597976095855364",
+    "user_ratings_total": 21,
+    "utc_offset": -300,
+    "vicinity": "15 Rue Louise-Josephte, Vaudreuil-Dorion",
+    "website": "https://www.maisondelafamillevs.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

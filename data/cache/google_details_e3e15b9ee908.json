@@ -1,0 +1,336 @@
+{
+  "query": "Vaudreuil-Dorion Incendie, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339718.182534,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "500",
+        "short_name": "500",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Forbes",
+        "short_name": "Rue Forbes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0R1",
+        "short_name": "J7V 0R1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">500 Rue Forbes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0R1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "500 Rue Forbes, Vaudreuil-Dorion, QC J7V 0R1, Canada",
+    "formatted_phone_number": "(450) 455-3371",
+    "geometry": {
+      "location": {
+        "lat": 45.3999152,
+        "lng": -74.0473524
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4013862802915,
+          "lng": -74.0461387197085
+        },
+        "southwest": {
+          "lat": 45.3986883197085,
+          "lng": -74.0488366802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "international_phone_number": "+1 450-455-3371",
+    "name": "Vaudreuil-Dorion Incendie",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115094910626262265546\">Dany Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfXrnONMNbpvH7XF8cdwF7yOttzFqLHZh988E9GAUPQ3r4lQ6gk1PEqma1E9DUSKXKvmGX7AV8uJtKEasjietau8mHSagoIXJ0lVYvJSFWUZ8V_RR1lNyUn-H2m1qYPk-MDCYyJEdVY4vt1HFQOmMoHUr4Wn3BonQQtHrTJvX75fXgEbnRnB6Tyoknf3SIaWlrcekUavAjnesyChzVOdS7km_Og9_vZ1efYOgoTx8YNNFH1wBwqa7K-4rKFenbnaZ38whfb-vxsm7SfQNQikM2rLwBRCMGkmAtib7U3uhRa5vkosrVSOSsVdV6SrTwWhXLpR2u_sh-jJUKSsJWRIBQCNrmSc2G-1xs7Up3wQ85dcHuRuAy7B3A764ynJpoQtrI3ZL_ETHYIOQ1VLnr8qyVT7Kqre94fI4KF47xk2F7PDyJ1C",
+        "width": 4032
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104049684288933503058\">André Chalifour (Zombie Graphique Inc)</a>"
+        ],
+        "photo_reference": "ATCDNfX4WnIvZR4PBOAoZfBjhfrWqXV-MmknUwM7Be_C8lTV8jmx7tjTefYFHVaghUAwfyhgCnbBME6bw6joDQbb1yrnOjZsQmZiPyJxArTjkjbgnV5EtF12fi-_UKVwgVdvhGmIyxm-O7TifzppvqGEIu9KputwUi88SZZ3lk_TG58S1_ALk8JpmHcze1cyRyTXm4O5WJyti2Z1UNkNHrO4ejlvB09zMlLqwIJoiIGyrlJd4t8CzDy7aUOsb83Rms5HvdvctPYXTCHmKniIgmFvQJuU16kb3I7Hlmvt18biEY1hnqv5AsXc7KGWSIhfAvNtCE0xcTG8Z8G5JFa3fhn3PgaPScTZTGHp8mdCoK4sJyvnxADTOCOqlHDdqdAnkV_tcZEm-lbK1hFX1Il41VTn0N0YEBc-30rR-z7MFTtnpWoVczc",
+        "width": 4608
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115094910626262265546\">Dany Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfVBpUaJrR_CmKWtWP2VdFhz-HchVuYFJGVEL7aDJ7STck7pRllpMH5xsvMnZQ5lbbZ2Cd7VvyGDzE_VpfpIZfVgU_9sKd6V3SbFzwaZaEK9yKMjMrLtA_T2ielweSVOPeefbZxrOxhIYhXk9SvVHNhwy6DvyPPQlHBA3h93LkAg3nhQVcxlLPKtKSXjST3UXpeKjIgWNoJPh_-8mLMEoiskHY-lHf_Apom0M-8536sdRhqgVZ3g2XD7R9Ht2PhN1bx47ncN33qpNJqrY-2pJVxqW4cPeTvPuz6Njd5GpJZrXd5bFdUta6ckzhPbX6ZuamQj2Rmg_LoFREulmi72g_OKH_0oRJdnRaK1DdNdIbIfiDds5AqMsRWJSrIO9kvcxx-JxkGOsW6MHA_d0ZnXUBiI7dGB4ZR5EqK89UVg60h4iw",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104049684288933503058\">André Chalifour (Zombie Graphique Inc)</a>"
+        ],
+        "photo_reference": "ATCDNfVNQthrtT_ya8fxKE56AxBYrh2F98zsYK0pKx_ASCHN9_0IhuOxyCuaDfv91749H5IchCbUlAWlE_RxzR8DI9m8h4NA9kPVNR4sD_aPSxE0T8EN4GBtE-R_JLcGE8IdWnLVmfpqgFEq_N0TYDkS3_kSeMCRWVYdKHkdhVbJIUI-Icx6jN9Bq_i2wW1QoG9dcaatNZ8Bta2uW1Bh-b9RpUWT9kEnlOQP5mgMfZaLNY-GSVr90nV5HR1nzPIAIPl7tn1WOCcHoxg9ZRFa4WdRDoItebyVXzUI7z87D5IQJpoxsu-ucVaRNhhzkSKeDG4tkslXbTkKJRfIMlNn0Fou22S2B80tUswGpf-y91DX63b3GGuiBJIImXcKffy3YhrrQpaHqublGYvAK8fclIIWDXRdOqFkPY3IQ5CnNWjZcBjnjA",
+        "width": 4032
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfX4Ri8EXKTrGKIEvNaZYu4A_E-z5AtpQC9f0ujH4Fe08Eb9ZfLhuybEFjVman-jsRqsHupkShULyn4f985-BM7mq32ob9CfCHpqsxkVDvZCbkNVY4rXDOnaem_meetG__jx76kIAzA4kkuO_LwzI35-sud6GmmB0kecH5xf-GPEwn7uYuAmrK9AOWVV-ePPZNWqFazYAYt-KI3kNGDRjexF5lGgfyXNI7xVpRIykHSCNixaM7obg2p2PlTcPoRUQbKsb3Wu1XPnauH8E4ozvlUd4A2v4YvnMlXFhSNjEthdcuK2Kq07nbYR8YPLUJ1LOW-lyu8B0lcJsbHROIH1gTyP-MfSpwj-u-l5UM9IgNL08-GZJOwc3nS7LPfEybDQg6puYoy_2-4JsJZoN-x1VnmPYqgANNac9mV6cdRrv5EGEw",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJV_4COC42yUwRRVyb_ULd0Ak",
+    "plus_code": {
+      "compound_code": "9XX3+X3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XX3+X3"
+    },
+    "rating": 4,
+    "reference": "ChIJV_4COC42yUwRRVyb_ULd0Ak",
+    "reviews": [
+      {
+        "author_name": "Dany Boucher",
+        "author_url": "https://www.google.com/maps/contrib/115094910626262265546/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDaHOQVm_U-DKVqkslWafkPPPiDbrfCO9-OgGtKCSwTYv33B0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Superb new fire station, an open house to meet our firefighters... However, we need more firefighters on site evenings and weekends, not just volunteers.",
+        "time": 1508679861,
+        "translated": true
+      },
+      {
+        "author_name": "brandon reid",
+        "author_url": "https://www.google.com/maps/contrib/101516925354883121254/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_l9qXARzlor36zI1IZYT1CfCBX3X56SFgo2QrBNaUMzPzG4rB=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1729987658,
+        "translated": false
+      },
+      {
+        "author_name": "Joachim Andersson",
+        "author_url": "https://www.google.com/maps/contrib/110090730385331462932/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJpndF4RTdnYk6zhmMFXGgai4_oYkz-erUMtsX7_gZ6yQ7Ww=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1700455616,
+        "translated": false
+      },
+      {
+        "author_name": "Danny Allaire",
+        "author_url": "https://www.google.com/maps/contrib/102071832613956472501/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxsUYuzap57ppn29duQ06VNTnVJlhgDGIPXtlejpNcqQCHPOYXvA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1684023182,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "fire_station",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=707308421289565253",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "500 Rue Forbes, Vaudreuil-Dorion",
+    "website": "https://www.ville.vaudreuil-dorion.qc.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

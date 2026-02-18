@@ -1,0 +1,324 @@
+{
+  "query": "Sheipi Essentials, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340437.3474267,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Rue Claude",
+        "short_name": "Rue Claude",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P5",
+        "short_name": "J7V 8P5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Rue Claude</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "Rue Claude, Vaudreuil-Dorion, QC J7V 8P5, Canada",
+    "formatted_phone_number": "(438) 869-7411",
+    "geometry": {
+      "location": {
+        "lat": 45.4167556,
+        "lng": -74.0499844
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41808133029149,
+          "lng": -74.04861881970848
+        },
+        "southwest": {
+          "lat": 45.41538336970849,
+          "lng": -74.0513167802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 438-869-7411",
+    "name": "Sheipi Essentials",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1791,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfVQ0ieSdlrSNNakcNxZJuu5qg5sFyJBzXNwfDdj4rYapNkRhaXoWRDvxXCiFZdt-uCX6JC8tsG2OVn5PJnMGg4woUESvDzjMb0u3m-Quzpo6cYaQSsSxCDtr4opShk9dOnNjTSp0j-ti4oSmMa4T2pC1MudkLgPRM5LBnPQpS1HdT6B6hypZh0WLzgjiXBd7S6Y83fZjpSigaUVhbhsEypn1KlBu2_cthCg372juck600-4sE0uBw3UcaOSKOgu_ut_EjJUoy5x7YXdanO0ZWXOfmhR3uIMZ9JmtvwFgmQd8A",
+        "width": 1049
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfUprTDbfKoGPQnD4X1xH2rpsIxAkmE9iSuo5-wBumotYpSOBKd26IINS0z3h-Uu1Yg1-C9riYjjf7-FQg6wxV1Xi-lb5u7vSfKgOzVqd1zSMZ1CQbIKDIDTbyRBKApvTnGTf9xaccg384BU-f3v7y1egGj9CT3qxmvmucTUYu4xzPJFGsVgStk7cTzf7ReNOyDxI1FWVAa0fFdV7VcCXqms_oPoQfjysXbnhdS5F_xamL1JbbfTgCHtGA6_4lkABncBL0qkt-cuROqoAvYtd_GYaexkMgRraRozwdVW0u-_gQ",
+        "width": 1080
+      },
+      {
+        "height": 1104,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfXxi7FWlaQjjunK7ONdusoWfFfRQI4PAAUqvzdCqzSTTKTPpi_8GRTgQ-AtzL7aLJ6IZW-Pdj5gJ8sR8_lC5ceq6HveW8JVTLPl0MZNHQfhkZKJ8Ja8-cLAm-0vGZmw79jSv7TUgRyeCO9KvodL6DAlrW0O4MsmU2KRzWqC11OMtjl3uCAynYMNYbEuKzJuKzJjIN2EmU8zPCBvCfH8HPLSmSaZ5nUZUWBMgYbei7cc50GRJL2u47Pv1jzT_txXIp031WsFCmFPooCBL33mFOWjvKJvWc8PP23jk9UWC6EYDQ",
+        "width": 556
+      },
+      {
+        "height": 1632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfUQArEgZzS1q2UJypQbkC63tzLu_L4WrakFtCEGKq31km_LyhhgnMTAhWqYacF6gJIf7wU_ATzglVnFA6mzvRyU3Tr4siIZAzKD4VxSLQxb7qHCOO1t2_mn8IW5tCiuRZ8PLh7iuweepKGY5bne2huWzFHXy9XLLkt6i_s8_DwB0sWb-DwUjMlpm2ObGGvQv70JJE6xBWi2CAYE14uzx0T_e0DY8sWmVvx5LOZuJExVkqnV7jkQpFbM2vEFSreu9wpUA0pndHgKxBBhcQwOJiBvRUYZGwxHQSwgF1R13K9xRQ",
+        "width": 1080
+      },
+      {
+        "height": 1147,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfUnj5ff0LOE2l4QacV_z0BJq5N3J88BtRHaohn3m3FUFma3tqjxvfldQ99b3FS84CGNbthqBzw5mMGcPEE5xe-epd2gUsqTpRWnSgpyfl71BwiaH22xWwg46yRrkDFDzO21lZUWycjdqXXvJWL_cH4rGqhCUMb2yXp4pgs5mlI4_6KkvFwDL-mZFIEbHyvJyT01SX2Eu3G6Y2pxLzjs9INQo5k8b6Ri_lUYY0UkuWU0lETbntwAPruec5Q7UIypU9Hc5sHfdQ9lCNPSbF8jDSPEHcSdCQjahNY0HIYSnadHgw",
+        "width": 898
+      },
+      {
+        "height": 1187,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfVFgZAyIS7CEJZ7zJYllFm8bgTRtZIu2H32R6OyX5rzfc8ZBCIzcRHuI88siG7RbrQBhvFdWtaXrhwxuSPbZW-45QUHfgw3VI0uS52Zb3RWFCGu8PRdkho0sxbDIjnnLu-yT0CqvNGDpYkX8UXwAOt9IAkPvt2V8THFtTZBeHcBhMHsDkUSZq5Wvg5TBiLAQFMsKbk-xgnTxFE3MMzshLjL92ze2DHwOoIZ9DkMw_i_iNSMSJcaL9FHQa4Xn9CeoEj_PLyuY4YiCjXaHIoiryvIRH6Rhf255KHQ7lIzuVkAsw",
+        "width": 1026
+      },
+      {
+        "height": 1064,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfWRPjo9nWqlrbIu3namC_dI-zzGP99A_imLXAyJJppBLNAp4lfyMSUURKdHCJPm2rKmcvEYwoyZL2CVHhuZFFFP_snKZWfj60d-YghVLePAMFWZcE7aiWWZUYgnVILKQl42Dsr9rPx7xlhQ0wLahVhn7r1YsPxpmKrKa3FgS_sP5BxhkbLBShybuMo34hP-vlscrUU0diDYD8rgS-_lIra8x2WsxInSAKFppbv9Wk3mPq_cUuWl3xH1twTYv8mrgfxNNiQk6pJsT7xrU1FrJ2VK0a63hdYiBD-4JblSFD0T8g",
+        "width": 681
+      },
+      {
+        "height": 1043,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfVTC771c55Apbar8J5xd1MuaIRhGYoGLjzYen2EjyejAnlII2yQRDZa9tGC3F6qvd-ksFirl6GCQHnEZvCsF92cWDkpcuknNwbPVmQzIF7hyIr0ui-uOEDkb0Rxpgp3v80tosRoc-3a4aF9ujPILfOPRibL_EB1v9plj-Iy-JBz9qdaJrVLlubJnMMhSEH5PjQGqFrLpW6vEx5XfUPX2eiX0jAEwz9Cy6n5yStoK2BHAFi5O1mbXiIdYfWNvXlFpMegA-SujW_W4jFZnNZCHWDG54Z7MFH8XTBKQm5rMfsayw",
+        "width": 599
+      },
+      {
+        "height": 1177,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfX9EsPRCDdtUBu2FNWlCbV33CXph_SRi_D4AUbgJZqlNOZxj-m6Lo6OrdLv2CIwfbDicEZA1CENf5p7UbZyep5FM80kB8vtVkvltUllbP6xIpI6FLUKXlXFYjaCi6S4DeB_r3F2bjgMkJOP9c9ymQp-BCs2XoktFdBG0bXM806onIkEYRYo7ZeJc9J8inb8twsVf1Uo-eQkoAIgPFW3fZaVDElJA178GZPdhOghqeJck1XZWL79VumDRjIrV6h75vBTqlWaLFB3RA43yRKKACsh__zM9d6ghJe9ywYPcxgHDg",
+        "width": 955
+      },
+      {
+        "height": 1170,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110889983601790129415\">Sheipi Essentials</a>"
+        ],
+        "photo_reference": "ATCDNfVa8DI0iyCIAI42kHELF1EWiR8lI-QO2qTNclcbTuFep8OzSqiwKqWrXInx62G6z1ln4y4gX7U_HPnx88rmenJpMheQS_DF2Q4pVdomlbjUmNJFi6Q3L1McYslXkoFnxT9ZFHqGGUP8mMlms3rEU2ED4JRWRpdV_BGnowtzmGlT1G3TKgU2mV2koArJseH3hFRJvGN_9nV_FONuFKNqpn_6NG0s4RVn9NyVSJkX3CSLqhDhuobU4oREr4FO85IhqZri_F0H7bdSxp6HkvHJVZHUpWKjx5TV9vIqwE5jogucvQ",
+        "width": 814
+      }
+    ],
+    "place_id": "ChIJ544dHzs3yUwRO2wpSMyqQqY",
+    "plus_code": {
+      "compound_code": "CX82+P2 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX82+P2"
+    },
+    "reference": "ChIJ544dHzs3yUwRO2wpSMyqQqY",
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=11980325753119665211",
+    "utc_offset": -300,
+    "vicinity": "Rue Claude, Vaudreuil-Dorion"
+  }
+}

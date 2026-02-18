@@ -1,0 +1,443 @@
+{
+  "query": "SAQ Sélection-L'Île-Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338989.3343508,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "106",
+        "short_name": "106",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6L7",
+        "short_name": "J7V 6L7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">106 Bd Don-Quichotte</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6L7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:30 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": false,
+    "formatted_address": "106 Bd Don-Quichotte, L'Île-Perrot, QC J7V 6L7, Canada",
+    "formatted_phone_number": "(514) 453-2632",
+    "geometry": {
+      "location": {
+        "lat": 45.386774,
+        "lng": -73.96271899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3882588802915,
+          "lng": -73.9614010697085
+        },
+        "southwest": {
+          "lat": 45.3855609197085,
+          "lng": -73.96409903029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-453-2632",
+    "name": "SAQ Sélection-L'Île-Perrot",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:30 AM – 6:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107466471852928356998\">Colette Tremblay</a>"
+        ],
+        "photo_reference": "ATCDNfXEaVsoe4QqYL1yF2ItW9GdAHeGSkLPdK-rVWKJojnG-bXOZZ54FBnGYEUnP8ixufVnt2JDovf07xvZ2PPVdOczWux4-VcaPsB2Y0oy2_yhCarmEC-F5TNSH-YAB31ge7iBQoqVCcNrgFuomUVwaGrNeaiy-sdKblOkqFXpJAkNuPUyj22cU0DR6-_aG-TvRFJ4W4voaTfjfOESIg5-mLRMpMYMoA7mdTiuLG9jVSXeQXGjiN1w9I5DZtRbvOseNbxpSoLOhWALBizBqyr5sAtW0BgnBTkTE3jL-2UGFMy6WoBnOX8Uvwf_TGzSyWYSdLnCHE3K8fVC6hHicdYByhqNMGjAopgGm6wdOSuxbkJ8iNqPjF3Hv6U91YPzaTbTCl2hac5kTPngtjCJQnseBNwKOVou4Rec8twdE31_SRJ2XA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100256504779099800688\">Al Drov</a>"
+        ],
+        "photo_reference": "ATCDNfX6RB86zWuURxPAe1ccq3kpdZsnGug1EThJy3N6XoMSxAKvlaPkpC1XSPLaghHwoJWIzN4Ki2QrsfOC17IAqq8PYt9p55mLu9ZFREVSdY7DnOmlOMZrOX9ti9KyqSyPeDiw3cSAgWbLLX-lq9opwceFdIYf0jsxOWEf2kCdeaOSckdatM1QKvc3R0ibE7Wi_FMlB0zb_vSgE7WhEUz2L4XH9AI_8pbB-SXrV1ELa1Z9RYriVH4tU5CK3Hu1LKvxRdCw4Mmwm0Hvo5_p7uNhPOyJ_7i-gA--u7lP2U3zXmAcdl8w9lS3tJp7IRjqSQiVL0-tkjdd_YFBFNq1Km0RXaTrYo7nz4PqGePas3WNIKSfmwvWir-oMZ9mzWIawrBupQCRTVylINb4a_dJ-oF6sycuu4qMotH4ob1rjGABpV8",
+        "width": 4032
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111112220381390239257\">russiachand heikham</a>"
+        ],
+        "photo_reference": "ATCDNfVgUv1Dg5iJBAm_aa-GPDYc9WkXS83XcNp9xnJzc5DfMNa9a-BOw6TC3Xr-Y5qRTRVIGUcEukwpK2x484ADQl644UDuofSmCCF8QrKnTF4f2L8jdP6lwQ86XpDxgLgixV9mKSJhNMnodJ0TWC0a81Jn2HigZLAJ6sbe8Sq9E-gCWM1ImgeQVCtBeOfj8KwFg9PbbTZvjVNMHN0uFxysCfjX6xFw3TegW-C93B36tR6TE6AYZkt6jktikgtYVtMe4Oiwlj5FWvNdQpocQIgTWXIBafEwDelkKFndiPS35bwIEuXJpli95vtqLR-OqNznQDoKIQEdFh9KiZKpPgTTsjffd1FNkkycsO7whKzEBWS1MWurqLc65JcN1Fb8gKwZy2MBYojSHX4riphWxeapWgtl2ls2zucJe9-2-TZU6DA",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117090614614575746982\">Erick Cabeza Figueroa (Kurdox)</a>"
+        ],
+        "photo_reference": "ATCDNfU1o_UwvM0a2xrbbP-qXZQL53pUQwepKfIuZqdTZThPwrbIuXpfEX_3g82Ov_Wa_b6y6gI-BnnI8dZJYzMJiDyxMMjl1g0BEi4xULkF1oRnGDN9vQQF3SXZp6N_-J-2PlAEJxKbSDUgzFwHptN73ZtKkfWdHPqpyvYB45Iwj1aMntclAPNwhkAcS5Hr5UCo810aLbNJXGVjnRqztaoiHuEo7xpSfEEWPJND9nC8KLtrfbWPVQWpILrepks1VFU429GanyA3_-tEqkidIx6NEuwVsMc4N6P99L0gSV-dTQDp_EDyQNvt0ZM6RLf7lQ3JiqpyDx6ioaxGXVjkuV9Pdqb57p7qLfM124ZP_LiNV5-B-WwY7skuXLB74Ff-G0gK1H-1mWW1Tgyk6bDw-020zaE2Z0hvNXgWMGJqoof_U-3VklEU7Q9k4ebY2LmgWw",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103303902243243359786\">Natacha Filion - Original Account</a>"
+        ],
+        "photo_reference": "ATCDNfWuxqczrvxYk6x6i2UrU7MexN_f959fdc9qQ918a49RcyN19uH9wH5BpIazVhiV84-6vRZu0QyxaWnIJGyEak33shU5qXec_96hq3CESZU-Bs9piqiwrZjFCIquYGajsVAD4267uOoHEoPwqnF4P2fFl02LX6QtJWBh0okXXFoi0gzzdnP8i_o7oRtk-ebh1Ag8xp3NQsv2WEAkwVyhrkZ47nx6dbNBi1JkNmXltu8qnD5Ow5dqud2dEdVCgFequXI3qmnZW85shuiOJEfvMD3scZs8zeajfL4y85a57fm2rx6DVHqs1wJrvo52fF2S5zdE7b9-QGumNaUuFWO9kqEtq1rPN8HDB2YVpjlWA7OrE6GdesoiiZlvkbmFs8e9Bjv-MmsYY-0eA3NStXdpi2tJt9ErVwWeJuqJk60h_z13UQ",
+        "width": 1920
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfUG1Gw5QIeuQWSjeao0VekhsIEDFkDXOloSsXo8URaLvPhKuEeAzyfqFzzBbv7qWzCH8zRcT_ClEh2ZJJ00mvWwxhP3AXZXB0o8FrrvzpZTLGqrXYT_mW7lbz5gyEEzfTwarHGtWuvilzteXQe-PpYHFtgxItiJIx2UF-ybQeuylGnZ-QOUU-gnESBPJzdVRUzkyfKaQs587MCrKxfps7OoWqDQtqbP9lkbtsvNXg029y_GRtJvjm69Pk621x4kSBmsbr2bKOt6zBvcA2AavtNfZqOTmB5xDEMTWiECkwp4zhi0hbv4jtKGK87pAPrU6Gm3TbIt3E7OirH0ArEuA9gv7f3mrZtqEM-Nu4-aTyrAyjvmnRrit9hm7-wBT_zKKmsf8HJPdTlh7NC3WmnYjj0Xtr7zC_SUa9q6j0d5tl7H6QWB",
+        "width": 4160
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112085097024365730753\">Donnalynn</a>"
+        ],
+        "photo_reference": "ATCDNfWfKb1L4mygluINvxLopYj5M1OtQ9nBkjDZ2BFz1MtKP2tnli-M-RPcno7138RWIa_ZKbYAmtn3a8EsKZ-bh6mQHozCF_T5E7kFpOIqDn89RvLHsCTg1faQdWhGjzcB-e0B31UjlZPAHCcAvcruCkV-dLYczFv6y-sbAPnaKd_r7zeg7QonpgKUnGPRjfU03qYm0uTE3jAVkL2IPc0scsp9UW9EEcJN5LmIsXYnBuLwZlldD38gDnZzCvT5kGm8b6j8ASMMTW6-s0-j_V3zSpESotWiFfNF2xrSL3R3PTBtiGGieLFrB8W-gnduaclnrJjYw4q5yAKGcua-7sJOsrTi0k93pskeDTaHD_r-wbEjnhDaD401xOYQzjJJexNAZ_xniIVMkAJyngm9v4_Gn0K-NfTj0HSpzDW64_3YTL8GEd0a",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111112220381390239257\">russiachand heikham</a>"
+        ],
+        "photo_reference": "ATCDNfWR9sBUHHIRPi3xIR6MQvAe0g4kRTpAFWmP3AIvG27Mlf5kpF6yccFSmCdiVe5ljtxmkkF3rYH5cl7zmsvzr7HQspjzjXYBXrwf0nKVTxtmhiZiu8-exoYo_kt2gGOJ0fT_riM5sACP7sVqGcOsYKf4Lx5ajyNx6WV10xHIJM_iLJc66U6_05TCd-1X7qD9_J9VMDW_2AntJdNzagKp2iBNXvvv9UziJrJVXR5ZfVIIjUH8goTFpf_82tIpXslrX5QXeoym6Pq-UQvZwxiQztFsiEcqy8tYatH2MU0_oja8H8HpTKrXknp-7ErpxDmIY4WVpv69qjHkzSDeabFgPALNrKEYu7fRUGxonHv682PzygyyKEZmL4nwp7CHD2WCkN3TqtEcUqnhj1-K9nfB7yvA9GFuc94yWlJe91wZ3HxsHw",
+        "width": 4000
+      },
+      {
+        "height": 4048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116081662343000590199\">Richard Niyungeko</a>"
+        ],
+        "photo_reference": "ATCDNfXxIhGqPUXeYJ-gnxKG9Xlbg2AofS1Rp-uidkT742bmP6H4ol2stfwBSkcDp_3V9ubrNqQez2aXcUr97j602gdH48-x3egP94pzQ20QyW4XxxbVBfrhZozFC8Pf07SmXE-iKK2L3gzPxAQT-OVxGiJWz57tId-o7w4zWhlOLfXpFlvPEWrbw9xFMQjjnAi9pFhewn1Pso5KNF-G3UOop4eH7vnAZW_EK29BsQjM64naB9J9spxGZsFTeeVsFVD6YDTGaqb3MCQAXmri7fGvhSnEsYLGHq3xRKgm_a9L4fZ4SiIhOl3WjpAtVUrt-doidoHdR5HEQl_Zz9ZY0kO0y8kYlIuFcoby0Ae9X-5IHsyzkzpmRfPUyQcXQNPq1RRmqYRsNG1W2ltD1QGhTsfciPL145scVGqG5WtR5PTVEIZz8JaM",
+        "width": 3036
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111112220381390239257\">russiachand heikham</a>"
+        ],
+        "photo_reference": "ATCDNfUqucT8yXM06JNhMMCQAR4a1-dfm2YXhFC_3G_AWjKyVGoOlxdGzxNTjSHiQzR50LAqZsuk02gUAw_UOiHHFLBZ-0InvcHHKoaIYqUVfDFL13twxIoOwo2pXgG2XgLkFkUjsRFXdGjX0K283ksW1Nitm9N73sj2J6C0M4AJEqNizZ_Jfc2jBb_8n7F-owuQ-yGA-yGqfDiH5I8kkJdVn1BpOwGZFy8z0qM7c9r7qEfYBR_oD3Qxh-dHuJIy93gtHP1jCLx_-6sgU741aidIhIiuJENwDme-30w8zDOAfPfho0_-PjUm-jQsf_nduNTrwkqhwp_BmSNzWg0gjurHZleNjRb8RBjO4lcEWBeVFilhzGOAe2cEputNCrbQuf_8lblxYrQwe6RIifjqZ817QL_2Gux_f-3adaAYxI6rcnjrtQ",
+        "width": 1800
+      }
+    ],
+    "place_id": "ChIJg3hzXnI4yUwRIJZcR7D0rtE",
+    "plus_code": {
+      "compound_code": "92PP+PW L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892PP+PW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJg3hzXnI4yUwRIJZcR7D0rtE",
+    "reviews": [
+      {
+        "author_name": "Erick Cabeza Figueroa (Kurdox)",
+        "author_url": "https://www.google.com/maps/contrib/117090614614575746982/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU99mig8e9Bykplsz0_y_0r-QVFsVm5KF2vzz31KMrmW20bSDV-=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "The SAQ in Île-Perrot is a very good liquor store that really has most of what you need. The selection is impressive, covering a wide variety of choices from everyday favorites to more exotic bottles you don’t often find elsewhere. Their whiskey and scotch section is particularly strong, with plenty of great options for both casual drinkers and scotch enthusiasts. Of course, their specialty remains wine, and the range here is really good, whether you’re looking for something affordable or a fine bottle for a special occasion. Overall, it’s a well-stocked store with something for everyone.",
+        "time": 1755992839,
+        "translated": false
+      },
+      {
+        "author_name": "Andy Singh",
+        "author_url": "https://www.google.com/maps/contrib/113414905356481181802/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXquI8BdvomqXzaoyTvxUKyb2K6UEWS40uJ7Dwr3lLk6GYqsFWSAQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "This place has more choices than most SAQ more exotic choices. Every time I go here I find something I've never seen before!",
+        "time": 1721860538,
+        "translated": false
+      },
+      {
+        "author_name": "russiachand heikham",
+        "author_url": "https://www.google.com/maps/contrib/111112220381390239257/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoM5dOoaIHgPKjRK5AG1rRXxRW3vM81-Zu8oAKJA1c1fYcopHn=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Well stocks for liquor lover!\nGood place to opt for variety of whisky, scotch, wine, and popular drinks of Asia 🌏 like Sake, Soju, etc.",
+        "time": 1655310082,
+        "translated": false
+      },
+      {
+        "author_name": "Anatoli Rouban",
+        "author_url": "https://www.google.com/maps/contrib/111787037819773131952/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuqeCMxKqOjWmtgqy3wZv5ny3XGIm9gU4nFqDcmoSfUogF3IYmYw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "The staff is always friendly and eager to assist. Selection fluctuates, but bet the store has little control over it.",
+        "time": 1759032733,
+        "translated": false
+      },
+      {
+        "author_name": "Holly Lawson",
+        "author_url": "https://www.google.com/maps/contrib/111125513115170657958/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6LnXSi2RGPxvGrMpYQjF_3JwRxBRwPivsOqmevFpmFfmYjoInpg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "On several occasions I have needed help with selections and the staff have been wonderful.\nPolite, helpful, and bilingual if I needed to switch languages for clarification.\nSuggestions given with explanation of notes.\n\nFrom the moment I walk in, to checking out at the cash.   A++",
+        "time": 1738153377,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15109282837823264288",
+    "user_ratings_total": 546,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 106 Bd Don-Quichotte, L'Île-Perrot",
+    "website": "https://www.saq.com/fr/store/23343?utm_source=Google&utm_medium=organic&utm_campaign=fiche_succursale",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "query": "Délices de Bruxelles, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338522.7631788,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "289",
+        "short_name": "289",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1Y6",
+        "short_name": "J7V 1Y6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">289 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1Y6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "289 Bd Harwood, Vaudreuil-Dorion, QC J7V 1Y6, Canada",
+    "formatted_phone_number": "(450) 218-2010",
+    "geometry": {
+      "location": {
+        "lat": 45.3813398,
+        "lng": -74.0159741
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3824420802915,
+          "lng": -74.0148980697085
+        },
+        "southwest": {
+          "lat": 45.3797441197085,
+          "lng": -74.0175960302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-218-2010",
+    "name": "Délices de Bruxelles",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106448438881651240297\">Dominic Roussel</a>"
+        ],
+        "photo_reference": "ATCDNfWWcmjgNBMq50OTPy32OmvMvNAdxU9LF8_SckM_7Xwh_hN279zsvgs9iodpmD77b2XfEr-Uc2i7uiBjfcAx_hwZ4sPX3aEiTJHSgISaVZtnJpz9j_qkWYdWJPf4aLa9Ey9OMuEpP3g5nioKfXsv_JCCCikuVklyNIfIOFka66bgXYSbWEVX4uEnR1GFwidx0F0aNmWcqae6kS5pYvUvEpN3bWI2gH1p1-FtRb0QidyL5fFkaBTdAsPdTTanybazisDxHxjPnIe2ZoVxVksbBAMzS1TJ-XN_IPf_vl_eAPX8tblQMSnRLs4iDPg6yqfHzQM1YojY-X1LnSJGPpyvo5JQpKI2aTk5g-7fxHCEi5nQ3pKNrScOnzr1YrXMDin-FJQPGYbKSofuB31TKLrLcJVyWmt3aks6bfWGSUrpTQpJpRXaG5qPuuUQVKtuQ2x7",
+        "width": 4000
+      },
+      {
+        "height": 384,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118200616782828969705\">Délices de Bruxelles</a>"
+        ],
+        "photo_reference": "ATCDNfUqiEBE7CFsTRJIDzuXbZT7KELqdXIqVKGV_4cA_Uf6GbdGgXTvs3CdvNphX9Et_wFYJSaZ86P3s6DZYI5kzPDYGnhpOtXz7BpET32sEo6lldXI_B40o4b92GfWKHy7icgE13mCldnBmtL7c0PN0RRG2WhKRVwVVAgI_PDLG13zN1mq6p8dz_8f524MUtcJp6yjCm3MvQ0mhiloZfdXI7P8dwDqvmHXXWq3zwvMxwiD1enT0citxwU5Qsg__BJ1RQuOdux580lgQyr8itwVnmH4m2iYaXiaH5xYgV7oEOGfiA",
+        "width": 512
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106448438881651240297\">Dominic Roussel</a>"
+        ],
+        "photo_reference": "ATCDNfWYHnZExVAWoPu-us80wt8s8HLpe09hHC4jAj5s6VCrYD8--KU-IEFa8_SPB3ZX9Ri1z_E34ixOE_HeaFCsdewgc7Avb7pM6q9_kAgG3tsjVUhVXNKdKVMM4BuP4G8igF3yYCxLW4gz4wWdVNX_Z9SKb4MfAc71zoJ_3MF-pF6N987MuCToP-77E8e_BHZ7F2mwMvvTGLPtrTU44UXMWoBlB1xCUX1ZpouvqHASw0am1r8MamPeNgmcFLgV888WTKdkl1tgGctKdTJo5jpPCKTpfsTxKBtvDfkaG0_fRpbU7nMNktDbgmrWYiO-aFaT-AvQxB83O3jqFE0G1GZOQJKI2jruu7DG2N9Dg8EGGPXKWk2hrjWFbH6lM_Iz-Oq_xeuuWf7e6h-VjCpfMn6V3dJUkMkeK1NhJliSxS7tmuKvoZ75Y0Q5YnlpC70DD4vx",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106448438881651240297\">Dominic Roussel</a>"
+        ],
+        "photo_reference": "ATCDNfWzSp5X-UA-H_xKYcF3UngotNkFDD26E7fSGGwe_7BE5A8wPOH2KoE5aWiuYSkFFQv1r1h1Z_n1VD67A7awwWEwTbldvzR6k2t1ZTYF-APZCliLbakT7LGvkbsvQfFReh0LKlionLn6V-AHZJDoKxGO-OfigUV_JPMIh0foXtvHODAeILCugULaWWv9_b752OAQeE8GW2Pm9kUgeefY4_YgN15zeKfi6_6HhcIU54GUMgqhejU8pOIUGS-B5j10jGt6gvuYzXn9CFvimoF_Jip4_b2Y_WMl9Ue2g5Wj8rOaRDJoM1B20503T8P_pAw6AUO1cK-xBx1cigbU8wRGskq2VsWWVWCxDDez_kvquJoQ32-PFrl9_JPFWCnJo6up6bpt6rmcv_ZIkGa0fguuUvOFGr-wghv1rkfU4p6C3q3n16Z5qsuXHU5yjboUjmEa",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106448438881651240297\">Dominic Roussel</a>"
+        ],
+        "photo_reference": "ATCDNfWtai6H7GNhf7BXzdFQ7_e1KW5ljSSLm-zLuDYatdyva27eI8pd4mr95XWjFLeJI2MVw6Htsln_iXx7XejNZ1GHKQt9qELqeAjwIsuUAjBE98x6wMfVUnZhaDpAYGWuPHKRgwpN79Rv_E3wOgRIiYNEKp-tk6bP9er9FozI8fmrrlWxJjiEr3mg4HpIx7MGBofispPZs6HYJOGYCnxqnr9Uo-W9OFial44QSDcOxC3_UN-0wex5WP3LHILSfAci5RXGgkqCI2Xuwgh9Mlshvh6fBz2rLC5IEjurl_Aht-nap4_40966bGyoW0fhfjm4bMYlUjf3Y4rRcXAc9fUvmtIl_Gdpomm9r5g9gZBzxkKJ8e7eNHCRI_JQth0Umqe7gwUDIe0OxCdl_xMIGB4qF0F6g_HZ8lrxtagTm8_xH5B-xA",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106448438881651240297\">Dominic Roussel</a>"
+        ],
+        "photo_reference": "ATCDNfUMCSciiZLS3PRW-MEzxUvtOReAjy9-7RhoMxOKxtSe5cOe2UjNGGRIftPAfRsChKb7bEPrr8hmYyjVYtvh2Pwz2BoaJJbhfzKOnhPxuVD2H5m_dWg4Le-Yb_4ckXTS1PN648eRt5qHV1jXdUJ0F7EDHdEwHQYZdbphg53-GDvWRpN-gHnCaVlfKEeLxS58SHltLVo2P-DOgi9axojTa-pJnU6oVxM_YisSwtBW_9llDb9g2MJFVpSltcLKcEWvxMhAzt3X-Jdos9-hKTSfKRqprwwC49KOBKmr9oFHzrLpoXIxA7db947tjGGo15Iqey2NRxZVWVXMRQHtCcaxKimTX__fKlHiLFxcL-z9gR-9WXIMyIVFQAtbhlarmUZYtfdUea-Q0dIGPbKyhJCqw_1TRpciTI1LNrGIi3wdsfdw6hA0SfMLdggtK-BPJw",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106448438881651240297\">Dominic Roussel</a>"
+        ],
+        "photo_reference": "ATCDNfXGuDg1ZzunCmTYGdDkVY6ivIPZblbzFu0dvIwDiShwn_hyV41RyOgWySOkSUIDccQaz-_qT2jYcM6rE8v7WA07SHBZNyS-HEnuaDthoAIosX83l_xVesdhIdAmIYgzCjaD-qN4IAQGPnkAkPeM4SuhFcB52QVv-ARCx31do8oLTc5mTjzZUFCTGiIWUQow9bVSQhdjfmY6vXMbraTRXIxQJUeTSF2p25AiQQ2EGnGonKmTZw0k0gqPQz_RRG_QsyW18-LSmU1IGdzEx2Wsm80xbJNgKzE3bFS8MZG_Kb4bQ8l5sbWf_a015AXhYMYLGzXt1fejD_g2wOBLIF_gYBGc3nTR6s7JjxBHJMCHHUu3YRmdK6RNocVMe6GTZEqNZ0hOX3IZ54lEJQm8x1a2MfHskCDu5CUl8Dqtj_SiTX6-GQ",
+        "width": 4000
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118200616782828969705\">Délices de Bruxelles</a>"
+        ],
+        "photo_reference": "ATCDNfVsEkMeskRj33BVr8PMEhW7xjalbBIWgt-IsnwQaBRgq5VXHWndWI80wg_bWJKgvXD47JhqbM5a_357LDH-01vMfRup9sO9P5Y7go1DP50b0eFxA3oE4P1cSJzlPRWXdh07u-c7aGXqWGrkKJjAKUz8Q46wiQqDbuye_pTlf4qW0bSd7F4nEPpxq7QCUHbfIgx44HKXgL8sdwcu-oho335hWDdM-LlAmcnvdcNjrdcaBFbzgSCVMK_8j6hlJP9L0Hs3U3xxRoPlFk_TO3LnH1SuY8lZwAsTAewVXytF1_HRWA",
+        "width": 1440
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106448438881651240297\">Dominic Roussel</a>"
+        ],
+        "photo_reference": "ATCDNfUh5AkO4DB9I-E3gABxnZQfwWbbKKpqSjSaCmtOhyD917ExAvsLvwh5HkEFoRA20VieQ1iYmqYNRH0IE8TG5IuQc0SwwJjWSygGlnvoagr38sfoEnF4p0wArVVVkzQWdyeZOC3zftA86-Jj2b86UJXVaicIzwcWOBeKB6FROoEWz7BI0cZCCO0ZM4Zb5IQS4ElvBh6CwTfb_v1PDDl0bBUkITEJoqrf08pYrRIo-pZBty9MDj0l86GaLEmAFrU-nT5N5bagygAaboPYcjjbZgMog7TC9Wj1xLrsjvPhFxGh7oRBS0F8Wcje7CCvaco7UcjhYzo5X0rAbl2ghz3ysWYdiTV9C3lYT9nz2qgkYcTN8GFZiNThzHTm2zptvgJwZY5S1mCkZoNhmQaBk6h4vA9GEZ7nQgowVLDo9vXBUUHlPw",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115150439809622095143\">Frédérick B.</a>"
+        ],
+        "photo_reference": "ATCDNfWp2nlxVNt6ZPLIGRCGRzeJiHr485jUle6nKYIg7zuhLmzzfUvYTQGPJlzgbjyNmHZPW72d7cOawESisfCKg_PsHSjYkQV5NTK5aI8QrMwbmdhtrefF6HpmipuB-Mp-50viQ-uJXLC3Ph4zXC_yJlMxuFewR3DntPbXSM88F_eqX1ygd6Yup5IMxEkjRCURaNZWONc6YEN5EHwjHM_Q5t7PQWXqw-knEcdSy0WBPyln8Ten8Y_iGdKJXx8cVEaoefeIowUF3caecf2TGrcp-Pv0vo3qXy3d1YYeLik0Ry_WGtRV2OHdcJLpj_WC__5N8noaOMiQ74ZQKY3Nq77SgtdZtPAFiWt6cHQjNqnE8apHqGe3blKKHjMCZ-n2KGlG1DWxfPJAHi-D5sVcK31IdKmNNhoBccJiNmWphSS3FD8",
+        "width": 2992
+      }
+    ],
+    "place_id": "ChIJDd9rYBlIyUwRLHMiMDSMhtA",
+    "plus_code": {
+      "compound_code": "9XJM+GJ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJM+GJ"
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJDd9rYBlIyUwRLHMiMDSMhtA",
+    "reviews": [
+      {
+        "author_name": "MunchingUnderControl Xyz",
+        "author_url": "https://www.google.com/maps/contrib/114566244901999358792/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2WWFA1QXbdYo3DXhe6x3HzQo3R9J9uulHZpmd1-lccCtmQA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "It's great to know there's such an excellent pastry shop in Vaudreuil! I tried two of their cakes, and both were absolutely divine. I highly recommend this place and can't wait to try more of their offerings next time I'm in the area",
+        "time": 1752016642,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Freshly made real butter croissants. The chocolates in the chocolatines and desserts are so refined and tasty. I like the fact that the owner puts on new gloves when he grabs/packs croissants. The price is higher but the quality is high also. The only down side is that it could crowded in there (we were there in the holiday season), and it could be tricky to get parkings. It’s not the type of café that you could sit down and enjoy the ambiance; it’s set up for “to go” bakeries. Highly recommended for their quality of pastries!",
+        "time": 1545600901,
+        "translated": false
+      },
+      {
+        "author_name": "Laura Hamilton",
+        "author_url": "https://www.google.com/maps/contrib/101226787814249544294/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4LPmB6FGstoGozU3zZSpddsSJAlwREhtr6fWRhAZppuI2qg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The best danish I have ever had…beautiful flaky and buttery crust, and still warm, with a lovely custard and perfectly poached apricots.",
+        "time": 1765723414,
+        "translated": false
+      },
+      {
+        "author_name": "Julianna H",
+        "author_url": "https://www.google.com/maps/contrib/102707417212316345594/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4ZI_QAkH_sBWnI1S4MD2nuQyC0t0tCmxqQicU-BPxllSk7A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "My sister and I stopped by to buy some pastries for a friend we were going to visit. We purchased the almond cream croissant,  apricot danish, a lemon tart and a slice of a raspberry chocolate cake. They were a dream! Beautiful lamination of the viennoiserie, light, flaky, delicate and really fresh, wonderful aromas. This pastry shop makes products that compete with the European pastry shops. The service didn’t lag behind. The gentleman serving us took his time, was friendly and nice to chat with. I’d recommend anyone to stop by this place and support them. Truly a great small business with pride and quality products!",
+        "time": 1726233663,
+        "translated": false
+      },
+      {
+        "author_name": "AR",
+        "author_url": "https://www.google.com/maps/contrib/108341897712157566734/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4D2aMP8qiyu_xsuYMT4_iscBB9ANIDbI0SB_6E45pv70W0g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very nice people, even better pastries. Definitely recommend, I try to go at least once a month and treat myself. Great local business deserves support, location is tough spot for them.",
+        "time": 1737549767,
+        "translated": false
+      }
+    ],
+    "serves_breakfast": true,
+    "takeout": true,
+    "types": [
+      "bakery",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15025851362541990700",
+    "user_ratings_total": 227,
+    "utc_offset": -300,
+    "vicinity": "289 Bd Harwood, Vaudreuil-Dorion",
+    "website": "http://www.facebook.com/delicesdebruxellesca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

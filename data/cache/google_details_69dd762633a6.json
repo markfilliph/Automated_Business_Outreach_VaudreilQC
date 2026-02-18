@@ -1,0 +1,338 @@
+{
+  "query": "Octo Auto Service Plus, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338687.4605055,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "481",
+        "short_name": "481",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2A7",
+        "short_name": "J7T 2A7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">481 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2A7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "481 Bd de la Cité-des-Jeunes, Saint-Lazare, QC J7T 2A7, Canada",
+    "formatted_phone_number": "(450) 455-3062",
+    "geometry": {
+      "location": {
+        "lat": 45.3831336,
+        "lng": -74.0911268
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38434848029151,
+          "lng": -74.0896844697085
+        },
+        "southwest": {
+          "lat": 45.38165051970851,
+          "lng": -74.09238243029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-3062",
+    "name": "Octo Auto Service Plus",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106080499817562396548\">Joël J Séguin</a>"
+        ],
+        "photo_reference": "ATCDNfXu8fXscr4Gfgvd7JgOxr_yNxv1xUH3FCeJU8EsUj9beMjjlJ2uOB9ekADxZ75t1JcOMRuQkZ-Xx8zwv0Svbf6DzPdJJqDvA8J5cm-CcrIFmFzET6VMwxPEJlHPkdQszHJBYbANYDf4dqr9MgDyjnpCyZNrcx8dyxnTHlEqlTtbpE0AyYPGBuPCR1DgLXY-L3TJyJe3eypqT_Ww3Tgl2pfrHo4BwbxK8z7km5gfQR3GQ8D3iG5nJtM35xrUKPsOKItqNM07RWcUWzTz27UwL75ATvfV592wEEzmToz_qP0Kq8YXsSbFgowJTkGj7MRoj1LGh7cO9TdeZ7whFmukQvjjD1OGO0ZgT34eGkNzNHWYTmiP3IhyNMtDqaO1KBYS3qgAcnY6JmlLLsPX8rHp8_L3iLClxMnnPk6Z8gtBUj4",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106080499817562396548\">Joël J Séguin</a>"
+        ],
+        "photo_reference": "ATCDNfWf3XTPlqyttSmj_G9xtpoUpR2xq5i9COPR_ftzMk-czBFBxM7_YFtBlnynIN91kOrBV6JIBC4qYfYpgZZA2U1T-1sfnVAqNYh9_-8mo-11kHfinTEs1linqrr964R64E3-2EAkGSgRW430vwSyQYW_NofeO3pSLN5smOAVt3FzbgRwYwgxugzewIAk-5Z2faTGx0tVkJuC5xxr8JxT5qpu0elZ6QEdJSWX4-QE1lx3qaYWgYQ1bAlmoBeI17zWMlLYBoLi_JLqlNW6naP5xBRX0tr1PS_ELsUY8Us62Kydk2oMMYhEGim3qqSj2KZcm4wbxqKPi3T1nK30IM0bzhfhD2VO6eP3erMOEtlqXLUXKCh8HxApfUnKqAHSF0Wl4R8GSNlk4HT5DCSXvIsiSfwVR-PT68wwZQfsyxzL3zOT_RAN",
+        "width": 3024
+      },
+      {
+        "height": 892,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117347741583443162354\">OCTO Auto Service Plus St-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfWFWU0fdAaNzZXvJkjKsKgDmMM4zsDh_3EiHH2w4si-a12t4PCz_wh40TRTvIKuGLUE3axI_OUFJ5aXRsEAYJoy6XFM04JJcUIuQvbyj7LFgXzJujfUCLao4uW5HtLqaOWUWmBsP46WL28dC7KrC_xDYaAFCXqC8buozM2gwz4_bdsEkoZPt34SHOqP7yxRjISxAoPJ_XEyKKWni2oisHIWixy0tTVD9r0lcqmIcZTVx0Q0Ym52W4IRdAgoUILsCT2uC_TgOb5t2aGIc9xqsSlF34MIHtGtalPNIRg3diqTqQ",
+        "width": 1360
+      }
+    ],
+    "place_id": "ChIJFalOn9lJyUwRIjtSR807LSQ",
+    "plus_code": {
+      "compound_code": "9WM5+7G Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WM5+7G"
+    },
+    "rating": 3.4,
+    "reference": "ChIJFalOn9lJyUwRIjtSR807LSQ",
+    "reviews": [
+      {
+        "author_name": "Matias Ruiz",
+        "author_url": "https://www.google.com/maps/contrib/105182856094467439840/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfs-VnXMZOSCJz_4j4o9kI3va0Rtkry2XH3tvhbD9mZF2ZNx5Z=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Very frustrated. Came to get my front tires aligned, and they wanted 1600$ to align and a thousand other things. When I came to get the car (because I’m not paying that ridiculous amount) AN HOUR before closing, he says “I don’t have the time to put on 4 bolts”.\nThere are 5 mechanics there, and no one can put on 4 bolts?? Afterwards, he proceeded to be extremely rude and throw insults.\nThey still have my car. This is illegal.\nI should’ve and might call the cops.",
+        "time": 1763826930,
+        "translated": false
+      },
+      {
+        "author_name": "Sajid Rizvi",
+        "author_url": "https://www.google.com/maps/contrib/100434977934455782113/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKoag6d2ILUqu5WNs9vy2J_1b3VKGGsK1HNcwasDQoIMZkRRhI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I was in a real bind visiting from out of town and these guys were able to have my tires switched out in a few hours. Great service, fast, definitely suggesting this place to my teams working out this way",
+        "time": 1763575275,
+        "translated": false
+      },
+      {
+        "author_name": "L G",
+        "author_url": "https://www.google.com/maps/contrib/104175846169953082293/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5d-PBVOPqP6GV7mHZgb4ZOkw5wvGOoumJC29yEdGL6M1viPee=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Friendly and accommodating service. Needed a very last minute oil change and they took me in the next morning. Vehicle was taken in as soon as I arrived and did not have to wait outside of the time it took to do the work.\n\nThey’ve gained a returning client for sure.",
+        "time": 1755622109,
+        "translated": false
+      },
+      {
+        "author_name": "Joël J Séguin",
+        "author_url": "https://www.google.com/maps/contrib/106080499817562396548/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVanWj5m1WZH7NDTFys8NMQq9EzJye5AdQ3lrnyaRotPKooL5-ohQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Parfait service, tres calm et pro!\n\nFantastic garage, highly recommend these professionals. Your car is in great hands here!",
+        "time": 1727189988,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah-May Cadieux",
+        "author_url": "https://www.google.com/maps/contrib/113805787414796891557/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM1M76tP4lrbzP9qtY8zxShASVVZkTmQzWpktqYu-oeSxn0w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "My girlfriend went and she got featured big time. They showed her other break in the back and told he they are paper sheets. I undo them and the break are still very good. Beware",
+        "time": 1755348448,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2606805512168291106",
+    "user_ratings_total": 220,
+    "utc_offset": -300,
+    "vicinity": "481 Bd de la Cité-des-Jeunes, Saint-Lazare",
+    "website": "https://www.octoautoserviceplus.com/fr/locations/octo-auto-service-plus-st-lazare-2/",
+    "wheelchair_accessible_entrance": true
+  }
+}

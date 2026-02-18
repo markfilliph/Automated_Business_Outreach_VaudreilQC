@@ -1,0 +1,423 @@
+{
+  "query": "Krema et Co. Gelato et Gâteries, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371471.8745697,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "360",
+        "short_name": "360",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2M3",
+        "short_name": "J7V 2M3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">360 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2M3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "360 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2M3, Canada",
+    "formatted_phone_number": "(877) 748-0888",
+    "geometry": {
+      "location": {
+        "lat": 45.39187159999999,
+        "lng": -74.0200796
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3932944302915,
+          "lng": -74.0187020697085
+        },
+        "southwest": {
+          "lat": 45.3905964697085,
+          "lng": -74.0214000302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 877-748-0888",
+    "name": "Krema et Co. Gelato et Gâteries",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101555339795989523511\">Krema et Co. Gelato et Gâteries</a>"
+        ],
+        "photo_reference": "ATCDNfX_Rv2wMIu9PIfIX3J9-KS5MDQQw5aJSVE3BZES7uls1LsOCw9QNqQf5pNtwoeZUPmhRv1ixcN1UF6rKAAPYvgjTm8Y55rm0iLe-RFHK7555BjpOFWoRhN7LgtTPWWoJx84tzWuhC_z-o4nbI5xgRzPl0X-x6Zf7gJMyBpnrswgVgdCge4ajfmQVBdoHAf-HoXSF5wP8O1RTwBbt_d2XPU6_3yoXby4Doh1iGTrfHUePsXp9iFZgC6qfNEaBVInQKD8DZIVNZgotqcHjplB9a5KF1hNxwC5k-a17QgBUlkCuA",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101555339795989523511\">Krema et Co. Gelato et Gâteries</a>"
+        ],
+        "photo_reference": "ATCDNfU_wTVHoEHdIYcHVwxSpturqYImOFFHkROYLdPAJNB656BLzNhN06_XbnBp3Yt9OvDjq9VdFNkEehDQowrFXWzQfpE6aOZqS8uzLLGW5k1RDWBao1L9LQmIY-Wj3T2Pal4zRNVvYAJ68H9sxJqcQDJRD3y_wSjmgPQrfI3DduN3BjHXTaGmB7WtoEmTgs1M1c0g2VuSBR1T1jn2TbK_XBfaEKW2bippQXVpJSzLqjxZ_bvCzPbdCFncyCVSPMo2KupH3Cebp10cdSXHWaU_0aotvd9BN5hC2p64yslPyAe-vA",
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112173995273033662085\">Olga Vynogryeyeva</a>"
+        ],
+        "photo_reference": "ATCDNfXpnQax-eg6dGPqzO-XBm8qvE1DFcTenN56g0mSXD_XBCZzBvtF_XesSmlUZUywbN7_H-byGHkGHIINXlQ_NU6dfgl_XF6Y5J54W7v9j2ql8vNUktWJUhk7owysBS2HEq_1yuDXBxnqbv9-Yec-7Yau5mwWvnd4jQpf1duVL1B_8A5wTYt5zn90FF1dkEbjcqo4tijqxhR_CJUaQkzuuRW1BZMmax36lVPA1amYtpSoMdUB9L9u5dJm9o9VgsF41wCdDRoKAG43dGCCinFnMMcqANEl22lu3kmvhkpxLzyxdyCoyElJMqkbvjnb7eJVMSkis6dQRKbiZelvo3KGTn4UNRGtlJu2Npj14W_JoZoMsVmyS9QiGI0_-NUNc50J5_rkBLc92O7D6kfb07CrcpKVwWcOGGzu11sBE3mi7lewPqs",
+        "width": 4032
+      },
+      {
+        "height": 3495,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110284291354175436664\">Minou T</a>"
+        ],
+        "photo_reference": "ATCDNfXqrelzvuiqEqr39U8Yxo_m0V0wEFDKi32XSE_B20xKLgv1y6owKtr1Xl-m0miLrufHJpExZVz18TrTPEFuzq-W0KPuzl39EbVH3jIUOsS9_p6r9qnkQ3L-tJunT1gGbZnt08NblL9yig2ogzTjUgzh_p9AsD24hnrSIrXcb3E4fb-eqYx5aye8v0oaBIfTOghg31HSFkBc3DfJklCUzeH3Z6J8RDB0QjN3wUYiyY1MfyWXWy_wGAmt5Co-Gbz4uDShjv9JCb5bqKUH5zheHjF-_-BpOriF3nAxBFZ0fJEqyRIKQqqLiszYTyTiAcDDPP53yuMk4KzWzFIXPNO-ujdEKHgIrCy_vRymYQakYOjzjUiW4yByGYjChMMTOgYzSn2jzHAl6zWQn_20P7UzYFc63ID0urI9s9DnaVR71PMsjAE1KNWt3P2mVhZL27Fx",
+        "width": 2621
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101555339795989523511\">Krema et Co. Gelato et Gâteries</a>"
+        ],
+        "photo_reference": "ATCDNfX10U1Od1hDAjWtQmPN548pqaxx3qhjq178kkSYpdTxEe-8IKq2EmrCqFBRr_RKNm3e9uKb-tK65y5X1VchL9jFbhqD2GZXTsZ0XJ9K6p70TEMxDYuu1NBZ-W6DyJXNWsIbXIX6YZam4cM7_z55PiIVSIFWJdL4vz9nrqfuDfIo_DTSpMEk7A89v4suKXpvKuWOHOdqnacPitq6Dc6ZjKuUTDsqny0B2yZTzIfnQaLXlyC_grz8Ya6ibwr2GiOk2rzLqvq_Uv7NeJSVA3QyYJ-BJK8NE1TwfYpoEJgIPZt41Q",
+        "width": 1080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104982848888893080899\">Manon Lafrance</a>"
+        ],
+        "photo_reference": "ATCDNfX2chM47tIqqck0db6EJl1vARAKhoDddtj_-yU-wQjDteuYAkqRx6zQOvsIvmr4YE4DO5L-sfGJH3wuej40S388Ci0sbrqRHm59biouvix_kU_LEHcy-q2H54irqG8_IhGWriUUl1KllpHp2B0R7ERR4lVu9kLUFSmMYCz9fiHze3v3l-1Z_U93Zpcrrqm52ZVBo3iez8YNO4ftS7KSiCungYtn0HFGtnD7VbJ7trVdCS9kQ7EQwIXFq4XxlRWZEpHAAf6lk91PedmNEXyX7mSbbAF-ZLoXkhUfrEzULpfD8ObLbxhg50xfeeTQpfDG1dX9jHf1v_ZGE0jJ6QCkpgGbWL58AEF5A-PF4WwDJ3Lhb7pwY3mdMK6RZRq90AiiBJSztNun-jAadby7n7dmCkB7KSfdXt0vDBYDsA0clqVI0g",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112173995273033662085\">Olga Vynogryeyeva</a>"
+        ],
+        "photo_reference": "ATCDNfV_8sQ34Nqa-aYUwYHWgs6BOC__We1wHSFlNtnUOvEvdcCbzLBeV9KxpXqDseKJrjyM1ESfp0UVjddhttgTOFczqSLvNrOIaKfYs18FpP0MS1SJKtRauxGvmqdm4BP3pQO6nqAVoiqEa8pmI2NzJCkJiJmbEIcmT_xD88DM9gaZW-aKhYPiKy89NbxjBopwAg4RiC50IxWamfx9S4YIsgeD2BadhuKpWtOF0r7UYr3u6lYYbpsTjoGikLX96gVOOUFWEueWJUluwhjXuINrLWTSE4ITluXOI2YXHAD2rOO44ANeiqS0LL2b-zWWA8cLjbEttlpo-Ca-PNsvUiyXpg44j6f6YFoq0mpbhzIC2Hln30TCvr_yIM-RZSIXy3niX9PG0txt0e-A7_HFgovDEIGrQRjaRZzueuEqXC9pMx4tPEuG",
+        "width": 4032
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110284291354175436664\">Minou T</a>"
+        ],
+        "photo_reference": "ATCDNfUlMYlEB77-hLe60vEHHBALwdr1uJbmZk_PFOiayR4L_Lx7vxwHpfnhcfB244wzI_6PzwXyRifDTmFVfGJTDfKryNKxwRjkQi4BT12fHk2wEEjdga9PcmAgw13eWZehcV5b3lGOKKX6DwQ03NfG37FW0zjiHpVQtfgYNWb5_Jny4YoPZqUJqsRu_dIyWlzUL0osgcZNHnY96KmiJ_IqjepSgB4tvSGogUif8_OGQT2eXsAdAlGEdrU-LSl3wkXOcYVnayVgN8as8nnT6aWkry1jBLQKXVmNMBEjS5sHmLCaq-qDw68CbTIPrBgBjcGswWcghUB78ryJCcvu4GBX_8ig7hPUCkTwFCFWec5LIu1pCJQ-mS5pU9Twb2nmjyDiY34yNewbT4EhCJGkByBI3JpicNObgL3dhjmqTJ7RwoQXpSl_LI9R4Rg9yxMuH_co",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115787176302072919041\">Anastassiya Orlova</a>"
+        ],
+        "photo_reference": "ATCDNfUAAWcmguYMH6JFGqswhfT3dlr-0xWBjuhAQU0lJcEmubKhgp_Nj-ljQoeCF8H636rvGImRSDh27elwrgoJpxcOn5R6VVoutMNxR7J9tsmuVTX_8Pf-HU_0RW6NS5zx5IZwK--_gjKZessEFD33TA8Sv6vqYb4jeYnKYP2s3AQYJmIjEksTXJUuQcFvGK2na4Spi8naJggPbzaIfpHVP4aPimeOv7LVSPQtwtt4KakZLpw7gXSo4zlKWKADDOG2tRPqp2gfDDhLCL51M_XW8I07bCah8AtLFBtENh10-9-PuI9IBsyprLeM6BKejjw4rWyNiKrveLX_epZJbFouiyCxaZEs0_6ukKBWH6gsVb6gR9QMybMCE5hJd76x4rLgtxZV3VtfXz5eXi0KcoQdMmGSDcpV-1EnkTIPMOJqau5kFes",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105517141414114735430\">Marzieh Eskandari-Shahraki</a>"
+        ],
+        "photo_reference": "ATCDNfXQXjIDrUjJTjhF8abq-y7opMTaYUOt5bKiiNMtwWIQVsG0rWoz10dNcXEh2X8li7NzaTMqpbhVucMj9eNca00a0or9WI1gxvhK98TXIFcyalpjuZCn5t44mGW6UFq6LMGeXeDR_kdFQ7FYiFsQ6jEBu3VRa7ZbRFEyue26nw68CXxTSw8EJj8ihnLdK9-2Y8Okw1f6W2qtOmRsHnGGKwVjSx373oS68SN9wJn7mjvcZFHjWPgWI48XknVvkXhxw8vC1twkJ0F3GmLJAXTZhCzI6rOI1t82ZepDe57HAsM-GW_5hbal3GZfH3UFie5MsRqDy5gbC5kHY5pUvBwx04ZMV-7AjGDAOklgZfhsZk1fvAlcx9ghjVyOKlTe-68QbW4Bv2787dxkKfRpTTGvDmh6lN34WBL56hJMSUCnGYJU6g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJswnnr0s3yUwRNhSMmFLAQjE",
+    "plus_code": {
+      "compound_code": "9XRH+PX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XRH+PX"
+    },
+    "rating": 4.9,
+    "reference": "ChIJswnnr0s3yUwRNhSMmFLAQjE",
+    "reviews": [
+      {
+        "author_name": "Tara Chujunian",
+        "author_url": "https://www.google.com/maps/contrib/112593393491097100709/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMTv_8ichTcmgOA3JHLG4SnSV8mPXgG6qs78KUXVDcmkpQYw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Went there for a quick gelato and fell absolutely in LOVE! Lina and her crew are the friendliest and let you try as many flavours as you want and take your time whilst choosing your flavours. The atmosphere is beautiful, modern while still providing you with an authentic Italian feel.",
+        "time": 1756749153,
+        "translated": false
+      },
+      {
+        "author_name": "Majesticbeing 777",
+        "author_url": "https://www.google.com/maps/contrib/109095958536151258422/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkcw-xXpEUEaMyYEh00caTeLGPgDgxN3ijKsIplQ3PAaog8F-d=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "This is the best place for delicious Ice Cream 10/10 I love the pistachio flavor ice cream. If you want real Ice cream then this is the One. I didn’t know the real taste of Ice cream to be so good until I found this place. Their chocolate ice cream is to die for man. Don’t believe me then go try it. This place is owned by a private owner who use to sell ice cream in a tiny place before and eventually got popular with time and they opened a bigger Place now, Guys they make fresh ice cream in the store everyday. Everything is served here with love as you can see in the pics. Happy Place/Happy Vibez. 🤩",
+        "time": 1751760875,
+        "translated": false
+      },
+      {
+        "author_name": "Minou T",
+        "author_url": "https://www.google.com/maps/contrib/110284291354175436664/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6bTIaKLCV5p-2sL9nAnzHOHHKe-pmmFEF5ckUlSag_nE7FA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Amazing Italian dessert store. Love the fresh made cannoli. Their gelato 🍨 also tastes great.",
+        "time": 1760922659,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "First time in this place, and wasn't disappointed. Good selection of flavors and toppings. Friendly staff, feels like a true local shop unlike DQ. Seems much bigger in space than their previous spot they had up the street. Staff mention the gelato is made in house along with all the pastries.",
+        "time": 1753238456,
+        "translated": false
+      },
+      {
+        "author_name": "Olga Vynogryeyeva",
+        "author_url": "https://www.google.com/maps/contrib/112173995273033662085/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXX4k3C2K__v-c6WOF0OnagzBzeOEGahuSROfxYPPc5GXzSw6c=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Great choice, super sweet personnel, very pleasant atmosphere.\nMy family are happy to be there, every single time.\nBy the way, the best place to buy birthday cakes for kids and adults! Great choice for lovers of fruit and chocolate and vanilla and whatnot. That’s THE place for that, as well.\nUPD\nThe new place is even more AWESOME! A breathtaking view, a much bigger space, the same great assortment and always the warmest welcome from Lina and her team. We were waiting for their (re)opening, and finally we are enjoying all of it!",
+        "time": 1747092668,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": [
+      "bakery",
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=3549610917300540470",
+    "user_ratings_total": 274,
+    "utc_offset": -300,
+    "vicinity": "360 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://kremaetco.com/"
+  }
+}

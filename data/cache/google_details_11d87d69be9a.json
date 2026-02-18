@@ -1,0 +1,117 @@
+{
+  "query": "Aliments Urbains, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338529.4579985,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "211",
+        "short_name": "211",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1Y3",
+        "short_name": "J7V 1Y3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">211 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1Y3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "211 Bd Harwood, Vaudreuil-Dorion, QC J7V 1Y3, Canada",
+    "formatted_phone_number": "(450) 218-4877",
+    "geometry": {
+      "location": {
+        "lat": 45.382478,
+        "lng": -74.013432
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3837599302915,
+          "lng": -74.01201316970851
+        },
+        "southwest": {
+          "lat": 45.3810619697085,
+          "lng": -74.01471113029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-4877",
+    "name": "Aliments Urbains",
+    "place_id": "ChIJ79lK9RtIyUwRx0yAs6Fr6Ek",
+    "plus_code": {
+      "compound_code": "9XJP+XJ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJP+XJ"
+    },
+    "reference": "ChIJ79lK9RtIyUwRx0yAs6Fr6Ek",
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=5325624901611048135",
+    "utc_offset": -300,
+    "vicinity": "211 Bd Harwood, Vaudreuil-Dorion"
+  }
+}

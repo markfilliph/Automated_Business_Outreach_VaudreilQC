@@ -1,0 +1,441 @@
+{
+  "query": "Acco-Fruits, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339519.5281727,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "128",
+        "short_name": "128",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8V2",
+        "short_name": "J7V 8V2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">128 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8V2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 9:00 PM",
+        "Tuesday: 6:00 AM – 9:00 PM",
+        "Wednesday: 6:00 AM – 9:00 PM",
+        "Thursday: 6:00 AM – 9:00 PM",
+        "Friday: 6:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "128 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 8V2, Canada",
+    "formatted_phone_number": "(450) 455-6546",
+    "geometry": {
+      "location": {
+        "lat": 45.39397659999999,
+        "lng": -74.0353494
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3952154802915,
+          "lng": -74.0341028197085
+        },
+        "southwest": {
+          "lat": 45.3925175197085,
+          "lng": -74.0368007802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "international_phone_number": "+1 450-455-6546",
+    "name": "Acco-Fruits",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 9:00 PM",
+        "Tuesday: 6:00 AM – 9:00 PM",
+        "Wednesday: 6:00 AM – 9:00 PM",
+        "Thursday: 6:00 AM – 9:00 PM",
+        "Friday: 6:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfVx5--QDzSky9YNQRWjwzml_Yk-5G4m5ZvHuQDWiJl-35jXjPhtZRb0sbYyvEaave8yF7ilmOSI1n23vuFEDmcTOVtsRvDT1HKmLtDZ9QB_kCe2CJQkY8Y19fB5CyQslvccZkdZ80SvTPm9afFuiD-uVqfbIJZAJZjRLODJmxomcYuo6DQh_oGy5PSSP3dLhMGTcbpWI7wm9c_R_4TZ0tr7jtoYjLWreTcfpmAwJrc1yy6QZJXg5FmNHVBfMl3l2cK3nIfPYZvg_D_n_GrIDNlvuy59RowRYXKSzOnrP_6ntg69IMeSUdONMyNmE1--0fj_sFvP6IcQycY4-XrrItdORitozjVguggPMQSPvRb1CL817h10WNkg00sDXCVwNH0pXaMvAZDf8rErb5ISZ27vOUe5-zENlOc3EuBsEJ4",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfVRvA1fhnJgC74XGuIoX7GpIkExhGMV9-9KJO7KaNLg62E2_gjSZaf4JImXDAU2UWtfhPHUC47G2Sn7p1msGwU3VbmBXEHIiyNoEIKuu0XYh66zFi_VTP8BIZl0GuO5Dr3GecMuTtnO2ZfpZ4r_hNWTO0Owne8eEDt8NPYDYEW4AKVAYOPKXoDVKr6o5ln8laEQluajCUgo1zTE5iVYF8p2LPG7JdhaES2BG60aqNFumdhUSRc2pdR0N10igmzFaUOdGt9YZCsPm2WximaQiMa2n9dLAQBhSn25d6e6ixccjhyfVuh9zLgeLEmBT6Z1qVSPGZXhMnT_MN41fxl0OjSXBIjAmpL6P0ZQcNxa5VxOoMMHyErS7tLuXv9rWmwP0Q93WSU0xj3BhRxl9dmpiuUujgO1Br5YBE60JjXNS7TgkA",
+        "width": 4032
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfVBXPCKNch9UcrQwOC7OzHoUeyfMBf2yAynodu21LUeMsBKUO4dC_bpxsSsiV5od8iETVFenQJ807E84NWovD0CyjoRAGmLTuYcJ6bfIumINFda0NH79j-w5Om44yTkbBlWA7c1PkHxzf37_FLia3HaXqcWdOlhjzMrgFO4Am0oLqPJ3YCGhkBdrz2WyWbFENkpIW8-glz5cb1X_90ai75pdblH98qMVHanjRj_FF6Ng6olcfR7gJTGEOPh4eCtcw18aYMaJc8jwJ_o8WZtJGPfKZfloBRLkh_fcrNP6v0Ovzt413qwoF2OExfXVUXKK9FCWNJKvRrDV4M8n973_f4G1JrT0UH88CNSY4QIICPo6fpdCob7RKXOh3znycxi0gnoOHQVJQowPKbT8Yc4aoGH1k7IIASEF16FsyN4mOUDYA",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfUGvQuI5pgEIVU7S8SqSqZ4612RzAo6Ajvkj3RO6d6duLpxxPIkyWuhnq_WIsiS1M99n4z9tIW_twP2TvISO581Vb5vA6tKMktGPO_bfeDk4rBwZCca8CzAqJFl9zVZ660o51SuqM81MqqnhWgEfIZXnbYYb3vA0_zLBsarpTiwV45R7Sr7SapcQbWAx3sTmKGpmT70OG2sXld7LfNeLafLEYcVVOwNX11UKKyzRh0-ot6VriJ0wZdrX68yiuq5qWjBmqklhTqty9OfG2QHuSS4BTPasHxyC8eym5RXRDNDIDjwn-WCYh13ZNWzc7KdCmq4OUi6C0WnClRqcU36CcidLK8leYCc-BIZXvHu0SglSFnfah8rCOa1aMcksCQT6mvd4pHbaorMSqoBGJuXo7uzXhZxAiW91ZQYVDx5UQbQjmZs",
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfVBVMp_rl93vovTmIVq1Cni0opPXG7Urv0Yc3iyQvfZZVQQoLilOV3XjfM09-G23jGW71LsdyAD7QKbFmVhFymuIGZ-jE3wBdREhTtU9QT4COFSn9H3hYv1RAN8onHgrNrKngZThTeZ_0XGtqJYmJ-4OoP6bSrjABN20q0YALhYbRQruSKldjhDHvbkIolCoPDpVCB6Q9uc6quOnt83zBvUMght8VUt3lUVXjDtC1TvH7VouAdQlp8HS6HnN1b-L7kPREvBGNXciw5jYWTsMS_NHa1KP2qOajAeH0ftdcs20bRYwiuttK9rxmxlWgdy8-h5W5dlr2yVlcOp8XkJzuOyzYVSGV7fAI8FIT0YWolZInKw1ncNyAblpX1JLTWVStfglZDM7bjFjJOCrVAyCAp3m634vI0yoBK22uTYVdmsfDSO",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfXoT6nBYufR2fi9rb6MdWQBY_vDetpqI74EJpt4tfd6XULMDrNTkcvBS0yOXlQBg4bcvQqQRkrtDLwf2EukCPWm18cvVPSqDORclVrc9u5wL9AUs6o7u4wlxfom4klmby9Zk0mbRQZBG-xyIDm-gzS6YJXe9hFn05FSaC8NgZF1i84IDUZJ1EriNTGxMtw1AYpmz_6KD63sizvwN4HcoAwANWIydGGDDf-35yfur_r-h9qhoGNP7AjG2fvrOEaYYyR_bf4amJ5-79THMtoJ_BsJbRjktyvNcgyRk402gs2frwbE84nlU4MQQPgUKYyQNeSf-74aB-LiLnDvrjW5on5olyWoiWB93AStRd2w7kaiKZfLYI_9gIMIOLO6PSjCOkRPWWxv6noNBu1s7CfBrEmY2aLk2PTSMsFrnwBEGTi58JCe",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfVRXbKfwRAOABd6_eg1wUmX1g1AVlaENRPom8rdkhvRZQg29T8Bf43ps0i6cXDb7l_kB-KR2nVcPnXgbK9kJPtYhUrFWgx7SuiuDiui50uugCj55XWSVSp-4_lw0ZgWEXYQ1GaZBgfGL6Oc_WRzKgi9JeJeuKy30Unkf12RFPciJNz2cBZyyg2hoFohd51j_qIKUe-WBQp-Pu9-aqqvRJl9usNuF9ns7VEuIUBoDddP1aMv_2WY5QQ654a4mHFcs_jgCSuHpcZAwmconesBWawDqdkYF0DOZXM_ldSlzdQD18vbvWBxLuD6hfzNPmS9PIKRMaNuTbltNXN0DbKSBR1HgaGiVmbPL2Bb3Tc0iqT3s5rO2sfDFLwxV3it4uaOI4LzGHpMnyruKTOibVf1G0lRhSoA57M9NclDlAXcs5E",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfWzzgnZOIL_eRxgFD_c4N39PAb17TReCOY-NYdXhrFvkjCOxutv57ru2ktS9WqaKBlFAWXdsl7LmpIeWcCZlf4fNQ2G7P_Gx_d7D-f2_B7IVLK7o5pgSgBJzaaiKjoUwZiW-3QkVmOWkYyl5jkEDcB3Trod0VVGb0_w2h508ebHYn_f8gvC1dVDJ0SCIlcnKvj5lq5aAIzmbTEsU75KcdtnzT4yaOlgUURNRNTFEsKUyHdZGFtKkYRkjGHDBmiP8JZmdUYt0l0YxgaDpOtkU5PGTJjc8rITqpFK1XT1tjedVhQS6aVURLFiFg4Nkc4PsDp0jY8ulHwmIK5OVRs84VKQBG-nxQ_3ytqZmNCIjwbLy7tBL3BqovHZ3E3biidBgz4ykF0NrpUe6lqzXd5fB8W0vgVtEimx00Eq-0wyrqs",
+        "width": 4032
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfUyIxCetO7K1Q2v4GAo5Qc6rCHZjum0AiuWkWJrrGbZdcNbjChxLsaU_z5ZyIz_CSXxwz9zBydSY_JIRsIu8Z12CSyph26kpNubyQjYG34QoCo2kTzxu0FJiOgKwjn9_cYyVrPJjy8pq-sAxwT0MNl7uv2w6nJtNr2GhY2v2hpZRcBzRUIn9m39Cpup-C9G2XgJY--QEQnHySoE4wZxk1xfMo7dBj0FeciPoJ8HnJ3YggdE5WaqRgddkJAJcksY0dJCuRMam3Xi8I_NG3zuNotSflKm67T5U5uiFgRCUaioFt_CsXMks38fVgqI9HWY3xlBz5FeAO3uuFJI_BenYp2fOpSCD5O0Gq9iBpXZ-bQ_YCcy0Ew7iH_IleB4z32xMxLSUv1crAoBejHo5goB4nwdPPWdW7aJIzIwLJf_Fu8bUA",
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118012961791156982754\">Sangy Kim</a>"
+        ],
+        "photo_reference": "ATCDNfXo9cdUEXNozei8mXHYHOJSNPeBbdrt89fHZRgrHnSMzEJvE5ddTpYcuH2rOe5ZQYokbH9-xF1CiefFA3TMRqMYq7so_4OX5YnyElURNGBzItp1dldyQI9_7S-18RvYoB96ch7AsQMUa93SsaEaXta0nIKIdgvAYmOT7qUQCw2r0BargPsMXscJ40mtmGV354w3_9WXzH43RruIkFr3WDM5xkaBpqrWF79QJLjnCGNPYybEu8XK-ILRc1uuhts_oXWEObT5n4rI83UyT-tbsvr4GeMnbAhm4Nso8MuYTBk2SmyfKXqUA_MSdv8f2VdcZhFpgvtG2AlTIZGtdCjAXd3EMsMv9Ifp14V837D40qUgWDW9oL-dc9IFnlSn4eBV0BFznYyrkH2IqSWm9yBUl7iNCnC_mSkWrX8oUnppqNE",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJJYG8btI3yUwRG5BK0jnYjbw",
+    "plus_code": {
+      "compound_code": "9XV7+HV Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XV7+HV"
+    },
+    "rating": 4.2,
+    "reference": "ChIJJYG8btI3yUwRG5BK0jnYjbw",
+    "reviews": [
+      {
+        "author_name": "Georgios Sousa",
+        "author_url": "https://www.google.com/maps/contrib/108928537028808022953/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV95wqf3vl3wtpuGNNEZHZkCraLth8ij0F7zqF_c_-_6KNzJbPE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Great local depanneur. It's bigger than your average dep, has a variety of choices in beers, chips and canned goods. Sandwiches are also available for a quick bite to hit the spot.",
+        "time": 1502772007,
+        "translated": false
+      },
+      {
+        "author_name": "MK 47",
+        "author_url": "https://www.google.com/maps/contrib/100624736514546101856/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRK15AXqViBEbuDUT0maft6wu3wwWxEuEgXhmQ8fJOm_ZoIJji=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "5 years ago",
+        "text": "Great dep for all your needs and everything well priced. Just watch for the lady at the cash sometimes she charges the beers at the wrong price.",
+        "time": 1605664125,
+        "translated": false
+      },
+      {
+        "author_name": "Adelia Arsenault",
+        "author_url": "https://www.google.com/maps/contrib/112201232875475889089/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2f_p-QXf8r3I3pVbZEkh444B856xnJOJc7FQmdUGPeEjhjA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Always great staff. Shout out to the guy who ran me out my bar I forgot, so nice!!",
+        "time": 1650671138,
+        "translated": false
+      },
+      {
+        "author_name": "Samuel Archambault",
+        "author_url": "https://www.google.com/maps/contrib/117984676555911283349/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_QNlf0P-Gi1fkju1MOhaB0vp6DJmBD0aVLVlL0fRAMcUjQg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Great, but no Orangina",
+        "time": 1714333467,
+        "translated": false
+      },
+      {
+        "author_name": "Joon Kim",
+        "author_url": "https://www.google.com/maps/contrib/115037825943734142773/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUy17-sqP-v8o0UY0xAZ6vpgAbrag9-E7kDukT5Xz1wzKbZkDA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Poutine soooo good 🥰",
+        "time": 1613267698,
+        "translated": false
+      }
+    ],
+    "types": [
+      "convenience_store",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=13586753393699491867",
+    "user_ratings_total": 73,
+    "utc_offset": -300,
+    "vicinity": "128 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "http://acco-fruits.edan.io/"
+  }
+}

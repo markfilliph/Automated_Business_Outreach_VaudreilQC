@@ -1,0 +1,352 @@
+{
+  "query": "Salon de Coiffure Styl-Lib Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340208.7508476,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "local 430",
+        "short_name": "local 430",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "585",
+        "short_name": "585",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8H9",
+        "short_name": "J7V 8H9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">585 Av. Saint-Charles local 430</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8H9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "585 Av. Saint-Charles local 430, Vaudreuil-Dorion, QC J7V 8H9, Canada",
+    "formatted_phone_number": "(450) 455-3623",
+    "geometry": {
+      "location": {
+        "lat": 45.4066657,
+        "lng": -74.03243909999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4082386302915,
+          "lng": -74.03114131970848
+        },
+        "southwest": {
+          "lat": 45.4055406697085,
+          "lng": -74.0338392802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-3623",
+    "name": "Salon de Coiffure Styl-Lib Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfVnypWv0WTjSufNiUIsGb-i_BrCzKcWTIL_apsV2ZSNeEKxnCI8z0ISAq4XXNi3U7pszVlP-xBPSnJV59nuZwTVbvT3mIYWTapxnCaX2aXfmBTvwJeO1ZeBb74izTFVi03nKKsBuz929kPC0RhboCDIUxVl-3L5cEBY-M6y5-nbZxFpl77p_dhqLdMAvoEYU0A7N1xZNJH8-ZspZPWt81Y1jWbGfv9RXQlRNhhtg80-yLzEi4N619taToS2GgCWDufdKL-M5V8mXC2oazF0LZPtDe4uqleye_1G5HX-zPOCgs-95DBpxlSoJNkXzfjOSVYvY-TsVeYRmo7GlXzjAydq82FpIqssc_S1c5jXjZ0GhEgbLkNp0XbOZ_wONpbfxFC7uWAtuUj6yzcziDFggzowGKoUXFsGK3Xbbjx3EruJm3bTvgl9abtJ-KrhquMO",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116349342363262176122\">Cynthia Demers</a>"
+        ],
+        "photo_reference": "ATCDNfUzDYb5yggI6vKOvmuwstzs5fc7Db4L4v6N4eJiK5FABHZuWSvA1Yoci4sN1ic8VratIBDKWyQp9w0McUnkq7-MC72HvB7e2pwUg7AuaO9se_mv7-FL-Tu2Wr5mS33YpiGXP3AU1qa8miQInDmoa8l_P3zvpnuzXX7n3p3waRJLS70wF3x6YY9SN4LowMhc-DV8d-H-6hNMbbS2LWkejxCmtKvyafuhbDNYhxcQBy5k_bpE_s-EvNypEYlrMBtRHJ8rOMT88z4Waf29xup0K9TWxvZY9oXTk8rWTBatUwfMgIdD-XHtYJCfUMNRoWPbaDUjhpfY7ScgstWBLg2E_ds8HTktt8VDvWYRbyo5MslfCqkHGtOgbOLxQDS1VelAxs9vyas_71N-vmorRTX5f2ynYkkOav3jMUaIcaI_1U_Q5A",
+        "width": 1920
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109015621870084600908\">Louise Danis</a>"
+        ],
+        "photo_reference": "ATCDNfUy5C1glOqkIrqg2TvifuIsL6g6l3KyFYFU_-9goEbPQdDkq1iVbKM_2iIx5Cs4PZm2YIIcCJjhGI9sKaJTRwUBbj3Ig31g3nD87IqQJWty_8erSGXjw6WL5-RFUWNLJ55ZLoenaTVHYyAZx_Q3iM9sBofNcyf5qJXAhc_RFiV4CwBWrEL6FEeyz4gVzrw88lV-IUiYS_13tu1z6uoO8dHqlOJATGoJieMa73Err0i37dyATPHWtEK3dgtqLMOV84TxQhgKq_1yahkSoDX-ZB8vTynUP2fGddvkBjzAv8czsjS9aFBiDb6M1aASp6WaxzcIzSBnicNOwrq1MEYHjxVxL7SRZJYahlcBhn6SHm1xbC3RlHO011X1c_TwrDXFd-ctnj9Ue26vaLl7xZlji_Z6V4cJFxhcZyuKm9xv75pf_Q",
+        "width": 4032
+      },
+      {
+        "height": 2230,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUhndHWrmvv-P0463c0FfhuNuRxghDX_1n1yCi0iqdJxf64oe3r36q3HYEH5lQavNDnLgHR5tjPHL0J7aZ8GTwWwHgeb1LVx_EVZPWSdbaEDifnZMU1xFy3sUhuxdCeqiek3F602LdBprJE76YNEB-02wyw_yLgXZCojgO8f-VDKDYVHAu89qOW0eci_obEaSRD2EHb-qWkGQ1xzIdCc1qnWparNMJAVe__H8_FHKswbl7LHAgITBRv6i_1nb1wb1VdkglAe9vbGLZzFl1cBoKGdDTq-khd43P5WoZi18PPDz1nUJ45BZ2zTVvQJMokpUU8v4cfvZ2moSwYuDq1xSROPQmpYXfPDeCVD8e1aNZrgQHrsAZ4vayPNkY2q-a3iY6JD55I6ycjDwasHskwO09-WkVDmhKJomb75AOJWyghUQLW",
+        "width": 3961
+      }
+    ],
+    "place_id": "ChIJ3ZTYUM43yUwR1b_lR3wws7E",
+    "plus_code": {
+      "compound_code": "CX49+M2 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX49+M2"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ3ZTYUM43yUwR1b_lR3wws7E",
+    "reviews": [
+      {
+        "author_name": "iAmKath C.G",
+        "author_url": "https://www.google.com/maps/contrib/111436192908610007092/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVenxx0bu5QIKiYg6uSJS4j81a94zxYbghsQjjpCT3jqVZMrMgY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "3 weeks ago",
+        "text": "I knew what I wanted- but she kept suggesting this and that- tried convincing what the trend is or maybe because it’s easier and faster- pricey for nothing! I regret at the end and will definitely not come back. Positive note: The receptionist was polite though. Spacious space. Lots of parking.",
+        "time": 1769312671,
+        "translated": false
+      },
+      {
+        "author_name": "Li Merrick",
+        "author_url": "https://www.google.com/maps/contrib/118103448650062192273/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5C9gCewXhwiXMUdjmFnvWNqkrQKqxstJwwVPgTfA9T8BbVOTs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent salon. Came in for an undercut and a trim. Maelle was amazing. My hair has never looked so good. She even gave me suggestions on how to upkeep my curls. Will 100% be back while I'm here.",
+        "time": 1762029597,
+        "translated": false
+      },
+      {
+        "author_name": "Duane Drover",
+        "author_url": "https://www.google.com/maps/contrib/112887398364812175358/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsTOTFYz1LQBahiTlsbsbnPM7qc04B8Vb1tvXwEM4V4ROp6w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Maille did it again!!!!!  I have been seeing Maille for more than a year. She knew my needs immediately the first time I saw her. And every time we talked she knew what I needed. I had a big party last night. I took the show!!!! Everyone at the party talked about my hair colour being perfect. I have to say Maille is instinctive with her craft. The art of her placement is impeccable. Also Audrey makes the perfect appointments!!! She handles the timing perfectly. I never have a wait, and Maille is always relaxed. Style-lib takes care of their clients. It’s not a factory. Its a complete customer satisfaction business!!!!!\nPrices are reasonable and totally fair. I recommend Style-lib 100% Maille is my lady. Audrey will make sure your appointment is a smooth experience. 10stars.\n\nI have to add that Maille did the best job again. She is fantastic. She is my hairdresser colourist for the rest of my life. Also Natalie, who is the owner and the receptionist is wonderful. She doesn’t speak English very my French is about the same. We laugh when we speak FRANGLAIS. It’s always a wonderful fun experience when I Go to see Maille and Nathalie. Thank you Style Lib. The best salon in Vaudreuil.",
+        "time": 1757023062,
+        "translated": false
+      },
+      {
+        "author_name": "Helen Chowdhury",
+        "author_url": "https://www.google.com/maps/contrib/106350994430154214414/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwVZGd759vhEbAfRG8GAuQrgKdFBTnZDLe3sJmkZmhToWVgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Went to get my hair coloured and came home with the worst experience ever. The colorist was heavily pregnant and couldn’t stand for too long so she asked the trainee to help her to do half of my highlights, the bottom part wan never touched, and I had patches all over the top part of my hair only. After washing she didn’t even dry my hair, and when I asked they changed me extra $45 to dry my hair so I can see the color, what’s worst, I asked for brunette but end up getting red hair 😂😂 . It was a disaster. Never ever again I will go to this place ever.😡😡",
+        "time": 1732233520,
+        "translated": false
+      },
+      {
+        "author_name": "Kathy E.",
+        "author_url": "https://www.google.com/maps/contrib/116939363785802908971/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWup3IwWt89q1xLBj2Q0tjFpEi912rp7kXLgwvRuhU5j9EWEO3viw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Always happy with my hair. I did get cuts before when I didn't know what to do with my hair here, and it turned out fine. However recently I found and got myself a new hairdo and have been doing highlights with Sabrina (she is the best and only who I trust with me hair here), and since then I couldn't be happier. You do need to know what to do with your hair but I am very satisfied with the results I get now that I know what I want.",
+        "time": 1709010035,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "hair_care",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12804631475884769237",
+    "user_ratings_total": 155,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 585 Av. Saint-Charles local 430, Vaudreuil-Dorion"
+  }
+}

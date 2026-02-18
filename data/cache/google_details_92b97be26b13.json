@@ -1,0 +1,416 @@
+{
+  "query": "Auto SC, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338893.3543684,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1a",
+        "short_name": "1a",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin Duhamel",
+        "short_name": "Chem. Duhamel",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 4C6",
+        "short_name": "J7W 4C6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1a Chem. Duhamel</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 4C6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1a Chem. Duhamel, Pincourt, QC J7W 4C6, Canada",
+    "formatted_phone_number": "(514) 536-0600",
+    "geometry": {
+      "location": {
+        "lat": 45.38583029999999,
+        "lng": -73.997603
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38720393029149,
+          "lng": -73.99633936970848
+        },
+        "southwest": {
+          "lat": 45.38450596970849,
+          "lng": -73.9990373302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-536-0600",
+    "name": "Auto SC",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107868963443326678024\">Auto SC</a>"
+        ],
+        "photo_reference": "ATCDNfUJDaU45A-LVDo9176fdHNrOMcXO5upRdDLYJqPtKqoxPvT84HoDmXrvQ5gmihuwmWU3fvWzQSgmL757qbwNHBLnf0X7EYsmjsmR4mNtA2egOi9e9XGtq7YzrpKx2ygxnwDuZ-5CI80fF4Wb3DhlPm9bmzF9Ca3gjJMNgEX-XNAc0VOmhsEUrqZ3RLXFJMgYlwVoxzNOjfk5dTIgvzV7srni2DEmw16TJFCeSRxgsTu_0q6_qXNHRvIVAEWmMov7Kw4uitzQH-2k2EOAhfXwsipzT788bPZ8K6dguJNbLwjsw",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107868963443326678024\">Auto SC</a>"
+        ],
+        "photo_reference": "ATCDNfUGuVd0FXwtlHk3HsC25qyXHF3_O9HebpXYWZpK5rmQT1ktQLJx6ogtmj2PF36-sw3JaXSFCHNvWDoZD4XKjbpr7jrA38KWdz-ngmLlmYcXcEYRbXJud3AuyLXfNxFVAcJoLR6JwfOtEmRH5BwU-kRKPohRxp9VrcIRYIjXvkAw5TRqE15meG65mTlQC2cLGqGTNaFbTctaIzdABaEf5TIsE7bGirLq-tJzDHzlR2CZPf_C2o7AaB8b3TK_hYw5ELrove_omB7bGplk9kx1uSmMvs6y9q-xzLjOuabcogCpeQ",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109005094946549384315\">Edith Dempsey</a>"
+        ],
+        "photo_reference": "ATCDNfVkGEBbG2QuVV_zZC2GErBYnWJI6nygj15eF4IFEgHNQcabms2b6vtt5A8yG1uOYRAKzGIVGrTsqbYjrDDtCYXEq5SbwNAzcb-MuXeVculVeew8J9rWRkz0glgmZztRVDyYUa-HNpnVcxS4zdC0b-DW0dcGgzMX_LTSQGhD7W5gZ7FPkdtvBBhQFdcw5gb1bgCFTa7IH058Kn18aH2amRbepJQKzKIrcgIwRaQB_IS_eatSALxuTuvw1OVzptknMVMyqr9NZROlbPIr2BgOYqVfJ0COdjjLI7Xjge1WpyqVfZpUEidQKjuUETSNLbHFiwRvKW-LETv09FiAoMDmw8Eiq6Z-k5OP9lb9TZZD4dJTCyLUVUhC0ClM9iO1x4b65ZGiYvEnPBgbbCpthPU3ukUDf__jV53jLahQqgtrwv4gIQ",
+        "width": 3600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107868963443326678024\">Auto SC</a>"
+        ],
+        "photo_reference": "ATCDNfVYEFQ76mdyo8sa1cn7yZNgMeGFfxNiSU1Uk3lkYBFcGWPHk5zrUZ0Pc1srSMjFhrRoAarIoCJQ3s_NaOeE3LaTgWjcsUVldKespwTOlqhu6bG7a-MdMhIoN-OT--Ig6-3O3KOMULJD_3ooUqKvQGNadrdBPXHKjeZytgdhHrV4i8jHCsWQSd_NRpwPYIEfm8hWmLGWtE8loXMnP0nQI3X4XDHqzyT-BaXmlTQ2FGGmD-9-Z3Y7WeB8FRbkkHFYJiq74hGdwnsiacWHok25Sz6AH81mr11Xoi6swJUmNaT3jQ",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107868963443326678024\">Auto SC</a>"
+        ],
+        "photo_reference": "ATCDNfWkTPoQnxuJfCErsFaAQ2kOP4lX5rjJfM5Zvu25sCFzbZQSSuspy3zgT0kl1FEwtRW57DycYindHXg1fGQAmLSIF_hGwpbTwH6WLURxjNpzlHSD7n1CPeoNYt1gM2dRXvXeWuGbebwzVxBi23MMBaMD-r4UyjBQaO1mai1bQNtD8RsgIr9NAi4Rxh-upcmz9ohJElMBWBt0Azx7OTPCPoQsmuuNe5utPKdcMZ9ElOlNguyMzdogFDd8ma4F40jL_1b0IfF5-_MuJHAvWpQxVhojELmvjEc6feNPvcNib2GAnw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107868963443326678024\">Auto SC</a>"
+        ],
+        "photo_reference": "ATCDNfVNCW-TRbzkmxxsknQD2ivMQ3zCslXx94S_dtlCLOK52-sBuIq3YFl0TuBM6y2ej667L4tiZbnrKX4MSfOGkp_apRrUCvU6Kr1ywSeo0TPGGbPC0fSC2XsdM3PFjAg_5XyHs9eBq0s6_94TKtlkYXgYbm8nUBlZOOGx8gihsnxrqkmCWV4eFNwUxsHw8CNqBKHDw9j8lFDzG1jS5Hnbcos0xL6TwZi0FNaEqbgj0MvxogTBLMWnhpenFSAwVWbyuIBGYzGI_OCfi0cScyuz4qWl60I3LcDF-_xIdxD8uA8Bmw",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107868963443326678024\">Auto SC</a>"
+        ],
+        "photo_reference": "ATCDNfVOtaviq4tGMjPmDap4PI1EHD-T7wubetRGscZV1Yw8NYA9ok-eBhIb3BvUHG4udC-1Ws9ga5HyzgI1-gLShLdtMifILTufV3iKeVAieuV3oK-A0QlDm-hxGCrFGkr4-h2ObiU8wFpRduCmeODxpvCT10pYWKuhqGPv0ieCv3-aKBRnhI_HaPDWgCrlyRXcWhX59-UGBVrn3-g0uU2GLfgzZ_04bnMI6o1U9L_Di9G2ZaRkD3sU3jk2tEdPbwQ-kbLbdE2bNnZL9tUkQkK_T-IIb_aD6nnY9gTOhDFcKuBKPQ",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107868963443326678024\">Auto SC</a>"
+        ],
+        "photo_reference": "ATCDNfUXslTT2lA6Y_jNVUXg4DFnyiq08iY2X_adqgGVSu-IL3cVgzxUMNZD9-2knXssceWlgoNAmyTh1id0U1sSZkm1DXjFOtDxas--uoeD1bwRMBN30g6__yTkd4jy7SUCtIaD-PsyNdNdV5Ef4GhXmoIr5zE8bpXUJY4YdBBsidFS7Hssc-99u_NzhZDhqpw2yvPBJ2MiBZVk2_NVOuwekcsFS050kqnkQIAyyv7lOfEhwSe-5g6QfR0BOG3tHmBrpAT4DIJnhnQN31ifFHJtGW4jzWQG9iZkJ0iyPMR2Ur6z0g",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107868963443326678024\">Auto SC</a>"
+        ],
+        "photo_reference": "ATCDNfVeWhkct6oK52oRNUIjlLci0YcVepDzGH7q_fkqALrxWWcXlq_xmbNkId2AxLqKe61nAWSiJTjtNQJ3SXS-4F_QXmdlqmnHpi-YyQ2bY3PLU5PLOz1VjA5CzWnZUpKILLC53xKrfvktvPKu3EZF4lhF0buP4bUNHqERxOQ6-Jd1nD0T_wjuS3kW45VHNkzn6c6Ae0880YLPcBfXoRu3HD1w0soa5CDi51ohMF4jyTuWObyZlYAjm1ItNPC2QECE_ctopbVsP9QMAmdhDN6R1IP2-DWbtIEcYG8c_1uqIBVtAQ",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107868963443326678024\">Auto SC</a>"
+        ],
+        "photo_reference": "ATCDNfXswH8a6m9ZNRfdYka8NkNAX4jdVFm_1R9AmdBXJeRv3BvPj9WrA52V7SIjShtrKpmm5TjIMRVdz2hzkwO5aT4-SN7BM0kOrjoQX8XOVk9UP_sDJbiffL9aZOG8HXIW-5MMxE8z0L3Q7S0myMUzpfLrvqA2ItlFTA3CxAwefs1iZwPoh3U84evHF4-CherGu7JT6AeGoWcYCvi6Nnp5F6um-8fTcYl0jrtkEeW6QXw120qWNvZQ4Cr1Y4hL9l8gVUC_xuhq4T41mGE79JL4tTwUKA-s4PYN4CEDJCpw5XBtEA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ1flkJZk3yUwR7jP0ZE0Ktz8",
+    "plus_code": {
+      "compound_code": "92P2+8X Pincourt, QC, Canada",
+      "global_code": "87Q892P2+8X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ1flkJZk3yUwR7jP0ZE0Ktz8",
+    "reviews": [
+      {
+        "author_name": "Amanda D",
+        "author_url": "https://www.google.com/maps/contrib/116010858839505409697/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQOTmqu1U6VTFQWi9Qs73rKJYyxRv0p8nsdXs2-gDNzHACtdU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Great experience with Auto SC from start to finish. Professional, friendly, and very helpful throughout the financing and purchasing process. Everything was clearly explained and I felt well taken care of. So happy with my new vehicle - highly recommend!\nThank you! 😊",
+        "time": 1765652485,
+        "translated": false
+      },
+      {
+        "author_name": "Liam De Lutis",
+        "author_url": "https://www.google.com/maps/contrib/117363610272911159569/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzJO2e4cHcFjdmpFK2VBNWBNZg4Q3gVzV9KUzFtOTUwCCDSA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Bought a truck from them couple years ago from auto Cb through Steve now auto Sc. The truck had a repair to be done when I purchased it the muffler manifold had to be change which they made me aware of. I gave them the benefit of the doubt since my brother worked there at the time and that it would be fix. After a couple months went by and they still hadn’t contact me, I decided to show up to see what was going on, they told me they had received the parts and showed them to me in there huge pile of parts and told me they were really busy and didn’t have time to replace it but promised me they would try getting it done asap and I could take the parts with me. As more time passed and still no feedback I decided to contact the warranty company I purchased a plan from through them to see if it covered the repair, and see if they could help me fix it but unfortunately they told me the package i had did not cover that type of repair or the manifold parts. 2years later the engine started knocking and shut down so I contacted the warranty company again and brought it in one of there repair shop to get it inspected. They got back to me, the engine needed to be replaced but that I was not fully covered since there had already been a claim passed under my warranty for a chain kit in the motor which was never done and which I never signed any paperwork related to any type of repair done on my truck. When I contacted them so see what it was all about they claimed I allegedly stole the manifold parts and that someone needed to pay for the parts that had been taken, so they used my warranty and forged my signature on the documents to pay for them, and passed it under a engine chain kit since manifold parts were not covered under my warranty.",
+        "time": 1764945394,
+        "translated": false
+      },
+      {
+        "author_name": "Maggie Coffin",
+        "author_url": "https://www.google.com/maps/contrib/115964525200407846048/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMu3mCJdAV-heWOKk0FQIxjetJuTruN1uCRkfQAtv3KOIosOGLcA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Very nice people, had a great time working with them and buying my new car!",
+        "time": 1764347041,
+        "translated": false
+      },
+      {
+        "author_name": "pablo lopez",
+        "author_url": "https://www.google.com/maps/contrib/105244187488136238445/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWL9_U8PUqkrWETpGkM6j8JmpNb1uEzf5XgcV09L2rjo8bKymPnWQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I had a great experience and a beautiful suv thank you to Chantel and Zac for helping me out..if your looking for a next vehicle with professional help Autosc is the place .",
+        "time": 1762550785,
+        "translated": false
+      },
+      {
+        "author_name": "Denis Lanthier",
+        "author_url": "https://www.google.com/maps/contrib/105267840358551165397/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuMxU-irmyDRPZ7RM6Usnze35VDlDmjqbFQNSOMOTfwUmHjg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Great dealer.  Good vehicles, good prices, great service.  I would buy here again.  Special thanks to Chantal and Zak for helping us out with our purchase",
+        "time": 1752158878,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=4591149672649995246",
+    "user_ratings_total": 106,
+    "utc_offset": -300,
+    "vicinity": "1a Chem. Duhamel, Pincourt",
+    "website": "http://www.autosc.ca/"
+  }
+}

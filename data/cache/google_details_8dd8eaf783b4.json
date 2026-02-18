@@ -1,0 +1,101 @@
+{
+  "query": "PTKT Courier's, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338344.3567665,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Rue Bellevue",
+        "short_name": "Rue Bellevue",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 4B4",
+        "short_name": "J7W 4B4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Rue Bellevue</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 4B4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Rue Bellevue, Pincourt, QC J7W 4B4, Canada",
+    "formatted_phone_number": "(514) 566-3542",
+    "geometry": {
+      "location": {
+        "lat": 45.3769337,
+        "lng": -73.99173569999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37827353029149,
+          "lng": -73.99042941970849
+        },
+        "southwest": {
+          "lat": 45.3755755697085,
+          "lng": -73.99312738029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-566-3542",
+    "name": "PTKT Courier's",
+    "place_id": "ChIJYeRGHElHyUwR9JjL24KGrlE",
+    "plus_code": {
+      "compound_code": "92G5+Q8 Pincourt, QC, Canada",
+      "global_code": "87Q892G5+Q8"
+    },
+    "reference": "ChIJYeRGHElHyUwR9JjL24KGrlE",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=5885789659611240692",
+    "utc_offset": -300,
+    "vicinity": "Rue Bellevue, Pincourt",
+    "website": "https://ptkt-couriers.ueniweb.com/"
+  }
+}

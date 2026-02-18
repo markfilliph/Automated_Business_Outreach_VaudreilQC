@@ -1,0 +1,427 @@
+{
+  "query": "Montreal Ouest Motors Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338548.9809213,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "55",
+        "short_name": "55",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de Lotbinière",
+        "short_name": "Rte de Lotbinière",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2T5",
+        "short_name": "J7V 2T5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Rte de Lotbinière</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2T5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "55 Rte de Lotbinière, Vaudreuil-Dorion, QC J7V 2T5, Canada",
+    "formatted_phone_number": "(450) 455-1567",
+    "geometry": {
+      "location": {
+        "lat": 45.3805826,
+        "lng": -74.0133446
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3818904802915,
+          "lng": -74.0121591697085
+        },
+        "southwest": {
+          "lat": 45.3791925197085,
+          "lng": -74.0148571302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-1567",
+    "name": "Montreal Ouest Motors Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106356494138780144956\">Karine Charlebois</a>"
+        ],
+        "photo_reference": "ATCDNfWueC20N9YNwGbjOWQmXciS_ufZD1D8o-GEftI2yhPJEyIy4A6yi07LW0G9DeNRJQOoG6zEtIdb9socyCJRpGj6pE39PyFZXbZB_lu9gpAkArpiNcHv6tsa9c9awYMXquY_tvryYRJUadOW5FU_qFpuk2WKBRU7AIbPNZqwgsskDRriMflo0x1SEU32ioY16KPQtJP7bZv_EfDkCY6nHEiMUZnhsxKCIKj-zc2Pg-8474gKVOrKzIEnqp_ZGbWKGQ8HR6Z8z-4QeetCqU38cZZ2BzMHes16kC-VCMLcPAgWcXtOLRIZCy4eZJqJq77XgMSIbEqInOCkT_pSMRmZDvvS-dzRshbEn88bDeVfF_trJuXTvAr4D2_BmmwX5ja8wdH0lNhNKT_-E16l5KjH_Wp5zruv02Qa3n3qU6eEj_wXFA",
+        "width": 3984
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109048911301683607327\">Elliot’s</a>"
+        ],
+        "photo_reference": "ATCDNfWBZ4wNk-vdImjEBjNpaZkt1SDL1Ce3qvoNOac2HHXQWV4nfnipZLnh39pNdNIe1kei0EY1j7PbCm4WZ8Y4MVB3v8zHjzPSgLzj7U9iPGmrLXqt52Wedy6ztMSKJ3Bl860e0feTKowN3QMM-62oyJUJOH0C7oVQJjqve3eZqgYUI6KmWv4M8IlThTpGC0O1MdVYK1ZsQeiY-SEAr-LyazteoZpbPGvpDPPrefTVoGuYDradjRwZRaX_Q7XoJ_VvBVBG98p_5NfSs3_scPvZ6GbCOwgpc28aoxTMTVT8h4rVfzKkny6D00cViyZGaKQFs3_9OrBM7fTMqlgY0FOyvXW4YXpD7HuMH0UbNtDhbJt7r0oUumdNSdaTxbO1C88u3DoyX66eCtJoPRQZZP2UGpNMb6cSB8TDbsW2FTM2m_xSOQ",
+        "width": 4032
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102681902387958799366\">Nathalie Lesage</a>"
+        ],
+        "photo_reference": "ATCDNfUojkdTQFUQ0OgHZMocGlhWVku5RzdeCAJgETr95eC0VvRzQ7tCr57A9XrsUXw28LoL_jvYg5TVF9xJR73aHLjjK8MAbRCjiy24n3md0Q7rRAahFpur-b0W6gBE1bp9CQMUScCO5WqKEI6z7axuCBVsmB1zDEYnDx3B8rHMy0BCu0OgB7COa0YEBO3DwSEhmAdeE7PIsKqXBoqVbd-mqaip1FuT9KNtUGtXD9tK_3nmu7Ia3b1eyHYcVMBHwJl6LOWvMvdh6ndZ0czPuF3LxXxQ0TUR044lyLuE5O419pOqqXfSWA46nvMSdCrvGNjYr4pOTOzCiBxuyQJGffNZ08dYrtPP3u3a6sjcHTwGU7hSmt6tC4lAwshJ00pQ1djQ-e8uLPfFWCvX1tYaBlEgAK1TWeQDiSzo_Ud9SLmYPYyOIgwfLQewo7Uz2jKxzCTt",
+        "width": 4000
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113600508922394170546\">Montreal Ouest Motors Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfULnDVFn4ljCB_9ZU7LNPkEvEsZQUzdkSPKhi2DjfIeGvOxUXsqIBAWBNH5YDBG8gC-MG76iJHxrWQJnYZCV1gaIKYEr62Zubp2XEtGORKnM49HMj2fpbiX8pyzPFnhLDy6XiLjl6NZXV1GC6GND79pMNY3lZNyYXnR-R6ZlBasyEXh4mZPqBAUf71kl4Ix7SfpUejDK4NBffih-7PtUjh_dQAvvrv2gB_d84XLfe74n1sL-mNn8rHBKcYx3UwmiWrxEDP6n0LiVKxlim1BL62kLUpRlNaUitN9I0-zLSZA4A",
+        "width": 940
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109048911301683607327\">Elliot’s</a>"
+        ],
+        "photo_reference": "ATCDNfUTLpywuJkpZ8malQvJ7DUvyZzJAmC37GLqr94SbdHLty5q5eGu7sJOnVtzfxSzzM02UIxlNRGrXMIUpQIr1-r06-jSffTXe-2MLgVC90p38dqKiujMPFsvXvNv2ACd6zcNX4GRYNSM4nYEG5izJK5FdBfSq_pha1Fmwn5BT5GSCd4tzfFc3vTtF2o0vQJdUFsD84VEe6OxZNx-OqbVdJQkSAC4Yvr9-p9W6nz9GCEi5t-ZzxxEopzAJafQX2-_E9Ccz0daqFL4kggPSn0MLk9lMuDoSTCGOgCBhAEw6RaUs1IDnjTrF_XDyVEfQucj7FDVLrZUlPYe4UbrIinQ64R2iEIa7jZZiHr6Pg4ms7qsglfMR1WI8tVNxl9HBEPrD-dlOpHUSTBm-4Gq7-RtBZAApwb0TTPrVgfu8pGJFf5P8A",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109048911301683607327\">Elliot’s</a>"
+        ],
+        "photo_reference": "ATCDNfVJIXm8Y3YHRyP7QH6arunf6_mptXYcluWBj4g62RYqwouTvrLCNOQ9f6EsKxg1gbv2cBkPAAGq9wVCC-vx3-zQAGZ8ErydpbfZ6tSezf6Q1Oi9yeMGfmXe6Y9hc_eO0JofeNiujaBbYTo5XjXrmCU4i9vktAykGyfPSNw9U0xfa9kAOEo8ECoCDOLhS5ZUMTqFhGp9lpStYU7iof58SxK727QfsTfTBUpLs00mD9xtdpTG8DsIvHIdKlZpDWGlzKBSr2NoFvTM-pIBh_48Oe-Ua85NsI549EoQKD2U75xHrpy58XT1ngfRYQYel97agRic-Kj0xMG0RY2eNrmuSJAPgIVD026ylTJy8uPjV0TmK_1LxoFJ3xz876uNIN8o1v2M9WCQZA9BaSfCDmA_jMnQaAqKFOlsKWwZfBbKP-G7EhVb",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109048911301683607327\">Elliot’s</a>"
+        ],
+        "photo_reference": "ATCDNfU-zCxwZ_1QX-8zzeRNhc6ZD_MTBCMxkWiPG7-T9B0JOnC3PgcJl777RDyckcLFmHVBHFxot2mvfgIyM-lJ7SYrT7cUAm8JMMnunSa3HFuU6bq2R2dbv0OMiKQ-EMBWJTL23RwXpVgtyoURj23HzosDMFqQ_Y11oAg0zGczmV44GeSYVHrIsMMTYnl9f9c-rP50tTT-U3XE9LNKJUTGH_HSvm6ScLxjF8pyOTNONDPlGXJZReCn6i4Q-9V4yCXcx1411SXq9Q9AYowIuyfYsSwE6sKQKE7CEEAGsQeqM41lvYjtNBC3zBX0ZxS1H5HcUj-Sag9M-b44sVwApNIioZcua3KC1P6117fvjMwvZXRuH2rBsVxM8H36DwtCzVrWHcNGA4WU-mhXzQ2rlwS-ZkadseLUbN_IXfhf3IsapUA",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109048911301683607327\">Elliot’s</a>"
+        ],
+        "photo_reference": "ATCDNfUaJPyUDsDL9vKZVg85Ne147ZkMbqx18pqQiSDoeQq-0LgBzR-EfBlm3KINwM2PfqSgpFqeW7IMmRHrQ9RmEFO2krJpk65Bk0Tdm6aqytPmPuC9lsB_ifXku6Ze1UEKAhNZOD_bq5RtHVeJPBMIkrc93m5WXoHJbb6ltIXYE9Vt0SX7o9aFBJPDTBN6z4-t-T-RS7j63pIACVaJ3oE_2jqvMB-Hrf0w55rOfjqdoB7IP6lZay8u5xva864RQzG2RHBgdPvylpfvLn5UZXi4r89Xiyc5E_mk-yoZhVM7epWsOavf8TMX26A9gzahHhmPHCfYRGHy50l20ZR0y6YyGj4X-6f2eGA1UjU7cHQEuKhiAL78dY0vcSVLBmJa3sggTLxKAstC7kxZQA8-rMN3C5gihe_bp3I5Qcu34RsGseMNsA",
+        "width": 4032
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114994065128113043033\">Bryan Landry</a>"
+        ],
+        "photo_reference": "ATCDNfUhTJNHMrSmffLk29PdYzOHkQvwJcHYiQwQ3tgZtsA5vl5wCWUfwEbGXE1EJKAsrtHq2Ipafx5Im-KSqoX3mM2MPvjnpJbaArAQ2UZTEVVuZKu7_sTLtZf34n1c06PN6CEShmPaTfA8hIkeDUFSzOpMzncMfKO34jeEP9cGyi_WDOZuhyUljVSTj3WkdcYSz_9OrxVe71BAGnr0cv4tagZMasQmvxALYXhB0uu4IOF6mXqLId_UpOALR3_uTdOyfBresFK_nWkFp2Zyk6S8JUQ1LPeGSftCxfETPCOjbufLQDD5CC-mxH9lzfVbZQ8onwr9EZuFUqUUBbsFUvh9gJIbl_yE1YCXxpOu6DeaAoT8huFA4419qU9oMqLYKEOmZV-0ji5RT6ac6DxumsYlWJeuw2s4IA1hVcwY9njucNws0g",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114994065128113043033\">Bryan Landry</a>"
+        ],
+        "photo_reference": "ATCDNfX27LsoyIBAUEoHY4dE9AQGY9qtuMC2e0nJF4iN_gUKJ4HibNA8nv2R3H2o_T8Zt5HqfqK8OvXtLjc6diNM0zqlTlSbYvCF5WXBVCn1eXSd_71AVjcnctmfiaGfB1jjcXqCpaYE7GEKAoZ-bHuVMi9HIedYFmAOihSE8-UlgtyI9cb4W9twe8nDg8UKNolTBQusWP8097rUNpAsYvY8kiR6OKMVbmqEAXuQrs5sQ3obhuMkxCFPTrJ1O6JkyBABFG5RWOS2Nepx5orhYMJ5KB9odbRTBI34-2nJdY3GFZrRxPlwC7HNZvaz4OAvanq1l5TOn0dLhNRCiuP9lJEQ450ZnrdOvaVzjfTr5EJPozTDCyt1JW_D2GEH2yfNg31nGGpD_4rLUKHfOgMJAQwYqikDke0cupsWErp0vTU38a017MJU",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJseXLpBtIyUwRJSePB04u-e0",
+    "plus_code": {
+      "compound_code": "9XJP+6M Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJP+6M"
+    },
+    "rating": 4.5,
+    "reference": "ChIJseXLpBtIyUwRJSePB04u-e0",
+    "reviews": [
+      {
+        "author_name": "Nicolas Roy",
+        "author_url": "https://www.google.com/maps/contrib/111621502615767704357/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhgQdBooSsJXviJUNFjJCbNpqfOdbPbXjXwkKRLXzWjzJ3ildS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Bought a 1971 Chevy nova from Montreal Quest Motors. I had been looking for one for quite some time and was finally stumbled upon their website. I contacted them and was able to set up an appointment to see the car in days following. The pictures they showed on their website did the car justice! When I arrived, the car look as good in person as it did online. Antoine, Vlad, and the whole Montreal Ouest Motors team were great to deal with! I had some issues with the car after purchasing it and contacted the team, who were more than willing to help out! Would recommend!",
+        "time": 1676599435,
+        "translated": false
+      },
+      {
+        "author_name": "Bryan Landry",
+        "author_url": "https://www.google.com/maps/contrib/114994065128113043033/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOmQbWX9MqccCymOE2H-AuSfC8hirbY_dnypBAbBUgNjS2dgGZyg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I'm very happy to say that my last purchase of my 2020 Hyundai Tuscon was delivered on time and completely inspected and detailed by Vlads team members, this is the 4th car in 10 years I buy from Montreal Ouest, Guy was great to deal with, and I have referred many of my friend to them. Keep up the great work...",
+        "time": 1700510581,
+        "translated": false
+      },
+      {
+        "author_name": "Elliot’s",
+        "author_url": "https://www.google.com/maps/contrib/109048911301683607327/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoDDDSo0rKd79it6NkTfCoT4K9qSFGM5F_pIRn2B5kRRRjGV1Y=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I purchased a 1983 Chevy Silverado truck from Montreal West Motors.\nI was only able to see photos of the truck online as I’m quit a distance away, another Provence to be precise!\nI reached out to the dealership through email and almost immediately received a person calling me answering my inquiries !!The dealer was professional, respectful and was very knowledgable about the intended purchase with history and other important information.\nI was sent photos of the vehicle I had asked to view(underside,kick panels and doors the usual rust areas)\nI was definitely interested in the purchase but it was difficult to find time off for travel to the location, to my amazement, the dealer was able to offer me a solution, he arranged full delivery of vehicle directly to my house in pristine condition (at my cost)\nMy vehicle arrived in mint condition it had been  washed from tip to toe inside and out, oil change & fluid top ups before delivery\nWe took a moment of absolute trust and respect on funds and product exchanges.\nI can’t express how positively amazing this large purchase was completed so stress free.\n\nI absolutely recommend purchasing a vehicle from Montreal West Motors’s they go above and beyond and the vehicle you see is the vehicle you get.",
+        "time": 1638236122,
+        "translated": false
+      },
+      {
+        "author_name": "Mike",
+        "author_url": "https://www.google.com/maps/contrib/102365938529894769707/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpOqNKHXjO7_BmtnWcaQp0zupXlj5tDFmr1T9Hh9Xk6QHT9g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I was definitely apprehensive about buying online at first. Vlad made it easy to feel comfortable chatting with him over the phone. Antoine took care of the purchase particulars very efficiently and both answered any and all questions without reservation. Making the journey up to get it worth every penny. My Hurst Olds was exactly as described! Would definitely recommend!",
+        "time": 1714765190,
+        "translated": false
+      },
+      {
+        "author_name": "Andrew Keller",
+        "author_url": "https://www.google.com/maps/contrib/116788572626984190501/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFh6grke0GL7ch3NKdZpwU-emnMUIYQmQstmDpn_Ckgt4It32J=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I just bought 2017 Mustang Convertible,  which Donny helped me with so that everything went smoothly. After the sale I noticed an issue with one of the lights and Donny put me in touch with their garage who took care of the issue promptly. I couldn't be happier with the sales and service I received.",
+        "time": 1755104849,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "car_repair",
+      "car_wash",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=17147787968859023141",
+    "user_ratings_total": 182,
+    "utc_offset": -300,
+    "vicinity": "55 Rte de Lotbinière, Vaudreuil-Dorion",
+    "website": "http://www.mtlouestmotors.com/"
+  }
+}

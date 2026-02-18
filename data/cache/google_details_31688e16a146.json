@@ -1,0 +1,418 @@
+{
+  "query": "GT ROAD EXPRESS, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338040.3469415,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "869",
+        "short_name": "869",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3P3",
+        "short_name": "J7V 3P3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">869 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3P3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 7:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: 7:00 AM – 7:00 PM",
+        "Thursday: 7:00 AM – 7:00 PM",
+        "Friday: 7:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "869 Rte Harwood, Vaudreuil-Dorion, QC J7V 3P3, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3716461,
+        "lng": -74.0364523
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3728627802915,
+          "lng": -74.03490986970849
+        },
+        "southwest": {
+          "lat": 45.3701648197085,
+          "lng": -74.0376078302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "GT ROAD EXPRESS",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 7:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: 7:00 AM – 7:00 PM",
+        "Thursday: 7:00 AM – 7:00 PM",
+        "Friday: 7:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106562730393350071302\">GT ROAD EXPRESS</a>"
+        ],
+        "photo_reference": "ATCDNfUR7-hdXME3n4uGrs1GISa4HMrTtwPb_nvGA7rJHTXQtNeHeFo0B34-18pk7E8YXGdkNuyoc9PMV03Onve_mH-G-FTg6yP3lmhn1LHqACFhwBldvAHL74C2tmmCeyYMXoIR_o1ukr7SXlx0S0DlJ05QoKz2lI4ZGjuqcML7Kmb9FdZBu-L7SYl8HDreVXiU2qi-Gky-K05W1UhuGxOVhyXB8kwi_TwhMS4zgl62F3DlTxYIVr3ndCd-njJQf3fimCl_eKz8pbAAothgG8zAzeWxB-BiHHQQXedTeVjGEuD1lQ",
+        "width": 4000
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106562730393350071302\">GT ROAD EXPRESS</a>"
+        ],
+        "photo_reference": "ATCDNfVN9nuRjieUDQVqoJ1G_XAVOB64cxEm7Vx_SpxT-2o80auhrGd1VltqhB_MNSGWwArpSeM0vQdma4eRHPABiWwF3WgvUDn9Rrs9HH0I58Z-1zAEmmPMampKCyWGBRHQlKD5jZdeoxuz8IGaeUoiiQ0UwJENbZ_AkUKNHb6dv3zCqEZzNfqVpl4oeKfv0eO4HiiAqWK-7K_EijYIEq4gw7Eki0m1IhlBnQPRWutK83slVEJa-_jUzwEN7y_M7ci8wzYxFYALCYsBbXjhgu_hliB8euMBafSlmWcYUaE-EgVAFw",
+        "width": 4032
+      },
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106562730393350071302\">GT ROAD EXPRESS</a>"
+        ],
+        "photo_reference": "ATCDNfWwxvgzsN4A1C9dphf6J0h78t-Hfx8kvGZdiBq3GLczkCEEY5Co_3qJtCNeJIvHIorlmohptPqAUSCCE1xxa3Rmi4uV8KiB-kqrln1raOwUbHnQkn-atdTFzMH1LUcCLqDB49je8IMIXJSRq6DSjCmD0uzTH-hwIJCoSeBd5PAZvn6vTM0ItzeQDsLg4ZJxm3IJhPWOKnmg-NXr1wyOnRYyp8mfDjkei2cwTgDZ4gcgvRvkhccZmML_ZmvdzlEhP3pI-qS4vf5KLxAIJ3GxRSL893RGBkA84DB8LcxKTPSi-Q",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106562730393350071302\">GT ROAD EXPRESS</a>"
+        ],
+        "photo_reference": "ATCDNfVJiAYyfE0NewPTKU5LHa_IU9Yb19Wzh-qa2hxrpIfOI-EeT9JD4Ftut5NW-lA0_xmba3ECw3SR4tjNiLNxQgizA5nbW7gb2IVOCigg_ck8E78xWjUd_l5Z-eDfCwvIalaJAJvcFWylmE2Tp5O3XULeUK2UDYRalNQZfL0-niAp9CBJ5gt5JaX4R3lQMciZmaxwl2sf62DThzQwllNc2bizmQDb2WVOvYKshTthCUhp7snn5gTi90DNW1tTsJ5lg_S5wkcHzv5dWKk8h1nUL5_lD7_FSJCQZo1lIpGGWgd-JA",
+        "width": 4032
+      },
+      {
+        "height": 980,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108831214280557682572\">Arashdeep Singh</a>"
+        ],
+        "photo_reference": "ATCDNfWLYsH9KwI2Is_Gcja_drhStRAXqxC5cjAfcZP2JFz5mFBL9jczgB7Lzr_R3lF3NCEghJ4nYT2LlHq_ExXUgQo4c4jOX0rLhichs7cwioyDIAeM5EiiSLqC224wi-E70EHh37YG9vDHCAeIdfdVQ6RgbR4AFYDuYGOSZVSeYssZVzfYlf2peYf_xFpRj4t6GjRLwg1nDTBOWunPCo9ct4sPpi_CdRDD9ov82K1wJ4_GM45ehYvAUPZBYkGBcgqxvHIcTrcgSq6xqwl0DhN5JoURoFhAtD-z7g3tPRs1QUOD9OsFAw6-NnZwSFAFJw3jcCIUvw10xl1sBm1_pa-0NdyDOuNjS5Ujkg5VGWO96hs9dTtgMZDcT-NFEBaMAmxBbAVV2llL51jEYmkU_ukhvnmJpztaS7kv4uME4W7PGoSE_eUz4wthZqcPa7lJAYJd",
+        "width": 2016
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108831214280557682572\">Arashdeep Singh</a>"
+        ],
+        "photo_reference": "ATCDNfWExbRR1_mlwd7W9KCX8OSRSg8pD5lamjiMvQn4EIyc5N29LZ6kBrEYqPZ-GZrrfChKAPrrJubBCSFxYm9eryOV5WXmHI-T7jdd_cl7YBzORJbFQFqDV34vURYNM2sxmxAosXNPyxq84YR8op5oG8CzJUczer8bCX5q3eE6sZeEYcomCcHnN3F1-82ppvUBsfVLd9dVkwd9MA0-bUf8qgibQK5MdvYh6moeMU0p4La7PZZ-p7FhVD-H_w1SGwNywPrhh7adba0w-oboh_jdP_fXdg_8qDEviQkmZjlP2zNDcOcO7olvINvv47aMNxGXX49a4mYeOHFRiWAc5mbqosTFgmoiEmbId0D9Zz0hgKXMl3ZSLbWhWkz8BBXMawZ1m_GZ60v9zU61Qzs_KRsfW_iORSxso8fc93U0FZS8JRKxPmR6OIsILwRj2vcPk0bp",
+        "width": 1600
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106562730393350071302\">GT ROAD EXPRESS</a>"
+        ],
+        "photo_reference": "ATCDNfWaQ9mJtjKHtwvzaySTCLfxQ5xBB4wP6Yr5G6o-d66O6BJuWYljyG_BP-4p9rqHWISntsM_IVdyT3g1kqgaVr20tFNhQ6-nuPMkD9q-Wy7uAjy1yfO9WYHuuZbPbzmxO9z1m-fZdRBVuCHGjRsLnpN23dUg1X__qRKAnUwW-BmRlSj5K87lgv63Bkhdk1cMH1pBcyVAoW_ZTvwS3Uo11Qy1UW8VnNHdcpsFP5fPOtvi5-qSFUeXnhHkJJObOfykq0F0pzCanhih6ak3pNc81Kha6wotNSgwtedXkugwx-ozjg",
+        "width": 4032
+      },
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106562730393350071302\">GT ROAD EXPRESS</a>"
+        ],
+        "photo_reference": "ATCDNfVXK7fNFnTH4MSi-LtX1vrQeIuXMvFxeLH3vLcIaG-3oi8bCwIpUh4qyd1kjWK4_XFgywkMOv5KwflLTqQnf6NIhVRL34m8aE55b1uu5CoXe0gUUPuK5YK2xEjOEm31CJWjfjc9TNvgVcMTVN3Dkgb1YlIEzzpOMBLcd4KxD8Vo9SXznwv4kv3bIr8J-4Go0VaB3Lkq83LgVKkOjLAkUZmoOwQu3HE5agqKJBIbSmah135Z7aOsI9ANXEl37ZcGcclFLcopSSxXA75tFsswe6zH3LRNJGF-4Hj82ZDLIl5MhQ",
+        "width": 4032
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108831214280557682572\">Arashdeep Singh</a>"
+        ],
+        "photo_reference": "ATCDNfWZqCg2kW8sCPtQUuXMGc94TluVRcywnOS3092oqnyFMkBJs_IxQetkKYuDz-hzwk-GSiRGm0SPeSAoaqSYjeFb2GDRyJcLZH4y3znZTUApbQftjWtHY6dpLjgP8SD_BCQ3UVGzhCO2JHJKkir-XepZb1cED-sZBEj-DzKkg1e0_Dfq9X5XFdBncsc2P6tmVmWLCKFIG5tbE7twRdJ1oPisOXDliBT3v_RHnPjFwq85nvi2fjhxMrec8AB8kTNtLTISfbn38TDWYiys3LPUnePM8NSmJYcGHRZQk3EuwIzqOPl-sC9_i6IT34_2bWNwDaNJ3DuIsbfEQmlcfYtziPVce5DVzoDyuHPqhJpDneRJ17q0KJjbB-menyCIrege8M69FLZ5iXkZhhSCk9oocUify4hHP3AwVrXZdLAaOg8wsZlCDiNCXFmc2E3X5w",
+        "width": 1600
+      },
+      {
+        "height": 2184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106562730393350071302\">GT ROAD EXPRESS</a>"
+        ],
+        "photo_reference": "ATCDNfXAnQX59Drnm55T0ybGqHLtxncg-kjUXqsjAXwZHSPVJmVc1Ix-A2CfFyXEc1nCr9KoT8hPqPFLoqZ961lNvabvWHDyQajrZgZSRv2xOel9goHqoV8iXDc_npEncdpuBBt-cz-_CEiqPxob17hn-vCmUL17xsTznS4CS5g9y0jb5svfuoxORwbENPQH442m0UTeqwf9piN5sPS0diT0B5qm2qZZRg3UyHd1YVJaMEiNSMOv0oCP-8THCB7CPnGp4-JUXmLOTY4sFOJp6hQaJq-NEDPAD8-F_rZgxB4FNQgvJA",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJm2TB-QxJyUwRwkRkJxj1zZQ",
+    "plus_code": {
+      "compound_code": "9XC7+MC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC7+MC"
+    },
+    "rating": 5,
+    "reference": "ChIJm2TB-QxJyUwRwkRkJxj1zZQ",
+    "reviews": [
+      {
+        "author_name": "Harsimranbir Singh Pannu",
+        "author_url": "https://www.google.com/maps/contrib/117093926790961064260/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHdLgY_iXOzeQ1SwXLDKqVOwL4Eflib9fNZrel7Y-p1bF6gN6J5g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "An excellent transport service. Contacting and co-ordinating with GT Road Express is  very easy. He was always on time. Very friendly and very efficient.Thank you for hassle free service. All of This comapny  give excellent service..!!",
+        "time": 1650725302,
+        "translated": false
+      },
+      {
+        "author_name": "Karam Baryar",
+        "author_url": "https://www.google.com/maps/contrib/114989825888723265865/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0mzwoK_Ou2atdqxzlGrFhLJo2XsD8hQcKVIbtpq_TNHy8lWns=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Great service",
+        "time": 1758318933,
+        "translated": false
+      },
+      {
+        "author_name": "Prabjot Pannu",
+        "author_url": "https://www.google.com/maps/contrib/108372970800387306684/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUMZsBbU2o5Bn0in43zhfjdcoF7EjBejn_feeYyOnFcOp60S4BfQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Excellent services 👌 👏 👍",
+        "time": 1650723921,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=10722495771927921858",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "869 Rte Harwood, Vaudreuil-Dorion",
+    "website": "http://gtroadexpress.ca/"
+  }
+}

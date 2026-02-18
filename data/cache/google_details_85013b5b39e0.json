@@ -1,0 +1,413 @@
+{
+  "query": "Centre d'affaires Patriot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339779.6763823,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "425",
+        "short_name": "425",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N1",
+        "short_name": "J7V 2N1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">425 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "425 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N1, Canada",
+    "formatted_phone_number": "(514) 437-4053",
+    "geometry": {
+      "location": {
+        "lat": 45.39952950000001,
+        "lng": -74.02678329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40086728029149,
+          "lng": -74.02547011970849
+        },
+        "southwest": {
+          "lat": 45.3981693197085,
+          "lng": -74.0281680802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-437-4053",
+    "name": "Centre d'affaires Patriot",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113684620139874999184\">Centre d&#39;affaires Patriot</a>"
+        ],
+        "photo_reference": "ATCDNfW_QzbEiq5lbjp-rmPKRwrlJC5ArLDsxM-3qfgC9SSh-1PaGzXrge7gHLid-VNeMF1Mp5L7oxVSP245DiEVeJTWDzAJZNYUxp8D6XhXw68-qzGrNCi1QbGHZi7_Rhi0-N-TKV0ZvI_J4aKHks6JmG141V4GpsvMuVZkOoJ1ksxkj8rcaeC4m_SkkbU1WMH65aMrEKOzxNl-Fb_rG2IW1GuNRNXqtFGAjsBtlnQvi9DpzOTf0HOei3pgdrUE1DAdtLeGKQGhN4__qXm4KfNzPjpCyawPZEOUnIyYmefSWbHFxg",
+        "width": 1200
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103784805771603893566\">Stephanie Duclos</a>"
+        ],
+        "photo_reference": "ATCDNfX3thJRAio888ec7Us2U0DU1RE_6OqL3EgTYNiJHeCEGZRjg8J8HBZrnn9Yi3-q6IOoAUJBlTfwya63ffbvZ8wC0NfErQlAZG-5mi8mEbA8LFMdrsux6gigUdhrUyKVSv5c0BunNceCT-0CvRss4L7ZZiMC6oLFsv-Acrwb7IV_e5PmgOUkf6KGJZWsvWQDXotMTN5lbI14omsa2RzmCqYOEscrcKg1h8MCoYlZWkgDZeMtfautrRsTe10JcsA7sfMVU3lpuaiOJHffjf7VIXYMf1TPqI11RUVZqMxidNmJ_ZEEdABo_kW0vaJmYEO0PjeeyOkHXRWg4YN1IUNOSRlw0jDhL2kizWbhZWCXiOY5K1JfM3AesC2anCYRVBW2a5bP4NlvcWxst3UKLwgWZ2Sp7l-06qvXMoDY44W559ZhRl2o",
+        "width": 4800
+      },
+      {
+        "height": 1262,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113684620139874999184\">Centre d&#39;affaires Patriot</a>"
+        ],
+        "photo_reference": "ATCDNfWTP7bfcc-ny2mxxBkpKwdCayYScIMtlE_4JcVhIsnRHiQeOKz2XofBFhDjSYUW5DxAHaTq-XqA4lhrue7dmXd5aM8Qif31g37ecdeDYSvrQ6-zHZGPNTKH3AcJ6ff4gs-osebg6ezyOrTik5v8d4ZtwTxl9PbQQlnhYJlDPvzyu4_nzZ_i3sK1NXUIEx8I3UptWr5EmkW_7gri2UJb8508Jfwq-PZ0tdfRclUaMJS8b8dyg3RI75RARfe7ykHROJLpVug5drgscsZ1s0rAgAbPAmZyOOox89EiNwcvVI1_cQ",
+        "width": 1892
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113684620139874999184\">Centre d&#39;affaires Patriot</a>"
+        ],
+        "photo_reference": "ATCDNfUjinCG_j1kCDwNS3txQBdpKxXbK_jjGwm4htpSXLm4J-RecKqcB9qRx9G4RMDu_0MG2si9yNlP8SmsaQTLFc7o2JWDVLn6fVMB1CZjsWpFAzshVTj5C5eotyMbFhJ-2xyJIxtGka3yUEL9xrQkSS7p34Tjr9FDIQPQcw9c-ed_p7ZAPwW9tSoCVqUJ9jVZZ_vPNR-UTZc0EE8rjSVwFiS5iZ8n9NzaIwHjj6IwWkQkI2QlWm6vcq_Voy2yAmJnGuktPzzRSLbt6s1gf82-MIjWoKRv1LhUDJmWZIasOmyQlw",
+        "width": 1080
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113684620139874999184\">Centre d&#39;affaires Patriot</a>"
+        ],
+        "photo_reference": "ATCDNfVnU4YWC3xbkCqL6bwEGTxz3G7JQzeoiZLSpqqz4SC-00O1BaAUmbhRtu6dLn68LIEBv7nSzrc9xlEmJIlLDG_wYt--IrblAc6qr5YsFIU1RwhCS3tdHOaM75xNhvOcM79Mh9Y1Ft88zIwhSSjOcaopR0f5sfX-eYatTN7D7zsYgfWBfSAPQTOQfiFbtkW0ar2DgDQNf7y-bX_Sy8gsAbwSD_hA0sX47eL4FzK51-lqEG3KrPRUyklD15uWQbvRptU2TnG0Ii8An6LsRxHXHaxD2u7J-uudoQfVC4BlEEhd5w",
+        "width": 1500
+      },
+      {
+        "height": 630,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113684620139874999184\">Centre d&#39;affaires Patriot</a>"
+        ],
+        "photo_reference": "ATCDNfUIrtWazF6vH9XhJtwl1NYP_2b3BRMr4R1TJL9GMANc-NpRLsTHeUGVDnOIKePKgt9ZWKXeG4Dk9ufLKmrIXYCK5LGuejfZYIEeZnJZ-gL0fulBaNEOZ-coJvgEGQ_2UxtYuoDk9B0_Ymo63Q0Q3oCHFdrmKrUzaktiJW-WsAZgdCCDOsqORqzyTOlL4HF5wirWYNz_3iYJqj1rSiwCuDoZszIFiqMLdBFgKz2J2h97DYlP3KzP2bOXIhMM8c698JSODO8sRCTnLbhBmv5RiqFs7kCEBGwUvbQAXKTcudA-NA",
+        "width": 1200
+      },
+      {
+        "height": 630,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113684620139874999184\">Centre d&#39;affaires Patriot</a>"
+        ],
+        "photo_reference": "ATCDNfWt7TAd_hK5rRncY3SeGFRjVCH1GCc5kR_Qd54IIPY0iDDDxtCM6wkaR6buJdgNSgudzDczag28TlcbJW3CPtjajIzA6Gm-B8eCJVaNfVYePlx4JeMENRmSxJMdSSRG6UygchfLbBtsuY3HYj7WW-w5GilcQHzIaBIijFpuNvBwX6neKWJF-lz1gu-AcpQHxJ6z0-BOVepof4gqcZFwNmrSsTl4cFxnDehMmnYl-REepLQc3GRi_4zvrtVRcDMMOHegkQieQ8IRIRu8pYshPE3f4AAlXd82ghcGKB_0dxBmDw",
+        "width": 1200
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113684620139874999184\">Centre d&#39;affaires Patriot</a>"
+        ],
+        "photo_reference": "ATCDNfWz6RNXb8NQmlwIKiKnUtbHfmRKmrFrPLcsTV0kaOXTIiF-_aUkWNv5MlwOiQveCFTlF6C5kxR4Nh6uWEPhcjJjKYhkFysbaDeq_N35fceYh3e2OoWorR59IIdtNh9CpMH1qvuK8fxcNlC5CodkqluF434vsR3TKqx_ml97BzOI1x2mk-5CdNv4LAOzRz7g3xXYhJenpyOTgy3deyAe2mhu0UdwWOiFjuRoDF9RLjT4Ya5YqmITaCQmwIH1fzCHJws1LL9cerxDQlq3E8nwLm6SqpxrVZwX_zX382tHwKqldQ",
+        "width": 4000
+      },
+      {
+        "height": 315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113684620139874999184\">Centre d&#39;affaires Patriot</a>"
+        ],
+        "photo_reference": "ATCDNfXgwMt_4CyXHNouuHC5qb8m9a5ImcDlB_zNuN21Ba9A6-KBBjGnq8TKhnOYoWy0fg9hIjw1BMQ7VdgNDZexXhNXc7uZKCSTPHn5kZSuWCgtRO1IDhHxexGXMPfZ4NuCmF7b3TopkRzpZUePEOohqsyxYsHI9PBI45CMdbA1Q8EQ2-z4o7kUkaKWmWbHFOO5xkh5IbMZAHwPVH-TzGguDuiSnBDtJi-LBiAeKnyeV8beMn8clXQ1mSXmb-OZwk0gOk6JRulpPhjl2gP8TubblF42WmOkjX25KbDj-8SZ_nAFJw",
+        "width": 815
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113684620139874999184\">Centre d&#39;affaires Patriot</a>"
+        ],
+        "photo_reference": "ATCDNfXnVZbsGTjfaycrTh-anlaD3IYHUx95eUheLmnQdnaN6SnobrVt2Ys1g2vJQDM6PPgXQoD5Blv1XASz468dBGORI5J79YSIO62mCwEMItDJ8UwZcXlCc3eArgPLaoMWnIwosYgCn_d_dqjYD4cI34zzgVMXaIYTscXo9WtR6jRjkKJB6z3fPI8-4RJCGYFF3gubYNPkJDAwR4fFRpO1KPhK4ODBWsdTpIhx_N1rx6k9m37LPtVc3Jun6JFwl9b2GiVWXrFkkFfZyse7fl1okoiph8wSo3Ek3dkBuoyFDiVn0A",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJh0cv6s83yUwRJZX7-G1fcgI",
+    "plus_code": {
+      "compound_code": "9XXF+R7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XXF+R7"
+    },
+    "rating": 5,
+    "reference": "ChIJh0cv6s83yUwRJZX7-G1fcgI",
+    "reviews": [
+      {
+        "author_name": "Don Lafontaine",
+        "author_url": "https://www.google.com/maps/contrib/112864985814329333975/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTMJnp-2uUHsir0vZhnGnZ3rLPMdMNIoi8OKkqUqbJEiHYRy1q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Great place, friendly owner.",
+        "time": 1746222604,
+        "translated": false
+      },
+      {
+        "author_name": "Stephanie Duclos",
+        "author_url": "https://www.google.com/maps/contrib/103784805771603893566/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeyFmmQQK6EknTQm3oVCWL0CpMRxqB29G4a7mtt3pcC-wqW3E=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Ideal for self-employed workers. Warm and professional.",
+        "time": 1729685531,
+        "translated": true
+      },
+      {
+        "author_name": "Ginette Garon",
+        "author_url": "https://www.google.com/maps/contrib/117221880784333617774/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1A4yDBf0Qjx7TFOL2NZ9D2RRnKdj_rA1XdoBUHDGSEwQkQN-6ag=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "An ideal location for excellent visibility! A beautiful combination of historic charm and modern amenities; Internet, dining area, air conditioning, parking.",
+        "time": 1729790677,
+        "translated": true
+      },
+      {
+        "author_name": "lifted 514",
+        "author_url": "https://www.google.com/maps/contrib/109771798204132759931/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKchwEt00ldd2agXGLf7pli0c4qbNlV-UMQexC0uk8-FjkEKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Warm and professional atmosphere",
+        "time": 1729795084,
+        "translated": true
+      },
+      {
+        "author_name": "Marie-audrey Berthiaume",
+        "author_url": "https://www.google.com/maps/contrib/102164579720157459445/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8CojvpZS4QtH3VQJd4N3OPwKbUBIQv_SdYVqrtuCoOAK5hz8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1708004617,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=176308261354181925",
+    "user_ratings_total": 5,
+    "utc_offset": -300,
+    "vicinity": "425 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://centrepatriot.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

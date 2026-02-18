@@ -1,0 +1,518 @@
+{
+  "query": "Restaurant Mr. India Bar & Grill (Vaudreuil-Dorion), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340670.8074844,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3187",
+        "short_name": "3187",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3187 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 9:30 PM",
+        "Wednesday: 11:00 AM – 9:30 PM",
+        "Thursday: 11:00 AM – 9:30 PM",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:00 AM – 9:30 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "3187 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 218-3555",
+    "geometry": {
+      "location": {
+        "lat": 45.4285183,
+        "lng": -74.1092084
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4297455802915,
+          "lng": -74.1081534697085
+        },
+        "southwest": {
+          "lat": 45.4270476197085,
+          "lng": -74.1108514302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-218-3555",
+    "name": "Restaurant Mr. India Bar & Grill (Vaudreuil-Dorion)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 9:30 PM",
+        "Wednesday: 11:00 AM – 9:30 PM",
+        "Thursday: 11:00 AM – 9:30 PM",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:00 AM – 9:30 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110124639309937635335\">Restaurant Mr. India Bar &amp; Grill</a>"
+        ],
+        "photo_reference": "ATCDNfXm_m5g5eV42Du_nymLJtWz9sSkoinfnF1_5jczIPVSwwFq2nUDIbpEXB3d73vgA_eRfusYf6ESBlqbr4MTldo9aqHEJDLfBcXIohGGxIUp8heSiieRxc1wGEnLugDHaOE-9_YcVfh_hudYMhniL_KkF2DMpxE0IGRqdtUEuprN5WZp92SLZUcsz4evIiI982QncyLTTTgIcDK48855puJwJbMJ2kIfUNiEiT9V4AuVixWL2gPLZnadwJwWhkePjr20ctW6UccYoMoejbCyTW8pAemcpyNP2TX_RNHlaYRjzQ",
+        "width": 576
+      },
+      {
+        "height": 1056,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110124639309937635335\">Restaurant Mr. India Bar &amp; Grill</a>"
+        ],
+        "photo_reference": "ATCDNfUfdE-DANImcHWIWQoZxO1UzHxGmPFQH6rcrRa-gnRxnzcazzecobccwNehjKqimetoRaWLoP-HWoXVu6xNTniQpNjeAPIljj9bWo0NGJ1yJWfaxdWp_sozQvby6mV-UuuN0qyn0v6o2_kMoH2QV10ZV5FSjlhEk1IRFE-I6kdSbwU3ScrhYDXapSVnDTMADlNu_VOy4JK-AF9UDLZKeOXEbFz3-tSoRI0z8K6gdp54PMA-Oe2Wiym4ld8w3yMD6YcZ7qcqzPca7xlrmwYDw_5ka-v51l9Ief7I_0mOgCJ0UA",
+        "width": 992
+      },
+      {
+        "height": 841,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104218953592214255068\">Afilash Pillai</a>"
+        ],
+        "photo_reference": "ATCDNfWjh7KFeXMHT0QZEVT2RfWtt1G3qUtDhTKkWkpdTtdcWVf5iwjy2UwHd6ZKu2yMPmmbGT1rNUGWJa_oWgPIMbYoqvYf4-TVo0e2nGS49JsfSjcGjefCmiFF8t7_IxWYf5iTCgWKAr_inbRyJ3whSF5TTl0iaSHKd92VoUvcynClhcwN8WF3fm5ysBeOVD4GO2hgHpxaxCw6k9RT_VcuZKSv-jRarNoN9qzorPuqKrwoIWM-U_CyPXZdVYXm5uC49AVmF5mfhQphKPYiLL5N90IdL3PFlyUWE_oVTMt1XWsuziKVYym6xiKKRoMJm4PjkQp6j16wd6sHPOlzc8e_IQjgcchW7BDuN5SLEkVpjEmDRXJn8PvNZG36miH4tTLKU91SFS_Gmf2GDhzODPCAaB9_1kWx86694wsRipNWLtqK3WEX",
+        "width": 1185
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110124639309937635335\">Restaurant Mr. India Bar &amp; Grill</a>"
+        ],
+        "photo_reference": "ATCDNfX3EN2y9PyM83NRRi9of9kaRzueFYjnS1rrWL3KFSahSl17T-K8PtlBNX3_MK3YzdZAmuUgtUWuip0yHJMzh40gdYmv1QdIcoPoPxyPA2E55XPel1EtpvL9p6jo1qaNiuZEYZrtVFw0_TK9spCYR3_esz1HGBwq-oGHDJHdgakjKJQd56jS7V2PGLlt4OBGKQsAW3SAwMdxRxEqwkJEpeQLjc_MZV-vuPpofgvvp7rgAR7jShxHn1NrOODBWOU68xFUpdPYYe0GTHsMgPSbzDZz6jWtUXVNVSwjt3u9uqeU-A",
+        "width": 2048
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100477392605479535277\">James Bergeron</a>"
+        ],
+        "photo_reference": "ATCDNfU-BowlrqCBmrCVoI5kKMRi-erq_v8KyerTY5u7ybAiSoViqN3Duz817qj0HMFZ0Earknmdfy48d3X0XTLeAWXR-54_ZfI2Xv20eaT9pExgS15s4X5Q1whd4-PBXIeHQ__E9rydOfTgJq85_MlZUvVThheTEBYGFlyvJqzd2U75_uy2X652AozmP6Wj0oIlu8d84CYW37WDrWh1YyvCPXHspPIHqRjLA-C2G8YyscLStSlN3XKSskyODTuJLO_5WCwW_2IMoDHO9r9uOgcPEk3EV5TU0KgSrpBbSv6gzENKrQRLofJzsrwNE8D_uAUYTM27GkzI8X00ODUNmeR4vk9P871PJtGqx9z9KY_g6K_YAp43C-oPXUwO39-QZ-NTuzhiQUgj185PF6uFYfGULRDFVe_v0Z5IAPxKnxP0tL0al-Ko9KFMhENxTMPtNmv4",
+        "width": 4273
+      },
+      {
+        "height": 1221,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110124639309937635335\">Restaurant Mr. India Bar &amp; Grill</a>"
+        ],
+        "photo_reference": "ATCDNfVi2Gj9BeDyNHrBHea8eGVI7hab7ifVHRd0wDNEUIeH0ZDYSSivaTtVgMOpg5lSzdkT5ExqM287Ns6yXM2CR7F3S7ybw3p6O9uM-dSfpx3oBCjJeULCG1sZpF_kDvXHIcqjuatnJZ-g8OEed3Jd5MwP4uS-SwGSGTv9XhULqgU5QRcRHnUypR-2ilJW1V3rI7HpbCu2TPCZHz4FAigq6wEAHKgmqAa9U1C7aS7Eu17vVq7iAxKTmXOyQ7wDoKs5asDRx5Kt8tli1N1gDT3xasJj5Ma5Ru_MfzQRJac8jtAPOw",
+        "width": 1200
+      },
+      {
+        "height": 1728,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105899707851392111240\">Kaylana M</a>"
+        ],
+        "photo_reference": "ATCDNfU_cRCqPP2OzBClyJ-DhBJiicov38o1PRlfKHRWqSIfXjAT8c0Cf9SewisabcipTsmX1J2Z6JmO3zbaowqQM_-LS62uFEWXWyLMwDRFhemoUPKPhN2-GYJgldeXnzwT2_CKkh6fEyAoQK0UjeLfo-TcQy76ipBjwAKnbhh_IjZ6K5AG7CDfCnU0G6-LkKM8exCwjwche3uPu5zJqC6gtE3wsPzqI5-m5WAXgr4vp2aY6zulfOY-rRJ7A36qSyC_QRfpmNv1oymbMhS1UO3_SZ6DbC1q2Nz3FW4_pUkrJnqr3nmBIGaLNy-YGuOhD0zwXeTrpW3NK4u5X9dv-DsmizbiZgiuu9Heq9ogU_HLZ8La-neAgOTMJt7XCzsJRDWIvrWwcd2Z933PS1nadY5W1KCsgE2rfEM-AQ01Y6NlkBOuuwyPCfSnWFt2Y7jJg6Pd",
+        "width": 1440
+      },
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110124639309937635335\">Restaurant Mr. India Bar &amp; Grill</a>"
+        ],
+        "photo_reference": "ATCDNfW9ZE9SCy6j-ELasnzl947bNIOqI4u9MqvPsfKFiNl-MX2dzEUBgPiStsHCcnvx4CfXrMn9flYvyf93eiCAnJh8f_TOHwbjl-QEM4V-kFhiZpQD31ZxhxCri5ABCXiKVifdgUwkD5l7dVjgykASXzJ-4l4a1rSU2k64z6jZ0KC3vTw7d79i4SWI3V8l8edPu5Y4XyuwwyCFZ3ghQtnxKi7RPB4lcydl-GwGdgya_BQ6aWezI1u1ysTBmR2VIrLRPqOttOpLCkpFud4Ti3mdnLHkfM2IfqBpC_XR_JZL5pZVFw",
+        "width": 1200
+      },
+      {
+        "height": 505,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110124639309937635335\">Restaurant Mr. India Bar &amp; Grill</a>"
+        ],
+        "photo_reference": "ATCDNfVrnb9SOJG-OGy3SOkePilhmCvuYNe8yGLqxhxk8Ym9x_Aq0ERbO2uT0YsXuLk1C1G2-cxrNDD7aT_M6iod-1FrOk5185Pct6fu6X6vlh5geFFPvjXpsgMRBKf_HRiG5hiIwkl5_XX4pE9CKWZBWgJCMVafedW_SzNN5dESZwWZJGclWtnjDcOsdpAfp6XqVKCPKA-xJXl1PRbCw0YjDcrYxDA5q0nvj6E32iwduBpPARvCdAm73n2EJy6DI9GLmotcRhaDTNGYh7mC-pEpFPR_e-C8VTACLoj_JvP8eK2-DQ",
+        "width": 762
+      },
+      {
+        "height": 558,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110124639309937635335\">Restaurant Mr. India Bar &amp; Grill</a>"
+        ],
+        "photo_reference": "ATCDNfVui5PlTKiHvBYvnIRXL3-p4SgQkHQT8vVq7ueGU8UtxI7kDs2c0wlR3aFOCdoKfwZVDrG4D71tK2U5bdbu_vhN0qlGjuibayEA5I3B1Br2eM_sBz_cflhhIBDxuieC5C3SOj8QLox6oOpuCv59oSnxrvzWV0KqPo6-G8K7gPVqqRqkx53RUKQsY6dNXXsAeJLnWCfZACHtAvCBVGzsbH8fUiP5Xwvit4M0Hci9CvodimGHuSmTPpwdAJTMD6jkaVRRhreZSz-FD2fZ9vnZxX_v-EJFKsCksgAV9E4c9M6xjw",
+        "width": 554
+      }
+    ],
+    "place_id": "ChIJi9mwZFM1yUwRbzRzL1EVPfo",
+    "plus_code": {
+      "compound_code": "CVHR+C8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CVHR+C8"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJi9mwZFM1yUwRbzRzL1EVPfo",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Irushi Wijesundara",
+        "author_url": "https://www.google.com/maps/contrib/102863522859385861967/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2TnKI2N0oroce9lKXtizw5HlObbZHLzcf8UW8N_4JJmpI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "We are a Sri Lankan family visiting from Niagara Falls, and we absolutely loved our experience at Mr. India Bar and Grill! The food was so yummy — full of flavor and perfectly cooked. The place was very clean and welcoming, and the front desk staff was friendly and helpful throughout our visit. We truly enjoyed our meal and would definitely come back again!",
+        "time": 1759696502,
+        "translated": false
+      },
+      {
+        "author_name": "Ilyas K (IK)",
+        "author_url": "https://www.google.com/maps/contrib/115479361686578297092/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxxHlPWf87KMDmAfpij7S11YVzxYp3D6cjBpP3hO2543LMVw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "The restaurant has very interesting decor based on Punjabi theme. The waitress Amrit was very courteous and professional. We enjoyed the food a lot the golgappa’s sauce was very tasty nice and cold, the dahi barras were made just like home, the best was the dhal makhani and nan.",
+        "time": 1756335993,
+        "translated": false
+      },
+      {
+        "author_name": "Kaylana M",
+        "author_url": "https://www.google.com/maps/contrib/105899707851392111240/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9Ur1V8QcULSH3F8D2f_K0rAnQv9GPzvZlYKK1QZPhgrwRjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "We recently tried @restaurantmrindia located in Vaudreuil. They are your one-stop destination for delicious Halal Indian and Pakistani foods. They offer a wide selection of authentic dishes from both India and Pakistan. We highly recommend their crispy mushrooms with sweet chilli sauce. They are the perfect combination of crispy on the outside and soft on the inside. We also had their salad with chicken kabab that was packed with so much flavour. Of course we had to try the butter chicken with garlic naan and it did not disappoint. They also offer fresh pressed cane juice which was so sweet and delicious. Cane juice offers many health benefits such as improved digestion and vitamin C.\n\nThe restaurant itself is very clean and the staff is so welcoming. We loved how quick the service was and the vibes were perfect for a quiet dinner. They also have a huge parking lot which is always a plus. What’s more, if you order takeout, there’s a 10% discount! We will definitely be back!",
+        "time": 1755014527,
+        "translated": false
+      },
+      {
+        "author_name": "Laurel Lake",
+        "author_url": "https://www.google.com/maps/contrib/100416659490157630472/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuNBNNHzPagb_6i4LifiRcw6ZhehHHvGHeMNqhQqlo8ABRew=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "My fav place for Indian food in the Montreal area!\nAlways fresh, service is beyond friendly and competitive pricing! Tonight I took my daughter to come pick up our food and we got to take some photos with their beautiful items from India! The owner and host were so kind to us and it made me love this restaurant even more ❤️",
+        "time": 1755042413,
+        "translated": false
+      },
+      {
+        "author_name": "Sam Jaroudi",
+        "author_url": "https://www.google.com/maps/contrib/111895108072331412523/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVx115cX9AgMKbJx9Vf9fczEa83Ck7fwyqQ1Kbxs2JydL-Pjxw=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Passing through Québec, we stopped in Vaudreuil-Dorion to grab a bite, and ended up having a wonderful experience dining at Mr. India Bar & Grill.\n\nThe food was delicious. They obviously use quality ingredients and traditional recipes, because you can taste that level of authenticity in every bite. The lamb and chicken were properly cooked and the sauces were rich and flavorsome.  The samosa was exquisite, the naan was perfect and the mango lassi was refreshing and decadent.  Not to mention the desserts, a wonderful conclusion to a very special meal.\n\nThe excellent food at Mr India Bar & Grill is matched only by their exceptional customer service.  Our server was knowledgeable and genuinely friendly.  We even chatted with the owner who proudly explained the significance of the restaurant's artifacts and decorations, each telling a story and representing a cultural element from India.\n\nI wish we lived close to Vaudreuil-Dorion, so we could become regulars at Mr. India.  Nonetheless, we will definitely stop by every time we are en route to Montréal.\n\nBy the way, they're adding a fresh juice bar to the restaurant, with its own entrance.  I highly recommend the orange with pomegranate, squeezed before your eyes, with zero additives.",
+        "time": 1751252999,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2130"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "2130"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2130"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2130"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2230"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2230"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1130"
+            }
+          }
+        ],
+        "type": "TAKEOUT",
+        "weekday_text": [
+          "Monday: Closed",
+          "Tuesday: 11:30 AM – 9:30 PM",
+          "Wednesday: 11:30 AM – 9:30 PM",
+          "Thursday: 11:30 AM – 9:30 PM",
+          "Friday: 11:30 AM – 10:30 PM",
+          "Saturday: 11:30 AM – 10:30 PM",
+          "Sunday: 11:30 AM – 9:30 PM"
+        ]
+      }
+    ],
+    "serves_beer": true,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=18031591921493947503",
+    "user_ratings_total": 451,
+    "utc_offset": -300,
+    "vicinity": "3187 Rte Harwood, Vaudreuil-Dorion",
+    "website": "https://www.restaurantmrindia.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

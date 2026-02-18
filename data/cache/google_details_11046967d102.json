@@ -1,0 +1,394 @@
+{
+  "query": "Tutti Gourmet, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340065.6866755,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "345",
+        "short_name": "345",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Marie-Curie",
+        "short_name": "Rue Marie-Curie",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">345 Rue Marie-Curie</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "345 Rue Marie-Curie, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(647) 436-2004",
+    "geometry": {
+      "location": {
+        "lat": 45.4082281,
+        "lng": -74.0532676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40983273029151,
+          "lng": -74.0513916697085
+        },
+        "southwest": {
+          "lat": 45.40713476970851,
+          "lng": -74.05408963029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 647-436-2004",
+    "name": "Tutti Gourmet",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109031215391782058221\">Tutti Gourmet</a>"
+        ],
+        "photo_reference": "ATCDNfU3-0Ar7D61rK2oevU4k3iAY12dqJpgsPyDxdRn_G82ee5cjZjKCu2Cq2ZLJxQfP0dNuu6hsy8FnL-7FX5DF6PYTdK5BpZzsK8ME_FPYar3vSjW9rF2lybuMdz_BmRd27NxW7sOocDRpAb1i1-8rGU1Q-10QXtmg1AAYYHbiJ_RXsxs72YCWClOo87TnbtYrx8AjQtkN7M6_PSkSGzyx7ypKamlIi_WI63R2EmxevL9qHWyUhfXNWNE08-KZSMtGR8hXA_WHc9-3Vp89sN1o47tqD2mxRUnnMzWJBhqnBF1AQ",
+        "width": 1093
+      },
+      {
+        "height": 1902,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109031215391782058221\">Tutti Gourmet</a>"
+        ],
+        "photo_reference": "ATCDNfU4LUVBP95O-D4C8kOmyIFoV4FABHcO2G-xWTg3TWcc3fLRg-RqnTzTwN4zopacQsAi03ZBX_7k4o0PWjFAULgjvcM15_xREQjZLthtGXiTDBGnpJcdJ4G9iPVP3CA3En6YWlzLog9iV8ey9DylruXx8Nl1Uvg6NBSOBvh6A1eNfau4GbuShcnO8QZn_RhRbvABB3s9Lj8g0LYn7pYfs5Eh9GE127b-8mQkzfiBJB1iAN1S_AJRflrv2_ToSOQUhuR2u0kS67AAvms9fEij7N7xYH-eY-ffScg39uLM5pyT3g",
+        "width": 2535
+      },
+      {
+        "height": 913,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109031215391782058221\">Tutti Gourmet</a>"
+        ],
+        "photo_reference": "ATCDNfWLNyjZgpYUL3mK2p6mskEnnysrxjZxz1Vji6VtOeWf_8EZdo8YYuL51ZcOwcy2EpYEkgyMIVNVRl8ZV6IamHmCQ3QmxB1hZRLlkw0g_Az7-CyNN_yufsnjTs5rBVWGkjscWrvczmkdX54D5Ia14dAcMcfyT1EddRRpyVJDt9bOxOry3K5VOA03zbnJrgHhWX_9QiN-fSvOtktje6bNaduCLA-rrr2H5D1l4ccHP2c2sogc0qAU_jfSiMrRiL4TAzvLFDedzwQ2IWeGMGjKAZl9HuqRFod5vX7H6m6E16z-bQ",
+        "width": 1217
+      },
+      {
+        "height": 2526,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109031215391782058221\">Tutti Gourmet</a>"
+        ],
+        "photo_reference": "ATCDNfVdXzLtF9Q6QgAc_OFW_7YJSEFQCu9H5m-ORZKE5PDJI4Rev08-WRgGnBhCX56fi1hrOVIu83czsMUXim94HUlzyfrmpvVuV52PMYKj-yP2FQQLN4YQFRZxwWANwGLtAmCf_Dg2Yn4haZ1KgU80NVlpvCGQcocS4ifrT1jQtuQwY-ledQ7DT_nnAqWv8qpzLLOKM4jX7MGppWqLZMxK43WG0DIDCrSkUYY37fBaPX3BDteHuuqtD3xn9W0a-UlTwhNuMhR0ZRy1sk5ACqJGeZ_qXrlmuk3XFERo44D7iZyN_A",
+        "width": 3764
+      },
+      {
+        "height": 913,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109031215391782058221\">Tutti Gourmet</a>"
+        ],
+        "photo_reference": "ATCDNfV6jxcIwdwPSfMoTPMuk3EYZgBBoFsuPu3FuJoNbcYw_bqaxF6K8YuShpmHZPUK1r36dhOAVPQ3B1lJ8sMgBTaDwqKraTsW1LSNZUSG1CW0qKKdKPqp1j4q63GI3s4N3Gyje56ygK7gZvCHvro0owpSD08A7qlloTsUQc0kgca48ia9C1Je_G8b-yK_tgk8D90EP3druNTjYt5ufJmhe6F1p2HjMMgOXrlNP58WDLaBt-Cz9o_gZiX6bGnWcR1tIvxk5uXeSBKInqmWkBtGq59XaGGGIhXoADqjybw5S_o92g",
+        "width": 1217
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfVGUVOn25D9MwWTGIH0ZMbz63iUdFOpGvVT2zi1zY_GdaihtnQtdwUrkKUn9AefFvFz_kyh_z9r_FoFQx7rieGMYKb8kueVYTVuJ3wX-vhmxZCLfjEfeB9iOCl3wYH9NzAV8KadGRguJ3D0q9J4mAqO8nZYkdhvZCnHaVDLrIM89zNxO-j0fVu_o78BLyxKCyO9gSYCBjDczh8xfK7Dr8RqfW7yDUuP4-KHHLhdpGxxjA9-Y7HHjpvo5Gko5iX1GVY_hNkKsnBRepXfGet5Xjld6GCaJwWSCoMH8-n0Redd-1vggk6G_QIztF1NwFkMyQjVVzEE3PysGZ9X32sQM8P4PzASic-oF_fz3S_OCQ6cDp_r0ZIZdLPJ1A5T9eNgE-8C-5F-H_WIC6sgRrekMUqJ6tSs96I3qewtBvNYaRpNSg",
+        "width": 4800
+      },
+      {
+        "height": 1369,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109031215391782058221\">Tutti Gourmet</a>"
+        ],
+        "photo_reference": "ATCDNfUz-BTgsYHqFKLCLfoAC9v_y_oQwMccbWwQ0UPnw_zXxk0-xyjBbgzc8PIAjxucrcWzr8Ro-fVqZguEnrwmCRiowgMKDOL9kBFOYE7xtI2_Y7WhSdRE9WG8qR5SgjDNki4L41zOWLfCfbY8syYV6UFCFE8y5YiKEa9k27NBYW6BxXmNZu5D48HmbimalAIuF_QZ9zJ1cShD3yuBriVuM59eIF2fmMLoZeP2sc8dqjWscW_jJKooDWBis4BKL2dQkNylzDA_GXH-Y4nXCc8xJeXi3GUic2_A68bha18reCfoVA",
+        "width": 1698
+      },
+      {
+        "height": 862,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109031215391782058221\">Tutti Gourmet</a>"
+        ],
+        "photo_reference": "ATCDNfWjSY7wVMHN0NNuOjg20KwKJG0A9O6jWOr6tRzZquEQo49aOsmaRpdqx0hP3uagpN4xQxzcG298zp2phf7uEgGoMeu6AGYn1WbZrKSmH4nep_M_it82RXQASGKdfansw78T3srKuVykwt5L5uqdEUsK1NsUx26zu6UsSzMg1DumuxP1u4IWrBhNsZfyWx6rssR8wmu3s-VOH9EfA3oVyNaPRDsEOj0-WG81IecobIK5HCYfAWPwvvliJrbCYjNO4kLkToMKyXrU_NHhdu8B467U6EqvLFajESLahxjrwS4orQ",
+        "width": 977
+      },
+      {
+        "height": 1388,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109031215391782058221\">Tutti Gourmet</a>"
+        ],
+        "photo_reference": "ATCDNfUn60lzSQxsxXuP-ncvzuqRs5w0-l9mtoWiO95nYvkLEs2Ecv0m-kI_TGbdKFpBh2RkhG0HzciWOF_6xSy5y9D1FTevLbDLRWASgd4Q7Kpr6KgKjYjawJo8CdylB5203avisDjAOeIGP_AJSQB8yB1YRTL_lrSutS8iEdOZ4Ngv0Rp_A_KeG3JCmxCcYYegy3LLoyecQJD4H64fUDk6kNRPFtmDLNZImOd_Nrp_RGm9tTd6wycymIcmEczOz1MMUtmbmSg7kx3n8llDDf7UEl5oct1WNqmCow9VK6W2nZionA",
+        "width": 1500
+      },
+      {
+        "height": 1400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109031215391782058221\">Tutti Gourmet</a>"
+        ],
+        "photo_reference": "ATCDNfXcm5vvfESdWUj8ZdjwODwo2bXhDlkMZb3HTI1lxphwhGcUHPU8Rcla6CKyE8lHlzJJnhpEWSGu8NfN_o2SiRU2K7ba4WJTa_D4kCJQMo5NVsZPbQGlPMiLditPmQaPK4g53Mz4_kYaYC7GcygDuU2myL-X3igqc3lsoQNT_QxLkSHH08sKSHFjeIFl2os3u-VjrtckuAvFqLHsn3J8-eM1XL-YJIWNzuvhOOwo7QJO1tyTyGjvNCTkicqT4CpWkPk-UWASkjUVpGDt4yDZ8w8uD06JYo9ARI62lEC1r94Qpw",
+        "width": 1093
+      }
+    ],
+    "place_id": "ChIJ14cqVMI0yUwRTf9BTNTYRQA",
+    "plus_code": {
+      "compound_code": "CW5W+7M Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW5W+7M"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ14cqVMI0yUwRTf9BTNTYRQA",
+    "reviews": [
+      {
+        "author_name": "Blessed ByGod",
+        "author_url": "https://www.google.com/maps/contrib/102634914837205021718/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrVA8mofprXFUR77u_QLMTIHoJ6A5rAE7o9UWWDFFWqQ-Sqw=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "10 months ago",
+        "text": "It's very inviting since it's a helathy biscoti, But here are the two things that I found against its healthy ingredients.\n1,The amount of Sugar in it is extremly tooo much,that as a sweet tooth i couldn't handle.\n2,I found some type of sand kind of thing,I thought it was just too dry but it was sand.\nPlease be adviced!!\nHow can it be healthy?",
+        "time": 1742856868,
+        "translated": false
+      },
+      {
+        "author_name": "Antonia Benton",
+        "author_url": "https://www.google.com/maps/contrib/113790570855011194625/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrdOIXu2JSCSQkUC93HvY8qNkx-Ql9dRhkF71Hep5kBTK5zg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Amazon true biscotti. Perfect for dipping in coffee!",
+        "time": 1766934073,
+        "translated": false
+      },
+      {
+        "author_name": "Adamo Bernola",
+        "author_url": "https://www.google.com/maps/contrib/112905075795865839362/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmRWqD6rBa60XAYI1rocGrqKLImlcO6mgJPX0sE12Bgv5rGw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "I've been told that the #1 key to any successful business is customer service. And I've never experienced it first hand like I have with Michael. Very genuine and kind. Tutti Gourmet's snacks are amazing as well! Especially their orange biscotti. Proud customer!",
+        "time": 1528854212,
+        "translated": false
+      },
+      {
+        "author_name": "Holly Byers",
+        "author_url": "https://www.google.com/maps/contrib/109773080359667485118/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFfwmOq_GjqW_X4bjtvtrhQYbQYAI0mLe4IWvAQ7IMvZ4ikdUp=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 years ago",
+        "text": "Feb. 18th, 2015\nHI Folks!\n\nI was eating your GLUTEN-FREE ORANGE & CHOCOLATE BISCOTTI -as I watched you on Dragon's DenDRAGON'S DEN (CBC at 20H this evening) , and CONGRATULATE YOU on your success in being chosen and supported by Arlene!!! BRAVO to ALL!!!!!\n\nAfter meeting you at the CFHA - MONTREAL Feb 6 & 7th, (2015), and tasting your line of products, I am completely convinced that you are going to SAIL (SALE) through the upcoming years!\n\nYour Gluten Free Biscottis - were / are outstanding, as are your GLUTEN-FREE  Fruit Crackers-BANA KRISPS: Pistachio & Anise, Cafe, and Fruits. All ARE decisious, and I salute your pastry-chef- husband in creating (FINALLY) some form of cracker in the gluten-free market, that DOES INDEED DELIVER AMAZING FLAVOUR, and that DOES have consistancy !!!\n\nI am also equally impressed by you Cara and Jack with your simple, frank and passionate demo'ing of your product at CHFA. You DESERVE EVERY SUCCESS !!!\n\nIt would be my abosulte pleasure to demo your product at ANY time! Sincerely.\nI'll follow your progress with enthusiasm.\n\nCheers\n~HOlly Byers",
+        "time": 1426697584,
+        "translated": false
+      },
+      {
+        "author_name": "Elvira D",
+        "author_url": "https://www.google.com/maps/contrib/116606410052326830491/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLS2jTrEd-nS9qHBpzFqcx6pZHhSSPzkUStmvp-Zlr1haSDQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 years ago",
+        "text": "Flavor is def there, but if u are looking for texture from the pistachios and cranberry its lacking.",
+        "time": 1693687548,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=19660179717095245",
+    "user_ratings_total": 17,
+    "utc_offset": -300,
+    "vicinity": "345 Rue Marie Curie, Vaudreuil-Dorion",
+    "website": "http://www.tuttigourmet.com/"
+  }
+}

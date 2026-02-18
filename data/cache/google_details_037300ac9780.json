@@ -1,0 +1,438 @@
+{
+  "query": "Le Grenier, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339667.000818,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3080",
+        "short_name": "3080",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H1",
+        "short_name": "J7V 0H1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3080 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "3080 Bd de la Gare, Vaudreuil-Dorion, QC J7V 0H1, Canada",
+    "formatted_phone_number": "(450) 424-1561",
+    "geometry": {
+      "location": {
+        "lat": 45.3976246,
+        "lng": -74.0562802
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3989218302915,
+          "lng": -74.0548168197085
+        },
+        "southwest": {
+          "lat": 45.3962238697085,
+          "lng": -74.05751478029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-1561",
+    "name": "Le Grenier",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109349295053562154551\">Le Grenier</a>"
+        ],
+        "photo_reference": "ATCDNfUhmMAcpWQv5Pb_rhA8Yeidh6yJCdWR06P723F8h-qwiUcEd54Qpqi502HVfVqmA7Ra5FECkJ9SxqYTIMhFs8z_CjiY4a8s5nL_uIHhyDdB2crr2fHT6Y2IUjwdcsd18t-DPMZ7GPN-lRH1yLiSkVhH8_ZZz3IT9Xak7zJTiAHWBV-MHQDRw4tkEFFwhNLY2d4lfedMoA49OinlEeft2REmse2bUYPuHrdfyEFekxZ5TjBeFH2lQOeohrvmo6na50dr-vRtOJwG-vh-EuwCg_UNvg8c1128DsAAqKmIhuWlHw",
+        "width": 1080
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109349295053562154551\">Le Grenier</a>"
+        ],
+        "photo_reference": "ATCDNfXxdUOL3_6l9UPJ5iY0OuRxGNzFsO3erlnlJXsAy0jaJ67KYb0EeeuwryXvEOoNySL2gpxxt6_DOGz0023TKyiz-RSkWNiEZgNFHc9IQMuc_tdD_-nSaQeHOlYGelKmT965dQt2tEmDjlJIyO6GKwnIHNIlsZ5X3FooIqEQJuN_masEb4LI6nXi21YjybBkm3nCbksOXvg6hHnr1HeeFly1lK7s6yG1-cElJURZgTQPO47OPZNhGrEkgTkRQLBB6d4U5Y1Ed07cjiT22537-LVxvg5yBebVSop3Ept41gw-JA",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109349295053562154551\">Le Grenier</a>"
+        ],
+        "photo_reference": "ATCDNfVDH-Ba5WdT4Sd_5niko3B8iu9uJK7lMj9ZqiMU5fTdbkgvQrv3LLrOGZUs69I3mkvuXOZ7SYQpdLmx_QncaZvDSVRF8WyieSHc99gHrgSsvbG5Z_4ef6i1XQfY3unXIMcVxMaBKeM9DO9W9pi8F5DM1sjr1Cdhq6lTlNsdSDcMO5ux730bUzT1BwETuTA7wLrHryX_lVRsO_2lvjKeO-3dUNS21yUeEN0Ekrg2HZNONxtvYDd8-ddlWOivpJjIbFN0-igmnXP8qXfpUdCrF65tWLk8fVPfK1ljUW9wgYOkkg",
+        "width": 720
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103632316429760841734\">Martin R</a>"
+        ],
+        "photo_reference": "ATCDNfWQcfhCm8OpImcvnkrmbOMe4XQsNRbH2AqavNNFo0NlJVSdAbmUQG339U89ciPczpeLYr4uzk1A-h0uLX5Cn4A6MZLpCEM_QpptrWXVRI7rjDs9xdnTHbKWlUSgRn3Cg1fRQk4AzJ_dva6ahONTbojYUVPTu55NT-Sl0bhfVbMaNZkIECqeH82GjDoeTd0sGNEYk7gsdSNdUFZjAqQfutGt3a8UBM3AxrjkdT6PVKRD8PjYc7GUbvrwsY_khRWrkfP6Ew1ouNtCaEXekkjvs6fmEa40OcF5FQSqAlBidOccjcu2ZcchJZtMYxnKUxVU6KdM9bPRiY1el6XfOWDhHTisYthxAokdu5LTYkY4GK2Rq8Xc9JtDwB1b_zJ9vN9D8gPp1jDrSehD8kOwMIIy1ubpO-l7OpBtFxvBybIkW2HZ0Ho",
+        "width": 3024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109349295053562154551\">Le Grenier</a>"
+        ],
+        "photo_reference": "ATCDNfViW8U81oQwh5sFEyaMJ7SF13d1d4Tif9BePYOG4CiRYFqAgxNuig4X6Y4qz4XncpEk_r4U1fQv-rx0aMLGHnLSXtxsb1V1cRf9YZBdzpzIc0BWxE2-YdZDvUSoFvjfvjrTflG2nefgg4acUX51_rVYsPHHb8OzPpg2IJt4P6O-aVYuZPDxWDjZBZMbcvqqzs9sHf5M-FYN0NQZrjUSVZsOUcsc26txGRwl0gfZPl5AeAvdfp3B6BBIBd61R2TVtl2gDljhNhBP-lrXvqwMRNBh0f3Y7ssgYUvJ2EkZOQEDhQ",
+        "width": 720
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105911455532717535132\">Scott D</a>"
+        ],
+        "photo_reference": "ATCDNfUzTkefYzMaT9b2VsJWC1n0inxlOPDin6Wk7h46Sd4i_qXGQjhiabEALl5SxZdg0d3EGzvs1ZKjWJoGDSapTPKM7IFnqlSsoTU9iSmn7T6pIwv13A37ljhCgFYocgsHTPpCKy162cC069WP8TCtVuRDebLHmnNAmV8pON4Qf0Ck9OEs3gznUqweABCtxFutduyKkDcJrF3xhF3ns1jGpdSvqpJM3xIhchuFNsHbbx-dAhveVMNmzQaMPkqr22CASw2UKtKki5rvXXYe5wa0QwWIRAorgHaIC63_cwLQslivsKgziyhd1S_dd1o0OBYqo8QcfNOLeCfeZWF2glKLMxV1BVC1SXSIDPi-AWxXGNSzVd2RnVLAVvD1gDVSGbktvXkr6x754Ru0LLEhEXwnZEE2F2-zCkhSsyh1AfYs-Y6Rsg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfUoTkgGW9wYo1vaid4sF5GSmo4DjD451I6QRQXyJwq_wn9xXJJSaAGQdN0FxEqmI1i8XLp5TMKLsuyB0_WEFPI5mI60eNHEgRNEtQ4jBLeAdC3G-Ca-ENsGnstMWCRF-7HJm5a0kndCDKRQ9vfwjhTxVZra73fnrwoHgg5DzFxy95m1sVJ_9HrGmZqYJLn7xXuCI26PD4272JvEFGHU1SEHPcULYH5S6UI9zxVxWpleJMWUcAZyRt9fPopZcl8CCyp0gJN68h-ZCJZ1D68PWCWbaCw-IbArRhYOf46jijSfHyCmaM-ZNZ2QWaVZowmA6wCq6-TmkIpnrz3IWeAwKRjgXPyz7aZik-w2tG1wDF-vFJ1h96J5Xj2pN4KoP5Pf2tI6rsB0jPXQ8I8yCAwsttyKOUWx1RGcUa_tcpRaVLwfjhtHn32Hs7IkAvAZpw",
+        "width": 3024
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfWQ5cljxdgESYF3TvqT_1ku_0VMFhLuvp6HKxAANe-JJn2K6aAXTcGLdTOBlEzjbR6y_W-1uVqNKh8ghe6Eudqbn_opD-7CADCkgCO2dIW7EfrglxGDXbU-HvZVZ2ONVV7_ZUZT4Y_tgGqksFFIeGU4zmqzRAtoGL0xytrQtifq3T2GsJD7J0y74Lhz1k5d4_bTpCv1J2SPp2dbL8yh7Od9L3lWz3tuiTtcxPcwBFq4HsLG9ZewAExZf9rxE3k4u6HcPFtrr5EcRBwDGZqSY011PWjpHOf-bKeXOq3hUEqxB5laN-5NoqS-MqSvK2ra2jiPlw4npRe6h78Wdft1-SQ8TvmNUWMo0v7g6gei0RfsiTsi4Sb4iYmxsxpiZDGAgcv9X5UIF4LBHF-ALU-t8ylshKV8OhdNCSJ9hHRUIJvEVg",
+        "width": 3120
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXCQXT3CT4loxdzKBkmfP0yc7ys5BunVY4_H0fWLFBXkq4Kpw9Sd3xSZGszi1RgW2siEetZjnphxuyGYbMV9mPALKCG7ABzTChmDNA9mG9D2xIz1nNVaWeGpaN8p_yfaaLOO84tNhVBDWQSyko99IOQsle00pa1vu-dc6Alu2io3DUkNLPp9VIhLhtF4N8UVdMMlyEWKRif_PoC4dgUqyouZDKuMetM7Ff6GnBYZPEqeagfflD-tkuE59_ALS2s53zEbW1aVMoszx5oalYYpRpcugXOd8neyYZJXSwpOrrwxKxhpqXWeOJTxQLROTg7ZAWYFUzjz6zn6BJpCAXJCZISeqnjInWzKQzU1_KQXni7P_mCNywaJ7fgSFbF1-xahQXufZIwr31MH4OKJVLZiY72UPboyy_v2WUqV1keQ_zjFQ",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWuNgJQ49bssKW873rLF52YUu1r_oNfPI0Bxa4EUDyLZUnvqM2L9aYWw3phnY8QAjYhUJyUJo_qn_dGiAL3lsdCDh8Vp-mrNT-LjEE_xFrA7TyAg-W5_F6HV-JPtQHSA2JwYj9K6enm2ZJzsG-9EgOm1yOgMJWgW40YG28r-wwn4foUzrlHH8kFtAei0XRDEdwWhxm5nqrCeNGnE8xGJwRYQyJQtHIWFrb_aug11-BWB2kgvt54HfHjnNVq5opZh1n_NrI279bogA5ix6GOwdz9AL13MWAN_6T0ANYQn9Qe4fGIe1QemxIW5lMIEDoKsbB0wmJnbWmOiRL6EAclI3Y3xHNmiLN5zEUY6mX4O6KyQqjLSWj5OoxzLlsv21QS8CPTY6YXc-_bSsLe6PvmJ_Nl8EffCMeFdADz53JJ2NtXjUCyvn_3ukht_61auT12",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJq-uIeiY2yUwRZUrbLFqVWPQ",
+    "plus_code": {
+      "compound_code": "9WXV+2F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WXV+2F"
+    },
+    "rating": 4.2,
+    "reference": "ChIJq-uIeiY2yUwRZUrbLFqVWPQ",
+    "reviews": [
+      {
+        "author_name": "Josee",
+        "author_url": "https://www.google.com/maps/contrib/104093066527937219631/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIN_UrC7nQkoPhdzbq9kK3OzC7R6mcAUCbueHrnREQ6kDLB0ixdw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "I went there on my lunch break. I had about 20 minutes to spare. The lady helped me super well and super quickly so I wouldn't be late for work. The specials were very good.\nThe only problem was, not many were in my size: XS. But I still found several work clothes.\n\nExcellent service with lovely smiles.",
+        "time": 1518361507,
+        "translated": true
+      },
+      {
+        "author_name": "Sabrina McGuirk",
+        "author_url": "https://www.google.com/maps/contrib/111769183101113287848/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNE2p0FRoG5RXYh-piwldOj2qF5dK_uLCJItLUy_MugdsnbA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "I just went there. The shop is closed! The shopping center is abandoned!!!",
+        "time": 1691944834,
+        "translated": true
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1627179060,
+        "translated": false
+      },
+      {
+        "author_name": "Francine Simard",
+        "author_url": "https://www.google.com/maps/contrib/102316085032599185541/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWTgPcAcTDcqbYRt_x5ix72PpdOVjF7cW2Xi4MIknttqwaEkn3Jw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Great choice and quality",
+        "time": 1680460886,
+        "translated": true
+      },
+      {
+        "author_name": "Chantal Després",
+        "author_url": "https://www.google.com/maps/contrib/103698710275520337518/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs1OQLrU_xh_F1BA4e-ATaw6nj_03ePkhkGH8ojWCDluWF7HLv=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1686853521,
+        "translated": false
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "jewelry_store",
+      "point_of_interest",
+      "shoe_store",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=17606986957737118309",
+    "user_ratings_total": 5,
+    "utc_offset": -300,
+    "vicinity": "3080 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "https://www.legrenier.ca/pages/boutiques?utm_source=G&utm_medium=Local&utm_campaign=Google-Local",
+    "wheelchair_accessible_entrance": true
+  }
+}

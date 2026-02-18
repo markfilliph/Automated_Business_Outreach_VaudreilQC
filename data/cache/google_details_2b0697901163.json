@@ -1,0 +1,437 @@
+{
+  "query": "Aménagement Bonneau, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338229.5896358,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "783",
+        "short_name": "783",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Guillemette",
+        "short_name": "Rue Guillemette",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9S8",
+        "short_name": "J7V 9S8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">783 Rue Guillemette</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9S8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ]
+    },
+    "formatted_address": "783 Rue Guillemette, Vaudreuil-Dorion, QC J7V 9S8, Canada",
+    "formatted_phone_number": "(514) 794-5051",
+    "geometry": {
+      "location": {
+        "lat": 45.3772969,
+        "lng": -74.0391325
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3785800302915,
+          "lng": -74.03770546970848
+        },
+        "southwest": {
+          "lat": 45.3758820697085,
+          "lng": -74.04040343029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-794-5051",
+    "name": "Aménagement Bonneau",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116078627427687325377\">Aménagement Bonneau</a>"
+        ],
+        "photo_reference": "ATCDNfU-T2GIkXG60HAPCx3r7pJLe7zUxDfB6Ps_BM7Q563R28ygASWNbSoYVHlyvYxmPCU3ZNR5IS5saXK5bl1ba86SaAwNFKF7eGZxSmJhecAO_Erb3AKGvipJYfoKuH7CwKPGnY7jZEGAK98ZnRkzH84sf1aiaU5SnM9PXI__A9Xe0PxszvFCVPPA6lsg8ROW3yk2K_u09jM6Yj2DEm5m9Y6xWowuNn2hy0GXZqit10STH7tNiByHpcx9lQ4s0gA62CTxvlqXkSnbxfm3tokLFx_PfLFnHnI3AfMFrJgI793bqA",
+        "width": 3264
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116078627427687325377\">Aménagement Bonneau</a>"
+        ],
+        "photo_reference": "ATCDNfV45LYzvV12WHn7kP1tDYTl7lwE1BanUYH0tgLdvIr3OsATUefkFsm6Xb4sjIr9rsx_DCASecn5jCqwb-nGziKhyptpaVpUpmGoesJeX4q4d3j80BGCRNMsilszRlHeVwdh6X8VO7D7ESU3tSHFWHj-MwNlxVk31g2gWlaMSfIiVQgSaapRTQb47LuUvpMgJ3Yk2NTj61aVvhYVqyR5mzgloiD75eC6xOuVynFrGxjJSgQHNMin2TAP6a1QGr3IA3Bh4-3ELU93Rr8zkDl4x2vRJqD8OIEeCjMFclm4Gh_gOg",
+        "width": 2016
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116078627427687325377\">Aménagement Bonneau</a>"
+        ],
+        "photo_reference": "ATCDNfXgfZjSf3a5P6l8gzl4JQtkxV4GyJnzjtEK1Zo9UgdxWlpADYibjYkoTFIHJy26XoZRXlMApNpNKQhFX_Boqgpgpyiv7m5Ap4Zx61D9ON_ZoaRa1u3m2mo-jnfHL5LgbmmEv9NuBkJDjJsW5MolDfTpx0kXSpGoc629xdU57A3ocmFT3fT1kPMvn5IuDG5CDYpcS4Vz-Gzgo8OwqAz0C8Tbl1E0zcVNGulFNpIwz-YoXYCkLoIcQksLVeADaT917aXKlFioFGNyAI3LuPj5oP2ohlShr0JQwbqgojWccV9T6g",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116078627427687325377\">Aménagement Bonneau</a>"
+        ],
+        "photo_reference": "ATCDNfUHIH68RyW-qgsxhQumka4o67BJdyqB-hE6ZsRMv6pP-aUVxFnykwxxLOU-TwUGjEajfBI2oOnWkNA4JVoUdIQAQCFTZkV7cyNa-nrtjKg77wD8liui_zqrpGijpZxde39g0e-yHvmz9lw44MPF3p6yZpU1mQZUb06rduNkAYL3eZ1g9hHB8K_9S58YAfbNggZNsf2gfHBOVzRbwU3XuBrh9gqjHheqcShGvZcPprJdl8zUzHb1j8Dn-aNC6rwMg_Mj4a78eUsLjrfY6yu6JzePb3igl3CF0DB4-T7ZAjYWQQ",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116078627427687325377\">Aménagement Bonneau</a>"
+        ],
+        "photo_reference": "ATCDNfXqqXb_lSHQKt2nmhGgMj9KhjDZtjNhGZcC6tb1Yk0QSLhrY-qLML2Ee8pr0vfidWCXESSbjlsCkz22cvHQlMzHyNLbRdjzADqa2q9iGkrd760TS1sl4l_lOy1O9Sl-mjBq8NpXS3gTwbRCPtFVeayNo8bJsajKzOfH-mHg--TsbY42YNlqd9Hf3577vsFJu4F86osurw9zaZtegCAYKmESWAyhzOqrod1MS9qRLRxImCQz-LJjqO2OrDaEfJawdmOaF26DF_BNzf2nNK-LY1l2_6VrcP3yn3wjq9nx6AhRpw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116078627427687325377\">Aménagement Bonneau</a>"
+        ],
+        "photo_reference": "ATCDNfUUbCB7xASAsQfH8gwJ-215zUAF85pyhZYmLU-varJfFybQ96pX5CEdEoOc9Q603wHk6zu2C91ipQAUHkwbln-IOtP8uSAOO2txhXkN6YlHxexxTW1C0QoHJnF2b5QkW-fpzt6pqj0zzbM-dg771fhKeAqze263yceedxnktFwphec9afHIQejA-34cE3Ah5i_i6SUL9NH-5cpKl2jDzTz8l2sqzKI24eLYa4lHZdSP9uUI4TuiWazGcd78AbhG0JPyFjPDF1Qs51JU4XCduUZIvuQsScw0fqLRVn3Pdzad4Q",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100099918938059195376\">Isabelle Chabot</a>"
+        ],
+        "photo_reference": "ATCDNfUh_FaqJP-YhCVOKBL9ad2oEfsNtjWJ0ycx1M1SK9RPNLRrwwi4Ix3LMWbzExoAHWDF0LpimvFhEf0snSaoHalkH2I21YPyzYlbZho0IkqJUXuN-5BYI5QVGdOKl9JLNOr6QEVd_j6wqwLD_zvPMmixEB1JzxiSa81duscDfAK4QyYeWOcMc0sq3V0TGm29SI3w4AQfcY1sfn9e-0OoW7D5L3PIGqV4_j59LENy-g3zyZoFzvls6CCNGQ335uYNKoeyIlpEOaI3bR4AS-TUjCUWpWk4IiEV1jSIQEILlSSfjavRa8yg4ho7jZJceY1gAh8avefa0Yqt1_2-KtiysUwYg2ZvJnnDC__rObPKzpnyIqTWflAjZImC71tDneO8byjddqSkx_sseMk6XJBVfJyCc1SaVT1tGg_h6FhbGAM",
+        "width": 4032
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103441144895799439667\">Audrey Garceau</a>"
+        ],
+        "photo_reference": "ATCDNfVmIjclcy4RkkabBDB3mgTwwCKQ4A4D8jhGELpYfadl_SxccDsJJytReq_UbILj5mirrYDYc0k1yIbZxaMeg90HjzzDpfBRKKSsaQ0D__9VGVyFBaIWY81oL-h6UZfcInVyr30h75uxFs0Mfa9xWNYj20AiQKtlXBW02QTXCuJv_NcFBGHrwCp1x3BoGbo-11VTnD9fGH8MGITKPr1-frdzJlBJ9nSAE6S0o65zRmbmrQLhL6tOKfUj8_BHJBe84U72p7oxzWqJ3GkI42_4oB0FIKk6Qr63iyDK5DNoi1DSM9bjJWZE688U3qfaMaREYPKX6zC6nbJaCl0y5tA6DrIDik8rNq7UrZ8qRmdTfm-XUgriokWFGrwn76BlFM7q12auq9MFZEt9VXNTQa2KuFhgG5XEnnnXhqCCPNlZi7iHmkAj",
+        "width": 2048
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116078627427687325377\">Aménagement Bonneau</a>"
+        ],
+        "photo_reference": "ATCDNfUiOILLlv12JaO2hMsFXM5j4Y7TfFZ9qqg5kPbp7_5IQt9px2_GaqGSBQVz77M6iUdl5MQm3tVRkR21nNQU8-I9HN_ed8N-fW4DrFOaARO-5JuEWD7E7_Rbkf2mQIu556l9f2fWsj1a6FwoQ-77wOH13or6K0Eq7AOfsRDkcUXD7YxyHSpdCoT7D5OsOdYWJ0rELZN5TRYoJW_GnfGjvsYrp7JJ67WZFtmZ1oC-c-CMgx-X8Pxgj4hSPCfYP5qPSpXetCnwRp0uNDNFd9sTRWVfOSfILWQX4lzhMOeqiGxAWw",
+        "width": 4032
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100099918938059195376\">Isabelle Chabot</a>"
+        ],
+        "photo_reference": "ATCDNfU36eOK0hmDN0fxGraCTcCpLViWUXRNrU05FR3LflqyOiQbrU9IKopwb_g2tln5GWeRn6Ncs34zG5ErPJTSgZ83LiYimt5K8Y7bPq0-VI6EkFGi6yOG9pQUOlCdIExHQgiuzdmGBTvV63pBzehI2jwQP_x-EP47iAMnhU9C48q2uJV1RBB7Yp_oSILQ0C32na_MmG41vShLnaAdrxZ6fxLYseKkhoncpzbO9JsV5d7uH8ZV_ZGsYqybPPhti6_83hQKyxQ_jWeOqN8Q92xyRleEY0mFuIRwKfKKkMEdW4zvQDFbpcLGJ1aKMuFK3g1vY84fP-NB2DlMPglLFQQ7ogMHa9hh0MAIEQtxq_TrfZjE-tRJF73x3hPLkaeyM-oN8D9zo7X5UESATgne1ARCUGBFIDCxySKYFpO9N0UFlXhbCFCH",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJGaP3vDBIyUwRmAOT_swL8_g",
+    "plus_code": {
+      "compound_code": "9XG6+W8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XG6+W8"
+    },
+    "rating": 4.3,
+    "reference": "ChIJGaP3vDBIyUwRmAOT_swL8_g",
+    "reviews": [
+      {
+        "author_name": "Michael vieira",
+        "author_url": "https://www.google.com/maps/contrib/102280976649387794089/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnA-ot9nObENPomZokXPM9F-bIuhfkEMlg1TD_nIgMOYcXF_M=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "5 years ago",
+        "text": "Unlike many others, they responded to emails and gave us a fair quotation!",
+        "time": 1600356138,
+        "translated": false
+      },
+      {
+        "author_name": "Pascal Chayer",
+        "author_url": "https://www.google.com/maps/contrib/117542475971278937941/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDKGHhLSUp8xLsNS_bXrQR7pNNS2UxBvufOMaGYv0-OjuNJA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I hired Aménagement Bonneau to remove the paving stones around my in-ground pool, level the area, and replace them with the same paving stones. The work is impeccable, and I am extremely satisfied. Their attention to detail is what sets Aménagement Bonneau apart from others who offer a pretty but poor-quality, low-cost service. I highly recommend Jean-Pierre at Aménagement Bonneau if you want a job well done that will last.",
+        "time": 1731354080,
+        "translated": true
+      },
+      {
+        "author_name": "BRIGITTE RIOUX",
+        "author_url": "https://www.google.com/maps/contrib/111021247538907309277/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxH83_IHgeFnX3j2oIbppZ0ROCXrA8Gg_G3QjfLe4HgcimVP4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I always use Aménagement Bonneau for my paving projects. Jean-Pierre is always pleasant to work with and extremely meticulous. He appreciates a job well done, and this is reflected in the finished product and is well worth the investment. Thanks again, Jean-Pierre",
+        "time": 1694025630,
+        "translated": true
+      },
+      {
+        "author_name": "Chantal",
+        "author_url": "https://www.google.com/maps/contrib/116490295110785973925/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWu84CNjYhfpPW9wPcVfmXPVhcw9mbANVhVCBU0NgP5MdWpnPxy=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I found Jean-Pierre, Amenagement Bonneau, through Google while doing my research and am so happy with his work. He completely removed my old weed/grass along with all the overgrown perennials/bushes in my front and back yard. He put new soil and sod in two days! Jean-Pierre was very professional and was attentive to my needs and wants. I totally recommend him.--------I found Jean-Pierre, Amenagement Bonneau, through Google while doing my research. He completely removed my grass/weeds and perennials that had spread to the front and back of my yard. He put back beautiful soil and sod in two days! Jean-Pierre is very professional and was always attentive to my needs. I definitely recommend him!",
+        "time": 1716589531,
+        "translated": true
+      },
+      {
+        "author_name": "Guylaine Fournier",
+        "author_url": "https://www.google.com/maps/contrib/100746568451165630409/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4zrE072SGhJuuD9zao9czO5llYJs1i1LRThI1TOMTQ6hXLA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Courteous and professional service.\n\nWe entrusted Jean-Pierre with the repair of a low wall over a ditch, as well as two levels of the balcony, and we don't regret our choice of contractor. The work was done very well and on time. We wouldn't hesitate to contact him again for any other exterior needs.\n\nWe recommend Aménagement Bonneau without hesitation.\nThank you, Jean-Pierre!",
+        "time": 1690302508,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17938694715819099032",
+    "user_ratings_total": 18,
+    "utc_offset": -300,
+    "vicinity": "783 Rue Guillemette, Vaudreuil-Dorion",
+    "website": "https://www.amenagementbonneau.com/"
+  }
+}

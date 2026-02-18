@@ -1,0 +1,451 @@
+{
+  "query": "La Ribouldingue, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340152.6600397,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local 104",
+        "short_name": "Local 104",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "51",
+        "short_name": "51",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8C1",
+        "short_name": "J7V 8C1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">51 Bd de la Cité-des-Jeunes Local 104</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8C1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 7:00 PM",
+        "Friday: 9:30 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Family-owned shop offering a playful selection of educational toys, games & crafts for children."
+    },
+    "formatted_address": "51 Bd de la Cité-des-Jeunes Local 104, Vaudreuil-Dorion, QC J7V 8C1, Canada",
+    "formatted_phone_number": "(450) 510-9816",
+    "geometry": {
+      "location": {
+        "lat": 45.4060967,
+        "lng": -74.03485289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40752088029149,
+          "lng": -74.03343771970849
+        },
+        "southwest": {
+          "lat": 45.40482291970849,
+          "lng": -74.0361356802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-510-9816",
+    "name": "La Ribouldingue",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 7:00 PM",
+        "Friday: 9:30 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103632316429760841734\">Martin R</a>"
+        ],
+        "photo_reference": "ATCDNfWiaGRBD10k1lCmesIdoE36UHoUDFtaKYUJFKcOHyj-BbVu2Uep9PR2S9ZARjKCWMXqB7dEBa524_DTmDpRDxznOzezhWP0X38Zqv4rH6q061mkdFn6vSJ7BA89ltiXxC_YtXRqD78wSGw-IAJY7nYgjhqK73tjBJZbW7cTQJNNf192JiSMoTf3QoVwXruvoHmis13lq-hBgEa6xUyKSEtlPPYBeUrkvP8A5nbxlcUqOk_DizW_-gMG2c8dJAlWrqvHAhYigmL47umbUedAT-kNUPio8ylW6C0knR8dmAM0VjvCMaO6FZh3Ok-zwDswfQbkJEwt7IKXlRrZWbt6rVpA9jZG3LEPM_CtPGdeXeUPS35wXDSj-lNjuLKkRq3InnqQAiJpYTEF7N4yPAxHQZZXtjA8-lxSZyD4FBpqSsFoHFCa",
+        "width": 3264
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113052870058383151635\">Marina Duarte</a>"
+        ],
+        "photo_reference": "ATCDNfV3LyUk1VrDP3FEu86hLiKFdkTtKxZTSKtkjBYV4YIswKEDlWRCYQ1p88vwLd0MSw64rTNkTzgn6rCWtTW3U6ntT4JKE1GrX0162XKct6gZ0OfchVPknMHoVbSgLbn3jKOeftaZ3Dm8LCZHA-i72MzoOtyTH6ppWIwU2pSQ_CK_9HxWEZoHoVrPoeVpZxB8iHhR5ICtCcPVXmhA71HmMP1jtd9I-lRlc7YXwj6A4npv3CsUm37rsSCn_NoZyjtXs3eauBTdAemuwO_o_Vb7p-gQFQyl2PxD2uw1kqCmvRYtD473B2dqv0OB6Up5yLDmgqZOvkjEsNrUrduLZviXV_IX1-PVRVzve_FX5PpIsG7KMDx1cBHQEPDZwf37TFFG9A1gC0hlu75TuO8tBWCj4iVQJfOjm31O9gRlkEyopSHJlg",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117099450965007138261\">Luc Deveault</a>"
+        ],
+        "photo_reference": "ATCDNfUYhIkPpxx8j4ZPbDj7rychtIN9f7P5BQwkU_7HXLjkux7gkOyqhuIuhINXQ6ss-KnlgXdZGOFJ7wT9oTwPaB2vOJon4TBmXMHJiizQBzcjdtvFLfo7tak54mIS2aUcB_T7PM-PTpBh8PB_GepBhSxXGOAXMKuPLx0fqRSYfoK5wcW2HhT6vF3ToSllKnRv41PMqhSkgkXdd5YbbLIgZCuxoZxQH1OVXzF7AfY8PT_rtkas9P7Med_r-2HzR5mYmLk3ilCF0Mkl8yrlIU5dlfOrK6UQQd3HMZSP1icDAU4XYW6mMJeWNLqO1rWeBlnSDrC4-xlfIlZeoiE9Qw_nKX9RVgnDJ7b6AIXt6rZxoExGHxEL3civPX9c07XDpyamugjgSPu-M4yfk3eUjY6udJhzT_dMUI2NOne8i6r07SzwitYs",
+        "width": 2700
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfUyqFmL-AetpSGgs1bqjkkoK8dmS0aoaspJwKBY97U_WeppD4O-k4EMzmelNDjcdAZJ-_snco0UFZ3N2eH1-Mgl16MFyxBMOmBEm79RdmCaZWP5u4nk_Bedn0SOxX7emPrlni5QJfCZuGEYxRrg2VHWPjm_zoFvwbB_GQ742KiP8Tr-Tz7B6ItZDbQ0V0TljtBAmtZ0OtceeYIkUh0WTRCZTCKG95B9z_o8NDXTJD8AYcojiwoLbaTTMPgEFLoyZSoKcGmmkMRytFwx5Jx2PTaHugpq9ePH1GmsQOK0AapqUNJziFlIQyk5NQ_4WClLv79EOo28XmKi1HVhQ2PzaTezqnMs1z4UZEJZj6RbmQVX-K4dunAev0wBgmpP-0iafL-QVSYkRsKROBkn6bHYxcb2pkQIN1SDqT29DyKDRWyXHA8",
+        "width": 3120
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113052870058383151635\">Marina Duarte</a>"
+        ],
+        "photo_reference": "ATCDNfWyINWnotq49zltso_qBeYofUloXIJqmRuytyP8L-usHatT6BMGlMZzjRFVj4C48OhnZ9UOO8LkDkEwFRJLXaTPC158ohsQcw2JLydTYo2VpbgDmiIlgzayNPbbKrzSnlq3brLjfQ1e33ganttWz71jGVuNgAwTGt8YAnUf5NDHWcOm9-uprOuEdv-7_h_J0T_LbFk6IJGp-RyH2eOkIJSkrLQScudgCWm-K313Tbn4Vte5kPnt6lFeYpRUg4oMZ1xqsMgFnQl54Qxj7R6_-Q2SE1eCkgFf2bbbRq1ZX4cGYRlbAqOfS3SEQb_iDOlPwNo7scuDDe8MbqROPmpe_lDt0eylydm-Sd3GKqadsncEwKQ875coC-mA_1_GLqW4FZ7pj1a7GfGrzL4sxD_52AXw3EuS6-CcDBdyqTIv2xrLbmMi",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100256504779099800688\">Al Drov</a>"
+        ],
+        "photo_reference": "ATCDNfWmkyh5v6VRhfrU9wTMnfiAm03XJXlVcOQ_-0VJrVoOU_vuAYqTAXLaR84rK4_ppSjBF5XZtGSAS9SjT1Zv0xlPwmMovHYswbwgXlL9Y3ojAE4LraHPmWE82q249BrLtFvXlUfFB0Fz08ohDcPjEkT_bPMDFk-D_U2137I3-BRukMuZuT3wx9T0s2vHK3AppLW5snRJ7uXp-9kb-PZNKlYNdgfcGtGq8oe0opxwEPuwndd-RYm43oi9kLbuYB-Whc1MveknmeUNHLZKNMX4Ut5JPeFCoBEAeDMyP6FuW0XvDErTslsF8lrmZxbC_e_II824GdOCTVSbrOm4v75EmgX9E0XUI_BNKyzPpCuDw5caxZhagDv6OiY8xGoq0emU02fG3bVmrOeGQCsUq3nS2wpAONRpyYrx2o4QxOgZmwm7loE",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117287774477561942638\">Richard Hudson</a>"
+        ],
+        "photo_reference": "ATCDNfVZQqILkf1PPCcjGEQSoyN_IHbPmHPp_a1Y9j2hehvDLyAoW_8CRgfWku70dmt4UdzLv7hSc86W8Uos1O3lfWvEOJ4w6K9BiJPn5CiWKaQdw_i6QTfJmZvBTvxWH5Fpi9oDg4k9BPh-zwEVZQ3H9xBljtgYRci0H_JP1jzhZR8Og2YbwL5Ymouvsv3VrMMTLzx8alfdeYWWVu2yLxzJ8ChY9aW276J2UuUNsR3NrrZ8d9SGxDdqBKXGK4vA4xPydfmVUlacFpBco07zTgxySQ9chiwEKellj4ohOIHXl-_Aa2nnIXChmyBN7ik7kSyXEgl56cWQutXoM4j3AKjXO8FSc7jRFbhMsuMh5ybE7hIs06US3enQlWj1beqkKsL2bCKtSrop2dt0eOUvCdnRcF2PuLrn_p1AKQuiCzoYKkO6zj-e",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100256504779099800688\">Al Drov</a>"
+        ],
+        "photo_reference": "ATCDNfW6FiZT7VQsHYUYi8jQYEd3Uxlle-b2iw8NEGKfTn-knU_MLoCkRUKaaSq4T3lZNIXI4Eopp_flncAlRLP_-J1ZSpTEqstbM0sZeh8khzKpFQj5QTV8PZNtb8ATt0zHii2wSe9sBY2nRocwpa4YJ2GsL4JRXsyU5S66kEzqngqUBDTObZLchr2j3HmeXSJSAHv6tKYAXd4q1p5ErF93hsF3HqQcp989ckYqC1i1XQg1TitjwgXibkosnG0GnNL7CSPZAfA_gQQVyTbar0S1t-COwnAcF9rQcb4m2vUtlU8VYblIFY92INASPYZtO4w0x7UrU76FuC6LeR1X7tdi615LDfausS8VA4ZHxmFT72-TSWx2nd1CV4GxXrAlMZmoRZ1JPgY78nRASFxfL59N8SnE6lGEdcO2EZ4xh5hbJbslskmB",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100256504779099800688\">Al Drov</a>"
+        ],
+        "photo_reference": "ATCDNfVYaJuCEna0yjIELipp-E45BYpEuc9xY7q20Y9OjZnTmXodiYtiC-MaSh7wBnPtOjDkQyD3BrYX4IPy-oLwDyeyzTFiGxUNXPdA7AIWyI3sZ__FmkQd0eiaXK0A_7n94_6Hw6DcKkWkjfOv_ugV0tqGirp13WcBDP1ooLRHyL7l-Lzcw30hN4z7I-Xuj-r4JM_gZmag6_EIaGWE0gpCQ7FiBc1aMivF6GzvThIGh23uIIiIiPr5ixLNL_jvtDm6-9pfVt8TlqSlUPczhTCSZiastrHcEyr990PB5GpSvmRZi2p7ADtMuE-zkUwUBbZj6lpZVijAJrXiW-4TE1KseAZfUNiQh1wnUlCH4SQkkCNUkKnVyZjzV8AQcdG-1ym18vKWUgU64q6-RetxcA1MD3HUGKtAyLAqXJCLSyFcweprGg",
+        "width": 4032
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116058188426882906392\">Randy</a>"
+        ],
+        "photo_reference": "ATCDNfX-vMkWwy0_SL_gajolUpMT6E-T6E6WFp1qTP6ZoTjmJQYlbNOMA5CN2ak1iUQWCTDq3hlLsonXjS5f59hQbjEYesmjWWoCU5XsAvE-A6PyrQCbPVH-gKZSXwQ5FG50eXJXzw3YswqkPnENEMNQwltTd7n9cnOTIyt3LQH1D-Evd9CWTKyQ0h8KIuHAHGbnTcTSPzUo0-1F90pmjx_siplgo2gyYa7DuIVN3u1oiQTRWUn4loJAe0EZnl45O-fHKxgYV90z-i5ovwTzPebkBAiofMgPQNhKC7AeKRjqy8Qe7ZrdBYQjLadRAy5tmoB85JuNsnkaV1DQKb-q9P9qkWga2KQ2OUJ3Tn3Lq5r-pOl2Mb3Y5iuyRvBmiNwVFRj1ToAzq5NTEfw-psdE4SR1eqDf06NX0kUD0hrnLowT18X2iWY_",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJp0E_7jQ2yUwRuU5YnoaLT8o",
+    "plus_code": {
+      "compound_code": "CX48+C3 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX48+C3"
+    },
+    "rating": 4.7,
+    "reference": "ChIJp0E_7jQ2yUwRuU5YnoaLT8o",
+    "reviews": [
+      {
+        "author_name": "Mark Maceluch",
+        "author_url": "https://www.google.com/maps/contrib/104848410476171130105/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWmbjJlB3vojk6_HKmMm4t1AzPYgAxBsajrQcg-N3z6pnDStXH=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "We checked this toy store out and discovered they were celebrating their 35th anniversary serving a slice of their anniversary cake by family members greeting clients (I thnk we were greeted from André).  This is such a great big toy store with so much to offer from hobbies from toy animals, Lego peices, puzzles, Barbies, little dress up costumes, books, and way more.  There is so much they have an online catalog listing. There is everything here for every budget in mind.  What a great place with 2 floors to it.  So much to see and discover.",
+        "time": 1756685911,
+        "translated": false
+      },
+      {
+        "author_name": "mahrnoush lari",
+        "author_url": "https://www.google.com/maps/contrib/110528340750927485240/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh-aa2V-rx6hFDTwfweXVn0VtUBUaJbPi7qWYPBU331_nWfw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I was able to purchase these games with the help of the amazing Florence. She was very knowledgeable and suggested great board games for my students!",
+        "time": 1630773236,
+        "translated": false
+      },
+      {
+        "author_name": "Christopher Dom",
+        "author_url": "https://www.google.com/maps/contrib/116266768846007813526/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbwqGbbcsF-Aeck6Y2EqjzATzZ2OYRVj-d5s6wzGy0v7GJQzHh=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Absolutely great family-owned game/toy store.\n\nI have always felt welcomed and taken care of at La Ribouldingue.\nWhile their prices are not always the lowest, they more than make up for it when it comes to their expertise in selecting the perfect game.\nThe staff is passionate, and these guys test numerous games for you, study rules, have playthrough sessions so that they can advise you accurately and honestly. I cannot stress enough how this is important, as paying a fair price for the ideal game (and the subsequent hours and hours of shared fun that will follow) is worth so much more than saving a few bucks on an poorly selected game that may turn into a disappointment.\n\nStrongly recommend.",
+        "time": 1724201780,
+        "translated": false
+      },
+      {
+        "author_name": "Erica",
+        "author_url": "https://www.google.com/maps/contrib/108977958352832048107/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCSNCKT--axT3K8oaP6infiwbri1tw9rIfbOpzvohyCgJA2IY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "My husband and I are late 30s and early 40s and we love this store. It has a large variety of toys and games for all ages. They also offer the same wide option of French and English games. All the classics and more. Legos sets, puzzles, 3d metal puzzles etc. The staff are also insightful and can provide a lot of instructions about different games.",
+        "time": 1734307207,
+        "translated": false
+      },
+      {
+        "author_name": "Ray Passineau",
+        "author_url": "https://www.google.com/maps/contrib/102198983647354096775/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJOHkOIlXf1hvhBR2LB0jRW_KrOZQbuXPbtQrFgsZjOq2-uQHbCQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "11 months ago",
+        "text": "Got my first ever Douglas dog stuffy for my kid! the atmosphere is beautiful but the prices are a tad bit high. It made me feel like I was a kid again",
+        "time": 1742566921,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=14578023929120050873",
+    "user_ratings_total": 518,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 51 Bd de la Cité-des-Jeunes Local 104, Vaudreuil-Dorion",
+    "website": "http://www.ribouldingue.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

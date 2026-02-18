@@ -1,0 +1,337 @@
+{
+  "query": "Mecanique Dragon, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339828.817088,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "269",
+        "short_name": "269",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "1ère Avenue",
+        "short_name": "1ère Ave",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5A1",
+        "short_name": "J7V 5A1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">269 1ère Ave</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5A1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "269 1ère Ave, L'Île-Perrot, QC J7V 5A1, Canada",
+    "formatted_phone_number": "(514) 620-0157",
+    "geometry": {
+      "location": {
+        "lat": 45.3961763,
+        "lng": -73.9606562
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3976321802915,
+          "lng": -73.9594794697085
+        },
+        "southwest": {
+          "lat": 45.3949342197085,
+          "lng": -73.9621774302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-620-0157",
+    "name": "Mecanique Dragon",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110851528613457706264\">Tom Csizmar</a>"
+        ],
+        "photo_reference": "ATCDNfUDsyxKAO8MIESmn8GSG3GrwlHK-5rwXYfJy_wGRjEN2EbHUIPOs93d65385ZcdmtNamiBipXrRI-wQ2UqWVHCpVKJZiIR94Gp4SyyJzm8nb-YxRCOlzaWBFVk_i0BdCgt3PvglUfdZpVieKHuLZiNfz4IK68Vqj1uvTkfctnIvhYNr7t6FlvoJDP3u0RlavG-LiwlQTUk0H5QUpQU-Fw9BG0hjIdIxj2JACWfhj9TCLIjRN3TXxnj4pzqur_MF2yVcw7TStSwO_j80ZJh7UE36Ec9aZ6gP1DMSUuDXgouInU5j2cR2rUrd-bkRw7dPYh3-x8pN0pr7rF_xEFWHJlBHUXDKPX1juUmjp4_VqwRcEsi8o9FjRwpKOoZYtyBGvR73sLu2Pu35symEbJ5we4DxslIhb5rw3kaVeGDWuqAXjw",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108219058289873656265\">Michael Mc Donald</a>"
+        ],
+        "photo_reference": "ATCDNfVaX3BzQ2ar4Yg-jPBNUIPtmSthYIVOokBIUpiiRpEfit_NlPzaoFml856ITQn95eFeitp9jtzGd4nZSNfx7TvBktK2GM7t-IoJUeCZSR8FUHQi9qLDpb3uYEZkILGhP8gQdfOPit2BYt27qQWDilSj4BLqn6y-ukXd4l_-MPcJRuiH07oXPlLrHo-efuCBsJglyj4T7_eaSAYFaQx-8wlJmwjJHLd1Ua4aYl_GPmOpOjua47riVhU-pBr46KszHUSHk8A6QSQ_nLQiSzopVPHstK7jWDDB23FSC_nBMYDFpGpeabjD0psAU2iSyB1l6KY1c8iMhY8pusDb4qHaX2vIPvviQgIXbXTIU_cE0AYwUwhQ18Gr18yTfvWZpIuamw96njanh4j8Ez7gSG55e3op9D6uhrm_MI9q2wl1afujMqEx",
+        "width": 3024
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115655820860532452139\">Mecanique Dragon</a>"
+        ],
+        "photo_reference": "ATCDNfWk35wvsovrUKoZOjcUVv_8yKEugLJB-rtpoRVgFTZAyLmXGL05N9n5EH93IIg_nbAHI_lYU1Z4GqN4LlEhKiinKC0AyO8J386z5-rCJk1lsMN7Q6mF9pu_ZBp9TAA4uP-WnOTviJF9dbo0T3D7E8pYMArbkzb6qZCvbH5Vl2HX22cayt-Jw6DS1YPP5clUjCFeEoXIh9m2kh84JxOrVW9ujMytEW6CySysIFZjQM4nunCGLykkd-9ka5Pj8JhyHyd8xndk7rWKz8LpX8hm3MSJMRJq2fCJDAgHXAEvcWvK3A",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJR3h8ahM7yUwRHPG6pFvPWKk",
+    "plus_code": {
+      "compound_code": "92WQ+FP L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892WQ+FP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJR3h8ahM7yUwRHPG6pFvPWKk",
+    "reviews": [
+      {
+        "author_name": "Cat Consiglio",
+        "author_url": "https://www.google.com/maps/contrib/106734638815818720039/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzapO0xRdYOh6si8aXwjnvjYU13wGwdgGRD1ZsGwQgnWoeG7xO5Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Amazing,quick affordable service in an emergency.\n\nWe were driving into Montreal. We stopped at Pete's to grab a bite and let the dog out. We opened the sliding door of our Honda Odeseyy 2009. It would not close.\n\nI walked over to Mecanique Dragon asking for help. With no hesitation he took us right away. Fixed the issue temporarily with affordability.\n\nWe all sat in the office while waiting.  Our dog did not bark once while a number of mechanics walked by us serval time. Our dog also thought the service was terrific.\n\nThank you from all of us.",
+        "time": 1767979266,
+        "translated": false
+      },
+      {
+        "author_name": "Anthony Lobo",
+        "author_url": "https://www.google.com/maps/contrib/116879988303683907793/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1oG-Qx3ScsBvuJnjPJtnWwkgAd51dDMgl0QfqcWTDWYz4A1fg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Helped fix a jammed, locked-open Honda Odyssey sliding door. Excellent communication, service, and pricing. Highly recommended—would be my go-to shop if I lived nearby.",
+        "time": 1767972519,
+        "translated": false
+      },
+      {
+        "author_name": "Jasdev Kalsi",
+        "author_url": "https://www.google.com/maps/contrib/109543953348788194192/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLE4FDzCbeoaMdyDCiO-CSp6d_u9AWnvU8TcUw-LBO5P1LkWLP=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Had a great pre-inspection done here. The garage is very knowledgeable and honest, and their service was conducted promptly and quick. You get very good value. I won't think about any other alternatives in the area, and would happily come back here.",
+        "time": 1739231521,
+        "translated": false
+      },
+      {
+        "author_name": "Chris W.P",
+        "author_url": "https://www.google.com/maps/contrib/100718666609831503392/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLHlOVIRsn62UZ5fwTKxrK49RhylhAoiVmsfagUJNLm9akB9d0qg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Dean and Tom are two of the most honest and hard-working mechanics I have dealt with. I have been in the auto industry all my adult life, in parts and warranty, and these guys go above and beyond for their clients. If you're fortunate enough to be able to get your car in with them (I know they're a busy place, that goes to show how good they are) do so!",
+        "time": 1705534429,
+        "translated": false
+      },
+      {
+        "author_name": "Michael Salem",
+        "author_url": "https://www.google.com/maps/contrib/113744394199255769923/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxbt1qCAz1hKUoIwM3ImPcLU2nf4UV-PkSoTk1akg2qwt33UA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent place to take your car for any kind of repair. Reasonable pricing and excellent work. He is always very busy because a lot of people go to his garage  because of the service for this reason sometimes you have to wait to book an appointment and for them to find time to service your car. Highly recommended",
+        "time": 1702305857,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12202731182873047324",
+    "user_ratings_total": 71,
+    "utc_offset": -300,
+    "vicinity": "269 1ère Ave, L'Île-Perrot",
+    "wheelchair_accessible_entrance": false
+  }
+}

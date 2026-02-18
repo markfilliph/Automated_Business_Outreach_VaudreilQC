@@ -1,0 +1,416 @@
+{
+  "query": "Waypoint Moving, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340318.3733928,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "200",
+        "short_name": "200",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J2",
+        "short_name": "J7V 4J2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">200 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:30 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 5:30 PM",
+        "Saturday: 8:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "200 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 4J2, Canada",
+    "formatted_phone_number": "(514) 360-6255",
+    "geometry": {
+      "location": {
+        "lat": 45.4090275,
+        "lng": -74.04562709999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4102130802915,
+          "lng": -74.0441165197085
+        },
+        "southwest": {
+          "lat": 45.4075151197085,
+          "lng": -74.0468144802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-360-6255",
+    "name": "Waypoint Moving",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:30 PM",
+        "Tuesday: 8:00 AM – 5:30 PM",
+        "Wednesday: 8:00 AM – 5:30 PM",
+        "Thursday: 8:00 AM – 5:30 PM",
+        "Friday: 8:00 AM – 5:30 PM",
+        "Saturday: 8:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfVcF27Ke47JKD8eYuL5MDYxqhXldaMvMZd3HmtLby8tYOsSZsgXq_1BDfdNkXlDWXp0108Ia1dL0HekcBGoqpTWYTQeo1ne8SmIMi2nUeGHrkytbRyPhehnE12QBVdl2O1K61M7gsOd5Lu64rJbreiAFMQIaWG2yp8mt7wuVASOxI5EI1nUw3efWI4v14gic-2JL_cNI3H54_bd_upg04W5Db7sXblx31mQ_VnLGPUCl-N2Z8a4OwyT-Aa2-DP7euRCyDAV51Nj3f6M5zqVHcpFWZjo8a4AAzImtc1x1-KL2A",
+        "width": 3024
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfWV3w83CieOfaEim1hkRxQgwU9KBIFES32TMwWghjAAbZAQ2P_0-4P3T5t0qEmVm3312Ne_EQqlWKicRetAvCqMaKQVrP6-gr6L8Ot8YqGNPW-Z28_trOoxepPNP0y2Lx09YnUGxtWHQw9MNZwrQXB4pud18ZXzk3WuJ4NJVZKu90Ue2Wa18DJqDuhT_UTbrzBl5spix_25Oaq_rkpRhL5hxNN6Owpwrk5vVSakpbKHd9VlyxVjJofYWAD3SuSSlXzZH8FPPZJOLvMUDgFxaHuddUKowA4PueRSM1ynP4is0w",
+        "width": 1280
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfWiNQA3FgaMnI7NyBa_D7UYpGUmge24vw9HdIr19nmXo6YjEnKWos22FA-kMbkHkRT0LPIduWyoZIbyl1WIRCJC-vvodlYzHFDVN-mQHWUrYeTa7gTgh5EzaL2dlzZ4HXwf7xp1WWWzVeMZtXjZZqUW60Sd9q8ynHCJNMtYjDfj5swbh_e2EY7nEqEY3mbbBoejgOY7NI7HhmYxg9YsIAN8Ap-7Aga7OyxfydGwE-zMZSK7Ag4agQ2-1--fgrUhcvT84vApb5yM_N-ZTQeU1lFL34BTJxOGYDc4d97jYCDtOA",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfW490L01vLEdJjDEM0DMIvv9Tt7oAkVWJ33cAibx1N4Cfb2EBqbCiyYdcN5NjFkDzBDnb6JXG8AtWH7_8n_WfjQLSt4VqrpV90haaf9JvCtl2x8eT6AeJC1dMMx9NSeYjWFEVSwnNyvAd5VQxCq_uPukMA7JTy5HhfUtemjBLp24cAwV73Q--ORiLCUie9aiaYmypIp9MQ0oOalwfwtIiqZVyypOBTiddAeEtvMTeESxUs3h0Y96_GZnKjJxbFeYFku3j3L1XS_V0m0D6fPPLx_3XMNl__69AzyQww8PMmxgA",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfWXe_O6xHhTQab87SgmjSaOhpDrToDumYCliwgPsqwziuFFI47XHcqmjCPhM3_xVpsUqi3ZDLXjntharYyqMxw_xjED7T2wLEbGooNBRtXD-4ZFPjpvqtM7MxeKGlCs0o9tJSDjlIq9CUsPoitdHz487E1R-czV_z0U4F8pt8EYHJRtA-R3Z1ysHJtxUdfkS1hwjQzfSjSX9H1dRBSjp2OpSC1Bs33n7-wGA9HRUKtCHGl_mLpnvWgXg0vi-COzf9ltzvRp8n4dZjTLyFHAWIfy-o0HT1bz7dXzshE0y2IQyg",
+        "width": 3600
+      },
+      {
+        "height": 4295,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfXR5THfGNtcstQRxJS-5-dqiNvDq8RwRPLpd3BBTMCmldzHvf1qlOxatz0XuNOzReYQEUjlRmjuBhqh4ow7-HURrAabO5ptjjvrkIIdsOaxCZZIo5v6g6oc3O4JKuzJVNKzH93wjKSBsAOiy22b59AzQefTy2o8qQX_rWmQ7DbBee12uxwsgJIQmrd1WXa91Qnmce8J6BNbhUjAfHCPGUH_wI_fLOMZG77vyhv4e_wy3aAS2doNY89osglbb3SU5kCt1sVlfsaBSJnPcjGSvfj4NN4sYxcpdDfnOspGwzIzvQ",
+        "width": 3727
+      },
+      {
+        "height": 1470,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfX-M6tpCWDhvCkyI7oBlcRHzlG0WHxl2u-LAtg9cv4GmhIfEbtiYmisbyCYEqB3tvlsj7XAw60a4C9jqmj4rEWPjkf6ozY4IyTMyK5JCI9JFsQNg1xxiqaZbPZSsF_f_AkKbbPfyZr8-9Xy4-cbQPE0N7LUi1nEf3IgjsEO3plXe8DhCuGbAmi8zXEUrJMgPJ37eXVFphMG_hsOU_0GJmr9D1oKT2CuTWTAiMYYYcZo7iQ8RWqCfnU7tpMX6Uq99uUswWHMCv7LMaKloWyrtLZrY9ToK8j1A0jU5oOqkrrkdA",
+        "width": 1125
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfXUudTmmvZFyMZmF1Idg3HzQ0nqwAtGYpcyVzZZ_G429MDnMEhggDFmyLjTfhtucvuzlrGhNEtC6fkbO7sFD_VTSftHBrayeHy66b4cJF1svXxS_dyarVcdu5V0-5XUIHGjqV0EZfzEh5sQe7u2SuVtMIxIEIYjll9fXsI-mQ94zQb4wyQDqO0WMvc18XpGkRQx3dwIIoCqVDx_KJiltYUZoWgJ1rg2ovFLXZLqqubg4YmLFzK_hI6NMCyDyQV8OanZgPigmkKh0KrjobKvSi6iaipfSxbBDhARc5MibnAh7w",
+        "width": 3024
+      },
+      {
+        "height": 2315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfVXn-YcQvf4Dk5XrNqsC-WqAgG3Q670rZ8udNxUYfyVDjIIFDgS2GaWTk9UPjPNixLQx1VJtzfqqMc7HH_xu49LzWLXmVbzi6AY0HVc2SG_pX7XQCNm1DkAluyaHLSsajWE4V24eoPR8tlymgqfcWIsOR-ZLwMFFHPdwRoYap_7FoJqSj4LMge8XT1e17kP1fE40UauvS5g9yR9hqm1UC8G2X97QQ4ElQ1vpQjda9ChinvPCMoQ-e8H5-vdH0vcICniqX29PCx84_Tp0b6bfqHpLpJRPmWLHP9meSks7KytiQ",
+        "width": 1125
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112551324967937469270\">Waypoint Moving</a>"
+        ],
+        "photo_reference": "ATCDNfXjKeSfuDvapjUFmdMKYteh741P7-CibkjRe0xDn5zzM6vvpGnuJaZUG_6NiMeP5V4VIBW2F-4uMkO2QMl0smbzHc043PC-y3EgdLjcNNc3qPdxe3n1l3GnoxAONp-4bBgSwTm0z-1gaWqJ0YlqydJiaJx8m-JeLNFBJOFvDGO1-onsHHmhggutqzubpbF5MqtlFq7raNRrp5sS9dCGHyKxXduobRefOiUl1Mz64T8LT8lXSj7L73mykeWZqv46Nf-TvPLU_Cvz9fSqcNukzc5ormBryP22QpWLmRDkKTO0mg",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJhZ1AMrw3yUwRhdY-HbD9Uac",
+    "plus_code": {
+      "compound_code": "CX53+JP Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX53+JP"
+    },
+    "rating": 5,
+    "reference": "ChIJhZ1AMrw3yUwRhdY-HbD9Uac",
+    "reviews": [
+      {
+        "author_name": "Stefano Visnadi",
+        "author_url": "https://www.google.com/maps/contrib/102203295405766609029/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5Jwn3B4mwcIarx_rzBE8GDNjcTIaIwBTD9_egq6tXidTySg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I used Waypoint for my move from Canada to the U.S. and honestly, they were great. The whole cross-border process went way smoother than I expected. They handled all the paperwork and kept me in the loop the whole time.\n\nThe movers were on time, professional, and super careful with my stuff. Everything arrived in perfect shape, and there were no delays or surprises. I really appreciated how easy they made a pretty stressful move feel.\n\nWould definitely recommend them if you’re doing a move across the border. They know what they’re doing and actually care.",
+        "time": 1748455545,
+        "translated": false
+      },
+      {
+        "author_name": "Tiffany Callender",
+        "author_url": "https://www.google.com/maps/contrib/112178385958930504590/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ73Ru_lwiEoh3B3gR-Hb8L_CU8_apaFJNYHctSdbDRHrKENA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "You can imagine packing up your parents to move from their home of 35 years back to their native country in the Caribbean would be an emotional and daunting process. Waypoint International made this milestone moment for our family more comfortable and seamless than I could have ever imagined.\n\nThe professionalism of the entire team was incredible, but more importantly their compassion during this process that can be difficult for seniors was heart warming.  The packing of my parents' belongings was done with care and patience.  The items shipped arrived at the expected date and the local partner was as efficient as the team in Canada.\n\nI would strongly recommend Waypoint for your relocation needs, they are top-notch!!!",
+        "time": 1739480215,
+        "translated": false
+      },
+      {
+        "author_name": "Bilal Mihoubi",
+        "author_url": "https://www.google.com/maps/contrib/103255085470004487339/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1v2AP2CTtKjEgwBMN6bvb4ReMEgVYjdZiyHsx96CW9xLQYw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "I recently moved to California from Montreal and had an amazing experience with Waypoint. They made the entire relocation process smooth and stress-free. From organizing the move to helping me settle in, their team was incredibly helpful and professional.",
+        "time": 1740411303,
+        "translated": false
+      },
+      {
+        "author_name": "Mauritzio Cartone",
+        "author_url": "https://www.google.com/maps/contrib/113624138491659860116/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbtLU9Nxoh04XA13EWlZgZokKVXBAempR9gAwiMW03CXXF2Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great experience moving my valuables and my personal belongings. The guy working there was super nice and efficient. Helped me get out of some tight spots when I needed it most. I was really nervous about my move but I’m glad I went with these guys because i would definitely recommend it.",
+        "time": 1738541579,
+        "translated": false
+      },
+      {
+        "author_name": "Mr Hall",
+        "author_url": "https://www.google.com/maps/contrib/102549794505347896699/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKpWurJ6yqiv9yJrFoBFRZGbvecgrmp0-vquqvLolZ6fjCqS2T=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "I recently used Waypoint for my international move, and I am truly impressed with their service. From the very first contact, the team was professional and attentive, patiently answering all my questions. The move went smoothly, and my belongings arrived in perfect condition. I highly recommend Waypoint to anyone looking for a reliable and efficient company for their international moves!",
+        "time": 1742770710,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "moving_company",
+      "point_of_interest",
+      "storage"
+    ],
+    "url": "https://maps.google.com/?cid=12056696610294257285",
+    "user_ratings_total": 8,
+    "utc_offset": -300,
+    "vicinity": "200 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "http://www.waypointmoving.com/"
+  }
+}

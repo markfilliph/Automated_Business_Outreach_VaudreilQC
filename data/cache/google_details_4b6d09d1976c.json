@@ -1,0 +1,449 @@
+{
+  "query": "Ardene, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339860.9125714,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "150",
+        "short_name": "150",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3150",
+        "short_name": "3150",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0J5",
+        "short_name": "J7V 0J5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3150 Bd de la Gare #150</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0J5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "3150 Bd de la Gare #150, Vaudreuil-Dorion, QC J7V 0J5, Canada",
+    "formatted_phone_number": "(450) 319-6117",
+    "geometry": {
+      "location": {
+        "lat": 45.4035916,
+        "lng": -74.0485341
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4050361802915,
+          "lng": -74.0468360197085
+        },
+        "southwest": {
+          "lat": 45.4023382197085,
+          "lng": -74.0495339802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-319-6117",
+    "name": "Ardene",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102122957273264749944\">Ardene</a>"
+        ],
+        "photo_reference": "ATCDNfUW1xcVtApkw1VYxvf225PIFE-8bgMO2u4Rw-EjJC1xnOVFDK7D8XZuJiG-Nkj59D11UNBvFZ8g1fXAVLwzed3kjHsYDaKUcm62QVFlqktOgjSdX5-C4z7-Qy_AolFVa9POraqf7ODGu_-l2GpVgTbfN8mqqYcFMDQSEUdLor1LhJS1h3eoJaQ6h2PI4Z9nAbNnIkeA473xZIBVuAeJ4Ah3a7LQ6K7WB7Z6vpdHzW3IAcMoyz22yORARm3HQ4gq6PEetCktr15W0byXIvN6vAt0fg_6fxoo_L2i_PckUt-J1g",
+        "width": 1600
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101316651623239330214\">Fauteux Travel</a>"
+        ],
+        "photo_reference": "ATCDNfVrtQEU6LEz9OqmdWyEmbR75VAjqEmT1rdQ4YF8WEI7q-LYnYjqmqPkXOSSczGej07k8eDqmCUztkAGdP6jJ-J95mgNBt5pRqfEnM3qeTpxqD-KPs15_RcRjVzfuC5jakQgCxtxDxBviAPO5P45wKFrN9xb4GHRCTjujBqhXPbiN0inRABeonqxxbI9S5-u2DC7PvXo_U83LwG2uMSjwCIY6AWDn1t3LE_79ctjxtiHVX_2HCeQLg-nMO8VGKuCq38LRdCNQlq8IC_HmAdb4fMWsoib0sPuK8fvR1d7mR9Djn1m0D42duuslrBpkRfSauCfgG-sqzTyReMiTxIJIcecNYNKIWjS-RCrBUTcva-P8ktaTt8RyDz00vI-pv3OOZpv16Ar66E_wxZZLbIodXuL91ZMvow4OW1yE5Y3h_RcYg",
+        "width": 4000
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111519202073771941790\">diiana torres</a>"
+        ],
+        "photo_reference": "ATCDNfUC6GxySWaUdpMDvmTD2eFyJuMYCS2o9vK0jpm0SYdYz99K8v-47zC5DKMi7roczd_vCdCnchZLWf2UuVQXJEwlwRzan09wk1hcU_ZEVhQDWxBSKXLprTZuJtA4wIO1azT9tUlD6qJwVD61P1zYaQi3xYHrxHZgyjszdBHmxG54640UgPictoTuGw7rgAopVhTdbX7N9a5DhJV8Y1e5VIgqjRO8gDs4n0NR1H9jWmr2lbuM2bRjhKxp6ETlFQai7ixqzQTbrWv-vEGRbrdR3DbK2oxpYzHdNmfT_p3npsw18Z81F8DdEpABj7MjvXhf__k-Cv5-LQD9ADyarj6Bk2bTLNqRh8ZSYoZsqYqjfVWr1KIJmGO_11jzRQqqdnx11-mX7LfZIJ4M6jj5tCnSvhK0vCEzsvgRizD48hD5_N8HWlKn",
+        "width": 2160
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfXpECufrjT9V9rGfWw3v9roM4Edyg6eFI14MHmuTeo2wwiY8tx5UbaEnHZCdyhpWe9uCgUDGsqDDR0GEz7ycY2HVl7Jz9eSgPTHpB751UjXyg4cZsAuv1pnMfJgQbSmQQ_7i6EbzLRx3GoSjoW0D97xPZ6ExZwg3q8tPh8zxmcLSYoJTHlIlW4gZvrElvnpJ6N-ylIZmclHXIrndwNaJpkgNRP_NtGqLNxvTEZggVSoUC2GROakLEOnQYwDez7DCQmEZXNOW-xxNlVjLvrtYdbec0iilwExhBHTimC5Rk5Ak36tqqjWaWQfhUL-EstGTB69lKIKn-vC4Vz6Syb__QEB0OfdZjbU6E858ibTNoRs53l39qE2UsMlL3zLIQgM4L2_UyCqG3xB9E29ORXM04RQHHeTbecM1O_69sNluLqF-Wx8",
+        "width": 3120
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101316651623239330214\">Fauteux Travel</a>"
+        ],
+        "photo_reference": "ATCDNfU4x2cTGtIdOv-g3ekobieuu_qcMk4hqynwuT_sXQ2TKus6oEz1osaKfVtao4g_Zqnq1z_1yLosEbITGDQyOgIwAkTHNM_Vh-wr5zcXdyXvLBdP0z6VF0W6hnmC7m6_qBImic5rQm-s2VMTDzs2hPhj_jTCIAWL1oInp6rCqJCMkXsWlXFJJeZDuFky2it8mH8zymuH7ihk-HjFf5ACB0SXjAxnd1RNmdqQxkrXbxd9ebZAycAH9ymiDAa-lgGTITr-EjrroWGkLJxsdjYhBG_tEylSHHJTM9s-sCcmxKF0kwd2Za9jgOFmnIBqPUcymimTvPck4H3UxslEGBAvuvoj8xiJhqswxs0UyOxTU5cyjJWZNbL2yH1FOAA9LiNakgogTxlx7Fo4NP8kZoVjlku72ziQLTBkaqGejEMQ1MHAWhW_",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111519202073771941790\">diiana torres</a>"
+        ],
+        "photo_reference": "ATCDNfVjOIiciKqKTa6AUzWDEYr1I8WrWg-nKBVMKjDOjJESU10ckc8ggBx2J7iY3uc4D6F3BoFYAu0G_QpNjhrAFBc5MqUzmbOfaUvQxXl_CDCLK-XfWVACj99j9gu9c6-eDmOoHs_wHi48YfxrqdlwyAQLbBIa2oy8sR3F2K-vta9FBlxUE4t3YDD7vN3RV4IxnojSnRaO7p8g1sUNmAYSvQYAV8cZfwEeD4YwhV69HZdTNqx8kaHPdu-mMEwi7MpUkK7XDvvtFku9lXa-vCVqiYjMAle0knOix-I_WKI6yaphTyTcHd1k5NoThBDw-wBEniG_0UMPCXuJF1pOSZRYh9OaLBNn2TYNKVS5tLIYuyjwR6OxOJcAet-Ww6eRYDVknDyF7jeske-VaKmph2B9B-kxjWgKmo1sHrwyQ4pBlyZszHUm",
+        "width": 3024
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103272845034769546658\">Fred Méthot</a>"
+        ],
+        "photo_reference": "ATCDNfUIlcC2Qf-gpbOKCItE9AoGn8QvdvB8nZzkGK2nocuKsbXc37H3ucH3twjrSeksMN1rkJomfo_GVFdicFKHhs0a8YcQjsl-N7QEZ574p-pwSZNSUQWdO5qgBIrLukEZJtTKsaf5FWqE32INMlFweAUqx1KVXcS9uKwg6Y826HE51UM31D8Du_Uxogi70ptXA-Ub0NyyTWAIywH-DWOHszF2lF0QUMIwNEQ6i-ZOWrO1SMetfZBGA_EmQTWP-9d7fRFf_C1Re4TJ9vRlXhT43HLBpnkveMEpP0b7oV20LMwVw2P23RR-I-PzuVUBFjZ4nMhvBq1QSs7TsqfsUV3Ed1j7FL0mclsI5DKYf3xChkwNTF0TAp3UUORAl7krT-A8sk1kMwe7OjnKnDVb6MQlKHBkw2WxDSCzhcRSa5S-1ysX0Q",
+        "width": 1080
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101316651623239330214\">Fauteux Travel</a>"
+        ],
+        "photo_reference": "ATCDNfWWn_NA5Cf2CGf3F83MFC5vjipUieuhI9Vp00JaoeUUkBWB2oaMV5hIO9XDmEQ7dNYEvUrXkerH-xMA7m4inbegINFmaQbPXIdwNCGpmC1sgxSaYy4ckHpYK0UP913_Zb02Vqupbp_jHnnDbS7PBi72wMNVPdw_QiU-q11sU1AaiZPSDzul4Yr2pJWQkyAMLdWdAi_5AuHrSxIuNUOg_mcZkcQeGreJirVSUiGq_ehapvZSEbLlZx152VMILWTwj8qk2MLFiJPRRI2HKdzISm-cRoRNbbmW4mbgu9PYywqr5EKXvoKHYU3QuzZU7_4mopPS1rxBIl3sdtqtBni2N4Fb3Cg-XKE3A-72U1uVQxA_V73nFY2SPnWVmpTiPWTALOdH-1PWCLsn-AiK5w2vWj33As0I1EzcBWF4nYFfppxVoNS6",
+        "width": 4000
+      },
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101316651623239330214\">Fauteux Travel</a>"
+        ],
+        "photo_reference": "ATCDNfVEAZZhHKcJ22Lk6m6T_OXEJS4WIWLQNP1yFnbo2R7JGdlVbg3r27napQQ7riSHppnS4uIVtY3eyB-37O2dsK0ZwYuf_0sCxsCbalAcRCPHaOQy5JLJyJ8koes4smHOms9agwY4ziceUg4WWHoT153b_fwJui1riMXcWul_TKyvcwAmNxp1H_am9k4RtKKRF7Xasl8FqPSAVONynWYtpS6DddGE93mdwuEjW0uE7czysNYvR-vNBsmdQHRh8rLiBJhqDhvXaOzGqF-8Z59j1DCP1sHvVy9zlyUnjbSPmmY7VR21AN927T2H66GBVto_7P_45tuCvcxKNzZuh5u2qdftVbyPq4RXzaal6syY7Aa6ZiuUGHNdDDVk3T0Jl-au7WO3yyRwIPUTd5y214Eyo3MIqwYu-Ng3YQpd_qewar8KNA",
+        "width": 4000
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102122957273264749944\">Ardene</a>"
+        ],
+        "photo_reference": "ATCDNfXk4xSqSR-Y4m3P7KxxL_FhWo08JHv8JMRDlgUee0-9oVnJ-c86xBCVdvu5GNOso5KhcwsOiKwYJ4hmtPSP3oXzcNxG_l0JY6JPGgvryXGbmkT79YZvRIUIg1CX1fru1G1BveOabim-NgfxSJ_iCqlwBLjQQuVPNs2OMioZEArb3G4_rOPg2AenjWUHtbV3X0VVfHZjYQHgSQorAYdqzCNrtpa5lEQeMXg42HyE2W93vuFLMpbW3ePYG1PHIjIWY7-GgekasC8ceQnV_3SOzmbLfrHxwMRp8B9cO0NRvJ3vXw",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJLVuVQTA2yUwR2cdfliSHRSk",
+    "plus_code": {
+      "compound_code": "CX32+CH Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX32+CH"
+    },
+    "rating": 3.6,
+    "reference": "ChIJLVuVQTA2yUwR2cdfliSHRSk",
+    "reviews": [
+      {
+        "author_name": "M.S.S",
+        "author_url": "https://www.google.com/maps/contrib/109514398692381537701/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvTolC30oIOXM05b4zpAdO2S9LysBOBS3owknWcKtrZEecLQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I went in for a quick outfit options this morning. it turned out to be a great visit. Received pleasant service at the cash(it really made my day) and also got some exclusive discount as the person at the cash mentioned. Ardene has changed in general. Now They have a lot of options in adult sections.",
+        "time": 1758845954,
+        "translated": false
+      },
+      {
+        "author_name": "Narjes Alipour",
+        "author_url": "https://www.google.com/maps/contrib/103602116073826253545/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxUCDxyLTintDEj5Zr_xQ26haGdrUKOYXzAyVu2_-hg1Up0Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "You can't go into the changing room with your kids. This is a ridiculous policy and the first time I heared that.I never back to this store again. I prefer to shop somewhere that trusts and respects the customer.",
+        "time": 1756318858,
+        "translated": false
+      },
+      {
+        "author_name": "Krystal Marlin",
+        "author_url": "https://www.google.com/maps/contrib/108321130068947890111/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5Y-k73REu9IYggMMJBtJDC1MCqbfG_8LVO44zQ5M52-N2Cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "There stuff are very disorganized and the promos are not very clear. Though the people at the cash were very helpful so the service is good. The clothes are kind of cheap material tho.",
+        "time": 1758743522,
+        "translated": false
+      },
+      {
+        "author_name": "Elodie 04",
+        "author_url": "https://www.google.com/maps/contrib/105717207159490219520/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZOBMS1lnZZcxWmA3fIqlsvl0yubo2DtotieesDRC5mm2cCxfy=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Bad service , the workers only talk to themselves and they don’t give a damn about the shoppers . They’re super rude honestly never going back to Ardene . Maybe they should stop talking bad about the costumers and learn how to work",
+        "time": 1765935890,
+        "translated": false
+      },
+      {
+        "author_name": "Nicole Trésor",
+        "author_url": "https://www.google.com/maps/contrib/105466664367027750296/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID8zMHYNGyKpXpmQRFdNgCexn2EtMLoZL_755VotHafrSxOA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Absolutely horrible customer service, there was nobody at the changing rooms when I wanted to try something on and guess what they were doing; all 3 workers talking to eachother in the corner of the store!!! Absolutely horrible. The way they spoke to me pretty trash too lmao",
+        "time": 1736893003,
+        "translated": false
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "shoe_store",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=2973931720159512537",
+    "user_ratings_total": 82,
+    "utc_offset": -300,
+    "vicinity": "146, 3150 Bd de la Gare #150, Vaudreuil-Dorion",
+    "website": "https://www.ardene.com/?utm_source=google&utm_medium=googlemaps",
+    "wheelchair_accessible_entrance": true
+  }
+}

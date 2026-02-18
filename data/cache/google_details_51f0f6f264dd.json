@@ -1,0 +1,353 @@
+{
+  "query": "Clinique de prélèvement Globuline, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339262.2693384,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "168",
+        "short_name": "168",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L1",
+        "short_name": "J7V 2L1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">168 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1130"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1130"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1130"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1130"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1130"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 – 11:30 AM",
+        "Tuesday: 6:00 – 11:30 AM",
+        "Wednesday: 6:00 – 11:30 AM",
+        "Thursday: 6:00 – 11:30 AM",
+        "Friday: 6:00 – 11:30 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "168 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2L1, Canada",
+    "formatted_phone_number": "(450) 424-8444",
+    "geometry": {
+      "location": {
+        "lat": 45.3878005,
+        "lng": -74.0139288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3892056302915,
+          "lng": -74.0124734197085
+        },
+        "southwest": {
+          "lat": 45.3865076697085,
+          "lng": -74.0151713802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-8444",
+    "name": "Clinique de prélèvement Globuline",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 – 11:30 AM",
+        "Tuesday: 6:00 – 11:30 AM",
+        "Wednesday: 6:00 – 11:30 AM",
+        "Thursday: 6:00 – 11:30 AM",
+        "Friday: 6:00 – 11:30 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105906328853026312704\">Etienne Lajoie</a>"
+        ],
+        "photo_reference": "ATCDNfVg06D4QysAT7Wbtkzy27sp9oplMm9oS7kLFXD1qSqRh6M_gWT4tZTmehvWIT_acG-WfFcD_QRAfZgRIk0Dz2bC8Zfkp_w2IiQht-Z371w7qJD6gKxleYXmYcLElaLHhcPSECasc2r8FzRSVvbmfN4mOkA0DUkyhtLpgSn21C02eDMbDGiBE81l35IyV2DpcFbSoNamf39oGq7VUYs9sNGM02tRGk3jOi2-kBU0SKUHhN8GI-q57elyG4P030p7OL_qKlVILpS-e-Lsj_Y3rLutKpSjwUX3knhtbod8y3hECOdmzsmZ-_yydqhLzEPzUF7EhgagtgMJq9HLjeS0cdWGR4p92G-6YX4oHESNAu_7s5cLg4WG4JkkO00gdWceMvdvldOIX94ZlDDs2HMbKqwOk8AwK-BTylry_JtT1ZML5g",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105906328853026312704\">Etienne Lajoie</a>"
+        ],
+        "photo_reference": "ATCDNfXEqUAGJjhJtfPLlqL2dJ5RdmfQKEmNqjo7rzjWiSfZVpNhqHdgDhFq1KTJvsbLtjT6N3useAEk-hq2GY0qotvw-pebE69BEHH4cfY68v0ztGpl-hJnPRS8uk9TDniS9K0ec7mu26IGWX0og6eE00s5XGEdj80g1B6q39fAQKuA6RgkDvzfFL0iizf_G4u0lQUfm78VAh2cY3kPjaXMOzMHXvFWpxrwh2n0EE-g_zvckLmtWCAP19E0xVwa1CDevQy48hHJ6Mqa4G7fA7Bl74AvIiywApWSAeHk9H_uXMqJJEdi9zTBlrRFP9m2KqO6yqgvBVOlHxRK-I2XMOO_58dfZ-IYTpKUaIyLLO-5NART4fNBwow0U_geEkR7gu2047CHIoYhvYOGHEWU8kDejOZb0EgUPvD_10-3uha7WrcQeQ",
+        "width": 4032
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105906328853026312704\">Etienne Lajoie</a>"
+        ],
+        "photo_reference": "ATCDNfXLx79EDcQ2as8oLEZ2zQksk-bjUbJ0t4-lAFn3lpQkseVwxy84iAIxSklMrX5thuXxLvh_lPaG0CSIj37ss-McCmAL-nMuIAtDpjuluIFRh8T0YJZAGaL38sQ5xO6ukPldZt8G35JnPqEGAEcFBbXac4llJcM8IWk9lcp5HKPaz71TegjmmO4LKMqgxbo7oWmJgA_zoLFSk8RAAJU89lMiZ_cF4kdL5empwpGULJCXwsFXo9Bxi_PamkvM2vDdCiY2gHXamvjfJTt6hACTRtm4v16GjP0vW1IhunPI101W9AuUIxo90YbwSkF8wkYSdUx5r9oOOVV3D_cps4EoRBTKZA4Av0exHNA3jkTA71k6jc7zr-CSSlQJGIRI3Wj2St-JODU4vt_3uwCL_Io5IBUDQ8mq9RCb1G4HeJvRNv3Xyg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105906328853026312704\">Etienne Lajoie</a>"
+        ],
+        "photo_reference": "ATCDNfXQK6q5xMj6LRU8L4UeoiGRO5e7pFWJgYcYOnqlHwJbrNHsCxdc8qGZzWCmnmuxoc_NUBHC3rNiYrOjJLNB6NFlCIIk7fJ2Rk1b8D1U8uLzAys_Qqci8foKXZ4ppr1ui6GTaZ_GjSdIYXleG1SZ0SLkXAycqofpxIYHtU-7vCkch9Q2Brx2RD-zGIf-uPy1iJSAVAmxzJiSSM0ifyC0FAFPtKUuXJqBJAY5SStth5cXG9gU4Go8BL7YucUsNrOn_Rwwc8QD9vjJkuKVibfekI1TMzptYFG-uMTkL0wlietspxGwTG2bDWS8pG6koJPvh-_fGEDJpNZg2T5eE-b5MOPGnEsChH1NVdxn5mVjjSjvTf4Tit4xAan4FnYW8ZiMZ31ASoeiO84pK7gtPkB_8WieN-oBqGg-geJDnSAgaCVwtg",
+        "width": 1080
+      },
+      {
+        "height": 399,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100107939754006462058\">Clinique Globuline Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUcvtFzmeNK1mIJKk24x-i2T_idvxCev9sJqyHYJRqSBrBGmrnfYWPtk5t4hU2PhOuci2K8E_L6yZ3-RtFI1KGdj4HeqO9KKTgmhN8IragT0zmrBiToMyGemm-QBe89DqK16s0EbA7g8OJ5fwSDsMqL043IZDqgFwGh71H5DObRxwQTZkVDPE1IXoIuXp2aMBtBNlQ4mbnPUmBQ-1X_0lFC9PZhsMal5Jb5A6CrKtWA2IZUA_GHjP_0bLpWzH1yf3FXD_UlKWGdzqMMRg9Kc3w1GjbfhVCfNkAmPXPuLDOQYA",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJ2xPVxuE3yUwRYcnUfQXu9Z0",
+    "plus_code": {
+      "compound_code": "9XQP+4C Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQP+4C"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ2xPVxuE3yUwRYcnUfQXu9Z0",
+    "reviews": [
+      {
+        "author_name": "Jessica Palantzian",
+        "author_url": "https://www.google.com/maps/contrib/118134510048066964288/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwYOnhCSBurInMeU7bKfmjeQaU6UOOl8oFubSG60I1S39o47K0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The only place to have your kids vaccinated. You can feel the passion in their work. My 4 year old won't even go see a doctor or dentist. She had no issues with Geneviève, sat on the chair and got a vaccine. NOT ONE CRY! actually smiled and got a candy! Simply the best! Thank you for the wonderful experience",
+        "time": 1764078616,
+        "translated": false
+      },
+      {
+        "author_name": "Darya Shamsabadi",
+        "author_url": "https://www.google.com/maps/contrib/112145364862461962086/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuIL5fRY2Cce2495-Fu29w4E4BxFLDVu6nMev_IcALwQC6Zw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Ive come here a few times for blood tests and I always receive a friendly greeting and service. Anywhere else ive been they have a hard time finding my veins for blood tests and I end up being pricked multiple times but have never had this issue here. They are quick and efficient.",
+        "time": 1764942785,
+        "translated": false
+      },
+      {
+        "author_name": "Tally Krilick",
+        "author_url": "https://www.google.com/maps/contrib/103517830772023885472/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7PjReWMen7my2IMAKOojU5UrOgD4Pl2wH7k1Ktbyxtf_Fee2f=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Absolutely the best place to get a blood test! I will never go anywhere else. I went this morning told my nurse Genevieve I wasn’t feeling well and she was so gentle and quick. Hands down the best experience I’ve ever had. Will recommend to everyone!",
+        "time": 1764699919,
+        "translated": false
+      },
+      {
+        "author_name": "adam rulli",
+        "author_url": "https://www.google.com/maps/contrib/114156495466137672359/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4rtaHanqGzFBVGGZMGmFbttX_DmhRfOpJvnxGHCDdEekOgpNQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "The team at Globuline are are absolutely amazing! The staff is incredibly friendly and knowledgeable. It's also the only place I go for my blood tests. This is the only place where when I do my blood test it doesn't hurt and I don't have to cry like a little baby. 100/10. I would recommend this place to anybody. If you haven't already been here, you're missing out.",
+        "time": 1762526299,
+        "translated": false
+      },
+      {
+        "author_name": "Robyn Santos-Hufana",
+        "author_url": "https://www.google.com/maps/contrib/116875800096374093898/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlXSrg3rIcrQes47CHIpwtlAaMN-jgJ6JXMb1pGtJAX-FArg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I am an absolute scaredy-cat when it comes to this kind of thing, especially after having something of a horror show in hospitals in the past when getting my blood drawn or placing an iv. Sam was able to find my vein in one shot (which is a Halloween miracle) and was really kind and attentive. His friendly demeanor really helped me take my mind off the fact that I was getting my blood drawn.",
+        "time": 1761578418,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11382265340602141025",
+    "user_ratings_total": 80,
+    "utc_offset": -300,
+    "vicinity": "168 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://clinique-globuline.com/"
+  }
+}

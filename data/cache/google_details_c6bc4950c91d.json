@@ -1,0 +1,366 @@
+{
+  "query": "Groupe DENVO, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339133.9230568,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "110",
+        "short_name": "110",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Jean-Béliveau",
+        "short_name": "Rue Jean-Béliveau",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0Y4",
+        "short_name": "J7V 0Y4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">110 Rue Jean-Béliveau</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0Y4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 8:00 PM",
+        "Tuesday: 8:30 AM – 8:00 PM",
+        "Wednesday: 8:30 AM – 8:00 PM",
+        "Thursday: 8:30 AM – 8:00 PM",
+        "Friday: 8:30 AM – 8:00 PM",
+        "Saturday: 8:30 AM – 8:00 PM",
+        "Sunday: 8:30 AM – 8:00 PM"
+      ]
+    },
+    "formatted_address": "110 Rue Jean-Béliveau, Vaudreuil-Dorion, QC J7V 0Y4, Canada",
+    "formatted_phone_number": "(514) 241-4132",
+    "geometry": {
+      "location": {
+        "lat": 45.3905717,
+        "lng": -74.0502401
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39180968029149,
+          "lng": -74.04897716970848
+        },
+        "southwest": {
+          "lat": 45.3891117197085,
+          "lng": -74.0516751302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-241-4132",
+    "name": "Groupe DENVO",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 8:00 PM",
+        "Tuesday: 8:30 AM – 8:00 PM",
+        "Wednesday: 8:30 AM – 8:00 PM",
+        "Thursday: 8:30 AM – 8:00 PM",
+        "Friday: 8:30 AM – 8:00 PM",
+        "Saturday: 8:30 AM – 8:00 PM",
+        "Sunday: 8:30 AM – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3088,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110827462704469211122\">Stéphanie Garneau</a>"
+        ],
+        "photo_reference": "ATCDNfXE7E1czqWzMoodo6D_RYQdjOqrBJ2Hu8VpaMF5jN9kC4lZATBCSb7vOL8ODbN1CkqnceKWGR1vdcJCoq1man7qj25wqvF5gyXITugXN71C4siPid17W_j6av35cZPl0c-Q-ouTNh7o8PXoc_dJRawgYQJKsijcRWGZTX3VZsk9FCoZLn3z3EruxPMagqyza21oXTba6eR_zU0lJPx_7GnkNRrQDxWfF3opXA1rR0lTvk6ik3QLHNrlVitWtQdp5c_PMmID-1cYsgfeecqGUI3tW7JuCYCsomGQFwnCDEQw_-JtN1Mu_GxTIiOMUabk0UqWFlut3FCxw66_bqQAKVdjWePGOL1RMohB-0n2g5nV6HXv5PybL6ISoY7BrMGFfxj4Q4LznruNEybJtR13BpWK0bCNg_qZmvFGvFx2L3M",
+        "width": 2316
+      }
+    ],
+    "place_id": "ChIJsYICW7WUIqMReZNn4PZSiII",
+    "plus_code": {
+      "compound_code": "9WRX+6W Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WRX+6W"
+    },
+    "rating": 5,
+    "reference": "ChIJsYICW7WUIqMReZNn4PZSiII",
+    "reviews": [
+      {
+        "author_name": "Gustavo Salazar",
+        "author_url": "https://www.google.com/maps/contrib/100095176609908781255/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdgx6h0Q1hC693qDj00WDxQ-_w9ktN4H8EYdoWkBDK0oNaiCOJ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Great experience with the team. What started as an exploration call ended up saving me thousands of dollars with a new mortgage. All the details were really explained well, the team did a great follow up through the whole process. Everything went smooth with the transition, I couldn't be more happy with the results",
+        "time": 1758720694,
+        "translated": false
+      },
+      {
+        "author_name": "Malika De Silva",
+        "author_url": "https://www.google.com/maps/contrib/104812329726889636201/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGzbMFB0MlajT0harfLNstDYa782rlH8eNVvMYkpXzZ5RVrg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Buying our first home (while I was pregnant!) was such a big step. Especially, since we’d always dealt directly with banks and both of us work in the industry. So needless to say, we were a little hesitant about using a mortgage broker at first.\n\nFrom day one, Pierre-Olivier completely put us at ease. He was transparent, patient with all our questions, and genuinely cared about making sure we understood the process, including his commission structure. He was professional, responsive, and his years of experience really showed.\n\nIn the end, not only did he secure us a better rate, but the terms and flexibility he found were exactly what we needed (home + renovations). Honestly, going with him was the best decision we could’ve made.\n\nPierre-Olivier isn’t just a great broker, he’s someone you can trust, who truly has your best interest at heart. We’re so grateful and we are looking forward to working with him again at renewal!",
+        "time": 1755353618,
+        "translated": false
+      },
+      {
+        "author_name": "Gordon Maisonneuve",
+        "author_url": "https://www.google.com/maps/contrib/116483050566711375682/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNJGh4UEBrkmsb1UssXZrXZtkucNUrzhCrO8L0VVJ-Qy_qB6tpyg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Excellent service . Pier Olivier and his team did great work to find the best mortgage at the best rate and term.\nI highly recommend.",
+        "time": 1759159401,
+        "translated": false
+      },
+      {
+        "author_name": "Heidi Struck",
+        "author_url": "https://www.google.com/maps/contrib/100023590600684934904/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViUrVvl3waa7ZfMaF2oxkO8nI5Pv3xGjHBfGlti36HAgvvw4m-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "First time I worked with Groupe Denvo and was very impressed.\nThe process was easy and the staff was exceptional.\nI would highly recommend them.",
+        "time": 1748967476,
+        "translated": false
+      },
+      {
+        "author_name": "Olivier Cimon",
+        "author_url": "https://www.google.com/maps/contrib/110305599262239974281/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDhIU6rbJal0RzJzgSsb4jLLoW0VwZh2k70XPuNBh3APOrByE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Excellent Service",
+        "time": 1764957439,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "finance",
+      "insurance_agency",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9405859042043597689",
+    "user_ratings_total": 82,
+    "utc_offset": -300,
+    "vicinity": "110 Rue Jean-Béliveau, Vaudreuil-Dorion",
+    "website": "https://denvo.ca/"
+  }
+}

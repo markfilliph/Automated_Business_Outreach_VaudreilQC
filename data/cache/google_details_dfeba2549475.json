@@ -1,0 +1,425 @@
+{
+  "query": "Pièces d’Auto L.S. Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338533.1738276,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "80",
+        "short_name": "80",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de Lotbinière",
+        "short_name": "Rte de Lotbinière",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2T4",
+        "short_name": "J7V 2T4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">80 Rte de Lotbinière</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2T4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "80 Rte de Lotbinière, Vaudreuil-Dorion, QC J7V 2T4, Canada",
+    "formatted_phone_number": "(450) 455-5741",
+    "geometry": {
+      "location": {
+        "lat": 45.3799752,
+        "lng": -74.0136508
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3813605802915,
+          "lng": -74.0121659197085
+        },
+        "southwest": {
+          "lat": 45.3786626197085,
+          "lng": -74.0148638802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-5741",
+    "name": "Pièces d’Auto L.S. Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100130882052862512773\">Pièces d’Auto L.S. Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXWiL6PUUHK2sR-seRJrFxWcW1oNMCniXN_hqlA9w3huEoj2Sn7qjtFgwTR6UfnszvKonJlVm0cNiYNPg3aKzIeLyZyLv2Lu1MWJhjxLVkwG1XdOoq96XAXcNCiphExLXCLqpoKY4YNtoilRQuDYD6PfFcYpxR860FfpRfYD6YmKy_O0PY8SHXc4ANXTEGDvba9SaintAcV-TqIfY34CCzC5ZHEcsncnAE3I6w3aceZ4GYiQA5aKoteb1gwYGZBhG7gCQYprPZTQzC6-D-TNrhCH4cGJv3hXbcMDHaTUGF70Q",
+        "width": 2048
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100130882052862512773\">Pièces d’Auto L.S. Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVxAy-tfyIYAu6hsJesD4IGnQ8oIYnL8Yg-PXYTMsGOaK_iwo921cxswEZhDGhb1BnKTrGjoS5LgjnYqdDQtGkOLiSg9696Bn0pEu0isgtG1_f81t2YbcERD74fqNsdDBg_cg_xrJNXGD3nJbtCsf8pYkj8EWXe-5KZM7ftHng5Jf0l9BU1avJLJgKD3c3H7CE0yE_Os_4BE55C38VX4B3Td3idOkrcCRy_RgsQJgg3miG-kL5VEEobFhVXiw7WCejRKx48I8Sx8vRA9QiLWWxE2Oi0mNGa5xcQ6s2Hdp4-UA",
+        "width": 4800
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100130882052862512773\">Pièces d’Auto L.S. Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfW-W2XDeOqfz1wa7F4Nxglp6t__gn73LZfGNyIVDZSv7O0Tw3SogMM2MIW15XhawQlP8qVafpCKIvuwDl5ZT5AILP10LKl285nDDjrjgfCrPbWeSypC-b6-17jbtcNhlGw0asi4cK7mp0rPvSssGNvd2_t-Ltdl1qXAwbMFwpqD_Y9I5JiF6qHqfR1zdi6PGWJot8ZWcOZhFFRbj8E3XxHL9UWlcsmQQqwjYe175BAwu-3foicb71WjbqdW1GfLedkrpUioK8neKHPOJxQBoTibOqH4Nu0LRFccD71ZqGIhsQ",
+        "width": 640
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100130882052862512773\">Pièces d’Auto L.S. Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXVTSrLBman4GwrsxP8CJG_Zlf4xYPcdzDyINezr2MVSCHdZS5ert_TfrnPXu9tCkai8MULX9I9ryJOGpEuVMGImO9D9ALRcEQ-puTFGnOJDSxEDNz0oOZlVCtQsuyebRoRY-z3ImdOY_fUcQPSeO99Sar_Kx2E51vHhgCOx1rSD_kt1I9LycJ8CBiare0Ukxy6zJfkweqHuithrUqhiAf3AQUzDvDF9_UdJU4clyqWlT9dTYmxC_vfTD7AncIh3me0SEHPnuzjh3oqufBeeiF4Y5mS0oCslLeCsKIqAgOqjA",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100130882052862512773\">Pièces d’Auto L.S. Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVtO3MLu8loy_bzKZ0zrg75vJ5SyYFaKZKRI116GcJzWhWk9kti7ogaz-sBIDwUOwQgEFKUzHIjcOA6SaS0zzLUE1RYsrHFnW8jqz5ISRO08-RK83iL8I8Es4NM4yDc0B1Xe_2P9ErkI-fpzS6IwCkg33SOVCTyUa6agbV-5T_F2kkPPQ-lBhvEx2ARsb_ThCZbqpEwRGbw-n0450H48B5gGTR3n4WIKu5C4GJc5lAst6xR4CxUNBd6u9wIJx46RDhOgRtAxknKrCvZhDpdWwYf2ejbmvpU2xPn1MvEYUhGKA",
+        "width": 4800
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115401358362879393953\">Marie-Christine Hervieux (WiZzYMaRy)</a>"
+        ],
+        "photo_reference": "ATCDNfU5xSPuXMERekw_eDg1oUPYcSa1GSVyX1qumwqnMAR004q8DD5FguOfL68ulgP9_RjEZuAfnwto9SThoX2HYt2CYy5T_FUhvi2BJBPQFEpWPhKZa4ubLPLoRVJhdkdDf36VFTSwREqqic4srNjvEzrxuAx6aplAdFCSJl8bwuWY1nh_bGfos8JgRWKZDRsH_5TORIDarBd0yB0QGZvliQPsZuKb7aXUPmriyofAZivOuZd9inQ68jNIUtMHJbFHlhyB3ZmkJ9-DcBhRsnA422oe1F_9J9KalcI4FuGUl5EBpNDc2far0YQq-Q5aTry1f4ruSR641KyM6XH62Ad7bXJnsmfuevE4-2Y7kWtWb3jrKMKeExCatFZw5xmiwnuA9HOjvaRxnVKaFTqGBSFIfYl_Bra-FvbcSHhEaInkdcCUWE-n",
+        "width": 3120
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112212639076928419448\">Patrick Theoret</a>"
+        ],
+        "photo_reference": "ATCDNfWK5sBU-4mC2RYeCLdFnDkE7fxhTJW6gi2aBJi_Iq0ABf_LT-LpMNOEHeGVndUmp0hrfv2qzfFXrulzQqngJbd1pqgZSe0dSNvbtKg7Fp1pBoQfmhFGeQZxUUgZ6G6ec0KFptLi8UrI7F_UkbuJSe4-yZNFlfRP5NIJ38VfDuK1P3GJW-9MsbbevIGfHE03Tm1D7BfRevisyHq4LQOUc-gLfQvDSgCH_VXY5784T_4t84qY7SNkqbmla45czDt1mFcDHSkBDhSeFUi3_pEJAsXM2UmIrppwVQuFLju6fPPbS6nBu2BRl6Pnui76U4d4rEuvMRnOKjd9rztb1qhcC7Ze1OxmhYG5phzU-8HZ2QAIBfGqqxlQWj6CmOYtYCThjDftwgBxmUO5ON7YADSspkeIfGCXWA1zFqgTz112Osd2Uw",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114296230651395104918\">Filipe Pedrosa</a>"
+        ],
+        "photo_reference": "ATCDNfU9X4cVY2m5FMIjmr9j9YLn5EBKnSbxU7C63H-iHd-PtP5zvqjc9i08oM3YUiBs911tf8aCEFf0Trf7mc_2WUHP4LLwGo-6CZh_qmc-OP07H3A0t9RHAtSOvcxqOB-eeT1CL0W0yw9s_NpS23GYi65l1h2DzAzyDuY5OS0Ww3MqDhmXvyfqdqyEYKVNiV_1Kg3qtKMQlPo3dW59TQaBqrC88R8bcxRWAAnmJ8rZu4V9ZmsHU39k7POoY5_MLApqFi1VNbO5H43xuYzRqcsTvf7OJvvY9W3WDkeV-iOP_UFiHAoT7wBhJq-IMQET8PfeQxNOyR5jTmS_RvqF0yiBPsNLmX-RZErrmjpHaMM2kRcoehVwJ-nhdKEyXbIHnD789FWCZGZet0vUz-xDJdt2Ouhh5wBgYDbdvd6tBTumUvIMifpY",
+        "width": 3024
+      },
+      {
+        "height": 691,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100130882052862512773\">Pièces d’Auto L.S. Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUZ0SLaWc4CrTDLcBchGOX1iyan3bm59K0hVh9tMaA6R0hxEZjC4Y2EGZaDXKdqYTOleQKYMUUGbN6WVIWwPRFzmpZW9U14QFhOjrCBmNCILva_-zkmhAqvRwvEJX3VYfX9N4Q7dNNRYhrnby6LHj4gWUOGLi4jsZkGeNYTFaBj_3QmzTomSx3GPadMSpdqXKWFyeHg7cmsW0Edn3VBbhKTjzulvlUdI4Kc0x6b4S86wOeESWxrc4E0S-7TLkpzgjbrkTpklApS-8XdGCsDToxLCPQqqPfC2vCZOYe5h_3U6A",
+        "width": 522
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114296230651395104918\">Filipe Pedrosa</a>"
+        ],
+        "photo_reference": "ATCDNfUljSHhnD5Aw4suElrcrnK4n6XVxBXF32BCxQcGoW6O5c-RZdvyQIpgZ026BNr2XIr8l39PiXI2lFONzog_fFfl-_1thtZmGy5jlIZEq5oNsR6Ujj0k0Dg9cSRh0ELY0ZOWlXW09U4ICBSpcoS6zUtX5jAguhZqu8iyNRR7BbuRQn59Go2WsadZQ4do79-CBIa5hHx7MVfUu1mMZWWpLmAt1kuRDJlT5BqwX0VjjUFlQBh6R5h6Ocx_wJQMF4cVMixSsgFgaYwC69ty8nNVHFwPcEHMa3zv-FntYjBUeWjZcud2CJsrC15_V0xViSwF77ynJFKBe_lNNswTXyyDPl5zDTilHKmxZaAWRBIrszG0nsj4RdYneMgNwWa0nhWLFhIxIOjwP64wc7IsmFQ8ZQvOi6KBznwdQiDstHYeAx0NgyVW",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJXw_qx85HyUwRVWb-LR4KEiM",
+    "plus_code": {
+      "compound_code": "9XHP+XG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHP+XG"
+    },
+    "rating": 4.5,
+    "reference": "ChIJXw_qx85HyUwRVWb-LR4KEiM",
+    "reviews": [
+      {
+        "author_name": "Louis",
+        "author_url": "https://www.google.com/maps/contrib/111578866954399595715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtGCZhjTjWLoQ_hcfESRC4PZPMbPAmPzBsjMMQSsHrZx9NGbg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Great service. Knowledgeable staff and good prices",
+        "time": 1759885900,
+        "translated": false
+      },
+      {
+        "author_name": "Nelson Calfat",
+        "author_url": "https://www.google.com/maps/contrib/107347678301419428879/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxcHT3R659bq2mK5TC1Il82gfXRnYceG5Fe94BrSZYQgEYOzbY=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "If you are looking for Old school professional knowledge and expertise ,this IS THE PLACE .\nCourteous , professional service with great prices .\nYou can't go wrong Here .",
+        "time": 1761681831,
+        "translated": false
+      },
+      {
+        "author_name": "Brian B",
+        "author_url": "https://www.google.com/maps/contrib/101267909332938545748/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJADWIv1zO3skhwFeQHFqYFXnV2223zEjY6PJnkL8CvMgrYRw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Excellent service and friendly staff",
+        "time": 1768768331,
+        "translated": false
+      },
+      {
+        "author_name": "Aran Kumar",
+        "author_url": "https://www.google.com/maps/contrib/113287580771994078886/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKZuL6dAcilNx962XzDc7jLp14Je0dFlqCDxLDaw7r6QFQURMzXw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Fast good and accurate services. Got a lot of parts and suplay I did the order over the phone and went and have the account number and they got it all set up super fast services. Love it. We need more place like this. And missing parts they ordered it getting in a few days super services I'm happy and I will got here for all my car boats parts.",
+        "time": 1531584896,
+        "translated": false
+      },
+      {
+        "author_name": "Brooke-Lyne Desbois",
+        "author_url": "https://www.google.com/maps/contrib/102317260651579183220/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVymHBsTYD1n9IEth5KueQ3VYTS45bSTgjxgwdimDDXryfqmEEDyg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Excellent service. They really helped us out when our alternator broke.... their price wasn't too bad either. Will definitely bring my car back there again!",
+        "time": 1521469776,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=2527093465645213269",
+    "user_ratings_total": 187,
+    "utc_offset": -300,
+    "vicinity": "80 Rte de Lotbinière, Vaudreuil-Dorion",
+    "website": "http://www.lsautopart.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

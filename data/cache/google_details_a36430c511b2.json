@@ -1,0 +1,418 @@
+{
+  "query": "Mazda 2-20 Ile-Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338954.292345,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2101",
+        "short_name": "2101",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard du Traversier",
+        "short_name": "Bd du Traversier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 0K9",
+        "short_name": "J7W 0K9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2101 Bd du Traversier</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 0K9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "2101 Bd du Traversier, Pincourt, QC J7W 0K9, Canada",
+    "formatted_phone_number": "(855) 317-9068",
+    "geometry": {
+      "location": {
+        "lat": 45.386985,
+        "lng": -73.9821841
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38816088029149,
+          "lng": -73.98102111970849
+        },
+        "southwest": {
+          "lat": 45.38546291970849,
+          "lng": -73.98371908029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 855-317-9068",
+    "name": "Mazda 2-20 Ile-Perrot",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 471,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114857947606220300885\">Mazda 2-20 Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfVm7phBTQdt5gWT9A6Vfb-79gRU47hHm-xGI1uhsuRDsKcKSE3eYBGIM4hv_PH9rr8rJeqZmUpRcZqiwKHZOsqEkygGz_ryHdSsWw__gclqKKNHCVF7B8t7iVuRrAdONzdFbtaADwuYkva8AW99NUkU9Hudv8_i0ooO7ggH4_zwppO8eKhG-sNK5oXGo-Gqei9qe1JC4gd1bjVVVCWSvgz1Ynv-A5t4zrGInsZtre5Ob23S2TSCMXJVY8jQw1lqrxsmaCRhgjo6J3-GNQtcbUtPillYnIFfYrJIaUFz3scsjA",
+        "width": 954
+      },
+      {
+        "height": 1434,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114857947606220300885\">Mazda 2-20 Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfX-zJRfERNYyC93UUe7IMMkH_di5p_zM9DpmWv4OiPjBjjvODpJoED1KFvsHttwk1kRzZux2nZKgAAzaFjUZ2vNHTYPobb1Rnh-m9jWDsdGbFhUaX31dDFuPcgLR0coPvrroZwCcq4ZG-SdU5J_cL1E7Geq8MZdL8YfZVfdHDkXl_QnvVk-47fQiKbFAzQqZt9slvpLllJnkVYr7odYdo-MpKMa2Nu1JTrvGJOA7RMitliot_mNY5Uge0rRQjMtCZRA4fLxhd6BA2POTnt9BZf6yTgCU9F2BArhhsgiY9dJVA",
+        "width": 4800
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113187289033496526488\">Alex St-Pierre</a>"
+        ],
+        "photo_reference": "ATCDNfWFzYbAKUELpgYRXZkk_K8ls0vOm14r2AdhGhl1eDbnYynBTzo7YGBe1ZbU8Y36lc55EUGEdnm1A6ut1XN0S8yfmSyl-qB4TZvyqHq4EtLAQikiVyTi9d1pCxqTZ6vsY2oiSEYuOHvmTZWc4gIZd8eqaBziNWhzxBc2_ysOl-VUXjfFwt_EpYSgJEytxPPs-P6jGs2ySPVUXK50OV2AF7DCxY7KT59rm96wNkF5cmuB2r2MW7iZMV3TVIaZUZ9re-flhRTPuNAMkRd0jJdm7Pro-2ly-ElRonGFURxCBlvIMhBesJUsiwnX44Y1f3q9OUC-90o2Tk8uux1ZUUkXwJi7vCHYDJtkLwyb80q6nH7w-y7EG5Bv9h5bqUG1XKyfhwAS1gDFn6cj9NWyzvD8BtA3HPaAlju_CvOdOWud6eoUxczCnFAYsJCpGVF4qw",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106622649967668325453\">Bernard Boileau</a>"
+        ],
+        "photo_reference": "ATCDNfXLmx58eb1V6-cW50OBNj-SIzdfEuAdVyWDk15UBGB9BxVPVXRrX_iYmGjg92cOoC6UrGTiDd44IsD9nlsatOwbuT7IWuzRPNnsU_czgkDLcx73Jov6tMIKnaSC1yYUSqzCNzYMiFYtMz3chJyTaSu3Rvr6IUWPurRnP6jQuR3Y1BM3iFm-QxuX9bNYa71kOv-eWlyf6aMK2Jh3Zc2OM3jIEw_YSpuvCAHyjwIriA2og2XGiQ82bHcXaNRZJZfWHuLMLebls7i1DUwIVSmIMffjYIdgJ96wSfDxYe0H5Ggq8iqJLalid-9Jfvnk5K5oF8h5VKkJX_9FaTaBgFKiKQ_G4JpZfTl1M3ziUnBDVQ1H_UqslldRWcT_OUK7clkdJRHfKv2PZBCWtrLBVFwx5ofqDZEWhL0BOP7LM18gmhISuu5L",
+        "width": 2700
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109364978780184100696\">Angelo Agiomavritis</a>"
+        ],
+        "photo_reference": "ATCDNfWjtq0EAjQvQaLwOLTZBapOt4f4rTo4X1es3AihD18DNFJWrTztiWjklUOMm5LKWkUG9BgnnaDKPpRrjvTxRrhoWn13r1n6VkI6s4kj5clYPtWHTqZtx4FRnLvx5moHp3JhotYzNwZbKe6sWtQrT6pW7bvS_1cRWDcx8tieFFgloRGNUWwCSQMjRDEPmIvzenV15N6AghaJnPVyMvxY9oDnxP8zUFQ8QazbduWgnSKV_4tRPuV9vPd_FowlOywQQ1kQNTp04LbjIcQD255iMAaOvdEPEt8N0G4gSVFUk6BbIyMqhCLPLfFlZi9sUZfkOj5xyFFEN3TCiRgfhR7OoErzjYHo-ilVksC4CQ2FeTaqPFOgyenzSyLLKUdxb8VUEirHrf7Z638h7Zdcd7Xv03BN7S1f9IpmlZnRPCoLPWPn_TM",
+        "width": 1920
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113187289033496526488\">Alex St-Pierre</a>"
+        ],
+        "photo_reference": "ATCDNfVEt-YxGYMsc_BvJBqgbZwQw2aLEfkldhWDiHag2TEeH9_WIJBxn4c7IwLzRNiW7no-aM9ygPAcEJ1qktgexpKSlIaj_Rn089LKZvbqbEW5YJcjhGy_jHhTJ0nyyNBc0pPvy_-LsWNKxSzEUSA28dVDQlXBmwNixszLoyR_SkG_qCjxmHvHI6mmA5c9Sof4kfcLzOvyXQitdeMQNGadvDcO6TZc7SXSl7aTlvPIorKr-D2XSoOuAwMqV94va6oUw9W_sFmh57fK5BKXRtcNAn7AT_yA1e-Z0KOIgIoIWmzAj6l32dDzKOJRPMPqz4m9j3SZ5pAqn-SBg62DLkRlFbWAkQohZ5TXh1F9bpJTvQB7j6AwSCwFwkNfgnj2MjdM8lUaWQocjV9P67Vd0kREvDQE46kB9Qst_jVxqQg4Iehrua8y",
+        "width": 3024
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114857947606220300885\">Mazda 2-20 Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfV9NflG0G-DXwD0Mnogzcy7EDdofZ8xLX1j4Fsu8aiNPquV7rrSnknsq9XMLFkSHEL3oU7JQLPHw9OmEdyC8SNknlHif818Ont2UDViiCFBx0LgUVUJcRGf8GRyB3bztmRQ5R7zDpsqZFVdUtBd6yKZJMdtn70ILhIOYc12plBAsAhv91qbNUXqiGHc7mQ1ZuA8-A3wXP2SysGXMDoor0Ns80yLv0ZHc80T9ZpTLxdgJqyA4sMcLaCDQMCv5i62fEngDUBwpqjSKOuUicas9rbWGhVg_Gy6u4ayE44JG3AIuw",
+        "width": 4080
+      },
+      {
+        "height": 1461,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113989277978280377178\">Gabriel Rogerson</a>"
+        ],
+        "photo_reference": "ATCDNfVfes13MQk9wbQU3KZw-zOu0ZA_rqYHxa6rzZaKoAmIcv04KGtAkoGbOFfuYnxHJYrl9IqvUpRPoBatKs6Uh3UOnw7U8g4eDKWVRpMkRR3Ee5B0xnX-8aPFtc3sMB5eY4A4vU_mU9Q8-L9QJHrO-s-OlhA1B_-F2cjMXhu5fTvzctpT7G5yQgHRRzZ6QnW_2c1Ztk7rNRP7aqHd9OLKGoH0NLbj2TFbXRXjbRN4sQQbFRFobkmTHxTJ7fRRT2aaHiYpV4T-7OhDCt99u0ICEi-5HKg7YcUmeZC8KLc9eHRWzrKrInI4x-6Hn8zFphDQn_xkLN1MMopi7YkK3Mz44vbgL1vDiEOWB_ewF9Ifv1wSDt1igFBT0iUtuGmXL1-VvCb4ihWR9f4b_5eYklRfPXvOM9mLeX9quKrWtlNnBeIlnw",
+        "width": 2592
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109364978780184100696\">Angelo Agiomavritis</a>"
+        ],
+        "photo_reference": "ATCDNfUh6k1OU822yd1touxOJnxmaXo3oLbEY0wOttF9MLyNZI7WSUHsxYj9ivaeXZf_vd8WyQgL_bfwFuHBXVXrT2cvWcgvJGRM0ckZR7Gi-i_TMRbpOi8QqLeVGntJ2gqFR6c6EVwUyELrKRT7bs6xXcGML0aaCMGkol9meQl5sIbsG_5bnWnNAgZUKnxTL8hdGI4wIG5r8HKoSZW_R8jlAHsY7HqJbW3M8gwwRrI-2d91LmMmH-VL4hi_Pvi6vc-VeCMWG4I3gISJ92d9xIKr4FBgeTy77Mt8893NN0InS4a2kHPX5_E4RpEnOWGk09ZBSmPr_8PjkSUcaJrVqSj8OS_JXimW-ppgTdw36RbUCimgXF8WxfafUDk0B40BdgDS3pnp_5xpzUbHKZq66cZZ1h8eXzcrQA0cYUO97O0e7ycSMg",
+        "width": 1920
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114857947606220300885\">Mazda 2-20 Ile-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfXLftdSlfAcjmetsMxiqXWQQ8McQ1HNcsJtaf26TH7j98_5A-Kx297AMRSzf9kxJujV0AfEOBAwTchE3-fM_d-57tODYxHWNjRBZRhE5_hBbY7K9WYq4IUNitGA6kzMXqVHwLhGjfjRDBvBFLbY8kE6Nqwkl8Z_R0hauYo1tT5HSOCtHMpRuWrH_Ld8V3DenFKJ8eaxFCNVcyTGm3EWLU32YV5k21Z5Cek0iuFBsQ-B6UM4XTJfqJdqvXIKxnDWAmL8bDCXdRZwohhL8UM9L-bpGW5MWPK-rdAB4_Kr6Ihk9g",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJBVh_egY4yUwRVY-8gsC0eyE",
+    "plus_code": {
+      "compound_code": "92P9+Q4 Pincourt, QC, Canada",
+      "global_code": "87Q892P9+Q4"
+    },
+    "rating": 4.4,
+    "reference": "ChIJBVh_egY4yUwRVY-8gsC0eyE",
+    "reviews": [
+      {
+        "author_name": "Jeff Brohman",
+        "author_url": "https://www.google.com/maps/contrib/106965949012170810938/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtb0mK_YHQ9eox9JXhJCXcAV2My4HqV5iV7lkV7Bt19qtPjIcz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Eric Boisclair was absolutely amazing at taking me through this process from start to finish. Eric had all the answers to the questions that I had, made some great recommendations and did not push anything onto me. Everyone that I met along the way (sales, finance, secretaries) were kind and helpful. Best car-buying experience that I’ve ever had!",
+        "time": 1762193721,
+        "translated": false
+      },
+      {
+        "author_name": "Ralph Saleh",
+        "author_url": "https://www.google.com/maps/contrib/108594955189219740343/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8E7vE9LCBHihnfsqBTySR9_7lGyz8SOtxLTS566gL-5IBAQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Mazda 220 offers the best, truly unmatchable service. The team consistently goes above and beyond for their customers, and it really shows. A special mention to Alex, who is exceptional — professional, friendly, and always willing to go the extra mile. You simply won’t find service like this anywhere else. Highly recommended!",
+        "time": 1763501028,
+        "translated": false
+      },
+      {
+        "author_name": "Ann Noseworthy",
+        "author_url": "https://www.google.com/maps/contrib/114211835087019281383/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVFKu0fpyH5Al6jemhyQ72j-2LCSFKb8vMll2in9gtMwagbQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I have being driving a Mazda CX-5 for at least a dozen years and have been to several dealerships for service. This one is the best I have encountered. Suzie and Guylaine at the service counter are top notch in professionalism and customer service. Always helpful, always smiling. Thank you!!",
+        "time": 1762966018,
+        "translated": false
+      },
+      {
+        "author_name": "Charles Fisher",
+        "author_url": "https://www.google.com/maps/contrib/104672563305135134593/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4DbpyOl-GArfQBaALFAg6UmL7EmEOa88fK8mCRn7_BbDdFg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "On a rainy gray Monday morning I went in to see if I could find a car for my daughter and was greeted by Isaac Salum. I have bought over 20 cars in my lifetime and none were as pleasurable as this one. No fast talking B.S , no constant upselling , no confusing play with the numbers , just the facts. More than once did he go out of his way to answer ANY question or concern I had. This salesman is a man of integrity, and I highly encourage you to seek him out for your next purchase. Well done to Mazda 2-20 from the beginning to end.",
+        "time": 1763504238,
+        "translated": false
+      },
+      {
+        "author_name": "Stephanie Prihoda",
+        "author_url": "https://www.google.com/maps/contrib/101249150424881577182/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWU9ATehMPdRrlBjX4_13ndqckswfdIzq6Zy6fTrdO1qELOBBc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Thank you Joey for your amazing customer service, care and help through out our process of buying a car with Mazda 220. Such a helpful, knowledgeable and kind representative to work with, he truly made the experience a 10/10 and was there every step of the way to help guide us!",
+        "time": 1764103217,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=2412720764307148629",
+    "user_ratings_total": 871,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2101 Bd du Traversier, Pincourt",
+    "website": "https://www.mazda220.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

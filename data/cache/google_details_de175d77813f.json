@@ -1,0 +1,394 @@
+{
+  "query": "Cuisine Jodi, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339697.723179,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3093",
+        "short_name": "3093",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1A5",
+        "short_name": "J7V 1A5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3093 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1A5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 7:30 PM",
+        "Wednesday: 10:00 AM – 7:30 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 3:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": false,
+    "dine_in": true,
+    "formatted_address": "3093 Bd de la Gare, Vaudreuil-Dorion, QC J7V 1A5, Canada",
+    "formatted_phone_number": "(514) 622-8192",
+    "geometry": {
+      "location": {
+        "lat": 45.397884,
+        "lng": -74.05239200000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3994284802915,
+          "lng": -74.0508600697085
+        },
+        "southwest": {
+          "lat": 45.39673051970851,
+          "lng": -74.05355803029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 514-622-8192",
+    "name": "Cuisine Jodi",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 7:30 PM",
+        "Wednesday: 10:00 AM – 7:30 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 3:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114181584721079606863\">Tajinder Singh</a>"
+        ],
+        "photo_reference": "ATCDNfVF6aZ7aslPqfS4pVeFKkJsgMXOooS3Zr8wyD47yTli1UZHDqznr5vO3_wpfKXidFu2AbHca_-IVbCRxTb0El8dNbQzUcscpAqAgzKyADh7PhLAkjHxH3KvMcy9y4etzWqBBLzvN7MzWHh5we0M4M83vnLUlLqBUEoJBnFwlyFCznMvjp8GOXp7C99T4rv_mUt5m6iSOX7_RWlsrvXg7bCXleDunbT7nHXu7QeL_l8IRNZPunefIzHxXBMYAXnJSDCU_rqYWfYYzWqjQh5UfYypFbxYMJtlfmXojIKm2Ad6JNHY-4QzmmDn1tLE-3YVpM7NE1Q2-W4iaE-PKEbJqbgzwfLRsRtL3GotEA92ENsM8oR_RANffE4NcXrlssIUjn6X46V3IDOQAaanxXgc8h8q-eyZQWw4eVLAlf5eL55RBvvh",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114181584721079606863\">Tajinder Singh</a>"
+        ],
+        "photo_reference": "ATCDNfVsFhjcxPkXPN6CQSOwkeNmoNW5qkBBhIe4nR8l-llxm-Bvt2yMnEFM6_qZ6tT38_J39u6N2nIcUD1rxUmFQvY97IYMhfjn95blctBAOZJuDKAopStguVHnSP13dFuIyyhKo2c28VrsCejuvoGdo-3bmlTCeK62HCGw2nzDeu3QdRmadN6T-xn2mV_TAZ1fLE_1XVyg33OjnFROIYhf7Qh5ZyXZ4BP8kCgKuJbx0xE0pHUatJ42V5peH-GCA2fhpA6bbRNxzETEhvdf11Zn1pbOjQLxNDLcAfKo2Vf4mFdGnj2rnE6u4YmFF_BedOiqnYrlp50dmK6g4UokbRkCmGtpML6OKAzl_8Uv-oM_8inaxmIxi5I1DOKYUp6cBW3P9RlT0GRyjirGvraJ79OTeUXQR04JINe9j2tycZPNlBBUO-qM",
+        "width": 3024
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116702550505666249352\">Cuisine Jodi</a>"
+        ],
+        "photo_reference": "ATCDNfUBcloisJ45YUDiZ9AtlNcekJiUDoBb6kuosTQsyBsYm0srlsD3nTBpUd_ZOG8KUuyzNlsspazGBYAr2SIUOfLqD09CKadNnJbCdBe7URaej0iIguO5rMfKA8xIcwc8Q65xPtSxWJa3KC9xIJBpAjcZmwa9FNf1LlQHmmAW9voRFityZY6WCHxKVlAjFXpxUJl1LTB5ifgEIGwOn1fl7XRd4HzFBwysDRnKjR2FD10dpe3z6oWtDmrH-oRHrZgzaaOBeTNhX23HJKWHOT9YsXDAF8-2EUiQJDD53Sad6HOHSQ",
+        "width": 1545
+      },
+      {
+        "height": 2053,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105585517353433059593\">Keep Life Simple Allan</a>"
+        ],
+        "photo_reference": "ATCDNfUxtpY3Lgnnj-4OwIryUnP4ek7ZSYaCpfnayaWoHkaT5NRwLGbOWOM-CTB1qFFb0xFPzjdn0H1fdDNzISAacHIF7gRxtQa15PnWWxSq15HswOHv4PS7KWBRGmaQo_Kt3g3ILcmQdmG3LfIZee7IBqrBUPeJO6d0D-w0VRL13_tTjvYjJMVwze3yhYgFYIkSMZLLkxKi6WoFEvMOg488Vzn4iLcr-YkH8gLY39BC7eFd6GjTxKxQ9LN278rQxCk0SJZJEKoedkNa8tsD6jFohR8gw2mgcH9S3iwCgGJ_lQ9mhd0L2ZV2GclgPaSn2uk6H5D2tmwX5cs-nnHTITPRbkhofH5x-l7RcVgYXfud1D3nkRX_GnUQiX2B1N_L7RjpLiM-zfVRuW6OZBfzhyvqyfkyvlgnMsd87sZwW9DXYRvMoA",
+        "width": 2179
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114181584721079606863\">Tajinder Singh</a>"
+        ],
+        "photo_reference": "ATCDNfXea0zldq32FFQbsQWykd_pk4d3GAwJqWsniZ7W2wOaUSbH-_H9VkFpUzxnYWlUPTbdSDedFytGMBBe28cnfNnijpFt1W0bkCSLq5wMwTwQN8JTgGhN6rSMKqCNjWZIf2G5oRX1QCT_p2bfm0OtDOlYN_5W-5SRTCAEEMjqs7mhbF_HrM0mR6XqIkTdjs6cbvDgB22iMzhSIAzbADQh8AMBA_n8L9kZUojj8yixkWjoq0FlS_Tn1sGcWZkLAIbRdQd8eWlWsSKwP8S-QvceWEUc5NPYN_RUbsVXsQX8xGWDcr8dUaYJ8qIEi8j6kH-Iij2ZK8qrKzqx58GaZi0ZNa3_e76Lu4NGwHkP8tIyVI8Nli0ORJnVqB-Qrl1uYsoMI_BtlJLrTZx1mr-wQ7HzaGlD129CD2ZzluRXOM7LADG5VQ",
+        "width": 3024
+      },
+      {
+        "height": 1903,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116702550505666249352\">Cuisine Jodi</a>"
+        ],
+        "photo_reference": "ATCDNfUAB3EgVgNxL5Oi6fv6fJ_6AgysZ8S3AKH14da5fwkzT1yPOwUdmFodSUK-oSHbJqnqc3FQ9Rmc6PBXwfo7P0_LhX7soyd3s91WCLcBqBMGzx5t21BWxt50b60Ps-mW8ziloV3B-zp9iHSADGXGpPqMfe3X8BPOdLAtTfKTSibvfZbeOGUNAxV3e_Jyl6DSwi6ybOJPBn1izuWR84lJwxpZg5RH6rNLQ76_76odTU9fkT-Ldokg7sClvxWhs7YkPn7WjOBlzTKrhzoS00DEeCmImQ0_0eiF63AQQER5jjYIYA",
+        "width": 4480
+      },
+      {
+        "height": 2912,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105585517353433059593\">Keep Life Simple Allan</a>"
+        ],
+        "photo_reference": "ATCDNfV4iiw2DXoPcPiTdgbivPuC-ADgRerk_MMpMetuQ5Vg6nosIrIpqLX6xq__G-MZTXYk-RNix3pnbQ9KQQ1gTKDchxiN7aqkPGFKBBS3EfUHmBDSem5P3elsgsnXzUYJ0MJeDt7zCowLVwQfcNtpBT_z-O4OFML5DbPDW40EOPFBw3t_mbnKJLbtOFpnosGWWFqQFZwO8fpUfwiTRY1aniFRQaB2tzYctSmnI92mlhhiKQA6j2sC60vErXyjonBuY_jJrrMZh-lb9TR_2fpSfMfqd6lI8l8hWF61NKY5Vuw2luxscLfn90Wtb-gHlQEZLnMYyAyt2GADmUKZw1RwlKkwMVCIQn8Fb8kg8ltej0fUP8Uyx_b4yMS8shNZgANk_oaI_Urxc2BQtkTygGSAQBO3Z1UYEhvAO9hkl8S79oZXIsc",
+        "width": 2553
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116702550505666249352\">Cuisine Jodi</a>"
+        ],
+        "photo_reference": "ATCDNfXZcjv9MWjgRwFzyDbDOHCl79V0XrgRfhUP09Hvx2Wi13kCVHcTTBnZ5wa3nAr6Pk_r9vYEru1VfOB9vxNXIId91lmEPjcaveseaSiCEMUrkFygWA8WaxWQRFD0Yj748lQX1ewkwtYU7pXeTVHcWgVpqQf4QvgLEhATHVk5A9jQbozUffrWgmvAylP17BEkHhkaV1kLsaRedTht6YMbvoX1OvWo5jYctN265gPPsNazBElb9kgc-9RCJRjF7febTmyqhiRfnFJf_lKxQjk3CjHIVUCk1B-WTHQgbbbA0Swu1g",
+        "width": 1545
+      },
+      {
+        "height": 1559,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116702550505666249352\">Cuisine Jodi</a>"
+        ],
+        "photo_reference": "ATCDNfXQh1jZyAoH8rDuFzrLDELfJLoZBO0ZOb88TfpVor7ufi8sTzbaAE6XiEZnwlOWtum_Zu9s8An0w-ty2vd1dZxxBs9zBtsRai-hHZYPo6hIYBE9n_AFSrshX-bG-cAwJxp6Y1m3UGmoTYKOVuF3OH5Z8FlDhBtDqQcTbxZOEiCKki4ypfRQ5x-aXyTcHA-eDdxCiSxCmt7eqLqZTDVoja2OQnsyuNgOKPvVFbe6kzrLf4I6_wLmnq1ZdWiDNPr7zZBV-8_v-EOvMZ6D8CKtlbkkF72df_u9y-yCYNBRJXWjRg",
+        "width": 1559
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116702550505666249352\">Cuisine Jodi</a>"
+        ],
+        "photo_reference": "ATCDNfXlCst7ODnrAHdUo-YqX1XCNBAVs7uCbXdmKeIxxKu9av00hsWdSH_vnPqS8nmQMVKo0-X2tACEti76adtxS9uYUegDhKZfDO6JkiGTPvLuyUipkKYSwnu0xmLhVlpirhDTmUq_y83Z50RVk3Lb7G3CEbVCcfvnWNUqChIUp40V-8QQY0_Zh7D61FDMymSyYaoUId5ENw_XEiYs1hCmcjl5qmyIAgHL18S0JBdJ31adH9KLykV2nkrihF5-MkqIA4XSGxJie9-XVTUgWt4qSHKnCae1VPA0J9mZLyMky8Ji1w",
+        "width": 1545
+      }
+    ],
+    "place_id": "ChIJ65zYm3Y3yUwR0r9IG5PdYAk",
+    "plus_code": {
+      "compound_code": "9WXX+52 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WXX+52"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ65zYm3Y3yUwR0r9IG5PdYAk",
+    "reviews": [
+      {
+        "author_name": "Tajinder Singh",
+        "author_url": "https://www.google.com/maps/contrib/114181584721079606863/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXHHkkhDwdsIHuNkL_d-JurLXcxxjr3EINFg_coXu-oLas8vQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Fantastic sandwiches and legitimately some of the best soups I’ve ever had. Do yourself a favour and also get a chocolate chip cookie while you’re there, you will absolutely not regret it!",
+        "time": 1707328427,
+        "translated": false
+      },
+      {
+        "author_name": "Gaby Mainville",
+        "author_url": "https://www.google.com/maps/contrib/114151255465237081775/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3LXH9vj3FrlxCgWuwSCGFAbGoSgppjBUHZcAjgxM1x185IZ2tjQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I always look forward to my delicious weekly sandwich here! Very friendly service too :)",
+        "time": 1707499821,
+        "translated": false
+      },
+      {
+        "author_name": "Hugo Héroux",
+        "author_url": "https://www.google.com/maps/contrib/118252766796554806813/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIg5WaikbIUtMdUS3Hzg2yi38nzi9ulwOKzH2f9gnWbCAV6zw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "",
+        "time": 1759529322,
+        "translated": false
+      }
+    ],
+    "serves_lunch": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=675783567993257938",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "3093 Bd de la Gare, Vaudreuil-Dorion"
+  }
+}

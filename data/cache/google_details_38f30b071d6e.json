@@ -1,0 +1,365 @@
+{
+  "query": "Eutectic Canada Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340099.7875617,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "428",
+        "short_name": "428",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Aimé-Vincent",
+        "short_name": "Rue Aimé-Vincent",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">428 Rue Aimé-Vincent</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "428 Rue Aimé-Vincent, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(800) 361-9439",
+    "geometry": {
+      "location": {
+        "lat": 45.4041848,
+        "lng": -74.0515052
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4054993802915,
+          "lng": -74.05011406970848
+        },
+        "southwest": {
+          "lat": 45.4028014197085,
+          "lng": -74.0528120302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 800-361-9439",
+    "name": "Eutectic Canada Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1704,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUtyiHF_QNhZ7Mh7pgehLUWQUuUx1simajsfNZtavXZdfJ2nWNQb9BSNjL_maewb5ebp_w-R-g7BxxYKv2xIyArtAeRbQFjWs3FhSqaC6SAnpl_8J1xlA4XnemFY7RL6_xAfQGRKS1bKKdBzuEGKgpwkk_3dV_7F37mXcBpJtXv5FdZMXOztqScDsyeTYr0FPo2jGDzuJfYneVeRixKIEwGnZBlHAVZM_EboiQ_iUGeVk2tGRRRPAsfgg-o4gBIratTnsghquYnexeiR8ocNA41fqBofBo2owNppB_VRkUKLw",
+        "width": 2272
+      },
+      {
+        "height": 700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVVyUkURyV-In8daWQsRYj5iqPmCEyfGqsoRo2lIVXX4xdwic8sYDDNxOetHXtUOeh3x5C3V5cK-4fJnfQ3LC1BTdSgOB4tFhSZuEf1zF7pk0WAlSbwM_gZl8wdtJx9-5QIwOFsqLHBxXER5AQ3E0Mry3-bcyNI1kJmQceQzKL9pYBWRIUb39GS3GKZ2AqUj-hSjrAbnv0qCZKiGQ1cwUaeZFQr0SfMhBYvMzrRxlTlhkd2ONkXMpWl2AhI9aMYyDKNATi7xniR7pRdRLBsHYDAtCxY9wp7f7rPAYtXGQVqBg",
+        "width": 700
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfXo6dk3Wfv9KASg9ABbKo5AIMuOuP005eSoNwg2tr8vpZBRQWDOW7Bbx3IvnPcJDkBTjibKJmmvQjaktYSF54dG1eZ3CowsbBcV66Vgo0JZxRU6fAQHlbDsWxebuaPHGQxml7U6WfmWbGjwIWFJps6aHqEf5jBgQLXZO_V7kH0IdFUxHmxAWodT5Y8BS_FJhcyZIcSVGj1GiC8mnevi6XZ7pU1x1vcXxbv7M2dm8fhg2wtFTipLZro9vsH7jF_33qGASHEzvReUXazu37ygH5rAZTp4oMYJ4PTtIDDmIvvsWg",
+        "width": 1024
+      },
+      {
+        "height": 674,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfXK97PfsHgQF39sPEDDXNyW7AllJcinuZQs8x4iku02qlpBQQTnVWfb432swPrQ3lxMtM73AOVbKXTZ4mGpnptSdyhEZZj9nNvL_eZxu1kl6hcaB58Yy8fKYVeDZqEUg3Sm0J-cCp5FG_2u41914THKEZ6vdxo5uCkr5FwOQMx6gr_ubjkQ4CheZYyFfhHmDwy6MhtDyVIiLAEUa14AXq9UZLCkPJeLXfdL0E07xxf1mGVL5z4aEQ5NhDoiw3lNEcbnYW4OAipBxTijpNKXayKB3mtEJfnYFdCtKf5umONqFQ",
+        "width": 1033
+      },
+      {
+        "height": 438,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfV7EpRddaQGeJMtSx3Zp7YaEAT8dpZp6YBoPwFw_Bf-2BWAXMh6PL-iNnFi_qfxVjj8w13o0m-NStohHbqi9j_6CVekaj76Sfw8fjpOL9WhKd6c7hAIJGyTogPkZqoM7dP3d3f_0duVe4T9qH-21RI6UQZo78QGoybUuR39_gQX5eIeBbT15h09ilOTpgMk594ymZ1aB5Y7wPNyiab05PEe3szuwEb7c6gozeBq3R6KMJrZZJk0ZMSu3GBfYeXtpfsc8yTY4FxDHfWmFGLQq8nc72PVqCbTEeJEhYH0f3YCWg",
+        "width": 598
+      },
+      {
+        "height": 645,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUIp6RPCytL80z4o5lO_-UlX6YJ-yhpuaguY8GuYN9wh5rU2DDATcphOiNzL4g2BQyc0RBQdqI7UDlS6IhOt-X4aVKFa5tFIHC8AxXnuEOk2MDqKg39HvStb_C8XZ5KPljRqi9KpgkRw40FVpR8ZIjlQCHYcdBtCBB8qxRgwcyIORSah8vPyslaV7uCTivSNW-Wv_LGa_P_l7gwsOm5EtVbdAJzcfQ1Zz9Ul0R8A9Bv-KR4ywegXVFwyknWbhPpmAreMfVM-sRNZ0nRAEb40KDFcjATpXYuqFvJvh_sE7hBNg",
+        "width": 1408
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWBlm9YYpPWSuwmsA6mvVT-ZVdxQRDTJijaN3rIfohI-RY1s27S17LNnEF6OzsOdIeLLzYdzVjxkJVsVZ2muMhpJa5LFDTk_aFlJQNMFAqWIgiIT5q5uLSiULRX98R26lRM2HH1SZXEP5kCkKiaRJZ2GeONpi4Pwgp1592nZrHgCW1dUYiw0OmTR-kUoBOGT5EWeZS8xGnIqtoO7Lp78qaL_JezM9UILEIcS7hM8NhhPgyI_C6AC2hUCHh2PLFvdUfJm_Xg5Czv0PpxuoDPn0Y-HHXKi-PNuFjAlTLuqPt3wA",
+        "width": 4032
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfV22RzfA7kNV-imPHXivuT-p0j7R2usKOAtGPZwDEd5vEUj6NRLlBgQFBDcpMFmoGgPxPGaaDubHWkg6XxsmNdb-AjVdvz8eTMQSuUmgG-rhi46vliwhjeQSA5nU-RO8zZkeiT2VlYh8Mo4Dk7tS7Vl-yCrc9l1fdmW9QB8D3VjbybtEoU6Auiy8WOElP_ST9dF4PtgcfSCiijHnKfee3wyHKTgUlaYi50Tsj1uIJZfjM9JnT8rXPMVZ3teNUa7oxIeLw8GiHy_K9taO4vD6DpqP8F6qyJJL4ZlDkXFGpi4XQ",
+        "width": 500
+      },
+      {
+        "height": 468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVbomd5s3OIUWwmubZMRbVxuBJJy6gt0t_b56GmSsWpK1i_bOvQpc_D-W52Jnrjx5TxQTquFxdq23pSfB6360RerzuqGJPkxVvcM3NbndAARk1UiFRboTqgyEE-SUZzBCdRZiO8xKm5tRAaXZ-wbGsRHYENdTto859NRsZuEkTG8F3VlOV4sXvt7_XBUHaBH9dji9QzywShV1tzKWJ9cLl53nhfIMzwweKhvPHsEeSp2LE5iPVNFUR_g83V6lFhsAMTiiGgW88WNDdMZWO_Kjvnv7tQGFZpW6aXpvF2SQpKHA",
+        "width": 621
+      },
+      {
+        "height": 1704,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116691899954276780823\">Eutectic Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfXk4uO4b35Ph95TU9UxXo1k1_HK43eqDNuaKAObd7r1-HbHLhcGW0zYGBUoG3YeCXJcuQkdQCpHOrYyq6euLUWe9ORLJ9tDW7y6AG5WOfTMMtZKRXS9UJED3ioBMg9n37O06zH4Xlmvag7U9LDnH4BeT2qDehFU9izgdsRrDXdAW3lw0O8NX_zrCEvY_AqywHSUDNuyXo9JF-CvCekJN-ONhCEwjW340t8we5DIggg8LiUep_rhk5MAfFrxy_MWuxwx7AHmJRxK7UuRYwdT-Yjx-GNnTXVie6lm1Oyfgopj9A",
+        "width": 2272
+      }
+    ],
+    "place_id": "ChIJq6qqqjo8yUwRTHZPIf5D790",
+    "plus_code": {
+      "compound_code": "CW3X+M9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW3X+M9"
+    },
+    "rating": 3.7,
+    "reference": "ChIJq6qqqjo8yUwRTHZPIf5D790",
+    "reviews": [
+      {
+        "author_name": "Shantanu V",
+        "author_url": "https://www.google.com/maps/contrib/104959014029220034619/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINBtTIjjpS4_0BkPn-4wfAsg8SKxr4cuL5W2HeVQqu9NBNLw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "low standard and terrible people, stay away !",
+        "time": 1676413799,
+        "translated": false
+      },
+      {
+        "author_name": "Julian Desforges",
+        "author_url": "https://www.google.com/maps/contrib/102102487482655734679/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJQJrWbM9I8C9fZG3rDTrvi48N-rmtAUfggZHLXa1Jsq3XH5k=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1629319445,
+        "translated": false
+      },
+      {
+        "author_name": "Daphné Ménard",
+        "author_url": "https://www.google.com/maps/contrib/115860245207797999993/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRcvo5XHou2e6qxpfroozgXR-czxH30Y2QqPutc55xQRdELA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1628008088,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15992075560575530572",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "428 Rue Aimé-Vincent, Vaudreuil-Dorion",
+    "website": "https://www.castolin.com/en-CA"
+  }
+}

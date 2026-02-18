@@ -1,0 +1,424 @@
+{
+  "query": "Ekinox, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340509.7178078,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local 101",
+        "short_name": "Local 101",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "11",
+        "short_name": "11",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">11 Bd de la Cité-des-Jeunes Local 101</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:30 PM",
+        "Tuesday: 7:30 AM – 8:30 PM",
+        "Wednesday: 7:30 AM – 8:30 PM",
+        "Thursday: 7:30 AM – 8:30 PM",
+        "Friday: 7:30 AM – 4:00 PM",
+        "Saturday: 8:00 AM – 2:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "11 Bd de la Cité-des-Jeunes Local 101, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 455-0111",
+    "geometry": {
+      "location": {
+        "lat": 45.4149424,
+        "lng": -74.02218479999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4161522302915,
+          "lng": -74.0207679697085
+        },
+        "southwest": {
+          "lat": 45.4134542697085,
+          "lng": -74.02346593029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-0111",
+    "name": "Ekinox",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1430"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:30 PM",
+        "Tuesday: 7:30 AM – 8:30 PM",
+        "Wednesday: 7:30 AM – 8:30 PM",
+        "Thursday: 7:30 AM – 8:30 PM",
+        "Friday: 7:30 AM – 4:00 PM",
+        "Saturday: 8:00 AM – 2:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118029265462123176319\">Ekinox Physiothérapie et bien-être</a>"
+        ],
+        "photo_reference": "ATCDNfXBy7D_eKJgBAT0wTyWi9ZhsElEUNbBZbhnmQ-1UMw6DNDLV7o4b_ptbfPHx1SF64sGQueon52ZPthej9Z9cDOfQWjMv9u33kWMD8vFE1ppYKF-NpsMDVF4AfM1nQW7ahBGVLO8jpjTodDCaRjtYU8vvNh4QSL5vtaPWFTblqoM2zZLo_OyhSnV4JJUqs_HjWor6tS8Q3CIW5iHr3VE2G3wRak-RuFL7Lx-ekOooML0BGrm3qASy42Vwboh7z-1GklOABYrIR3XIPg_ingP5RL8_5Lo-oiETU5qsoWKVg_jiA",
+        "width": 2268
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207\">Virtuo 360</a>"
+        ],
+        "photo_reference": "ATCDNfVr7hLm5NzsHFrYcAQMnQSP6xF9jylG6c9-fG47K6umpO4hFZHgNrFMA563HGK2L6_H1nbDfJCGDKT6Yev-VxKrDc-4D16n4Xl8ZzO0AAyTZ1q85Uzx4zkTxu_W27SAFahCdhlx_4XE111aLN1QIFhR0RH0MKn3CSoXsPi6EjZPuTLcC8K1qTBrZtd1tHXWq7k5XhtYIc69q-87TehVrpn-Nk0MYMSV2GyrZzy3YNXa8HZ1S2dOF1pkvTSjxXc0WHx0z5KWyCX-UH-d_P3Ggj8KJ9hnZoHkntBcK9wdHb5NFIAwhm9atS1YkgKilsyCl-EL61QMReWXS_dPnp455ussJVED_TYy7ylWG_NqVwSGO8_kf2SM0d0rDzMm5eZoTNAQyqYxfZM8LrJguNqMn7kgQSzNShlcJXOqF8DsL9OBXg",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118029265462123176319\">Ekinox Physiothérapie et bien-être</a>"
+        ],
+        "photo_reference": "ATCDNfUdPm6j-w1P0jkwkX0j4oKeRVgMP23uEEbwahr9piPBG1vBNK4u5W-obDYiK4dNCGVfRwQAyS8A-AZ-xop7JmGBT40qpLiyMvRO06nsptc4wlVtLaMtxzHI0D8xCVfFDr75FVutCQixUMub_jEY5s6NT38bRKbHs3pYeIaOuBTnROl02DinA70Z56BAyY77xl1WO5_Lqu-j5N0421qxbXdfR-5etfzfHQS59p2QYaDYHaQjfwihRuspbIm440mpss-Jgo4xSTNOd08FUw5rXGVUhApO0ocEO3PCxQ92eP5Hjg",
+        "width": 3024
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207\">Virtuo 360</a>"
+        ],
+        "photo_reference": "ATCDNfW3uPKJiJUw1WysW6HiCSjCfYzVzRSahaUDyXlrtUJVz8-aOJZCiDplomPpVwCzQPLYMT_SsdKbXFUmS30sXk79Rv30YgbpTL-pcGesS2CAptwNznvZYmzDmgiad6cuz26tVmUyffzCAF9knQnrcgWbRbCGnF7Laxk0ePGAzf2dP2kJ9Qi51WoFwcw-ltvb-12jwx5nHaw9W4Bqbrgh9HCTVdG8Qvvw4jmVpBVIgdgaPF5OdWp9F3g1Lw-tkBKOqZTScJnY-z_gcMZ1nAKbFowMDXNdrXbQVXdembLdw1uGFtvlOpEJ6jc9L_V1-_jbTjqI-JncfwcJI3IJP-REVwrD0BLgz3ptuReN-XC_GkoLqaFA_sv6jUzO-KjS_UzgI134dXRCCGXDMorqR9iecBk4OyOJEDR7uamldZtuTBdXSPO6",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207\">Virtuo 360</a>"
+        ],
+        "photo_reference": "ATCDNfUMqeIO0HH-Pdr7nQs14NQB4ba-rmFwrArUYHAJjNeKyhz1G-haW9N8-bSPxrgUrHSj0gV0Y7rWLBnk7hLxIwej5BVBuWDjll1YVCpgSxCRflpNgBo0_QTnl3vBvKnt6XHam0fi-aQN-5fhKMPuy0wBzYojoWTm5Tg38f7l6L8YaQqT61iXx_9YPtVBetDdefYAWYdEhH4aXkoPbjnGGKYXzSSBsXpq9uNyVuTz6rf36oQiBz2wjs6gg_VNaQAHYpZXyt_oeiJBjrpvgQVsDZf1pKSMdfhB_yKNX8cLSIfC5rdElj8kUpi6TXUrCRQNNbLNVhv2-jgt8Od6JejJz_sb-YxyLIHGyIYg9t-50W5on-Zk2wvKlnaIR09-kxTUf_BpPjP3BM7ykURqElT_Zjg1lc9HlAcZGfADbPTS-Ya0YQ",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207\">Virtuo 360</a>"
+        ],
+        "photo_reference": "ATCDNfV1rf8QMPKggzIPTCGyfNVGbr2Xspc4sOMkSkMxb4cX8jvNCYjRxORMXTq5lfKDRlSpIyVjNwLYY8vj7_J2oNYugNng6NcZfsRFO3P_WJuD1QwbLFK_sAFvbjeCTe8epVL0O-Zzhn28sHP0TwMhVOnnBMYTE1OSg6IBnr6XsdrLtxq6D4dR1gLSdpuqvZYoBV4jQmZKBZbD_N0uqPLrnjuF7y_G-Y8V_-FISCt-6M24IxawqH1p59_R-5o7om6imHlieFWKWLwqGeO4XirRSVqyjCkjFeFX539_tmXG7b1iDUIFa3YPc8vbTC0FUcXlfZcm7fXwsorCYY0vNCPKdW1fzlctjRlSGSosaTXxjiXAB3WDlX2yoceuqesIVND3wu6Br3YqVNnk0ZPj6R3pH9BFWjn2IEf9AA8knr9UDJF3oA",
+        "width": 4800
+      },
+      {
+        "height": 2928,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207\">Virtuo 360</a>"
+        ],
+        "photo_reference": "ATCDNfVujAOT7wIWOpIqC12ifM55upqObMqJADfpXH3y24IdsE8-YU4QFjtF912fTWXansCpbs2D6iEsTDlhgKpE34xsakdDCb2A9PFzT54pLBZmQTuRCzEAUTakEavywvj1cuonY0MZdqtq2psjYysLk9d-NSe-Qh5ex5o6YflCdiOxxBE4Uz5dksatSg34XUj3MyBggs8sDzBeh4JxWFtE_fzgAK7VSBaILPa4ey6XfFglBKFfWubuzAXr--UOo4aSGwohqFtzOdAsiEvUORJ5QAmOI0FMLBtlqbP4WgHUN3Y7eLPtv0iJAAfjpJPSzH93IELkl2qoBaN0oHMMWrOWVO4VsTe2G7xhx8NomxpkJKTEcU_Nqqk_5yieFz3Wn417RkkGqFvIASCG2a5QSudSEg-LF2agcNt8fBHN2xqBG-k",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207\">Virtuo 360</a>"
+        ],
+        "photo_reference": "ATCDNfV9zujsYg3hclaZRS0TcAORdag4m9LzLyXOcXpdkulK4gWj03TTKBTERlMGwsk8RLhJ_XJM_SBYTyOYm8Yz3EzLgMT8gH4PZJojSDk2acuCjJe9-9BcSQSXQpYcHk9MIJ5Y041hTMHbSRKb1pgQl9gl1dZTcevTceNN8x1RXRg6flk0xmxExhN7ZMiJbgrDIUofxuRZNoVF9LsoMNdT9n-s2juhPeI60LpjTEOxVWPvc5S_3E5zz7zXPGQTg-OnuSK-U3RmHzey4HkgA63o0HSpYINtTWR6pOaCx4UY-cV6F8LVxgSJWqIkXrdzooekDyfstEEkwxII_7--XKcc-IvbjpsMmxs2CkPTTAgK7UuaZpu2wVhcpb4mID3ypaS_AWeJRU0YtUu2sBtBhOTKhiEER0uWtO35-rbhiuDtc5tNvJc",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207\">Virtuo 360</a>"
+        ],
+        "photo_reference": "ATCDNfVv4olG57VvYeYFuyj4U5I93eb7zRPRR1tKiiFlYX4i_mxZ9qUNMsjJRRABprrib2a_Xcm-IIOIqFs3eyp5n48bpG8F0MUmO-2yMY9zp7gCkh8nkNHqd4KcDSxp-NpV1KwD9MZByhu0GA_eWNxDxGlCDrfjUpGG9zcXqhkl5q2y-rfVbPflx31OfonpEHNgYm4K-CExS6cL4blQQ0AqnqhrvLUeC0pPJfKflobWoMa5W7VclnnOnVWNJu8EVwBqvo77Osn6jxlZXBfE-p59PVUWYuCsTWffPaO5lVWRnmFSlcDHFl1KjRjQnhHq8dpsBXbhpp2c1An-U64RLllO9IKVr0kz2R8XjNmeV1v7XId7DrIkzQgPDdvThOBr9qJPPkLYaLu9RwlzPVqLEhvWk-GS8NivV-Uvaoghah4liU0",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207\">Virtuo 360</a>"
+        ],
+        "photo_reference": "ATCDNfWqeluy1SjFkRVLOpjwwtklsYp2Pja6tcjoiipxDiLIWa6b2W-O7m2CKcQKJM69cQwnYQqwcOyzvY3u2NGNMraq7tCX7zxQURHlUgqL---KUtYNbg_XEySViKhNGHRwNl0oA92sP5UhXfKD28y6uDZRV452TgO6xjwEUC0Crj6Oc2rNK9Np_1YvyNBRIQ612dgn0_UDL8vizJam1zHXYmTtRyF5pO6NarH_Npot0CSTeqlMdEhgOZQ6YdUVNacOmtxAuEVa9I-LLQQrGv4lx0O1b-eNDT_v5WFgLtZWvHEsf26trVVhdRLBEwy-gXz6uqJO0yUtf40uSFpBqnzK85zwedIwjFgWWvJXU9cyskPjAwVz1RxY__hbdJv3AehIX5QT_AqgS-veyT1H0dJq80w1qnmJwzyRsIUJh2zrIL6MNQ",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJ7wSuJMs3yUwRvhx-Dsw9VBc",
+    "plus_code": {
+      "compound_code": "CX7H+X4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7H+X4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ7wSuJMs3yUwRvhx-Dsw9VBc",
+    "reviews": [
+      {
+        "author_name": "Shrabani Debroy",
+        "author_url": "https://www.google.com/maps/contrib/108320119746236004226/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqvN2ojVJHGUyyo0nb1V9WXcruwUJjUYDjUWgo0XUoYVrLT_-v=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Just had a massage with Laura. Wow she was so attentive and actually worked on what I needed. I feel so much more relaxed after my massage. Everybody in the clinic was so nice and welcoming. Very friendly receptionists, super professional and accomodating! Also the owners are awesome too! Thank you for being an excellent clinic and for looking out for your patients! I can't wait to book again!",
+        "time": 1767817831,
+        "translated": false
+      },
+      {
+        "author_name": "Victoria Lim",
+        "author_url": "https://www.google.com/maps/contrib/106019816965910684647/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE3XvjR2W574NA607O9x0pdjgFQGMTSo-tdpn75wvZCQhkBA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I came to Ekinox with BPPV and vestibular issues, and the team there (Hristo, Marie-Andree, and Andrea) really helped me through it. I’m extremely grateful for their expertise, their patience, and their kindness as they guided me through the treatment. I hope to never have to deal with it again, but if I do, I know that Ekinox has the best team to help me! Thank you as well to the receptionists, they were all incredibly kind and understanding!",
+        "time": 1762442092,
+        "translated": false
+      },
+      {
+        "author_name": "Susan Henriques",
+        "author_url": "https://www.google.com/maps/contrib/107327611836232042019/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKaFD1qqASXiA3V4s3t2pjmLMmRKvz5U0gsS8cJp-GNKozMB6G=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Gina is an absolute Gem! She is thorough, gentle and understanding. It is clear she has been in this profession for many years and her knowledge and ability work with different clients daily is top notch.",
+        "time": 1757433378,
+        "translated": false
+      },
+      {
+        "author_name": "silvana loschiavo",
+        "author_url": "https://www.google.com/maps/contrib/101950323691659826936/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP-4Xh6gb9W6iSqQbb8Z6SF3nkSOWdK_6K7gYjzzxVQ7EPlg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Over the past couple of years, I have been going for physiotherapy for both my back and knees (I had double knee replacement).\nThe staff that I have encountered are very professional, courteous and understanding.  I can say without a doubt that they know what they are doing.  When your pain levels are reduced, with ongoing therapy, the results are a relief.\nAditi, with whom I have been with for a couple of years has brought me much relief!\nHer years and background  as a physiotherapist, shows through her interaction with clients. Calm, efficient, very knowledgeable, understanding, and warmth make up her profession.\nI also had Andrea for a while with her upbeat manner, knowledge,  helpful with care in how she treated my pain issues. Excellent!\nSo if you are looking for a clinic that offers a wide variety of health concerns, then contact Ekinox in Vaudreuil.",
+        "time": 1748534509,
+        "translated": false
+      },
+      {
+        "author_name": "Shannon Leigh",
+        "author_url": "https://www.google.com/maps/contrib/113988547648260913016/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZxgg2QAXGACOBiV2F_ZVQCdQOulHMzUZmr5onmSp35Ll7hJ81=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Always such a smooth and pleasant visit! The staff is so friendly and the web bookings make it super easy to book appointments. My husband and I see Amanda and we have nothing but amazing things to say.",
+        "time": 1744567923,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "physiotherapist",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1681036507541806270",
+    "user_ratings_total": 563,
+    "utc_offset": -300,
+    "vicinity": "11 Bd de la Cité-des-Jeunes Local 101, Vaudreuil-Dorion",
+    "website": "https://ekinox.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

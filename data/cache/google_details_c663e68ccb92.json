@@ -1,0 +1,460 @@
+{
+  "query": "Miss Pizzeria, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371436.4305544,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "333",
+        "short_name": "333",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Ranger",
+        "short_name": "Av. Ranger",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2X3",
+        "short_name": "J7V 2X3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">333 Av. Ranger</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2X3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "333 Av. Ranger, Vaudreuil-Dorion, QC J7V 2X3, Canada",
+    "formatted_phone_number": "(450) 218-3738",
+    "geometry": {
+      "location": {
+        "lat": 45.3788487,
+        "lng": -74.01702829999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3803564302915,
+          "lng": -74.01556691970849
+        },
+        "southwest": {
+          "lat": 45.3776584697085,
+          "lng": -74.0182648802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-218-3738",
+    "name": "Miss Pizzeria",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108232267146342133632\">Mahmood Ali Mohammed</a>"
+        ],
+        "photo_reference": "ATCDNfVvJxbrUeEXwv0BXI422YqKxJNGrFMIkdHgcXNHdfVTYTm4G-fs2V_W0-ylT3TCF8N9dDZP0ZKNcTrcvsSIykDJNdO8KM4z7bka11MPUA8MZWB1se9MvizI0Ugm0SGmSse0FQPmTVmD_08-yhV5TIQbiMWw2SEd2xtICAJi2Wkm3k9yR38_HH0IC0l0_GKRT6E-87UUo9KoqTGlmIDpecw2Cf-Jt2-_mHL7i1bbMO7UTqkWOsZLRaRtN8CSwSBI5hdOSmzBXGAwk2j6VhnuzAk4MbF6Bf8Mc6PV-BGaqJyfPf32lhZjel5BUQdM69tFKDRKY7NYL7FgYINv2qXtYePoPt3P96K8I50P4LEEKCARPDEYDYwqSCW6vD5cNgXHFPKtIF99uJ-okwd_twqDQJk1Vgie_D3k257NNVKSD07innk9De77prEwLZdcsz7q",
+        "width": 4032
+      },
+      {
+        "height": 1256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108209702371896615141\">Miss Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfWCb6wV5v6eyCuMLOc_c4deX43em0MrIl731z38SeZIaY7P4oEJKUytY0g5CrXBm4lpd0yrfd3JW9TJGJV7ofvct2ZIeKfY8xP_-k0KVtxY-BKxJevTMSC8wNDyEDycAKba53pu8-VZHw_orqNtGIZ8nN_ZCeYMjd43AQEuI3lY8UjMF9nsaz5Z0doXku9-tPKvkikJBix8zjNgbaq__da7UWnyi7dHXspgYF4tSIUAGD0CK9D4HYAMkVUzF70JnrJSKfGHf8RSlMDaEzL5DM0nobMQWGtSfkNnGXqxrSqSBg",
+        "width": 1256
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110510265135442159645\">Marc-André Castagner</a>"
+        ],
+        "photo_reference": "ATCDNfUoUSD-0htA51vZk1ok-QuY4DoI-gktxTOdm_JeJ1r2raiwzyE5yhw6GYOZ6-1lXvlPZzYI8fttjFOx4lR2eVHrTapIOxQtEgRvulOTTtReJDvNMA8sG7T8TcjeFHAeKs6eZH5jD6tp7roNwACF74wRouSzH6LiHkoegYruM6_0JDW0tTK3_Bg1QZBlLW7cqaXfLew_HfZYt_Tq6FovbJ78YjJMKm1ffem9ulZcocdAswOFxwmiYvJtNT13cUCHooH_3lOk7nugCUnGaMIzSE2rEYneMCMcsqJ657hAe74fP8thDgUryLXuefVhOEt_92JBEay8rANRnkIfwA20mXI8F2yhreE_2dXpQxCDDT_k915A7hRHgUbtti2YvsInLRw66W53d4267keEnXNKGPs2Jy-B0kaluUB8b5BOpOP9C-Q",
+        "width": 3264
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104368847546129379169\">XO - OX</a>"
+        ],
+        "photo_reference": "ATCDNfXvqIHuVMU4u2jYbcvOu3bcx3oJwwmKoc_1JWH8ECoxJ16SxlII8pKHW8DeEHwVfvwCzHy46FucT1Wup84ejeARvBEVKJpb-eZJvtbiUXUGMoW59UmCI8L0BPxocSq1anCVl-xaCCVgedyxktVdMf7unUb69XKmKndOJJvtzlEpEo61NtXy7BxCwiXjzxNC7E7YgwUb_dVISngvabnQXH_WeeYWYGyDYL1pa_gT8OPHmiQfneBXKF868X8i7j5h564B_mvM9F3x76qGgSc1pGKksDN4b7VqZ1JOGFiOh_m7Rw6HYdBgO_KvwaLu70vqWfmIbdanz8Idxea1pWhW3_NK3drRkeikfi6GrQIocuOJfya6YBprJhWiDNUWDL-F-6qGcbOImX2hFcz9zspmfk3t8bgBwNPBoX8VBesxHf1psaMWvNbwjVlrb_i_bw",
+        "width": 3024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110005607304269580774\">Leonardo Mageste</a>"
+        ],
+        "photo_reference": "ATCDNfUpBgJEP0DOX6wxqYHFP9-0w6D7HZxXlnZHr7jI0LPglFrcVhjUCYdzvR-cBOeKqdxqETxEeaHRcIrYi7ZNwTQYbOdzMnD3fpSRJP_eWdEZKVBwCXldbqdI43t_TygASkoKMoGrRdeZ8K5dDpxGAhfUvJtU-uvv0oz9IMGYdSlmPiqtbyedQqSsdBOhn9-p5HCViSkSwwEXLl3yTV_N5o7K3f4Ws9mPgAmax0sN5jeu7Y3CfIR1MzBo50_xavgT3xJamXiUxGQM_zYKhFUWQ9NNA7bdu428sPPD3yZXq_b_NkFB8v5mbSEIP8hL-oUNnI-vp68PvFbosLNzyLCMTCbZT1iT2HRQwuU6wSYLzWuApsuiBdaMUjhxqygGR_YleMHPtmdLqNZmKezt-gV_47GBKoHEm56IC0TB9FArQWA",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102465078503182159446\">Vi Dilgan</a>"
+        ],
+        "photo_reference": "ATCDNfV7vVqm3cOyYWr66cnXOKgTUvvTznFHaUhPCeYjOkbpQak8-570hRrlUaA018jcWu93vuC-0yU4GFf9AQdr2MRikvxXz2QSn8uIVlFxVfUvlqPHZ3owTvZEa2qzqBwAWVV26cn9x2lsx8mWlC-Ac1cZ-fn3HNQIqG4oSYThjIWX-jeUdw25a0RYKQ4kefHHTfaSbLrR2Dht4ca_Qv0fdNnCYFWhVY0B5P21ycsMjomcBABoycfQw1ixgiDNt2yhY5GjyfFT5pX4rOAa5tHAmvCM3bZROj0x4YiF4cwo__myN2UZjv67-cBYtcipHod9_Qp7N_q4Y66wFjau8lOfrqD3_gTwvtZ40gNHgKRyEeSmhL0mE_IlD2vPRnACpJODI6xoyyQ0eQg7gQYL7Y26VBynsL36kbEAXXjEEGV-Xbw",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108232267146342133632\">Mahmood Ali Mohammed</a>"
+        ],
+        "photo_reference": "ATCDNfX1Rt9beCEb7N8VMgMZeGuiBH-l40tW1OroUzyRaaCsBXNU7ZY4g9AZyuXXDbI5jDDRMiZ3DMbv8QQZOV7lx85_glAwb_z37pcDZjpL0o-e5-didwpYoInJXlI-kFT7-koco3LsZULz5k5HWs7XEVjFrFVJ-EjRuzdVzsNXdMVjII47o66S8yL3xx4AWo5YG_Ugwpg0qxAiwi1ny7FflsT0HQNABqvHWn0uPcxhNMhcMCyO4asYu6uDA7VSVBixSXT_P6jSfFxgRHtpN6Tixyd_1taByLRX2xLGRCXtRGMkfU5ym_8_5Sg28YCYIlZF4OF3nw4CVw7e8WlWqje3OpZqhwpnyN8pjoqlXhP35VOMiMtK8epnhSxDbVvYY6Ob56wAfXdxjMSt4Kj5iT5tk_Qukz-scFGBBJMTO6iHIlWV8xMrA1MO9IHs5KAC1oww",
+        "width": 4032
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111515535323221686207\">Ali Yıldız</a>"
+        ],
+        "photo_reference": "ATCDNfWZfTYb8XiIAzQ_R1lbUfKFliwpEGpAdUMlsD6PKBt_hdHhuwcEwrz6iMFItGm6AFlXzyfLnADB1649WVzA9dFMw1uQ74cE3ZVpl6PICX0przAi238PJEWqReUq55VD6RtiYiWLbfHmLGdn7PPEAOsfW26YYfTzqKZ3hgJesyVZiKv4-6nITSM_HOaPeiiCNnSHrnG9I7ZYwk5W0CPRa1DwiPnorn_Ee9_9tg1F9aCaaYEKtOv5X4Vzg-vcwWCJBaDi5n-4HSljX1kdXqYytTiFIe3xsfA5qPBXK226I7_i_Q8fBNaQ2ubvSUOgooWRkaF3VGNlQMxeC-4L3zZ95UJB01rY1YaENgDT3uRxE-WuOm83QskmLAVVf-9W5ZlzGIh0T6AmY4Pugqvjon4eNLAQFy_HxIkE6tm_Ug3bogbjrQ",
+        "width": 2160
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108209702371896615141\">Miss Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfXWIb3CbIzoVBVnMkCliYawTkRn5uxTvqff82DzyZJ1CsSwCuw5dgQYHPtNIXl-xFy93uZZkZzJSSUmyHIesQIxOHLxKxIaxUCqaWO3Y0scmiEZNIz2wwjS9VSGt910Tz9GcHDusB5_jSNyrxO4lPYAWJdA42-xO2Clxdh6cv7nHidymWKsuBhJvyv4vkA8YD6h1VYfGM_2wOjHfaraCYBJRpUaTcLabGjq4GRHsY0nXywcIzK6MzKawKN-N-OQKKb5VBKI36i47wOEZK-L4pW2X1KlSghVlE4P0_Rrz3a5Kw",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108209702371896615141\">Miss Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfUzS18xJr693huF58xJaprJYvZzXSiuqKT6LlWdcyc__o-Gbc3IVO8dhOE-CoGccJgC5GfJngyxgINUPHQNKNOnsqL819vSRivJFFVQLRHF3xX6fADrXk9N79zHcekvIhgPFCSSa3uVmsmOo4vDpIT6b_S8FUKFH_PAffO9rbbqddjHrq88S8IAy66q7WCWQMOoTVVAQTbm-TPzcHvzw2hRttE4P2pqLsIUCv1r2xomsIRKUHIGj4VrqA8csKUy1clY3jkY06_I99PzBnOBHu2kzaX-CteI28v4qRxdXt2NHQ",
+        "width": 1512
+      }
+    ],
+    "place_id": "ChIJOWqc_TpJyUwR4Q1dV2Ww514",
+    "plus_code": {
+      "compound_code": "9XHM+G5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHM+G5"
+    },
+    "rating": 4.7,
+    "reference": "ChIJOWqc_TpJyUwR4Q1dV2Ww514",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Mahmood Ali Mohammed",
+        "author_url": "https://www.google.com/maps/contrib/108232267146342133632/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxNmJ7ibtfS_wU6jPFL2Zl0B2g5kott1ydybzE0Z7C_IGrOw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "We stopped on our way to Toronto and wanted to pick up. We were greeted by the very friendly owner of Miss Pizzaria. He realized that we were travelling and offered us water. He customized the pizza’s for us and we ended up dining-in. We observed a couple of other customers who were delighted too with the warm and friendly service. Pizzas were delicious and we enjoyed a lot. Definitely recommended for customized Pizza and warm and super friendly service by the owner and the staff.",
+        "time": 1752026636,
+        "translated": false
+      },
+      {
+        "author_name": "Justin Melville",
+        "author_url": "https://www.google.com/maps/contrib/107539224058465378988/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfmRXpZzG2xkqKHU5NzF5B_C1U1fjoQWGWnOB6dY5bP0rtFLPM6Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "The location is inconspicuous but the effort and dedication of the owner and staff here are excellent. This is probably some of the best pizza between Montreal and Ottawa. The sauce is made in house and the cheese is cooked evenly and well with a perfect crust. We were treated very well when dining in and the owner and staff were very polite and helpful to all of the customers we saw come in for pick-up, helping them carry out to their cars and providing a welcoming environment. Recommend giving this place a go if you're in the area and looking for pizza.",
+        "time": 1744957670,
+        "translated": false
+      },
+      {
+        "author_name": "Bradley Fironi",
+        "author_url": "https://www.google.com/maps/contrib/101586737272947540193/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW73CI5IAEyejzol8oufwvQGVDctM9kunvhWOq3DBYO91e-3qud=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Pizza is always perfectly cooked, and their sauce is amazing. Super chill and friendly staff, they never seem stressed and are always happy to serve which creates a nice environment. There's really nothing bad to say about this place, give it a try. (Review says $10-20, that is the rough price per person. My wife and I always get a large, which costs just under $30 and we usually only eat 4-6 of the 8 slices and save the rest for leftovers.)",
+        "time": 1766954178,
+        "translated": false
+      },
+      {
+        "author_name": "Katie",
+        "author_url": "https://www.google.com/maps/contrib/108941141875224402748/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJX0CpHgRhd-4u1untCa04d5_TWIjWgfUGs45DUMAe6nZSYl9E=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "We decided to try out miss pizzeria tonight for the first time for dinner and we were very pleased with our order!! The pizza is fresh and had a lot of toppings. The man who helped serve us was very generous and we also got some French fries and some delicious garlic dipping sauce. We had the deluxe and the meat lovers and they were both fresh and good! A real treat and very personable service. It’s not often you find kind and great service like this! I Highly recommend !",
+        "time": 1746664547,
+        "translated": false
+      },
+      {
+        "author_name": "Natasha A",
+        "author_url": "https://www.google.com/maps/contrib/101433544138371552715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-Ti6LyoJ_fMqY5EmZju6ZP21_Pw_oHlV82Rq-6rFmETN7-sw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "a month ago",
+        "text": "Not the best pizza I've had. Spent $26 on a large cheese pizza and it was mid at best. Highly disappointed.",
+        "time": 1768617733,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_brunch": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "meal_takeaway",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=6838628508489289185",
+    "user_ratings_total": 593,
+    "utc_offset": -300,
+    "vicinity": "333 Av. Ranger, Vaudreuil-Dorion",
+    "website": "http://misspizzeria.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

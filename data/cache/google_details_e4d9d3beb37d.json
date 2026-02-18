@@ -1,0 +1,395 @@
+{
+  "query": "Clinique Dentaire Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340482.9837978,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "21",
+        "short_name": "21",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">21 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:30 AM – 7:30 PM",
+        "Wednesday: 8:30 AM – 7:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "21 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 218-7070",
+    "geometry": {
+      "location": {
+        "lat": 45.4142003,
+        "lng": -74.02563219999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41573333029149,
+          "lng": -74.0244336697085
+        },
+        "southwest": {
+          "lat": 45.4130353697085,
+          "lng": -74.0271316302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-7070",
+    "name": "Clinique Dentaire Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:30 AM – 7:30 PM",
+        "Wednesday: 8:30 AM – 7:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVq5gW340is6iTaIX3FWRzikdHEL2r3RLW4zPXAEkVsGEjvCUl4owrBOPX51HgNFmfvfHZa57EFfWQoU5WmuC_41-KaiDhnBntdjPF6iO_9SJH8-hXde2x-dcjl3MNfh7s69OaGWrGuP_QM7tQURRUWjV5i2lPIK3FwceTzRaGmhyITQNqSuFLEIxTxNmLgisRfACjiSlRHjnhPx2HnHvXwfCvfe-Blht0TINs4HOuOzFS0KC8ahri0xeMWodF55BISqfsTy1T8biFqrgT8G2tFCGIPsRRP4uV_02o0yQ84_w",
+        "width": 800
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXDNqM25BXqb1_DNOwxEiRSg7RbyCIxzSjEwndRFQLUKT1WoiMazzZ9VaOSsuCDJSIZq6XIN6ybw6QMtHrEJGnlW2ioZxG9OKd-puPE3pU7iP0YqUPXvU0kL8nf61v61o19IRYfyctvKbw4TeN-_zcDdPzSpmqawbIc5ldyqZ8eGHkXuB40do_4DbaBpxp7ot7SeM6IsBQghPDGDy1hnfPuSGS9-x3XxzX-lHgJqMnfUSbXDV4wV9IsAuEnT_0Ge3uGU-vq6BTDSmG95phAv2CEKF2x3X82WIOEwmmg7ZjTFg",
+        "width": 960
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfX_PmRSvi5fsurpMqw4TtoPKQ7rxZlmO4IlFka7RmNfA9Z9I5VKFL54I5KDxguNn8kwz1O-X9IWsvRZtVsBlzmwZXMotVU8bIZedMriWp05dmT2va05T2fj3-eur3kjgw1MSBOMSJFwEYkl8_Rki8a_-ioqQ_sJN-ASKpXRDrNp31gq7dhzcrdB53OcBXUgPfeMxsoqExveEvlYs4LceZpyrK4PrhoJfCr4mynIuRnAggGRnOxlPxuI2KC87EJ2MOi7Ubh6cWdcY-wolznw_gcND6AlYlyFvNtF6eyiQ3_7yA",
+        "width": 960
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUORI0b3iBOkyeSMg6wOoRTpnbNRyHjeREvDn6UfmeYX7wBHnCvd-kUi0wOsfxbGCvh3QWnhMFlxusYmdKH9NcV_Dk-FFPWIPflezVsz7Gtu91iTTZJI2l8Sj15xbW1pLVOh0NCwd6kMvckhNOidnTWAtAVLYP3RgzgK1nHmnbp3TzPmyvRclKB-UexDHazhBU4jy7XOEdHKIIJuFlbYzRpPNznSg0RcwG5At-CjjMbcBgp29XBVVQ-ZpqAqaYnsZ_OpFiKx4a0BNwp6a3bNcDVmJfYS-35-gnhBlAebj_e_g",
+        "width": 960
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVuSOkDJrRBsMgblFav5xZKacBIhCW4li0AzpOAc5615xj9n5fKA2OgPplt4gAJjF7qZ4ktJXU_PF0nVv5BADm8USL_kCpj8L5UmfZE3C9qRFMJGmi7uV0bRGn-AB-wf7MQZsNAJ8MRKpVIWOGnpYajKKJlbKqOm-nEhJlBgHKJz4rJGCBDTnCRm-x1szqClYBC52SRE88iMcdk5X_HRSnZyHBgKKEo6kc2bfmtVIBr8lKe7gzpUIjNm91VRHjzChCAHsEIyWn-HP2X6bvQDZ2EiwAfFp0y5Bcwb3804-QMEA",
+        "width": 960
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVozTVVfIXgx43oEmINWhcqzQfoRppLRqNPKPB5jLUE_ANue33PlBMGM3o1_DJVyWjNfr1rYOxQ-z-1kXt3bJfBezJPQNixJoNN6EigzyD0M51Ea0jdkpke1oay1XChIP173pTfqAhTRPcfH5cIjD_37_oV6F8C2d9gYQjPn1XLDcF8N2aNRdnETbpycPkVJRUuAYE2IzdYCJTKmEUHSCYhXhvdRTyQPINpDGLYnIMVWVdg8e7s35Q30eeVbyNpCIxxtom7Z122hBfEaWdm1av_cG3tjqpZFUsCtLbVmSNupQ",
+        "width": 800
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUazBrojeLqEq4KPPs4VwiKRB0wvGDNS5tJZdHXdCU-2KiwKsNtuvzzJDDOyUnz6RWSx1Bz1oF6b5Qouj01VXzno8-FbDiX8N8gmdKwI0xihsjdPPfjqwWE0DrpTKTHZ7ls-HcRj78HOnsaKVx4J-W-GXWafpQHNsQLdVF5mF-kZEvpLKk6D-Kc846T62iHFKNalNyFNOpyalPq0qKUKGSCzZYiIiSnScpVf_bbArS0W1I3UQHoKnldO1w5qeHMVV5oYivCnFLddnAOkI1bxJZCATr0_X4tGCCT1hb9p6gQNA",
+        "width": 800
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXUfT0UufCMwzT4d6krj4IqVSPDmpxG2zy3kHbtLiT2XnPeuV09_ITQbBP4uzTRbTekV6t8lcoM_MLts-2QAGp-Fufnhf74CqeV5xxD4SxW8B6g7_Bu5Ta8dIUXsvUci_ztRguhKoJ5UvL17DJd_K-1bA1lYp2wyUcmwsDkjz9KT-PxqSXWKdfr5Eo0YthKiuxHKjRHefh7En0aC94l6-WeTPzJVS55oXX8oftKhp7i9_bpf6WXgPFEz89E2mXebEA1NYJhcdu3o1u_dCknQdWgX3OLZ6Fs4nnB0X6zSDbYGQ",
+        "width": 960
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUTNTmNqgAcipk2XY2y7KjFEsISVdLs-Fxjx1jWzov2m95ZbHOkPUyBdp1WjypGNcqJEz6CkG58fBkplrgmqPUTMDng8mYfsUueiQF-aEF_7Iek3N7QI_cawUP2SMVlcHGkjGEyIUn_j9Qxv16Z_8gu9avKX47RdY4RY14vVMKTJlwS3TRirRLTQ0LutSpSBwzCEoDSZuGLPjCbYoxFnxp7Nhtx4p_us53OPrg5UKrjc9YHpnyeHh79w0X_gR-tAj1x50UZ28dLGVeD0cNSqGEeYz9MAbW47GN5UIGcikbndA",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114766418262557425753\">Clinique Dentaire Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUfeNvoMzPx62PQWu-asPX_kP7NX7OczG_70Wh6bRQRD0rMQKGaYYAdU8PQiH4NL6gyxt3CIBIh9Qhg7eHgrTlhxRstEGWvFwnICmfjVl-u0PcAOppgvuwE3jJEaYDp8Rozt7x_6rDx32O3c5-XRBCwUn699LFdiEisIc1raAIcox6b3pJO9hYGQuCKvbOIGwSJyz3H4GOo5cKrc2yLVflVpsrisurCK8hDe2J_xmrfrx7QAyGmERpMHuVwHOTZDQ0s_kpeZ9OycH2c49HzcFXTnO496q1DsizfrOAalU2irw",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJF3aaTv5HyUwRAUpisoxr1dU",
+    "plus_code": {
+      "compound_code": "CX7F+MP Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7F+MP"
+    },
+    "rating": 4.7,
+    "reference": "ChIJF3aaTv5HyUwRAUpisoxr1dU",
+    "reviews": [
+      {
+        "author_name": "charlene Ortizo",
+        "author_url": "https://www.google.com/maps/contrib/101652987354553488322/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3lKKXQ_S1GvIUoFR8icJc6WuA-Fl7eKeu_KnNUF8hdbZ_8A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "An excellent place to feel welcome. The staff is so sweet and professional. My son had an accident at school where he needed to see the dentist. The staff was with us every step of the way even if they didn't need to be implicated. They went out of their way and made sure that my son was taken care of since they couldn't do his stitches.\n\nWe really can't thank them enough for everything they've done.\n\nBest dental place hands down.",
+        "time": 1706883321,
+        "translated": false
+      },
+      {
+        "author_name": "Rosine R. (Roro)",
+        "author_url": "https://www.google.com/maps/contrib/104368344433220361144/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1RqRexy5DiNJp1CcZCrwNGPIwTbSyZ5eyqpNLiLpNKn33wrlf=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "There are really nice.they do everything to give you the earliest appointment. They keep track of it.service is warm and fast. the lady even pick me up to be on time for  my appointment.i love and recommend everyone to go there is like home.",
+        "time": 1660741525,
+        "translated": false
+      },
+      {
+        "author_name": "Amy C",
+        "author_url": "https://www.google.com/maps/contrib/108911524021009599558/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyoas20CNkBONzPgZZEJO88FciKmOjee30-htDTOMWee0uAcGM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Been here twice to do my yearly cleaning. The staff are nice and professional.",
+        "time": 1647899001,
+        "translated": false
+      },
+      {
+        "author_name": "Caroline Golphin",
+        "author_url": "https://www.google.com/maps/contrib/111042368551922685861/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITmMGvxlnRkhzEir360BRZXMwBzXEbv7woDlXxpu6fCzDo1A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Staff is friendly and professional. Always a good experience.",
+        "time": 1728087940,
+        "translated": false
+      },
+      {
+        "author_name": "Sacha Bourdage",
+        "author_url": "https://www.google.com/maps/contrib/100908772935679600498/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrOBwiVI1s-JyS4pyA5g-uW2u4yrxLj_N0WIAgv7PdZCrEkfC4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "I LOVE Dr.Lo and her team! Professional service and just the kind of place that has the positive vibes. I highly recommend!!",
+        "time": 1770328892,
+        "translated": false
+      }
+    ],
+    "types": [
+      "dentist",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15408339952150399489",
+    "user_ratings_total": 29,
+    "utc_offset": -300,
+    "vicinity": "21 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.cliniquedentairevaudreuil.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

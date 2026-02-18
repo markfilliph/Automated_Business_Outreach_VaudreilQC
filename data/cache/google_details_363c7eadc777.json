@@ -1,0 +1,392 @@
+{
+  "query": "B.B. Performance Mécanique, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771337974.7935152,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1021",
+        "short_name": "1021",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1021 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1021 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 218-0585",
+    "geometry": {
+      "location": {
+        "lat": 45.372082,
+        "lng": -74.043905
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37334898029151,
+          "lng": -74.04268131970849
+        },
+        "southwest": {
+          "lat": 45.37065101970851,
+          "lng": -74.0453792802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-0585",
+    "name": "B.B. Performance Mécanique",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104215412721502843041\">B.B. Performance Mécanique</a>"
+        ],
+        "photo_reference": "ATCDNfVZTPP9yxKoQaJHL1ljhPfdUwf4z0ilNVO5yuldFWnrldVwPxCYq76UizGKkWJj9Ywn9ju3WTxMYNzTHuT0lJwb5aXq7e03yR4ei-7xm4yDMdltpkpvb_t1IAHn6dn3lgFwEk90DV9acbk07WhCe10eV6gwv3S3SRFQZD2m-OZNz1xuuon5bU6ejZhE_WEZMhIUSuFaO6IYm0HR5zOYiGTzcEwJma5bUZLOLWRLHf9IeBu-jzd_JPtsMKEQRbddQAKtPyViLb1M6g9MM33CB9ptK0UJEf60VEpEqjbUTv8cnA",
+        "width": 2048
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116451566258908181642\">Ghiso Edward</a>"
+        ],
+        "photo_reference": "ATCDNfVU7K4LdEDFzdSMogzcT7KD-7yed-tDLzvZo37qMJhpDzpS5_BvrnL6XzzxmUU4TUwJY6YBmlHjydrwhkvgxYINX3oTYaA4KLSfMVHlZ5BEA-pJ500TKkaelaxqrRYzTKN2dynxBn42Lvzr5rI6XM9sSI_nzutKhtUd826Gxned0nv1xyTqoTE6yPJdfGwWAJfvOPY--HhNO236CYORF-iEyMBhflxBSTFHt1EbvEJw2ouYA-ioMXT64haiYPYNfKxVWAig8DNl9I4wRYli7cLuOpqq8QbRLGwuoOyEszvVVvYVktnJ8yQ3MhMik5WAkNNF8NBEKGXFHJdDl1C-FB5U6VfE7QAsS5Ft74EPVJNptUWLzt4mCFI2ePebUFk7uQBVvjWxMtVVBOsri9vC4TEpf0SNubtRyCyuO14eOdn94NQ",
+        "width": 4032
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104215412721502843041\">B.B. Performance Mécanique</a>"
+        ],
+        "photo_reference": "ATCDNfXj_EAqrjVRuJut1kP2ew8ksWk8z47qUJRmScQV-UFX6fYRL2yahLNTDuzFkx_nLSW0fMAZHPAUHXN-92k4ol78Ed6K6uh7jQO0aIGDjSJP3kkNC8lzQYUXymRlx5GLfy8hRPJNAwYvk2xXuqgq9pVa6hK9-CbjxPSnpbf36-o1uat-V28o1SOX_mfFesUpyEmu-N_xvJ0Zrk1XWEcPO5n0EoEjI2PqlVAWcrKak5xUSdQziS05HCjRfUbS6YTvOkfC7zwffcHUqgdK8UTG1NSy99kOJBnW57avfBfI1-QgIw",
+        "width": 960
+      },
+      {
+        "height": 966,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104215412721502843041\">B.B. Performance Mécanique</a>"
+        ],
+        "photo_reference": "ATCDNfXricfz1M0z4BCR88Y_Rgv8HeUF_VEba5U8-SyTvd1t2FH0F4vQf4T-Eact4sHVXpcAm3Pd8s3Nej7mLN9JPkz9Plwzo7fErxrhnqqLEeojlgmXVpTsX8ovjTNOAb6AM1dtQ8OXnZt7HDniG00I9HIZXFHItPWZKH_LoPDybKM5p_ghfjhN37miTTT7wd17BdNpe5CvUZ43itzvCSVCJ6hb0M-W089_dwF-iAspVYpNgKAeEbMypflgEoaWplMZVO6YE_tfoAlo2ngFlSaMMnQdTV6wQs-q6Z9QyMlYFsZC0A",
+        "width": 1450
+      },
+      {
+        "height": 852,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104215412721502843041\">B.B. Performance Mécanique</a>"
+        ],
+        "photo_reference": "ATCDNfUTs-bvVQfXES3na237gT2kHIto-5WSIM2lt3QR2WA5H3SD3doD3JoEEWIlCQTeiaq7vroRsFYYR1ql1MN_xdclRs4S1mvKWZZ78_mwIbipMMPdfKopuwDGbabKYP9Rm2sQyJnAFpWp69cAGkOqUhj0XeLx3o-EoW5W_jIS39qwuTkN0tZAITFK1oBcm8ZVs5X5plzOwnfvtL-OcbL6qLna_LgQ3geV-qNiJdbZglRcF09Kbd4gNkHJUk_FuRgrbWx87g8PB89Ik5WU6NjEMcCf0G6wOcTo03DsKg3WDd0KIw",
+        "width": 1136
+      },
+      {
+        "height": 852,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104215412721502843041\">B.B. Performance Mécanique</a>"
+        ],
+        "photo_reference": "ATCDNfXJsvCrs6cV7t6JpaFkdozs2FkQ8Dtk68nAYW3B3NN1IujpjLsBMmk0vxdTY3wwaF8s1f1DuW_-EJ5OgJmqSuFB6E71E926D5Il6ctEceeZ0McDfNIIg3uc1iCuDXAlmhRfZ3dpf2k5e5zU_91Hh3tE8siJ8WyNuK3pHuzKs5c3hy6m8PXIjpu6h3emilXE38kgBFnOBhF7T2PBvBtHdQp6lz97xnLR_k2iaSeTtODhBGJCTe1l22fCviBOIqJWn4St0eIYq-nF1AEtxHAjS2OFYOf7tDXYa9QoE2wmXovypQ",
+        "width": 1136
+      },
+      {
+        "height": 966,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104937940811154176855\">B.B. Performance</a>"
+        ],
+        "photo_reference": "ATCDNfX73G8PD8HHpznvUIh--12uauaxYz2WlDgGjTVNIcb0dvzF-dqZhgo86zSA3dhForh25ISSMI5BPbBABywXWjBz_ICUphiJVlZ3fIEKRN6fPEfscpdS7iylYF34WKR_jeVJ6wgejflyXeAEjro1CmZiQhZXN2oVgJvGl5cWPLY-qHsePHT4P9r6L1GYQGTV9IB0pxCfcBmtMYV95Tpi7J42ZxdYMe8tOe4dCJspUhI4abJYQCD7evhDiuDYLGflwzzcI7eixlZ4aSO4ZQERZQ4VYQ0-o698UG4-gZ0Dnjgm9Kk5b4HIKhHHVAY13H9JbMtlSbrsJMFNVek805axmLyEEJMsD-B0_VU3HUmhpDCecJV7x6ITRCcr4OpFwxCK76wuc3nmuSti23WK98C1Ga87g7wDJVMeg5dgJCQvFRprO-U",
+        "width": 1450
+      },
+      {
+        "height": 1136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104937940811154176855\">B.B. Performance</a>"
+        ],
+        "photo_reference": "ATCDNfXMZbjcCIwMBDy1Bt3Ogd3wdK2F49M7u3Tj_KAEuA2T5aLOSgGV6lk4_7RuPwcQ1BoRyXZ-hA5Cn4mqqYa1Ue0xj2Sp2DnHv7-Cl9UVEs68t0k3rpsEV6ZMgNaJZF1yXlLRVfurk_Hbp1pk0q-4sCtuOo63WSc4xv97oBUriItxIZWbFbdnk1pXs5rgzG8JcatmhlO8F214Jme9XWukLoaAK6_9WjVXGgA_uQNepKyyqZWcWrP9VJuF-t0yZDzO8MBMyRMIwwlIKYyYDvuAxPzNfuixv-Zls4QNKCwd2KHCIEkExSNq38qT1LW0SEgx6yfgWWXfFYxeY9XR_lqclUmb0psVglafu1ZqzHYo1lSLV14SVaLSl8rFmVZncDpI3bdysd-stFrIU3YGQfjv47RN3G4XKfty1Edeo6Mj6kRdKewn",
+        "width": 1136
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108229160286851778949\">steven gauthier</a>"
+        ],
+        "photo_reference": "ATCDNfUw7jxXupsXficuSyZK3J5Gcxn1h14XnKh2TzzXBO95sa7o2QgoobeZ8WqH2VRsbIE9REtg4SxqFQm6lKwbP-nKQQkYfUFlnOWDgOb2E91p_rcL-7qfp1DiyxYxalfx3xkjjpCWdKqNjxgjtDVRVoGH7JmmLdwRQBae3vVAtu9jJjrFmECyo1UxfqdjlCt45PyySK3cnv4LHCs92GYWCcrGo1bNrNuKOc2SvAItKwZN6H7cT9e_hcj9it60sBrxLUrPrMWxb0Gk8B03u6_4m6RHkJ-mvQyoe00lAaYopI4pY1RltslFbqod2Apj9N4z9bcsbn7-6U0_00DPbnM7qQjjJM0tUQYmeaJs3KT1J3S78ujt08uDFr5IKyQ-GlzXOXaTNzK9V_IO9G63rhmwjrMxFJrmbqNdk8Jbu880VV9Ub_dh",
+        "width": 3024
+      },
+      {
+        "height": 966,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104937940811154176855\">B.B. Performance</a>"
+        ],
+        "photo_reference": "ATCDNfUChzJ5c0pOYCBAnDtk4TUnCtkB3KSgMcJ2_84m-0CKg9QX9SrbjrWu3Hz9w0nCRDJkGES_5uSmq3UZ_DCyUh7RTHArm7qllg-MSv749yKbW8ExWHzIZct9Dusy9dOTclJDw-JnGlr6V__iewE_oYPqek1Jz9PMWZhX7JZoL-Tn1iUnZcA7Fs3Qq1ikHie86IIBlU_kcb7j7dVjH1AS5rhn6k3-jBPX2iM7WS5B8DiQXde9RsRS-DDFWKc8b9yI6PPhHCcn-Duq2vw-BvQWcPjxgm9IIq8tQgEaq8UcBXTdBgAVwaB_Yv9afFpx4WLPpb9RURVjirmChf4--WBUwx3uJ5RMNQhA00QataielcgjrJl-l4Oo_P1ErHx75zFZaPOrBbo4tM4HBRRYFBW0E0rlzeZ8wNbA6fEZWC_ClZQhBA",
+        "width": 1450
+      }
+    ],
+    "place_id": "ChIJ5ZkdKkhIyUwRy3XHr5ze3fM",
+    "plus_code": {
+      "compound_code": "9XC4+RC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC4+RC"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ5ZkdKkhIyUwRy3XHr5ze3fM",
+    "reviews": [
+      {
+        "author_name": "Kai Whittaker",
+        "author_url": "https://www.google.com/maps/contrib/115813249642002099184/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1g0ECHz9PEukZv1tx3B01_LNUczSxQ5RcZGogvdQ5uqNUG25o=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "These guys take really good care of their customers and the vehicles they service.\n\nWith repairs and maintenance, they take the time to explain everything and address any concerns you have. They even go out of their way to save you money on repairs.\n\nWe recently had all the brakes changed on an older vehicle and the bill ended up being less than the quote because they were able to recondition a stuck caliper and didn’t charge us for a new one.\n\nHuge thanks for the honest, efficient, and professional service.",
+        "time": 1731079666,
+        "translated": false
+      },
+      {
+        "author_name": "Lili",
+        "author_url": "https://www.google.com/maps/contrib/108397718094768288794/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFDInC53BsZ9KiUwb-uZ8NEL2ICoWUj1MbjJtQkgq8GjUbp-w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Great service. I’ve been going here for years and I’ve been very happy with their service. Very honest and they don’t try to oversell.",
+        "time": 1744711130,
+        "translated": false
+      },
+      {
+        "author_name": "Morris Okoe",
+        "author_url": "https://www.google.com/maps/contrib/100740180759727516580/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzOljFnRKnzsLvccIPof-l4L3BJy0XIDZvtB5msQU5k8GkxKK7Ag=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very honest and kind people who attended to us when we travelled to Montreal and had a problem on our vehicle. Even past their closing time, they were patient and sorted out our problem. I'll 100% recommend them. Very good people!!",
+        "time": 1726021813,
+        "translated": false
+      },
+      {
+        "author_name": "Alex Roy",
+        "author_url": "https://www.google.com/maps/contrib/110070538860108390287/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIC7gRQv4_ipGNlBTDI-XxvOjj8px1eZ0xQ-Aw5NrUpv5SLROl=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I have been going to this garage for years to have my vehicles and those of my family members regularly serviced (>8 cars).\n\nOver all these years and thousands of dollars of repairs and general servicing,  there is no other garage that I trust to do as well of a job as BB Perf. For big jobs and small, for planned and unplanned repairs, these guys are fantastic and professional.\n\nTheir prices are good, their service is quick and courteous and they have been extremely flexible, which has helped me out of a couple jams in the past. Most importantly, they are transparent and honest.\n\nThey are number one on my recommendation for people looking for a mechanic.",
+        "time": 1636655432,
+        "translated": false
+      },
+      {
+        "author_name": "Moe Q",
+        "author_url": "https://www.google.com/maps/contrib/105838528085261049048/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4Ba_-WgeQW9EHvaWZqq-24gCJrpWxu64K-t4yYGsbSKD4K4nq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Went in for tire change and an alignment and I was very pleased with this visit, SUPER respectful. They answered all my questions without making me feel out of place.  I've been to many garages, although what I needed done wasn't a big job I would highly recommend B.B Performance.  I'm looking forward on going back for all my mechanical needs as also I'll be owning a motorcycle also. Keep up the good work guys👍",
+        "time": 1624406588,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17572446085614892491",
+    "user_ratings_total": 80,
+    "utc_offset": -300,
+    "vicinity": "1021 Rte Harwood, Vaudreuil-Dorion"
+  }
+}

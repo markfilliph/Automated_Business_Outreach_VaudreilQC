@@ -1,0 +1,455 @@
+{
+  "query": "Punjab Canteen, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340350.4843557,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "unit 104",
+        "short_name": "unit 104",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "120",
+        "short_name": "120",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J2",
+        "short_name": "J7V 4J2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">120 Rue Joseph-Carrier unit 104</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "120 Rue Joseph-Carrier unit 104, Vaudreuil-Dorion, QC J7V 4J2, Canada",
+    "formatted_phone_number": "(450) 424-0070",
+    "geometry": {
+      "location": {
+        "lat": 45.411658,
+        "lng": -74.04122029999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41301498029149,
+          "lng": -74.03974286970849
+        },
+        "southwest": {
+          "lat": 45.4103170197085,
+          "lng": -74.0424408302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-424-0070",
+    "name": "Punjab Canteen",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101221509407942731798\">Kawal</a>"
+        ],
+        "photo_reference": "ATCDNfW_C-QGb3bP2bjvlVP52sucbKKJ0_AiglEi6CFbB2FARkTL8ZPKblCkuuMjdBRUJnl7BvqsH-ZXMb9Xalg6p2iGx489Ug-lR4b76cJtzeUn_FKmBH1CSyqfXgyWjOCbA9IdoSzOKSMEEm-nqy3Cxr0b203zWydXVaETC0N2esPaHbJH6N8pweuZBoKawJFNkSzqngZpsrIowaccGEH0B35eDUtbrIx2-2MM6BS6pI_zM30DFpWYA2LHfjZg0m6uQIIyMvQwkza7kapeLfTv197rUmRemlfW2Lpsb6vGNhQ8zSxDs2DRwHpxLaPURUPvbk2BkWycIY46wrnki2yedkdMtEW60Iog_z1zqq-5chXN8zh4lhpurY3ESkWHqIWxoEv8OOUCPUE0x50FULhtBbe3yg9nXKcEKgnDV9yYvAVgdg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVikuNL02IJoKwIf1uP1JccFndv5GEdAYuU9E0JPWf4Eo02LbgzhKg3SUbZh96s7-q10BpS9P6Xnj73rlY3OlOvp4hvX9uyPcQtSqEHH-zO5N41ODQX6Fm1GR5Sk14A77K9QmmVSzK61Kk2CUNZDH-3yoHNO9PJFc34P6vT0iyCEhBYIsxifZdih0aJhqdt6Yd-J8tOFg84I03mZfO6rjc8tDtitp0CARs7Ugrzxg_Wc_kgB-gHY_35HzYQw7R02F9vxaRUIRgoQCRautDmjwqrqLF7sCkPzYQturBhw_cKZ56ChRkTye0kXATbS4BRCTwjUbWQcOPqNLKAVctWU84gcBaRowUtH2GfbfER4TXnc8VbhRmi09VlTGF31zittZMeL1iKFhBmluiw6PoYhbaj8QjJaNu2oyE5giIeTDruSSVM1M47dQ1N-fpE1ZP8",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101221509407942731798\">Kawal</a>"
+        ],
+        "photo_reference": "ATCDNfWys9kf_tGGfc0cEx-LBC7-Z1ARx29rZ3RpIflhizaYzsJJE3tG6Q59xJuZ-9W_7PLsQUzJPlcPep3pNV8hFblII0k74Ih9izmlF0ecar1vxTIUo07-L0V3UgtNp9LTnZ4NYLxBJTAPwERHQpBagkbL_gyoHPjstCLdeQBf5AGA7rBOOfKQuQWJ3hE5Vb6Mpa_u0M2EYmSfnzFs-lYBAK0tsurv5S-MgUP4AuOaqMOrFB-UMZEOufMlD6wvvNOZdZmgJEYIQdYb7IowBqCAl_mjCjylYVfD1gBhsTvvZacdquw4d4JeNAsdqG8eqfpcgSxfU4icMy3ZUtDsrBkvCiG9HNzJ6GHQfX8ynTvLKx0h8q16kY8wIsZ_Nc0qcZPg34DanQprMsJumAb8QNnfjBqjQXJMk3H-feEtmNOIZhZHWJg9",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108329586514018959189\">Pulkit Sharma</a>"
+        ],
+        "photo_reference": "ATCDNfWOlISZU4I0IrDciRrgwGyyZRJ15rv0g7WrRK9j8DMZTi9f0rjwWpKMZu9nfMYL5kQTH12ocGTBH5zhDIj8RjVQ9dmROXI8T4Q2zrnY0PRlchO8djPiXSjpMT-v5MNxvEqyYCDeadPKBjEnyrhKPtl9gA_evQJ6z0cmfdDXLfYNnwDfsf_w6HcjOK27AcfRXFn8zOaee8QDnUMgQSHytpdCYtPaLwezbD-jwtHhZdIX3QO8LN-9i8CCIZQpf4SGBfSuoY8hAWwL_k0GW_EfLkLZ-hklkaFhHpb7JvC2PM21OLbO0ECnndWyuMaCkhvv1xuY9KfBWcOxHmyys-xfL9Q9D17HJNXUfilH7R-ta9HbIPyZAeD7o-PcRN24HqLQf8Z-xaMrGU-zb_KJpgq2zSFMCe6DF4xuULc4oNbKY7X26wv66vlNukrPlUpQs2eA",
+        "width": 3024
+      },
+      {
+        "height": 772,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108272410055664323630\">Nandish V Patel</a>"
+        ],
+        "photo_reference": "ATCDNfWanu5vunqFOaBp824khI9UM8BgNETX2r2F8HjektQXeNIt5WR8wDz85oGvVYbn6cOMxv2bWtlpa-DX0ZqkTC0Cc1HVUMWeDpd7_5YjLtJ7geNj3hnMs1u4q0axeK9KY6vPZRAyImHTv1UTdMuJ7LEoQ6T_rY-6WH3d84Pl5nT2hMubXG7Ir9n___iy8Nk8jJIrbNV0VJSXYOoDFu8Ga0E-HshMg95raOwnxlPHqst92YN6aEtEFqZfEB99StfBnL4jmvvCaEQSnjkgClEXEYV37u3tNlzIksGwVD6NmFUBltITc1eGAF_hLoRV4QjYEVb6YWXvjaMtv9paX7IMQhXEdanf4AnOuG98CUhOJpP34bUAuqbCNSsNIGleAxTTAVtJzGCg4jR7OFM2dUyiaCuKWh7xrfVuCPQgzoU6IIJwVb5a",
+        "width": 1169
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103487080883067371247\">vishal holkar</a>"
+        ],
+        "photo_reference": "ATCDNfWwgUfW8T2iVLZcHXAfjl4-E_4_cenymaXzLghUJ96s7QAb4Al6ethKEkbX0aY-n9KGfsdhIWXymdm3l_T9Gq1vu2U4yujKplIBNyTwtT1qWH887ax2k_0TSPiv2569P2n2E91O5gy6gqRqqwqpnZrJaG5Bte_stWdW6IfSTKrCVsIcbP3r_VLECvH6SifUvdav20ky_Z8BfJQAy_hApzEIsGURA-eb-mACIuKQrLv5qoD2BgZ2NvXcEaHOZ9lDFE_gd3FK46Lc1SRi98H6PngG7G36UT51PUyGbgGe3p2Rv4UANj6zetwf-aXlkbPeO2JzTGnSbhZKouoBPYkRqQz_HMqZFnWbZf-q_uypTGl-u9vZiNcF08rZ7qc9Rb3uh6wHnLu3qppFt6ZEumz2dGyxoiodZldc7f4r5oSyFrBWpPPy",
+        "width": 3600
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110736974537496527709\">Vanessa</a>"
+        ],
+        "photo_reference": "ATCDNfXkSC-fM8juZvlxnXVy9082D1o9Dw_4-h6Bnm-EwMcMYiwCuGQpoYg7BjGdDAt16BtFHcfGeOlpoY1bn797tzpgTGb6pmksQ_MG9GhqM8iODDZ0ZvaZ1CcVXbid9c8v7Bl9jojU7UpFiNwUDAxc_KJr5loVnu3V09k6tpOwyJVIeqdOzHL6RnqbYG7qTMIGle7DdMepXcdV3H7H4w5YkxNdXzOau-E1FVRWn59sX86REsYiA3Q9vEq5q1BfVsEkUXtDDWi2kGhSJsXsky6VglK-nsZ5Ji5pxIOBl6Mm4SNgVm7eZXp9UBC62ZjTp-iY2egl9hpsWm_v6PXrXYOyMCl7WjreqKDG96eH3nUipjC_eT3ZXVFE7pI8z2r0gxX627xGlNdyMz0pPeRs-SZGpV-75R9t6G3RgM_ZSy4CRagoD1KC",
+        "width": 2448
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWBApBOt5EBYEKtShFgRtyKdFMZ4C84G4HqR2EOiajZi9ENfhiW_c1US7TkoTevPiiD0nBqY1oJabLwRFGQAUl8WxpFqL9jNdho7g2qHBRT2rvarK9qgFLCu-vbWEq44E0_z9OJ9yzp96wbYEwynUSTb3eIVcbr1MmuPVgEvRkmzb6MPafsMM9HUh-ltkrrz4-PKLCEVBiDQ-p3Z33zumqTjh1MHV5yFH6HlZNPYQWABAfKRg05FfJb2REPCSphOj9fgeaIN3kVpv59mWcwPrSMfeXI8EVJvyMENocJ653ikSKbZhetQeWx7htJheX2qAWvc4wMBV1g3VhSO0oAF_T3fm8L_O9_ubEpkrGYkiIH12xE-jJTDgKiOxsS0z1w61y8utzsZoqOVX7oTjmz4ayjhm30tLvQqMfiNWGgH1cymw",
+        "width": 3024
+      },
+      {
+        "height": 1017,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105247931114875943423\">Uman</a>"
+        ],
+        "photo_reference": "ATCDNfXaaAJulffs4bXV7V3tfFxP5kq8_d64BizQZCIlrfepuMZKznOZT2U-zNt4Bbq-lhgUQYrp1OqJ-G8yv8e-BRyAIOwJPDbdlYEEngq5jaJih2APwrC1mpDdTG46HzYSlBmRmVn0RTODIs1sgLeYZ_M_pyNJIZX_aq0qZvsDzPFuQKd6xI5tTD3VgLlC08m6VBAJwq6AA6odnYYh4Xoctp13huWFGEeKbSasnZChrKSH1374KbLuqN1EwgRb4goA3-8S19IbzmUufjpePUEzv2E1kA8r3ZIW1HJhQh5QIxkcrEK6h2DCV7W1iptX-RACet-pUrLh3PKy_4dohq2hFmal_UKPvQ_0bzUs4L8czCN6GBfLw9pr_QZTOY5emWLIfqG9YPluRE0ZlrgZPM8Soc-736Uk9YU9XH9Fsj6SPHzszw",
+        "width": 1290
+      },
+      {
+        "height": 1008,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105247931114875943423\">Uman</a>"
+        ],
+        "photo_reference": "ATCDNfUjb5k9X8VoMG84RZx0jsGAao3AAgsHJHv1NgLjXvnf-XUlcqmA22sFLhRo-I79W2ZaDcW3fXxQPy-nMBg4l4q81x_LFOvIu2yyEr4vJoMgMHy-4MT8krlsoqd-Qt3WSW9PPWETa8g8cxa9QXBWt7U111oZEEHP-fhkoTz_941OK6-_I5LK0m8szTmW44PaCd_ciuqJvS6BdgR1YikNIB5eu4oG0qYpDKzVLd4XM7tdFEwdG8n-3wJ2GFkSs-CYY0rK78sK-shWAh2M2cq8TK51jyVj73YHGyj_NIgg-1_TCF6G9uuWmMTAcpVUpU_0aEKuLE3ffq8CQZnI_vFB1a1yqXKkStRr7RFGKKWlI6d-qDszjOgHlOhQua1E3eCq_T1akhWzKZkKZPzZWBwuR78fSjoO1lYugYQljIDZt5yceFs",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJa_nUZ2I3yUwRqdQ7gv_o2Ig",
+    "plus_code": {
+      "compound_code": "CX65+MG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX65+MG"
+    },
+    "rating": 4.3,
+    "reference": "ChIJa_nUZ2I3yUwRqdQ7gv_o2Ig",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "In the mood for cheese spinach lamb curry, they don’t have it in the menu, only the vegetarian option, the chef made an exception and made one for us. The garlic Nan was super yummy. Enjoy the food here.",
+        "time": 1766363983,
+        "translated": false
+      },
+      {
+        "author_name": "Tandogan Isliel",
+        "author_url": "https://www.google.com/maps/contrib/108775439815511184993/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWA5FSmrAT2kc54_17eZafVsQp9eLrhogEdiHeSkMI0iMZR6NBy=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "The food at Punjab Canteen is fantastic! We ordered the non-veg thali, which came with a generous piece of freshly made naan bread—soft, warm, and perfect for scooping up the flavorful curries. The gulab jamun was sweet and melt-in-your-mouth delicious, and the cardamom tea was the perfect aromatic finish to the meal. Every dish was fresh, well-spiced, and full of authentic Punjabi flavors.\n\nBeyond the food, the service was outstanding—our server was friendly, patient, and knowledgeable, answering all our questions with a smile. The restaurant itself is spacious and clean, with enough room to comfortably seat large groups or families.\n\nWith fair prices and such quality, I’ll definitely be back! Highly recommend for anyone craving hearty, delicious Punjabi cuisine. A must-try!",
+        "time": 1745107865,
+        "translated": false
+      },
+      {
+        "author_name": "Rakshya Adhikari",
+        "author_url": "https://www.google.com/maps/contrib/112434358745011156998/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhgyWrwsK5fzh40aAEt-5y9pctW7TaKdPdfq_OiHCisiP84tsS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Hi Everyone!\nWe just had dinner at this location and the food is amazing. The girl with long hair that served us tonight ( I forgot to ask her name) was an amazing host and very sweet. I had noodle burger and the lettuce was crisp and amazingly fresh. We are definitely coming back.",
+        "time": 1769738772,
+        "translated": false
+      },
+      {
+        "author_name": "Kirtpal Wahla",
+        "author_url": "https://www.google.com/maps/contrib/117935702869872846088/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZuoaq13mvSGpr_UUyIWm6n9lxpzGD2RJt8jpe2WGcMNgqTNE=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "I bought pizza and noodles from Punjab Canteen today, they were so useless, I can't say anything better than this, the rickshaw vendor in Punjab makes them. If any of my brothers and sisters want to buy pizza and noodles, don't waste your money with them, go and buy from someone else.",
+        "time": 1767921343,
+        "translated": false
+      },
+      {
+        "author_name": "JIND AALA JAAT",
+        "author_url": "https://www.google.com/maps/contrib/108099084398522514524/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_HejIAyvoDsHgRb9hECO_ZR4YTdWXw4R0mfDJANV0lgf9xIC9=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "I ordered chaat papri from this restaurant, but unfortunately the food was not properly prepared and did not taste good. To make things worse, when I called to ask about it, the staff communication was extremely poor.\nInstead of politely addressing my concern, the person on the call spoke in a rude tone, asking \"what is wrong, what is not tasty?\" This is very unprofessional. Both the food quality and customer service need serious improvement.",
+        "time": 1759083742,
+        "translated": false
+      }
+    ],
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "meal_delivery",
+      "meal_takeaway",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=9860887568226964649",
+    "user_ratings_total": 250,
+    "utc_offset": -300,
+    "vicinity": "120 Rue Joseph-Carrier unit 104, Vaudreuil-Dorion",
+    "website": "https://www.punjabcanteen.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

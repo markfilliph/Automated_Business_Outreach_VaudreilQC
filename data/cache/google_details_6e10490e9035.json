@@ -1,0 +1,408 @@
+{
+  "query": "VIP Dental Clinic, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339417.358476,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1",
+        "short_name": "1",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "Parking lot",
+        "short_name": "Parking lot",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "392",
+        "short_name": "392",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X2",
+        "short_name": "J7V 4X2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">Parking lot</span>, <span class=\"street-address\">392 Grand Boulevard #1</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 2:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "Parking lot, 392 Grand Boulevard #1, L'Île-Perrot, QC J7V 4X2, Canada",
+    "formatted_phone_number": "(514) 453-2385",
+    "geometry": {
+      "location": {
+        "lat": 45.3906808,
+        "lng": -73.9628115
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3919243802915,
+          "lng": -73.96139691970849
+        },
+        "southwest": {
+          "lat": 45.3892264197085,
+          "lng": -73.96409488029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-2385",
+    "name": "VIP Dental Clinic",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 2:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3630,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029559119919847160\">Clinique Dentaire VIP</a>"
+        ],
+        "photo_reference": "ATCDNfVTItwK5FOIGIl7goFKbasrobDkuAKbTyqPV7scQLhKNJibrQiBzPEjqgNQI8uvZhte-uffldtpCapDWcrtewrZHV6bYcPsY7Qn45riWJ_fKHZecFZUMRFfbvrcCCs-kHAJ9h0SfyItmMwv0cC22I9rRkit9K-mKEQBB_kXRnyRTSay9IaU5PZ0NxPCl4y2JVEXFIJk3BKhoEOGRb9fWEYCAomq19XONjBXBcRRKVjKEmAsLzxEzpbyNSa-ijc-FA8oYqr-rzzE3wj1Dfy5dJ6wis2UsgjEupG2MzEBz7HnoQ",
+        "width": 2904
+      },
+      {
+        "height": 382,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029559119919847160\">Clinique Dentaire VIP</a>"
+        ],
+        "photo_reference": "ATCDNfXv9bI5RGR6g4rKJzybxWpDWMAyQwb1G7C1xm_GfJDKAYaVrX58zZclZBjeozNn7MsejxGTkoug9mw9k6ci8EB7YPp8xQ1Ume9OL7LA8heAwwr90H3o7VuFmgpxV3iylSWUO0bknIH3l1ng6H-tegZcR2mKwOd92UrO28lqonQhF5QmCnD0_DiTnO5Ce6XUsaGcLoWm2RBiH6ujRQLhdElJ0HbvDdVVEF14-whsdwEhkNf2hgh7Y8XhYYAKzb-014XJaqZykN1LGrQiM1Q4woNm6KOqSjKaov2aDfXQFIyJ2Q",
+        "width": 800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029559119919847160\">Clinique Dentaire VIP</a>"
+        ],
+        "photo_reference": "ATCDNfUfHdE_xo5c0TJkf7JZaTuFsHnZYEQeqwgojVlYO6U0UhGdFdS7UMoigpnRbMQVNTy9RaJwMU6Bf0BhSVvp67s93vAzBJo1JQf41K2YDARTC5SHB0LbLRrPdOI4E1tyzO99AAGR8UlJmmZkScAvPoR2iliLAo-oG4Cd6nY6bCFm8IOtLaiMWzuHhZI5JJ2WN1VyGp6OLJ3i5TggaQwHvQhmLhPIHeMofeiDXnuUSArFWPpLO_Ns91P_cQM086rqPKItyTk7w75d4GJIDn43PSAXufHcgTQuqX3Lab7SHynVoA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029559119919847160\">Clinique Dentaire VIP</a>"
+        ],
+        "photo_reference": "ATCDNfWR2dztBjnjnO8LRr7eDK7CoNW70BQ9UXSbS9gDz46ips2R3l4MXIdHFAx3q6yU90gW6JvJbHuk1O3I-XMJJOcMKge2b4jmk5Yhae9pa3UqKDas2QYu1ftEKmny7Rv6I2Z2F8D-WjN5qvU-wyTTF0aMl9W-Hdy8xIytPPGn3bp8ZlIThrpu082iKHO_G86tTR5nmeKpMdjH8cUjTVVeYSvdjPAZkUxms_ZhlPCjIeoHHbchlianACKZKEwFr2FfF4rTPQ0EKdU_ar40PO61ypAth8meJJaUYcZgglRwpKAx3Q",
+        "width": 3024
+      },
+      {
+        "height": 1828,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029559119919847160\">Clinique Dentaire VIP</a>"
+        ],
+        "photo_reference": "ATCDNfUD0HANhrO9tDdnKeZ7SYD4QF3we0w_IDP_crX2KCLncdTYdbfrpV8abI6ft7VgqJeDD8O6XNNF6f-2VXSFMMNHEVxQUWndaQnaJC0XhnVVuxrWXxj2_poktgJpDQ48PVbQN6yFelXsPjFOpj7dZ2AkrHQCJJ9x9ZapeOGI3Ooeb-seXItZyAxj_e55qpW3NbFgT33Ziab9SPz0p-fgJZyFML9aS6P4WIcdWwlVXIoaM0JfbrAHJ6zGTqBbt7XaKDoYtUYK910oNYYvj_ZIv4BKUyKNrjNj6bUUS0gEQz9Uhw",
+        "width": 4800
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029559119919847160\">Clinique Dentaire VIP</a>"
+        ],
+        "photo_reference": "ATCDNfWNc9M1Sp4_x68RkiWzGosUBq8lxkgu7eu0o5sbLVW_XO2WIXxKCinOt5gU4xhYhuNJyQQP02BraJli7dyevYANJovBEudzW5k0G1lYm3l591Jn_Mncp56kR8jKLAaJQGnr0VE5hyvGyvi1VwcRbjbkw2f83vmyl5YDTObsNzDa64h1MPmoktjVc_7zPQgACvRn0tFdNP5h4HZNENtJ0y0E0_CY5w9roBQRGWUhlktjY_ygHWgIFDjzFFdzwlWvbbSI2DstSyYVaiuzgmMFNH8LHfNkcx5momgp94U4H1AI1w",
+        "width": 1512
+      },
+      {
+        "height": 2959,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029559119919847160\">Clinique Dentaire VIP</a>"
+        ],
+        "photo_reference": "ATCDNfXGw38IQP1v437WD4rnVDmZe2Ym0EUY_9SAVEygMmxMm_iH5ew_9UQHPwXp45GCA9jwWUJQMcg8yxGPCAqF9-qbQlBJotPCn6V89ycG6yrTXsFmmd04QGy_BB9GeV3do2tvrtMcUzWDaVsmtZLj_qGu_fOo_dSiGXtV9v1nqdpDFzobytwcMzS6zdpyQ6LD41pPiQTN67N3wiZnvJvfqQulcjxHwZhuZxN-OwE6cozAiUNI66K6_mqsV6lMKgaLrTX6Ldj3E-zIRf5Pghd7W32NOWIyPWDjDIiw9qZno1jHjQ",
+        "width": 2817
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029559119919847160\">Clinique Dentaire VIP</a>"
+        ],
+        "photo_reference": "ATCDNfVRNMBpHx_ln4qq6fdw4pYVgFIzSFZExQ-5ydPxeAse-n5mKUedlkWP61f3UvNzjdfM76E263S-8w0zdg-DdlFvQS0bUNlB-APA3RNx2wehrp7_DAKqdnIFR40vxOvY3OVCcOGGIuZHgFRos7u5XrpDx4Gzvs3ipztvjiImZSXxSZ2RjzU2Roxe3HddSXw-gMhEvW4yey2zf15PFxg4RoM1jZY9MXakjnYm-07F0q1zYjPgXizvJd5UOZj307cHeelQStwe_nFTj8ycAMc7LL-c-wfdzaRT2VTiGPCdN26RFA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112714063417785554392\">MICHAEL VO</a>"
+        ],
+        "photo_reference": "ATCDNfXwMqWOxyqn0tCaWVCkgLcVmvTQ4giGHbTH0jsi0knpsFjD63oJfgkXtUddG012xXhyfYGwS_XIIU8YlH_aPORjfGB2prHoCSCrV9ZPq1KO1iDhEjktolaM2Yi2p2uiFAvtVEsUsTUpTkZN48nPQxDVE5SUPsxEwByz8H022bdScMQDkuNfJ3qZOTQoXnA9TIQ5mFZIwJiXe12pzVxu27NvrMj6eJnm7qdrUWoDi3fimD1NgFHoaMi0BTyqQ4_sQwzxKsQso2tcLyMxPlSABlXPybcxChpftOSvDDHCNaWIywi129ZJ0IYST2PoD5TEi1ZXQd5n3cVszm8OxAVB8rohTN63-hTCWR-Q6tdgRMr2eoFg73l399Y9gHIyFfKpzT4URXTqbTLF5x-7p4iJSzgoAektphimAAVJTr_1So6QxOW6",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117029559119919847160\">Clinique Dentaire VIP</a>"
+        ],
+        "photo_reference": "ATCDNfX4G0rkTd96ovpPxmFAUkYuWH0_rvG8nuGiUzwFYaRqlCdXdgGKfIUZz7qmM3tE9clSPH72swq7X2RLedLcBVqYsJ11063hnBIzPrr0t3VpaJWlZUfcxu7WctkIoqK6A6STlU29FqsYc_BeugkCcp9F3qFoldGeGDfSX7cdtChnSDz-kiuByxX9gj7VLk3AMl7nTETpo-MGlP3gSe7sTgK6da_g0oDyvFoYSnUQ9fQXd0LJbSCBEbR-0zXmU4kRW7niZ7JeXkKzLv-YRQRkS_dIxLAKrKhqKlXnjFNN0HgEbw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJRYU0Q204yUwR3fGzA3RSACo",
+    "plus_code": {
+      "compound_code": "92RP+7V L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RP+7V"
+    },
+    "rating": 4.8,
+    "reference": "ChIJRYU0Q204yUwR3fGzA3RSACo",
+    "reviews": [
+      {
+        "author_name": "Олександр Мадяр",
+        "author_url": "https://www.google.com/maps/contrib/103710003969151235785/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEnK1rD-8tjS7tbaYVT4EpVSx9pyM6aCqwTc3ATAn_iMkCxw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Amazing service! Everything is perfect to the smallest details. I came by the advice of my wife for dental hygiene, and to look at in general, because I knew that there were old fillings and caries. Dr Christine Tran gave me an explanation of the situation in great details, made a treatment plan and found a spot for me at the same day. In one visit, I got treated 4 teeth, quickly and painlessly. I can definitely recommend the clinic to others, everything is at the highest level.",
+        "time": 1752110399,
+        "translated": false
+      },
+      {
+        "author_name": "Hillary Diaz",
+        "author_url": "https://www.google.com/maps/contrib/117889632661348188753/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlRbIikZaNxSvsvV3y9j_KJO1yzflqMPzeSqH4XXl4oRgUPd4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "I used to be nervous about going to the dentist, but that changed completely after seeing Dre. Christine Tran. She’s incredibly gentle, never rough or rushed and she genuinely takes the time to make sure you’re comfortable and informed throughout the whole process. You can tell she really cares about her patients and loves what she does. The atmosphere at the clinic is warm and professional, and the staff are just as kind. If you’re looking for a dentist who’s calm, careful, and compassionate, Dre Tran is the one to see!",
+        "time": 1752012021,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Han",
+        "author_url": "https://www.google.com/maps/contrib/100262742104367086560/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgMYXxLgp-fIu6DEmULw4xNNkZ_w3cVRQeKp1-lmTgc3pP7vHy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Clinique Dentaire VIP in L’Île‑Perrot offers truly excellent care. The dentists are professional, patient, and take the time to explain each procedure clearly, without rushing or pushing unnecessary treatments. The hygienists are gentle and attentive, making even nervous patients feel at ease. The clinic is clean, modern, and equipped with advanced technology like digital imaging and Invisalign. The staff are kind, well-organized, and great with both adults and children. It’s a place where you feel genuinely cared for. Highly recommended for anyone seeking honest, high-quality dental care.",
+        "time": 1751935695,
+        "translated": false
+      },
+      {
+        "author_name": "Danielle J",
+        "author_url": "https://www.google.com/maps/contrib/108966960534356982518/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK_s15ofGo6YRt4JWRdtNaKB4stBTcFFhthwp_dJpVUOHGjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "The dentists at VIP are the best: I have been a client for 3 years never had something go wrong with any of the procedures they performed which I can not say the same for other dentist in ile-perrot.  When dr.Vo performs a simple thooth extraction he gives you his personel cel number in case you should experiemce abnormal pain, again not like the other dentist nearby where there is only an answering machine telling you go to the hospital. My children equally happy with all the work done like wisdom thooth extraction.",
+        "time": 1752281532,
+        "translated": false
+      },
+      {
+        "author_name": "jessica pasquale",
+        "author_url": "https://www.google.com/maps/contrib/116439203259793696064/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINEVWkpHukRijKPYXc9XjBRRtBFsT8DGTDcmn-J8N7LLfVXA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I have so many positive things to say about this clinic, I don’t know where to start. The entire staff here is so caring and helpful. The dental hygienists always give me the BEST advice and care so much about their patients comfort. The receptionists are always so helpful and soft-spoken,  whether it be on the phone or in person, they are always a pleasure to communicate with. The dentists are real troopers, especially Dr. Vo who removed my top wisdom teeth. Had a really terrible extraction with another dentist at another clinic for my bottom ones, so I went in completely anxious to get my top ones removed. Dr Vo did a stellar job. He and his hygienist dealt with my anxiety with great patience and care, got my teeth out in record time and my recovery was painless and lasted just a few days!\n\nAs well, this is the only clinic that does not push useless, pricey treatments. They never judge a patients situation, they always approach any situation with understanding and the utmost care for the wellbeing of their patients.\n\nThis is the only clinic I have been to that is worth 5 stars. If I ever leave Ile-Perrot, I will most definitely be doing the travel to remain at this clinic for as long as possible.",
+        "time": 1723068874,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=3026509607824781789",
+    "user_ratings_total": 182,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 392 Grand Boulevard #1, L'Île-Perrot",
+    "website": "http://www.cliniquedentairevip.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

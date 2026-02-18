@@ -1,0 +1,447 @@
+{
+  "query": "La Pizzeria, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771371505.2992055,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "120",
+        "short_name": "120",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J2",
+        "short_name": "J7V 4J2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">120 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "120 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 4J2, Canada",
+    "formatted_phone_number": "(450) 424-0070",
+    "geometry": {
+      "location": {
+        "lat": 45.4115935,
+        "lng": -74.041138
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4129598302915,
+          "lng": -74.0397481197085
+        },
+        "southwest": {
+          "lat": 45.4102618697085,
+          "lng": -74.04244608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-424-0070",
+    "name": "La Pizzeria",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2556,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550006534543321725\">La Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfW5ANqziYqDVGDg59r1cyK0fLuvZ96kb991goz3qEuAW6rtQRfKv_mnC3bg-32OlLJaNUKA6eXBcFu3LLZ4ggwOKH1LXai0f0wa2rDDJL2tHPZYfIuMolrz2HY7GElSvuY5sAjgJ__kGLZJZtOiIdhQFbg_xCXupuR_jEyMn0Wzwdh5Ds6JMbWQuR1rO9921IAImGZFQPcJf8EWYr4gYa-fBSrm8k8mA6tdkulRsyGA6ZiqzWIRXYZoE-Y0eKWfdou33qUiRXp5ov-Db-4JlF7BjLg6dVro0MPO6dQhBjUh-g",
+        "width": 1179
+      },
+      {
+        "height": 1824,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110220038433291245285\">Michael Fernandes</a>"
+        ],
+        "photo_reference": "ATCDNfUTq4AEZBfQ02vH9vQH1EYE9OxOko69Za_bbRTbNEp-4slS9iGhcoOeowK4Us-WgslNs0i5S9H5gKYzrT6MMyUPQQzl9fvmIfHY3U94iQDcn7Q60cFIEmo5ySKs8D2uiumkUopaMTBlQQobt6nMLIJyu5oBAMt2iBImBPkarALHV8YL6Y9zdDEX3IxFWuDE4SBCIyhVvcL3JZ6tV-4q9PA-sdBLt93S1XjBEfmfdx-R6AU5WC5NkDShRHkvPKZpBYQLgOoGFr-nIvH12OfLjmKGH-xfzOjO1z6SBKxVxvL9Zy-Ro-bLbCtJNJMUYBiBhQMZrblKj-uwZLT8co_0Co5J8LDiKxO69HzWsUB2JV02JgLMcY7rrHCSuBy6Ygwue33n_aIBHINDyBnvstBZbBu6G83AlI-tWuFjkLBUxFwVdbyvvbuGwHX6WodTdGFz",
+        "width": 1026
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550006534543321725\">La Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfVM9hvLbCe6qqJUURKZ2-sarW6n_6UESTVsJF0RmrB-AVScZ6c9KPlSvuUSchOS38FT_IiuJiMwfd7lQJOvS9oUjHlprP0jOvUUJiydsLSrmqQOmCo2zs5xv5s8nrEz22QhbTCCYfdDKWJ07Ma6uzKLkurliosBO7I2V2UDhtrNMLFUtG8ON_VjebtuZ8IPAzlW_qCAqJ_1GFonplPlhGZJsvYCi4jzGoa3g7lsHbUKS6d2oFVcRS-STT0gK7V4kttzc7KVYlOj_s_qKJixeu-A3ikF7P4HZx9fDTowV9-Mug",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117804257107918188708\">anshika dang</a>"
+        ],
+        "photo_reference": "ATCDNfWH-Ahbvwb79WqFakZgCFgrbrQl6k_dEV53QYyK7rV8pEzXtQ_tZ7WXZ1U0mJVoBpoMlwVT7yaHx14GUU3dL7Xn1Xyvw2QVjzaSMEfxsSEfSMe-2dNo5EDjqIquHCr_WU2TLpskci4akYaqskIKMK40eAPbnVAgvppbAtJG4Z_fKv5TM0btqxHth3GlOsQMSCYDbBeXaje-zkBDVl41YTi21pYH277jJNPTxN-4wMoTTqCBi8B5j6XQzj4roR_83_vimcuYgDGsSdiJLaES8y6XaBzGbrobwOf-hlZKtGDDXlPiJLDTJokBTicCUafPYtgJbexaG9mFftTo2rATl9ET9DbGI8WSg1fu8IIAfWfbpJ1B6Ci7v2mtz9ge8tQsmVqKTlNEZHpP8NoFv4fXbdbNAoD97UMm0sfdFRYXZMgFCE0XBpvK6tK_dMoPzp3m",
+        "width": 3600
+      },
+      {
+        "height": 2556,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550006534543321725\">La Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfXdd5MPDgukcIDM2VM-PjspdFQWOZ-6e6mmnWOpYzOu69cdA9QFvRz-dKuww8BqH8eotb0yaAVdxdTVOf7qcWb2tqklAWReidhs8IAa8-A1m5LJKck70w4trURyVRTyQEkMGIzHGdWF0-IZXb5sXEIDt2BFG0ghhm6W9QEnpxVQEGygqjfl-8VqNY03k7QYr9jOvuzxGTZLjOT6JEcnVpDwV991pMRutY_cRJ0O8ADNEiF9EEKje0WTDnb2F7r9S4Gbk9blcbck5mGsAzUhaQ7UslbX1Cn5rd3rB9_orzC0EQ",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550006534543321725\">La Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfWTQBlwoUJwSN8uzE-KnXfhOVJ9sULTTsPnCwQ1oG16Ub5tX_jLfoM7sdZfKU1mJaHhcYnbI9a_2xOfYdgsHTjDTCc6I2U9-hoKUeF2tHZ4RwadtCTXswg4DrnuXvKgM2HC_NtnfgscmsumknxayjuAo8P45c1TRV7bclLDmH4iC6nCpr8c-xNdDMrywoK6KeinnwD06qCDVA9Q1hJbc4UtJeCYiRs9kHzw4VQJ2UviU6G24SjGyfNMEuMrBkOkneSn2kwU-0d2Gd95TalBFKHujTCepZeI113bwggMu--V1w",
+        "width": 1179
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550006534543321725\">La Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfWOu0r-bQUGnlTeje6gT6V6AOnFsgcqKPb3mxYLbDO2jTwFx5tOIZdhs3mzeiFDv73t7kEumzudRiDd0nMIjiNXRLPOiElvEtTBSxfRsoaY7YEdbBW4Z0VDbrE9p7jnOuQcOeBkQJe5DFDIqIoWCbYxZC_TQwi62J1EBSX9k0pRUmRZBtivAKfd0rrS4m3WpAjao37AgXD_d-8mrKeO0xvip2Ef-_vZ4tcGFj_pGf_ebzTNkEggjrGylugHZ1LxALUGSKP_diR9n09GWGDfGa0k5Lraux1TyyXI46Ts6C5nng",
+        "width": 2214
+      },
+      {
+        "height": 2556,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550006534543321725\">La Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfUHZqPhY06Hsdddq7AIoH6ng0hfDFGA6IAw8bj2yx1BDLbs_RjitZQ47eHk3Izbh49iYS7Yp7mZvg9uZxfpXZOWeIFfuCdjaFLzxFa7lB4NkSqI01QfYy_rjX0PlRMg0W7j0dqjxB7ata7enoeNnoHqBKBZCFozOs6q4b7IlVfMLVdj2GiaesrPKbX8E62M_Ftv83fZA2vvtcuZzX4_-LleL-fOFiUNjKOIz0bdWBJ7-aJ2oLbg2-mVCSbrta9VYWPiiXCh9BVWuCvu3wzFfnhTOzU-t_cJn-VpiUXrFaAzwg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550006534543321725\">La Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfUU0eWW9KdsKDiY7mi8sDVxW9LTNloKDjwUXdjQqr4qtCQmuHp2Dvgn3demdd1494_iCOjY6XylWklWEbw8IBpqdwyJt1kypJvlxAjN9ic5hxHw_oBXLeU2ZFbc9Iwwfaq06Ks68I_9h5JM_9VD3JpFCsO6sU2SLNH7aTkoUXpTNzDOgxxtzkc7anxXxN9GDv_kpN8XO87SIFRvrZ4zaSMQkFJmu1VUTKsRTOH5yZhfE0rP_auCT6R1fL8-fv9ZoTQKQZUUygAeZ50sf2aOwv7lMtULjPca2iwlT69vxYq4Lw",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550006534543321725\">La Pizzeria</a>"
+        ],
+        "photo_reference": "ATCDNfULf_t7RVOCUqOj4I6CsHvMnUilOpurujFSx_HtJmDtAAEyI0dzZjKc51QMJ4qZS8rXlZddgPR8hAXFvGOLlVfjVHkn-8SYkkzSahybeMum4ywMyb7Mr-SmiDhVC95_AijNq7HOkq3eHQzWF5rVm6q1Vund0_dvKv4Iui7yeYyT2ppue3FhYQK5n0KXfWVm_Fhs5dPsSVPU4WP1G7pPrpXqVLALS5xdrWHBA2OYcePgqqjpNVySDuo5IrXepjEcyMDQrVh86dzlkQrDJhL5CIpVAy_QgWNz-mLQR6V7gEYkKw",
+        "width": 1179
+      }
+    ],
+    "place_id": "ChIJTf_D4BY3yUwRwYWH_R476sY",
+    "plus_code": {
+      "compound_code": "CX65+JG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX65+JG"
+    },
+    "rating": 4.3,
+    "reference": "ChIJTf_D4BY3yUwRwYWH_R476sY",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Michael Fernandes",
+        "author_url": "https://www.google.com/maps/contrib/110220038433291245285/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwMnanIUWt8RrjMXWSLbXMKE7GVRMXY2aOrv5_zwGTEjZnZ4cp=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Ordered Pizza from here without really hearing much about it, and it may have been the best decision I made.\n\nThe Tandoori Pizza is definitely worth a try, it was like having Indian food in Pizza form. I highly recommend it if you're looking for a different take on Pizza!!",
+        "time": 1745021738,
+        "translated": false
+      },
+      {
+        "author_name": "Ryan Smith",
+        "author_url": "https://www.google.com/maps/contrib/109940870807321608936/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZEIl_AG5kYeszDOrKCt7C9bU0LbdbTotjfC2Hxrt-2YuTdXc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "We had the chicken parmesan pizza, the tandoori chicken pizza and the fries.\nWe really enjoyed the chicken parmesan pizza.\nThe tandoori chicken pizza was good, but less our taste.\nThe fries were really good, they appeared to be Cosco fries that they added seasoning to and fried a second time.\n\nThe staff seemed very friendly when we interacted with them.",
+        "time": 1745504135,
+        "translated": false
+      },
+      {
+        "author_name": "anshika dang",
+        "author_url": "https://www.google.com/maps/contrib/117804257107918188708/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFTYLfDd_DsYcuu0843LtsnH5xYdM-_Z2vHKUZvjvzpHheTw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Absolutely amazing pizza, perfect crust and generous toppings. Will be back for more",
+        "time": 1753995147,
+        "translated": false
+      },
+      {
+        "author_name": "rahul makkad",
+        "author_url": "https://www.google.com/maps/contrib/113965576352075045072/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcuqGBXGngAkrfzCtSMoB9Up-HygFOle-ppUpDVQT-CeAyBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I tried there tandoori paneer pizza the taste was excellent but price wise expensive.",
+        "time": 1761221316,
+        "translated": false
+      },
+      {
+        "author_name": "Carribean Boy",
+        "author_url": "https://www.google.com/maps/contrib/103228937058969785061/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_msBriCGFSNUaFVBkZomo269h-0SNS0LI_ts3iuTXmro7fQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Very good pizza , they take your instructions well",
+        "time": 1771173175,
+        "translated": false
+      }
+    ],
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=14333333768348599745",
+    "user_ratings_total": 6,
+    "utc_offset": -300,
+    "vicinity": "120 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

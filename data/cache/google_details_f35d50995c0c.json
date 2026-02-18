@@ -1,0 +1,404 @@
+{
+  "query": "Groupe robert, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340262.7688658,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "500",
+        "short_name": "500",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "401",
+        "short_name": "401",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Marie Curie",
+        "short_name": "Rue Marie Curie",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0B9",
+        "short_name": "J7V 0B9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">401 Rue Marie Curie #500</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0B9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 11:00 PM",
+        "Tuesday: 6:00 AM – 11:00 PM",
+        "Wednesday: 6:00 AM – 11:00 PM",
+        "Thursday: 6:00 AM – 11:00 PM",
+        "Friday: 6:00 AM – 11:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 6:00 PM"
+      ]
+    },
+    "formatted_address": "401 Rue Marie Curie #500, Vaudreuil-Dorion, QC J7V 0B9, Canada",
+    "formatted_phone_number": "(514) 521-1416 ext. 5377",
+    "geometry": {
+      "location": {
+        "lat": 45.4092204,
+        "lng": -74.05634669999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4108901302915,
+          "lng": -74.0540257
+        },
+        "southwest": {
+          "lat": 45.4081921697085,
+          "lng": -74.0571829
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-521-1416 ext. 5377",
+    "name": "Groupe robert",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 11:00 PM",
+        "Tuesday: 6:00 AM – 11:00 PM",
+        "Wednesday: 6:00 AM – 11:00 PM",
+        "Thursday: 6:00 AM – 11:00 PM",
+        "Friday: 6:00 AM – 11:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100770725789106261128\">Manjit Singh</a>"
+        ],
+        "photo_reference": "ATCDNfVaE--AU6q8OOqqxuCvJb4k8Dwmte7FvC5ccb53yTrXh7J_qq_wFvXMizNmMRWD0-2T7tIpCxXIDMXKXfHqiIQypINNFMhMrpxe7bDnYfQHhCjq6n7pTn7jQ7_Jy645pbCAtxbE_YUGpWmrML7U9kniw6Zo5gYofUqS9AjhutyxR-0UBH5Mqtxm4P9OJ6O6K1PkVfeI14PJ3LU7muUN6lRj8woL5rvrD_gOZA79r9Wje0d2qgRrSj9DlHzVtUMHhbIohEaGNuNYFD_cTafRQs2NwNj1jgi0QFrL8uTpI-BGLfwX7LttgQMKxvT9ZfEEL9invzluMuwZP7MU76FUp8oJfb4vPiATa_dxGS4FgqhyTIlnVNx2msER07tTCWOGFc22K_D9X90zqa2hwLhTJIQwvdfxqYGPbvlbhSRtSpC5_PuOUwnSnZk0CI0HIwhY",
+        "width": 4624
+      },
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100770725789106261128\">Manjit Singh</a>"
+        ],
+        "photo_reference": "ATCDNfUnXfyFnzFGdU9PKKGgVAY0vVoZMpw8ACrJwuft0uS7zBfPKg48DbZ0PZ8pjpT2ayqDYGa9zyb3rMOds--hftu_ryeJUrMdDrY_rNKqSnnv2mVhiQyuMnm9lprSwoNiRZn5HCvXSRrUbMVOWXmEjKInta5q0-3br7YuZ-AITRF-eje-ZtICO4V9iV0aLVIYHQpqdE2_z-C_SCULmGiRpyI0pncIP89qklmoNV0AlkecFNFlJT8tHiD9sWS5tUjrR_rfbXiQH1iKfQMSnOem_qvdrkXVQJGFeNf4M-GRoJ6H1K0Z-mQZVfAfj69Ojo2XP8q4PAXypEg6ZiL-JxB__FtK2FCXzCfhPCj0NWEhvz7myUbx3NuWiz1gEWXWtWM79WLatMD6v39EoRsdn-Tf12_Fw3zbV3Bmgif74ofubfptWZeKgX34FAOo1JkRyIuu",
+        "width": 4624
+      },
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100770725789106261128\">Manjit Singh</a>"
+        ],
+        "photo_reference": "ATCDNfVWUoas9qWfFJu5M3m5AoBOpyTok7N2IuplElNGd6HmM0GyYDDjjpDpG6l-UcTzO7CfbhmNoOoXT34TDYPdlCH7BEHwa8ahjTiTupfisazqX91vqy1peJuwlRJeXboZjABYxtljB8cgqlDqs6u46CysnO5tDDOeXkwYgjdhfScZP1WWIh8gtD-vWvtaOknAODZOC4jzsBy0664W1YtLYOJevjgCQMyC1OExUD2AB8NfxxqcnxV31KtWbDSyl71XZ4AHv6m7z5HkzliaiEVc6PnnMntnLxUNstqcoiacmIqYEyke1lpz3zIANLLtyo50KgwYFisUUzhtYy0-kJqOerh2VD_rkucKJoKr5aKdHguvRQykXi8fqUX-GxUF_jRmdCVtUHjalA_u5kdCqrTc1vKlD4GIuEwUqLjugJewxcgmO6CTi73SgKB1rUltqKo-",
+        "width": 4624
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100770725789106261128\">Manjit Singh</a>"
+        ],
+        "photo_reference": "ATCDNfXPu5EvMfJ1hjhUGRtBxqwjuKPptdEJ6jRNA_3C5l4aA-se8kKLwdmcalrnsWr-PurODzK1lzCaCbFg4CTq3skS8VRkALjSxsZb3O20oNfE9tDru9-_vIDaITZzhq9VLs4aZ2AWjb8HeZfgq8bYwMQaLmp1sZ3eYiBvb2Htr_6YO3gDzXSmn0_fU7L1CwT18y_PrLvHXuMAPIbvXzyuNHx1h2Uy9g6oT-oM5Xe663TLALkWQxctDFCiCx7yVgDOl96Y4HSinHhRnET40L5aBj4kIwUPgWOWzAHKRMdVyHL4w7DPkez_QZz0fxE4uGagm9HttaSSNji3VsEyMWoQ-D8ai91sy99b8JKQXU2cE7xaB9QL3HqJqKSUx5KFLdr5jocRd26cNwDXaK6T-AOlcenvsljIkwGigNBa2GSbUzZnJh_whqasYOs0pQETMK5d",
+        "width": 2084
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100770725789106261128\">Manjit Singh</a>"
+        ],
+        "photo_reference": "ATCDNfWxpyh-LoE8Ry13zwws06V_jMWEJYJzoToQW-6q7LN7Gupx-DV6Az_UupkLOWu1bxgufVi4BWt-PR0Qo5q9ahJXz7zXQRDICFb6-0OhYBiDbirLOch7O4tGZyU1yGobm4rByjluFMaXT_O1B28Rlm7ALdfIYxL0rMhAd3M_POt_iqvvNmoT5aa6TVD6RRGwGGGH4jpS5v42_rcJUaqnaDCkjVsAq1uA15XfeosUCmf1FXOLvymGjYgxRr0HVDGKTV1n5T_2i8jcw0pILIXcp8XjwrTLGHrYA0er9KQU4eLnNxdw49WlBt_mnLA43qP6mvNFI2p7dmRaUggjLq6YfFePuWg78n6P1bSKQfUYtBw29BU7xoEg3PqbvBLubPGIqz5EI7oge2YTGkxVA3AK0hM_vQacFZ2o1Sy_yRxh5jSrSNgHUXUPUgl8xMqbimZz",
+        "width": 2084
+      }
+    ],
+    "place_id": "ChIJcf6Jrh43yUwRIGPY3yr5MfQ",
+    "plus_code": {
+      "compound_code": "CW5V+MF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW5V+MF"
+    },
+    "rating": 4.5,
+    "reference": "ChIJcf6Jrh43yUwRIGPY3yr5MfQ",
+    "reviews": [
+      {
+        "author_name": "Manjit Singh",
+        "author_url": "https://www.google.com/maps/contrib/100770725789106261128/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUySL6JfS9c2MwnpQ6YPLs4NRtehqOQiinc5Adoexs0OcpnGcuH=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "I went to GR for the delivery the shipping department was fantastic the atmosphere was friendly comfortable and generous.\nParking area was also large and comfortable for night stays. Washroom were accessible and clean ready to use.whoever want to access the parking gate go to the screen find the company  name then buzz it.",
+        "time": 1752639087,
+        "translated": false
+      },
+      {
+        "author_name": "Gurjant Bhangu",
+        "author_url": "https://www.google.com/maps/contrib/110693512903792744120/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULEKjojRL9_ZjKtDwd4Rup2IvIYhcur6_dZPSkipJTEqqIJENjzA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Trucker’s info:\n\n- Overnight parking 🅿️ allowed.\n- Easy in and out.\n- Super Amazing staff\n- Offload in 40ish mins.\n- Hefty amount of space to backup.\n- Entrance from Rue Marie curie.",
+        "time": 1752667736,
+        "translated": false
+      },
+      {
+        "author_name": "pritpal singh",
+        "author_url": "https://www.google.com/maps/contrib/112672636675010375373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI54qFMeSDlvF9n6Gwk5H4nPkhd-E24ib5pDcM43LXsUwS0Mq4W=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Overnight parking available .\nThey have big parking lot",
+        "time": 1754996487,
+        "translated": false
+      },
+      {
+        "author_name": "Harjit Singh",
+        "author_url": "https://www.google.com/maps/contrib/109565593945593998878/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXAvDJrxWIxl8LEkXNdtb0cEnftExtXsiYsjWL5TJqj9cIzna7Qw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Over night parking available for  trucker  press the buzz security will open the gate",
+        "time": 1733120416,
+        "translated": false
+      },
+      {
+        "author_name": "Anurag Banga",
+        "author_url": "https://www.google.com/maps/contrib/107593261246164845046/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHi-MIUtQpxm8rbchoseabT3MJw3IOopQ6Or3eibcci1iEVadxqg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Wide docks. Overnight parking available. Fast service as well",
+        "time": 1749507593,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "storage"
+    ],
+    "url": "https://maps.google.com/?cid=17596119181652681504",
+    "user_ratings_total": 10,
+    "utc_offset": -300,
+    "vicinity": "401 Rue Marie Curie #500, Vaudreuil-Dorion",
+    "website": "https://www.robert.ca/fr"
+  }
+}

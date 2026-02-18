@@ -1,0 +1,439 @@
+{
+  "query": "Party City, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340178.209523,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "50",
+        "short_name": "50",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">50 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "50 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 424-2744",
+    "geometry": {
+      "location": {
+        "lat": 45.40622320000001,
+        "lng": -74.0394565
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4077906302915,
+          "lng": -74.0382139197085
+        },
+        "southwest": {
+          "lat": 45.4050926697085,
+          "lng": -74.0409118802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-2744",
+    "name": "Party City",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfVW7WsTVim5KpP-nxWTEAEYOjBjYRfrjrbC9Yu38y1htP-rTa3q8MQuL5fHWUCKrHWYSnyUJS0DxqaPf98XHw-GoO6xLc4km8NseMSYB4Rjeh0gisEJgfuNUQ4P6LFHbr0qQmMnv6queP69oqnWlyubLm8vjRUO64YnmHllQdfBOUryMPStqb-icmQAwq1CO6ZB2zGo41JCvGcWtMuwOMKwJAp1w6szfN73NDSpeWENLmfw80qC2PmNKiRHTCzplAkm7z2hW-0TEdA-k-nulEu98_uJDZps65q6mm6VbJTBew4Jd1kMsaETnoA05jWBQUZF2Kl_sxvO8j_Ho1OfQsV5Lvau9vNfndiVFrxeQA7tZGz3G5DjUoI9B0KOf0D99jIASwb7427Kyo_Q5fJjKwtai6OzWxzykBotgNQ95901Wwg",
+        "width": 4800
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105573616236604900146\">Justin Gervais</a>"
+        ],
+        "photo_reference": "ATCDNfUCYASh-_IkjRzfJLvn0tG70oFhWggQNnuZFy1Nw4cgaW6xgYRslcnIaHPkImcIFYuhr_XxAvZSoZm5F933YYu8ulDs6tRxO-zOXuQfqBNbdPj9_kzag9AWsjH5h2meh_yp1lVzVosQPzNfPBlFOGSDqkmwtvXLmSADfLGUOTufBOV6KHVhKi3518YnvE2p-dakFRb1bCQojvTn9KckFIry9UcfEP_pTC2AjvNLXs0NopTE6Ky10cVLytoZ-HxqjykKpBgyEmINrqQk_crrHupTEVhn7RGqcmR_0QX6D4T-r9_mzEvPC-0otIYEh4KQEOjuNhm8pSsJqanA8BFuDMcOqNUVD6oJ3uiSmRe8H4oKOcBN_3mMW3JvBFSe8yKq6ouJcdFNqMFo5Io59LqOckn2Ul7G6OHben4IibV6EP1vcQ",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109115943275176878076\">Mory Kia</a>"
+        ],
+        "photo_reference": "ATCDNfWTwK4Ll56K_yZoFsUq-mATbtDBPsktS8Qosx7fwynjlS4gosSQdpnhASvtOH_fLU-ceh8el0R1Tx1YEibropBkOPZA8QVgRyFQkpf_vTtgjEDnhFKEv_WRplcKhp3VaeQmejadXRYQoFOqqQ2wC0F6ocQou0Yo4VrObDuMFjL9gfWI-ORebUXks5YhySHNBvMumjY-Onrv8iB2YotUsw77yY5XawX3Jv5KhwwHA1d02-U1gTyYXVdg6fjEbuU0KQUblOagF0qq0Q32fo125iNjfOe551ja_Jk1KRqw_0fOb-7GyO6Wx4l4fpjcE3fxaC2hDX42IH9dg6DruN5XTAsNRQwBn_lBIdj2Zj58V1Lku25mEn00zENvU2ZrfulwzudubpSAiNh0dWtKiawxheo_2ntpl2YQSaT4sTWUUIhVXSJMXSg8uiMHHBotveKv",
+        "width": 1440
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109115943275176878076\">Mory Kia</a>"
+        ],
+        "photo_reference": "ATCDNfU7XkhtujbcX3ZNs9Wq7go79Tc4HOB12bh0BQ80N5JE8IGiO4hYwJ0bvY1JuendMJqp1MinYvsuf0AdngM22c8ulYfwO8LW_toGNzK16g1AsayLShD8k5w6TZTpjx-0himcRMNGReMGV93CRGBNJ6THTQ96x7oMRME-_yIodxBXTrxWVkyKTUfGDEeuYNmK8EuYOqYEG4aEAQ-jp07m5yub9iTYPbNHQShfLiHON0Az4AaQwYxfbBfBhOV5aZduuLYMpsPIVIRoXS32q-BBSzzLIaKpmWCQVhlzmbyxy__rrBg-g48Xi9QAnJ0LcARAxolJmswh_EOdOmBpNC58J5L5tav6u8IMwUV7UgkfXgA31pa0NSKfe-PDqzpxunMHcMADVltGG5LmMgzTY-Tot7Oi27Hj5bOw_kHlrzxmW_K8CZC-2-BlvMeQeV15Gw5c",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109115943275176878076\">Mory Kia</a>"
+        ],
+        "photo_reference": "ATCDNfWIne3f_WUXM6bT98PWPvryjt-2p7RAqiTAHnlGr7ONTCmDlEpQV2VEFqSI2e3PLf5RtMyTL_v0ZK2r7cNtBxlPktoY8ytAVX3HYllhJqv1scp7RIjZrxX9UBwz1yf05QWvMcPXmP5itY4ip4tc9Q0LhGNRwgpwHFhHjMYUkVcyoARYFNobD4_xKfS8_z4ojoX6qzpBFYSbi10WHARnsVnfXqLi6IKsYysedw94nknFi6cAknwQ9OzCiLtpNeV_X8HMySEnJnaMl7JYkoPFq-M5ez3t0SsTjLH_GfH5rANVTVjrfmVVpLtgYIKOMDMnOVM1cf8R5HdjdRX3FmVeBdOjy0zn1UdMT_24eSnJWHHRet8BaviWWGURLyO6CLF1pMmwNrBeKozbJ-15KI_KAlrNbizr_eV3IbBTetyKUOePHdfiM4bt9WJuU6OnlA",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109115943275176878076\">Mory Kia</a>"
+        ],
+        "photo_reference": "ATCDNfVUkBhL-sajfELHpTWRUJM5IyBDYaWx7IyUrlwlYNqUUTN9N7NEFui-rfBTt0M4kfS-jFZ7ez9KU8hgfRicj9EeBIKrr275mVIyvKxSMeRdNfq8erf3Cx6EXSgv6kdF1q01n3fS3PGlBKTorRUhz1vUMy26rfYeUUi_hetcGe_Ni5B4nJmFzuUEo7WePA-ScO1UUq6JdBLlGbPmbwF197ud0phmFl3ZTe2_c1RAZ-MSXR_XDt8jzwgsMrzuYUR6gkgSccoMJGrAM6koNy1Uq_8husKzgemHWvOW8ZsirFFGXNR849OCJngk1wALZo0ZwpNsxEuGpEU9D1f6J0okk55xUbFfW_ob1tu1W1BNva5tPg48MgS2roHS1_dh1BGGL-f3HSqg8xZimqx_F0KP8MIvhClpb3k30wKRZMAfvYt6Ip4nxbcJnWmGA9RD82ti",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109115943275176878076\">Mory Kia</a>"
+        ],
+        "photo_reference": "ATCDNfVKSQSXrGsfmkstVq8-DRgs4m1c1KGDDcreXEnWlP_XqD3zrCTOVlio4JPxIefSXSa8vsKco4nX_HcisbcFzeP65DSa3Uk1gGl5F2Q9sGWSbkBZIjb8Spc5TluJ0UWqyXRkSvZo87STbWlm8qfsfwrRgY4uITPIzIRdVKBZ12U2VQsRpmv5Qvl45nUzvfzvMLl_j74z2d6yp3uAPDYJcAOf-dUBhbkTsDwXEbQTeBtvwiWm8LcuECYalQlZlLsF3CaCrwDC8hjnEnKv8wzsCoQMIrG2YcG6Gisxr8TLtfCQ-2dlI3aQd-SRX_EDljlS0IPkpYspWvcRzZ7WjEh5JrGgChv2LRA986i0fLJgEEYh7JzwsJA8WlxlbTFVXAXhVEvIwKKQwSg7vWdjr1GBwlLu4DQmiHSEAzYI4qr5nQ9wzb2f2HSw_oedKuwxeAZO",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109115943275176878076\">Mory Kia</a>"
+        ],
+        "photo_reference": "ATCDNfVzOF5fGV6gnVegbYQi1Kvx_u4O24hjkHrG_keEoMR8nwO1tZZEu5ydyA2jSRhcSRNNhJtq-aWRExpWM-YL4Xoofda2feaz-zzerXtJuuaWwyDJSqZGjIC9OBBNd9JVDiwHTGU3IYFONiYEEb4C5QXH9a_JQ1fUA7zXtosmXMEVJGKQrv2H5E4CBqSwoPMJejXLGtsgxIRvzUVzQJQATSW2EcLSRU-rjNW-UFG_bGEEva4R1VJDVTkWI8r-s2zky1Ch0AFvbqi23_zTlcy0q_RDGfdI0TO3uHYBrFiZYGt5HUL-fd-dyBluplKJ98cvjxg_JqAcwn6hyOkGbXqaA8I_hYljQTajdnfxQhaGjlxW0mqA3Ce-Vbqt4xCSHruWvtyP5FS74YhidnUTRzgYKWE8Lo31WF5MINwlJ6QWMSUKf3xCwfu38fwderovqg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109115943275176878076\">Mory Kia</a>"
+        ],
+        "photo_reference": "ATCDNfXIuNM2rQeuBa4weRXHM344DZKV-o3Vr6VUOH9IsQC0-_bIvfzS2F3NLwr0t_nHnPnn8Y572NhnWoF4KBJYQOpQLMA9I8XJZ0crQWqoQSnH8BCIDQGW61hgKezl6wEkvMbc6vKlfbhJ7bR9qMBB8yieU7SxWu8xGaDuG5yWTBSch1vuO95MYomvkhG8bUHvQXmd5zzOJBjL2-VMfrvB9YUfhoe3hv2eSQ8KTMVlS-9TWLPdglcm0Q2tqPM5-pBt_NvDchvlTqTy9WjjWdPOawT3w5S2lH4NW9vBk00pa6Ygny7XkEpR8P0xRCE2pySO2rqkqcvRgZtGtz9xADYQu--X1xiiSu6eqA8BSiH7t69NQNv8g3lH5o7dMsaRtaeOdQTc8kjHUBypIqyzMYPELOLLFMLPyLf1MZ5ZehhcNYdHjav7KIb8hoEMlzf3tQ",
+        "width": 3000
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109115943275176878076\">Mory Kia</a>"
+        ],
+        "photo_reference": "ATCDNfUbMQhmKECVTE90tV3J8h5SO1flEERL7WMAAQ_Iv2MF3kpfdob190TZR-SY8YsNmEqAlYt5zJWxNFogT4cyQgIO3NBslzB6ABKwSfLjVENUY-5IdpZNrOsSX4Y9SU9R_QAfZP1hMdzuSZrZ64K_KFyknZRAxGj3bPpFeEyUcUYTbujktuaoeKhdoUEkTVrn0T8fSLWAZf1JD1B1fcWrsXTm1nTMN3rgG-R9h1NbIB9e5TKe4NgOut78jWHT6sH7lCovDd9-tLMZMCD8zzp1YNpOFkDqS-T0OVwbuCLt1qBUXv1J4VHvlckkRp8vaOOnpBWqkQNm86Aqjbpi1OYY1Qn4wVwRGOn88aFjKVvRqIsa5jb2jby9t5AklunSYx9Tc1LX89fLKhHaw0pzxBxFKwWAXpIxqY9dvXkHygYpSw_-GB_cJ7AE_kJPCZsOsjIF",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJEY97aQg3yUwRqJJgSjPsuMI",
+    "plus_code": {
+      "compound_code": "CX46+F6 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX46+F6"
+    },
+    "rating": 3.6,
+    "reference": "ChIJEY97aQg3yUwRqJJgSjPsuMI",
+    "reviews": [
+      {
+        "author_name": "Navpreet Singh Gill",
+        "author_url": "https://www.google.com/maps/contrib/113347078841471437929/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXabp6YQcRrFJqfwbH8X2t14Fn5s9vaVR8-JfT17laaz9i4NAWFWw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Better go to the party surprise as usually there is no one at the counter. Asked twice to call someone, no one came after 15 minutes",
+        "time": 1758064626,
+        "translated": false
+      },
+      {
+        "author_name": "Karina Faramazyan",
+        "author_url": "https://www.google.com/maps/contrib/113502570064879969421/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYe8dRpEoiYEcNl0PfcJKEDZx0xJHPsKXFAVwnkEhN7ap73qg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "My sister got me 4 balloons from Party City on March 2nd. It is March 27th and one of the little monster shaped balloons keeps staring at me from the ceiling with no intention of descending. At this point it is just a science experiment. They haven’t even shrunk. The point is, if you need balloons for an occasion, I think this is the place.\n\nEdit:\nIt is currently May 16 and I am still haunted by these balloons. Maybe they are not as inflated as they were before but they are still closer to god then I ever will be. I do not have the heart to pop them because they still bring me joy. If by June they have not shrivelled up, I will release them into the wild just as nature intended.\n\nEdit: it is October 18th. He was mostly in the ground but there was a bit of helium in him not to be flat on the ground. I decided to kill him. So there, judge by yourself how good their balloons are.",
+        "time": 1697682250,
+        "translated": false
+      },
+      {
+        "author_name": "Shadan Eskandari",
+        "author_url": "https://www.google.com/maps/contrib/111430316863211797972/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULSv0QFDbAAydoWRxsE-Oof8xZXDPvxxyDQCCWHw5DODUgcawp=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Sooooo slow and unfamiliar with the process of getting balloons filled with helium gas and etc, we were more than 30 minutes for 5 balloons!  Definitely unhappy with the service",
+        "time": 1723390933,
+        "translated": false
+      },
+      {
+        "author_name": "Mélanie Boucher (Mel la barbière)",
+        "author_url": "https://www.google.com/maps/contrib/110676985839115905072/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_uUdsq98vU2BwfvaawyReqj6HShx_isusRcvIn7FAJWOzavOM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "You can find everything here! All styles of decorations for your events!",
+        "time": 1699913864,
+        "translated": true
+      },
+      {
+        "author_name": "Daniel Saillant",
+        "author_url": "https://www.google.com/maps/contrib/100134048783391982730/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7Hyn71-nv8vBDQ1bSOu3r5QiZlITx5rCRuiOmSOziTnf6bBM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "I like Canadian tires",
+        "time": 1653406378,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=14031224344108110504",
+    "user_ratings_total": 15,
+    "utc_offset": -300,
+    "vicinity": "50 Boul. De La, 50 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.partycity.ca/fr.html",
+    "wheelchair_accessible_entrance": true
+  }
+}

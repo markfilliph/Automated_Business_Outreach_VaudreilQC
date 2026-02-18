@@ -1,0 +1,424 @@
+{
+  "query": "Marmitons En Herbe (Les), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340431.72623,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "111",
+        "short_name": "111",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "1051",
+        "short_name": "1051",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P5",
+        "short_name": "J7V 8P5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1051 Av. Saint-Charles #111</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "1051 Av. Saint-Charles #111, Vaudreuil-Dorion, QC J7V 8P5, Canada",
+    "formatted_phone_number": "(450) 424-1311",
+    "geometry": {
+      "location": {
+        "lat": 45.41773999999999,
+        "lng": -74.0493015
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4192135302915,
+          "lng": -74.04790696970849
+        },
+        "southwest": {
+          "lat": 45.4165155697085,
+          "lng": -74.0506049302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-1311",
+    "name": "Marmitons En Herbe (Les)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 6:00 PM",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109731961897098166576\">Mariepier Labelle</a>"
+        ],
+        "photo_reference": "ATCDNfUZRQGOoR7unruBl5VqIFf1sKESlj5okEB7Kww2K0Gri2kNpSU3InNPjpaaZ2U6uCAhd61ap8VTeg68Xr5jeDNoMW0smtlg3mEO4zz6SlGIAxEbAUffMGy4J781qO7u8-PN4-fzMbmavlAMU1P1du0nnDqOVMX13fcH37sDXyJi2cMgRs7noyjh7iffGb_OMu8yhR4LIsNTnKAKIaIWL7Lq1jsUzOsEHvVuZwnhpe5Ru97k-osMBuSjxCPmcqFGXUkC8rT8TqSXFuxNyMz23hBOHXh8lvaLM0KFIR-b3qEvBaqKNLzH9FIrTYWKwRTmrVm7K0pZoTVxDcMFAmwRw7GXSNGBhUjJ8CWYVJZ7PmRZpleelRxjUk8zWLGJ49J9yUQBImdsBWgyuuqyT8xdARif1jjhjHwyxr7sWHXIwdnduA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109731961897098166576\">Mariepier Labelle</a>"
+        ],
+        "photo_reference": "ATCDNfVtgUqkfEOB6AwyjgKgp-ZaRL5wtuC8e8Py2y156PfniwkaTKDo7WtfU9lAkuQreWVZB7e0JRshBylnoPkOfF1dQL55b2TtblYhHIbuxH6_4zOJSXWttKVKY-R_afMTNTM-sjcLP6oyniOo4E9-MnmNxVQ91Zun9K8DHF0b_FBEfqJo_2rzXcwfQjjztWYiQE5Hgrsmr-5CaW6yL0EzA6mLqE4KzV8r_2GLGOMO1fJh1HgT21W5B2zqM-8zmyDBfynKttAraS4qiC5lF9lWCdjZ6pySe8WB_fevmnYpUgAzdjjnHAVmNv3z1Q1b_jlE6Q6RbqjkZX3EnResnfRDeQfJmnHBrz-ij9u8ylzOQ7ZDAk2UDh4yvKUw8O8vWRbwWWX6UdLAuzWAZIKUf3CXixHildSt8EJatP2dNTLMCIe5niekr-f8uYpEa1fXEw4V",
+        "width": 3024
+      },
+      {
+        "height": 649,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112704682388339546277\">Marmitons En Herbe (Les)</a>"
+        ],
+        "photo_reference": "ATCDNfU2lfJhgnJP2cwTdiwD0b_dWCfSnlb63qDBVoMmDEgkAhJ64AYTJhSTFW3MO1GEsOYCmElROWw0PmP4GROuRCW1tJvx0QXVajYJklH1x5hWqy2wO700j-ZufnB61Bh_ClPTJodPlmyEhhVkb-6Fp2ERuCm-fX7LknNBwPB4urlZ_kN-6fHzGxhjgcIucs7mT817ffKr10tsgX-_tpjW6_1EHx2TS8v5_mbky5r83qtFPeso-iaQLZ_Qp9vlG-ZSG-CCYS8vQvPH9Sk8mLfSCeC3qIPe922hikreiDqS99idoQ",
+        "width": 1073
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101629722969635658391\">gigi !</a>"
+        ],
+        "photo_reference": "ATCDNfXTDSjoGxMAHutHAJIanLpCG7sfpzXoYfgemR8_hgkDzMLXVt9y9_2nRoWn3ut_X8iHQfS4tYadGf8bdGgJeL0r7fiz9pDnkBEt2TY9wRennKLK8AYweCFRnKWyihhCc8Il-aa52rvJog-OC5M74gCT_2SBa0J_vkaP6csPghTHazCHNjVnTYFZU5gt7urClGO5Zw8T9FJPj8Oty1Ow5asVOnyv36QYqReZSNkvPp5M9V6_yCROVwVchI3zhPemltLQ-1nw5LugK0cl3yFHJn64IHUOj35DmavS1aPyjPCIinCGEHvvlBC08Ojp8hyg_7KtPIEimQXkuOvqChpAuHE6uut6WWyNA0wmpiIXc3wN5G6aTD-Tyqzm-UrI6CvsBlTF-9DWuiCuG6oU_7Lcio6bfdxD-VDRkBab7Pguy0NHriIeBNzc8neSV_6Y6B1v",
+        "width": 2718
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109731961897098166576\">Mariepier Labelle</a>"
+        ],
+        "photo_reference": "ATCDNfWv8kPFWhumWCP14DvHLTZMqPQHXuO9fUYiRls609YUxGQO6sGan9LLaXW9HhnhTF9EVNIcVNK0IKO32qlmB-BFpOmsNwUc-q4IcmF6pUlfZkvJLNI43hM7tDIDrrOEcdYWC45RBEWomWNFNhYO4XsAe3fcOBjUvBrvVRhwu1DIzzOWfS7v3s5WzBl_YpPTvR7HVaR0rEjJEjWOh-c5dGkKLBwdgHaX5aiMMTNZvkETlRgddn4-6kaoBQqVL1CZ8hyqfX1Qd8hpJV5DgnhkYc8ILu7IXJuwHOItcN2Hz5U-p3gZR7xD3cPlhvRFql3hMLjvCy05cjVDCH_hSBe-1Co_ohEEkBqp2shCcKSYROEX8L59WIabCILnlx5Jeo7B8FfKOKMp0ezHf4jF7Pd4GC9eZZagkt1Z4AY4daZPsLh4PGydv8NkqDpdJRWo_jPk",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109731961897098166576\">Mariepier Labelle</a>"
+        ],
+        "photo_reference": "ATCDNfVKnMsZLXbj0fJSFXVpk61auFR0AvqD4rsABKoVhdUqXBxyRx1qUmkPAZfdoKZk3waZEdXzLa-36fO67oXB2zGsoXV5QZAvz-ZjTKyqjwk6YZYRj6jjQZhum2gBhOUABX8qcwW4vNNNqYhB8ACGZafMSdxP4W8jf7-d77V8TXg3FBT1oS6nEm3dTVDHgWsK41W6Zw5M-lvHazFbRajg_LeRCZvmCTLQM3E4NPYj-UIEsCj5nl74q34CfpNCVZbVOfOq9sPj4Nhte78pJWLxLzlg_m07DeTg9uPgZ6EqqiKlfRGhVQRdTnq9uzx88bWswwPwK_Tf90G8MHlyFgD0NYgAfIxY0Y03B2wIDa14122I9WPrNHwD4fbQpXstK2Oxb9BaTCSD455qcC8t7uvUHx5XBRC_4PJv-TfvOD3EoQQ9NqQ33KkuS0y28Aeb_pOC",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114346054587499063257\">Alexis Plamondon</a>"
+        ],
+        "photo_reference": "ATCDNfU6sTeYd1TC5D96W9GnwcHBwjW9nHM3CqswZ7lba5ECrwWzjZD3Mf6TKJD1zBjw0pVWO50Mt_NZ4sjvB-SdydyRRg0KQplNV1jJ0m0AxdXZ5qO6ht1oOZwmuhzPu8WKdObVkIzxXu69mMGMJJshk4H6itr_Al8MOI5VKlddl_A0BuVB1e81s8KZNxw03BqvJFkbZpalidEbo_Y6CAoyP-f2CjzbXLilB9TbbFGVC8-nzTg61SA6WA9ed4CN3NANtqDIT4H8xxSVpJZvdbkTHM2JMaiJcNa2aw8_u9PWJTyYy2Q5Rg3j2fj4rAhhZ27cAflHv-34SPnVm_inKT7WOf-29xFfeda6fMw3mnhv4lhT6k2Q_KM-nNkaJST3nb7MozDs7AnzvoOzY7EQGIowaPQXdWp1xjNV70UDTcByV1I-vyc",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109731961897098166576\">Mariepier Labelle</a>"
+        ],
+        "photo_reference": "ATCDNfUI86WKyQEwVWirP0i0prWnZP7sCFNZCKPMO9mMTiaU46JjSm8d_c1R6epR_rHdzIvTbn-jMRurMaMfDJ-PUNfARscWdLpWrCuuJwPP3lHDw_qD3zecOC_XJiPjmlf74WHdLL7WOnDqv58tBGQwURONNE79f2bR0ehD0FRY2_P7YiP1_O3caQ_pjDlEvjHSpgJghAK3JOEj8q2dkvlLfQ8IHWepmv3j60WZuFUi7PE7jMsY46XiKLrPQWC0-7HLCDAC0ObU0j53cEVSJBzOW4dJt9e4NeDo_heQr9_8fGckpDavbRiD83r3LfSK_kZSE65PvFq26dFVBfXvuET3kqvcOBNZhUmo__lkcgNVgRI3dBB3w7Rdxn7ipUipwDIU5_pJbxuQTXUrBpPqv5Iv1G86BJva5npTVkdjpfaFwQ7YrxriazM0s3jfNkw7Z1l6",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109731961897098166576\">Mariepier Labelle</a>"
+        ],
+        "photo_reference": "ATCDNfWU2RxKHngY4AQg6mk2EJlq4_-A3kfA3Dmbjt1oOYDuUzKc4LK_saQfSELV0wv1PkyRJZliaxkeaHbpDkNKIciea_7eHQ1nu0_6wklmRpWKej9PoI-BrL9x9zIgTJ-BVb_vfY1z0gFOP_EmHKgMXuccaPdYdBYisyaK9GpsnEmtV4a6INCAVguG9n6TVeYSUWF-uJ8ZCq5Iu_3meOurDggY12OplaJYs-n5DPZmLl7CFMIhw4BA3QT2vTiZ8zBxKBXFPPwTLewRGkTa7nbN2rB-xdceLaiNxnoh_t5wO2KJOrTO0E6IPkb70aipI74_t7l7lXghq2Wc0hW7Z85japaBAymGsWA9lqX84AsTY0iSeWWNa9I7iqxF4R-U89RMzXDJBDfXCTxr9kizaCV8Qvxw4S-qhMIrwx1PRnaT5v4dO21U",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109731961897098166576\">Mariepier Labelle</a>"
+        ],
+        "photo_reference": "ATCDNfWkoXLgxiYzLY5aYXV1QlKlG2dDh41as0UBx_EcjFLYek2VqG0b9wSQ5B9_mF80s40P8RH2-jRmwBBaaz755OLCjYVaspfnUDBEXLcomAVQNLuIsckCQ9bI8F94vcUshEHLCZtQi3wYVxIEJwxd8kwNVhjqfNZE2el6b3HZYK0LhzuixGR6GWtMSEsL6p5r0TOhSyQtAqmkAmclbTTXKHmJZdnmadKmgJj23Fm3k9aDy72kybnA1gsDXP-Auky1s_9EKSnLs03OvxoGC5oAe46Ww-vcCRl35e5GX7m2q2IQTnaQlpk9Ng9EQ9-4ZhmBdDw9AlT272sMLRULZ2pnEn87EWIPtJvtlMXLaDTfU1g6rEKvJaWQnQqW1k_q3yMf2wyFjAV5K-Br5h_TPzMV3GHGqozGtfRj0XmfwaLBA0_wcG-r",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJzVjhT0Q2yUwR1iwAu2FCnXk",
+    "plus_code": {
+      "compound_code": "CX92+37 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX92+37"
+    },
+    "rating": 4.5,
+    "reference": "ChIJzVjhT0Q2yUwR1iwAu2FCnXk",
+    "reviews": [
+      {
+        "author_name": "Denis J",
+        "author_url": "https://www.google.com/maps/contrib/116638414899676015006/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUv-3bPB-Q_5hmiByql5GyetTPThZwOQpZSX8pYF2C0ow2-EK0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Delicious homemade meals to take out. I'm never disappointed. 🥰",
+        "time": 1753313857,
+        "translated": false
+      },
+      {
+        "author_name": "Vicky macfarlane",
+        "author_url": "https://www.google.com/maps/contrib/116350995426157788992/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt5hAEthxZGJpd_mJ9bRU3T1O-XGn90LOtIGmH7lZyT_2LfQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "This place always has fresh and great tasting meals. Perfect for lunch and a delicious supper when I don't feel like cooking. Would recommend to anyone.😊",
+        "time": 1713710616,
+        "translated": false
+      },
+      {
+        "author_name": "Jamie Bourque",
+        "author_url": "https://www.google.com/maps/contrib/105182397921017723508/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZjNuomWT6dAw6L7oAletR2HRygpu9dx4IQrUCsWAtocDorW_9=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I regularly buy prepared food/meals to help feed my elderly relatives and my family as well.  The food is freshly prepared and they use quality ingredients.  The soups are hearty and delicious.  A great way to get a reasonably priced meal on the table on those nights were you just have no time.",
+        "time": 1631490854,
+        "translated": false
+      },
+      {
+        "author_name": "JL -",
+        "author_url": "https://www.google.com/maps/contrib/104400629945805858602/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7AdPLLLmREdN0F8_GuxQsIhjRluSrdZUzaq7fSK0b3gRXMm-L=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "5 years ago",
+        "text": "I'd like to leave a recommendation but can't.  Tried their quiche, at $15 it was dry, all the filling had gone under the crust and stuck to the aluminum - I've never seen that happen before!  Can do better at local grocery store for $8.  Tried their Swedish meatballs but it was too salty to eat.  The quiche had very little salt, probably not enough - go figure!  So prices were high, quality was low (Dec 2020).",
+        "time": 1609875426,
+        "translated": false
+      },
+      {
+        "author_name": "HF7132",
+        "author_url": "https://www.google.com/maps/contrib/104202253062224724435/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUS9cqf-BIZW4qOgeWC24KMWe3LgXc4sIM3p15H7Px2efNFPCmR=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "So tasty! The crab cakes are especially great, they’re honestly better than what I’ve had in restaurants. And very friendly service :D",
+        "time": 1638902914,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8763233437449465046",
+    "user_ratings_total": 71,
+    "utc_offset": -300,
+    "vicinity": "1051 Av. Saint-Charles #111, Vaudreuil-Dorion",
+    "website": "http://www.marmitons.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

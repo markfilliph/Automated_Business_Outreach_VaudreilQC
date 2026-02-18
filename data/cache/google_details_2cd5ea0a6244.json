@@ -1,0 +1,375 @@
+{
+  "query": "Depanneur Bel Air Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338551.365989,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "50",
+        "short_name": "50",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Ranger",
+        "short_name": "Av. Ranger",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2X1",
+        "short_name": "J7V 2X1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">50 Av. Ranger</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2X1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 AM – 11:00 PM",
+        "Tuesday: 5:00 AM – 11:00 PM",
+        "Wednesday: 5:00 AM – 11:00 PM",
+        "Thursday: 5:00 AM – 11:00 PM",
+        "Friday: 5:00 AM – 11:00 PM",
+        "Saturday: 6:00 AM – 11:00 PM",
+        "Sunday: 6:00 AM – 11:00 PM"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "50 Av. Ranger, Vaudreuil-Dorion, QC J7V 2X1, Canada",
+    "formatted_phone_number": "(450) 455-2568",
+    "geometry": {
+      "location": {
+        "lat": 45.3794665,
+        "lng": -74.01685379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3807504802915,
+          "lng": -74.01564771970848
+        },
+        "southwest": {
+          "lat": 45.3780525197085,
+          "lng": -74.0183456802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "international_phone_number": "+1 450-455-2568",
+    "name": "Depanneur Bel Air Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 AM – 11:00 PM",
+        "Tuesday: 5:00 AM – 11:00 PM",
+        "Wednesday: 5:00 AM – 11:00 PM",
+        "Thursday: 5:00 AM – 11:00 PM",
+        "Friday: 5:00 AM – 11:00 PM",
+        "Saturday: 6:00 AM – 11:00 PM",
+        "Sunday: 6:00 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103632316429760841734\">Martin R</a>"
+        ],
+        "photo_reference": "ATCDNfUXNKNBhqIbnLWDwXMrmOdM78YC312edNBXIyRE16dw4xkQLD96KS1aMN5uvgNOCX-_rEVlVshn-2aPuisAiwAmwVdQVyDl3vbZdF8hfRdvAxF4icfdiqsPpUM_zgRKdwSE4prCabcYwJEvAhwoTtrKJgdUe45fxnK4fb-Od7XnpK4kOIfirDbmA5G5OykVmXvixYeR_s1lKSoQ9tXGeNdjkhQkpRbneOOyUi-2AHB_xvzQ_aYTHkKhyvrYal9BL9XQCeTLTO5n6LBjUVDyesnLbFYdHZ6rQpcITE6AhbP5rKHBCs_JxhVnZaDp4X79obOG7Yv73f-G8omSaIS2JBKblmTsP0bng6eFXbHYZqWOf4HMbW19bYLfbE0MqBYJGBh0G3eL07yVWUzDHdZhPo9lsOmYz7pXHCFmo89f3K37EQ4s",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJFV3oiRlIyUwRRoQfeZlkbTI",
+    "plus_code": {
+      "compound_code": "9XHM+Q7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHM+Q7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJFV3oiRlIyUwRRoQfeZlkbTI",
+    "reviews": [
+      {
+        "author_name": "Scot Davis",
+        "author_url": "https://www.google.com/maps/contrib/116179247693861026598/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsAgo_A8KtWjXlKXuAIu8ZmZnQ_MODvVZ-tasCxR0MxtCu1Fxe=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "The wife and I go here for small incidentals but not too frequently. On the occasions we do go, we generally find what we need. The aisles are very small and the place could be a little more clean. The prices, however, are on par with other déps in the area. The staff is always cheerful and nice to us. The hours are great since they are open after the local stores close. The parking lot is quite small, but nothing they can really do about that. Only a warning, you might have to occasionally wait for a parking spot as they are on s corner an no street parking is available directly outside the establishment.",
+        "time": 1522686183,
+        "translated": false
+      },
+      {
+        "author_name": "Martin R",
+        "author_url": "https://www.google.com/maps/contrib/103632316429760841734/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz51VveGfh2PrlRFr4KCt27shMvC2xOz-YuWVg3DbRe_Nd8hEi=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Family convenience store, friendly owners and very good service.",
+        "time": 1528230698,
+        "translated": true
+      },
+      {
+        "author_name": "Louise Majeur",
+        "author_url": "https://www.google.com/maps/contrib/110275370871324974425/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp2UYZHlzEI4T9ycsYS-cVYl7YxH88gs0oNXnFtfzbr4zPamo2Pg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "I like going there to run my errands 😃💃💃",
+        "time": 1505214762,
+        "translated": true
+      },
+      {
+        "author_name": "Eric Major",
+        "author_url": "https://www.google.com/maps/contrib/103835028549889487370/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiD1ssQYlLg3GUcYcr7U7btw6yi55kriZgz8zEA7E1FXOzkmasmA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "I do all my last-minute shopping",
+        "time": 1473731124,
+        "translated": true
+      },
+      {
+        "author_name": "virginia pablo",
+        "author_url": "https://www.google.com/maps/contrib/115021015742233932976/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_pJBzHm-wemA_npd1yDNhUCgcagB1t405uisjDe8Q0G7YgIA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1697328094,
+        "translated": false
+      }
+    ],
+    "types": [
+      "convenience_store",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=3633671084682740806",
+    "user_ratings_total": 11,
+    "utc_offset": -300,
+    "vicinity": "50 Av. Ranger, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

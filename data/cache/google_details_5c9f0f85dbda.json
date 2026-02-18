@@ -1,0 +1,451 @@
+{
+  "query": "The UPS Store, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339468.5840387,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Walmart",
+        "short_name": "Walmart",
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "long_name": "3050",
+        "short_name": "3050",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9J5",
+        "short_name": "J7V 9J5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">Walmart</span>, <span class=\"street-address\">3050 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9J5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Store offering shipping, packaging, printing & other services, plus office supplies."
+    },
+    "formatted_address": "Walmart, 3050 Bd de la Gare, Vaudreuil-Dorion, QC J7V 9J5, Canada",
+    "formatted_phone_number": "(450) 319-1008",
+    "geometry": {
+      "location": {
+        "lat": 45.3956113,
+        "lng": -74.05809839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3969310802915,
+          "lng": -74.05631286970849
+        },
+        "southwest": {
+          "lat": 45.3942331197085,
+          "lng": -74.0590108302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-319-1008",
+    "name": "The UPS Store",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108997703286348332188\">The UPS Store</a>"
+        ],
+        "photo_reference": "ATCDNfWMQw-yfDaxu-AXB-2BjYmSFAuOdaDPcRGoKK4B_lGH-M0amG6r3XSZEBcjXRfvqhDypW0ybaKYo72mYqHDWbdoSL_amnqS2ULhZYd70-lZ_fy7k0w31XFoCnxcOWEppZKSKkck2YUlVbQ9V1ChKssI4HN-RiLC3_RO1A4SyJWokkeYrZHVJpR0ZbwhF2S9DnP1h9pDEESuMAw2Bwmj_2xFJHpo-zwvPtH2NMy5X92vxEQXOzF49q-PblfSxTtkYgdzsrbv5D3n9WaCbVdHNJ0E02z0hBZXS8RkCkUa9IGZYQ",
+        "width": 1024
+      },
+      {
+        "height": 679,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108997703286348332188\">The UPS Store</a>"
+        ],
+        "photo_reference": "ATCDNfUNpKWK1bUsNzYNak01DfM9xTl2N4nEofqWDLm7Sd3ZhmL1fBVpPLvK1LeMSDeiIf8IWk2rbC3179hNfRddv-Sl9SbBbm1WWzlGa5sLsSNGB6n4pFwPFdJQhC-7M3dEiAa_TqupGzwEuFDKXOSHkKQpO3Qy1v4bnJu6RxtoMwyuaDUDwQd98Bf95us4UkuzTwOLgnTEh3PImL2diKXuUunyfPzQSxZBMhL8uUITDgT7X0eR08Op_XlP2oEYmpOQLBOKKwN0oai8qY9jFxd0qfcAmpSR_Wi7VolPZj88lZXLEA",
+        "width": 1000
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111794725778723422234\">L Crowe</a>"
+        ],
+        "photo_reference": "ATCDNfV7BOc-VPjcaM5eUdMrVjju0Fuk8MbrmcfEYXVqU4Ak9O8gNbY0tADsS6_jkB031Bu6h6LH_0NC-xcH5xF8opACVgqBRyrr9FHq-sITnTE4wm7ksHBZ-T7YhgWZszgxYwV7MZLl_j5p8611U9moemyk4Ej7x6kz6qwL5PgQhYNSEU6_YcmA8I8SLMEQuUS76zHFApnKNvH4LyUH8GFN8nb7EkJLPE6eJQyvnOa6ScuG_XszZVX8lQdgc_1Vt1ahiuQXBHIre8oMtyNtPKBcvVUwwb73MVCQ7aBN8rE6VHxCFKdaKi65F7W7N23uzfVyyDgi22RnNrCSA6RhCIb60ctF676taNd3wMc_7ZtXR2waMXls_fx4MDHd-0F9nx7EuQzYcfJfpW-FR5PoZGodxEtE_NtbX-ID7r66X40wCXfcLiBPPoH7RHqgfgYVczCg",
+        "width": 3600
+      },
+      {
+        "height": 536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108997703286348332188\">The UPS Store</a>"
+        ],
+        "photo_reference": "ATCDNfWV8n63IPfwkWS9-EhbqY6FtabWPVak9I0AkM8ZXnxU9IS0-HHb3UQkVmPMyOaD3m4L8H6zwZMMfr5F7L21auz_QBRaTlXlhoMPtZoZLunlRpab2ixwt5QsQxzCqqL5KXagHBTD24e2wAmNzsweODfu-SspQOeNC7rnc-QX7pTu0Kb2VbCDjJboNi34Qggxxg7O7-IhEifUuuclM4VDomgaQ80qXfwvkjRxDRgjq-mcEVa-geClSJ1C6HjaDsFpjeStgCQbM2C8m8rB01Hzcvijw3w6dpoxy22p8lS6hMmRdQ",
+        "width": 803
+      },
+      {
+        "height": 3414,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108997703286348332188\">The UPS Store</a>"
+        ],
+        "photo_reference": "ATCDNfUAE7exGI6Ugh-qWZFq6eyIvzLqDMS6lRBrttY8IZp27II931ShXvVZBhy1KKVUIPl2sgqheAbtYuuQ4eGSKxWTcGWzfhKVyVEwpx3qxiOms1lEt1Y9hQv_d2V2F11GfKn6CYraUw0S6pqfBVunEEZu31hb-fAstTpvtjNQH1KKP7_fO_Vu73mB2TbM_rw--0bzfUUJZxYOvAuhJVdVBDtMILI87a4mC8UbO43s8_rMHtrnBjRrgHW7XLM71i4As7J_ZE6no5tz_M2RIBP88G99aVIhHIiB-FDgLSADVvsP5g",
+        "width": 4800
+      },
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108997703286348332188\">The UPS Store</a>"
+        ],
+        "photo_reference": "ATCDNfUP0A60_1erT40TAKnO6d09lGueSS1ZwVtwlRG54CHJzftiF0OKcGGswdoR-N6FbREOn7RupNd-x5FqeIM9GfTc_N3aMgh5I32g2YHaMSP8PQlAJKt1s994QniVy_h6MKT8lCFHroXnA10UwB8QB6ns-5uRK-y4GzZrKKSOPMjE7Im5WS3tXEoQu3B7GX1ttur3KTIA1qxAskySz0OFjhGuwvoIuW_Bu0256Z6930fPre4xxqtGENWuB4RuEo1WOEB3lucttjd65iexpZYaq9Tte5XPFekL4jQBKP5p6gtspg",
+        "width": 1280
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108997703286348332188\">The UPS Store</a>"
+        ],
+        "photo_reference": "ATCDNfXuNV8vUTUJ5TdHhP-3ek9GReLGmYefEma-uN8cLIlF5ch9zpXG993KZ8Ws7AzrmplfYtYrpuJHdnaBVN2YXlNQoix-zmPvMsKML-9fAlo6lQCCwHUeV_6CQXVwrwg_sGxdiq5QkfeGPZebIFriB-AcDgjwMAvs2ItfbHuuncEUtuRGa3elA1_Y_Xky471GD0vUIpISGNaW12P_x3DoW463_aSWUwgaemOG3kT5isMahRwYc465sCU28P-J_YToBgYdWrY_2dJv7tkDnNMNeUQyKsxhmz2MB4AXrH4wikoKxg",
+        "width": 2000
+      },
+      {
+        "height": 1012,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108997703286348332188\">The UPS Store</a>"
+        ],
+        "photo_reference": "ATCDNfVmm45UWM5ZOVjLyIe2jxPYB0zxnKeyncoYy5ekAUn7F6s6lvHogPoPSLDas7MVQZp1BwuuB4NDAjMHdZ3rs0gJTdpZ2T5LYiFjcoDjN1b0Wt_FiwFvw-MhVD8q3MAuzxUtP7cX-cjho74QYTlcfUYR5SkBhZsJvWo4gDWb1udSkomU2gEJlZqhFkEPKQ56QTPxp6pF-wL9bUXycbrEL98DD64oUOlbUaT70wSEP7IMqt9NzDfClydYSWbtbRAz51Eymb1DmdWLhpNfaHWsFM3ROlh9GvwQI48kPZ9iTq28hg",
+        "width": 1504
+      },
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108997703286348332188\">The UPS Store</a>"
+        ],
+        "photo_reference": "ATCDNfVlSUcuiFPfyN7z_P7Yi2Qxh-Hakth6j9J0g6AiT06hXj92F_9hsvXQGPGaXxE0N4-Jd-qFyt3Drj0kOfQ0GTtSD34pLkXDz3alB38GbPHp6SRS5gBnTIrsAHh7_UMip-Z3yYG6HG6UXySnEmneV2XPD39oo34FA6aA4gx8TGXnk3EAN7wwklGIngEp-zG2ykbLx73GMiOpnEZCabQTWHvxEevxXk6S81asVJIvMSecNMtMSeBgW0gwS00pRpDVA3KbM0UGiMUmU6yRtdsH0LsNWE_delyv5NMKyegRbmg0oA",
+        "width": 1280
+      },
+      {
+        "height": 719,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108997703286348332188\">The UPS Store</a>"
+        ],
+        "photo_reference": "ATCDNfVOCfAYffF-kF_7hMpw-G_wThGfx07qKK3yUOXHYYiLR8Fb_vgOiMXi-SpOLAuJ4MDH9k9SRhc9Pmg6_4Cts6cRpVEgcYyI5-S7qeRip0Xk5zehDG84l9x945oi1E_F5EnfbCoqDJZ_kVRvcyDOxhCrtptShhnmzb7aC1v1atDxWy-0_ueH1l8Sp5TUZx6HzGNNS3-hoDZmnAA4RAsU2m6SPKv6vFEaQVzR5-3QKFFAJDVc4KJuGnDMM7xu5jbCAOYz5TaRCtTfkPo6ORinNaC97rfGXAce0UlKUrqBePHdAw",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJexP9hjQ2yUwRWeglOYv9FUo",
+    "plus_code": {
+      "compound_code": "9WWR+6Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWR+6Q"
+    },
+    "rating": 3.8,
+    "reference": "ChIJexP9hjQ2yUwRWeglOYv9FUo",
+    "reviews": [
+      {
+        "author_name": "Jason Pepin",
+        "author_url": "https://www.google.com/maps/contrib/117992803504302505500/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZIZUhZw3U_m5ewGndoDca1uzShVXtXeRWmVB78yIEZnqOsw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Phenomenal Service from Mel at UPS Vaudreuil!\n\nI can't say enough great things about Mel at the counter! Every time I visit, she is an absolute rockstar—friendly, efficient, and always going above and beyond to help customers. No matter how busy it gets, she greets everyone with a warm smile and a positive attitude that makes the whole experience stress-free.\n\nMel is incredibly knowledgeable and handles every package with care, ensuring everything is processed quickly and correctly. She takes the time to answer questions, offers helpful solutions, and somehow manages to make shipping an enjoyable experience! It’s clear that she takes pride in her work.\n\nUPS is lucky to have her!\n\n⭐⭐⭐⭐⭐",
+        "time": 1741985579,
+        "translated": false
+      },
+      {
+        "author_name": "Daniele Binette",
+        "author_url": "https://www.google.com/maps/contrib/111627328708979937196/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIc7_VCNf_e1i5TQ2UGd_D3qa4lViBIdcr0yToM3LzfyvOp-g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Melek Gharbi , mgr of the UPS Store 360 in the Vaudreuil Dorion store was extremely helpful in solving my parcel delivery problems. She provided excellent, old fashion customer care, which is rarely experienced today . The store is inside Walmart on The la Gare.",
+        "time": 1752589729,
+        "translated": false
+      },
+      {
+        "author_name": "Giulio Donini",
+        "author_url": "https://www.google.com/maps/contrib/113963599306484919801/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN4O7BeXETGNjvBukLWVHhB-RkBnWbwNgGuh5ZEjYAAPLtjB4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I've been to all the UPS stores across the West Island, and without a doubt, I have not been better served than the UPS location inside the Walmart In Vaudreuil!!\nFantastic Gem of a store with extraordinary service.\n\nThank You and Your Team!\n\nThey Are Consistently Fantastic, never fails.... 👌🤌",
+        "time": 1732841954,
+        "translated": false
+      },
+      {
+        "author_name": "Ms. Samina",
+        "author_url": "https://www.google.com/maps/contrib/101972489653120183228/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVW5GBb7pfFZNGebk0U8I9HrR_Y3vNbgXPkU0d-BLVXmbcf_d7fA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I was served today by Ms. Christine Gingras. She did an excellent job of laminating multiple documents. She is kind and very nice to work with. Moreover anytime I pass buy her area with my shopping cart headed home, I see her working hard and she seems quite caring too. This has been happening for months. Thank you very much.",
+        "time": 1676479625,
+        "translated": false
+      },
+      {
+        "author_name": "Keiffer Castagnier",
+        "author_url": "https://www.google.com/maps/contrib/105888604421243377334/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUCviawndTcal099uGqH_lhG7Fa8NffMaLFAle7_Lgx6ufVMKf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "THE BEST OF THE BEST!!!!!! They will give their EVERYTHING to get your parcel delivered perfectly! I sent a very expensive parcel across the globe, and in the process we learned the buyer was attempting to scam me! Christine Gingras, the clerk at this store, took it as personal as her own and gave her everything to get the parcel delivered correctly and avoid me getting scammed, and after LOTS of work and stress, the con artist got served!! Couldn't be any happier about the outcome!!!! The staff is Extremely communicative and friendly, I don't know of any other shipping company who would have worked as hard as this and deal with this stress at the same level as I personally did!!! They held on with my problems for over 3 weeks, and in the end it paid off!!! The staff isn't working only for the money, they are working with a passion to make sure that their clients are 100% satisfied. Seriously, best shipping company I have ever used and if you are shipping something expensive or precious, THE only one to use! A++++++++++!!!!!",
+        "time": 1648519243,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=5338451707718658137",
+    "user_ratings_total": 74,
+    "utc_offset": -300,
+    "vicinity": "Walmart, 3050 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "http://theupsstore.ca/360"
+  }
+}

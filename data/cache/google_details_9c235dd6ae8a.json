@@ -1,0 +1,405 @@
+{
+  "query": "Cuisines Inspira, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338377.7487564,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 5",
+        "short_name": "Suite 5",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "700",
+        "short_name": "700",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 1Z9",
+        "short_name": "J7T 1Z9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">700 Rte de la Cité-des-Jeunes Suite 5</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 1Z9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "700 Rte de la Cité-des-Jeunes Suite 5, Saint-Lazare, QC J7T 1Z9, Canada",
+    "formatted_phone_number": "(450) 424-3077",
+    "geometry": {
+      "location": {
+        "lat": 45.380987,
+        "lng": -74.1020676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3824721302915,
+          "lng": -74.1008359697085
+        },
+        "southwest": {
+          "lat": 45.3797741697085,
+          "lng": -74.1035339302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-3077",
+    "name": "Cuisines Inspira",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3201,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfUhm4hGUclbLdrN-yMvETKjvvPzJHMYq9SGcU9PHqGtdDPyyqxGqMJJYuHc2S_CZtEw04bfpOX-KkWa6ATCUizWrl_If5XlTw-geWx9S0QtegHUiwGqs_tA2QhYjPKMlwkXAv7lpQQj-_PFCzdw2_IuBmeQI3Ovs73jVevy30rdUTUmKWQ6ffKMjZh-XMgAyAYDSxN0fiBWfsOMj_6zXinOF_yc4uwLVO4FTjF9s5qKqZtPj6LC4bmIDV7Xo7NF6ha4objN_b8df5L78D7USrq-pBtxQepGtZKzYfgWIZNOeg",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfVmMwf40_nITHtDaGKb0NuZ6mlJx34rNgQ7ICKFQx4Gr1Xa1O5MV8ELFGKemitOBWciVU0CBtG60svXxiOTvyGQeXyzFfOydyXZyNaPTz6ov-cwXMwwgD7cmNd4A5iHc8VTqqdfOTDcsCnvMFYwmSPE3-tbcj9nYqI5kWFtbtZaeCc05raVke0BHZXRXw2-n6PwRGxqlnsHB5jE8X4WwXj2r7g5xzEYELN5C-M8KeU6uxad7tY_kPWTewwgtuZKWd8BZCYup-VfmhHJXTQg_zXcFLGh8ZjRZd2M6LcfuXcnGQ",
+        "width": 3200
+      },
+      {
+        "height": 682,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfVPi_rX461KYDHRvFncMeQD7qtrXuLq5qH4OQFkI1hxDwK0Z7oQnEt2xTzs__pYutAvOosUbSO0CSIi2aMuwq_B0Kfq6OOHultRod1UcR6Ftgc-DMsQ4nOqitBb3dDQM47Lt8ShwUdry4RS27ZBNaoatlEcJdgxZZ49xq0fBk1tXzoxmmZ5tGcyOZhzil_EfxMitEne655mCo8pkBXFha5xDovOy6nWrl1Sx48HthRaSlFEplEf4nD6JkOYmWVHAnJ1yk2w-4dVB1UaL3OhqQ2Dco2I5walgr3ieYWeuHZxug",
+        "width": 1024
+      },
+      {
+        "height": 3201,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfXmNzz3tngIXwaglOisv1VYF5fZatIqC7BjrqbqGzUJHio8tF3jSwO9qSy8P4IvxD2bbG4bN9XqrKPwmwDXSRR5328GfL6dW0vDU-Da4bmmqsTqejAQQhC6bysV6KTYB2eTjVL46YUFdfFilb7O2X66MASU06be9XqCDknNbFLt9yTwgl90nk-u-ObsGwsiTQjn1w1ZfwhhHwas6DH-5wgMxwwFPUzQspl5yFlxWcLWVMkSc48F4Yoito9OIZhKB2rovm5CKwbo6nWENR-0DobCVPFMcKDrKK_gS8tm3yEpXg",
+        "width": 4800
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfWWl9pye86vXYWFs31JwVHviZboHezcM1ZwDSgtvLGoJx8Mhw1hTRYVB3fVgteWhp1jTTEnDdG7xuN5cUPVKLmj2t5pmV41AetXEit6A8zuNqdx0fwMb_usF5JDJtc09O3yqp8FG9E-stUuIjbAWitrcYEKMheYqezevUWIHcl6cfZBSNVoruNOn1wD96asCbKEfbUWww0dcgfTUhbf0py4VvL5aKxNfrklS95OVtJPa54Un0kTvG6yqXm6NAt_YZ1cKap7_IjhdwtwgLZBoUbmkhcXLnancfdmFIVxEODvng",
+        "width": 2996
+      },
+      {
+        "height": 682,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfUEqOmMUuMF7ztTPyA7yKMqDB7apGuUKvxVr87xRrKdneivMwud18m_0vyu_hXQ6KPhJw_7pJE6Db5al-WwjwVhnETdqvyC9aqHXuATEROCah8tX6lzpywfm4v94qSAlirN7_FalY91u3JGD5z5LCWWL0juo3dxL1uj16J4d4OUJbdOHwYeIhoePpzVIIU2Ps0wMmqWHyt0QICoC2Fr0Dz-feK6jJpYp_0KFGQP0XaDDuN3vVtV84_nkRcJ3VHWb2J7jRFUVoAuloW4Tvd4JN5b8zKHNqe0Ie2NR6DOHs6dxQ",
+        "width": 1024
+      },
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfV0mbyAO6juAn1SJO8VPf_VNPpvU5bw65u9aGxv6M6kitRdibWdM0JVCveK8cBBmZrmGs6lVWZyVPVDKgVjXYxqVg0KPhmUcEMs7JDRvXvQK4iUCysxQMsYTGjQRXbPS2FnTTT_bgIKa7dFGjXs7ALqhOylVC8FzabMK9aODg_wJiRnOilUYGDArppyHK4mZJf2zXEcAb5Cmi5kyM2-aAX7rFQAWcBqckaKFGe4oFpVlPEwobVdfeERfTsWm8royQr-LLcFQEjQi5hZnQXeKhkZBXoMPgvKki-m_PrTUfxYGA",
+        "width": 1800
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfVLnPJOSjtOu3xlKffjw_MS_0xmOcGb89n_zdIZrkFl1b8JKoCeBS0oLPPMz5Q-eVdZHLOfU6kEbsXQsPF9NMZxYkduYa3QWER0eYQA3RKuMMtXt9NEgnIgD72R971x9dvTg3R9bdvgb804d_ROxZXt0KDbkmieyY3XnAtchz9h8KHwX8WOUYLRERieOJ0tA5RQ8zO6Z0JliiEiCRURPPkBbVXcOA-2jKTTd507mrOHVGLSawWl1JPxZrVLJGTHDXGIwAQGm1nT7ypPWk7dg-xEWPEi-OzJn_ksJFWZmx3PBQ",
+        "width": 2996
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfW27X71o5k7qeVzUdPUlUTV0Mjl_DnFuc3_patEonSjVKGIc4vIZZmtTvHtuJfRDVW5UzxMTSAnsxEmBhxA3qYv6ZftKx6-URF_qlIuwBfI6xbAEDiI32d1i0KNjRzuqOy4UJkdyQ9WlWNrT9FOvWs7Z5c1nOk5S9usksMJsUaeESMWUuDgDHhSWmOmEA7G3VCo8fgbgD2OAFf_UuZPlrlkha2t9rKkYB9L5N65zMvhxM_nmOtjrEwHLYdTPpULPHFIV0vjFAeSVTNJtkaLkpCqc16h--nd1MjZNALGc-p2jA",
+        "width": 480
+      },
+      {
+        "height": 682,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107417509208972916601\">Inspira Conception d&#39;armoires</a>"
+        ],
+        "photo_reference": "ATCDNfVWa9MxxA1yOP_iXU4fO0xOTQE5lMXGfkMhSILXQA9_rsArSqoOZuzsGXUhYT-fM3MsBPTiSEPawGV0tRHOXCVkniBiS7x9Xw5JX27w-ohbmDm6DfCC4FjZ_peqfUJDCmP1D6etxdiVevEthAWzcsjHwv4PdvC1Xc61H_KPj1mb84xmWWEhi7-BR7dfsUSvWj_7kgeuPeQ-UeMWsl-oTzQWexvkmFVZ58y3cxMzc2RtBn__C8-r4Np731xzVnBFSME6CulMJEDbJpw50LiIboaJe_8wYPJrYk9x5jEZj94P0w",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJE9NpKHxKyUwRZ6GYQGlwzAg",
+    "plus_code": {
+      "compound_code": "9VJX+95 Saint-Lazare, QC, Canada",
+      "global_code": "87Q79VJX+95"
+    },
+    "rating": 5,
+    "reference": "ChIJE9NpKHxKyUwRZ6GYQGlwzAg",
+    "reviews": [
+      {
+        "author_name": "Giane Lamb",
+        "author_url": "https://www.google.com/maps/contrib/114823098681598882512/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiaLtn8SonaeKYHzSbYLLtB-H1R32mZGX6xGp85HHBOgvqZ7ZY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Just had my kitchen installed and I LOVE IT. The ladies at Inspira were simply phenomenal. Attentive, caring, actively involved to create the best kitchen for my needs. The entire process was easy. They made it feel easy. The result is fabulous. Well I love it anyway. (In picture, house still under construction but had to share) can’t recommend them enough!",
+        "time": 1759235318,
+        "translated": false
+      },
+      {
+        "author_name": "Alberto Carpintero",
+        "author_url": "https://www.google.com/maps/contrib/113475622349079491360/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2VKgLBBv5KUWMFA9DbdFGb9_WlvIL29jF0_-o3qpqmDQqhQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I cannot say enough good things about Cuisines Inspira! Cabinets, handles, accessories & counter tops. All here and many options available!\n\nSummary of our experience with Cuisines Inspira:\n1. Sitting with Valerie & our interior designer Maison Samantha Vince to choose colours, handles, counter tops, accessories and talk about the kitchen & dining room cabinet design in general was A+. My wife and I loved our experience with them.\n2. Measurements after signing and general support was A+. Emilie was amazing and when we had a concern, she came back to measure again after the initial drawing came out. She explained every little detail and the logic behind it. Just awesome.\n3. Upon delivery, pre-installation unwrap and inspection of all cabinets was astounding. Installation itself was flawless. Our kitchen floor is not quite level but you would never know from the cabinet installation.\n4. Coordination for the counter installation. A+  Their counter people took precise measurements and advised us on options since the kitchen was not quite square. Perfect installation and counters.\n5. Post installation inspection and service. A++  They saw a flaw we didn't even see. It was on the inside of a drawer. Two little marks. Nothing anyone would ever see but to Cuisines Inspira, it isn't right until it's perfect. They replaced the drawer. Just amazing.\nThe price of all of it was reasonable but when you add the quality & service behind the entire work done for our kitchen cabinets/built in cabinet for our dining room, I can definitely say it was worth every penny!\n\nWorking with Cuisines Inspira was a pleasure and I highly recommend them for any of your renovation projects! Our kitchen and dining room cabinets are beautiful! Thank you!",
+        "time": 1764705627,
+        "translated": false
+      },
+      {
+        "author_name": "Jill",
+        "author_url": "https://www.google.com/maps/contrib/110785539300999120021/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6D3zanxvkuBSI5OOYBbliEPlLgDszmXYUzxqt3Q9bvVtKPA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "We recently worked with Inspira for the design of our kitchen and baths for our new home.  The service from Valérie Ménard and the team exceeded our expectations.  Their ability to provide such beautiful renderings after our first meeting was very impressive.  They translated our design ideas into exactly what we wanted.  If you are looking for a team to design a space you love, I would highly recommend hiring Inspira.  You will not be disappointed.",
+        "time": 1714313687,
+        "translated": false
+      },
+      {
+        "author_name": "Deborah Saad (Debbie)",
+        "author_url": "https://www.google.com/maps/contrib/107269997210713410648/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlsFR4kNOg05f6p_0KJP3YRErFYlno7mSoCFp60w8wsQLo8FhX=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Great team makes all the difference. I love my new kitchen. Best of all they were always available to answer our calls and in today's environment that is gold!! Merci Inspira!!",
+        "time": 1675190125,
+        "translated": false
+      },
+      {
+        "author_name": "Cedric Beauchamp",
+        "author_url": "https://www.google.com/maps/contrib/116525676346620281543/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjMotZPpcC4DZM2t1YO2DoiEySJ7MnCtRfyZmJFewSPDmI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I'm really happy with my new kitchen. Your entire team was perfect from start to finish, and your service was exceptional. Communication was always easy. Thank you so much!",
+        "time": 1761697757,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=634005244910018919",
+    "user_ratings_total": 14,
+    "utc_offset": -300,
+    "vicinity": "700 Rte de la Cité-des-Jeunes Suite 5, Saint-Lazare",
+    "website": "http://www.inspira-armoires.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

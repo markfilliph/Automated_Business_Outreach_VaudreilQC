@@ -1,0 +1,446 @@
+{
+  "query": "Book Summary, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339838.6058097,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local 100",
+        "short_name": "Local 100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "54",
+        "short_name": "54",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">54 Bd de la Cité-des-Jeunes Local 100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "formatted_address": "54 Bd de la Cité-des-Jeunes Local 100, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 218-0571",
+    "geometry": {
+      "location": {
+        "lat": 45.4055018,
+        "lng": -74.0379076
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4069264802915,
+          "lng": -74.03654626970851
+        },
+        "southwest": {
+          "lat": 45.4042285197085,
+          "lng": -74.03924423029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-218-0571",
+    "name": "Renaud-Bray - Vaudreuil-Dorion",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102635853974461902385\">Brennan James</a>"
+        ],
+        "photo_reference": "ATCDNfWyJwxEi-ELcvT6vEuMW-nIy0Gnn0Ko0IUiq0-eTsfU-nydjqWBDLkfEBXRzc7HyRaxqVdrlIiYLLaZJUPUc4FC8MUvgbC_78wNQ7ZmE_oqqEiCuirlplF1b0M6FhP5satgXT-0N864K6UCd_ZdnLBpca3kF_4WFbKNrsf1r-o6IXnQMPCvUJ1c7WgHRx9Ns5KY1KVocF_hVQpzTdd1uw4_zj3lUMWCOVRF3Qbl9FKIviDHi2i5vlz4mFtI-2nwA5oE263jE_vlm-YH298vUbtcPu9K9S35ytAEbvLR2CppWC1WTRGXlIDuofaWMJsFdnsQTF9kisue9vwt8_yXoTiXzw4NzM9dZuELfpGl10lq-TZ9s9EOj6rXvQgy6dOCsV3EUWyU457j3bFhODZI3AIhCBF55KwCskB7CP7EFYA",
+        "width": 4032
+      },
+      {
+        "height": 278,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100161543704913810482\">Renaud-Bray - Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXtb2oT4ixHPpvDHcU1gWKMheflA3rFO_Hi2K6FhofFdJ-EcZkUvFqIZNM9rLmN5_gsSISF0mZbY8a-2geafth_3OfYCM8m8eAz0pPQpjWp9yKUW8WPfSlEkYlbLgR-ex8LW066tdJNu3Wu3rLumq7D5KHRNhGCp-CmaXBlMvPxJlIRyuwiI0RC3ZuLH4FEPC5Td8R_lDUxhLUZJeKE8Qqh667OIPapMoZl3ZZqJ-Lcon5azRGNst_Gxj-tqTiLxX2FmuPHIIYsbCwOByoGjEJJIiq9h7bQs9x40Lk8UCp9aQ",
+        "width": 717
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115094910626262265546\">Dany Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfWMC8v91vHauE_9NlZn2n5vQluiIHUQ5Ic6X_Vklj4yZw8FBJG0_gEpfDV5-3xOZ1ruucotJ_7LahPZKSAlZDa28UD-J8hJBmE2J_Zkwc2PQFtrFkXQoAS7S9YBja7WToYTj7DR4gAMeqCOibFk_nXGZpdy5XZrsqbEhb7GOH9MeCMijrwukgL-zZgEofZZZiiFU9UAuU8JiYb8gXn93k3609xVXPrJWvJIOy2RLAbvak90vATGFhcb1DKCDlIkSJHQ1XQmgb222Zda7AKLh-ND52apz1gNsVTiwOuQe77jdYNDlDAWf-42isWdmGVoqpOUBvvuQc9fnIhXf1b5UBzgY7uaoLd_16kNevlQzycILOS0VfVpryRyMSmonPBu9RL9viLM5dkB_Brn14jveEmFu6vE6DCKp512ukXhHk3sww",
+        "width": 1920
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103632316429760841734\">Martin R</a>"
+        ],
+        "photo_reference": "ATCDNfXs_YZwugVyDt_SHq90RtprfWf2WFAGzpaW5HdpafD0f4ql0GPjV63azamBl8c-NjpeS3dHH4TZiqgbXxGf8_4A2Ui8uBKKz5LB2PZdrckYzZDa3X8CfsYTS_KxwQ-mHmaHNfTzR3Ji5HLfwCXC2A408KsRHaOxq-3oBAFdlmE9b6YtRYWx3DiqV4krCKhysQ6Lupk9vepnNjLTsbNpSQ88nKClWo68O2nY_4JzDUW-VZkoT-AkC9HX86Cr5hw1oHjr1Mcfw-QmzA3oy1agNaGwOOn1bS6Z_NxSxaLzGT7t_VuEFmVk8NLe57oU62qH2GFR6-XOR2v98I6pUnyb9sOoH1jYYehnDLi1E21kpilO3c67eCfo6Joy4am7gOU2yiB574HwSvLkQB2hcNUKFXdTMVShqNzUovC8Aav-72rArX48",
+        "width": 3264
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103303902243243359786\">Natacha Filion - Original Account</a>"
+        ],
+        "photo_reference": "ATCDNfWtzb85yaC7wxp2Knc54lF2EwleAgJ4oUNhsehBBKGKgbhfLI0XZ3CmzkfkqrBAlq6hDhb2GAtLbP6rlSHbS6-HgfKmf5B-JLgV4c0DBB6oz7g9reXcS1FjVLyPEarioshsHLINjOHFYcBJlDKTB83Xjz_2uIgbIM-HGRwYvLkBxCWJrhYLAqFNqKr1en3z9SsgmrEOUrSZsFAYZfhK1smP_TmNuhnmNfe0i1B3vd2qNv4nv3Mokvl6UkIAL9VM2nXeaVdEXK97mD-HAA20uuChG7SGWStKkN-3ghFBkA4C4tFRCB7km0tRMRxZsXFhCG0nkuJOJEKcMdS31xGC7CNlTEnA7nBIx6kBUpxordpD6gxmmNFGDmEdy5jNY_1aH8CflbUkLZERRREWSf0uKnSOy40NwlF7xLRyaKlAYSA0S0ve",
+        "width": 4608
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115094910626262265546\">Dany Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfWXYAUYysda4F5iBSzjq28d-lTUsUyoxcrvx9YI5Sr_yyT1sLnU7TcKD85E5KZZ8WtBpy6LtuNNXdHw961ALg9A2L-fVlINzPDxsK3h78aTM_6saTxPeXCBFzz7kxHgtG96R4N9SR3-mKZAR6WdUGsresBNIureBRp8o_T9zqt5I2ByVygn6Skyjaof8QBZwxXBmaI3QhPSzkYc6YVN-7wPvIoKPSFtopQRIJpKmA7SddrskAMKlCNBzcWvNUXKd_v9tucEwLklIwnQE5Z41rzSGuBUihvetuOW6dthwLcZPgg7vKUlyoYUmUGplTohp7X6vAUMdAQ05aE43vU-oeLxf2Q0HQpgceLKYV2_fiCG_VqGciFoMj47BxR2S2hoNK3oS9rJb7MEDDtKS__3O7gMdOtquYAmyLJRRvEeZ63Wkw",
+        "width": 1920
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfXL157-I_RW4gGQJF458Tjk0thm_DQg8TWQat-LWp5u5BtNjBAGXGQXkMtavNmgEw33ZCbqsjLNTuZdQ8_ohZQf31g6JHDdcqka4gApen8U_8Ihrg99CS6FC7WllAGxJpmibz0p0vS-Wcd-muisivD4pdB3I39ePwvqUEkHyfslGYgvIw1W9InENHAutkHXgJ3sYfKSHqBFbkzS5OqDw37RyqbJPSoe5c7KoRi1MPL1Apu1uDNRO3HtbcwvQByMcljMOlbjVGVqIeojwr9MhyS50GfpedI25dVBGK03FMve_tdMXAU2Fr8BrPlsglzNkLGhkcRzmHy1MzfHPbG60A7AkerTl7NzzwCLN8roNfB3ReYz92zhoYyWJt1TDwZ8bWBdORvfeZvuWqIP-QgUqaSCWjO4obAn1AXxgmu_-Pc6k9Gg",
+        "width": 4160
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118300692486689658213\">Christian Amaury</a>"
+        ],
+        "photo_reference": "ATCDNfX3i-CuZEwEmGFV6_n9jGHExTH0uanZAW8EBVNygY3PzOhTFxxblOR3kiA3Lb7oxO0LLUEHdPVsV7HOgEH_u-ddZ4OTu0ERuHAdIh4nV3NAEQpRlNvaUfRggwFuUgki0ZObSJMmv9j9zyHLm4hHbAEDPSJDwohxtq7m6yeHwQHQeWt7xPtrfMtRwSSTvNyGJVGo9efjjOn5hXI5jS8gN-xpviGeT18y0opsRKhVbWVkeOWQGoy0QBDaGcCsOHhedSNoRgzLwVxi5l4-iYiC73NNN6D_LdEXqaC0U-iVJTzgpiSSvvnOiugQ7cFy5L_iPXBWE7Ep3HHBfkIj3AKxhZ-gRH0s6GXBQ6zfw5fT_28qjPDJSuQfwN5TCrEIwa0s2Ne4uYAJD2LsOptb7Bf9XZMzzzx-wl5p_2HbU8kGiNo",
+        "width": 4032
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105889074461559735853\">PauLa Mercado</a>"
+        ],
+        "photo_reference": "ATCDNfVzDG2sv4D0uL9_Q8mwxrlkqrDkResFgYb_7iwyLDOyShCsYBLQScJYmoAMThVbL9YB20XJ8PiinYPOjERnLXDR3nzK4YOyU1NvY7hvlzYDbncjw6cusEsSkJkTklQseTbF-zhnj6_xsl3RpI5cPipBHSE3n0kOtBUOJaGlUG1tVyXoxAnMSVndlfCSF7ZkbWEFk45Z7jzXI8vfJtKXpNFDT_SLPdNMGU0ZhrCxLRst0JJyoohk6244s5UrctLAj6kTRYQheTF3BVI-oe_p419tsEhs97_JOyFi3qPeHmdQDChKvmDG_CRZ4P_wVLyROobdUop_fGT8b_bqjGbPXoFghR-J1fLGwNg_NWJoILdFTkmHTFQCOUwboXw-0EBR7Vj5tW69SsaVh9luMqfQdPV8mpmkrEABbLCcWVW3QM7h2g",
+        "width": 3264
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116058188426882906392\">Randy</a>"
+        ],
+        "photo_reference": "ATCDNfWdNwhXHuoH-my9VmhADOtWViYtCGe-0Tbx9ZChjgAwUFFhw5aEqBZAWO8xi0zWyapAFXKf_Krr6fMY3L3eoytEGPBAy0hS9fFCrfkl6ZFSIpxYJtTgszlMND32sFcxzV8F5amRWuptD_rLC7h73gcewWiY8Qztoq_E4LjzQjJCMT_UxVqI2FYnSOtDrDcb_Oa0feR1ASepPJ_4WkmHlesy1P6jDzZz1uYla8sM5bsstmg0-NONCXee9L8piFgmPPFhLdI0IykGxxbmHfq7eRqUWoMmL2QYzDUAMwBWVOmDt5Y50xxp3XRptHE4xsL7zPWrWv_6QXLymVyYOZntZQwWd2PBVx_J9rwGiWY2s7G7syCtvKt0lWfrSay3vC8hCFp2zqmCXgb12oeTDHLcp2dAaM1dLUVJK6blHDfzmX2-Ww",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJkT3NVzQ2yUwRAG_gGcBvW8M",
+    "plus_code": {
+      "compound_code": "CX46+6R Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX46+6R"
+    },
+    "rating": 4.4,
+    "reference": "ChIJkT3NVzQ2yUwRAG_gGcBvW8M",
+    "reviews": [
+      {
+        "author_name": "Sara Baptiste-Brown",
+        "author_url": "https://www.google.com/maps/contrib/116406552013001475917/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU9Po2tGXKaNd4FaMwVtCYYk1xabXAGWci_Vd4crqMFxBo0a9aIA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Found some great gifts just from browsing. It's always so jam-packed with inventory",
+        "time": 1766968229,
+        "translated": false
+      },
+      {
+        "author_name": "Ahmed Farag",
+        "author_url": "https://www.google.com/maps/contrib/102131308171886168164/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJiiNoKCMQ2QDwHoWSsEPPU3SPhQ3E8B6HP3hytMbMUQpOh0Vx=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "The employees know where to find the book you’re looking for. They are nice and cooperative. The place itself is clean and well-organized. Prices are not cheap though. Parking is available.",
+        "time": 1743067426,
+        "translated": false
+      },
+      {
+        "author_name": "Greg Domagala",
+        "author_url": "https://www.google.com/maps/contrib/101457648011392623745/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZV8kzZ14nIi5FfLiXd3FFQQUpdBhRAlJDUQujmHSfZIE30QWQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Very nice bookstore and they also have a selection of gifts paper supplies etc. The staff is friendly and gladly helps you find what you want. If they don't have something in stock they can order it. Smaller than their other locations but it still is big enough. Not too crowded as it's off the main road.",
+        "time": 1663583268,
+        "translated": false
+      },
+      {
+        "author_name": "Dominique Boucher",
+        "author_url": "https://www.google.com/maps/contrib/116575674351984191143/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi8X0wP_MuwgfBsZIFP_TbThFDFNdSeqKhCqB-tZUJCmmQg0apSQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Looking for a special book .The young lady at the cashier was super helpful although we couldn't find what I was looking for",
+        "time": 1744988722,
+        "translated": false
+      },
+      {
+        "author_name": "Evelyn Spalll",
+        "author_url": "https://www.google.com/maps/contrib/110043819327345662209/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVA1wOWJwyxkl4Y5jEVkGNK7F7PGnupxVaPJVBVwqaWt7BRnK0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I literally only go there to find books to add to my library because the staff doesn't judge you for what you get and is super friendly. I recommend it if you want to find good books!",
+        "time": 1722487137,
+        "translated": false
+      }
+    ],
+    "types": [
+      "book_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=14076967931135160064",
+    "user_ratings_total": 647,
+    "utc_offset": -300,
+    "vicinity": "54 Bd de la Cité-des-Jeunes Local 100, Vaudreuil-Dorion",
+    "website": "https://www.renaud-bray.com/accueil.aspx?utm_source=google&utm_medium=gmb&utm_campaign=GR_AlwaysOn2020_Brand_GMB_Clics_SEO_QC_FR&utm_content=RB-Vaudreuil",
+    "wheelchair_accessible_entrance": true
+  }
+}

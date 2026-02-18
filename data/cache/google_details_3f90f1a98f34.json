@@ -1,0 +1,361 @@
+{
+  "query": "Pro-Tech Auto, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338402.6753225,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "605-F",
+        "short_name": "605-F",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2A7",
+        "short_name": "J7T 2A7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">605-F Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2A7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "605-F Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7T 2A7, Canada",
+    "formatted_phone_number": "(450) 424-8405",
+    "geometry": {
+      "location": {
+        "lat": 45.3823685,
+        "lng": -74.0970613
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3837059302915,
+          "lng": -74.0957625197085
+        },
+        "southwest": {
+          "lat": 45.3810079697085,
+          "lng": -74.09846048029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-8405",
+    "name": "Pro-Tech Auto",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109392060404645216819\">TheProtechauto</a>"
+        ],
+        "photo_reference": "ATCDNfWmRTcWYLaa4gmonIIYBJfZOHvNxj-0NzdA4a-bXSAYEBkpfN_F64jy6xkherYlZCaYpXzM3RYzcYivMkFvvEXYjweB0XO0dzcCUgaALLLm_jlIu8-qUn2XBG_y3s-9oW4mBC98cBE440LMZUFlzoc_uu1K250sNrBWCNVU3qr2oMEOiVYBVHyFccbqd5F4I3_LYpS4oEBMPvQcOY_nNES6JMnd4g1mJaBTIXPtpKZ0uJnqe5eJ4QveOEgmmp8yWniU5UHUevA_YI35ku3PLWY9gsxQCDR3lXl677ENpvTDXdYoSqImusTmf05CQnv6P7pTExOA97mVjrvDWrc9swKyZHMWRjSzfHcWLFloXMtcfsyKrIlJepUCY-pLOYDoGKpga6iOr33bHE1mmL6ov5W5C1T9wgPGtZejshu58dii5R0W",
+        "width": 4032
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116825276215041505861\">Shane</a>"
+        ],
+        "photo_reference": "ATCDNfUYbTWcLGqQURztPpHQNJeLnTcAmgHTAYO92g0IuTXMA_ag9MKROKol4w-bZJGcm9kpZoUaoFdGi6WUEphNTvT3HIODtfUm7nD5aHtYMccWxKNx2nNynzUhzOZ9SAgLA6z3RFto8Z58zfMd0cf6_OMJM7uCJTjqv9wnFJrQV_Z8Rx8XvDkEfbHakMSnsO4dV8H8IO72ItiCMhLHNxUbjcwFZ5JlI6GhIa15ibwm7FI-Mlwk1AjR14qwA1rZ57Zm1BHqSrpQcrCDUR8jb-ibgXllbVscGs5mdP3bJMGecX5ymmuwLYEkKpKtQ3KPe5dcOItvSi-euuSuiW3p4TmYbZ7IPZT2_bj54on7V_EUZpIqhu5X_pMQMsmQyMHAh33MlDrObnYpOuEEw65DHpeG-QAYoPh8k-mTjcubzYDDXQMzhVKd",
+        "width": 1536
+      },
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106636465863807028747\">Արսեն Հոսեփյան - Առաքելյան</a>"
+        ],
+        "photo_reference": "ATCDNfURwhbzQHaxn413AeUMZOtW_fBlRls9nIOujQ5meuoDRA9_V2OwHZDtCmul8cegFE3Zl02K5afnKEVFlE5oVd8f50RjyKsKt7Gt9Gu1EuJn3mRsLG0z1Y_TgcPIAZc1CTHHytz1H5DFWVMEGRi9OdOvUENsWTr6iVuyfHj1ys7zKzK5vxr-9ogxRXDe5JI7lRru7WL-PrXhK8vzcwdA7NsWg5uEIgdx8hjA8SDevcCBmSLbq8a6iUM4oSUAaAC7GYVHwKXKb2NhQL8BgP517t4xU_045iXDV747GLjfVWm2VxyEM932axdMKigg_8azFbu6pPPFlqz9ph4P3usF0jMyqiK3dOU_jCL6Ng06O72X-L9__4LH0HExT5LQm2i5ubVHJdtXzcyO62lkveJUlH9of5yBBzZFGvsCsEq8l4gYQCce",
+        "width": 1680
+      },
+      {
+        "height": 1057,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116825276215041505861\">Shane</a>"
+        ],
+        "photo_reference": "ATCDNfW98pRl9tA22N8eT9Iidm2NIM5EXbwHXHOQupS8mnClDryFD65SRkLKnm_u4WQ6GTIjSG1eThcl-UDHIUi4uzeSwkTH1eltyCZ44Fe8irDLgHlyo4xyYUG4OUyEX1mrhYLLrd-4CQ-0HwFY-9cgRrknvZZNMMtddNaXNCUfAs-oehxVsZjN_ekDV4_GCUhwMQBrVOsqtFQ2NWrQpawjPo9tPJiET_L9e3ipDUcZ71Xmb_qdLRMEDVkkhXu3vrq6EhnTnyzfwCg2eCf3UbJf1VKrGNr8xvLJxtdEoOm3umwSVMXgrwFd9uDzupcQ6hAOzXVB8jgFnLKwc-NAe1yy0LE27lXhmrm8taAWo1Vmwxfm7lkKqTfJjHz47SemjVve0bKktG02IxpMSicxyqMp0L3bR6Jk95L1CdYgHXqDzHY",
+        "width": 1063
+      },
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106636465863807028747\">Արսեն Հոսեփյան - Առաքելյան</a>"
+        ],
+        "photo_reference": "ATCDNfWKxEZRQcyoD8Lt8ScH4AGho3VHdWJmfZTWD8-Qytu63g6v4rwfilnTv_kEZ8JxNLOo4JF7pl-8z2d35yRFghXdg0kzIeCQbUVLaX1VZYMPCaVNdsLDO9PQOMHH1Op3Nvn4M2AYee66KsySN_QEKzMvNhnIfuOvtWAc-_2c_UqtkasA12Sn8rs-GK8L0WNN3G_ttSC8B8wBCNXKIPwHEifDIfIENjVLlxbvycj_x3F_37HZn55HC7jS8iAjgUvpPUyBqyKbrwbfX2hrzpx-hX2weNZJaufarOFaAjPSh6TuINp2Vo481sZ4Q2Ak2dyT9wXmNq9-pIJi5Ngqu9q1JIKIqsIdyolrIzcCaXdhR9zcU6tx0bW1TvyeXPpWl5xO0hDh4wHfMf8aOBFezmbJo0MxsU1H1nnkBLsZWzdZx98ZPg",
+        "width": 1680
+      },
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106636465863807028747\">Արսեն Հոսեփյան - Առաքելյան</a>"
+        ],
+        "photo_reference": "ATCDNfWKlttyXhxA-aC43TliJYGaXSaqyqjz5dk6oAAl3ZJrxcSMpdRxBQB-HCnksfKKP7Wcvfjb5mG2fgbUF0uNMfXt2JX9UTAGvpd4AxSxTaVjXfi_s1tVPeQxE4bAF4tqr0U5VMG2jzvwgZqG8hwDQ01O_5bT3qkSfOQgg-4eVKT1jGXTiHtHt0LOVho2EfLCa1v_dUuiDRrYLdC5T-CkwH28Edst0g5B9JBae4eEWK1MVkjZZWqQKTUjY1g4LxKeAPAKQKpA4Jg0DfwtjxW8YZUC6nzvi0vBKiHmhVljTZEi11xHrxzMSJOX8PAPWIcCCxJ99ITaNOvMa1QwBCPaE1qcFqsGjFoZBdY4CYpykJI5gpD5SeiMfSpuW8l1jOPNlYk1owKhw2Cj9RuyLljff6McKhpNWaPeiS4LGxRreFRM7lj6",
+        "width": 1680
+      }
+    ],
+    "place_id": "ChIJzyuyAvVJyUwRPCRomtaBbvA",
+    "plus_code": {
+      "compound_code": "9WJ3+W5 Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WJ3+W5"
+    },
+    "rating": 5,
+    "reference": "ChIJzyuyAvVJyUwRPCRomtaBbvA",
+    "reviews": [
+      {
+        "author_name": "Shane",
+        "author_url": "https://www.google.com/maps/contrib/116825276215041505861/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEorDQ395-WNn88v_-gjQgqI3u7HugmfhfP7-2V1w7PvXe3Q4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Eric Gary  is a great, honest, fair and helpful. I brought in my 35 foot travel trailer, which obviously couldn’t fit in the garage. He replaced the tires in the parking lot, found a broken wheel bearing, then let me use a car to go to the trailer parts supply store and get a new bearing. He fit the repair in with the tire changing and the price was more than fair. He also pointed out a few details of minor “non automotive” repairs to make. Highly recommended business. I believe the Review from Michelle Thierrien was made erroneously on the wrong business page, Eric is well know to be very honest, respectable and highly recommended by anyone you speak to in the town.",
+        "time": 1565112431,
+        "translated": false
+      },
+      {
+        "author_name": "Guy Simard",
+        "author_url": "https://www.google.com/maps/contrib/113822673856006790000/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjZcl4WckjXdNT9bZkPPvFNsuDHFqFN5EqwyKTWxojaIClakQH=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I have been going to this garage for well over 10 years. Eric Garry and his team provide a great and honest service and reasonable prices. No need to shop around. If you have a car and live in the area this is definitely an excellent place.",
+        "time": 1738949004,
+        "translated": false
+      },
+      {
+        "author_name": "anna marie Kapasi",
+        "author_url": "https://www.google.com/maps/contrib/110542097364300239424/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3s6M_xSuPsMKfkkxYcUDFcsBsxjjTRqL-aVCuZUKW4nuIfDI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "I hit a small,hard object on the 20 E earlier this morning and thought for sure my tire was affected.Pulled into the shop and they checked all four tires' pressure...and no charge!\nVery grateful!",
+        "time": 1741276880,
+        "translated": false
+      },
+      {
+        "author_name": "Justin Espinosa",
+        "author_url": "https://www.google.com/maps/contrib/115012854996164149352/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTnUQEj6y50F2bl20EJx6q4YTAKfbAq-EVmZ_6kb15FXCkqC1J=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Eric and his crew are very professional, efficient and fast. Eric is very helpful and easy to approach! Prices are very fair too. Ive been going to his shop for 3 years now for my 2 cars. Highly recommended for ppl around StLaz, Hudson and Vaudreuil!",
+        "time": 1681494008,
+        "translated": false
+      },
+      {
+        "author_name": "Garrett Watson",
+        "author_url": "https://www.google.com/maps/contrib/108154737173483084952/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsZydSs5p4dRKOgqDuYhuz2TGvxO8wjm_Y2O4KBnIescrtkrVq=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "A great experience.\n\nI went looking for winter tires for both of our cars, and in under ten minutes I had options, quotes, and appointments booked.\n\nI was worried I wouldn't get as good a deal as some of the big retailers, but wanted to support local, and it ended up being a better price and much friendlier, more convenient service.",
+        "time": 1603312402,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17324927575254377532",
+    "user_ratings_total": 47,
+    "utc_offset": -300,
+    "vicinity": "605-F Rte de la Cité-des-Jeunes, Saint-Lazare",
+    "website": "https://www.facebook.com/Pro-Tech-Auto-inc-201251683264532/"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "query": "E-Jump, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339503.190445,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "120",
+        "short_name": "120",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Maurice-Richard",
+        "short_name": "Rue Maurice-Richard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0J6",
+        "short_name": "J7V 0J6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">120 Rue Maurice-Richard</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0J6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "120 Rue Maurice-Richard, Vaudreuil-Dorion, QC J7V 0J6, Canada",
+    "formatted_phone_number": "(514) 967-2355",
+    "geometry": {
+      "location": {
+        "lat": 45.3913892,
+        "lng": -74.0495406
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39280438029149,
+          "lng": -74.0480585197085
+        },
+        "southwest": {
+          "lat": 45.39010641970849,
+          "lng": -74.05075648029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-967-2355",
+    "name": "E-Jump",
+    "place_id": "ChIJ8cO449VJyUwRYb4ITuNdvIo",
+    "plus_code": {
+      "compound_code": "9XR2+H5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XR2+H5"
+    },
+    "reference": "ChIJ8cO449VJyUwRYb4ITuNdvIo",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9996968503703813729",
+    "utc_offset": -300,
+    "vicinity": "120 Rue Maurice-Richard, Vaudreuil-Dorion"
+  }
+}

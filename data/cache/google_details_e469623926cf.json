@@ -1,0 +1,392 @@
+{
+  "query": "Autosense, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340731.2536776,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "80",
+        "short_name": "80",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint Georges",
+        "short_name": "Avenue St Georges",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N8",
+        "short_name": "J7V 2N8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">80 Avenue St Georges</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 12:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "80 Avenue St Georges, Vaudreuil-Dorion, QC J7V 2N8, Canada",
+    "formatted_phone_number": "(450) 455-2458",
+    "geometry": {
+      "location": {
+        "lat": 45.3853246,
+        "lng": -74.01302059999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3865916802915,
+          "lng": -74.01160321970849
+        },
+        "southwest": {
+          "lat": 45.3838937197085,
+          "lng": -74.0143011802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-2458",
+    "name": "Autosense",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 12:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106842249731340259096\">Harry Pour</a>"
+        ],
+        "photo_reference": "ATCDNfXbKZUZc_SA7HuXb4wHr7jzxoG35OjG-C5FwNqUWd0_kleUbRXBq7kGUvCDJj9YmnCiN-XR6Mfvm2WpjS7ss1PCmiwJD7Ocga-Gn86ejtxg0mVe3aKBzjJU_g_2lnLl_9s9uuWNdbo7mYv8UtveUUQ-59Vcs8Jp3h3oEkJ2hXfhG1GjaoD4BYjTLeUSgvGvI25yRY2rGQS9Eis6a5YN4D2iyQlWXoGJdasD44yAMjZrMxYFr_LrdOL1rOgt11bIsVS9f0GcM0wbqCZ4q2Qw364UnE4QUodeyaLFCVLLOzoC-H3ysITmeZHAxsEEFzZ3ytCBnRTWYpbKSDqZXcsye6sHQX3Yy9SixUoAhYiULj-hqZz2gZNDmfozygpE-w4_pOXliWIVOIGgpgW1vpj78yMTqsIJuWYsijkmn269zTY",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104036449177400215177\">Autosense</a>"
+        ],
+        "photo_reference": "ATCDNfX5AdkhOZ4QRO_T33Loa3hnB76tx_ZCrBBFdZa0agPFNwXg42KpIMROgBeLDDJpNSNheWn4F_YhpIp3yllNhLagfKg2auDb3nVeL009_lsMh3wUyjO76L4Dxkx6Eeu71WUl40MR_3dXRN79W_qDYJZducne0fxHFe70RIw6-2fIB8MRp5Y3q2VD4uIW_jXkohJqA17NUz7QPZt34FxIr-MMou-_yOGyLXdTkrOiDf2zVfS7n4ibx5jAM8T1P_fAzrCB5H0jaHcUK4LqYY1JMA-SOix0ymDjAVC-LUGC53cRww",
+        "width": 4032
+      },
+      {
+        "height": 2025,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104036449177400215177\">Autosense</a>"
+        ],
+        "photo_reference": "ATCDNfWSkmDxcLbJKVqMs6o_lF9hCzJzyc942mrw2H2jElq9DA7hNNfKlKR6bIbjVBdBluFgxzjGLwk5wC0bciOJwzTI7RFmg3T366QwR9bQsP7mf36YlAb5kEBuLaTAEN6iAblYfe0qZyMBW1ALabEybw2AwNJUY_tTuZV3QnDT_oxAlUkxZ2beXg8B8x5UDT1LZvM44E1PwlEWMx_uqo1_8I5odE9OwFmJkD4q_k4u0G3-rngPRZg7Z1uwzBLiL30RtCu-gFw6nW3_ZYNVaWcQIrRLetC19mTFdIJT1by2Tcaw0A",
+        "width": 4024
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104036449177400215177\">Autosense</a>"
+        ],
+        "photo_reference": "ATCDNfU6eIj7ZV23rRpSAc5W6SDKAVjYn7av8scCyc3j1_NIL_287xBLUmrNBWPKTeCzp_JUdGxPu9WTeSzOtYrYF7PVfsCzswQJZi-m9YyGiJtQQ-wE0NWuM-ELOpoONxkoGWp4rMD48sDQqxLTQYtH6Wg3y05AzNLWM85ibvFXw54UArs_aZwiOMdXxf43e7iQiHO4gN_1ZstUh7bWguxV1XqFB4NbN1fO9mjEIX9MPuyazSmYMOGUuPZACPOBSNpoBR0eUcMz03YJ2r0YrsA_YhMY9RTOMQ1GCfRCjsO0oDZcMA",
+        "width": 4032
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111975399053503746099\">Mehrdad Dardashti</a>"
+        ],
+        "photo_reference": "ATCDNfVxSM6Vi4r8QsW3LBkGQoHZ7MegfVe_Ihy99UDhe-aTQV7l5R1ofkRwvH7cHHVG8-ArQL-2G0IaTTv658l5EpiX8Eo5-jmGp9E357V2Q1U7kRH1rVJWmrUptTg9nEToFXiFrUkHbxwp0jHLoTE0VWj3t26At4x9yS49c1MZHzlwRETME7ni_QUiCQ4awVlGkBVitwYsUrKxMkoVkiMsyCLrcZpPlSwXQv3_wsLAfGW-S_BGqHVa5L0garsSShlnqIfMRwJ94GJTomzuYK4mwhzXjb8KHGdX20FesphCLUmSbcVTQqPDu46NJ8gLRN1IFf1T2xMqdef6s6yzgr7ThIoic_7MqYDeQmn3IVs-_a8uSHTzEtWCrg2m3PHSni9BQyw2bqG3jFSOU4taNftz-7Fc00NJMWYsOlW9aoeAveGwZQ",
+        "width": 2880
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106007381758245624610\">Joe Putz</a>"
+        ],
+        "photo_reference": "ATCDNfUaOy4M73w2RazmYLA4KNjYavgcFJ2hceMJVloRCPv--ZLAftaioxweKsqk6z94lFWwnDe1qPP1cm8GY-xCG-ivcBq_nmL4ZUY2jzWbrtpcmTd-7G-orQfKVvNDe5Tgl4AT0b1tbGiRwr9Zg5tM05aQg0ESEJdUmQfRR2Exwc2aLFaNd6ONse9V07AStOTfrmoVtZ3sw2sW-u2vpu4xqTpsgnVzIy_ITxi2JGX73h3DOJkP41ShpWNY71jaPstGMgW9k-VfMIpig7Barlsnr_gfzqSeToezU-xOHbhiFOBKXJAX_aRzbTmqKoppD2pZxBfTpmdcVScVMNYGwFRpJUJMSz5juJGMpRjsu3YCRFjzBbJahcyjvtq906PiVXylDUqGIk3pxoquFw0jVt3bMT4TRq46_971xb9_zWNA2JpSjt4",
+        "width": 4080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109448357507585518547\">Reza Nasserzadeh</a>"
+        ],
+        "photo_reference": "ATCDNfWO7qyqOUEfVzMXAPGX-3LpNzAPwPSeBR_-I7yDcvgbnGdKvOPzyIhnyFF0LhLzIWAr_F9hyZ9GUj5BHbLB_DARtKl5QwtTSupdQuRebYJt8Xc2WAEU2MsKx6vj0yeVCe1rpyq4LtYDPFfA9Kr9qizXbMFRryd13ZafCPYyllAIKHGfZeIitTHnDVFmtWU_WacsEimGcuku7wNeDK_UWy5apN77Jx3LM1gh7z9CNtH86-_ezsgqUor3TzTpdSZX9IV4YEGUWws_rlfsQOaWVHSIQ9J_A5sskF6gz0faSG_XUcPup6krPMUceqjHmG0dzu899ODinU6RsZNwC99QUG61sKg05UTeSLE3NvzRJDvblK017VUpUQtUkLTV-GlRsUm5c2OWMPf5yMZm0yM4vIibOkQ6bnPnQWWf39R0DE7t9w",
+        "width": 4032
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103832928189980014046\">S. Assadian</a>"
+        ],
+        "photo_reference": "ATCDNfXli4PKb4pxaASR4l2ttjc3pMsqmoUNpI4FlpKr8W61BCciD1T5zy1yrpWmLWJmtXNabNIn1vQJ9p4HC_wLyASa4VnlBQnYLV4CePu7s-CUngHYHuvG9K2Y4gydJhTTJT5e0IxbxneZx0T4LcXlTY_oZ9cuNz23C09c8zeuV0Q_ppbk3T_jH_gAuSs9x4GvJf9ZeWxNwMpXIi-EdNzkcvjgayBYCyszpLOG0nJH7WxSHMkp72wCc3CcRmXKUxcJEWlpksFUgwWak-Y8nE7LM63vG-iIKts9yk80gOFUZGbLdJPys5Ugg0BM1L2ft4Lkjupoze9AY3xnzvDHrGVdUOvvt2I40Xa7H16PCK4pFlDMjxYW_eWDEhjji5QvXB5XsXHSoplkSI4AsjrB1ReDb9bVORmWRFFZVVVjv47UmTfIpw",
+        "width": 1478
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111975399053503746099\">Mehrdad Dardashti</a>"
+        ],
+        "photo_reference": "ATCDNfUGgydzdtJEIrT1zdMjvSgMU6zCgqkQO1FD5AyyRaSxoE3lqqynwYXh9On4wV7h_2mPAFZ-EHMAC1JAUIBPZY1K4B9BBK0JNzWghrwp0GaLc56FcPXEVvRcVtNC7FinZAVU01RB6A-ZCOZG9ZjMOzon7Ik1lch5bNo-8qrwxGv8U5nUpztHYDOwLaan48lYaWHN2WSI9uew4yqlP4Xc3AgJcYvpvE6LLG3gr4BYZls8Dl8zzPpNyqgCpx5q5n3xkyvOSf_84oyEDGG01RNYxR2p5i4Rx7XeK2X5lg106ZEAFzYpLtv4MyQRrVKkiRQbJmu-_q5SemUVOHB6sa2rAVXTx3Ccdhb_OTc4agMrLuWGY5H7WQIab86g17bZ34VK8wrsZjPmYkkXmIiPR51tqD3JT2dK14Xa60rZ3OcHC51hbw",
+        "width": 2880
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112754281956614993310\">Steven Morrissette</a>"
+        ],
+        "photo_reference": "ATCDNfVU3Teufd2lkYFfvbw0uKNy-TvLo9ew-cUxOkmKNrp0ANuvlMmIfMoNtrEVOdwNvTcoNjYdHao28D4fkRjvtKHhr1yJitPjl8T851XXQPS13XaJmzgcFtkyafA6LRaWpChIM9IUY3SdTdrNDwuM-3Y6ijXQLvA6agsbxewJ0CG14M3msP1WPJ9Pm87LymFCMakusDXXlc67rG5g46bfz2TeNxY9FKvfcLDcbc4_ztzJpmyPSgOOSpBK6htskP7aWxI6gNGqoOyLE7VbVhfGUpyiFaPGAntoTIHlEv3PRXGPV3_U1baNeVh5Vv74F-Z0yHpkdCTsYPwB4TwObecYJZJunv0YDtMCtlY-eB0g1LC6WSTo12GbywEsHeAcS0buHURLJOorqaF0Zf9jw-jPL6HBOvJRRpetOR7EGPt3LmyiLA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJf_zc4R1IyUwRoN4324IGrOA",
+    "plus_code": {
+      "compound_code": "9XPP+4Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XPP+4Q"
+    },
+    "rating": 4.8,
+    "reference": "ChIJf_zc4R1IyUwRoN4324IGrOA",
+    "reviews": [
+      {
+        "author_name": "Sina Pourebrahimi",
+        "author_url": "https://www.google.com/maps/contrib/112414856867813226188/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCSMszwstYnRDE7kEkY3wXbyGpITB7x59g-OW2BDx1A--tTuY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Mehrdad is not only an exceptional mechanic, but also a very kind, dedicated, fair, and respectable person. If a part doesn’t actually need to be replaced, he will never suggest doing that unnecessary work. He identifies and fixes car problems with incredible precision and speed. Mehrdad is the best mechanic in the world! I highly recommend him.",
+        "time": 1762617630,
+        "translated": false
+      },
+      {
+        "author_name": "Harry Pour",
+        "author_url": "https://www.google.com/maps/contrib/106842249731340259096/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgr-0cDAbzP-lS40AUrodz43SZdFIOQzZpzZPA6PQF4n67tcFW=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I've been taking my car to Mehrdad for years, and I couldn't be more satisfied with the service. He is exceptionally knowledgeable and has a wealth of experience, always diagnosing and fixing issues with precision. What sets Mehrdad apart is the genuine effort to provide the best prices without compromising on quality. Trustworthy and skilled, Mehrdad is the mechanic you can rely on. Highly recommended!",
+        "time": 1715875181,
+        "translated": false
+      },
+      {
+        "author_name": "Alicia M",
+        "author_url": "https://www.google.com/maps/contrib/107718185362736305632/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz4Gk0bsC51dtndkiiFyjx086V_ANEs93y4IqPXoVB2N3Zie9p=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Mehrdad is the best! From oil changes, to tire changes, to major repairs; he does it all! I highly recommend this honest and fairly-priced mechanic",
+        "time": 1738533505,
+        "translated": false
+      },
+      {
+        "author_name": "Ross",
+        "author_url": "https://www.google.com/maps/contrib/110735545562219941588/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_vfNWhCHIJTNdU939pKZLz9kw9rp0uSdzZWOte14lrtQEFUo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "My second visit to Mehrdad  and this mechanic is amazing honest professional and really knows his stuff .Will not make you replace a part unless it's really necessary. Thought my front and back shocks were finished but Mehrdad was honest and stated that the shocks were still good .Ross",
+        "time": 1720449113,
+        "translated": false
+      },
+      {
+        "author_name": "Liam Sean",
+        "author_url": "https://www.google.com/maps/contrib/102244159541250816499/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8uMAfQNcnjubazEL1xwo5yRw3CBIEsOyhnaVTQhbTEz7RVHp1=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "The Technician was kind and honest. He did a great job aligning my 1992 Honda, despite the age of the components, and the car being lowered he did an excellent job. Service was extremely fast and my car drives as straight as an arrow. Couldn't be happier and will definitely be using their services in the future!",
+        "time": 1686596404,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16189321919583477408",
+    "user_ratings_total": 70,
+    "utc_offset": -300,
+    "vicinity": "80 Avenue St Georges, Vaudreuil-Dorion"
+  }
+}

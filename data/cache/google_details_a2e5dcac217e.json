@@ -1,0 +1,408 @@
+{
+  "query": "tapNtip beauty salon, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338260.9887416,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "640",
+        "short_name": "640",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Chicoine",
+        "short_name": "Rue Chicoine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9J4",
+        "short_name": "J7V 9J4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">640 Rue Chicoine</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9J4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1330"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 11:00 PM",
+        "Tuesday: 7:30 AM – 11:00 PM",
+        "Wednesday: 7:30 AM – 11:00 PM",
+        "Thursday: 7:30 AM – 11:00 PM",
+        "Friday: 7:30 AM – 5:00 PM",
+        "Saturday: 1:30 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ]
+    },
+    "formatted_address": "640 Rue Chicoine, Vaudreuil-Dorion, QC J7V 9J4, Canada",
+    "formatted_phone_number": "(514) 834-0487",
+    "geometry": {
+      "location": {
+        "lat": 45.374239,
+        "lng": -74.0262742
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37565388029149,
+          "lng": -74.0249981697085
+        },
+        "southwest": {
+          "lat": 45.3729559197085,
+          "lng": -74.02769613029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-834-0487",
+    "name": "tapNtip beauty salon",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1330"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 11:00 PM",
+        "Tuesday: 7:30 AM – 11:00 PM",
+        "Wednesday: 7:30 AM – 11:00 PM",
+        "Thursday: 7:30 AM – 11:00 PM",
+        "Friday: 7:30 AM – 5:00 PM",
+        "Saturday: 1:30 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1630,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfXECJqt82lk8rLWhW_19f3wsCtv3V0oV6YCLRHvXpVSsEhzISR1WmCeR10PFPmssq0J7fTjA2TlzOE99fMiOF8C9l0ZkvvAWrXtoAR0wIuIIT0-4G_1ytEl0Ms55ajDkKGmVUVSdPTuazn0OemB-wx8U7P7Vgc3vo4SaGsR-Eqr7qzzY84jLPSyWImYPRCYz2jHokGQcCKs69GGOr2nGyBsk_5VyO_60zZT6C-SI6FIqgQCFFswYRewKGnLa5lKah3ZUFOHNntVpuEzwJlA2b3DQGkHRkCVm2DZ19HX51NSRg",
+        "width": 1290
+      },
+      {
+        "height": 1262,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfVq4ONQRX_aUfk2GvVBFK-lSntW7H39NGEmNLs3E3harLosIqPJjWtKj6mkRN6EevON-k7mT2oQ0UlkSa1i-8I0VpUSYs-BIC7zAsDBKhkLlrd4UTF_udFikHtt0CTRNOdS28SdVUk0IoP1A5M8kjOKCPuePyvnPrdfIZKgqr6R_xfX_IuoiglEQCnExaCm_xRTEGDG3269yxzg-0ig1Qk_a0wxaB3Im0_GbeD18hjfhFuKaHYc2nKYMVyx5BmQL7U5f6MiJ-JWWhdgC7oIFC_to0RNyR09svo3D99YFs9T_w",
+        "width": 1290
+      },
+      {
+        "height": 1257,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfUA_b-rHKX1Rz7qwMUhyapBiUobKrijUM1L_0Ae9ZsIDn5PSwUquCcAwr8QsrZWr0NKpy_TvWdlw-4bnMjXr0NPyuGl0qGkt_l95EGNrHsi4EpEiyV89DJGkHh4bemPIx9FhedVbEMcbsGfzxAlwczVFenWP2GERXd_FZhGG6rbzCSPzZzuobRX0USjuIUzbRxOA_Urv7xH6DbZ6DwAYXImKwuNn1mqlmz5qILPyDFcFyqRFnec5lKs8q4--_J2jBDs3hBPrJujrYyFSFK4_MsLJ1xdyNUHzaTWrrfBwR3Fyg",
+        "width": 1290
+      },
+      {
+        "height": 1630,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfVuK86NvRG2FnU9oB75iFuenjwuvQy8Mohyo1qr21KI7h03_erhYJD7bVuDBWSnWxHryxo0VtIMSwctgFHG7fWGdoczN6zDBh_3wJqBSnB2OnENIOi8vFzc6lhrZr4Qkb7CXbFJrzo3lv4AdzeYUfZA0G1vUd11pGnggmMw6BqhuHgkyxeQuBukg1zGYnkSa0kRoFFcI21qi0SnXLVeHQ5GDrUaI2_smn1kMQ_Nkx618uN-7gikzx8u9UfrEjXDvUFUUeGjU3sve70I8aEh-LTDt3oUa-0zSx2ZtqsCI4bR2g",
+        "width": 1290
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfVcfQhszszT3P769SYbEHNODOcw9bIZXDJrvbN08RiG-cJi1zvCna-xSCHdTRVS_Rm9HjwZgSnvNoJaV1dqLC4OoPD7PMAFjwfFXBxxpwHFjr0CQokyo1S8C9P9v_AgPoyvYvsAqB_fpWx2hfbhBhz9lh3O13-1t-JLXGjHfjYDKOVaICgQtkwHC7Vq0sRDxpqoJAM2bV8i8MKyTzTIWIBi2p9kGceaZmJaB9MjvLHQT0setR9tO_L-GqGS8GTOo_pqfd_zbTrMdpq54awKHju19a84navfCRnkWLIJXivLQw",
+        "width": 3024
+      },
+      {
+        "height": 1463,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfUxPyw_7gVFeo0xv2RVGumxyQEeifUHxH2acFbDC2rP4puefYAlNv7A4iyb67ZZTxtcbJqzeOXOOIJfTA_oWT2NKFtu8fALvRkJlih4qOdHamI-n59FJGT89AOuatD0byqJ6LR8pE-Ko1W-0vT4Ign82s2xMPRSJg_9kQessCcLBUE0O4-0Skw2P5he0R_1olInpjrBmlnJKB1EsuXA7PR-bYPOR8nav_lKqb2GAnH5JcmgXul6PFAv4CEiPnGZxa68Phg1vf9POAnYPqh_io1sgVuxfIi1xIn-iYuh0BYbNw",
+        "width": 1290
+      },
+      {
+        "height": 1035,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfWEqtuuiYXVVZBzpm2Dtq_PmYHa8lFs1KHe2WOSuFu6i-QCYLJhGqkwdtULY77ArISB4pBJrpNExrLbOwNgLkQqrrblUzbd21g6L535fqf8FYRIb8vLpQdBbuQxHHGPOLQNx6ypCf9_jPLESeDxqWNUOWIqzJsYVi-evqsB31oUcNtyif5fGbkFnyGFURxgi4Sjch-nM0YsLQKnoNcvFJWe5wKxWiSy40SoBXfHNKgeUOJeRDEJdLb3YkfBaYpKlZQs1OgYkDKQ58pDcM7mA0L_YziWoTl_7xNQFjSc-MHn2Q",
+        "width": 1290
+      },
+      {
+        "height": 1423,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfWKY2Y1EYJu754ZWELuBvvHCI3wKiU7qmgLkQjamROYv6w27dYpnpNr1gBqc7aQ55lSEgyRH0Izv30i8CeoLsrxxLq_9U8IGDXEHwyp_CVNsYvliy-Zwm4rlOUVsD7SsJbzEXDCWB1sBNtbtx3kn-xemjIxzXdxIKwuZDjNWOgNdmA_3teOG7dT6bAZ_-5hI9OIUFSNWO3z4z07zjdIEFkNjjVyeMx7BTa9biVEzbLWpHDG79rxcaTHv9H6ydkUtvIEB_WZLpilHWqeMJ89vYihffGAwtkz10FdWXqHd8K82A",
+        "width": 1290
+      },
+      {
+        "height": 1932,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfVDuwp8OqkhlCZCX7B688i24ujWXsrst_OSDCB7tHPgulibY3PJBB9Cc_-dZx8PaEfMZx3p-CoumPZP3dK6lpQ7hI2ieVzWLAeji58gbtvs-aoEjZqQxnWoWLuLqCfKfuz_V_mirIgexoXnQT8Kx-FrexEF2IViUxGCINGgYQ3PZDJF_Yv63k8vR72p1Wh9A4mE7yH3GPY5kff9cTwxdTuIFyd5JGJjPCMaoc652BoRbwboJkkIHa7eU-I4UfrlTv2CBqXO6CT4fjFGzgnpAxb_1fvZIchfgHR3q5Xx-7XC4A",
+        "width": 1290
+      },
+      {
+        "height": 1285,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113303225090862060666\">tapNtip beauty salon</a>"
+        ],
+        "photo_reference": "ATCDNfX7SuTgxgDiSoyWttsH-g6u3Z9h0MOLjl12Kjf7sLajkPcbHKeuZetUAGC2cBC-2cJnA7BYEp0lKJucADSpQule_hxEJCPVx7-jA31X4A2cNNNSxHT0Mke4uXOH0HpXwoeB3ncML5UmM4KLmaXQUAY88GaDnKMAsa54FXc2FeodLzUO8mgy2KXRdQJgJFWX3MjwEFbkj7UUFMsQo-JHtzpV8MG-Kd25aqah6-sRtvRgFtOt4cmo-AvRN4qf7_JC1ZhJh2KxEEtUuXnNFjRa1GMFnpKeyBo0t9hjpeHn0hrp1A",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJR9YplLhJyUwRFC2M2HcXTJ0",
+    "plus_code": {
+      "compound_code": "9XFF+MF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XFF+MF"
+    },
+    "rating": 5,
+    "reference": "ChIJR9YplLhJyUwRFC2M2HcXTJ0",
+    "reviews": [
+      {
+        "author_name": "Mirette Samaan",
+        "author_url": "https://www.google.com/maps/contrib/113328971719190090117/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvs5ULw1uKaPvL-cIUZwhuCrklnTFeJmTU-o9pmdSCb2UtxgeO=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "She's very kind and always cheerful.\nNew to the world of nails, but very good for a beginner. I recommend her 100%!",
+        "time": 1761186616,
+        "translated": true
+      },
+      {
+        "author_name": "Carmel Botros",
+        "author_url": "https://www.google.com/maps/contrib/116196679183713368605/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPO9_F-KECxj8TtgLmGRA8x3e_FmqxhYQKF0PAT4m0oRJxjA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "This is the best nail salon! It's run by a young woman who does amazing nails.\n\n-Great prices\n-Super friendly\n-Always available\n-Great nails\nI highly recommend it!",
+        "time": 1757018772,
+        "translated": true
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11334460165686308116",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "640 Rue Chicoine, Vaudreuil-Dorion"
+  }
+}

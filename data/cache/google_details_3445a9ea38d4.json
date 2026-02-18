@@ -1,0 +1,448 @@
+{
+  "query": "Carole St-Pierre salon & spa, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340112.3355522,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "#170",
+        "short_name": "#170",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3210",
+        "short_name": "3210",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8W5",
+        "short_name": "J7V 8W5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3210 Bd de la Gare #170</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8W5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ]
+    },
+    "formatted_address": "3210 Bd de la Gare #170, Vaudreuil-Dorion, QC J7V 8W5, Canada",
+    "formatted_phone_number": "(450) 455-7999",
+    "geometry": {
+      "location": {
+        "lat": 45.4059484,
+        "lng": -74.0435715
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4072554302915,
+          "lng": -74.0421768697085
+        },
+        "southwest": {
+          "lat": 45.4045574697085,
+          "lng": -74.0448748302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-7999",
+    "name": "Carole St-Pierre salon & spa",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2754,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100266886790663881834\">Carole St-Pierre salon &amp; spa</a>"
+        ],
+        "photo_reference": "ATCDNfX3ZezqrSwfEEesNEubO27IaO0FqQjRLsQlVraLDxfOjLHaOi6nIjlWw7jg9qdfyA6Wqa-7bsOgecQEdf7bZmVKb7Eg3HAL1x0YlircrHXjeWTH_sSXuQX7S3jB23DufXoDK8mWVEXohzqRHEXO502BJGs1hFpFQ7Tm3ASqOvAk9pls_Vy2lFtqDFbDYS8biLYvgda5bDC5J6P3J5UX_bYEH7GpILM2qbr43MrkK62TCOefrFz-FEO4B9yo26iKl_lmkpTZKR9VIUiyZJSE69rXu451mkC_OIRJq_uVNtxq0w",
+        "width": 3779
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100266886790663881834\">Carole St-Pierre salon &amp; spa</a>"
+        ],
+        "photo_reference": "ATCDNfXhjKGTW_ak9nmGiNxICKW5WwbqV5J2UfclVxd427vY3G4h4t8dJSsE-_sKNZSm5PnwHCLJgtyNy4WgOsTOUgQR7WsMbobe84q7yopYBWSPkK8wUd8TGFS1rx2Xi4a6TX8UbSXK3_IW6MAj9ToV1LfhdFollhrBHvPbW7v8UqfWQ-WDis1MA5NIc15wIF4PxePYDU0rwXLYyThx57JBqP7zNCFk5dOR1oNsXHtkLODOUF9JBdOPu-T-ONwfMr7-utABPNqHXEInpxxTO8Tf4UJdbUsH6sin0jufn-mRLmCMkg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100266886790663881834\">Carole St-Pierre salon &amp; spa</a>"
+        ],
+        "photo_reference": "ATCDNfV4UmQRN-rdy-M3UOhkkEbMuBchhoQujCHpAmyGA3NbHO3VTjDk4yoZqo6Q-Yw0R6BHxkFRKlzoF6TYaouLA0V4XBObsWRVNpcs0TARHXBIH9lHGfjWWsghPZyKoreD9zg8D2p5-R4nKprwRVoUNe-dDlxf0WSZshdAasPOPSN37rPSi2R7eX5JFRWUZa6ndWr6CvVkUSBH1ksPeK4J8t29s4XgOHPhooGWisX20TLpp1dN0V9hyrXzw-Vyv7VUMl86xyU01EzKe_wmEWH9ua4L-LMSex3K-CaZRuRrzRP3sQ",
+        "width": 4032
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfWaom-1LPsqzJ3Xht79IFPVh_MyhBhncqer8KX9ysODtM3KROTcIWRZDAzLL4IB4WP7WOKAyG9-MKrgRxButOU5Swx1k7LBRgPjyB5N8G1ysT6EfqiG55JPN770k-o_p4JQfQXmMZXvP2EdrDxmkRjPmGUwq3AqnIkIYRXNO1G2JqK2j7FL4Yvae59cuVcTqRumgRreBRnkiIbE0ynLrvUthHOfGmhGEELJmMshTOFRPvhdnKZ_dnQ1OHV-X_YuXwxxRuguX3NP_lBBXaa2razvSkJNflDBMaWDaYjeWDGw1UwZfGdRbsQzZAk9jqXW_Hdtu7KYqTqpbyHuiW8pNc4PtjRjs2KpjiCeYyupOaQGOORpw17xI_f0ke3sp4_JBj20SO6PuZ1vT5rG5UmtFhZAqiFkm0_38OAZ6rPq09CQ2Q",
+        "width": 1920
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100266886790663881834\">Carole St-Pierre salon &amp; spa</a>"
+        ],
+        "photo_reference": "ATCDNfXJHgAtH4b0yyKDDdXahVN4aDUosrDNnix8rYd4K6KPDkH-kYPDF2Ismke3gdowf9vXUKsDWXUS9R1Q-R_s9c5SwLYgqZwqv-yGPkTKBW72p8mOur2DoZT_wZBuBj_ZLeeA__VxL4C1wRqyETuODZzFQknLjpUhwgkTEnauIBXmUN_Y-Bz_lU186WOEzTorfJbTVWaNi0jJI6zaKYAz2U8YXU3s2-rdsgkBQYeHIee7IvTCN_IYqve1oSjAWMKKXDiHTvas-SwqudwFnioxyPjbdLdINzV4jpy55HBCWFU41A",
+        "width": 4032
+      },
+      {
+        "height": 2556,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100266886790663881834\">Carole St-Pierre salon &amp; spa</a>"
+        ],
+        "photo_reference": "ATCDNfXNpwRCyDRiy-5pTpK-YsYPnEc00vt7QUWIsuid802TuAX4KE6EN3_aU9IcTG1nILFHjsUb8KRkNjcI_L2hEnskMHw5FdLETHyVxLZCCmQtn7RzE2h7TUvgfcN0t-8roJcQOAV-S0uy0v-0czHSJbu4UoTpVFpu__L_bv2HgnQowV3Oy8pHA-dLaGl-Yk9a_XeHlzsgDL6URAfEdpzHfSVCf5d0cySX80cm2Wa5hU-hIE0RUup72gtgqJDB2x-WAt1GzXo8fcLyaJq-VL4lLPivdRzyd5kk7dFle3tzUOqmYA",
+        "width": 3770
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100266886790663881834\">Carole St-Pierre salon &amp; spa</a>"
+        ],
+        "photo_reference": "ATCDNfXrPVS0oANdQO0xR0LwkxQcKVpQEyX1EBSc2n7dcz4A1nfuEaCjUe9D7lxsUgiJHlBH69MSm4YovyKuRZA2MA2SZQmj9Oh_ddxVO8XOhF_qJNvlYDnYs0udG7L5MXpkU9Vw6IgH2wlb-vpFVUwPYkCMPZqB4RN2D89j66jRcMFjkbjEAIjekXaLzmrf2O5e8Yu95LaUNjxXqQYyhUZ8VicNprAZ-O89Fn7Vhz-Up6nLJw9iD_VBX13VMXOtA22fmGfc4LHZt7989pumnZJsX9cijLKi1XsAlzhQuC-Xf7E_7g",
+        "width": 640
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfUOBpjIL4yKqUczX77aly6yIP0xlIVPL1eQt0l3df9GcUU4FZtM5GQQdQ7KwIZkxXq8LMH1XBuRBM8O0i-SuEncYUjx_VgA1eu_AiJbMn0adZyFzEF4e2fWon22fUZN-RTPV6RjEHI5RyRKy6kglk1v08hvXWBka6oF8v4WANpOfuRy9LLH5RJ4N5WTN0khl04lyn2Eg6j6L40eamg_E3CL5SFMUDl97t1SxJKa-aAovqUP36_oRDxlTd2b7xa_QJ3pNau-ECPcMcz91fXyFz0NJpHHL7VhF9mR_pxZ4UJGOWoYcXKTmgp213RI0AlZeFZRYChfEZqMOmJ4oR7VLzewlmk0KkjQSzku57YKJ7afA_qvzjAf2qFL-HaSBqaQVtMC0sKZFUeOGnXLg3WcFMUZrJsFVE2jXdE-wIWxeKCWdFSO",
+        "width": 3120
+      },
+      {
+        "height": 799,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100266886790663881834\">Carole St-Pierre salon &amp; spa</a>"
+        ],
+        "photo_reference": "ATCDNfUAalgUo9wZ3wN9EydvTp2h6ygx0mGCaVYjEuYeXZmf6V6RJfZPJNgKxKLCwK5i8-1csm7SlUNeEvDLn9Tf6h0d1KoDE-oP0cLKzVhaN9u17SK51d2sa1a2rO24ynMMrRJjzEbd2E2ZaArZ40m9HURO1XgAiqE9PyiseKf4p2JCXq2JgfsuLxKgqlcUuucooL4Wz9KUxsR-PC7SNdARJqMk54ibJJ2BhsvJSufIOSQKF3a347-ZxR1quPZ_BAR92daQrLnQwlHAUPICahfKFB0iFwjt3nw-VYdkCo09ZxlbYg",
+        "width": 1200
+      },
+      {
+        "height": 1112,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100266886790663881834\">Carole St-Pierre salon &amp; spa</a>"
+        ],
+        "photo_reference": "ATCDNfUgL7c8-HesTwq1DUTM5mJxGX3Gniso4V7shDvd2q72HmFUxq-U9oat_HbynT2aUi7WwUk1_2KBof2PI3a34G-LzvPA8k5dcKzosGzrY6oBqvWRbuHabdBBZw1OOmcN9_9vPIFbOXarGbgk6QjmL0ddqwBFoPFXUjmV135JS_mPY91-eeb47ZNcbgjrclZnzMw5gCrDY9mWPnHefLgHH3z3hiaLMU0TUUcGrFwHuF7N0V1llHPT15emKNWTxiP980lfT-YObLW2PATqRBgJHLZDUzPGJ-Y0lhbBz3qBBr8rZQ",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJxUTQUsA0yUwRlBduo92Msrw",
+    "plus_code": {
+      "compound_code": "CX44+9H Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX44+9H"
+    },
+    "rating": 4.4,
+    "reference": "ChIJxUTQUsA0yUwRlBduo92Msrw",
+    "reviews": [
+      {
+        "author_name": "Be Be",
+        "author_url": "https://www.google.com/maps/contrib/115145191801786402150/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2tx6TOYOXMmF7I5p0wVbbUM8NlM76d9C6WtGE2-gjzgwAeA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "I made an appointment with someone for 9:45, but when I got there, they said that person wasn’t available and someone else came instead. That’s fine, but the person who did my nails was actually very nice. However, seriously — 175 dollars for a simple manicure and pedicure? No gel, no extras — and with that much carelessness? Fortunately, I took pictures before leaving so they can’t later claim that something happened afterward or that my nails got messy because of me. I could maybe accept that level of carelessness if it cost around 80 dollars for both services, but not 175!\n\nI asked for a receipt, and they said they had sent it, but I never received anything in my email. This is the height of dishonesty from a business.\n\nI’m really disappointed that I trusted them",
+        "time": 1760478896,
+        "translated": false
+      },
+      {
+        "author_name": "Sunshine Ro",
+        "author_url": "https://www.google.com/maps/contrib/100651388734958894342/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4FEuwFE6JWQqrtiC-5P4FQnz3cTflNf2mIsKUG4tNlEvvc-opSQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "You can see the before and after.\nIt wasy first time at this salon and was lucky to get a hairstylist available last minute at 9h am. Mayan was so welcoming and made me at ease right away. He gave me one of the best hair wash massage, it was very relaxing. The way he cut my hair and blow dry it was so smooth, I was falling asleep and taken well care of. The results speaks for itself and his amazing skills. Thank you so much Mayank, I will definitely come back 💖🫶🏼",
+        "time": 1769268389,
+        "translated": false
+      },
+      {
+        "author_name": "Sierra Werbrouck",
+        "author_url": "https://www.google.com/maps/contrib/110631545214287615381/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl-SIwUhMs0ghpeJ8HxOMtsK2MNUw1tNwm0qaUrPwz2lVQJsL2Jw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "a month ago",
+        "text": "This was my first visit to Carole St-Pierre Salon & Spa and while the staff was extremely welcoming and the ambiance was nice, I left feeling very disappointed. It is advertised when booking as a 1.5 hour facial experience, but when I arrived at 12:00 Arianne spent 20 minutes to explain the facial and retrieve products needed and then it was finished by 1:15. While the esthetician was very educated on skin care for my type of skin and she was lovely and the massage was also very nice, I left with green face mask caked all over my hair line and around my nose and ears. The room for facial treatments appeared to be right next to the staff laundry area so the sound of the door opening constantly was not so relaxing, and another employee also interrupted the experience twice knocking on the door and the esthetician had to stop my facial to answer the door and talk twice during the service.",
+        "time": 1767473281,
+        "translated": false
+      },
+      {
+        "author_name": "Eve-Marie Blaise",
+        "author_url": "https://www.google.com/maps/contrib/112132703505967119027/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKz4eJWBlSd2JeRD0pkFXGOkJP2HcsZUVOjnL1nwaZ09GnGw2k=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "My beautiful hairstylist Thea, crafted amazing ageless and oh! so rejuvenating creations with poise & passion in the most soothing salon spa setting!\n\nMany humble and heartfelt thanks!\n\n***\n\nFinal edit for 2025  ⤵️\n\n22 janvier\n9 mai\n27 août\n5 décembre\n\nThea does it again and again and again!\n\nThis time, we added an Aveda Botanical Hair Spa Treatment and scalp massage infused with divinely refreshing essential oils…  🤯\n\nI left refreshed inside & out!\n\nThank you.  Tout simplement.\n\n🙏⭐️✨",
+        "time": 1765028688,
+        "translated": false
+      },
+      {
+        "author_name": "Heather Grace Stewart (Author)",
+        "author_url": "https://www.google.com/maps/contrib/100691960033956617121/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeBYM1EwP0QgqhyiSRJA2t43Xbo1tvtXLBxk7tGOv7Tm-WR98o0A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Best salon I've ever gone to. Excellent stylists and polite and helpful front desk reception. It's not expensive in comparison to downtown salons! I'm always happy with my hair and nails. Vivian is an excellent stylist and Rebecca a master at Pedicures. You get what you pay for!",
+        "time": 1762097460,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "spa"
+    ],
+    "url": "https://maps.google.com/?cid=13597085108542510996",
+    "user_ratings_total": 312,
+    "utc_offset": -300,
+    "vicinity": "3210 Bd de la Gare #170, Vaudreuil-Dorion",
+    "website": "https://www.carolest-pierre.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

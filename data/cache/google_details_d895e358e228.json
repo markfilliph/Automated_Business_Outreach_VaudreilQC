@@ -1,0 +1,393 @@
+{
+  "query": "cielouvert, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339522.0051155,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "105",
+        "short_name": "105",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Bill-Durnan",
+        "short_name": "Rue Bill-Durnan",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3Y3",
+        "short_name": "J7V 3Y3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">105 Rue Bill-Durnan</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3Y3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 6:30 PM",
+        "Tuesday: 6:30 AM – 6:30 PM",
+        "Wednesday: 6:30 AM – 6:30 PM",
+        "Thursday: 6:30 AM – 6:30 PM",
+        "Friday: 6:30 AM – 6:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "105 Rue Bill-Durnan, Vaudreuil-Dorion, QC J7V 3Y3, Canada",
+    "formatted_phone_number": "(450) 218-3532",
+    "geometry": {
+      "location": {
+        "lat": 45.3924661,
+        "lng": -74.0393077
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3939342802915,
+          "lng": -74.03787006970849
+        },
+        "southwest": {
+          "lat": 45.3912363197085,
+          "lng": -74.0405680302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "international_phone_number": "+1 450-218-3532",
+    "name": "Centre Educatif A Ciel Ouvert VD2",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1830"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 6:30 PM",
+        "Tuesday: 6:30 AM – 6:30 PM",
+        "Wednesday: 6:30 AM – 6:30 PM",
+        "Thursday: 6:30 AM – 6:30 PM",
+        "Friday: 6:30 AM – 6:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100460225633348642267\">Centre Educatif A Ciel Ouvert VD2</a>"
+        ],
+        "photo_reference": "ATCDNfUm23DKY2XlFAEeRUCSK9B0guvCwY_djjMoEDdXB4cCxJKV9Y6CFQ6ASqt7YAx-2fP5X8QAjFMwgOdARYHY_hUTo9ynrwB4HOJ_Y2EjVpeR-EaqITY7fea1blwTiC_iSrQ91mOd_pVw7cxamZEumRaDaTn0i_SF_zho2A7U-hYPAT-Dqsfh5GLoABWZy8ECAfGCn1Ei23A9agq5jHEpeVESiY4u4-vuL8p_WQR_oK2bbQdVjR8hGOKaxCz_PtKEZ7-vymq4H89GYo64oWThPjPM0uT_5AA3FwD6dzMq6ofJOg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100460225633348642267\">Centre Educatif A Ciel Ouvert VD2</a>"
+        ],
+        "photo_reference": "ATCDNfVzuEAx147kkVvp4DzclbRIz8ppEdFTjLcvna7Z_MhL9IkvNU2Nj_YONSazhiRj3_Fvp_BVdVo3VVrYyG9T9xEL7beGQ3KxxXpqZ9b9nHXhJ4-GV9zUtFYWNCY15_wZTasvRAL4ONYIjUHY_uexO7OP984Jkc3Mpm2gh5kYumvjM_HOyfvykc9zfMIFauUbrWrexzH4sZOR_a1un647rTcZiwDhFpYfBei7QTnzY5gcoty-4Mu40_rwpS5QA8LAe1F2pvtXeZfWRTbosjhPncj2M6P0BrSOhxjHDOZWflkMAw",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100460225633348642267\">Centre Educatif A Ciel Ouvert VD2</a>"
+        ],
+        "photo_reference": "ATCDNfVHcbdel0WbVY0ERm_e9i6qsxnDBIJSULxN1yAiM65YcwhQd9EOsrPaR4v_xMfO1Xr-dbdjCyOXfVIXHIJurvOZxFy35HNiIqyfKOvU9S6-wsqlqLxhSVIeCxUSVgpYxEeDDiHhVEZo0YuGoNNvCNSk4_6kNJNxzHW0vJpkoczXlzmWDwtKzRf3Ied6ZTTJVmrPmjoKE5mNPhoHG9rbsW6AvGS6lDBsz0E69MMAf7y5Wb7o0f-uG2doFBtxriMlPgpE8uc8y_CZLJnA911-dQmGQ4Zm2mSEOCmMkrwvRaePdA",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109718961929995573990\">Centre Educatif A Ciel Ouvert VD2</a>"
+        ],
+        "photo_reference": "ATCDNfUusS4-U9f2n6Taap-ZXVnaWIv_foRapjEmHOkNvzAQ7EjyBXLEJG1QY99MHQtCPPUBrySFh4gspvwIglrVzIudnsdLCcO7qwm03GpMXSR6a2-eVjf1atN3ANmc-E-BP6Ah9elS-pQUFcIB9vZ_PpTxvbTxvVFKDVaEeNT5bDw0De_BbTcjcwBU60m5_S6wGKUqMmRdOwR_ZkS40FbgK2fz337KzP7vqO8Xnz172g1CHLa1EV2YfUZ3-GgFDsRwM2vHnMD68kgG82wtbmV_hvIMKWmaLUY23itSjmuLS96UN4NO876bWVrBHi7Os-c-n482Ec504mIJT1X7T5lnkZgA69jVKmeJnRlWeW6cKJ6WNSaa0fZMnK2hfJ1Viry40JQKLF9o2qCO8rQUxbwJvdRYvIilVfpnhpX4i7eeG-6bQjz5",
+        "width": 2048
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100460225633348642267\">Centre Educatif A Ciel Ouvert VD2</a>"
+        ],
+        "photo_reference": "ATCDNfXXbFixbhVcIxY3Im7e0N4W_bda6fOJUT4WNYh7MGJGdF3pECjTRzYl_EDaDUXmXHRNdROVG6pc-7q6UK_N8r2qZSTyPpWK53gJo2z6O-1Kh5FjOcup_gYRCOi3FKmlVyNTVOuZ9aHkpy-ZWJGzbIAYtEJw7gn9uLCI05aH5umrpIXC43M2Kl0wU8Bp1fXiRR650-ps-emDCXUE0JbOTG9UNzWLHMNJ0oaLT9sQ5BhS5Lzo71ZQGAmcy1ZQ423nQaGdezHfoF3VhHWbg3_6k68CmCYg7lZqqRbOly6F8CNo6A",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109718961929995573990\">Centre Educatif A Ciel Ouvert VD2</a>"
+        ],
+        "photo_reference": "ATCDNfXBgbqPEcnukyn4FeWTKhI6ixaV6PmJ6W9RO8ze1q5LE1y9DEe1ymmbcR1OuGWw0MdSe0ZXL1G2AaGh8EQdC6fj-tzjZ9Tx6lNPDrgbCh5JFIWVvNA3AbuQ3l7k2pMYgcjFRmTF5LANkM7mAbeDgYp9374hg12EdRUZz7sK8VKhK_xS4ZUf64Vm62hDpDBj5QPP5dWipmLE7XuEQkocIWaQM7JTZYitHbl2NIZTs3X4fnUy0syU4J8dpRk1mmkFlunmbzc87vqNwCaHapxDS5F4IdrwmVea23-1E_3JWQ8w_LL1k-8SsA7FKYF1hB0Fm867ojEhCpGyJQWdZ0U9h9pkJ-dl5N9A7ALSzf2qILbN0PHi2QwFaMXWxPD3a2CDiNliWx3OclfTwfEnkQ8nvRXIaKGK1iwVOJr5v79y8KkX0I7s",
+        "width": 1536
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfVrL2ioXlsxG44QGrDxbvwgBalEp578jhvV-wRQG4vMQJ60fCwbuSG9lYkCB4Ol0zaIb4xHeSyqwEMzkoiD0V-ZnaAjmrHDBzaAWiEiPd-E0_4AUJ589LnEOsHXcXi7qbMv6yQXlvy_aFkJQKDJNQ4t_N1wip4Nt-bhN6DrNC2cfSOr_MoS6E6sSNFygREi_ymqfysMt1YvHYpbM-rYqEpp_4zuKyCanC7tFly7DpIktCYS32RwVzPLSRWJ3Y9lfk08pxBcSy61VLIrAFEYoWgusGSodksOU5NoJ6NajxIBbcSMGUQA6ZtQqLmALCfMgFxI63cO1kWJnBAmmDyYHUIyZrPZNaCwUAQgfuDhMn-WnsE7DTToVQuBAThNB9Ta1ku6FU2GlvEaysupDICH2NPmLeHTmVn5NdNL6GGkfOw",
+        "width": 4800
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109718961929995573990\">Centre Educatif A Ciel Ouvert VD2</a>"
+        ],
+        "photo_reference": "ATCDNfVKxR0QEsV78e9yxsdqdxBAI4p7OiQRgOpP09ey_Ssdfu4pEknL22RxIakqMEnvqmbLrZrgLFfllpP7OS3a4OC8e-ckS-OwYRHyDMBT5dz26Rfz1LhvH2_YW2FNIisrfN8iZP6m5TbFXbV2bI2gNk1w0d-oNERLQnhZhZgyIhL_l5XFtvnp2jf9uX93A9ihu_JMrgcYq0Jz6hbip7lwcRpAy6lEMJ5WgyWF3Nr9pSxDPfR6fIG5WtZoUPrngLJ6GOGH2D-SnV7pYEpSJk-mzGmQ7XRfkcq-lVzi1tJWQn2-6wi6XFdZ8jbQyIjhHb0iU45wYeENGCffa2qtnLdBQp8Qu5srdx648X5h0l5IPgNbQBQRM4tes2AzXBIEH-I44XgXFd148Frlv8WzCkum9XJQ0mNxSxf3W_fs-4O5jSEFTA",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109718961929995573990\">Centre Educatif A Ciel Ouvert VD2</a>"
+        ],
+        "photo_reference": "ATCDNfW7iR6dJXoszX060CjJdTrab8Pz4YCxafkG0qzoM9flcbv8j2huSDly4bqjeXuByhxVL96zwJQRiXZuzpJjqoSjaNAZPl7elui3L6qzZOgy2vd9SDfhxCktv3mbkUthA7oPiA8rf0EYtUae9Pba1gCln6aTB2t4ICzC99aoQMM1m96qzbl9n1ssgONr-QWMA055IvjeU_A06TLeuBGutJw4qVTCkLY6JVOp1mmZvFMraAUgI28tdUsnSgw_vfy5kZUwT8nzi4vWvGWUdOyioPRdzl-uhqGM7oZpoZCWA8Cqdwju0mkP0vyYeKLL0zlSA4OXHc84yxTWut53oqSbNFeNlmjR_Xx_lX6I6yrnGaFEuUaBmWZzVkWZbGb06ZxePBYLUIwLV1pJdtFP8fzllzOZRE9AGnV8UStyrVmR3nY",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109718961929995573990\">Centre Educatif A Ciel Ouvert VD2</a>"
+        ],
+        "photo_reference": "ATCDNfWqLvic10r7PgUhXL7mszWM3U34GQtMtNkkuTHwEZjUyl6T-mPZDL8c3Lk3C9utKBkNXafC16asgA-EhqCQOWtkYS9tJN5riezfRVQNXXQs9_1Lboyedw4ZDxgRE6oCIDCwZcMn-nBILF5F8l9rR2uCi_AbKE7PhNQMAHhuFKBbFv-NwnRyg0KMeNKtMNiz7hluH7S1lJLwGhLhYd4x9RdVt5eUFE9j8AuTFHyZliXCktC1EmvEzxXoNFuvQECelNAvKmExYBE107iw1kQKeFV4GkhAc68Ec5wK0dhh6JBBZ4UxY--eX4NDUaOXWnLkQKqarjEBc3y5d-XGf8eSi379GV46QArxrZzH6Ha6cCYitaUT2m6CPL35gLFypJ73LuMM0Fo3v7KtnS6Z8L28zCbsbsRG8VcgdDuN7aSSkAa8vkF7",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ9a-KA9U3yUwR5SBOFP1KIQQ",
+    "plus_code": {
+      "compound_code": "9XR6+X7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XR6+X7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ9a-KA9U3yUwR5SBOFP1KIQQ",
+    "reviews": [
+      {
+        "author_name": "Nikki James",
+        "author_url": "https://www.google.com/maps/contrib/117705099125337739015/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe8WxFOtdZbe6ve_Q_XsxQ7SFNGAQiCkLxszK-rsAlsNDEPQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I can’t say enough wonderful things about Ciel ouvert! From the moment we enrolled our child, we’ve felt completely at ease knowing they are in such a caring, safe, and nurturing environment.\nThe staff are incredibly attentive, patient, and genuinely passionate about what they do.  Our child has grown so much socially and emotionally since starting here.\nThe communication from the daycare is excellent — we always feel informed and involved. The daily updates and photos are such a joy to receive and give us peace of mind throughout the day.\nWe’re truly grateful to have found Ciel ouvert and highly recommend it to any parent looking for a loving and enriching place for their child to thrive.\nThank you to the entire team for all that you do!",
+        "time": 1759853367,
+        "translated": false
+      },
+      {
+        "author_name": "Yasmen Mohamed",
+        "author_url": "https://www.google.com/maps/contrib/104905842733491192199/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIGBU-4I6BwyiVfZzCzVi5dXZ-LDSHazYsqZrr7U1uIN5E7O1sUA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Our daughter began her journey at this daycare when she was just 8 months old, and we couldn't be happier with our choice. The educators here are incredibly caring and compassionate, truly going above and beyond our expectations.\n\nAs first-time parents, we were filled with anxiety, but Sophie, the director, has been a beacon of support, promptly addressing all our questions and concerns with warmth and understanding.\nThe amazing educators provide daily updates and photos. Each educator shows genuine attention to every child, ensuring they are in the best possible hands.\n\nWe hold immense respect and admiration for their contributions to our child's growth and development.\n\nWe would also like to express our heartfelt gratitude to Leah, our daughter's primary educator, along with the other wonderful educators who have been a blessing in our child's life: Amritjot, Karine, Natala, Piola, and Uzma.\n\nIf you decide to enroll your child in this daycare, you will not be disappointed.",
+        "time": 1748537731,
+        "translated": false
+      },
+      {
+        "author_name": "Sushma Prabhu",
+        "author_url": "https://www.google.com/maps/contrib/112937809012058271573/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhcSPhEo4EZIMewzfnRVk0sSIqjZbjZJQCPh0as-n6HJqaNcqz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "It’s been a year and a half we moved from Toronto to Vaudreuil. We remember searching day care for our 3year old then in December no vacancy … then we met Ms. Sophie she greeted us with smile and was very helpful in taking down our child’s details ..the day care had no vacancy but she called us in a month as soon as she had one we were thrilled. Since then our kids learning journey with them has been wonderful, whatever is the issue they discuss with us and the kids. A special thank you to Mrs. Shatha she is a wonderful educator and a kind human being. All the educators are nice and helpful. Their app is great and a good way to communicate with them and keeping track of our kids day to day activities. Now our second one will join them from October.",
+        "time": 1681482479,
+        "translated": false
+      },
+      {
+        "author_name": "Anastasia Gintsiak",
+        "author_url": "https://www.google.com/maps/contrib/116151685434620642037/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIduyNQwbQn3GBNX5EBOhqj2gUNW7e-eXpWWjROw1QO8kgsQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Amazing daycare! The director and staff are kind and caring. They use an app to send pictures and daily updates about your child’s well-being. So much fun stuff going on for the children every day, music and gym classes,  delicious meals prepared on site, the amount of weather-permitting outdoor time by far exceeds any other daycare we’ve attended (and this is our 5th!). Cannot recommend more!",
+        "time": 1675444596,
+        "translated": false
+      },
+      {
+        "author_name": "Makayla Burns",
+        "author_url": "https://www.google.com/maps/contrib/115256682498105106902/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGn0uvdbKc9xUx7ug8pcy4nzw7cbtx5AlochIqDRYhxJTK2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Choosing a daycare for your little ones is never easy especially when your little one spends more time in daycare than home. The amazing staff at ciel ouvert makes it a top choice! The director Sophie is as caring as they come! The activities offered to the kids are phenomenal and the lunch menu is inclusive!! Not to mention the property is always clean 10000/10 recommended booking a visit if your looking 😊",
+        "time": 1674828681,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=297601501211009253",
+    "user_ratings_total": 32,
+    "utc_offset": -300,
+    "vicinity": "105 Bill-Durnan, Vaudreuil-Dorion",
+    "website": "https://cielouvert.com/daycares/vaudreuil-dorion-2/",
+    "wheelchair_accessible_entrance": true
+  }
+}

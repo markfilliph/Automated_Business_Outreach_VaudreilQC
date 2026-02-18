@@ -1,0 +1,165 @@
+{
+  "query": "Equinix Data Center MT2, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340281.55222,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3500",
+        "short_name": "3500",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue F.-X.-Tessier",
+        "short_name": "Rue F.-X.-Tessier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3500 Rue F.-X.-Tessier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0000",
+            "truncated": true
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "formatted_address": "3500 Rue F.-X.-Tessier, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.4123757,
+        "lng": -74.05038689999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4140444302915,
+          "lng": -74.04917376970849
+        },
+        "southwest": {
+          "lat": 45.4113464697085,
+          "lng": -74.05187173029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Equinix Data Center MT2",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "photos": [
+      {
+        "height": 438,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113855560890346676886\">Equinix Data Center MT2</a>"
+        ],
+        "photo_reference": "ATCDNfXi2VgP4CAEjXZnVaVZABmMGvx_zw4YRSDE9ID9GAGkU9z6elz6M31-I6tawCeqdXr8Hwg4gR7LsV0Ob3TzaXggKBUjRD7mBKHwIci1nJ7HSo0DGgcaSGo9fTKU0_-8xYk6Ofv6fU76w7X7JYfGYdvM8lVS8UHyyfulrzJ2WKnLyH_WYxpMrIEYbJtK4SEwmJcVukNF45lCi2AN4BWqoHH0QhU1kKzMtSXvWNIUuQh7cZjqv8Zr3AdkQjoUm0zwsrYovOHrMlyldi4K0La-Y0kOM-bBlHMdUJvuhZTje7riJQ",
+        "width": 952
+      }
+    ],
+    "place_id": "ChIJM-vBKAA3yUwRnTgbUNy4XAc",
+    "plus_code": {
+      "compound_code": "CW6X+XR Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW6X+XR"
+    },
+    "reference": "ChIJM-vBKAA3yUwRnTgbUNy4XAc",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=530502112499153053",
+    "utc_offset": -300,
+    "vicinity": "3500 Rue F.-X.-Tessier, Vaudreuil-Dorion",
+    "website": "http://equinix.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

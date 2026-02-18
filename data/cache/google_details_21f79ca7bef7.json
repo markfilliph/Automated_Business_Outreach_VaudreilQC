@@ -1,0 +1,300 @@
+{
+  "query": "Agence Marketing Automobile, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338977.0706522,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2e étage",
+        "short_name": "2e étage",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "2101",
+        "short_name": "2101",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard du Traversier",
+        "short_name": "Bd du Traversier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 0K9",
+        "short_name": "J7W 0K9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2101 Bd du Traversier 2e étage</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 0K9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2101 Bd du Traversier 2e étage, Pincourt, QC J7W 0K9, Canada",
+    "formatted_phone_number": "(514) 425-3103",
+    "geometry": {
+      "location": {
+        "lat": 45.3870195,
+        "lng": -73.98225769999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3884472302915,
+          "lng": -73.98061831970848
+        },
+        "southwest": {
+          "lat": 45.3857492697085,
+          "lng": -73.98331628029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-425-3103",
+    "name": "Agence Marketing Automobile",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108304720584832577892\">Agence Marketing Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfX0uyFFfnxTOfZYmBw_YSpwp454stZtSMgpzXFFUX5DHi9CVvv3HEIoTFpDUTGesItar3NkYufkqxmRAfKVYzwWj7YNYQdjSopuV-imwcxtvVDrR1uf_1nuD2wQwP5dJ6SR4cAeiG9Ny43OEyIvh15tfIRnYhj4wfGpkpqSjYKDoQKUeGJXmQ6JSjUeT2DXUswdPuQj0eczmAe8Du_MtLtE-FHuAkXSq9LOBmJduKJpBv_nKCnUtVSvSi3NB3iuo4IVvEx3Es5pvw6DimrmVl7TfHFSJ-zdF1rIOuDy18N7AQ",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108304720584832577892\">Agence Marketing Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfUPCcGuuVenr5nRfhg261uHpcefAhn9pUOO28JbO62h0bBsMcQzwEkkoeQy9ZlKDhQaa8E3UZ0YkT-108QnljYhz-tugov6RGT6f0efH3ZL8QmJOkU260RCwoIZz4G_xtz_aKKFjbakyQAyZNzp39uwPVKOPgqmqd-gwb3ZrtLPNfWmKGusXR797laQbiB95UfDuQ1imeJpFmH802F7sC_tVpKYEdi_jQ3kqQWAohV_oYk7cG5OfZUKZjNt52nmOcgOEjK9R-7C2BwVrFLrrqkfSJc5YuSwT3h6Zk7AyDQgRg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108304720584832577892\">Agence Marketing Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfXHCkt3W0_tRdAQkr2EfVSqQzQvxeOHt3tTJxdXSbQy5w6q4oQamqM37IGToV7OO510JQS-1mGiniK9Ef3oQFuQ0Gg1foHrKYHtDmAST6OvMdwKVKQFjFKMpZJ6iH5B9yZo4WE6tka2Pj2DVwHi062muzcKaPHDjOm1ncb-RHFh7YAbQ6WRDugv7442yZ-sfm98iwtwPZLyvdSZrCFZu8ziOjOycj-TIRpBrmwvYYLFxvjarD_TQLqATfGNDyiky4o3SrNaHWFj-kZRHTlRJkQhCJEFY-QbJr1H7-kI9EOf7Q",
+        "width": 4032
+      },
+      {
+        "height": 498,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108304720584832577892\">Agence Marketing Automobile</a>"
+        ],
+        "photo_reference": "ATCDNfWuiN6gCkNIIBM9T8RoRVE9KfUAiBoQgQ3LQKVbeH7PXxdHrwdaJMk8b6DMR_D6qoeGT3BMSi3zkdU_5uWFIl9LkjOKQ5Yd_A1nt8DaWTANFCmpBYHCzPEurrilsPlBai8Rbb_G5-dXbW3Nw0TysvkuXpRS-h-_jn5p3LNqsZTQ4NJCCB4RICBkK8dXqeMB8X8wpG5k5qUoqFYZMm2cIAxXESfuVtgo4j2iCe-i3aab6TNtcwUTwficMbEn0nL1hRgq0NBvkvOpmKFPKyRtIkTfaTAfz9gkG_zLKbyFE_6SQQ",
+        "width": 1038
+      }
+    ],
+    "place_id": "ChIJRfLCwsk5yUwRe6aGkP17Fp8",
+    "plus_code": {
+      "compound_code": "92P9+R3 Pincourt, QC, Canada",
+      "global_code": "87Q892P9+R3"
+    },
+    "rating": 5,
+    "reference": "ChIJRfLCwsk5yUwRe6aGkP17Fp8",
+    "reviews": [
+      {
+        "author_name": "Daniel Farmer",
+        "author_url": "https://www.google.com/maps/contrib/108618502730212924625/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKxr-lJ27-VJmbs2EQo7gz1kMuLaPgNrBmU6EF1XbXMiUnrA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1652140783,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11463486230499862139",
+    "user_ratings_total": 1,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2101 Bd du Traversier 2e étage, Pincourt"
+  }
+}

@@ -1,0 +1,747 @@
+{
+  "query": "La Cage, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340174.4198058,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "47",
+        "short_name": "47",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8C1",
+        "short_name": "J7V 8C1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">47 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8C1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 12:00 AM",
+        "Tuesday: 11:30 AM – 12:00 AM",
+        "Wednesday: 11:30 AM – 12:00 AM",
+        "Thursday: 11:30 AM – 1:00 AM",
+        "Friday: 11:30 AM – 1:00 AM",
+        "Saturday: 11:30 AM – 1:00 AM",
+        "Sunday: 11:30 AM – 11:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "47 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 8C1, Canada",
+    "formatted_phone_number": "(450) 510-3011",
+    "geometry": {
+      "location": {
+        "lat": 45.4067215,
+        "lng": -74.0362056
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40796313029149,
+          "lng": -74.03492816970851
+        },
+        "southwest": {
+          "lat": 45.40526516970849,
+          "lng": -74.03762613029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "international_phone_number": "+1 450-510-3011",
+    "name": "La Cage",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 12:00 AM",
+        "Tuesday: 11:30 AM – 12:00 AM",
+        "Wednesday: 11:30 AM – 12:00 AM",
+        "Thursday: 11:30 AM – 1:00 AM",
+        "Friday: 11:30 AM – 1:00 AM",
+        "Saturday: 11:30 AM – 1:00 AM",
+        "Sunday: 11:30 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103632316429760841734\">Martin R</a>"
+        ],
+        "photo_reference": "ATCDNfUrqYKhC8QyqBzHjNJhOwjYvFIernLEY_N-tUIcuEy-P4SKrJ8J81pMPQTPnhYHpaKwHnkLzM86rA49dveWK_aZR-bhh1y28qh7agoqHpVuaxVacOfEx0THT_ueYPY1NpAbRE5li5x6CCX9W7KkJRwsaJOCvS7exs3kf8p0n8xBC0Ab8K8Bk4Y3R5sTA1yOQ-ZCJmH9mmJc6NpSlak6PqlIaT3FqHjocRKdkhfTmNO8a5sA43hT5XURh18acxxfJ2x0JK38RVrH7kDVBw1ePuR813UE465_FdHCMsIlEMlesHD-kWYiiLLihrs1LzIz6vAZMt-O8TXk0l0Llpd4AG5JfKOzHl7Y6SekKuOKrs5plsJr4S52lAQ3aIDQ9ON2U5rGerv9DzXl5zrgmcN37WG3HyfgJbDmGZV2Ub7C9ewA654K",
+        "width": 3264
+      },
+      {
+        "height": 2210,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUmOkNm8Z4jraTAFE8ulYmlvRfSlE-fRrLMB6_3mkkYzHgs7T3kXKFG1_uF3GPhX4oakij4jHnkksVyvSl4oK2NnD8ejPAqbAxLdI_m0-z2n4qeCLhNRpVcaPuqo0LmYMukRQAWpxA0XZQK1RqYzUJcqNBrGFMJBd0GWCheXpWUsnCaja6umkavKcfaOJGH29zYPjfChGUbLRLlh9_XLUuQ2csSmbYn9K_R86dWo6VwY-I0txTTYnAFx4yOmbv0xJuMda8O4R0ED0Ck0Mzzo-zdT3O9BFe6ndJ2GBRsFmK5IFLEn-9Rr8NyI2f-oEE5KbrKwxQVIKMjWIyzhEBUPdByrzZwFFaovCX__9UiW5ZFvXPZM6UC-1p5_1irpZNO9pWgPR3wHr-ogZi0TkSmQRMb3ur4V7xBGQaJHI-GgAY3Wymq",
+        "width": 3925
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109518713387718534621\">Jonathan Daudelin</a>"
+        ],
+        "photo_reference": "ATCDNfXFCVRAwEJJ9olDUBzrjZQSLfEcKNwqESTTtUWY9woItb7ghWwpWRElBMTcIsTjEIXKl2pGGm9u-iVsO5JkDYXmorFZFd9Hju7WDmjsy3csEMJ6YYwCqgJyi8sPvnFtE0D8cpeRPPyMa7Tue0i_SQdt69T0_qYbURyFm9om0Y5ueKAzvUP1dnyKPifjoKXIK2Zzxf7MnDHQw9-1fDQKAtmT_DvFCh2p-llH-8t0Dubu0-5u3xwCHAqQc5-X09IV9_LaTueEN-ifO6VdXtOQTfusq27prJGaaPONGCMPqwuO2IEQObBT6u8fwjB77jf_nsBizveFz_URwOAdj70gttKgivetDO_nEoaYb6FI4rsKj0oNV1fG2HPsUAMxNHXR4wgkD17Q79kJaNoEpq9hYpFCZXlomQDoZWRK9xn5XFsuIUj5OXEszSfnOVC3Tg",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117757253518512493581\">Canadian Local Explorer</a>"
+        ],
+        "photo_reference": "ATCDNfWkF4gLRcvsFv49hSgF0I0n0wLbE1wnTt7MNl1gbxq9i8PQDtRjk8uFKibQcBAbkW2JFsVcuR3_8V_Z6g2v7Er8eveCb5OWeoeDH1EH-5o_1zkjR3WyVJCWl2kgJ7LOVh3aZ4K2kiav5wLmEM20GWd4H8BAbgjlFEsZQZluV2DF_NpXUEDoPYIFbhgQWXQ1XkmLIeo7Qh5Gxxyu8gu30KE5953a--MgVbUrloeSJ3sI6eX5GXR5ZJrhN27eZ2upJNJ93yNapQsC4q71PvO_66weI6Xn5-f_oAaBP-G_5hfL3QxJkYo31idBWXLhiW7HOEulPGixWI6IB2VAPcKDfjHWu7E-QYOOECJi06k491Wn3n8jcMlhfiLgp5gt4-Imxl-oOueKNn5-6hHS1hgecVioK56NW6a9GcYr6b9_66lHJXqgTWxSdazN7SAFi_8X",
+        "width": 4505
+      },
+      {
+        "height": 2168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108909267306155837589\">Avril Spartan</a>"
+        ],
+        "photo_reference": "ATCDNfUeGkP8nhJn-E1rzEooVXIePjZB2uyqZeTB2m91fv5jXTRsXyFYSH9OyXlssWyR_Wq2iwiTk6Fqmk7JiVtC2_myKizMJeO4lFl0Ef1HqjRLVg82OMMM-ekz099Ujm47LWJS5CgXan9ZLCWZzqu_3m5W2THW81t328NDvkxuLUaknM1chJ2sx4m-1Fm0eVmXwF3-ljzQQYtk6jNGFyJfW1nwmhRG66TS-tyI6CY11mInD6yR_gnIRCzzJxUs4uu_tKt7gJl4GDqyFapbyEvgd-YDNonRMjmrLZ4MjtOeEvtdlzBcaSycGW5sosN60LCMjPeQ_qV7Ated1kDkJfj2Y_Y-8TZ8949eX2VHCyvUaJkEBC9npK1WB7sLgLE7hO5BqsNk9oRiZsMyPgp6vKiow4dnAlFyTGtx97x9hmRP_UTaKXeWgrKwoGuhbr_imk3t",
+        "width": 2880
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110884668885041345992\">DJ Blizzard aka BigBlizz</a>"
+        ],
+        "photo_reference": "ATCDNfVQIJ7H14lyOhv_eHkyiGJJ5R9PUrK385U0agKkDr38V3tCMCwNN9EcMOp33EATWI6UcQUlwLcNcvxcrbguEEuw9ru_gsdFA8769CTiKXFJQHMXzJeRvYg7Kn3vYwrYfs0opUQ7qaXjMWVc_elM5v4dzr1M_Tg1gw751RO6YGlx1J91PfX5qRmaRXYwmieUIcjEJis-wslOCCAHJsLWlHp9AviqXDMfv0NM-lzwiWJ8VMk40dg3OtT1kpYLH_XDDbMmjB9TSwqP3YETS2NK7iAtAT-3L8orTh7OpAa2PjuDU2OP70zfIGm6u6k86Y_nKzpfG4QZXm-CwqoV6WmnCzs-cVjHYvhSoNaACh4lPSiaK3PmCAIs_rur-g98M5u_B-3I2Khhln4xBmdH13BS_rfYXRxNKuzvrJ4QmjJuOYp2yBID1tahkFRJOD4JhJzn",
+        "width": 2268
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVMiYr6C9IlugBnPK9YXTr0E0Oj5Te5k8k94RI_FfVsTkIlLmqjNaMsY9bYgM4788aQNjTvmGvW9LR9a98t1qlkWSwxgEFP1Uap1cLfkxzz_S3QclmRojZj7K3FLSqFwKia9MJ-Ed_QTchGTKgD5KxOyvyioGZRFPYHriMv5YllGN9MwtwUx-4bYG_-XqowDbtzeYUE51XIe_7OAuKV8RvBJ0wO_ZfENHXPY8wCPUsg8IApf-qZt5dX9aXieSQrUmcYfK5y48_3HXMUjgvdQU_TXWSnWkNn8aLSUKjd59nKWki1-me_arTQ8nck-FrIa7TVDz48013DR5xU1nMQmjqjqVdYH5jouyNFb9qtcUnEtJfUxe_otRCnD9rCNN6P3gmzy9NMSBxBKoEUfDj8o1fN4Cd-X6y_KVEhyEnl2k5inDsG",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfXO6ZLTJ1mjQsuBxnOhw6tvNGFbtaOCjpfnMM8vHLwhkpASlm1jPcAxOIVIi-jj4YKo_0Z7LnZ__4d4M4Fhkn8VFovtKWHW1YHi1kHsl_AX2wyTe0COpgLguQevSkPs9hDMgONeiWIOmTWE4Ujvm2u0aKja7K0gpE1r4F0hNhC3ecKwjgn_JUQtOMcXYRmhaZJaPQfLKTX9saTjD5T7EIXGoh6T77217zYeHMwrmXH51OXwFQGRd6kP0tte7qGeEGD8Tyd__WiJ8QT-8LU47SyDz0JKxCiu8ZspgVieifRc3bD_GjQIg4lB8l0ElW2EAibb6Jq7XsRpTRVIOodAYdQQSFO6a4cF5eFjSZQSTicIkpnOxh2Iei2GvGinMLZrFRltCvoubOf8-k2BSSw214mam8iQgUzh2Rmj5WbvphEHcQ",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110884668885041345992\">DJ Blizzard aka BigBlizz</a>"
+        ],
+        "photo_reference": "ATCDNfWyAcFThB2iYGhPf4MDArf8qgFWTA_6Tok28fCyMl_Vo8dFnoRzLCmomo-Nya5sj83uIs1i3-X0yq3pg7tbtvT9DrmZjn1jtK_N01dw5_J8GyOFRR1PEdlvS2uW3f02fgjnx9k825SUji9TRv8PRM0oI59B2Cf1eMpidYedW8ocYzAJRm_O5nq0kIxRE84RbDxkwusGK0kl5xyPwg0TwBmYeqssiAJwa_feBnwXSzWKldCuQ4zhyJt9dvp_WvAANzumO6ZH7vaXbrF-odwKsz5lcCOycQlYQrm4m-9EWPlOZts5WLjF4bmh6Q2r3iKE036xBOag25D_D3ZWcnapbjNj9_VtxGQNj_W2DpyIq2W2Rd3yCmsP8phCSYRoI7eNtg9KZI-pOwJarQcqd1yP4w3rzDM9JChyTnbOCexqnt9eZHpL6Tv6G27lzZ82P93d",
+        "width": 2700
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113488640533064855703\">Claudia Escudero</a>"
+        ],
+        "photo_reference": "ATCDNfVu2TWbvhbPvhn9KGcyG3RLaEoZN7-gZ3hEMcgPTPsMI1S8z4EEtRiS-8_pFEEWHyZ1XmqZooZnGAvHU92CKA05mO9hSfCUBEiq-CsiLyywdj68TFglWawMmE0dmbpGsC_rqZCoWiL9B--3L2P1VltCEURTyUvsZ-UXdknbngTEXstNXYIzCkiyviUvU5e7yljXh1gyveias4Zlswe2Jkfxt5xEwF7mGT-6rzLePlTgqlVdosmdQa5rNw8lIzBk_7Y41dWOBWRp5uAsO5UZAYZyeUkvNu61LcG_romGNsptRr9TtStwvi7XmD2VLPaXWdOAtlyUZowSQeVJBs8_Wpy-AM03xfEmnGi8yboJML0A8DNFoqPdBTUvoPs3Pqtrg0eLAXl0xzdVIVpteRSfGlWMKWtBGDula8INjh6PJBcNIxIZ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJp0E_7jQ2yUwRmWjaO9RgaNs",
+    "plus_code": {
+      "compound_code": "CX47+MG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX47+MG"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJp0E_7jQ2yUwRmWjaO9RgaNs",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "DJ Blizzard aka BigBlizz",
+        "author_url": "https://www.google.com/maps/contrib/110884668885041345992/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrc5KFvfmJZnu1cQsCHmi1sMCxDjkAN0SbquvJwueE1mP4p4HK=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "*EDIT\n\nMy Fiance and I got an invite to come  back by the manager Emmanuel. Let me tell you what a huge difference it was. He was our server and above and beyond, not only for us but for his whole section. He was amazing.\n\nWe started with the nachos dunk which were great. It was Friday so my fiance had a complimentary Caesar to drink. For our mains she had the Tuna Tataki Bowl which she loved. I ordered the New York Biftek which ok, kind of chewy and not a lot of flavour.\n\nOverall the night was great from service to atmosphere to the food with the stark being the only drawback.\n\nThank you again Emmaneul for a great night.\n\nWent for dinner with my fiance to La Cage in Vaudreuil last night. We were segued by the bar at a table. The host was amazing, very friendly and explained club cage to us so I downloaded the app and signed up.\n\nA few minutes late a server came up and she took our drink order,  another server came up and just as she was starting talk the first brought our drinks and the second server said ‘you’re lucky since you have 2 of us’ that was the last time either of the 2 servers came to our table or said anything us. We sat there for over 30 min waiting for our order to be taken as the servers walked by our table 6 times. There were 2 tables that were seated after us and they were looked after and placed their order while we were ignored.\n\nWe got up and walked out and asked the host to speak to a manager. He went to get him and came back and said he’s ’really busy right now’.  Not what I wanted to hear after waiting over half hour to have nobody acknowledge us. He asked if there was anything he could do and I explained the situation to him, he was very apologetic and asked if we wanted to be seated in another section but we had somewhere to go and didn’t have time. He said he will take down my name and phone number and the manger will give me a call. It’s now been over 24hrs and I have yet to receive a phone call. The whole situation was and is being handled unprofessionally with a huge lack a customer service except for the host who was amazing.\n\nWe ended up having to go eat somewhere quickly but not what we wanted for our ‘date night’",
+        "time": 1761673444,
+        "translated": false
+      },
+      {
+        "author_name": "Nyk",
+        "author_url": "https://www.google.com/maps/contrib/117328842635159497920/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW98aJGun7HOyLlHcbS8r2hYnORw6obZewQOjrdzI2Oqi2FPHmk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a month ago",
+        "text": "Jan/09/2026\n\n7h30-8h30. Had Honey burger and buffalo poutine and cheese cake.\nAnd 2 kids pizza.\n\nWorst cheesecake ive EVER had!\nIt is SOOO grainy! Over cooked, dry has hell, zero sweetness whats so ever.\n\nI took one bite and gave it right back! Horrible!\n\nKids pizza BURNT! even my kids did not want to eat it, and they usually eat anything!!\n\nExpensive for the food portion and quality!!!\n\nServer :  very nice! Nothing to say! Very sweet lady!\n\nWill not go again!",
+        "time": 1768008866,
+        "translated": false
+      },
+      {
+        "author_name": "Stefany J.",
+        "author_url": "https://www.google.com/maps/contrib/107250025206493376797/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXubGpVBBCbAD_ztEEq4t9Rb7d31_cftGcXyY2LSX6nWRReZXQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "Drinks were good. The food was a bit tasteless to be honest, the pasta ravioli didn’t had any flavour. The cauliflower bites were the best part. I like the vibes and the location. Food could be better.",
+        "time": 1718559845,
+        "translated": false
+      },
+      {
+        "author_name": "Nicolitsa1",
+        "author_url": "https://www.google.com/maps/contrib/103488197670658655324/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKPAlHPa1FdwKZfh4eLM9-QLRYZe-iYHtMviSMzqsllr2bC4o=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Me and my daughter stopped for a late lunch and enjoyed our meal very much. The host at the door was super friendly and smiley. He allowed my daughter to pick her own popcorn which she loved. We ordered the kids salmon and the cowboy sandwich. The food was very good and tasty, but i would suggest maybe slicing the steak a bit thinner to make it he sandwich a bit easier to bite through. But best of all was our waitress Clara! She was above and beyond amazing! Very welcoming and so great with her suggestions. She is by far the best server I’ve ever had in any Cage establishment. Even when she got busy she was so attentive to us and to her other tables as well. Give the woman a raise!",
+        "time": 1756168503,
+        "translated": false
+      },
+      {
+        "author_name": "Jessica Bless",
+        "author_url": "https://www.google.com/maps/contrib/110247344023880701247/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVPcY7juqzNymBYypj7RKy3Z8Ibacwnnqg1tz5UyGQcbsr1w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "It’s my go to restaurant. I’ve lived in Vaudreuil for 6 years now and I always come back to La Cage. The service is honestly exceptional, they’re very very kind and attentive, not pushy, and funny too! Food is always always very good, generous portions, and very decently priced ! Strongly recommend",
+        "time": 1767843025,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2145"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "2145"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "2145"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2145"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1130"
+            }
+          }
+        ],
+        "type": "DELIVERY",
+        "weekday_text": [
+          "Monday: 11:30 AM – 9:45 PM",
+          "Tuesday: 11:30 AM – 9:45 PM",
+          "Wednesday: 11:30 AM – 9:45 PM",
+          "Thursday: 11:30 AM – 10:45 PM",
+          "Friday: 11:30 AM – 10:45 PM",
+          "Saturday: 11:30 AM – 10:45 PM",
+          "Sunday: 11:30 AM – 9:45 PM"
+        ]
+      },
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2145"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "2145"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "2145"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2145"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1130"
+            }
+          }
+        ],
+        "type": "TAKEOUT",
+        "weekday_text": [
+          "Monday: 11:30 AM – 9:45 PM",
+          "Tuesday: 11:30 AM – 9:45 PM",
+          "Wednesday: 11:30 AM – 9:45 PM",
+          "Thursday: 11:30 AM – 10:45 PM",
+          "Friday: 11:30 AM – 10:45 PM",
+          "Saturday: 11:30 AM – 10:45 PM",
+          "Sunday: 11:30 AM – 9:45 PM"
+        ]
+      },
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2200"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2300"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2300"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1130"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2300"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1130"
+            }
+          }
+        ],
+        "type": "KITCHEN",
+        "weekday_text": [
+          "Monday: 11:30 AM – 10:00 PM",
+          "Tuesday: 11:30 AM – 10:00 PM",
+          "Wednesday: 11:30 AM – 10:00 PM",
+          "Thursday: 11:30 AM – 11:00 PM",
+          "Friday: 11:30 AM – 11:00 PM",
+          "Saturday: 11:30 AM – 11:00 PM",
+          "Sunday: 11:30 AM – 10:00 PM"
+        ]
+      }
+    ],
+    "serves_beer": true,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=15809992956537628825",
+    "user_ratings_total": 628,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 47 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.cage.ca/en/restaurants/vaudreuil",
+    "wheelchair_accessible_entrance": true
+  }
+}

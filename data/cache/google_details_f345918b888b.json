@@ -1,0 +1,303 @@
+{
+  "query": "MoneyGram, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338489.1089003,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "401",
+        "short_name": "401",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0A0",
+        "short_name": "J7V 0A0",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">401 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0A0</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "401 Bd Harwood, Vaudreuil-Dorion, QC J7V 0A0, Canada",
+    "formatted_phone_number": "(450) 455-2042",
+    "geometry": {
+      "location": {
+        "lat": 45.3800998,
+        "lng": -74.019052
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3814506802915,
+          "lng": -74.01760226970849
+        },
+        "southwest": {
+          "lat": 45.37875271970851,
+          "lng": -74.0203002302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-2042",
+    "name": "MoneyGram",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100634267514661293749\">MoneyGram</a>"
+        ],
+        "photo_reference": "ATCDNfWBOw33hljiRhNLDymctNOwYTok7bpkE8gWChk2c22wpUMDpFiY2ziPTOTdoA5UE9IV5vIt3XitEltNFSIloqmEcrsDEtomwjgkGH0_hy_S4dyUkyte4YcZIHgxwXrvfOEOuSPl-sFEDRyfFJbT6e1KT91EeN8jyaIFvF2CD5D2fMJY7TFeVwKEgyxgQGsENYmDaL4571ybc-mbM_n1kz1-1HEMAkzS_bwy0fXWW0sEpr3OlmBQlyQwiwfI8dOWsmyD7GvwEzp9cpeIxSIYAmOoJ_49_-iWkOuhw4w-KUSw7g",
+        "width": 1849
+      }
+    ],
+    "place_id": "ChIJOU5C-hpIyUwRq-HkkC54Cgg",
+    "plus_code": {
+      "compound_code": "9XJJ+29 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJJ+29"
+    },
+    "rating": 3.7,
+    "reference": "ChIJOU5C-hpIyUwRq-HkkC54Cgg",
+    "reviews": [
+      {
+        "author_name": "Nancy Roy",
+        "author_url": "https://www.google.com/maps/contrib/100677340093606981251/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk3v8YKxrmh66aWEd926YSxKxOF6GlBQwaB09YSdCPt9THMg=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "7 months ago",
+        "text": "Good to TRANSFER. They are NOT an exchange office.",
+        "time": 1750868807,
+        "translated": false
+      },
+      {
+        "author_name": "Happy Dad",
+        "author_url": "https://www.google.com/maps/contrib/104496544272686521447/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUqDuUJnoRUa6piyQFJRwU219vpckF7o6HAMevXXC4KDL4m1hu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "IT IS NOT A CURRENCY EXCHANGE",
+        "time": 1765681197,
+        "translated": true
+      },
+      {
+        "author_name": "Benedicta Afrifa",
+        "author_url": "https://www.google.com/maps/contrib/117303995784666567245/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFPaBRRJhC8kuswRcnO2WihyBpZ1ddcoPDx_yiscj8ZiCfplu4=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 years ago",
+        "text": "",
+        "time": 1462979928,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=579407643465277867",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "3, 401 Bd Harwood, Vaudreuil-Dorion",
+    "website": "https://locations.moneygram.com/qc/vaudreuil-dorion/463217558/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+  }
+}

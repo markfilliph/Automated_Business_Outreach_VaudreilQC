@@ -1,0 +1,354 @@
+{
+  "query": "Entreprises Serge Guindon Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340736.5400681,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3995",
+        "short_name": "3995",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0G1",
+        "short_name": "J7V 0G1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3995 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0G1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3995 Rte Harwood, Vaudreuil-Dorion, QC J7V 0G1, Canada",
+    "formatted_phone_number": "(514) 269-8281",
+    "geometry": {
+      "location": {
+        "lat": 45.4436711,
+        "lng": -74.1462143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.44483788029149,
+          "lng": -74.1449595197085
+        },
+        "southwest": {
+          "lat": 45.4421399197085,
+          "lng": -74.14765748029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-269-8281",
+    "name": "Entreprises Serge Guindon Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104328123447185967516\">Entreprises Serge Guindon Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfW8OHeBmKiuorVwVAdlwcHVzIhD6OoNbY5jhqVsa2O69-4ksZcJRfhGlH4Fa__xboca4DiX8txHKcK6yZmchuz7fY1ZEtWCKQSOqN1TVxriFFndj0e8m8P3AoMaka9-OFaP1rF0yO8xPzpBXJNxWRBPhTAYM20fzLPDST3fFPbINOvBuu2ns4KMDF5HM0vH4BwgvBk6kw20bHyWaKhHA9SuXHM4FtoUI2zJPfqKK-fWPMy-WhxywkLqhqfabmO9DejQwXfViiRt5EKVDUloY6fOznLzF37KTJLYqqAqurbKNQ",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104328123447185967516\">Entreprises Serge Guindon Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfV14iWwln1vWvUIKa6fi-NyV2jUcwHUIl-f8uLKbNCRjbe84stQvpaFQd4dvuQ68oewRXRLHUM-B37C1AT9RhIBHx_BE4u1jU9sHfrZWJoOxIFbqRIbPfaXkbI7Sq7R7Vd4CmqK__jzuRoCQlWMBtIsOEpZpEcvfzYuSzsyzHeJWpR-bnc_vJp57RlNyz5sQ0OdA6VMkqBWFx1iB66iBkGv408x4abCICF6p4aww7EMkFl7i77q7s3Vc8DhiTG4noYlv6fxtWFeFLdp_dQ2ye-6rIL7dmW160fSBAuZYj1Jxw",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104328123447185967516\">Entreprises Serge Guindon Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVf4-PKtdnpOAPRDLxSVUU8Q7Bh01FoCCsZ31KTB_6sv4v6OcrT2mo1kMVaM1ITLG7w9wy905NrKEf1fQDym1sFzPC5OvGSMjklcwv0iCFJCVQk6aCzx-KRVCyVsi5dJHentgQ0cD7trIKTyIIxNVdOxwtKxn71SoYKwrlClV8dYI0JrCmeGpi9jQNcF3ABK_TNs3zMbX827iC5z0dvtAFbD3ckWGcoTDAN7ZNu7u-LbhnIqzzMonTisshq9zmA7XK7eR-YGNfJt1L2XHaE89AMLeO5Dh1jnE6Lm1-X3Ebbvg",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114552707762461694710\">Serge Guindon</a>"
+        ],
+        "photo_reference": "ATCDNfVR8hj1OcZtXHp8q4-dNXHMuew-_3aLXNlE45BEgreMnV2a2N82BllHR84dNA2HdKdsIjHWZo4zQKfQ5SlRTiQv_9d6WBHw7JHR8ZdcKCHSgyb8sp6VRJo7pAR4ZZfT8Bvr0LfjcgGYhkCAkCmDk4nNVyppW7YAcLu2-EAky5FAxaXUna0TDpvC2RqSTJkUFB7vXnRkLWLJ-dLFNiAx39teff77Y-d1VP8zZ2HZvUDs9FqxV15dDTisT8MgPdCcLPshbbVUSyo19HswrnbrqEPv2fTwLSrVBt8uUShR0Qffio_V6mrWgW8KIatc_ZCbaO4PsLSSYl46fKNiwcrs8Us2Mn82PVTkg21KBzNWdsgc6ooW1vaN5NR3ooQuOpkknMmR2JTI2lw1SxN-FSVg026Kl9eLrOz0SALjq4L_kS-B3A",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104328123447185967516\">Entreprises Serge Guindon Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfWpZRBC3yE-b18PK1w9bHfPaVv_Vuza1qj5AZUMzEXoJNJhso5zEtJzuAdqZ56zdWhX7rK9Vsjpg7Z5pWDFfHlCfaq9HFuSAQbQ1_WQS4b_lfAl8yAtz_n01jrb1NWgC5fbkqqs58RApHqaT7gU5oCBsicHjpKm69-Puu7hMzOjPBZo6sMQljLDEUVmKeOU77h7uEdNsiK-PsYzkdEZr-K3WqkCIo7-r_pWCwpwEBm4gFdMcD-T4ztrfYg3WTsSjsa-6P8V2ahQCEBYu9KgAANqEbWGaDfSjagQ3RVL4tC2GQ",
+        "width": 3024
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114552707762461694710\">Serge Guindon</a>"
+        ],
+        "photo_reference": "ATCDNfX1urqwEuUE2hJ0tn-fWzuYBI6vNq0q2PfQOdmp1H1GtjXLOc3-oXnw4OJ3Tjot9A8YX_LO2Gt6cYi7Gv7-82H5ejEqnwrvgmT6hknzEC6QyNcJeOz4Uo-Qj5E4hmfvXeDs0tJPMtB5KvE9B4pOa3VZoioMdINJXuJQ8v5LRzFQqbbRl8TBozd568RbeyN2Zx6Ha81uhCCWecT2Ob2rf1NVFL5wt65ZbLf8JF0vu1Ls9ef1QScIxTUeRz11uWTZ8TLwTAW3vM_NQfEAkr2wFvvNHkONIB3bgkc-kqLIHiVqimRWc23d5U08ICvLJLuZaxmFwhuiDbnHeKdk2jDuUPBaxKh6Fd4OXkeJkwl-8FJHCUc9rwSBQOEHhYkKGW0ZHgmKIjN4fE8AW2DKPVwVX1xYHy_Bt9WrcihKUdqocLvU4Q",
+        "width": 1200
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114552707762461694710\">Serge Guindon</a>"
+        ],
+        "photo_reference": "ATCDNfVmdkR3LnVF0783ebCQUerZ4Cg09T7NiHgw4yT1gCRDUPcxVvixlq_uwI8od-QObVZ5MXmitI8dMvqygKCIm2jpe5WDmLetFSVxwsEPLtvCxQn6UOOoLfEKnLJn6C-ZY4LrjH13ncHosSB0fjs1rSFYdRGwVWa0Z0yyTB-GZ8m475Bih6-vwKoeGP-vQiOLqPOwwiCuqp_bDK3QZp0mVIcubwEHx7tnwuiCWDc6YHNNIwO34hG3jG-DwrJSsTfuYLcVxuXHZawbX-VOW0iXMAATDrNUtBXDyh3d2r301huaIdv9fKOVhHWGIjHNx35weUUneBdwRFEopIC54Dc5HDdUXvGJsDkjtOdtWXH9BPu-XXt9P0TqQWN84aQLifGXjKDNDlHrA70TipbRpv8Hq8NQkBpJBo7VKwsnN0lKw9PGxLVL",
+        "width": 1200
+      },
+      {
+        "height": 899,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114552707762461694710\">Serge Guindon</a>"
+        ],
+        "photo_reference": "ATCDNfWO2voT8UqTFQL6kQA55r8fiMmOVOoE25glaU7o90D7ln0UNQiFzTwZUta3eqD41Hen29FnX3zX4A8uJmKB_ToMAxitfY2aEuJIV7idpy_Hs2VBOCbt0kxK2OXva4bD3jcrCGq3BrXlJ1x_5qbMMlWl9CJ6kWwQxVDfJLedAFPpYdu_OhfpyQoFeRTsX--8iokXf5tM5RLddpaKjB33QizBCFSdrqc3yCFMUk1ESiSx9t5b_uL6L1ZpDGxXw2K7S8PSkDfBp6es6v70AQkSNQ8g5DNlarCOSVGFEgB6SL7DZeu8HbgE1yUJQ6nEqqwt2RcpjGw2Xyu19seRUIuGataBGlRQe5RQPHNf6SpZgP5DAtvTlA6BCpo50rS-0YIaEqMk8VFTVgL5zepNtfJKO55mjDsuCFXHeEti3HrdXAk",
+        "width": 1600
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104328123447185967516\">Entreprises Serge Guindon Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUo_IKBx9T0e2CPv4jFoddVDEh14EcPtzSXoVE7I46FWsl9qrJPtSqiQCV9D2Rj5I60HXSa6qBbtpnBLY9iPDKia9NlOZ6a4-eYyVP1TUqcBfNeOlXXX2T6DMtaq_j-rEgsMdF4O6vTJsey7xS7OEe249JIfq6QFIJctkZWgbwt_2dsZu60y4SKhwVE9gCuNOVUjRcwTz2OHSOPSqhnO36NV0PSVTD7qHEJ4ED7xinVdyyF8hMCFGqVbQStJxZEhu1t-fdLib9WN-e2TfrAkaOLdS2PXMjV1MQLViCKci1Bjg",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114552707762461694710\">Serge Guindon</a>"
+        ],
+        "photo_reference": "ATCDNfUgWipckBRCS69aKyIKpq5TwdEfs9Cy1tEHjTWetY-9UBOmWdLuQ0Ahh_bkL4334KEoZ_aCAglGE2CpYyCsKF1EMPGoxynQHOQZ7OZJ9BCSXAaHE1QA-QxUGelf6RZSFJ5SJTQjw_1CXPh3-h2ra76W73tSkh5PB-MI11_KVe8sNI6acY6RR69rZ9iYfPnPOMelBC4k-GEE1zALCwvl15tuqJARMSyjlGu2vJaFBNfZaRiD_BoN3h7MwbyRRvCUVQRz8qEW4NcrIkCIrdIYogIZcrTp64MtKWXMtO-dw-cs77zpjHwgKeOwjFCksJ8fU6rvtTJWgerwpCc3Dr9TH4oZMguGknk-eDxbulG0gT6jCNxdP4c0ZSj8d5e4VtT5FWsDKI0z6Ovf5pQ7KyVKaevtfWg45vrpXGZrS8ogDBdyRJn0",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJkd-CQJI1yUwRjUMlV-3CmK8",
+    "plus_code": {
+      "compound_code": "CVV3+FG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CVV3+FG"
+    },
+    "rating": 4.5,
+    "reference": "ChIJkd-CQJI1yUwRjUMlV-3CmK8",
+    "reviews": [
+      {
+        "author_name": "Jean Pierre Bourbonnais",
+        "author_url": "https://www.google.com/maps/contrib/101061648064104455111/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4Agz1T5mo8LHjjSiZd37wPxVK_gkZPmz_iQl2e4UsY_WXFKEWUA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I've been doing business with Mr. Guindon for several years now, and I can tell you he's an exceptional excavator. He does excellent work, with a beautiful finish, and is very experienced!\n\nI highly recommend him!",
+        "time": 1653134294,
+        "translated": true
+      },
+      {
+        "author_name": "Guylaine Lacroix",
+        "author_url": "https://www.google.com/maps/contrib/111931786712690026711/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkKGfGNLPSUHvODnyLMileVz5-isnrrV59A7QOhK91oR39Wg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1577285819,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12653077477722506125",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "3995 Rte Harwood, Vaudreuil-Dorion"
+  }
+}

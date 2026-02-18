@@ -1,0 +1,402 @@
+{
+  "query": "FIX AUTO VAUDREUIL, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338256.0911658,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "601",
+        "short_name": "601",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Chicoine",
+        "short_name": "Rue Chicoine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9J3",
+        "short_name": "J7V 9J3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">601 Rue Chicoine</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9J3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 2:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "601 Rue Chicoine, Vaudreuil-Dorion, QC J7V 9J3, Canada",
+    "formatted_phone_number": "(450) 424-5445",
+    "geometry": {
+      "location": {
+        "lat": 45.3757168,
+        "lng": -74.0247739
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37703438029151,
+          "lng": -74.02335536970848
+        },
+        "southwest": {
+          "lat": 45.37433641970851,
+          "lng": -74.0260533302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-5445",
+    "name": "FIX AUTO VAUDREUIL",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 2:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103039953272381559790\">FIX AUTO VAUDREUIL</a>"
+        ],
+        "photo_reference": "ATCDNfVAhmAahpk3bWcIqJnOrm3N8fEvgZnk7uTxiueUc2gU3lKOY4LJ-u06wcLj4XEkm6PRPhnVIeNj1DXMWQWU8fTOi-FuPCHWOo8rqSqAkwXOMMQV75jy-Ywytjtz6Xxi9lLDrhy3mRIDqbaW_F0r8kzsaYlrHD3WDSiklEkfVkWpVfqA-EbCyYzweaMGMHPlxYbNrugcTF2EyY-bMEsaMzDZHhu_DaC8Kdh-_X7n_-993TEobhyye0tOf2kg-zl7NHOsewn3WdW1NGfgv0XJJ9UqX8H7rQ94YJbGTZTwL436Tw",
+        "width": 2000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111941742584612217618\">Hailey Minshull</a>"
+        ],
+        "photo_reference": "ATCDNfU2tZKenhPIvbl2ImvuVDCnBsY0feaZbEiggfxdMkswD3U4P17E0RxAUcah3CCIsvUGXmQebsoCXhuqNBVSaiVXB5RKfLaYXkudrC8bo6g9-tWQtGG-kx86vuc-yywbLEOx17qDZVsselrQK45YIoRWds6Sik9Uu-JCrl-SAEyXGPyv9mNFigMVW8QKTX6kbntW_aunPg_jgUI1Kc1yZb8MohcN3rNn-eThIZmEdnBsJH68_-kNBcF4PBNCztiN35yhL7tgZoRemH6CKCKvJPwGSqFhKC21Sr41dYzb20cyy2RokoUJpAgIOMn9pzD7WeOSQGqyeCieV4AaLw4yjJgzBn_ercVGEh7nKXMv7aGBC0RQFrSNBB5Go8RNiL7mPNfdbwK1IkJB2D4fkWhC53hrpRFNF6-pQxyOupj3XD9qeQooxpXhOha79G7A2WPn",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111941742584612217618\">Hailey Minshull</a>"
+        ],
+        "photo_reference": "ATCDNfWSdtgArcjg5S2gKX5vHyQ7Oivx25q5ckK7pshYiboB6cQTO3IIPt1e3RzPFFhuB1BxMwDsdMka_6Wp4hkyMxubbAIgpFvrGu3Jfjh932gZ7ybw5UW_AbSfmVrD7GIziJ6oY13Wi8jgi0u0u9jGriK2MVGrnf5REXiWeUjXbCsGAR-syDcXy62uuFMhLRpPXxmTh98RAYquefhx6ycQYh__3cqkHLrBqXev6n1oasq-qBZ19JbAJveCdxQc8IK03uliDX6FX7Dv_S1yvBDVFYNyQH55jYX1tYI3CK1d8xwvo-s8GtSnclflH8PLsLQFuUS6rILco-x9kmLzWBlqOTFG8UwVViyyIzRHiMbJCzotYcmhn17iM7UK8nWmUe2VM-9WGDK7dbpfBhrRJl4IjQZGbmaXvwzOLarzxelEgcSKEJDPoMOmBlYCDkRUivaq",
+        "width": 2268
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101716248513389906630\">Taimoor Jafri</a>"
+        ],
+        "photo_reference": "ATCDNfXmHv2k_KUPX_qJzqBghIJDUBkv6emMshiVuvnamshGqlaqkqRky4BUu7H4bbAT8ZFKDxLB1Y79U2iAmbL-LyiJSuVTKmAVMQf0tH1_7xy4XPBsh1Ql_AQ6SrC8mraeTDGFJzRLGuQy6IHqwNdRqqkRxEkaB1qAc1GBj0wxEZKUYMlq-I7onNhM5iFNklw5wQiVuZ8qCn9gQSdMMdKUMMNSjWq_humVgvNYmCpgUFBfkHtUJFo1cHP-ouFIxTALgOoB05owLj6RyPIQEhjAZNK_FzDfFLoNvw54nu-XWdwXjLmMo7BWY_P0WDsA0iyrHgDVFvsYeHq22qcaDD57mbHwAFGNbnugvR4-ogJ07dulOMnbinKBf8kmZsIderq2OQGE5iERBa00fqFuuuym_s5_IvofYwSrJdNQMNgnLmBmRw",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111941742584612217618\">Hailey Minshull</a>"
+        ],
+        "photo_reference": "ATCDNfU0TRtANVH0u5tolfMuO8RGLReMJDu86_CI4l1ci5QZu8SwHcVjoc5ksHcmSbf8S-O6P30XrRQlZfB-3H4VS1G3-sHRBdzqkmjkKih2Hz3UocJ6SvoKQXeLkH2_cGwtPH_jiQ5PQ_GRwQ1C_x-_NUdlFax5VXZ5dQUPxYVNjq2w5f6GswxpMvuFcz0um1JAYxsVFIYiIVT-E7c_QFTOsHVXR1Ff8H7wNPDjIj0ybNH837xTnPbX1fjpHxG5KKM6brZBQ0E0ri56EcVQyfkuoxtHnmJ28wSN_OTmEZmqWPlmmo-dv_gUoa2GcYi2b2mzZvjLkYKxzFqgtC2nCnbNZmvIysUG4PC2Xo2c0y27Mkmf6wiE3qO8cD4S-ETTDMYzTaoTvGYHFl38LT-d6PZlHmQmeBp__TOObXII_uD10a3286AoRj-Ri5MFLosAOhkW",
+        "width": 3600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106435122803651221823\">Patrick F</a>"
+        ],
+        "photo_reference": "ATCDNfVrKUPj8rLI57A35kvrxrmyvxS1C2ohJtGOlcNBZ26HZ7I2UgVZVZSHnK9c9Nx19XRF_JHz7-kXOmxYA35D6unWDeNw7ECyPmbYbmO41t1W2ghYc5CdWly9S2ZIzn2bLFZt808p4zB0H0ygwTyNqjvKGaS6GK3yHgtuh-bJse4IP8e-NdXcMGO5jfCe7Mw5ju7h6RKA-MkpoHg8vd9pLPe0rr5D7sp1sDdk5djPYE-5opjlxq0YVkeXjOoulwF3D_pLpLT8WJvvxtBkC5HRoXZaABt3cfb0ZojjRwIuo8SIcqF4DMCFA5tjjqyvOMv7z3R86K40UOprR_CnX9IaIa-Cdz7E2MBESSPBlYf_6Qka9qm8GKSYOAvVz9HWC1f6WGDCNE4P2VoMA5LcIsxJsxtcUWM-H3EG5KnFWDcJHtJRty8p",
+        "width": 3024
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103039953272381559790\">FIX AUTO VAUDREUIL</a>"
+        ],
+        "photo_reference": "ATCDNfVs2CfTMVvhNtGhABxnhxi46Ah17jgRsgzeCJgccu0BVSwwQTSJc3Gp3V8c_769Dky6c-yVTxLEmlt0xOubpMftEbPvQc9p6uwggkf0DuTKFSw36xBaGaqodXui-3Wua47sFUpPXxWgEwfe6VQ-5FGvf7Ayg8YBQvsqE6_jDvR67PY2sOUgPcBiHUnlKsMrlG-xtusDFecw4GPEjPcu7p30eStfnp1ENdsvKxwEVsviA9ywx-oWQ-4UuQ_ys_ZypU11zvgI8oQIcshYQciUYc7kSNBFrgfjFloROuTS4IjobQ",
+        "width": 1500
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103039953272381559790\">FIX AUTO VAUDREUIL</a>"
+        ],
+        "photo_reference": "ATCDNfXLecwmWMZ8cIDm3OSptOkCD8s1uggrHg6wBr13LEa1EwFj3jt76qIL1f-JlgprFbkJQ0D6vL6-wPtqe6tgRct9aNq3GN_neblTsDFAozXBhlRAr0VaRlUwuL9__H-8HNHijjpAroAbM4V0fIq9vjWwwbHCFU7ugDDK-NoGKk2rrQcZvfne8l_F-BDJ_NshzlNvsFL3mcB33n_x3um1iV3QRGv4lQZG1pFuRPsYOGgmcuCMpD0LF230GaAuEf9Q3TtX0z3ohjhKY8_4eBc0L8HA8oA7KXqsR-bK-eehJTQv-w",
+        "width": 3000
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103039953272381559790\">FIX AUTO VAUDREUIL</a>"
+        ],
+        "photo_reference": "ATCDNfX4fWgS1q2nPqn9PPNLeYa1PIgM1X4f83kut1Db2Nw4muIB1EX-e4sTPBgDHKHGjdOAr4pjBjkHf9KMJ34NEEnXinwDHMjXUADw86XhdNDLkQzdFSpGFYm6BD2XdwUY9j4_u7qWgae0_mJNCPL-vgoPCAlTEw2q5rc9vUTiHK3Gnqb0U9sbHGKaca3HtEyKlYYhVIKVzpjtyvjnvCw6CuAlwtVYFGJ8O4KicZiaVszgRXSUlWK9sbtSOrbn7WIyDxxIptF3hsWkO3fszOl16dHvZURPsAv6Rv7mLw2V3wEt-Q",
+        "width": 3000
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103039953272381559790\">FIX AUTO VAUDREUIL</a>"
+        ],
+        "photo_reference": "ATCDNfVOg80Sg6fSwqt-ZNmnuCyU3GIlyGuwxxzjwSei-GjJQcsqCRa4nwrTQPixEZmyzswJ-te6TXWLKfUBgwXbjdtte2J-BNxyqkcpgGZhRqZG3WiTup2O_jVjSN1VselZSvIYruyuCKvzLrka-NqI12WHE8Cz7D558XhGTwwt2jLmARQn7WQicn33S2mctLZO0GoCt0PWr1vHPbZpRHfjVlB_r3DMR7kjNbyIUWz0__4GJ8GxpxMsLlkxpd8LqhkP-X-uHqiOXA55CnDLW_2cLcA1JNWR9YZlEUKacgsOXq3fXw",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJA-cKTBZIyUwRlFy5MMQHHu0",
+    "plus_code": {
+      "compound_code": "9XGG+73 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XGG+73"
+    },
+    "rating": 4,
+    "reference": "ChIJA-cKTBZIyUwRlFy5MMQHHu0",
+    "reviews": [
+      {
+        "author_name": "Hailey Minshull",
+        "author_url": "https://www.google.com/maps/contrib/111941742584612217618/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWG5FQ-APNMSSjy8UoC_V6JIivFVllD1FxQn4MRo-_bN4-uc5rL=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "I am extremely frustrated with the service I received at this auto repair shop. While the actual repair work from my accident was done decently, the lack of professionalism and attention to detail is unacceptable.\n\nAfter they had my car for a week, I was told it was ready for pickup. The repaired damage looked fine, and I drove home satisfied — until the next day. When I went to refill my windshield washer fluid, I found an open bottle of glue and a small tool left inside the engine bay. The glue had spilled inside the engine area because the hood had been closed on it. This is especially concerning because the repairs on my car had nothing to do with anything under the hood, and glue can be flammable.\n\nI contacted the shop, and their explanation was that they “work on multiple cars at once.” They apologized and offered to clean it up, so I brought the car back today. But when I picked it up again, I found something even worse: a larger tool stuck inside the engine bay, with the handle caught on a hose and the other end leaning on electrical wires near the radiator fan.\n\nWhile taking a video to document how the tool was wedged under the hood, we also noticed that a component under the hood is visibly cracked — a crack that absolutely was not there before they handled the car.\n\nImagine if we hadn’t checked? The potential damage could have been serious, and there would have been no way to prove it wasn’t our fault.\n\nThis level of carelessness is dangerous. A repair shop should never return a car with tools left inside the engine bay — let alone twice — and certainly should not cause new damage in the process. I cannot recommend this location and strongly advise others to double-check their vehicles if they choose to go here.\n\nAlso, with just a little research, you can see that the six latest positive reviews are all from people who appear to be family members or related to the owner — clearly an attempt to overshadow genuine customer dissatisfaction.",
+        "time": 1765309044,
+        "translated": false
+      },
+      {
+        "author_name": "Cathy Wraight",
+        "author_url": "https://www.google.com/maps/contrib/110098542612934517778/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQ1EQ_NLoVu34CH-baU9sCk0gIX-ht6DJALXuhoU5MNG0_bg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "My experience at FX Auto was a very good one everyone there is super nice and the bodyshop is excellent my car was done in 2 days and I'm very happy with the results  I highly recvomend",
+        "time": 1769725566,
+        "translated": false
+      },
+      {
+        "author_name": "Julia Hoare",
+        "author_url": "https://www.google.com/maps/contrib/108611446996866953111/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIayBtduURyKgObBsCr6b8iM6drHv5-xsENxD9jYQSTSsExZQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "I have brought two of my cars to this location in the past and both times they did an excellent job. Repairing the scratches and dents + paint. Great service all around and the quality of their job was excellent. Special thank you to Jeremy and Stephane!",
+        "time": 1743102723,
+        "translated": false
+      },
+      {
+        "author_name": "Faris Sabanekh",
+        "author_url": "https://www.google.com/maps/contrib/105437443800172201798/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1qqoUvxiy6KNufe1S_3FYaerL-OA_E1g2roHCnq5xyHUyMw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "DO NOT GO HERE !!! I choose to get my car fixed here only to constantly have issues .\n\nWhen I initially went to get my car I realised they didn't fix everything they quoted that needed to be fixed yet charged me for it. So I had to bring the car back after I returned the rental.\n\nSecond time I went back because they didn't connect my door back together properly as I was unable to roll down my window or unlock it via remote. They eventually fixed it.\n\nThe third issue is the door rubber mold.came off 1 month after getting my car back. I choose to avoid going back as I don't want more issue with my car.\n\nIn conclusion DO NOT GO HERE THEY ARE HORRIBLE.",
+        "time": 1738075905,
+        "translated": false
+      },
+      {
+        "author_name": "Peter Clear",
+        "author_url": "https://www.google.com/maps/contrib/113778827131814925396/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjWzc2quEoXZl4J1ymzyDf6FZFC1mKkKk2YZPgMVX6XS__xw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "The worst place I've ever been to. I have been back to his place 7 times because I keep finding issues with the work they did. I DO NOT RECOMMEND THIS PLACE . I just found another issue with the repairs they did.\n\nUPDATE: not even 2 months later and I see another issue with the repairs done to my car and I'll be having to return to get it repaired. I have contacted my insurance company to complain about this location and I was advised it was the first complaint they've received for this place. Looks like they will be discontinuing there services here.\n\nUpdate: here is another issue I am experiencing my door no longer opens the one they replaced due to the accident.",
+        "time": 1737484193,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17086102575502679188",
+    "user_ratings_total": 95,
+    "utc_offset": -300,
+    "vicinity": "601 Rue Chicoine, Vaudreuil-Dorion",
+    "website": "https://www.fixauto.com/ca/fr/shop/fix-auto-vaudreuil/",
+    "wheelchair_accessible_entrance": true
+  }
+}

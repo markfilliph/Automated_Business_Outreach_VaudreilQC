@@ -1,0 +1,441 @@
+{
+  "query": "Urban Planet, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340141.7185144,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3180",
+        "short_name": "3180",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8W5",
+        "short_name": "J7V 8W5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3180 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8W5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "3180 Bd de la Gare, Vaudreuil-Dorion, QC J7V 8W5, Canada",
+    "formatted_phone_number": "(450) 424-1928",
+    "geometry": {
+      "location": {
+        "lat": 45.404566,
+        "lng": -74.046112
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4059605302915,
+          "lng": -74.0450833697085
+        },
+        "southwest": {
+          "lat": 45.4032625697085,
+          "lng": -74.04778133029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-1928",
+    "name": "Urban Planet",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108081218341448071035\">Eng</a>"
+        ],
+        "photo_reference": "ATCDNfUbZrShFmSMyjbNQUvUYpeL2WSoUGI1ejWXQRCApcHvgAk8cCTnQShXVvYuG1lvWXMVPyexXlSucD56bTmsvCy29Sw4yzcYINzdNg_-NZvuAVedKkhaIZ8ArpeluZcXVA65S4DewZFUr3_19LURa0w91gIrq8Haw4c8kgDbLwFKekuLkYy3AfTGsTIWj87xml7mD0YicmIXqpqpnKFjBkqaSoVNszmJ1No7v8z1pYTLUfkCmsZyhX6YWWtpSD-fvh2cyvH26zlJwI2SAmiPqpoGVqmyR8Z9J_rnOPe8KralwjR_8qHXSSScVIPWaVpuGouQyK2QIpSFACI2FxMiaMqC8VgzcIHNxuzFNbKD-vUqhXjmUC6sp2jyK_Iu2gABe948sYb-Ysa9JRMp5KSkOg1t12RYImq6Psgf3datwpArXg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106324794266777368389\">mssn316</a>"
+        ],
+        "photo_reference": "ATCDNfVplzQIjSjbibfHKi0ALMxBTtUBgijirFNLninjrVyaE-UWQc8WW3sT9htrUrlCSqqw17EMfZvyEaz-JsLCyrYG8Jg-0WyDWbzp7aKif3ZB-EsXUHNI1hMPtk6GcZOlyaUF8RKsolwSo7pKklUHEVnWUfy_OWYUCkYQH-_gnxLW4qz9WikGQ3ZAAiPC5qUp4oOnpekXm0_iDEKKyMK32Ds797HNN4U8oQ9MlB1YuKw5YHxCBJAwv0uMSbiJepNGA06HIURr3BiqYjgbyubHNrad_YdzYWn0EhZLYgN1NBABzEDdFeiidBHXjMcPSIRA2KLi7T1nWc5wLd6QD8XKx6ICksYrsGpP-N8-wJVRNgxfHUThnOgs6eiWiJ3Bsk2NQMrg8rcJJjPnMUZBBAPe13YUgt01RqpCGGsowzErv4P0TQ",
+        "width": 3024
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108081218341448071035\">Eng</a>"
+        ],
+        "photo_reference": "ATCDNfUScqly3c2iIj1TRlIXo1_XzMYhnieYQ0jrMrxM6RRuzL1uWMos4TkM1qh0hyzD4xAPnCR4jD9uSCC8vQUIAWTUCYGNC2SV-ukxHs0s3Ps_YSteP2vzIny2mg9GGscI7d725JBfyD2fcQmMW6EqWU_X02zo-PIFi6RnFWcS8ZmllFajEIHl__7P1bI9tCsscMEBAe5GuDG5vgoc4bs1gliAuDSD6YjUlfs3sVGwEFpl0HjuRDluJOGfZ5wnqbNHyd-Kx2S_-XrFztzHoBvNg2-0RrWUSd-9kDXCUgCl7askCvSNR8-kxUzkPhTS16XWAa-CaYs82uzpd6dDUSlRtJtr_E16s7lyHEUEoP-HC4Rf2sJDpP8uoA73ETpghdTfMBfi1jaoR42WMkc3Bq_ezSOGgbvL98CGq1Ara04uLyOwww",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109553085909048586425\">Kirill A.</a>"
+        ],
+        "photo_reference": "ATCDNfXUtT6a8cikk8tPuatljxcF6jU4kKRBfavolKBRzcHyvIyahdfYL9xN3cFpQETk8tGbbEizhl4J-Lce7ofBDWDo9EHxV_ykWuJdNkScGIA8WRf2HNI1iDigSr0MKj7HiiD0GCsscm3FTxg6ZbpHtIUbK4lHjRqe9FR-Dg4jT5MFlH__26jFTr8hEsVw4AehJZ4y92vx4Q9pUNwHZd6w0HcjEYsAYupvWSelETQw_wiwWZ-Wa-m5AGyiKQ468myhrME-tFptbxTf98ZCmUBJqXBVwq6TIhjuLIS1Vt1lIDDbQPtF3pcss_SuLZNjf-orAAqVcTXRXdoM_HSBKRUKzY8wRiuANV0vFhilnUZ3b0hBNEaES1VLyRSSKlwj9HUy2_Y8DmQDW8lxQT7H7Vx9wcv4kWYolKnpCqbEQP1dF5O2JU3wUPE2PY2u-GJ5ce_P",
+        "width": 2268
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104049684288933503058\">André Chalifour (Zombie Graphique Inc)</a>"
+        ],
+        "photo_reference": "ATCDNfUfSm1z-QFBnYJE4pcmyuVep7pbl_ESeyYmq9oxwf8k34D40nBb_K8iKfZnoszg9FwItC0svDZfvccWj2JkFnHb3jX8SXWKAPrgyLMenpV2yYqR2sQ3iQkYgoPcC-L-n759E3LiduaLRMG-rEk5gUbLcjpIf9Bb1aEtLvr4fBJ_LghltPpgLiRdHxC97zr9z0i1c45PPPU1RthfoFhmKQLMUdWWdQ2IPFMJRxnXUSMXFigFglp2fr1r5r07i-zqnIoL88VWAQPJEGuTIalkwLjVY980z9u_woomGkedg7ofPzXvLOEl6Mx8WVLzjdXWELqgAsu1yQl5L-4VXMAZBYrVbHPzsRSWN2xG6FV6S7ybP0hcVq8X3iw1vBsDh2ydVY8JzNR0Ww8Au4elUwdfAB1Id4l8cMpDrnP3SEjec_Zj6yA0",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109553085909048586425\">Kirill A.</a>"
+        ],
+        "photo_reference": "ATCDNfXChJJhRdeKSlJA1yqYs1W8HtCHg033sViw5h-Kg2k84-mna-yMTCT1efBsaRdHCnLaok8AUagNYnf5-rrNspZZFvQyIQxKe8TmGg6_lo2Q8G1QnTUIZ4XHmtaAzck0RRsLFuKp63hgcM_4tcl3SMX3g3BSQ8nGRrJxChG8rU3vBFq2k0SXADPJ-bs7qhIoLL3iZ1sppN4tqqZtc4UMZsE0gsHVYM7bZg29BklvRpxcXsFy7hFUn7F1xKyp8wCFobdbitsRquGYUjxsZUKVtz46qAZfLOg7s3RAqYB46xT3_-RER2NB04OEB5kXhfXQE-rXTJEf1QmbgGYXX1Wnk98GDtTOI0Xoet6Qt5vVK2jERG0FrUitobWYfoCFByZwQAgE8YN7ntkuYm6Ujx_IiUm5nyOB1FKKoNQhrEeMpuxQWCk6fWIdBgtnqGbDqgnr",
+        "width": 2268
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108081218341448071035\">Eng</a>"
+        ],
+        "photo_reference": "ATCDNfWHq1jK8XBUZoYoh3p1L7RyiPuKdvW-Wj52R7jA975tZoEv7gS7aXmag6wjzHjMUGn9h6WmMcjHkUOzLXQllhPZcncnz2kEC8eCnYiH2BWzVC-RBU9L9x7srTxMUXkLf8lOoDR4k5WIyEH-DAurbE_2GvnXpaN5WhXhmaqOOYpCLH8JmhFxrg-NYqT849-gJjAxkOp-ddzYicr-toPhq_srOmDmNZDzLqiSLeE3ArRck9aSKmoPmCiqTL58Pnty8Ly5ceLJ5tYi5kbyR0YMadmtilWKiq5t4soLcgXfscm1hYkXnB4R_cvRhmtn1T9iZj0zaSKw9W0_5KGVt5Bx8c5DxLosbvMgf7fvu9xJCuZLLkweRXj8EmjTcSd-E-HAJnw_BIhp3ybspfe1faW6ANlQ3LEKII8WFzX6DxlHfHuIhMnf",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109553085909048586425\">Kirill A.</a>"
+        ],
+        "photo_reference": "ATCDNfU30UwBkZMadUfap97kDa1E9LYcA_8XN9t3aWB4WOSPGA4gRigLxJYaqIve084PV-ukCN4VV4GC8Tf_jXZqAXsb_TePYpWoOMo1Glpy_kay-YjliuKT58tkEyESWc3Tmgbu2GEVwn9emHwVq1LcYBHtVDOnToELlZ7OYNCmTmdNXq_77K73sxNSaQ2JZNHlDR1rD3a0BfyHQJN0rGMJpjvndJ0sVy6xc7NsR01YeIzmt2Bn614C0XTO6_xcX7yiadombMFcbYFdD_zlGJomN66z3Wuaky85qBXjoZkoJaZRwuZTrwZs0_zAAEwDuVdp9g5YvTMAiR6weurP-PgoAeH_lAIl4MjMzvnDe4XQTv1Kvsji-5ucwNLlzkONiPPja_BlDwXeLFUybbLxGdlrkJOy3Nujm1DFWrVSxFJw_KWmzPPaxfhsvUE7vSbEwipT",
+        "width": 2268
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104049684288933503058\">André Chalifour (Zombie Graphique Inc)</a>"
+        ],
+        "photo_reference": "ATCDNfV_s7_f7DA1dxRZJi03HQvzzD7fixODaoZb26Rw1GI2Kq_i24xUNQinha6Ta-HoE7VlrW8LMb1vqiOwfBmUE7oC7n-N5tBLrMsAs8HtcHiw5f7ZgsmfRZknXOYo4ziO-ojZ0sXOkZzsy2FFhIydSqlxX5bl6SNV4oox04u_yIdfW5jy-zfzegNN2yH_vFs8mXxd8bhho2Gf5sm6keWH6_869F3Xv2dEn7kTh7jdZYvpYSLHMpkVK1o5kMgIp92xwWaBeKsNU9afq5hvHt53gc_XSaa_w7phw3CXPAOMXi0JK4uNnCY8bK0meUYuUUo1CWxMis5zE8lKR1gI7Kfv85zUjn3opUYlmlwa2cdYnGWlprNp07ccn20vIPgXn5EsLLWcAgET6EN0d_WJUk8mUAiO8n4wv4mRrfn5L8ViIFoPwiZa",
+        "width": 4608
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109553085909048586425\">Kirill A.</a>"
+        ],
+        "photo_reference": "ATCDNfVg5eBCT3MrT1eyXL9Ch6Kfz8sQBJtBtlpLzS62K3_BnC3QqkYo9TyfFm79iJpZc9Bwj2-Lz21fUVmPDaKET7zww73OZybokiVSfUdYEKt339spfW04pqoZOecv5-atIrmsxwOjUIhgKf1X26TplUrWxTCAbog3mpYkP4k-53wZ_EMiCchmh-Dcc9No46ZLRaw6cD-cGRTQj1J3gzDBDs7uLSAW0Qu-NBaMCsYVYHLAtk0m5WUsrBmkV4iDZvrezsJSgNDk13sJ0mNUCz28ojezXJaIuPgcgFbod1vtBZhlyDQ1D0HW8zwFt1XCKbtFVL4fl-XTcW3wMcvPL5nvjqFlK3a6A6_L4eAcGqMsqNWvTg4NRHA1c4_M2HzZ7CBabGhED9_Un6Q8LmQfNDzh3DhZlS4AfBPzfhWmADO7ByhareLhSBpevmtg70lBy4Yu",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJb5y2GOY3yUwR9p29Ca-EB2U",
+    "plus_code": {
+      "compound_code": "CX33+RH Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX33+RH"
+    },
+    "rating": 3.4,
+    "reference": "ChIJb5y2GOY3yUwR9p29Ca-EB2U",
+    "reviews": [
+      {
+        "author_name": "Soraya Richmond",
+        "author_url": "https://www.google.com/maps/contrib/108425634812824313785/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0s45Oun-545oF-vAbhNwEpnZEqYIdu9My7R4pzxtorlrgSw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "had a great experience shopping at urban planet vaudreuil. although it was really crowded staff and cashier were welcoming and moving at a fast pace. nice clothing for good prices",
+        "time": 1766810642,
+        "translated": false
+      },
+      {
+        "author_name": "micheline ammar",
+        "author_url": "https://www.google.com/maps/contrib/106563667920925969792/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqzzdTNUQ7EKrIG63lXsPvaqLwh6zigBsyz8wsEkzRPAGP0Ybo=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Customer service was very disappointing. I was buying gift cards and they couldn't provide me with individual recipes. On top of it they were rude and annoyed with me. I think they forgot that I was the customer. I will not come back to this store.",
+        "time": 1766533565,
+        "translated": false
+      },
+      {
+        "author_name": "QT K8",
+        "author_url": "https://www.google.com/maps/contrib/113203033041578491560/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjXNh309jhFilb5vesxgkbgASxHzesR_DsFlVoCorYmPOoGaec=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "The employees are not very smiley or look happy to be there especially at the cash. It’s my favourite place to buy clothes from.",
+        "time": 1761399594,
+        "translated": false
+      },
+      {
+        "author_name": "Caillan Macdonald-Kidd",
+        "author_url": "https://www.google.com/maps/contrib/104769156512263949661/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpu29t6VGNlYsN3aGeAmpQ3KOaUTdMzYfPS0Mvwzb2v3YrltzPBw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "7 months ago",
+        "text": "Love the store and the prices, but i can never find someone who works there to help reach for items too high. I had to chase down someone to help after looking for someone for over a half hour.",
+        "time": 1752505749,
+        "translated": false
+      },
+      {
+        "author_name": "Neigbor Bestie",
+        "author_url": "https://www.google.com/maps/contrib/114772497360090847078/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBMn7TsWsvz97spElO1CzxkLxUNwWVFUfJcByPCbRlAdKL_fA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "11 months ago",
+        "text": "I love Urban but the Staff in Vaudreuil is often a little rude and arrogant. Also, lots of the items that are offered online are not in store . There’s \"SALE\" poster upfront but sometimes it doesn’t make a big difference on price . Please bring back jewelry and friendlier staff !",
+        "time": 1742570573,
+        "translated": false
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "shoe_store",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=7279933209985261046",
+    "user_ratings_total": 66,
+    "utc_offset": -300,
+    "vicinity": "3180 Bd de la Gare CRU #118, Vaudreuil-Dorion",
+    "website": "https://urban-planet.com/collections/up_new_shop-all-new?utm_source=GMB",
+    "wheelchair_accessible_entrance": true
+  }
+}

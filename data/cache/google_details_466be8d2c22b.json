@@ -1,0 +1,425 @@
+{
+  "query": "Librairie El Libro Español, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338774.6407988,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "387",
+        "short_name": "387",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7W1",
+        "short_name": "J7V 7W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">387 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30 AM – 4:30 PM",
+        "Tuesday: 9:30 AM – 4:30 PM",
+        "Wednesday: 9:30 AM – 4:30 PM",
+        "Thursday: 9:30 AM – 4:30 PM",
+        "Friday: 9:30 AM – 4:30 PM",
+        "Saturday: 9:30 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": false,
+    "formatted_address": "387 Bd Harwood, Vaudreuil-Dorion, QC J7V 7W1, Canada",
+    "formatted_phone_number": "(450) 424-6123",
+    "geometry": {
+      "location": {
+        "lat": 45.3813767,
+        "lng": -74.01821819999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38267663029149,
+          "lng": -74.0169614197085
+        },
+        "southwest": {
+          "lat": 45.37997866970849,
+          "lng": -74.01965938029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-6123",
+    "name": "Librairie El Libro Español",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30 AM – 4:30 PM",
+        "Tuesday: 9:30 AM – 4:30 PM",
+        "Wednesday: 9:30 AM – 4:30 PM",
+        "Thursday: 9:30 AM – 4:30 PM",
+        "Friday: 9:30 AM – 4:30 PM",
+        "Saturday: 9:30 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114339858998092342614\">leila hassankhani</a>"
+        ],
+        "photo_reference": "ATCDNfUEVN42_iCKcOEeQDZ5T-ePayGu7Jl2mCqlXVQF_JWCgROuo_1bKrnM9fgh6vnRCyA3EiH0m-3BBockm7pqXKkeymoDdsUsC_zAWQ1KTZAOZVNfCSsktjBVXKL075Yuk68D1aIB1lNh9ytS2MQBqvMY1eLmB_XXXE8KkvWAK3f5ehAEzZ24h_N22WdibG6qS-PiG1M91ODhjQUPTUpDmHJ_Jqf-LV5_TIgEFu00Cf2KNwpKdAilL2TCTjy7IspvJ02ozxfykvCeV7Xqnic9nvW6conJiuABZ908Kyh6SM-5oCo0J316qvdmwEnTc1fj_9JxldjNI3olGc9-IxJQJSn3Uo3rD-Nh-mGv6DUqNkz_BtqXHW28cmFw1AN0m3qcbygfxNPS2SEXrjbOsED7Sd8VZ-badqPntLrh6AB524FnfQ",
+        "width": 1080
+      },
+      {
+        "height": 1930,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105230979424339655649\">Librairie El Libro Espagñol Café</a>"
+        ],
+        "photo_reference": "ATCDNfXwugH4pMMJsnBjXmXNfEyMYf68Fe9xiPWEE52EukCqzQsk9nRygdkgA1jEpqY26nvmRCdQVv-OmKh5aqX5YMYEDSKjXPADiUctyHjiiq-lALu9q6FdK0-SwCEyeoW0asmSNGrTbJ_OPhBoYX4ZMnVeTOlP7cNV0eWXS0vmmvmlz5PvqCkTDUBwMf8RzCsMvErdPwwnintTNOV4q-4A8GM4KqqUIZbF77GO_OEJvm9WMPr7XI6E1csHVH-PdcwAPp7ZImQy_AAeP2CHzgvuNY8PGVoyHmiSFYkzgMVx94bGEg",
+        "width": 3003
+      },
+      {
+        "height": 1306,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfXM4AVR3FKNkzhluZZliCqJXAXQYXQtlhnr0akkilmqfGkarOoJwWmFqZ-LvBAjm9YNbZzibDKuVVJ9h2tnorWLMoCs24vNaLytlMX08313kYtrDGAQxhOBUhRsjGgRwzJGeb4c5Ip-ylPI8KzJ5jrJHA5WNyGX-EWLyixTiVGGO1ratD1HpG6EU49hx0kTt6zGBajbptDaaxfCpzwzJYQ5SW8Q32JJQwWOSM9bW9zArGMdnoCuZiuAv03l5-DZArISVWRs8RoTVW0PAjULNiMFwXf8-69cxCtzFi9s-7_l5Xkca2YyRkOkQSyh5fzI-xNu5uShqOqCSOiUfNWRlg9nB_oTkVW6uoyl8W5oxH9oGnLog0iBq-PkEw44mf24BnKnqmHdohN6-utxa7jmKSSXV_tbRJ3tDGQKEgrQJtCRew",
+        "width": 1920
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105230979424339655649\">Librairie El Libro Espagñol Café</a>"
+        ],
+        "photo_reference": "ATCDNfXQcRXbkazXax52GnDFFpsAZw_X0PCUZgIe_bUZSGoaQ-clYVDFWMQ42LOTGkfdVTj5oT3C0TWCuMJstDLNx6TI_1tW_1tdTu3GSfRgywuwLvf04YhMQn70rDi52cj8nx2sO1ucUwzvzeSN2FjffsC0Gvjlon6O9jrJL0X_RrHalx52yVNQXlKgMVFiifdzbTgss9MS7veIdWZ2fDv-yovNc8Ei1mnyX9f-6yFNvFpAtL02AJVHDobNurB-TWto1oLV5-FoOcKCkiBCEeeGFD4a9nAeK4ygdcER8s9bQZdh4g",
+        "width": 4608
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXLSbeF-xF1zSmvCyv-96Op2Ui8F__i3pvkUcymVY33XhzbeMx1ijrbYDMt_BdFaVqpmnIIHG52QdflbMwF-vBOo_7OpI3Ar9OagABTtJNc9hj20Ft2DZI5o-_CawxGqjV7Unz5GPEI4KWcGrQUzk1VHAkE4-odm0W_0R3-oebNVi1D3qA6P2TtpqBlgHa3fiUDTAqsv3Q7xgKbfoUzMvABfM-8CegmIokOLPAgdduuB84FtdwyfcSXI4MFRM_VvrCull3wEt260g3I682rOxwdK1brfdSBjjxzAD_AQa7jxrGu-7if4og6DDWKrqEYts926dQkPJ8dIi2_ZN-9zCfGNE5sTfBDFwYb7mv1DWWEsOLu1djNSpigMjJssfML_H9A90SIWC43GWmdatjTU-9g04-5Yuh5RqC2ZYfuE_HCB521",
+        "width": 4000
+      },
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105230979424339655649\">Librairie El Libro Espagñol Café</a>"
+        ],
+        "photo_reference": "ATCDNfWpsjY14I1H1tb60OUQNLVOHHGP166EScZWmyHpLFJmGhMG0T4Rf6L8KGXsWnpUd5WzN9BT1iakrCSgrvehRWGOvfjV4-NXf3BzX21QsxaYszMACk_YXFulvfIiNr7XXk2D8lefPf34JoCA-Sno1EnAcjXyuVJqHTMG1vByeLXpsWNyGavab2zx107SjKly0kvUx6yWp2gEq4rj8JtXmRt_H94Zxl4DAHlCjg48jSKuH4_-0OfP23SXGZ6aLjypmRJ0i_lue5eBwsSYeGKf5Ggf_jb8HR50Zaydi9_NeU8iOw",
+        "width": 2976
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114339858998092342614\">leila hassankhani</a>"
+        ],
+        "photo_reference": "ATCDNfUPAwdEXEnKSawuokPRe3Gh1iTW6bN6l9fO8hlnOExwYoF97171DLuP4bs0uT1y3nEmy-rBupSDCq62ObfnxOKVkOqMQ9uK5M4ALt4SoFMEHvD07_pe4Z_R9brgoL8_dgeNB1KBAO6htf-ArTkeZTOe55rGJwp9CH38LfcBXHAYkxr4o0cFQVEbvkz7CKFNrKS3csjvqzDgJzjvE00zGw15k3GtB2-qCb5_04f3FhNYraFvpeG2E7xapnWHHxTFlGA6WWJs0dhwBl_VvZpDIJG1jkI3LaihFocNEXsq7omZ1jZDlA3Tu7gkD7a5_CbcuFtg_UQXIj67X3xl4fcepjdTLYFxeMBeUIZOVyDciuBY7z41hT__ojRqy_N28CRzDIZ5YNCE3Ek7NbKrt_fqjYd1YQJNOs4PBprcgDMdyDK_BA9F",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114339858998092342614\">leila hassankhani</a>"
+        ],
+        "photo_reference": "ATCDNfXuTtV3gM0OCjOP67EsNCm0bGPPWKx1re081qViUGgyjv-Q8jSjJ8IkDIOCn3ugKb1UTRhtcEjvJqNI2ML6h8coUICnY4zIybliUq6bfRQTOzkS6cK2ZVWrjNJYPhAtg6swGcR-NlwzsCBcf0K4kSEogZbzQwvsoI0cAAoNwZtIAudO4cNjINcxIfvZ0eckPWKd282BNzFkOFE0ElE9d-hQRZaUf4gBiVymaoriIq_ztP23ZzCqsPmME1NWGfGLc85e107MeJk3MxG-y60ODscORlyfenh3JGwgJI3UwzQaWTgWKxw-hn-7gRw-NW7bic05s0m72vHRz6A0wJgBLn5FuHueyglAMEYOlJS6551sswsUDd_MYzr-JOid3uYRQ5t4xz-VKrerhU87xiq0PsTSWQeroiQxb5jydReLKWMDcAA",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114339858998092342614\">leila hassankhani</a>"
+        ],
+        "photo_reference": "ATCDNfVx4ofWr6GJxoVXN3T6vBbB145tcYH58voXn83MeqvQvyh0d4bukKarFwLzqYd-NyRap7tVzG78JgKT4K97k3UJWET6hw_2j6o6Acbaccl9K0LNteu-6tczLR-YJQn502y5tJLvrsWBFkdZWGtWNaXuY-2Wb6SpT31-oayUvCXqmUqg-SNOgMWzTGoFCG0p3qH0z8HrKdLNPA3r8G0ZTRl9_yhlhneSfuZqlsxRVy3ICSdyroqy6ORwzG9UnxOEclLZbEE8ppJsam31M8-i64l2JXXOPxEViMjKpE9l0PWesX-A9JaFevWLQPVNhbBgIwjsBFqGd81_W1ni69oggPU1hmkhDdXdNXIBJkQIQw34gehlsxv2vfPkkeLAzafeLMwXKY3uuFYlOrzGoL9s4ADxd9gY1bGl2R3hnA",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114339858998092342614\">leila hassankhani</a>"
+        ],
+        "photo_reference": "ATCDNfV7ARmqBjJk41wcCy4EgyoBuVEEboZgR_9xR-ZaWjFs65FDt3XkmBISfpwaAaPWTV9cwwDIeExnh1HAZGs-cEFZYMi2xQEtRo2DRUL5u1NiwTtkEMY988F-p0Yy1_nIvzI7MjTHZRvaIRPyao5GJ5rxJFzjePNpZKOxBFoBjrhDQhVPgzT_DXJo5g2YUH5yFEA6C4RV1yz3cJDOEtlkgW-WvBbfddCYg2aS_3eYuISXYIqgK4X9JMFGvv3VsKNV6ttLQNjJDRPLqZqqg8Am8YEkSzhiZhK1_Mb_qEH17wZp-x3MZIcrCZW-eZJ5UpMaTo6Y7vH_LvqjW5ScrxiYNoHpAttXE0ok0s4BDnJNTtbsQNMXO-f5DlIaYU63j0unWMpJus6hvMj-vwYVZWBxRJRQq5qLRQk4nEieh6DYiSmUpAPE",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJWQtwKxhIyUwRasoN99rD9b4",
+    "plus_code": {
+      "compound_code": "9XJJ+HP Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJJ+HP"
+    },
+    "rating": 4.7,
+    "reference": "ChIJWQtwKxhIyUwRasoN99rD9b4",
+    "reviews": [
+      {
+        "author_name": "Bart Sellitto",
+        "author_url": "https://www.google.com/maps/contrib/109581473537133110517/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDJ-PChkeGL5vKQPm371NuAOcsHX4mBnERi7FtgP4o3BF61w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Taking Spanish courses there. Excellent teacher takes into account student's ability with Spanish. Great ambiance as soon as you enter the place.",
+        "time": 1554591046,
+        "translated": false
+      },
+      {
+        "author_name": "nathan lacombe",
+        "author_url": "https://www.google.com/maps/contrib/113890693005187886284/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfjfOee3ua-EoZ2m7CvvfKv5Y2rNlyvz_IwZLKrMKKvnv9_1yK=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "This place just might have the best cappuccino in the area, great service, happy to serve their clients in French and english. Great empanadas as well",
+        "time": 1649195101,
+        "translated": false
+      },
+      {
+        "author_name": "Julia Gilbert",
+        "author_url": "https://www.google.com/maps/contrib/110567331206805448728/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk_rpjY_T_nsgbUh-8sFsI2YwSNn3-TFO2awglZi278uL4VD4Y=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I've only used this bookshop/school as a cafe but their food is excellent. The chicken empanadas are fabulous.",
+        "time": 1635604493,
+        "translated": false
+      },
+      {
+        "author_name": "James Blunt",
+        "author_url": "https://www.google.com/maps/contrib/115567320621821001824/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKtaZsmGrau7b65WVVkdubH_7XuP65PXPrxzjdnnXXBLZFnQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Good coffee and atmosphere",
+        "time": 1516822518,
+        "translated": false
+      },
+      {
+        "author_name": "Alexandre Caron",
+        "author_url": "https://www.google.com/maps/contrib/100026141482978918912/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVko8GzYsGiffOgugDgkHpRe4YdAixiSoZ5Ge5DD5_m785SDNYt=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I took a level 1 Spanish course from April to June 2019 and quickly learned the basics of Spanish structure.\n\nIf you're already good at French, learning Spanish will be like letting the wind fill your sails!\n\nMy teacher's name was Ricardo. He was an excellent teacher with a lot of charisma. That made learning easier!\n\nI just wrote this without a translator... (using a Spanish keyboard on my phone for word suggestions helped me learn more!) I hope I structured my impromptu Spanish sentence well! 😁",
+        "time": 1563510481,
+        "translated": true
+      }
+    ],
+    "types": [
+      "book_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=13760119581715581546",
+    "user_ratings_total": 13,
+    "utc_offset": -300,
+    "vicinity": "387 Bd Harwood, Vaudreuil-Dorion",
+    "website": "http://academiamistral.com/"
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "query": "Nova Chiropratique, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338852.8915126,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Bureau 204",
+        "short_name": "Bureau 204",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "100",
+        "short_name": "100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1X9",
+        "short_name": "J7V 1X9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">100 Bd Harwood Bureau 204</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1X9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 8:30 PM",
+        "Tuesday: 7:30 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 3:00 PM",
+        "Thursday: 10:00 AM – 8:30 PM",
+        "Friday: 7:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "100 Bd Harwood Bureau 204, Vaudreuil-Dorion, QC J7V 1X9, Canada",
+    "formatted_phone_number": "(579) 638-1515",
+    "geometry": {
+      "location": {
+        "lat": 45.38404480000001,
+        "lng": -74.0091061
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3855009802915,
+          "lng": -74.00790941970851
+        },
+        "southwest": {
+          "lat": 45.3828030197085,
+          "lng": -74.01060738029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 579-638-1515",
+    "name": "Nova Chiropratique",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 8:30 PM",
+        "Tuesday: 7:30 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 3:00 PM",
+        "Thursday: 10:00 AM – 8:30 PM",
+        "Friday: 7:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1156,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfUGIz9o0QKp-D4kFrla01pOct_4uoGh_n3q1Iz_E6z_flDjdliiRbF_3Qrrmpn_v-eKSINv5OsyCAUQRknwDmitcDJM2WMzVWjYnEV7g1TN1-3m8yvBm0rKaGmWUTTqg-xB1y9ngqdIQKn6zjjWJy7JEWAe61kq6PFmo3K6-JtQrclVK5HjO49JI4wJfmxG-ucDNeSY5gsFzZKNLp9V8YhjN3RC0Rqlja2iw4H4p8uKfhZuQR87V0gw5t1rP7CwfRh_sVRivJWXtR0gpJdbU37DYSFxzhmK4UYjdElXV8uVbQ",
+        "width": 2048
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfXGHHbE5jnb9M3-EaH7IEIckJOXWqpL1PRMoT9Bwhk8XS7HvQeq0QldBLSnr4Q9pdiQDnnHidcY56WaKJRbSSZYQkCOYhA_9Bdf7obX0TPxm0h7DyFgQPDCI1QqkQjlaYxv045yb2ukaJSe3a5P_zCfVwwLaBGGLZaWn0IbRpwoolTJrvUEbI3x7wHRzlCRVR3dJSc2RlTc-FHxEFgoN-dYfC7B-JsdMxR4AW1nK22-I9OqX9BKkxeVsnrTXEH4PuYJkAHYW-5kt4tpESrF6yl5qsWDIv4E3BmJEUejK6ghnA",
+        "width": 4500
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfWVfV9Dg9g_AgNY3TBacrkGnP80ACW5Q1YeAvQo7U_Kp5sTmtjGd7fpXgoNn9N952SABY2R1itBk-WYV5vX4fOtTROWDHiWeQ5a22FZ7IqRLgL4HAmarA4hF-60y-yIPVYOiTXiAEWQrJAOkphc6zqncxB5nIaNSnc2eGMKGHqDC_oSvqvxzi_T0rUfCjKzzCCmc2TNG9qD5Ss6OpN8GKouwwa2s_2pSesVBEaVTlYmIYRR3NLdnoIYAg5To9AUVojMMfqzfk2Wyo_1VRW4QkLDCq1m_JTMXVuFiOzocpOwCw",
+        "width": 4800
+      },
+      {
+        "height": 3201,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfVqThkuoJEySwPGP786Q8Gmsc93Luyiez597n42JKhXlmhDeqLukh_j-MSYCE1B89YbIly3vf5RH6biEcKVfLMLjkSUFmucjpKB_QRYnbnKrJAANcushqZhE6weKkdtjk4K6DMlDoaO7uwqkiOIZ6cyCHw5afrXleRpAei5QN5gTQ5cBgIiWyRga7Ve1bxVqI_0EsrfyIldWdxRs5EqQhnMhRZseN_w-gc0UHj19TzicIvDUkaPIj33jHRwE6EDUNrEfyGTGClwfpV6FA12Fgh0cKnd_Fq9GsdyjGSnqHR3iA",
+        "width": 4800
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfV5r_I6g5HLofxoJGXjU3Eky0rmdpwMLTTsKptYJJBQz6Ohbul5tvnV5f3hL_jmVUixv-nyNa2D1eydVh9hkZkgWtf3s0w_pidJy8aIlb7lSNHyHV6WfRKpm3PJiCJJ6olMEuXZTQbXadOUoZ3XyawqG6LeSEKqaXuQP0V5_CW5J4Sm1okGMaxgoGlzB3Q22mUSFdTr1vUxjFbb5hIJgK018PvWN2bk_KBpYHGWjDXDbrPd4ZPKdOadmNik7Z9VPQVRhBwjQuiDgMo_OmL70v57wjEQ2TXM_FMJFen7O6OxlQ",
+        "width": 4500
+      },
+      {
+        "height": 2481,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfW-gvTYQcRlNU8yfH6koyjkzyjmkRi-cB5IZ95SbjRY4EhIc5hxdxBnDZNwUaSTzhI5pn3x_JEXPaONxyKuaTmnwl7fA02uAcgI7ioaKUsS_Zqb1sNBcv9DF7O6bfVldkBhmFWq1Gg3sVLklbVF9i84ellzCTmDwWkSPoKUvtoFgt2iWBkrIDxYC9rol4y_B1UN4CSyo6efG4CzOnvI7UEQn8jayzuN6H9CUIVFyyE2yCZqxfNx47mcN31S7qPk_Qv6iFb7i6XOm16mcF9o-rOcx615OZ2zIwCn6AnXXaJ56A",
+        "width": 3721
+      },
+      {
+        "height": 3203,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfXJsFbgBPjLTXjlchnFNzchg_VVpECrURde8ra3SAIsayGbREHWG-Hk0bqezDYNPAvljluCPcYPHBnW8KJc6EuyjTSB5R6khGJG8RNw7vIdNSxbHy5veJY7lg2N1GmBEv8eekMJSboGNfcq2EZ-3-bDuO5N_rXZ2yj42QT27vcHCDMwvpPPSgycW922R0z_ywIQUyL-vfCWBE8Kyhh9rD44bzQ53tw9pkIi9GiwYqPfZNTujDXy8pd_5_qwVh56z_W-OYgJwLcgsiFhiCeMYEtwSiKW7On5kGcfIUbqev7ocA",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfXOILshwYbDcaSUB4GRYnsvhbQzsSLX1-qM6yJeDQqmBiYFQ7jwA_NN4VflqqLUzEFX1LHP6uQEkqSmwamP56UTG__faWK09zBmz6dTQeKEEPc7P61MHha8iKrfbCdNpQ2Mer1jrHHOvSm963nYDGswETWNnTL5G5GjsQwrGhTDOYgJJ8BcoaJgxCj_znwwVdZdhwKe69GwqYAFou3d0iHpKCTWa_ZbkJRntc93dEs3OsHElLan8nmKtZMTYjpNShCof31jOq6CoFHzHIoHaYwMzFoStxw7k3fStRAPgfaGng",
+        "width": 4800
+      },
+      {
+        "height": 565,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfWhAWxi1PeH9r3s4h9FX3z5LbLiajKYVzSzrrhc2iyOFdfxfgrH3f4DkBeoJmN539nBANXBwIzGP1Cl1shIYS4MxcI4r1ITyCACUfeW2j82QeuzJihNtzzXmZx5bst7d7MWxK7hMqTcHP2aEC_LoWZk_868iwJoL18tiYxoPvixMhYVe75OQUwMr7ffrZyyuSbZQ6ZhiHtWFIIj3qtkTTms2FHrcKaZaiwVAzBVIY_8Ay77d3X44I8Vnj5EBZQbsm49oy3Uq0tw5GBeBKALqqK8-SVfdDYhETDji3U-ktivrQ",
+        "width": 849
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108070365538337053177\">Nova Chiropratique</a>"
+        ],
+        "photo_reference": "ATCDNfUYLrxvL6V1NM9cdiADpdTTvtPT5atj8rv93RAB9A9TewrbKu-3JgUOhTKjlg7crvngpoOUsAtnpqwMsBotYWQsFWBqXPImOw6oiNfbl0H1h8bdP5NNX2OH03TaKYiYW8T24ZVr6b1skbq5h_vCNpVzEXMMgEdRr_uRHo9INi4G4UZTolHWJeSWQFA-zx_9ruINtHznZSUjWwwlS8MCVDUY0gvCb9K61vyNIrygRvWtiRkjrRF7CTUBWHPBpitq0ZuBAcVKgzBxi17OStxTyvxntLWgllZjStdeLRb39IzEFA",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJv-2L3xxIyUwRZ46XgvPgD7A",
+    "plus_code": {
+      "compound_code": "9XMR+J9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMR+J9"
+    },
+    "rating": 5,
+    "reference": "ChIJv-2L3xxIyUwRZ46XgvPgD7A",
+    "reviews": [
+      {
+        "author_name": "Mindy Jerebic",
+        "author_url": "https://www.google.com/maps/contrib/116419631768307441772/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0OtdMRsvDZaBqK5pj_PGAtRCNsNl3R5GW4iSrdQTMow1xJvzPlw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "As always, Dr. Lussier is warm, welcoming, attentive, & extremely knowledgeable in his approach & execution. 10 years ago I began suffering with debilitating lower back pain that ultimately led to permanent nerve damage. But with the help of Dr. Lussier who gave me tools & advocated for my recovery, I have now gone 4 years without incident. Literally a life saver.",
+        "time": 1768481203,
+        "translated": false
+      },
+      {
+        "author_name": "Chantal Jomphe",
+        "author_url": "https://www.google.com/maps/contrib/104978303452830078037/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtWyp3Bvv5ylHJXme_vQgjW8Xeu-gWUuLY6dTow-gTNy-UAW4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Omg! Thank you Dr. Dos Santos! She is amazing! Saw results super fast! Should have gone before. Don’t hesitate. Go see her or any of the other 3 chiros at NOVA chiro in Vaudreuil.",
+        "time": 1757978982,
+        "translated": false
+      },
+      {
+        "author_name": "S holmes",
+        "author_url": "https://www.google.com/maps/contrib/102045621065952023883/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGcupdKkuKXyDqY4VJSfqNT14nMGlaOpBjfs87rVrLzs09EEuI=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "The Doctors, and team members are experienced, professional, and caring. Dr. Lussier's expertise has helped greatly with my mobility. Many thanks!",
+        "time": 1762507085,
+        "translated": false
+      },
+      {
+        "author_name": "Sonja Stuut",
+        "author_url": "https://www.google.com/maps/contrib/105754320284906968121/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKC7pzO7WNybvZm0HTqxRsHQtBFEq1ahmfN1rIoq317bJdyUib=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Beautiful people work here!!\nVery professional environment. Receptionists are really kind and helpful. Myrriam Vézina, D.C,  is stellar!!! Compassionate and caring. She a multitude of techniques to help you! She has alleviated much of my herniated disc pain. This office has one of the very few SpineMED® Decompression tables, the latest evolution in non-surgical decompression technology! Highly recommended. Thanks to this great team!! 🌺🌻🙂",
+        "time": 1706051843,
+        "translated": false
+      },
+      {
+        "author_name": "Anita",
+        "author_url": "https://www.google.com/maps/contrib/113862415816174156262/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPCpW_ymOXTUCk7Lx88FbjvYAlV586aoYz7brxXDCy18LrHDM=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Rosemary is fantastic. She is very informative and helpful. Danielle is amazing also at working out my appointments. Thank you all so much. Highly recommended.",
+        "time": 1680542560,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12686606011798621799",
+    "user_ratings_total": 106,
+    "utc_offset": -300,
+    "vicinity": "100 Bd Harwood Bureau 204, Vaudreuil-Dorion",
+    "website": "https://www.novachiro.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

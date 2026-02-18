@@ -1,0 +1,245 @@
+{
+  "query": "SOLUTION MILESTONE, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340610.6395261,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "74",
+        "short_name": "74",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue des Arbrisseaux",
+        "short_name": "Rue des Arbrisseaux",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-sur-le-Lac",
+        "short_name": "Vaudreuil-sur-le-Lac",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P3",
+        "short_name": "J7V 8P3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">74 Rue des Arbrisseaux</span>, <span class=\"locality\">Vaudreuil-sur-le-Lac</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:30 PM",
+        "Tuesday: 9:00 AM – 7:30 PM",
+        "Wednesday: 8:30 AM – 7:30 PM",
+        "Thursday: 8:30 AM – 7:30 PM",
+        "Friday: 8:30 AM – 7:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "74 Rue des Arbrisseaux, Vaudreuil-sur-le-Lac, QC J7V 8P3, Canada",
+    "formatted_phone_number": "(514) 993-3336",
+    "geometry": {
+      "location": {
+        "lat": 45.4186443,
+        "lng": -74.03327349999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4200249302915,
+          "lng": -74.03176856970849
+        },
+        "southwest": {
+          "lat": 45.4173269697085,
+          "lng": -74.03446653029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-993-3336",
+    "name": "SOLUTION MILESTONE",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:30 PM",
+        "Tuesday: 9:00 AM – 7:30 PM",
+        "Wednesday: 8:30 AM – 7:30 PM",
+        "Thursday: 8:30 AM – 7:30 PM",
+        "Friday: 8:30 AM – 7:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJVVVJn603yUwRy5NRNqHOD0I",
+    "plus_code": {
+      "compound_code": "CX98+FM Vaudreuil-sur-le-Lac, QC, Canada",
+      "global_code": "87Q7CX98+FM"
+    },
+    "reference": "ChIJVVVJn603yUwRy5NRNqHOD0I",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=4760250522950276043",
+    "utc_offset": -300,
+    "vicinity": "74 Rue des Arbrisseaux, Vaudreuil-sur-le-Lac"
+  }
+}

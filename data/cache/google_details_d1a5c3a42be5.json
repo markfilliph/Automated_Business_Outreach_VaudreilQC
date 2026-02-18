@@ -1,0 +1,381 @@
+{
+  "query": "Consignaction, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338942.8997202,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1430",
+        "short_name": "1430",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard du Traversier",
+        "short_name": "Bd du Traversier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0K8",
+        "short_name": "J7V 0K8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1430 Bd du Traversier</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0K8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ]
+    },
+    "formatted_address": "1430 Bd du Traversier, Pincourt, QC J7V 0K8, Canada",
+    "formatted_phone_number": "(877) 226-3883",
+    "geometry": {
+      "location": {
+        "lat": 45.38592269999999,
+        "lng": -73.98910049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38736903029149,
+          "lng": -73.9877961197085
+        },
+        "southwest": {
+          "lat": 45.38467106970849,
+          "lng": -73.99049408029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 877-226-3883",
+    "name": "Consignaction",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1824,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfV2PVThE3nnk-PMy3WMPATp7Gp3ZirsrusjFbUnHSDrWN4toMdrBwnUVQ4Zg4zOxoJm7GlDLufS3JPsTeyxQg3vr7lN6skzPZXthkuiWhtyz3xr2j0nao-7yU-tzeVKMh45HpG5f9qNtDF7aEQLQ_6wmi4MUk2ri3HupuMWAqRSoFMRfFIIFUyyT9ikd19kxAS8DQBbiPT0yW7UlLalWJgn9HT71LjztoOb9a_XnK2G5b6yRYbjL7zm4gze2VO0S_UCI-EHPn7KoaYVy6v3Do0clWqzNQ9kK-I3WivPuvOIj7fXI-vlWniqfBVXT9MOrXvgiBWOYFf6sAEiytVngPiYF7QOznZAvB4HcNL__Qk_Dp_oe9ArMr9_fXthKqArW9PIIRE3-3Ytg0In6hOzUoiwbf092vjWL3Gvr80EKzlQi_fQbezPVWECUDoB1JSt",
+        "width": 3950
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100124286619393079495\">KM P</a>"
+        ],
+        "photo_reference": "ATCDNfXQDVAEmH3cGnSsrxgdS7UcJu1fOG6bXFCctIqedqfw-dn_k0PBzYoegrIw3kB6qJ_8NWKftlqVZk2_rrzud67Pbvfkj_8V9uDY14JALjAyskfen0amd0d1O8EQe-i4s2n27KvV45ef9PoSX2P7z2lAL2Cj6qSTNxGhK0S7MRR_ff_aiLotBg03MzgYcNrExPW7JRupc0nIC2PlhbSEq41yz8sK-ux0-rKCCKJUBsvk8wHOUkP7--fAHJoNiBlQeU2mu2__5yknjxlZgqr_UucNYkIWbB-2kwViOwnYbgSsdKtstKJc0q7iSkXb0Njd4ZL_bNmSx7EP8zjMGKgBN5hEMCBEK56e1eNL8R6hkXjvs57i0GRCTfm9eqX043x84Ckdic-dGwOOPlG40N3qaJLbyBtzgThssJHFLrELHhuvmKi1fWT10pQxU7b6FLT6",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111312042420923738147\">Marie-Philippe Aubin</a>"
+        ],
+        "photo_reference": "ATCDNfVOSdc0MiiRsJMgRS-XJ2LxoSIbTXoio_Q_HCAEZVJ63s5CyOLzHchN56QRWZGmKVS4wb8_AQccWmwOHa4Oe5_ytYuafzHx_8ZHpzDCzlFHv2I7QVoVqnYUpCj_c-WeuY0j-mu-8hYPTWd1weWpRUASt6QEjB5k1P71xV0rba2K7_VREYbvIDFg8byzGviOg9HmAt97cbScuphkGJkh7DPpNFnzg4W8yxtSUxNjX_ZMUn9UWvur-hwxlZyQyX8tGyMp6ErGgNIvbbKvx91bIp5eK9_CpnZkNlcAjEVRxgosgozzzh3TD9tDMnqgAS3L3m3TuUiYE3xkNw2UuUd-OC6FZILjG48t4EVp8uZJnK4oZ8J3jbrL_gpj9ROOyreWJU8uRO4pyGFrGBlIVdiouqAjWSw6jHjoZD2EgPdUL5xLaxLKzGNNkiczvDoPEjXj",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJHVENkw85yUwRswUZLe9TCvE",
+    "plus_code": {
+      "compound_code": "92P6+99 Pincourt, QC, Canada",
+      "global_code": "87Q892P6+99"
+    },
+    "rating": 2,
+    "reference": "ChIJHVENkw85yUwRswUZLe9TCvE",
+    "reviews": [
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "This place only has 3 machines in operation and there is always 1 out of order or not working. Line ups are frequent and long. Better off using the drop off service where you get paid after 1-2 days when the staff processes it. Everytime we go there is nobody working the front counter. Poorly staffed and obviously more locations are needed like in Vaudreuil-Dorion.",
+        "time": 1754502924,
+        "translated": false
+      },
+      {
+        "author_name": "Philippe Gosselin",
+        "author_url": "https://www.google.com/maps/contrib/104133876359883228934/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLymSTGMsy0tYJI5fmaWoVe7V-RrIp4cV4cczZvYBceRKxDDw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "Place looks clean but there is the smell of beer,  which should not be surprising. There are 3 machines and the attendant wasquick to empty them when they got full. People seems to comewith multiple bags so dont be surprised if you have to wait a bit",
+        "time": 1760633834,
+        "translated": false
+      },
+      {
+        "author_name": "KM P",
+        "author_url": "https://www.google.com/maps/contrib/100124286619393079495/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIeeIv4jyXY4rH9yxNoDRBKIA-YJintnjKv-U53JGvOPkU2jw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "7 months ago",
+        "text": "Line ups, 2/3 machines working",
+        "time": 1751565740,
+        "translated": false
+      },
+      {
+        "author_name": "Kosta Papas",
+        "author_url": "https://www.google.com/maps/contrib/115193328726744416258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJobGXJM0SuFz2YkWfGttSd0NZdME4UhwxqubupV06PM4SHA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "This place is garbage every time I go there either the money machine or they only have one bottle return dispenser working",
+        "time": 1753113629,
+        "translated": false
+      },
+      {
+        "author_name": "Sacha H",
+        "author_url": "https://www.google.com/maps/contrib/107779386027138821648/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoOz8Hd897AnNQ3IwtInaPaGncfCne9tugWzYnERSnkv6COw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "either closed or machines inoperative. Line up for 5 dollar return. I am done",
+        "time": 1753970534,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17368787199626642867",
+    "user_ratings_total": 33,
+    "utc_offset": -300,
+    "vicinity": "1430 Bd du Traversier, Pincourt",
+    "website": "https://consignaction.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "query": "30 Minute Hit, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340349.2320905,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "108",
+        "short_name": "108",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "110",
+        "short_name": "110",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J2",
+        "short_name": "J7V 4J2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">110 Rue Joseph-Carrier #108</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 12:30 PM, 4:00 – 7:30 PM",
+        "Tuesday: 4:00 – 7:30 PM",
+        "Wednesday: 8:00 AM – 12:30 PM, 4:00 – 7:30 PM",
+        "Thursday: 4:00 – 7:30 PM",
+        "Friday: 8:00 AM – 12:30 PM",
+        "Saturday: 8:30 AM – 12:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "110 Rue Joseph-Carrier #108, Vaudreuil-Dorion, QC J7V 4J2, Canada",
+    "formatted_phone_number": "(450) 218-0525",
+    "geometry": {
+      "location": {
+        "lat": 45.4118171,
+        "lng": -74.0407255
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4130595302915,
+          "lng": -74.03938756970851
+        },
+        "southwest": {
+          "lat": 45.4103615697085,
+          "lng": -74.04208553029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-0525",
+    "name": "30 Minute Hit",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 12:30 PM, 4:00 – 7:30 PM",
+        "Tuesday: 4:00 – 7:30 PM",
+        "Wednesday: 8:00 AM – 12:30 PM, 4:00 – 7:30 PM",
+        "Thursday: 4:00 – 7:30 PM",
+        "Friday: 8:00 AM – 12:30 PM",
+        "Saturday: 8:30 AM – 12:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110899571289614486102\">Marimar Garcia</a>"
+        ],
+        "photo_reference": "ATCDNfWp8A1ciHD-q-PxEnt_ajIJ1y1I-6kGbn9k7p1rZWfhmZylmWkecCItblqAgAOnisGZlAXWx_hZmbpmZvgoypjaE2iCPaxztkPULHdk6fD6XrbbkItR35S6GdGk6J0m-KjDSlrnFJs_onH7CS11D_YUsaKvAMtXVHtU7zWDfEtS4RF5aWHqFffERu-OELIIONYitKywMClLz2X28ipELtWaATVYvs-YDq8xLfzC0UOcTU0Tx9Yex8L-kN0AHG78DN5muEaubqPbb9cgPc8Ru1eF5p-e8j-y_uZYaAT0fdvTc6wW4cdQrw-E9GmYiXQZcsiOctA1dYF5cdH9EkyPlE6bowi2MUfM9-zXjIVlGvEWz0QoC5qHFlRxXx_Z05E25w9r8tu_FJLgT-lz54ZcGReAwZcMU-Y7RmqMQT6n365WR_by",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109816986870899602186\">Valerie Topping</a>"
+        ],
+        "photo_reference": "ATCDNfWioVejlkTWIpMjNeA9ATY_2hT4PD-5qBG16hDOGDkwyoKvPvBF6cilku4MvcpwMriuR1Mo_iUhPEXJ3QVXvcOMdne0Yu4PKAxB1YWsJ7zeIzpkUe9ek25zPs3I_Z-a8ULDTALgwroktx3M1HQHT2JOAV27xnB-cw5nq1-3eCnkO-vO-OGd8aTOG7LfX52L609eX2ggc1GBGXGHOBJ5Czg4jxpcjAbL7d35tx2obtCIykH7CaQiqJmidlohMKdzaMh9o8R31C7We0PEoHH9dHJ7K1Q360ASQf01BUkLNaCLFvPI7ffAI4-tdtmiUw1QjKGXwtlZm9adn5TeMzFgc7X6_S-kLUQAIyDim-6yxWK0oRHz2blxycuvHl_LQCWn21GsJ42Fw63Y8Oe9GlVvS337EiovpwwpiJyA5RFKrUweCw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109816986870899602186\">Valerie Topping</a>"
+        ],
+        "photo_reference": "ATCDNfX7k-jd-1yrVmDsg0MjnDbpT3nVm2-JFyfL7sYoBvQ0zFeJBdEY-1TLD1eq2WU95WIgvgGSBCE2llBBSu3uuBIdJBAO6Tw7i_vn1tZbOcnpOumc-avSO8bwPHmJX7qa2hrXRuXq3aCgT69TzDbboauXNbNMh4bElwkEn26zopPzf6yOmGrzweephMstEIqLbqlZPTzZLCJFfPlwBOROerDGF7use0VtLMjdjUuXtIosr5wykCQ6eszy0cjLZcxHAClZqH3OpUz3I9DSuzo5EASgBp5RnAOlWmL2uAADtBUEzQVwiF6Ow2zAv92dSdu-7YXAF2o7BQraSWJfIWh0MR7Se5CZNl7SVvRgql-s6q3SwwCei2zPk-R68b17mf3WxN3csky29Yn0PLq7yPAvligt2B_vz8oMXIFrg54qwKFqr89B",
+        "width": 3024
+      },
+      {
+        "height": 2945,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110115970360847874089\">Loujain Layyous</a>"
+        ],
+        "photo_reference": "ATCDNfWENbJ-u0JFf8VURF520_y0jootefdv9AqQdbyUO7jQwnVK2KuIW91DYKDTN_UXTC1hmX41HzIKH8C-eKSvGuobYOZVDvtl9t5dXKN3Upe7sJ6tAdHI6gOGxpm7tEpO9NuI8fQEEpkHI3n8A5T2X0iTO5D1mCc3SMrmJUPUuYFlBuI5HTFu5o1Ezt7jJHAkX-1YJ98EaYZgRRBedg4BFDFToRaXbqFp-yXscjHQ02itnxBfLFIyE4LEEBKxL-dH3WnWkOaX_rZ7s5N7UPd9S66TWmvYNPollxsDJuTFKCRVr9RXaBpRlIH3sGQDvGaaBjhPD6KZ6BM9B3xg7DEhuS-LZV7bPQb_AqMXiEXceEe7M2CW70IPCa5PjIIIHkb6c8oK9dlveq02UM0YHQXcItG_3HxqsD-NkyCkk5DjspEX4YyZ",
+        "width": 2945
+      },
+      {
+        "height": 1134,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101357894942173240976\">30 Minute Hit</a>"
+        ],
+        "photo_reference": "ATCDNfUlcI4hni5H9x3qkr0cz6WuqNogw3jfcKxsjx7V45zq1-DAZien9HHHx35t3UMwJ-lw53n978BtFG0bcarxJbLd6pWKVyerxna27Ch2qXl8zXePxOoMu9_0IvIVMy9ygF6rQN-L5v-GEA0y0spkKunfN9LIGTQzs48Vi2-aC6wrx8hJBKPS6ZxU9ir_nsFtGsprTIzbjnuLQG5FA-lOlSNgtvhooHOuKaq8Gc0eMP91WzdQWx39qdKdvKyFxNrTBeHPoKz1ZTTP4xEwMUXCyV0U9kyVTGZg0CQ4M7Hi3F2SeA",
+        "width": 2016
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115455384830055966769\">Stefanie</a>"
+        ],
+        "photo_reference": "ATCDNfWgK4flruPVZf1uneSPjo6m6_TlcWA2_OC2lYgqiHC8-gxwNSYOvh6MpZ_7aTBQNJjan9U6t6_LTIzOFLBjY3IpPhxeWVlaKGsTY5yGCXMIGgFMZBUrVpPy676rrm3B4V5B0abrZKcStUQBhn7YZw1Tb1Z7dp_7oSlUYUHwi95FTAhsvHvAXjT9DYwPqyiBE05KK0GxEfU3r-66Ypkq6mzS9N8IKV7_uu6KlNAKDVU4ufEj5g58WtqYdIaDi3dnROtXt8jWtB7cog5l9F3cwbo-n1mj68HJ2psTxHH8OQsgyW25fW-dfp0Yl4aiE4o6HsROo7xjjT2OcbWzc6oE5ee2HkM4vum0FCWj4b4ioFFbcctZk6g72nnlx4rIaeX_iGOs4M6vDtPaUfQ3dNRJ5aPv2NRKD0PdvZt4Yc4if_20SSqdGyB2QmkbC8-mLxlZ",
+        "width": 3000
+      },
+      {
+        "height": 2972,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110115970360847874089\">Loujain Layyous</a>"
+        ],
+        "photo_reference": "ATCDNfVPR1dELZgdKT7aAn6Pnc0Qg0q1w7Th8lYVFwPjSfjfppvtKjKe0h5cs0GIvp8JCL4mDlyS5dspty-C-fkyIh2uKwPdLEFvV072TYE-IyDZ-VfahTk0SpSqMc2HN6Ej5CEmJAnBHesf5SiZ4EiZTojHxdu4l43c1AHnzVM7bBpO4iGaWn55EO1ASLR3kHVFKyfCbrZOOvEpmj-gr79IiMKXsURrjLVbU4OrPKhBwL4zIzWJqse0xB9rJ-dRn-e4iYa7TxZK-JGNfz_sb7MGQWbyWiRNW8p6YTynodw93a05ghZxElgtZE__4QJXpJU7IhhouVv6mpuB5xaQeR_S5UKWztyK81XrRGRwyJ8RGg9tTuiU9iua2IgrIc2ZeU-BtKFNx06Ed7uALwUno2sGCtlYv7GSVKTyN5jmKQu6xkgrQd6B",
+        "width": 4420
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101357894942173240976\">30 Minute Hit</a>"
+        ],
+        "photo_reference": "ATCDNfUOa0zXKdxFqVFkSF9YXeZlDgt-UTlYadkLSjIaXqnkV6Gae-C2_skn8U1MVJ8iMSh_5b0V5rCL8DQxQbtr6kiWTlkOLJ5QJw4k8Z5hMdgElgN2gjntO1YzVGP3rVlus9C82B5f9opHDf6_rpgR02hHiEBTt0m4cfHqh-V8gCL2ICOHRzMdYhV8iVbTYzEFaUlNfCDU-a8jqxU95l4z1yANnyUMlKrbFg52F1J4_qaIt-CdqfdiGG-GlTZp1-KtPo5sM7wD8llkfHohCHeWhhXoQRAUFpGICYB_6vyIAfljZA",
+        "width": 4169
+      },
+      {
+        "height": 2892,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101357894942173240976\">30 Minute Hit</a>"
+        ],
+        "photo_reference": "ATCDNfWCM6a6LwbbAZ2Rw_mFNSqUewaZZuwM7rIfT3WPilx-kU9k13i_v3flujqv3_asUO3AExmRl0ynMtUAt3Wn8nxp9lbPi8TvCY4Foqw8Ma3xYNO8K3-0X3zdyG6GVW9urhdSgIiGnnthH1ttsjrEufW6IaNcrvV9iUUMb3raSXLL8svSHcc8LbbvT__KvsnhdEmwa5hrSDgn-5NksuzVxaO3ph8gx1H2CwVK4wZmvArMwyGi_Ap0Jq3m1bAURmFE-oJiRQtvmfq_HPEP0JcQa9_1eiPWcMxgvrNdrtE-BO_aVQ",
+        "width": 3442
+      },
+      {
+        "height": 3002,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110115970360847874089\">Loujain Layyous</a>"
+        ],
+        "photo_reference": "ATCDNfWDr1_vytfNUo4tO9LTFUMpKQSIMLvxCotm7oBxffjyaNvS-N3aXvaGP5okv3q6qJk_OWdiwehHmWP8dtUq1xSK84R5u1tSf6Z3h0bseGrPRJEKXO0IrnArBsgKKxH_3mpoV6kww9NRX_nx7nM5HmGcr9sOtRHrLCBr8zc4mblwqiv6uypEwC0DzTtPLmOydiQK_mPAJwnCpuiLawbtd-lDa9LU6PX4sY1AQ1Jw07mX7k13AMp_XffOkRo81ULN7O4mPmWg2gAOzbigZsArESIWgpyo_wPjYf9S0_fEaXWo_9A08cbs5VWPlB6j_sVm8v4ek06GotdG35Of483ufq_fEJFajwo6q64aPWRUFnRABxraICNXOtazcKgZbO7PSw5vrNnGZx-Xu1QWzthXC4pX_NGiyty9aCZU-cFEi_3KRhA",
+        "width": 3713
+      }
+    ],
+    "place_id": "ChIJR3MJlEM2yUwRL6s5GkabpuA",
+    "plus_code": {
+      "compound_code": "CX65+PP Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX65+PP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJR3MJlEM2yUwRL6s5GkabpuA",
+    "reviews": [
+      {
+        "author_name": "Valerie Topping",
+        "author_url": "https://www.google.com/maps/contrib/109816986870899602186/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsTM4EEn_hQRgYbB6ilfl0YV41b36dqGSs1NiwqTiWMUYNPToZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "I just love 30 Minute Hit! Whether you’re a beginner or advanced, it’s a safe space for women to exercise, get in shape, and learn some boxing, kickboxing, and self defense. It’s extremely effective in such a short period of time - allowing in to fit into your schedule. They also have a kids section, which not many gyms do. They’re very considerate and everyone who goes there is kind and uplifting. ❤️",
+        "time": 1742949462,
+        "translated": false
+      },
+      {
+        "author_name": "Stefanie",
+        "author_url": "https://www.google.com/maps/contrib/115455384830055966769/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeZr2RpgfsziYWeJ5GXSKDRKjNb2IEz8DjuI7LEdSkipgG2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "The free trial made me discover a place where I can work out, meet new people and just take time for myself. All the trainers are motivating and very professional. Trying 30 Minutes Hit is loving it",
+        "time": 1750936822,
+        "translated": false
+      },
+      {
+        "author_name": "Jennifer Maxwell",
+        "author_url": "https://www.google.com/maps/contrib/118356616677338993178/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5TAeB3tyHiB7FwL6UIyFYMqO9FioAE5tjAjGbnTaoBLE04zik=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I just completed two years at the 30 minute hit. It is such a wonderful environment to work out in. Everyone is encouraging and the trainers are great at keeping you motivated and working hard.",
+        "time": 1765334470,
+        "translated": false
+      },
+      {
+        "author_name": "Shumaila Irum",
+        "author_url": "https://www.google.com/maps/contrib/108764832529983022518/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKl7Q-rCm0Z9pBUBJ0Ja5RiYl82ne8gcgK1FzsZ8YTYOJcQyw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I joined 30 min Hiit 6 months ago and its probably the best decision I made to kick start my fitness journey.\nThe free trial pumped me up to join! I love the fact that the workout is only 30 mins and you get an awesome whole body workout. The trainers are all full of energy and help guide you, they suggest new techniques too which is so encouraging. Its never a dull workout. I see a huge difference in my body and stamina. Im so happy to be part of this awesome community ❤️ Thank YOU!",
+        "time": 1754146971,
+        "translated": false
+      },
+      {
+        "author_name": "Francine Vallee",
+        "author_url": "https://www.google.com/maps/contrib/102323861545169948587/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUon6Qd3uNNAUGhQWaatTU4_f6g_iXtGEVtLaNwVv6st7TGttbF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "The free trial allowed me to experience this gym & it’s full body workout without pressure.  Motivational music, encouraging trainers, clean gym, only women of all shapes & ages. The 13 stations at 2 minute intervals is a great concept. Only 3 workouts in and I already notice it’s a little easier each time  and I’m motivated to attend next time.  I’ve committed to working out at least twice a week and scheduled in my calendar to make sure it’s a priority.  I’ve recommend this to my friends to give the feral a chance.",
+        "time": 1740318744,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16187796636019829551",
+    "user_ratings_total": 243,
+    "utc_offset": -300,
+    "vicinity": "110 Rue Joseph-Carrier #108, Vaudreuil-Dorion",
+    "website": "https://www.30minutehit.com/locations/gym/vaudreuil-kickboxing-boxing-fitness.html",
+    "wheelchair_accessible_entrance": true
+  }
+}

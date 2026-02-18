@@ -1,0 +1,306 @@
+{
+  "query": "Nova Chiropratique (anciennement Chiropratique Ile Perrot), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338849.0685084,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Bureau 204",
+        "short_name": "Bureau 204",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "100",
+        "short_name": "100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1X9",
+        "short_name": "J7V 1X9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">100 Bd Harwood Bureau 204</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1X9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "100 Bd Harwood Bureau 204, Vaudreuil-Dorion, QC J7V 1X9, Canada",
+    "formatted_phone_number": "(579) 638-1515",
+    "geometry": {
+      "location": {
+        "lat": 45.3841603,
+        "lng": -74.00907649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3855621302915,
+          "lng": -74.00782141970849
+        },
+        "southwest": {
+          "lat": 45.3828641697085,
+          "lng": -74.0105193802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 579-638-1515",
+    "name": "Nova Chiropratique (anciennement Chiropratique Ile Perrot)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJ8QBN4Aw4yUwR6RVzZNNLLtQ",
+    "plus_code": {
+      "compound_code": "9XMR+M9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMR+M9"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ8QBN4Aw4yUwR6RVzZNNLLtQ",
+    "reviews": [
+      {
+        "author_name": "Mindy Jerebic",
+        "author_url": "https://www.google.com/maps/contrib/116419631768307441772/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0OtdMRsvDZaBqK5pj_PGAtRCNsNl3R5GW4iSrdQTMow1xJvzPlw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Michel Lussier is incredible. Not only does he really listen, his aim is to fix you & keep you from coming back to his office. His approach is extremely attentive, & if not for him, I would not have been empowered to advocate for myself with my doctor's & finally get on the nerve pain meds I needed. I'm now on my way to the additional interventions required to help eliminate my pain. So grateful for his guidance & support! You will not regret a visit to Nova, & Gisele is such a day of sunshine at the front desk!!! Been coming here for over a year now, & never dissapointed. I always feel better when I leave :)",
+        "time": 1668074553,
+        "translated": false
+      },
+      {
+        "author_name": "Jaysun",
+        "author_url": "https://www.google.com/maps/contrib/108956267921024211186/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJeBfuMcLmr_5J9P9bWmlZBnxW8LEOFNUq73khqNdG7F6wV7n1VA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I am taking the time to clarify certain aspects in TREATING a patient. I am a licensed practical nurse; i am very ashamed to see such negative comments about my treating Physician. Dre.Vézina is NOT a cash grabbber ; i have very good insurances and MY DOCTOR said herself she would not keep me here if there wasn't improvement and would REFER ME to another Physician in the same field but with a different background, THE DR COULD have charged extra fees for unnecessary things (in my case;each patient is different) as xrays that were done in the past. Thus said after 4 treatments, i was able to find solution to a ongoing situation THAT has changed my life! Dr.Vézina doesn't have a magical wand but she does have a MAGICAL approach towards her patient care.  Thus said i highly recommend her, i am glad to have a doctor like this. She is not only good at treating pain but also a very good listener;which is esstienal to proper patient care! Some times just being herd is a life changer. As for me , Dr.Vézina has been a life changer in many aspects of my life and treating my condition to do this day contributed to me making a immense change to my life. Seriously , before degrading a Doctor; Get your facts straight.",
+        "time": 1601447107,
+        "translated": false
+      },
+      {
+        "author_name": "Haggis 95",
+        "author_url": "https://www.google.com/maps/contrib/114724803108368008372/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN9jIRV-MmzWQwb-Xkr_covH442TFJWnY-a685q9C1-989gLM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 years ago",
+        "text": "The words professional, courteous, and helpful describe this clinic.\n\nWhile in Pincourt to visit relatives my back went out and I could barely sit, stand or walk. However, Dr Myrriam Vezina took my back pain from debilitating to manageable in a couple of weeks.\n\nI would recommend this clinic to anyone suffering from back pain.",
+        "time": 1408748000,
+        "translated": false
+      },
+      {
+        "author_name": "S D",
+        "author_url": "https://www.google.com/maps/contrib/104050282047703590654/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdCSQgNUWlTRMGyesr04S1GZ1gTJkPViTDtwKhCgWnlTa0qQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Amazing experience!!! Dr Dandurand took the time to explain everything so that I could understand. Hygiene A+,privacy A+ and extremely professional ! Now I’m 100% confident of why I have pain and how to slowly recover with the help of Dr Dandurand.",
+        "time": 1526680079,
+        "translated": false
+      },
+      {
+        "author_name": "Allan Brand",
+        "author_url": "https://www.google.com/maps/contrib/108978596105951635397/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwBbAEaH_iwPyQaw8akyjFc0sb3vLquaGlf5yNOvcbSvtZzZ_3=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "My experience at this clinique was very negative.Not knowing what I was suffering from, I explained a pain in my back and in the front of my left leg down to my knee which I thought to be Sciatica.\nAfter 4 visits with no results, I decided to get an Osteopath involved.\nSciatica causes pain in the back and in the back of the leg, not the front of the leg, as I was explained.\nDr Vezina said that I would need at least 4 more visits after the initial 4 visits with Xrays.\nThis, I considered to be a CASH GRAB and not more.\nBad experience!!!!",
+        "time": 1559656647,
+        "translated": false
+      }
+    ],
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15289241156264859113",
+    "user_ratings_total": 39,
+    "utc_offset": -300,
+    "vicinity": "100 Bd Harwood Bureau 204, Vaudreuil-Dorion",
+    "website": "http://www.novachiro.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

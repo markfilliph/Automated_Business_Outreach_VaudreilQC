@@ -1,0 +1,106 @@
+{
+  "query": "C&R Rent 2 Go Ltd., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339637.1581635,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "384",
+        "short_name": "384",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X2",
+        "short_name": "J7V 4X2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">384 Grand Boulevard</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "384 Grand Boulevard, L'Île-Perrot, QC J7V 4X2, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3910281,
+        "lng": -73.962265
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3923228802915,
+          "lng": -73.96081696970849
+        },
+        "southwest": {
+          "lat": 45.3896249197085,
+          "lng": -73.9635149302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "C&R Rent 2 Go Ltd.",
+    "place_id": "ChIJRYsCAAA5yUwRUGXJPeDvkrk",
+    "plus_code": {
+      "compound_code": "92RQ+C3 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RQ+C3"
+    },
+    "reference": "ChIJRYsCAAA5yUwRUGXJPeDvkrk",
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=13372013990004745552",
+    "utc_offset": -300,
+    "vicinity": "384 Grand Boulevard, L'Île-Perrot"
+  }
+}

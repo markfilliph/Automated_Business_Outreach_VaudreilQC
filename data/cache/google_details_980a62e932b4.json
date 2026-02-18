@@ -1,0 +1,651 @@
+{
+  "query": "Poulet Rouge Vaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340386.0993576,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "35",
+        "short_name": "35",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">35 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "35 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 455-5544",
+    "geometry": {
+      "location": {
+        "lat": 45.412277,
+        "lng": -74.03035109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41373818029149,
+          "lng": -74.0289903197085
+        },
+        "southwest": {
+          "lat": 45.41104021970849,
+          "lng": -74.0316882802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-455-5544",
+    "name": "Poulet Rouge Vaudreuil-Dorion",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102297191395894092147\">Poulet Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfVNiuyd00J_FoN61bSBcNoMN_uSQ_kcPrbh76NzMGk5OmKy6r_-Hov2TJtVQ9iw_ZTraKlwK2OFlTUaUAZO1gFunptB7qLDlFPUZsRdAvjwCAePXuW_CUEPYzB22jRdRe0VOVZ0kBnSbZQ8eGVr-7wZiNoGJwPQcinXMJg72o71ywNE8dzf6CBHSQWN-y52mS6sNCm-3CuTz-1G30zEii_A2Bxs2VT1a50656VsTqDBhjAQrUlQosuXR5-xEJKKNrt1C3IvlqbpxGbZQFu-dfj536m1X7Yt47HpCaQNEquepg",
+        "width": 3839
+      },
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102297191395894092147\">Poulet Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfUz-WDnYTTy4062oxTQVItJX-VolPtBKuVmUbGtwh9gZV92AcSW-ZeH2vxJFsWKYKMxBWoTsF68dPzPFsc3bmtM9Dtra8YK-NRrSbyCQrmUUb7ymQgd3IQKAKeLO6Tc_-FdYc3lF8BhdgcQtCmHaRhiY7T-U8CSK61HstyxZprQWTBo-pyi_KSB5WS3q_W4bAA35jJLzx5-sej2Xs9uFDZGicsu-oV7xvoIt1RxqY_uFPuvIZmLMJeBUUr5wD8Hu7mABOHJqRgccInDOvbSwdNOr2HvjLcuBo7k3C2FcRm2bA",
+        "width": 2880
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101433544138371552715\">Natasha A</a>"
+        ],
+        "photo_reference": "ATCDNfUbDLYj4nE-q2D0nWg52GTKxhbkyC5zS09AbeM40P2X2C5A5hvdFbgzClCrmSWs6FzDmAvN912wNkdegF3gtkQe4PhOI1jxsaQ7tNxDf4scT0BGzQhqVfaA7n141lqwkOJpTDUNSE7IQ9SxUJkhz3j28hXQWgqK2BFFj74AQ_MTLhRPlcFHQ7dZRQzeuTa37-5pVkHQqOullzkJJ-PgUcEL2tOud4fUkXjUHu4M5Ju_LiFWFeRInaYFqxqpMXOBp5aDte0HPVoOTH2lxAtxtYEd93G1iXGx9Bd5PaUAMbsufW9kpErUgxekUR65nDFDK56XHCMUOZlgFqkKQWvs2W7L3kbLEOwanzsNkygsM02_nKCKXPRMYkTANycmrI1cjZAG6EH-u-zl9ghkrh8yv3ozlDC3QeW-p689fzWqwYea1SDC7tpZQN-OeCPNeUg3",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfXpGYVKDFLeQ1gES72ywIlzEKtO4-vcfUcfVfhlwStT5P1FICjZkdyq-tl3UaGEPKRIR0geDjPAsPAGOjONhnVfbCBgRSecM3HQGWrpzrasCBdJpHJN-hb3qQdz_E4noCzDvkUFYTZfPjEX4YezMk6lvsCjkZabf7BRw6IowEQxq_3MGjo6x8jdGNhy--HWgm6kTQIjDTSLnuZi6WmP7pdATDprSrKCEfOmB0tBgquFAg-6a5je5lU4ORtye9o6t5-Vco3OGtbr6tdpjBw0yDfaUnt0ZXmKzK6zvlNOrTsQ_qSPnVwmsOMnKP0Sn-eZceyONqHPWFsOCga1OquNxpy2mPe_OWUmyfo721WdcMXzGbzf-LO-cVvKyWIGGSRKSIEAxuMTEcs1wkFDb8V4Qymx3hk-7wVaOBi8z7-YbWRv2c6AY_NHIonCnLivCwhb",
+        "width": 3024
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102297191395894092147\">Poulet Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfWqt5Bu1FwJd1Ut-nmnBn6EVt-MmU4kSuMg99uDSVIXB9vTQWxX9VA7N8enaviaoM55u-5kLocBrb2QUamjVoF-t8RKO5eGU2CsU6fUXnesse3E3Rww1P-fAH9lUJNh-GAWvhyWmAE8L52yCuL3sAUN--NRGWM3TyL91PKDcRGrseldT-2JdBHgNmuwMm7YgHjkRCKx7BGnPDHt30IvOLhOdsOFfXtgbQkKdwWrbvJqVsFDlb9gupNBE7wTPhHxJVZxSVt1EKHIRKRbxHu2jIOYNntx2Jsva-5lcRL6edroFg",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109738818701745890499\">Lamis Kebbewar</a>"
+        ],
+        "photo_reference": "ATCDNfXDDrqhQ-2_b1oX7N8UNQ7BfP2RPyENgwnCJAiY5chAdJuOEJDHQ6sBUs4MensynxeMb0zfkZWiXXrYlEHsopb-poSd9Rz1kQ6KtcO5gFXdXqLVpxIseXwDAHLCQ4Q9Geq8TgDtJOlCIQcGPdvjoBhP1HyZkOC2pyLX6hun5vAsCyjdE9vqjVn2qTTg5Dd2UFCeI93RBuhnV3XJkfZcFshTrLuufzS6dOknpyvs51bb5VFz73gOKOlMbl0WpaPZplTsvgtWfLDG8x06BXRwXDdNM57TogFES48C5E87IKi3frNeGkqw5fbZ8WGFmJi1fhxP6xrbhr-W0fpfKz3BSUIkRDr9E1tdPKuvj1x4ZJ5n_-zW8xcEwNqwSKa0AOztsrJLvg7WLgGWTUivUGonFOafuXkmtwt1eJS_O5HJI7gn0Q",
+        "width": 3024
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102297191395894092147\">Poulet Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfUGBHXJaz47_hpHWL9keDcHeQ86812fh4bT4fhXRj28-cDzk6G8S2VklRZbvi0x6qL-nSDR6Jkf-Un5ouJOAaVLPB35oY452HMtkZNjSHA1QqhZvgyOYW0sqGGsjM0FJQJo-TSwi1mlCWZmdJZSr4BkrZ2Ru1C7uw4duy2zAEyR6tQcxtaQN-U0YW5GJarpjGHhNmVifALUySMPtMyw1X7QEG1FxvDhHQxpM5-p_7hL0OQa2bswSLIlWE4SLK7hXMSCfZ1lcVodXzN09Q82Z1HSFZucQpOyO3m3aTZDxz3LaA",
+        "width": 2000
+      },
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102297191395894092147\">Poulet Rouge</a>"
+        ],
+        "photo_reference": "ATCDNfWS-uB3QjHGyqvu4I_aMweyWmJdP0qJERXIWs1OQ27cLuPvZnmKe2gjgW-XN9zoqRuLU-2MXmggDiw5EeR5LksPGjMmAGLzdiil6qXYtE2QxUITFKUSWEHjQVOwK6__lcrNRLdcwrh_hGM1AAxUB3KjuW7NLSn4ZrOcQB6MJ-1lMGDq7uYIEPvNZnFcW76h_T77Kmv7T5VLbjGxRPPfhmfd26qheFGh6RUI6ZF1uDsQYT41qsDDSvntV-5rMQ67ehastMh07Zj8wQJqYeUFovo-hnhrxfcRnf45XVrb3NR49w",
+        "width": 2880
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100014745592915444214\">Chris M</a>"
+        ],
+        "photo_reference": "ATCDNfXoL3TS2jUiFcDllSgToqZohQ178XB0WZMprdjSL6pdgatXW-st3Z6og3Ul_GUZNO7JPDMN8QHPch6_hkEVTJENmuREo0t2GuwIiiR_JvAGCXhT5ttRrYbaVlQUt4eJ7OqtHTAmL2JAFaz7_IHWu6SFinGxmdFQVmLETdj-Ftgy_DCME7XiT3Wp5fmDR4Gb5fvHPMk43Qb6utG_R53zL8Cu-rXbNTWqoB5KbGDBrKX91zrdZvdcHoAP7c2CYzkWoZoxfim6udAMXH0JVAuoP3t1ll_-4ErXgoYhbfFzCAM1BTxB7F3EzH5N2Eq8Bej7FZG5XjGNqzzkL_Y7ZakTz1boj8I4300Jt5BLx3g08e0v7RRmEBm70pR8M2yUozG0LhvMQu40r3M1d1uC0dF-3ybcz490jKcxdrndibiaw10",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfUMXewYR_vo4bQCWRcg9ZhvZ1YoTz8nmoDAa2AfR9wTEH1dAyQXn8Zx-6Zdkbcwj3dIgmBE1OHYtCODp7mIIpOtQdzh9CEbOBtBowDeznV98Q40Bo418Ink1D8Vw_47meQmGEKIxN3ndw2kqXkiTxHp7ugmmaxq3ye198j5KIaAfQNqwrn4mgiV0znpoM2075kVaPOesBLR2T9mvfH0KyU-Of5vTSzBIJ-jpe1433I1o6Ymu_9G5fj6hEcBaZ5B92VdboyDFKrqvekOgLjSPaKkMcnPwKqVXh0jAbATwVltbr9-LJinXKo1gPe5zBStaNlzm6prxNJWAPcIp2KFF84U3grpfTDyZ5qFcc09WN0O6b-K6BUZjWgDHaHFIL5fUEF45lYANOz8o2kh8zte2-uESpGz9nWhOyvKbzsb9A0",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJpV8kV9U3yUwR2j_EAhQOx7o",
+    "plus_code": {
+      "compound_code": "CX69+WV Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX69+WV"
+    },
+    "rating": 4.7,
+    "reference": "ChIJpV8kV9U3yUwR2j_EAhQOx7o",
+    "reservable": false,
+    "reviews": [
+      {
+        "author_name": "Emilie Provencher",
+        "author_url": "https://www.google.com/maps/contrib/105530677708133716827/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzkK-eT-QdCczXzwuz6apiJly5WjNZGuSzTo5N2Gr4Y2M5HOww=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I’ve been there around 10 times and the customer service is always amazing every time. The workers are so kind, the portions are really generous, and everything is fresh and looks great :)",
+        "time": 1756410755,
+        "translated": false
+      },
+      {
+        "author_name": "Christian Lachance",
+        "author_url": "https://www.google.com/maps/contrib/111146477244823954731/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6u7blKtArBOxC7y2IhqZDxZEMY3RIc4haogD6duhvXhVFIw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "If you’re craving a meal that’s fresh, flavorful, and completely customizable, Poulet Rouge is an absolute standout. From the moment you walk in, you’re greeted with warm service and the comforting aroma of freshly prepared ingredients. Their signature seasoned chicken is perfectly cooked—tender, juicy, and packed with bold, comforting spices.\n\nWhat truly sets Poulet Rouge apart is the quality and variety of their ingredients. Whether you build your own bowl or go with one of their curated combinations, every component tastes thoughtfully prepared. The vegetables are crisp and vibrant, the sauces are rich without being heavy, and the portions are generous without feeling overwhelming.\n\nThe overall experience is fast-casual done right: clean, bright spaces, friendly staff, and food that feels both wholesome and indulgent. Perfect for lunch, dinner, or even a post-workout pick-me-up.\n\nIf you haven’t tried Poulet Rouge yet, you’re missing out on one of the most satisfying and consistent meals around. Highly recommended!",
+        "time": 1763087594,
+        "translated": false
+      },
+      {
+        "author_name": "Georgi Stanchev",
+        "author_url": "https://www.google.com/maps/contrib/104240510363903043936/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlzT39Q15bnGV0NGxKZsghwC-gE6MlatcwjPIxSb7kX7Aq08k=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "a month ago",
+        "text": "Response to management:\n\nThe management’s response really shows their immaturity. I was just picking up my order and wasn't paying attention to anything else. I heard the tall woman working there say \"Brian\" in a low voice, which is why I thought that was his name.\n\n​This definitely happened. When I arrived, he said something quietly while I was looking at my food. Then, after she spoke, he looked at me with intense anger and said, \"Two minutes, we are preparing,\" while making a strange hand signal.\n\nOriginal review:\n\nI went into the store today (Saturday, Dec 20) at 8 PM for a pickup and immediately felt Brian staring at me with passion.\n\nIt was weird, but I went to give my order anyway. Out of nowhere, he told me to be patient and that they were preparing my fries, even though I hadn't complained.\n\n​Later on, I asked him why he was getting personal for no reason. He told me he found me handsome because of my long hair.\n\nI don't have a problem with him being gay, but work should be professional.\n\nHis timing was really off, and your employees need to learn how to control their emotions.",
+        "time": 1766700184,
+        "translated": false
+      },
+      {
+        "author_name": "Jean-Marc Provencher",
+        "author_url": "https://www.google.com/maps/contrib/107923672926173694482/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXExGYB_1rYRMm14xObJOLfVAuan0ryLjzheNySwBTId5woLIz9=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "The bowls were very flavorful and there are plenty of optional ingredients to choose from.\n\nEverything was fresh and great tasting.\n\nWill come again.",
+        "time": 1748213827,
+        "translated": false
+      },
+      {
+        "author_name": "Younes",
+        "author_url": "https://www.google.com/maps/contrib/110699844555923567825/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPUOidCaTerT78kKUlz4e2VBSBLFPTsBzNgjZpEae3KEe1kA=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 months ago",
+        "text": "I ordered a Rouge Bowl through Uber Eats, and when I received it, I noticed there wasn’t even a full scoop of rice inside. I’ve ordered many bowls before, and this is the first time I’ve experienced this. I was really disappointed to spend my money on a bowl that barely had any rice at all. Definitely not the portion I’m used to or expected.",
+        "time": 1765685050,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2230"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "2230"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "2230"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2230"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2230"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2230"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2230"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1100"
+            }
+          }
+        ],
+        "type": "DELIVERY",
+        "weekday_text": [
+          "Monday: 11:00 AM – 10:30 PM",
+          "Tuesday: 11:00 AM – 10:30 PM",
+          "Wednesday: 11:00 AM – 10:30 PM",
+          "Thursday: 11:00 AM – 10:30 PM",
+          "Friday: 11:00 AM – 10:30 PM",
+          "Saturday: 11:00 AM – 10:30 PM",
+          "Sunday: 11:00 AM – 10:30 PM"
+        ]
+      },
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1100"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "2245"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1100"
+            }
+          }
+        ],
+        "type": "TAKEOUT",
+        "weekday_text": [
+          "Monday: 11:00 AM – 10:45 PM",
+          "Tuesday: 11:00 AM – 10:45 PM",
+          "Wednesday: 11:00 AM – 10:45 PM",
+          "Thursday: 11:00 AM – 10:45 PM",
+          "Friday: 11:00 AM – 10:45 PM",
+          "Saturday: 11:00 AM – 10:45 PM",
+          "Sunday: 11:00 AM – 10:45 PM"
+        ]
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_brunch": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=13458741490528567258",
+    "user_ratings_total": 495,
+    "utc_offset": -300,
+    "vicinity": "35 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://locations.poulet-rouge.ca/en/vaudreuil-dorion/",
+    "wheelchair_accessible_entrance": true
+  }
+}

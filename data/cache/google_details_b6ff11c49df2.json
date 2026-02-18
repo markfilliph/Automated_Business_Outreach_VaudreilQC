@@ -1,0 +1,441 @@
+{
+  "query": "Kenzy foods, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338940.5216255,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "110",
+        "short_name": "110",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Cardinal Léger",
+        "short_name": "Bd Cardinal Léger",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 3Y4",
+        "short_name": "J7W 3Y4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">110 Bd Cardinal Léger</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 3Y4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: 10:30 AM – 8:00 PM",
+        "Wednesday: 10:30 AM – 8:00 PM",
+        "Thursday: 10:30 AM – 12:00 AM",
+        "Friday: 10:30 AM – 12:00 AM",
+        "Saturday: 10:30 AM – 12:00 AM",
+        "Sunday: 10:30 AM – 7:00 PM"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "110 Bd Cardinal Léger, Pincourt, QC J7W 3Y4, Canada",
+    "formatted_phone_number": "(514) 651-9087",
+    "geometry": {
+      "location": {
+        "lat": 45.3822761,
+        "lng": -73.9914517
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38355568029149,
+          "lng": -73.9900688197085
+        },
+        "southwest": {
+          "lat": 45.38085771970849,
+          "lng": -73.9927667802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-651-9087",
+    "name": "Kenzy foods",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: 10:30 AM – 8:00 PM",
+        "Wednesday: 10:30 AM – 8:00 PM",
+        "Thursday: 10:30 AM – 12:00 AM",
+        "Friday: 10:30 AM – 12:00 AM",
+        "Saturday: 10:30 AM – 12:00 AM",
+        "Sunday: 10:30 AM – 7:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112004880702911588494\">Amgad Abdou</a>"
+        ],
+        "photo_reference": "ATCDNfWlj5CmSahmr1LzRw9BpGQD8RJBNti1smZOy6wd15VjKy_l6vEeDyu1XJZsohRbB5vBa4tCU488DMnyB1hR0m2ZxSb8i_eVPkJsryDwqvej3eGcYCaBFqZeRK8yxOpKEvRGxsEQwg5MPGxvgQ_w70lOKI792WmQ76OYfaLV3KLH_44uSlW68fwcyzm9rk4XQqvRcNfYnBHyO17Xuy6My0BT7yIBVomSMgrgnMQ_R_gjgK0GtSSk_u_ZfleIm91VLJNCl7yOeZHg1YFe5fubiB9HqZQ6WwzZlZgyil0quKGOvV24Sw37bV7DpEktl8VhLYVu3bkNFL0VZz1xG9jEHBLluEFnHV5YvyTuvP7_cRO84NA1YcCMqqZ_wGGvQ91ybHy9ORrnwTwrrGAV23rd3zpnvRO_nDWKWKSx956CgJRXYUFL",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102202372826144279599\">Issam Hadidi</a>"
+        ],
+        "photo_reference": "ATCDNfUZKoDzVVKGqcYpzG7Gg6NsdaOTYU_1TPsDzt8IsHQXh8VDhFfs3aEJgHOg2bNrg4Aj4id-2f_yxXqlryJ912xnM9-cGmkxx2TjnJmkwCu9ExUvROXKuxSi9W7SswdT7CpCvuOV6__D0bdlfr78AFkC2YdAx3QypM_oEeYWHvcz7lkJTULPWHzDxnBh3i28KSA3trC8ivx7d82woITJFcyymxLGZZAnASHVxua6m-pidJnoWibOykz4veueNqnXPVL8v6E8n568ogw5v5oDNwM5IJeNeRn1ezn8mINvRzlN0HRz60AhBxIkn3k5XHV21VBboJ13YrRgys9GHXDZt3rWRiG7okSPsAQ2NZtVkSw2JdFdSc2mG8_HoWNUUU6c0TMlUMqQaOqXkZT-kw5QJYMxouoqzj8DjHDanYmDQC0",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102202372826144279599\">Issam Hadidi</a>"
+        ],
+        "photo_reference": "ATCDNfVRl5Emtxl-UEwV1lTe-I73lTHwy7HjUurx8EIZ6PmY05OYGrWrQu7-Jb9pqoAm3_13hyoPcsN0PXtlQe9ujN2Q-8_qYzcyWDMJJ_jJJD9nPDVPJrCScRM8_2U-gR7qktwN-OKon3Jo9fEij1EQ3jGiEKlV6DdMhuXamwuWBVjBDQBzAcHaOYNE0zRqcJIwUuN5z4LY0JWXIzywdUEcSn6baBthaSBgNN5dqDW0H-_qBnC7KzJyhdT14XCghk-otmpuSLglsbtwDaoYhMilZcxDhOD_6wovZaig7oRaHPlJBoMRjMZ_ORU1TAIenzndfpyfa6HkX_pWAV_lL9OEScskSrNj4K3JLMa3L2bQXElczig1wIXr9-GTz8LGGMAFdVZACrkfQ8AJykyi83xGjmVU_5ztrEkeGTSK1IufJMp4yh59",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102202372826144279599\">Issam Hadidi</a>"
+        ],
+        "photo_reference": "ATCDNfWBJLyKO78Gmge2x_-vnV16TFcTwhMD7qtdIYGF99vVpSH7MFSwqhOWSsfTZtYDlXEqytyBL178mVhEB1y5Wx-ZqJsVrE3T4tgpkl6_QtFNfPAhVw2L34fRRI21Q1PLpM1M8E7CtfB2WpeCnI8348tFEK2wQWsBkhmiDn32_LER4VLB9w3vGs0KS6r0L38YQFixbdBZZUHfpwiRnRTTmvNSHJpgKKbBmiSZwjXFuKGEnfmENI9yY-wRgqQWitvtprf7p21HKwEKvjNGVdhi4_wkEBZqKUDux9jHOaXIBKkKklSY9bXmGP9gne33tHP0IC6m43WdEDwHsJ-P53Z2bSe3gaBmoNWCBsihYLDBZ-HzQk6GiM3zOtj1BY6KLOQQX5s1hg-Vi7tO45pz8DIS5J7Uw7-QnsVmMVOzHv66ims",
+        "width": 4032
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116908852038215196830\">Imene Talbi</a>"
+        ],
+        "photo_reference": "ATCDNfXLho7MUX5g82gzoXqjaFkUrHHaufTQau5JCT49mN81eGNFDScWEF6m3zP6KO8UjCrcLg8-rCOSMbdRFDkBLvCLdi03K8SN2aVRzGkNrCjacJS4OoN0GbbhD2enwYNR6FbH0JYyJuM3gVL_SHhD7e48lNMD_4WypZhP1a70Q8wWzw9829tl4_Aa9Vo4cFLpbngSHKJWUtcRTbcxuaelIOViwltUqx3iRbGUwlx0oWSmnbDnLvEkCtPKdJ-iM4wOFr-382gpuDPXLaqCAu-n64o4wzvGrH8g2xXm19iRSr9W45ZPHT9y4dJlf-I0br-goeC4LQJ8W5_xnkjZtKbKNnb6ozXBTe5u-HJDJnwUTsU8Wo6xbo7-G_bmbj94qtrD44cQ9q9J357RvINs2yCmRIgp0N_dzyz-y5uO8acKGjZnQFs",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102202372826144279599\">Issam Hadidi</a>"
+        ],
+        "photo_reference": "ATCDNfXODy3LF3q77rOQXnY1Qg6amxVTBS2CkVFDulAmnhWUZ4TAh0IXucCbL8DVUyTH5nLtaiZx5zEYREz5-eXr6g0lrsRuNeQMv887CLDNj9K28WzOnLpX8bn8efsk2TfVPqOLtKy71LGafOFk-_4NlnNnTBiV3fa9Q8bqk0z0433CcTWUC-e7YSMb09Z4T9RHwzBebAtzAzjkgU_16PIkz2_JYjKZaDjYc_v16qTP4Hvs-HJ-HIc4tW4xHffvUY2D71qE9DVVg5_Pbxes3voBpfQ82jOtUI3TtxDhM-zqU_nprqmGrbYA_MEd4tkDHonQOPE29IuBt5F_z509ldKTWAOAQxM4VLMknv0faCUXWAf8ok-nM9eE7p6tf4-inpFH1iFvGpp128DzO3UiBqBZRHNMSSWiPqv2YGb-TClNrDK4be8",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102202372826144279599\">Issam Hadidi</a>"
+        ],
+        "photo_reference": "ATCDNfWX5XNvbo18EJRLVR1qgcJ1vm7aFd87Bekv2vBM76IvaCf71nPgsnfh0vpc32eLRMUTaXzESrjfYZ1Wlwq47wFYIk2-161KgO88U7icG-iEi8ihAOTFXCgZGQH3Kcc3wPSQBanILaKv6o3LPeVNZQAEtZuCcTqqwflLlOLAbad_WNFlySARpOs4-uXifFsPrlNXmxpdYyOcIgEqm_Njk0oYTieHfTvKasbDdWZr2PQnQfr1XTX3zRM6ZW-4KC13QMlbha43CXiRCFdJo3dXr87gVkggjqiZWEbS98vRqjqdQYuNnn3Qa7-ha9hYlSi7a6jr7_MnITu0Nu9ERbFjQ0lBdeQN2paGo-jXJnq1qNkrtK2NYnDrJlT6gvviijueJ8RrlRWpGbLV-HnNpP4DeQTCSLTdSFzoU6BVdD3_F-JIegxm",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102202372826144279599\">Issam Hadidi</a>"
+        ],
+        "photo_reference": "ATCDNfX_O7KyoWGbviAWI-f_xwgeo8TLerI4mi8Vq5RqZum_XeJMM_QXNFJlgnko9GsDje8fGrRKMjWC9KMepgeovBqzUngiMTW56QzZgXJq3sGHzTDl9I4r7Ihn7xivVLc4KnR1NJTSo0eNeDGwTYsywZi73x72aanLSb1jw7FtbPtGnUhMk729atA0K3saJ2R6fIQFk5AUbQ_t9hfjeHIrAB81r285rkKSQ89rCk2XomejpWWCKcXc5WqQULS43Z67Ehri2_M5xCugpILO2HbtVwgg8anb2TpCrSGWoLm_b-goDdUppthxgy0kP5VB4b5HpegjwR_zSg_6AM_h7tvHo7f_fGMbg14mzQFEeTYagERSBhj0NUtx1Y0aTDVw9CBe-qpga61kh0d5gQ9dp9CVtH7FV0WitgtFgjXBYClMCdLdZMvk",
+        "width": 4032
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116908852038215196830\">Imene Talbi</a>"
+        ],
+        "photo_reference": "ATCDNfXbmFt-2xbx_Aaru-VqYQ51gF-3bFG1TNRz88Z9CGNOfokhGJVBTI3kluriByoOspNThKLVN2upomgCPpSMYuxxcjkThlvChqs4Wt0Hb-J1A6b96LIiM_WukOg9Jpb56xd5hEwEwc7quF1Mb02HntctUqaSVrJwo4jE5p5MMUcP_ysRBpPYU026_b2tBtK1BwUdgpexmd4Dt6ENaj4kry1BBjYQ1FNWucHUZKC-2Jy9NfOqndi_LafNyb8ffOGTwhMFmCHylw0H9R7rCPttHSllQxgYkhH4CZRGuc_kM8bGySQEZvqbFuxV0nO_9fve3cEtWlcfOyT3cghs1Pqm6GYnAO2oN18az_7tvAmQXbJ0go3vctqVQVsYDUl48dd3PUfbIRn6fn7S07vbZe9hD-6vFTAIneRufZ6yI3Uq7qo",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116908852038215196830\">Imene Talbi</a>"
+        ],
+        "photo_reference": "ATCDNfXgZNWqt5Kr6CxSwOfPXMNWhzge-Ahumel1skTosS5iMgAuCfTrghJxOrsKj7RvBzbOVVB9ihmFs7eRDDf6s9mVc4L_oG8gCyioWQikSWV0sP17Z22B7d0QFV9vJT25jssGvIR8crA9XQ7WkMgBnzgv5FIrfVUpdDj0oOaa6aGnz5BBQr8hbFz9EldekR6vsTpkTo6OFNyCPiS7qGPnB-lZNOXQecpQnx3yabah9YM11Iz8qGXBzAwOKsp3Hn8QsQzSKlZMdBHFcG_PuncbZZC-9es0UWSc1YP08_60DASjeYOEXZuktCDScs9FoLGll9vvkRqlNJmQSeL3iZN9qzH9OBNsHJMjYrmCRAom8H2vhQwLVAZMtwMbSOvmXfLymsuB-2tH-bHkwvDX1xNOG2Yg7k_PSK2jdaXk5BDB9wc",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJGR2xJIxHyUwRiEHb5JspOdI",
+    "plus_code": {
+      "compound_code": "92J5+WC Pincourt, QC, Canada",
+      "global_code": "87Q892J5+WC"
+    },
+    "rating": 4.9,
+    "reference": "ChIJGR2xJIxHyUwRiEHb5JspOdI",
+    "reviews": [
+      {
+        "author_name": "Ching-Yi Lai",
+        "author_url": "https://www.google.com/maps/contrib/116209967183325820350/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZtDVMzav9py7ECBauSHEu76nqdT4xBgKkpfOXtwyzAErc9-vf=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "$27.99 for the Assiette Mix. The meat were fresh. Don’t know why there were only 4 skewers in my box instead of 5. The price was increased a lot compared to other reviews picture on Google maps.",
+        "time": 1723586416,
+        "translated": false
+      },
+      {
+        "author_name": "G C",
+        "author_url": "https://www.google.com/maps/contrib/117744645412624097677/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITVJZTCsLrIUgZwZw2tx8oq5rXD4P3FWlowLOnwikMmGSrpA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Fantastic meals, cooked to perfection every time! They work hard to give you the perfect cook on all their meats, portions can feed 6 for an amazing price! 20$ for 1kg of charcoal grilled chicken plus 4 salads, the filet mignon is excellent..again cooked perfectly and seasoned perfectly! Highly recommend! Plus their butchery prices are unbeatable as well as quality.",
+        "time": 1609039609,
+        "translated": false
+      },
+      {
+        "author_name": "Sam A",
+        "author_url": "https://www.google.com/maps/contrib/108728194356089157577/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxB46cnaLrhs0bJDN98oQ7eLiW2WwLgn_EJoCEGMIfYSKnFw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "You can never go wrong ordering off the grill. Delicious food and very reasonable price. I have become a regular.",
+        "time": 1761768211,
+        "translated": false
+      },
+      {
+        "author_name": "jari Siri",
+        "author_url": "https://www.google.com/maps/contrib/101448047845292077333/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtFdJFHApWDILIjXdD8v9CoKqQZeoCxgeIw1dU5n2cuo8H8Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "More than just a Butcher shop. I ordered a kilo of mixed meat family dinner. Meat are charbroil cooked come with rice and salad. Great price ! Let's support Local.",
+        "time": 1643155722,
+        "translated": false
+      },
+      {
+        "author_name": "Nader Sebeh",
+        "author_url": "https://www.google.com/maps/contrib/101544815646184744473/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYDB-UdwqJj_RCHQ04TvZnZe-EodiCW56UKoA8uParevUOcA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "All the products here are very fresh, sandwiches are tasty....\nThe pizza is must not miss",
+        "time": 1759967227,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15148184571173618056",
+    "user_ratings_total": 104,
+    "utc_offset": -300,
+    "vicinity": "110 Bd Cardinal Léger, Pincourt",
+    "website": "https://www.facebook.com/share/1BnhLBsuXW/?mibextid=wwXIfr"
+  }
+}

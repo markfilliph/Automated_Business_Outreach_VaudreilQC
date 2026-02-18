@@ -1,0 +1,447 @@
+{
+  "query": "Microbrasserie Trois-Lacs, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340101.0781264,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "434",
+        "short_name": "434",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Aimé-Vincent",
+        "short_name": "Rue Aimé-Vincent",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">434 Rue Aimé-Vincent</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:00 – 9:00 PM",
+        "Tuesday: 3:00 – 9:00 PM",
+        "Wednesday: 3:00 – 9:00 PM",
+        "Thursday: 3:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ]
+    },
+    "delivery": false,
+    "dine_in": true,
+    "formatted_address": "434 Rue Aimé-Vincent, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(514) 316-8487",
+    "geometry": {
+      "location": {
+        "lat": 45.40412999999999,
+        "lng": -74.05172519999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4054557802915,
+          "lng": -74.05024911970848
+        },
+        "southwest": {
+          "lat": 45.4027578197085,
+          "lng": -74.0529470802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "international_phone_number": "+1 514-316-8487",
+    "name": "Microbrasserie Trois-Lacs",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:00 – 9:00 PM",
+        "Tuesday: 3:00 – 9:00 PM",
+        "Wednesday: 3:00 – 9:00 PM",
+        "Thursday: 3:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2202,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102553950070177019318\">Microbrasserie Trois-Lacs</a>"
+        ],
+        "photo_reference": "ATCDNfXVIT1dkim42J0z4bR22BiSZnJAKThjlB2IWocVC3W25gdFWN9wXoZLWxJ3xhjlQwGpOlS-9qtUGxH0LvgwryN9i0tWSd47Gseu-cSkTxCVLm9zLqBiK5nng8heRJcb0QW-24M1n87siBAsZsMOPyrePDk2Az8PRQ-onSKIcKGyfiHB0WwTUitdlfFVxjqQabCNFbEDTlVolloxAsLOmLywTPfYuUS95HDKP1TMxuVODEwXBI-wIl6fTiIIajhvSFu1AIN-2AxwclKeatTkFt3W1BgCW-u2U9knHAVUOAGIEA",
+        "width": 2202
+      },
+      {
+        "height": 938,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102553950070177019318\">Microbrasserie Trois-Lacs</a>"
+        ],
+        "photo_reference": "ATCDNfVcEMiKUNzJ4lynn9VyZ51ZkQRwfYi6BpgSsRu223u4GByXVC3u1jdkD1VIwWMKyLsdqkFtFbIeRSb8gZK4aAJrFiumCriXaEJhNMNcda91bkHvceZmDrPaBxiQ1uQ9rCg7AQltOoVpI2B2rSFJv1jm8GdPEf4u6SFh-LcoYHQ5tC8krL9H3oObpDVCwgNcBJtD12MUsDGSljmqmNohE84FBnwe0f0snOZj6xMvaDs4NNbW2r5Zr-iSravyGDxYpokqz9alHXJ_Q1L05qdGxDH4GJOp6wiiDUYAt_9fbEWKkw",
+        "width": 750
+      },
+      {
+        "height": 1184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102553950070177019318\">Microbrasserie Trois-Lacs</a>"
+        ],
+        "photo_reference": "ATCDNfXJXU8RgputE8Gye1UqmnZ1TGQdFtKEXO5mA5zosMzrrp22mARf1OKcOyAnjYJNet7IpKvW2WUFHO_PMGTJ5SicselpSlA5o5EN_qAHtraBg500pq44C-j16x82GCZE8SNBz2rPT5pIZvi25r4ixAIlr2eF5v0BOlhNZSYv-upMoo4CXV9dkySnXGLoa4sW4jbEcXQ3V7q_xibLZ96WVgjvNzLb3tvopeXHdnD5ggtvGC4mFCHsn4KyNvIQ7XtkGiy-NIK079DB-StSuWzHTDXdvtHkSUBh26XUXSgbZQMXgQ",
+        "width": 3200
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101294310672662814919\">Rozina Szogyenyi</a>"
+        ],
+        "photo_reference": "ATCDNfVedW5XJQ6BDjaDdOqYkeLot3Tlf8_6h6tniE4lPv8P_Uk4KvY1gD_WV9c-4H6VF2uWq6XIJJpC-9nCOlaCPDXvlaCbs7KanudQXiwSwpilmYqrQvCrh-OEFRJP7IVJq8FcG4D5KM24ikqN6qBR3x8oY2G5w6-G1Cj9dcg5fMeAxKc-mDmUZWeCAU5xqOO-cdyqLsbIdn9exAJ2eyhw5bcBB4JwNRO11lxmuNazoE5tUfLBjXUY2uAwc07gGLlR4yBEyS1JEtJxIIbr9zjXwlP9eqsqUQQ3-GSXl6S-05nzAm5Cr7YFlGI36MGph2d14xukep3mrRJkQAkoAPAhvRoXjEMQ0hpsQFoOH3tDINl3VqcLp1VAtFSqEiw_WFpoYTr3LJQvcW7ixbZtF98fhFdaDy8M_6rlLFp6TgX1WMo7WhUpzyUy06YFTZ5FCQ",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105266421955925778148\">Pavlo Pivtorak</a>"
+        ],
+        "photo_reference": "ATCDNfUmEbANYtV3KFs2gJDn5n_EdcyPnVcI0t1aYb70QzsdqGNQ46XY-7S4sqYZ8IQGEGP1y9qULJTihy002chUS9QFLCWMzCWOrkW3XtOsyN-qoYz3jSZC-a3zVTcuuLjKxazTb2aDXPMRhBs0bN1OlDW07z9DHszSdcvZYTZH7oiSeoj3Okmhhy_la1jw-imr3H0yZK4RXYIC6018Pc-kC3r6szSLrHjVVyryDjk_X0xygEUldj9pffDxGpc8Gfpfy-we_5WFw7lRujVp5DePtT7Ze8UdkRHr_cjNG49J8XbG3y4cqks1v-bY9oa30vKnremO1U7br5UiNTYaErVgaLFWfIScsFqetCxih_bSWbOxQt_-VDSrydxayTOeOfJhUZQ4LoxH5k8RchXcEzRKZac81xyPRmz5B5ssH2ItMVZFKw",
+        "width": 2700
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfVsCn3A4WRVoD3asyCxIdVEpVyQCeyISTc_AO-HRwhKtpzg84WiNeI_YPn36-lHTSkAoOTUX59xNpFTxO9V_ayQk1FM-LIWpAd7r_mosf-KMeD3sKtX3tHh16Vy_M3ns-9r512j1g6A_nlCqsYaud_igq0G8GOvo646PISnJ-e8zEJAkYdKGzalW6gUUHLIRzEXtc0XABOjT_1QmCN48I58mods6fDyAB08rJXAos_tujLr5IITdFVnmktJVQXcfb1I2-MNNJr8LktesDy8mqlHYaniofW_p3cUGVitEV-mpv2-ROVnryHdMZsK-_0Mc-genWmCYJym1d7eD6Ho8Ji_jvrdkb_wk6wXXbpZNEyx587HIWGuBGHCPcMfDpG4t-2BiTtsKS7C85ZPJ2n8JmWd_kIrgc3murp0V51zsfT34GkD",
+        "width": 1634
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102553950070177019318\">Microbrasserie Trois-Lacs</a>"
+        ],
+        "photo_reference": "ATCDNfUNFDRyT7pE_ZPLDIOibkGJEHbYIq1Di2d5v3nCVIHZyHp4hED52Gaa3Y2-4uMLAX3mR5x3GFyLlrLKhgpZIABaVNWehCIHJUJ7KOxwyAoBQHT1nxCiyE-PVzW9vQqJUrYzUT2WqR436KFx9y4q77YAzOA4ifSRK6ctP8tUGUKzBH_63jVbBMtqcclOdRcSQbZbQyPh73HDT6EURsU7-VDTaAzOtxspT4kJSzrNQ-7NZgK6P4JUdlRNsEkIlUh2SdeFBKD0Oe5Envrtj7by2zwAzFFSxoKy5-otawK2J9x3Jg",
+        "width": 1080
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114035773515370707362\">Marguerite Howells</a>"
+        ],
+        "photo_reference": "ATCDNfXfsMjtL3hRwzPZfDuSvRBfHH9Jg_EuIBxPa8vidbVNCgZDtjAMzhMwngFn5Zj-i1HB4rZqSrQkNgJLNbHq20F4z5B1Zn5Xxac6drke1R4332AtDGJ6vBCiB7Mnj9hk7TeqLzbBZb5tCBfwiSlZewlwNNXohG0NunfWcEuNe4FPBHAWMrOEMZn2ikx2I8qoH33o5jhzC4VXC1eBF0hWbwHcDd6KfTbSkHafgZY8LeJ3OecLysbZzilEwG_cz__f5KkyxFW-nDn7H3G0LV9gxbE2sCSSocCq81YBcermu4S9RwyyviTaA7A5qwjBzC2Bb-iOBHLLcSyFN91f_ya876eSz6Tzc_DXcH8p2zq7yBTKd2K8B_qlyIRB9ZBh0pDx_J_XTXOIZ8OqUjyQoyLVOEA_YqYMzjFG8N9grf3PwfOIaU0",
+        "width": 4096
+      },
+      {
+        "height": 938,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102553950070177019318\">Microbrasserie Trois-Lacs</a>"
+        ],
+        "photo_reference": "ATCDNfVn78g_MfE0LM6x-bXrPl100CjGSm9k9W3Zc2HCt84wYUenDutmc4ZmIeNyRPHsPj9wU7o68z5rXqVCDrUGXDnwnQo5IXWxTvaptScfGJaqVs54eagR8y5c7-_cbn5nDWejS0NsSETbTluik9BddZu0NXdJhDh6vOb9k1_6Pt0m9OCypyMc51CLWWyJ3ABjb5_Ulhh2hbArihUvHKBIvNkJiCdh26336cHVHXIyfsBeyGW7qAr_HytjQkjai4cOXqJ4WMjze1Kg-DDraePQ-AQtVYimSpXqDHGA7IQu7XGbdA",
+        "width": 750
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102165637462924261258\">Nicolas Gagnon</a>"
+        ],
+        "photo_reference": "ATCDNfVd_aPCYs69up6zhavlc0DhFzlJ0z9e3FeDKjdC5zh5fMpJIUzcNPeyAlP30LqRjsnGv51erwSWlnbj3lMZ6zAVBbGPekZkWlsEwA9LU8sWT1tOiE9Nv8B7thgMsgcXk6jb3dCk3bWAd4PP2Lk3YxxQEs3ca1_PSXEHtzCRFPpo7imrHySDSdEWDv3MxXobOwiHCE5T5GKBpqU3__SSIBK_49G10Qk5Dt1g2N7KVu2NHmx8IvgAFgl-jo0XtbLcRUk0YHCAxz6Lmchdom_VdUUhw8dH3_UW2V5RlfFxMNCLFGU3Ldjhqqb2LxB0qX-qohmeXsUAX76Aoqm1xEAYSO3wD5wLyWRdcPi8J5aPsDR9z91-WEnJK0Mou2xhTWcKe77VAwQVN9n-O9qyPsLKZGGQ_f2ZfOpmKQJT5_ggOz8AEA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJGzXnKek3yUwR6bIKuTkiL1M",
+    "plus_code": {
+      "compound_code": "CW3X+M8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW3X+M8"
+    },
+    "rating": 4.8,
+    "reference": "ChIJGzXnKek3yUwR6bIKuTkiL1M",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Brandan Johnston",
+        "author_url": "https://www.google.com/maps/contrib/104026376647104406075/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO6rDpV18jb7s5Ufa6WqD_cEJohGZ2hfiMNk7fEfdeNbZhwguN=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "I had never been to Microbrasserie Trois-Lacs before, but with family visiting from out of town, they suggested we check it out. The first thing I noticed is that the location feels a bit out of the way and in kind of an odd spot, though the upside is that parking is easy and plentiful, which definitely makes things convenient.\n\nInside, the space isn’t very large, but it’s cozy and has enough tables for groups to sit, chat, and enjoy a pint in a relaxed atmosphere. It doesn’t feel crowded, but it also isn’t the kind of place you’d come to if you were looking for a big, bustling brewpub experience.\n\nThe highlight here is definitely the beer. The selection of craft brews is fantastic, with a range of interesting options. I especially enjoyed the hibiscus beer I tried, which was flavorful and refreshing. Prices are pretty standard for a microbrewery, which makes it accessible without feeling overpriced.\n\nService was friendly and welcoming, which helped make the experience pleasant overall. That said, while everything about the visit was good—the beer, the service, the setting—it didn’t leave me with a strong impression or a reason to make it a regular spot. For me, it was worth trying once and I’m glad I did, but it’s not somewhere I feel the need to return.",
+        "time": 1759406487,
+        "translated": false
+      },
+      {
+        "author_name": "Rozina Szogyenyi",
+        "author_url": "https://www.google.com/maps/contrib/101294310672662814919/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHCmsB7wpCx9D_T9Tah1Lj8qBC2oVbn5Swy_1rMFAp3ZT9txnvDw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Great beers, great people but don't expect food here. They have some snacks, and that's it. But you can get your food delivered here which is a plus:)",
+        "time": 1765500927,
+        "translated": false
+      },
+      {
+        "author_name": "Denis Mankovsky",
+        "author_url": "https://www.google.com/maps/contrib/103454274120799516149/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtzRE_GRrW064nGqO0qIo6P_GmxB1K7ZFlDYad6Qubk7Vmrr32=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Really nice little place to try lots of artisanal brews. The service was really friendly and the beer selections was nice. Only drawback is the location is kind of in the middle of a highway and the water tasted bad (algae/mud taste). However, the beers were really tasty and worth the stop. They also offer lots of beer options to go!",
+        "time": 1664897595,
+        "translated": false
+      },
+      {
+        "author_name": "Jasmin G.",
+        "author_url": "https://www.google.com/maps/contrib/117366626289458110984/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhgBq1MndyR3WFKQybJBAbL8plhk6HVxq7fqAd_e75JpXCWDM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "This is not my first time here, my boyfriend and I stop in every so often because of the great atmosphere and consistent beers. They have a good selection and a solid line up. My favourite is the MissMaple. They don't really serve food, just snack plates. I think they have entertainment, live music or comedy, but I  prefer the quiet days & Dog friendly patio.    Check out the large chalk board menu for rare, limited and new releases.",
+        "time": 1700563363,
+        "translated": false
+      },
+      {
+        "author_name": "Maxime Provost",
+        "author_url": "https://www.google.com/maps/contrib/109341542282885597247/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOX78_9Dn1VDnqIKIL0QhJg-2eBG3kHIBt14ftTjqVMvJQZ6v1=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Nice little place 👌 ordered samples, pilsner, Voodoo Ipa and pinneaple Ipa. We drank while eating chesse fondue. You can also order food from other place using uber and eat it there. Very friendly, definitely adding this place to our favorites places.",
+        "time": 1686682532,
+        "translated": false
+      }
+    ],
+    "serves_beer": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=5994047260366385897",
+    "user_ratings_total": 310,
+    "utc_offset": -300,
+    "vicinity": "434 Rue Aimé-Vincent, Vaudreuil-Dorion",
+    "website": "https://www.3lacs.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

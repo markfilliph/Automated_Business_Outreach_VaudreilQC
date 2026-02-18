@@ -1,0 +1,284 @@
+{
+  "query": "LPBR CPA, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340756.962713,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "17 boul de la Cité-des-jeunes",
+        "short_name": "",
+        "types": []
+      },
+      {
+        "long_name": "Bureau 200",
+        "short_name": "Bureau 200",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "17 boul de la Cité-des-jeunes, <span class=\"street-address\">Bureau 200</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "17 boul de la Cité-des-jeunes, Bureau 200, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(514) 626-0099",
+    "geometry": {
+      "location": {
+        "lat": 45.4143722,
+        "lng": -74.0246137
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4159582802915,
+          "lng": -74.02333756970849
+        },
+        "southwest": {
+          "lat": 45.4132603197085,
+          "lng": -74.0260355302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-626-0099",
+    "name": "LPBR CPA",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJT4kLgqQ3yUwRswvqLajbcyU",
+    "plus_code": {
+      "compound_code": "CX7G+P5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7G+P5"
+    },
+    "rating": 3.7,
+    "reference": "ChIJT4kLgqQ3yUwRswvqLajbcyU",
+    "reviews": [
+      {
+        "author_name": "Justin Lamothe",
+        "author_url": "https://www.google.com/maps/contrib/111787356986851059571/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6J_DqAjHFFS3hgMfgOmANIP1u3PRnsgXuLFTSzHPSBgFLD8dB=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "This company is completely lacking in professionalism: no follow-up carried out.",
+        "time": 1759215702,
+        "translated": true
+      },
+      {
+        "author_name": "Ariane Primeau",
+        "author_url": "https://www.google.com/maps/contrib/101228696114439061555/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXjESZ1nj8GxXGxQ--iCwedhMCeg1tlyKakxiDvz6n6fopRw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent service, a competent and professional team!",
+        "time": 1762877123,
+        "translated": true
+      },
+      {
+        "author_name": "Nicolas Boisvert",
+        "author_url": "https://www.google.com/maps/contrib/106350999951336766800/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1M3MeVzJGNG_mnb63gRqYxsytlVdwfScqoXuUiMBnFdaoOw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "",
+        "time": 1769449154,
+        "translated": false
+      }
+    ],
+    "types": [
+      "accounting",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2698742117096360883",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "17 boul de la Cité-des-jeunes, Bureau 200, Vaudreuil-Dorion",
+    "website": "http://lpbr.ca/"
+  }
+}

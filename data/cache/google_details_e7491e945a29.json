@@ -1,0 +1,426 @@
+{
+  "query": "Cadillac Ile Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338950.28772,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 1",
+        "short_name": "Suite 1",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "2000",
+        "short_name": "2000",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard du Traversier",
+        "short_name": "Bd du Traversier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 0K8",
+        "short_name": "J7W 0K8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2000 Bd du Traversier Suite 1</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 0K8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "2000 Bd du Traversier Suite 1, Pincourt, QC J7W 0K8, Canada",
+    "formatted_phone_number": "(844) 800-9212",
+    "geometry": {
+      "location": {
+        "lat": 45.38569409999999,
+        "lng": -73.9838795
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38720283029149,
+          "lng": -73.98265256970849
+        },
+        "southwest": {
+          "lat": 45.3845048697085,
+          "lng": -73.9853505302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 844-800-9212",
+    "name": "Cadillac Ile Perrot",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1124,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfVCQo-GmD5MMBcr_y8mXPW9XWeUDnshJ-Zpj3n_m8ZhAWvQGyEBjMuvOigqlMhCf7lcIdetYQaaDTTTE0chpMyGWXsHoUbdbDBtnHeKC3ws4OUEnkmC4RnxjNoQJ9_2qrEDGgBRTQz0_Fx0CuqKwQM5_R3-gP42I-JzcuwW3sd_p5CtKunRpxuSNVTZ-taSajYvHDDeJ_-_hywi-hrgysXHzIClTJfTzvxXJlTaTIA2BoodUabiOnyf1KlGAPCoZgzLccfxYqCKG4bAwzMmm9W3y7_fimtoOGmyWYRTvbpiyQ",
+        "width": 1800
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWQ8h2qqHnqDiSnOvKu-hE1gOtIPc7CSs6Q2imEtSps_me8P6C99NUcMJaqWUmeG_Gl6Ot-cfXzvZ-d0rLtZZH8DeZbFe-7XR_fBii2bGkiLoVpidGVGFeJQWlbKBwiffJuLcNiuDFfRFwW-RBQn1bMZIcDdyLxC8dKFJARPHF3BZ40OCjqdGNTslkTyID5i6rYEMJYBV-UPF25nYem1YQbjwikPty2iyyDoWefyivvwzATrbH6XawE1CxrXpi-8JD7SJHfE260Jrke4eAV8cfyZENkJ5G_bmC8WgS76g1nVA",
+        "width": 2016
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUe1SZEW_fFgo4XIET_9zKcNIFDDzJaiHOOIZX_2xGgxTQ6yRY2RXaZ6gWQfUidQxWG8ccKuOJSRZctSGRX2SsF16vRk_BVvV_CtinEmPw9I5mTyqP0iEtXkJodgHB8pbQ5OVVay-Gs4igcZh8evrtF9oKlNwW10rUZ2cJv6Kk3dhWjnXe5Bz4nJZ2eo1T4_3schDQlDYaG3NVKnFF_OVxO8VT-qtf2Kyn46w_uUhR5umqOht39V-aHR6xkFivIBhPCxf3Ztpnq4i2xhP6xTZnaYkorXG7N96EIsf2vcL3arw",
+        "width": 2016
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWMi5mi_FJ4TR_m9jbtjBWK5BnCKzgpkQn2axRVyfux9lwLHIis_5299I3i_cs48aIacguQ3WM0I4Pex6Hy2IyH01O7ZuMhIRiP7DdK18xQje18x0BjRDl5ERCilCbP8Wa86NrEzfEdMCh7EatnZYvmYLpReUPgWUi-2MuND5vf4Agx-B3yKj4SdRKpFauzEvR4eoxYuttnYaJLOiTycPk_X8bf8C4XR-B4O_Tot8ilgokXbj4KZT8Pof2nzBIWwzOVLzfRVWgWrIJoMF5SMisz4OHdxSPg2VrXdQQsovq4rg",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfXFcef6tPqZqrVyd5ic16Rj0l5a2PMgk00aVmSOX0oFcbMRtJTtelfvNUNTCRFnOtANeZQLIaF9aIIo3aRcI8rNKasye2IexjW--13cNnJgEsGSvXe-IPqyP-BXK_0WLVA38D4wG3gLtmGD9hxAnhqStWa0cZizIJQoIFLnPEHuORH0KL8uYmo8O1LpBYShmB9N3SeDEmaQrsDOlfJHngnb6tzlUWZA9TYh5rCnz9_mkvpzSeckztXLtJBOuhwxvwKarh2LyYCOCAmwrRkzUhNOoNXO8gGuBR0VziQx6O9cvQ",
+        "width": 4080
+      },
+      {
+        "height": 3194,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfXVHkppw61YNUeYsDl7JERWMtDNS86jXZ4mY8C-Vu1Ct75gx7zfi6LhZtK3Kjy2hqrs25NfpGAtX9JCrZBgxvoWBV190w4l-2d5Txxjwy0kReVAMSjnuugwwIutA223nqNkbCXKf6eqRD-0BGKj6bR80QjOvhN_EbjCqPMAiEXRHZdcfgR6m5mK8P0XIcXBf_B11fT6HNXeruP7WgO4RM90KsX9GUDo0C2UHy-iAfg1qj1Yn8TXEFCTeyHDW029ic-7rNF2frhmKM6PjmWmvu75g0dTbHTw3nBvmHjfWoFtPA",
+        "width": 4800
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfVLNT6ptXSpGIbx-CaYaMIj9BRWXC-LvwqhzWjkvdLOar0DzcxyxcR6ok270ExZyN3zMuy1CPuPZbaVEXZwz5ygd2vmG4tMe6PxUXP-fDthZbXtSmcFd_Nfkbo5Wma7ENwbX7AqjUO6DyDpuNMx4HDqJo56p5QuzMbS2fK3NvDLX-2AedclGlnG5DLNuhlmAnVMiY3QpETczAXDSxv8FOUsuNaZPJPKH2EL9O-xq8wcIZZ0woheh0bID3ZHOIXpcP1dibzdlEeY4pgfht_m73201nbp2yJyU8VpJ6Ws1CpwcA",
+        "width": 960
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWeU3vOHjmaZnKFSaSSgQUTtNMjbgoEPZzJFSK7ocwBk041I8rbYopD24FG0gt9-E0thS335sNNSkAOPh4zbEnrqL4kDsAFLgksN00EXmfPIjKDLaBUoo2UkMGwjC1rVIP7VFme6-5qpGUPqda94Bf4x5IPWQuU4C57UCfa4MB_zYXuKMQ8isyms3EbM32zlFY4t75ITorB0vgK5Jq_TsEKou8xbd6RN5njSCSucYcoD2_tdZjGaLRuKfGwgmGACe-qBzRIgpbAIjlr8yCAKewK7vPwIUKLfN9zeYgAvZ76kg",
+        "width": 3072
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWV4YPoi3_O6C7qDq3pA2KmZUTtPtZ9xB9nLi0C-YTDjE8lVO4ewErVpKUbyNOxAJebmwRfUlzZyp7nK9ipDuHa6kXJnZ97gvbsYpkmwoIEQVZiOMDp-NisOkij1C8hsiPaZMzvideSMl3HxhueyFf9Auq9-x6Ftw34qgvX4ZNlRdxci4Jjtb8HFOmMiHyAHNSpjoi0IKVIOznOrXkncv4olRkquLrveTiPNXaTkNGkYDZOcuLQdYaNZ_QS9tUQvzmHFZ4qytoD0LTJwFGqD6xMih4mRYDUddpuvHvn3QHTeg",
+        "width": 2016
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550793297377169412\">Cadillac Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUagaTIilYL34IKWmkcL4ceDxF7esQh3la0OMC4Ht-OOrVgPnmSBx6p5z6Cw2Kdy96vdGl2PKZ8SkkCt1sjd8dYGS0ACQVXz-Z9pN9dPSfBozgFEnnRAjv0OGEYarwp1Wd9KUOEuzFUkJiWB0LUJwfrq7ezUxRs0ch8oknL2U1-heeDbBFJBcDLJH5eca9DFYFmaf33sZPy7dsqtmIBVwB8F7xfkTh0I07AV-D0-19rYIDRoXCD0Bs4EQsbtg2rVgji7ZUx0DUq4UyYF_dMD-WVoCQHZaCEp_uglij8Qy4Kxg",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJ4fnU5AY4yUwRdW7ifR6BsNo",
+    "plus_code": {
+      "compound_code": "92P8+7C Pincourt, QC, Canada",
+      "global_code": "87Q892P8+7C"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ4fnU5AY4yUwRdW7ifR6BsNo",
+    "reviews": [
+      {
+        "author_name": "Bleau Jacques",
+        "author_url": "https://www.google.com/maps/contrib/105027449025116298417/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUecwVbMEd10Ocsq0-Yj_ffiyC6-mBkRx8Tw2D9v9qjYLIwEqg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "I have been a fan of GM products since I was 5. My first new car was a TransAm. All my GM cars were on demand list for up to 1 year with  my C7 Corvette. Lately, I decided to go with a high performance Cadillac to find out from many dealers that I would never get one and stop dreaming.\nA close friend of mine directed me to Cadillac Île Perot despite its location is well over an hour from home.\nMy initial contact was with the person to reassure me that my dream was a possibility.\nIn effect, Claude Brousseau, Team Lead of Cadillac experience gave all the attention and listening I needed to sign a contract with Cadillac Ile Perot. Although we do not have an allocation yet, I feel confident that Cadillac Ile Perot will be able to fulfill my dream in the coming year.\nThank you Mr. Brosseau for delivering a great customer experience for a product that I do not buy every year..",
+        "time": 1745952248,
+        "translated": false
+      },
+      {
+        "author_name": "Alex (AJMC)",
+        "author_url": "https://www.google.com/maps/contrib/100764981430247501214/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpAMPAvRndQQ_CPLwvVTom_GFLP8_3V8gCVbTp2ga_rBt7BQIg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I've been to several Cadillac dealerships in Montreal to service my ATS and not once have I left satisfied until I went to GM Ile-Perrot.\n\nPricing was honest, the customer service was top tier, they served me a fresh coffee, they let me keep the old damaged parts they replaced (at my request), and they also cleaned my Cadillac inside and out - properly!\n\nI've owned my ATS for 6 years, and this feels like the first time I've had a true Cadillac experience while servicing my vehicle at a GM dealership.\n\nThank you for caring and doing a great job. 😊",
+        "time": 1749516964,
+        "translated": false
+      },
+      {
+        "author_name": "Cedric Castonguay",
+        "author_url": "https://www.google.com/maps/contrib/113250517972410339760/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdagw2AYELGYY7TwYxK3FjYoN4fYaRZCR6hwCv_bhcWyENXKIN=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "Clients expect at least a minimum of competence and complaisance.\n\nI recently bought a second hand Cadillac CTS from Cadillac Ile-Perrot and had some of the worst service and lack of ability across all branches of the dealer culminating in the worst client experience I could ever possibly imagine receiving.\n\nBefore my rudimentary inspection of the car prior to the purchase, I asked the salesperson for the condition of the car, about every mechanical problems and the inevitable nonfunctioning electronic parts to be expected from a decked-out luxury sedan. I was assured that the mechanics diagnostic was that only two things needed to be repaired for the car to be in a good functional state, which I was ready to pay for.\n\nDuring my road test, I experienced a lot of vibrations which I believed to be nothing more than a bad wheel bearing or an improperly balanced wheel, which was partially right. I later learned that my wheels where improperly balanced and 3 of my 4 mags needed to be replaced due to irreparable damage causing the vibrations.\n\nWaiting time was needed before I could finalize the purchase since they needed to prepare the car and my new plate. The preparations, I was told by my salesperson, was simply an inside and out cleaning, a leather treatment for the seats, and a 1-2 hour job to repair one of the problems mentioned before I bought the car. This process took them a week! And upon receiving my car I couldn't help but to notice that the exterior was barely pressure washed with still plenty of brake dust on my mags. Inside was even worst the carpets weren't even touched and I even found one of my fingerprints from a week earlier when I manually adjusted the rear-view mirror. As if it wasn't enough I pushed the button on the roof to reveal a moon roof shader stained beyond belief with what looked like a coffee spill.\n\nThree hours after I left the dealership with my newly bought Cadillac the dashboard lit up like a Christmas tree. Check engine light on, traction control off, AWD system off, and abs off. I came back to the dealership to explain the situation and they landed me a courtesy car until they could fix it. The next day my car was ready to be picked up so I got back to the dealership ready to leave with my car but the moment I started it up the check engine light was back up. After apologies from the manager of pre-owned vehicles for the problem that should've been resolved by now, I left once again without my car. It took them an entire week! Five days to get back to me for what they told me was nothing more than a bad O2 sensor.\n\nObviously as one might expect, less then a few days later the check engine light was back on. I was told by my salesperson to book an appointment with the servicing departments so I did and asked them to program a new key fob and repair the second and last of the two problems that needed repair according to their in-house diagnostic. Meanwhile, I tried to find the problem myself without success and scanned the car with my obd2 sensor every morning and night to make sure the current problem didn't cause other failures that I could not see because my check engine light was already on, preventing its effective use.\n\nAppointment day comes around and they land me a courtesy car with its windshield cracked all across, and the license plate begging for police attention half peeled off and unreadable. Four days of waiting again just to be told my throttle body was dirty causing the check engine light. Which wasn't the real cause because the check engine light came back on again less than a week after the facts. On top of that, they could not find a way to program a new fob key so they recommend replacing the module for 1200$! A locksmith took care of that for 300$.\n\nSadly a 4000 character restriction is insufficient by two-fold for a proper review so I won't be able to write about every way Cadillac Ile-Perrot wronged me, but I can confidently say that I will never deal with group autoforce again unless outright necessary and I’d suggest everyone do the same.",
+        "time": 1599159981,
+        "translated": false
+      },
+      {
+        "author_name": "Roberto Rossini",
+        "author_url": "https://www.google.com/maps/contrib/104190337380127581877/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGqYHMx5-QfoaxYdXQdN2rz1Agddi77LvcKw6_gECxfpDLNg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "I work with dealers on a daily basis (Not this one...hopefully that can change) and we talk about best practices and so on. Bridgette in service is an example that everyone can learn from. Professional, courteous, efficient, knowledgeable and take the moment to explain and proactively look after me and my car. She and the team really do offer the CADILLAC of service to clients. I bought my car here and I have since moved but continue to drive 80km just to get it serviced here as its just that good. They wash the car......and its actually clean with no streak or spots, care is taken and it obvious when I pick up my car. Well done  Bridgette and team and Thank you!",
+        "time": 1742396569,
+        "translated": false
+      },
+      {
+        "author_name": "Akram Voghoei",
+        "author_url": "https://www.google.com/maps/contrib/109882814544233858042/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlhJLTOalTnmwEk044PsSp0jznFeVZRnMk4F3q0mOozrmPQOa5rw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "We had a great experience with the Cadillac sales rep Jefferson Ganley and could get the best deal.",
+        "time": 1744336060,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15758237064130358901",
+    "user_ratings_total": 105,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2000 Bd du Traversier Suite 1, Pincourt",
+    "website": "http://www.cadillacileperrot.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "query": "CARSTAR Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340344.444332,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "115",
+        "short_name": "115",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">115 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 4:00 PM",
+        "Tuesday: 7:00 AM – 4:00 PM",
+        "Wednesday: 7:00 AM – 4:00 PM",
+        "Thursday: 7:00 AM – 4:00 PM",
+        "Friday: 7:00 AM – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Franchised network of independently owned locations specializing in collision repair."
+    },
+    "formatted_address": "115 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 455-5360",
+    "geometry": {
+      "location": {
+        "lat": 45.4105308,
+        "lng": -74.0405117
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4120102302915,
+          "lng": -74.0394421697085
+        },
+        "southwest": {
+          "lat": 45.4093122697085,
+          "lng": -74.0421401302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-5360",
+    "name": "CARSTAR Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 4:00 PM",
+        "Tuesday: 7:00 AM – 4:00 PM",
+        "Wednesday: 7:00 AM – 4:00 PM",
+        "Thursday: 7:00 AM – 4:00 PM",
+        "Friday: 7:00 AM – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115411993903654111886\">CARSTAR Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU60zlFSh-jheLEMZXJOTC6mqrSIDK6OQ-BFGpkNq971DbPSzeTXk7jt637Ad674h1DfCk0Zy8ot1k445VWAHyUvoq_ie4lmFDttw9boYKJHSoB8YWEDoEcp4_UEDqP0ECPlXnovJC4RqQz5-U6vzww6c7tYqKg79jUnpHUicpWQ7KWm_k3sLTqf6jmDqPW3jTEEatuRfs1X6dPkc68fsFt62x94SHv3b2Gz-Yw2k7mZ7IHm_4WKYuRN7mIPn5JGw1BFDTeDkIAEKgxbvtc1yu9uWK2UX-pBnUU56O_-eANsA",
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111846097703259442754\">Mo</a>"
+        ],
+        "photo_reference": "ATCDNfV7FHpQgEhMedcjETAGl4XrjPWPhxB_uzgllmcc_riT3SqmBecR-12Kjcck7XXlzL1VtQfU-fU5jD5Zdb4fnzSSZiaM90trJqLzc6oXGThAL7JO6ncXRkdx_3CUXrBm2SVU1bAoOT9ovWln07n2hvOaVV0EUInFHZKoYFvGkuE9yl3081XUVDTGN9kxOlApHOfLekvrCGpUmZsEfth_PkLo44EaJXgiUuPi1gcIuvpwIyUwSPaA-OgLjRsdDcVsagVqDND84lkFavZX-_fubkeNqv8kx-uHD7dTPxqY2_RKTr0sxJNQmJ5rsAcJgadaHMS5JQpvSvcJtzpCLC0roDUr8N0pZyH6qQ3i9mWF5GnLrfy8YeYHNwVtxGFpE2bL5Xl5WsMqw5jD_cFfBsFL7hAFplVlJahqEzHRqEdXxChD9IUdqxqyTwnuhaWEP7-Q",
+        "width": 3024
+      },
+      {
+        "height": 1592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107469434840987843576\">saeed alhalak</a>"
+        ],
+        "photo_reference": "ATCDNfUve9N51m8gY1_JcTHxwl4o_NzPu5xo_qsgkAt59VwTGYiTRu_P4RzCigWNPMBCHioNBTFlzK-LMkQGjtpxTnLpu32mfDw_qCGqd4PvzvVpHtyXJngsnOj25gHLE5ATgjjntpZ5UUUQzvRpP7y323iNZzijGsJQiQEeYTs-cc8QsyyNYJWTd_GSRr1JqJzbyqr1E5l6E5NXED85mAnh6jdx-8_SEfHvi4wwoNKbWv-GRuYUOGMcpw92JASDNehtYwmErlTZgSplP-FWRHs6nZBERodpJodEJ47BghEqTqtIxuuvFNF-hN-oJnPw0Jngs8NucJOWyIeoJXTNES7qkixz4teHhSJrcD1062po44WKTx6ElBnQ2AtYmAV0oNZTchNPIiFvnANKd_ZEmvtZw6XXkkODPX0KLSIsE53wj_Ye_LpQ",
+        "width": 1194
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106620807716729503783\">Jordan Austin</a>"
+        ],
+        "photo_reference": "ATCDNfX24jCCsqkKFzAhE94YKE1d1wLjMfY79NjDmix-aIH5-Idg8rDuQRM3e11xy42U1-hc--O16O-k9acoeLKxN6pfQZ2f4e6HHjT7AK4b0lVfGdCq2S6-Yn203ODfhs8XBypYsg98OgSomGNVpDv0EXfmkpU2eacSkne39KEHnNOSF2rYk5xD7pHebQvhKm8mMUCg7meeQOedePDWGRRhKK7ifEJDEp0gWXd2vpZZh_uzcqVOVsy8bRTAyKLUZwCeTgHhXFMsVxR47dONzr631dU3aQDw2i7hooRyfmHYjsWQtFN7rUAkC7GYHa3cn4Y3eqeTOy4lFlde3Op5pDqeCZigfTDnPhsh0vh3h-xvRlIEi1hvWqEcAp5YEREaLirPAZ2vM60GICHXb9hHEMAUuUQtoYMfU6WeE8BkUURLpx7lwQ",
+        "width": 2268
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106620807716729503783\">Jordan Austin</a>"
+        ],
+        "photo_reference": "ATCDNfUo6WXbLGEIpR7hVU4Ayre-kcAMDRz0Bx-TFJAjy-wEjKHfLXNAIjmQUYNIP8G01x8XxOd8v9yMJJ2NAN-K1MebyMhBXniAIkKemvuVK4rcmeyKxoCBelmX20BoNOeWhBjLlWs1uXNuK-z3CgAETOz-0s96GoAuINfyECAmbdM54dC26niTa-y8jH2wO6QK3oHhkmtETGwywwD0XCrLED_IpxebRnRcao7X8eDMV1LexhWRZspX6a_qZySNpri1-jMuYl0LKSiOB19pZ-9oigGz0Bte9yuglnJEQ-J0CTYFEwGlqQrencmCImFsgiNyVDVLphnGq3upwOYZQL7GrjnMgE50GX5XdyCS8vg5q1FImZEtacOYvyg-J7EURj_JiksYEBWH7OJz-2w0tkoElfzfNdiPFzRH9zN1ACWCzeEvGGI",
+        "width": 2268
+      },
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115411993903654111886\">CARSTAR Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVsHlXzRhmBC4978IRV2OoeYcf7tZYpuOe1X8JwMtbPBhrTWEtLFID-4cyNhMtVlgKODl6JhQAiKH9KgRULD3H5yJt1fzU5PvXKAe5rSoXTzrUrOnKszyKoyB5RE29DVpPAK0xKLNhYLGdPn26wkYGyjsLBx81XS4p1lAlI_3tjl1D0VCs-mOWBG4cf0l5r-kAAUwdADG1mm8CmzdRka21efCrYuGdLOxWut3M5PQNkm-JoY-G3rPWDfQp022WPKEZmc4P1Mqo2P5dYG7ceHhHqLXz2OCJv2fBC65SXXAjJSw",
+        "width": 2084
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115411993903654111886\">CARSTAR Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXm87JwB-lX10spdBFT8Yw8n4XyO_5LWLkzj33Pruc6KFiqlpX-Qwdb5XKCQtEusxgPh4IDBMVNDFWGYAfanU9kMhxTCyCxXyrItf3vfA1yjKqm7Ha1bNgxTfX0-lRcxzACoXGxxfFx8fOiqLlKm6td7aHbhc5eegsb9Ik5HHO23z77c0iZKNuvdMDdCxN9gsAu2h6rtIsfQs-jK4UDJ0atqSAhVzHJK2wZkcMcaJqsbescGq3B9BA1PUwvYBlAgiTWeFAwJXDNb-HDTzTNPZFIQynaT2s_GxYEPSTTiAreHQ",
+        "width": 1280
+      },
+      {
+        "height": 1192,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115411993903654111886\">CARSTAR Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUV6VUl5q5oT8yLnnDqJUuN_ohNL86PDs7lXkkOjc0DV5oYzOE7EFBzjK5xwkZyKQtAGZyfnX0isA0CNTa4tTdVyyvnyZyY407f6RNpG_ZknFSwkAcKd7nYn9tsBRTp-kx-uCFmr7ahK05v9KdAcTz0gdX7opuMA8TEciivyuF12BIY7DMo5JNKOSs-9J-WauUwyg7UuWAQygWzZDc81USiasXLRmiaRICOkbz71d6d1jgSC0saMQO4RyDKCP7scvDhKqD6NUVOT9xxlSl7Zug1VL_Sd6iyUip5WMKUW6x3dQ",
+        "width": 2120
+      }
+    ],
+    "place_id": "ChIJGacV48o3yUwRQdHCykfbT84",
+    "plus_code": {
+      "compound_code": "CX65+6Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX65+6Q"
+    },
+    "rating": 3.8,
+    "reference": "ChIJGacV48o3yUwRQdHCykfbT84",
+    "reviews": [
+      {
+        "author_name": "Mo",
+        "author_url": "https://www.google.com/maps/contrib/111846097703259442754/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeWhEMvWyx1UitSSb-oHUl6WFSunGp8pCqpInIg8FEczj7EDX3cA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Absolutely fantastic experience at CARSTAR Vaudreuil! I work right next door and I can honestly say their team is top-notch. The service is quick, affordable, and everyone is always smiling and professional. They really know how to get the job done efficiently while keeping customers happy. A big thanks to Ghyslain and the team!",
+        "time": 1760026103,
+        "translated": false
+      },
+      {
+        "author_name": "Danny Delahunt",
+        "author_url": "https://www.google.com/maps/contrib/109403370265225048294/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxH51FqCmPoaNRW7w1wK30N62IRrX2iaiV7QAlty9wPAJvc7MGWg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Was in a front end collision at 60 k an hour. Sent car in and they fixed the bumper and charged 2500 plus. Get it back this morning my headlight doesn’t work and they say it’s not our problem it wasn’t broken then it went into limp mode and died. Oh not our fault. Honda has it now. Cracked sparkplugs broken sensors and other issues that are obvious but according to them an accident couldn’t cause that. Honda disagreed and called my insurance Big lack of respect and their mechanics are worthless.",
+        "time": 1765998267,
+        "translated": false
+      },
+      {
+        "author_name": "Jordan Austin",
+        "author_url": "https://www.google.com/maps/contrib/106620807716729503783/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_90D6sdxH7Tu-GhkRmSTfpAFm8XvsODYz0gr-FJihpGHE_wo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "I went for an estimate everything was good I brought my car in and all was good I got my car back.......it was still crooked talk to the boss at the location and he pulls out a measuring tape and measured away but the uneven gaps all over don't lie he's blue in the face saying that it's straight bring it back they say one day now turned in 3days maybe more hope it's actually straight and no call back to tell me it will take longer and thus man is rude!!!!!! I know I haven't been nice but like cut the bs bud it's not straight ......zoom in on those pics after 1st visit and he says that's straight will update when I finally receive my car.......\n\nUPDATE: got my car back spoke with a gentleman from head office and for the delivery of my car all is good now",
+        "time": 1739386041,
+        "translated": false
+      },
+      {
+        "author_name": "Daniel Grabas",
+        "author_url": "https://www.google.com/maps/contrib/111177867792744819667/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpe5r9bcB5m19iIqk32Gua7aHm8pKIC0Vz1bTe9klw5KZbTw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Absolutely amazing experience with CARSTAR Vaudreuil! From start to finish, the service was top-notch. The team was incredibly helpful, answering all my questions and making sure I felt confident in the process. They worked quickly and efficiently, and I was blown away by the quality of the repair. Not only was the work done to perfection, but the price was also very reasonable. It’s rare to find a place that combines speed, quality, and affordability so well. I highly recommend CARSTAR Vaudreuil to anyone in need of auto body repairs. Five stars all the way!",
+        "time": 1740674311,
+        "translated": false
+      },
+      {
+        "author_name": "Thomas Carpenter",
+        "author_url": "https://www.google.com/maps/contrib/118239995025197003098/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX23gNlMG8d_IwUdTXlW2pPOgOFVRVQs1WBZqG-MB-aNznAI7F5Kw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "My insurance recommended me to this location for a damage claim, and their quality and service was impeccable.  They were communicative with everything in the process, and not only did they do excellent work repairing the vehicle, which was completed in a very timely manner, they even went beyond and I noticed that they'd washed the car and even did a light clean of the interior.  Very impressed.",
+        "time": 1698452672,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14866341996364222785",
+    "user_ratings_total": 40,
+    "utc_offset": -300,
+    "vicinity": "115 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "https://www.carstar.ca/en/locations/qc/vaudreuil/carstar-vaudreuil-16354",
+    "wheelchair_accessible_entrance": true
+  }
+}

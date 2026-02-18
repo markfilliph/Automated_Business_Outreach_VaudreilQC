@@ -1,0 +1,397 @@
+{
+  "query": "Montréal Brique et Pierre - St-Lazare, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338396.8453991,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "550",
+        "short_name": "550",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2A7",
+        "short_name": "J7T 2A7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">550 Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2A7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "550 Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7T 2A7, Canada",
+    "formatted_phone_number": "(450) 510-5551",
+    "geometry": {
+      "location": {
+        "lat": 45.3819406,
+        "lng": -74.09444599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38341138029151,
+          "lng": -74.09318001970848
+        },
+        "southwest": {
+          "lat": 45.38071341970851,
+          "lng": -74.09587798029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-510-5551",
+    "name": "Montréal Brique et Pierre - St-Lazare",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107027007698622444689\">Montréal Brique et Pierre - St-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfUrkbZvb7hdpZlRaufVPx9rR15lFM0przcvtcgqwD8AymaBuseh7KeTuqHXA9kI7pNswsW19grjH4f01pWbYbpxRQn6aQ43Xa8Ej41NjzWuJrOwMOFwXcMIzNndOPADkNFOWo4xkPqitBTvCQKbkMnfdlYjpHL2cz1vDFjA5xc9Au4OTWOMXzj32mPMIPpOpMrOWlonGE8ZGhcj4dmpFHrRXA988a-kqtUIP2d5HQ2LjsDKoFnBjM3bRf-yNk06pbLFS_3jceDRVROcAcL-ci90VrOTQEwKq1MgdGfU-Aqdsw",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107027007698622444689\">Montréal Brique et Pierre - St-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfUsSMUA0jok5Ra2R_4vOv8jylTi8ZpdcHHJp_jgtwlFMj4oNU3vImiXUafYFLwhCAtPHuksu_rTnOh-puFB8rjwHL8ZA3IJuXrsdf8pob842W3ngYxEk9SFwlu-7kfdsO8ToKhPgzBzsONYuMUIiPM8Te6QpZFi40v9NoZIllt1oKiGbA7pzVlwdbjUrLVwbW4YdWVmYKJokeGmk7xE_ST2PWG3ysxVYHwWVoXAdhIh9yCO_p4sXAF5Vu02zBey1sXppvH5_EFFYDFFxhJLhobCpH3rPwaEJtuQv3rvPnskJg",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107027007698622444689\">Montréal Brique et Pierre - St-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfUwO2Rc_cl81-OwuOXUF8IHsXwOEo5eIbG6c_KozqNJ_iQ4Thhy5gU9K9akCKsCGyg2v4aLV4bD4nElbYHbtsbXFZoE184bxQTKxx4ufhs4TF4nhiFcUh3KVbGBjGRLBceAGaErrDq05C1AOqQ1tf1v8Na7pxnnwipxPuLiWuv_GfzHXdE1Avr0RlEA-DbkKtDcmSLH_jO-4KSH660WOJmZdOMQHvyeDdqg-wU7lpoSDfWct5l5vANwdhkfU-pxseFHH7zcay0MniHOa2ije3VEvnAUbpD24sSb8KKGUC5pLA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104848913934000757741\">jennifer maroufi</a>"
+        ],
+        "photo_reference": "ATCDNfUURWCeAXGB0OBdDJX6Yn4IQfn4lpwQR7WJgQ8E5_zCAJy0jL5vq-RYnB2JKinBUv390jAXS0gJRFp4CCWmZtVKxob9C1mo9mdbPY7FqllTmU7PoQAczUfvoiQT-hRd3zRowdu6Me0Cjd6upU-2_Xkr5fFD4fPBwY4jwVCmj2HXwyJkY2JgHAInm8RIa2JhAxc5M1Q9WwdkFwWaNAkC9_qKeVmRXCtFGN107m4qYyFjp_3bYGRroPWGGAngE9oiLRzpAzISqkNjRJh6TmQHnGE1AqaD44fyU964pdemBIcGSkZSnVuXQBIDvekBjtop02l1qLq7N0A6oUkjZABbCqeEieId0mAIE_AntiAox3frN8bvVDbSYKJ7ePtXKpa7yitdy_dQDFWYGrCg-nTM4usnM_7tEBa_zEobAatZwJ2Irg",
+        "width": 3024
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107027007698622444689\">Montréal Brique et Pierre - St-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfUt9DpJSPxsuQumMEBksullBKLEuNTSIt8CKRmcOBTA_JO-fhxKIVNt8EbeyVckTwpg_8Y4ymRgESk3egK6Vrfk4D7L6Vre-k80X8HpGLBptf--bseVgKLb1jx3aGDi7lhRUihWJmVMfKEJU53qPRYqkJi0c4DpLdR0ymHguyAPssIJhhQN9VR7dHZqtVgE44dTszj364iCbp-KF1UHcRZIL5pVvI5gArBHBbZd5jV3glJoCSoXq8qmXpn8cAJFVBnfqPVdwzb6s7AHiiMFR-makSG8ipag7F3jztRbhxKQ6A",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107027007698622444689\">Montréal Brique et Pierre - St-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfXny3f1m-GhBMi0n8JDNWY8NIUPYfNQRHR3fEm8u_sNI33T1trvAi6ZVsb5AdQ99KLJwnTp3yzXOZUaTbOZnJVYdNexj-Rea5dsaWiSQXraBIbTWXac8dueP7ilFbSOg1fNS7uW4cIem-SjkQSzkS_E7FMKVI-BzGtS7-tzMT5saZ8AwAvQgXXizJYho68Uhxq6xXQxPljHfiP74cZi0yyRE7NB4W8QE1gDf4XwwKJ8kDXTKvYhSVAUT1kQi5sKFs9CLeWZAku2ANVATmaR1oQrsRcO8g_k1kXF44HN-Dh9vg",
+        "width": 3024
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107027007698622444689\">Montréal Brique et Pierre - St-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfVTcO6JftRniscJIr4F2vyQXK9LJwLO2eDsFQ_y_eQZrvaE9wmYhhnioyKlDKO9YoJ3_eMuw0IVyymP9htBRXF1vvQr6RayOXTHYSSNlnKlJvdFV9_aqpMTyJgsp33IoIWXX2fXQkjxqaLECSedDe-vdjJke-ydlXdpAKo515Q1Hf00DesShOSLZYzZBmzNth8SFA6u6r1KD868Rv-DaM2Dl-g5fLVpNk-sNpq4HvpJW__Bc3FH8IuOHeehtwjJONbjoHUeZx_PKQlshY22I8Fq2kY5yDNO6voM8DJqXrn9jw",
+        "width": 2048
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107027007698622444689\">Montréal Brique et Pierre - St-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfViihgbCMDCQ0m4AqlCIlJLU58XxMUIsXHcIpKe_F_eNYFF802vW3kSv-SuGcSm6IUsr6ddFTOWysIo_OUoiiUaPxm_MSeKnEvccPE1wSnmTtGscIr-uLgjpXRh1pBP1jf8U9yy-2vy6Pa1H_y8ViFTJRh_49ZbQoIcFUUxc0A-V8OD5UXzEL2urq34pkvmtzMMLxbGvzpdY8xWQ1VRrTT2a70Pa2YahNAjUw-uORZi0eQwwuuD4PAE3bTUqiIJfud03nTij9shF9ATPXd6VltcyllnqZeh8FPkfMxysBUmIw",
+        "width": 3264
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107027007698622444689\">Montréal Brique et Pierre - St-Lazare</a>"
+        ],
+        "photo_reference": "ATCDNfWdaQNJ4Y_MgClrFslv9NLzPs9SvxZeALHxgqzjXNvED-9P-KshPWM20-FcvdePrXPCq6t6gHTpGHRqaR6dahdegqZhkfQPPAA7wqzv94gq6mmx5uCX9wGte0eP6r80tWJV4VthwT2EnJM_duLAEXEucCjEab6qMIIYLIgbMYcuO4sEWWFf2ZWpfu6U_otQVeT1GYVKimonTHgew_tCUAHr0CtJDDYW4UyvwQMlJ20FJUKQfHeacpjjJFwKpkYCBeQL_C-GvTA0grFIlZt6d-8lJvCcVclWv2qQtCrWOa8tLw",
+        "width": 3024
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116179107298053448060\">Michael Cariglia</a>"
+        ],
+        "photo_reference": "ATCDNfX_3mC4NDPLyC4xpI_SJPQSk1rX6_WceAsn8OfKa7m1a-sXqP9hHWPRpfwI7ACIMeDeGNEMPJLuLl2N4mv3d0zX9wmKULa5-Pg76rnMkuOJkai7o4TeXVjo5ETt3O4EREbaOWus23HjVvG_AS0l47UJAlfOttJJlkOseeXKQeQGJNpcaGytbw_CvXuATvkIUVwKJvCCqBPsqV0wBGXaKKtr-QHCMB5nnijXWhQxFVenhVC3rG8EkIuQFcY9_RoarrnZh5DPrhU9h0BLDmImv_2SzfmBqPFeNa0DDFKgI4QQugg2S2kMsbZPs4YMKkY-XHXUNNW8yGfSBiWozXJIsVubHbVkXulLHbe4DCtupDeLwq7-KH6DVf2dGkvKo04COZ42WtF97NJUYe7vRwxqtXnsN7e_aqp_zcD0bJm142N3bxYD",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJfYVngfNJyUwRbO1Nqjb4EBU",
+    "plus_code": {
+      "compound_code": "9WJ4+Q6 Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WJ4+Q6"
+    },
+    "rating": 3.8,
+    "reference": "ChIJfYVngfNJyUwRbO1Nqjb4EBU",
+    "reviews": [
+      {
+        "author_name": "scott jones",
+        "author_url": "https://www.google.com/maps/contrib/112895576721116314596/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRNjmMgdL5emVq3pmg5cJSsrWgO4Tl4TfqJ12Qt2JI9S_9jA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Napoleon gas fireplace insert  GL18 purchase and installation:\n\nInitial service provided at the store was great until there was an installation problem that was detected after the first year.\nThe remote control receiver was installed in the wrong location under the log set and it actually melted. Tried to get a service call several times, but was told they did not have a technician. I waited several months for a call back appointment, that never happened and then finally contacted another company . The other company installed a new controller with a heat shield. At that point,  I asked Montreal Brick & fireplace St. Lazare to just reimburse me for  the cost for the replacement controller. I have them a copy of the receipt from the other company. They said they would look into it and refused to do so… They decided not to take responsibility for their installation mishap.\nI would not recommend them for after sales service.\nSpoke to their manager at the Laval branch and he said, “ it was not their problem since the fireplace was out of warranty.”\nReally!!!\nIt cost me $400 dollars for the repair, it is not about the money. Customer service is paramount, if you want to stay in business.\nBuyer beware…\n\nThank you for your response. In fact the controller was installed under the log set and not where you stated the technician should have installed it . If he had installed it as per the instructions it would not have melted!\n\nI stand by my review.",
+        "time": 1706996152,
+        "translated": false
+      },
+      {
+        "author_name": "Ivan Baliello",
+        "author_url": "https://www.google.com/maps/contrib/117048189018080642473/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxuO8BglVoj4zqazHwl0iNJAlVoCPVZlztoYDrptn8mgazp1I=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Bought 2 regency wood burning fireplaces for approx 10k. Install was good. However after service is absolutely horrible, beware!! Doors on both units do not close properly, been waiting since March to get them fixed ( 9 months ago). They initially sent a technician, but he only new how to fix propane fireplaces so the repair was not done. Called Yan at least 6 times since then, always promises, but no results. Beware of buying from this company, as if there is a problem, there is NO after purchase support.",
+        "time": 1638714189,
+        "translated": false
+      },
+      {
+        "author_name": "Doug Finn",
+        "author_url": "https://www.google.com/maps/contrib/115919620885225501251/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKz3hOxnNXbdk2fMLG6sYWzDXPGagM4hT30itLBVbomJrxTPg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Ordered a fireplace and stone, took a couple of months for delivery. The stone delivered did not match what we had ordered, so we had to return it. They put us in touch with their supplier and a suitable replacement could not be found. Their refund process isn't the best as they send the paperwork to a Laval location to approve the refund and issue a cheque. We asked for a credit to our credit card instead of waiting for a cheque, and after a lot of hassle, was able to get the credit. We found a better product at a different supplier and were able to get the stone in 1 week. The fireplace was delivered on time in January but missing one critical part in order to operate. At least we were able to install it during our renovation. We were initially told the missing part would take a week for delivery. After a few weeks we learned it was backordered to March. It was finally delivered on March 29th. I am giving them one star because they do not respond to emails or phone messages, their customer service is poor and they argue with you instead of trying to fix the issues. Their fireplaces are nice, their technicians are good and professional. I would not however shop here again.",
+        "time": 1617219135,
+        "translated": false
+      },
+      {
+        "author_name": "Chris Sarka",
+        "author_url": "https://www.google.com/maps/contrib/109664237260572181228/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx-ZJLwZCsmVaZji_9YuHpIvKFmrpPRCcDcdkxiTSBctEvLFaHig=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "We bought a fireplace from here 2 years ago and enjoyed the experience at the time, that's why I had given 5 stars. However, our soapstone liner within the fireplace cracked. I contacted Montreal Brique et Pierre to find out if I was covered under warranty and for pricing on replacement. I waited over 2 months for many promised call backs, and I was only finally contacted after I left a bad review here. I have since received the info I needed. Thank you.",
+        "time": 1669987950,
+        "translated": false
+      },
+      {
+        "author_name": "Alain Carrier",
+        "author_url": "https://www.google.com/maps/contrib/105210524487150345998/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsSZLyrJuhJEV3H6lp8aGP-IQVEp2RdFIzDhVo_zG10B5iMSB_=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "We place an order two months ago.\nFinaly the order arrived… to realize that they order only the half of it and we have to wait for the rest of it.  It's supose to be \"rush order\" so we could use our stove… it's been a week no news yet.\n\nThis is the worst service to the clients that I ever encounter. I worked with clients for 35 years.\n\nThe staff at Brique et Pierre were impolite and rude. And try to say that's it's our fault because it's what we order.\n\nWe have to go twice to the store.  Two different person… we got the same treatment regarding the attitude and services…..",
+        "time": 1671659991,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1517985988093013356",
+    "user_ratings_total": 93,
+    "utc_offset": -300,
+    "vicinity": "550 Rte de la Cité-des-Jeunes, Saint-Lazare",
+    "website": "http://www.mtlbp.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "query": "Flex Orthodontistes, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339676.5489662,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "10",
+        "short_name": "10",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3040",
+        "short_name": "3040",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H1",
+        "short_name": "J7V 0H1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3040 Bd de la Gare #10</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "special_days": [
+        {
+          "date": "2026-02-21",
+          "exceptional_hours": true
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: 9:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3040 Bd de la Gare #10, Vaudreuil-Dorion, QC J7V 0H1, Canada",
+    "formatted_phone_number": "(450) 319-0338",
+    "geometry": {
+      "location": {
+        "lat": 45.3958503,
+        "lng": -74.05484419999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3971500302915,
+          "lng": -74.0535399697085
+        },
+        "southwest": {
+          "lat": 45.3944520697085,
+          "lng": -74.0562379302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-319-0338",
+    "name": "Flex Orthodontistes",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101592717399060416818\">Flex Orthodontistes</a>"
+        ],
+        "photo_reference": "ATCDNfX-28oqGimuk2XIgcGnagtnsLx6N1at_rfEADvp4-Gep1djJh1Fy-n8lf_UM4rXxSelBBAprcxp8e9Xj89SoXe2dtdELel-tn66KoP9EX3NHHNQ5D3bTEJdDK15Q49jJqLRPXvBmelVbIZ9coJWPDZsSGrEOfB7l6eQ8P0sUywF-2hsel4jYc7YmMYYJMtfKJ67PcIAxA1xeaK3vBomvcuTW0Ov-FYmLA4EKvR_ApLnnndyxGYQl21kVKIFmvaw80H-JdRIfxSjTc-9KCbTh03a9HuJ55HJXvTsxoOS7lKE3Q",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101592717399060416818\">Flex Orthodontistes</a>"
+        ],
+        "photo_reference": "ATCDNfW_KNDUuP1VIoXjb7AyeG3l1-ZbqvmiFtlVVCyKS3QZ0zVIkTBNccgpp0wZg-3rnc9qoVi4SPbEeBYVthKWAaBzaZeZg7RgfMyj198xSXOE76yhj0mbRHf1nvXpIgXrnToDd7xrjCBG3lSB0kYdrhFhkF4JCP1Nc6NjzkkgWNmDbZb3q9j-_PYHFFg3ggXj-rFLWfzDuYyQkB-F6llHtMaddu5-6xpVl3LWKVmg_z8MNp9Eflz3qc5CH8JaWN7zStklf609BzXTLpRsXiLKV17j1NUkn377No4-HBw6HNVWPA",
+        "width": 3024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101592717399060416818\">Flex Orthodontistes</a>"
+        ],
+        "photo_reference": "ATCDNfVh2DLqVYf5Jl8qj3pWhgYJsUvYsZcZB5FpLG8TQ5j99p3aldqi_y3LITQBVbFB-eBc-uTeLPlyEqnLiOBBBAJkjNL_1AME9AMSvAlR7SLuIcCWjR5XrfsFw4vaOsKi-Vx-I5RkQFl81hI_Ky7RaaH49tmT4yZdeJ8N3Vs1iBCwFBLwMpEyqWvyiJeokTTgs5K2aMu1_8m0fDgnkYN5i7LEK4lrGR7wOpC5swL5-VhYzcA8DGvtb_3iMsmWXlZqkxxklAJMmj7mdgXA9Y_L25c8NET00O9-ySVKYLfDy7ckMg",
+        "width": 540
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWUKynFMySdqGpjhmDRo9ZLlEaL6-NXxiel8FoCg2qEFBLK58efL-HXF_0TP3rlDomiuRPXNIEwWJYvndECs3wKWOG2AeaKIWzhYzOGpxCFkYFHi2fymkQvOLRw4M343Qu5gWYljggJmk7fLu6BuNwkOcBjNsEZnMme46abq86lrDam_g_sgHzvYZDebWDl6kZNO_CppwAwXPXXjxURmnty3sVinEtYZpNAC-SaCs7PaTpGC-62AqXuTS7aJAh9UO5yFv-NX8hPIMcXg4HlPoxeG8aBEbuLTo7xd2UA2cv2N7TPhjxzH-1RKVVr6qdEn-XkdMTjxC3g3RdSiDRHZBFlc8JiKT2rpl7qgB4YcBQxVdzt0GURY3f4ghlLfZYbizxMygRdYI3saIfsQ51ZYEM6pRXEFBx_9KELQreQ2NsZHnJuvNBamkKmNyk2XDOI",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116764104098961754135\">Jason T</a>"
+        ],
+        "photo_reference": "ATCDNfVBKrIZ9otb2ya7ewNgbbUt6VhA2pDxF4wtpokHXfAxdupGTMrcRsHO9z71DeIW0WJI-eZvT9XiFYTrqyTc3MBzt5uDorEH0IPzXaqwcuSI6Xk5qd-Wkc6qL-F0bCcl1jTRCWRQum7nQez5ldRTY7dhM0UL90hqM6fC6Lf4MvphO_PD8brciYjB63Ud_swTR5zUeBEz5evt1IwqVYsjRsSUtgFkridrAghtwAJEuWGC8GAClIGprekBphvjlRhIzaEPnGwtMR-RXlWnJefL7w9KNvyrk3cgNrbxsdk0lVln-SJb7hP49K8GCdCabEhe0zT2vKHGnVneCAb_pe9l3W-qAi8FjZMujgy7Q0SBgABiH1RfVo_a1f7kSsXXlqAd5ei52F3btAWAnWghHUl16OAH9k679f8TCqGYlhIJaFF6CjHk",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101592717399060416818\">Flex Orthodontistes</a>"
+        ],
+        "photo_reference": "ATCDNfUzAEBGkgzscECB2Pkv4xkSWvXpxr52NqU5SBkQC9fiDFJigkQPrNNslPQMadrxs8CE0mi5zetPokBzMQIrZWrUO0iaFb1bAXYQocW9xVbNvHhlQ1wG_PgSIfz7ZoXe-mD1bIHKfHoqXJICy3EmBSGka9eMq26xPyFzePM8KXARwbRh13RDCbtNp9smIzfWzkGp-1xl8nsEyGDoE43JT1SLd5cxuZ82i8LTqDVUw6WYcL4H4D7lMjgos0aXIL6DuF7mdG5fB3zOaFlIGiInVXoMuXH5lAM87RcX-iybrTO9YA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101592717399060416818\">Flex Orthodontistes</a>"
+        ],
+        "photo_reference": "ATCDNfVhPnggQ9hxJ3wUcVVaON3g3RKFXWh6qkmOpE_Uxc28MElzPnTHJKY9TJGfrcPQ_SarC8eaChD5PSFP9kV9F5sAHw2fG99w2uxBVUgvwsUW61Lm3RuGpSXGrQGD6CBR--TCZHsFPRF-ctaoYEXC-ukhrWSpJOPf5se2DtAPmXoGVe8Fa5POHbKf-01ZymGumc5q9-qwga-0AFCta7w-b9pKTnH6FONgL1_rWBcm9MFw0vJNQLb9s-RSJYhqeK_PwN3eMVTqxALV4S7hyj4UcSnqXvtdkZjlcAWR44YRF8baYQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101592717399060416818\">Flex Orthodontistes</a>"
+        ],
+        "photo_reference": "ATCDNfW4F43sB2fx7QK2uXWs3M0qjqZk-3iy1tP9H0WHfNDxlhVP5O7d_nVuBskrBZeJwBuvHdihSUXi3Ke7dGkCdo6EAEUbSSaYJsiM059QmFtSV-Bvq5LbjgXmibPUWnMaaJ-ba1ovOouxtAWa94HeJelp3uk0S2VKwmjyb62jVlFlIYrLWJSkbq6Wyn5DcHbGPwhTvTA4gbVqq8P3uluMh8X6ZC2uvCq0TFi7of36HtW6VHpD5ZmF88B2ng4yiX9Xf3pN7rn1sJr-9ctJPWWNY7R79ZgvVQNoGs4VP8UhtP3Etw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101592717399060416818\">Flex Orthodontistes</a>"
+        ],
+        "photo_reference": "ATCDNfXHc__KqHDEEgDE8P8NBUm6iIo3YBk-70nlte8W0WN07UmFafzCJxJChxDB3lu2DRZZEVDrQrxWePEWPe6NG3JR7OMwXKC_WeaRAPnTokqVqebRvqE6yX_uYl4CXJc9BoPQtzUl1CkpwRtfyNlyO0PFAhwm6gu49Fssp2qxt_copH0Jlg_t57KBCL6Sl_awLphZLurpEAVzMpuHzlq4lCO0qs6ogWUvfdofoOc8L8gbeVkTNO0qD8wFiH0JLTqShQmUaL5QBZJcrwS8-Ska8mvywbs2DfDck8R3zMzGnDNWbQ",
+        "width": 3024
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfWxmS9b8g8mQLaBZuREmhFfBkuPfyHqBdonb8HrL2vaWw7rYguPYiDrsyOBJXinAw6yg1faYaa0dhViZh7Bjitpy2eSqKAhQK4vFpchlLLXvuvD0WE-1d1VRGNhI0dLdf_0czy1khKllawK6bQloK0sw59YVRuMzJiUaMaqd3mI_hmCeJCExGaPxgHBbJRoQV9mCHSU5oHvY5RfDrl3zc3U9Kokl-QQnaebau65FNE08yhyUPKE4zxw1kOedl2G0sJbvPMfNSin99XU5ed1_TY8QIPB7nA1xjyiWRWzyblAu7d_-I3H3eZJwqL8PTiBqk1arqdG6Y_oy8pOstZy91eCRvtzip2y_zX_hRU0nEcwhyZn193MsHp55G9zWWoFuW5hshpmAAHbpPodrtdYuqYcgDQlpt2YWJxKhlS9nOU6pQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJh3GaIf43yUwRxT9p6qYaKtk",
+    "plus_code": {
+      "compound_code": "9WWW+83 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWW+83"
+    },
+    "rating": 5,
+    "reference": "ChIJh3GaIf43yUwRxT9p6qYaKtk",
+    "reviews": [
+      {
+        "author_name": "Martin G",
+        "author_url": "https://www.google.com/maps/contrib/118148974653044810997/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0D6dFBIul9lpkpu-ERaeMEqujmM4uJ5jYyQ58zyNOhSpwLw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "We had a great experience at this clinic. We went for a consultation for my son. The staff was very friendly and professional. Dr. Rossi and the hygienist (Catherine) were great with my son and took the time to answer his questions. I highly recommend them. The office is really nice too!",
+        "time": 1759948273,
+        "translated": false
+      },
+      {
+        "author_name": "Annick berard",
+        "author_url": "https://www.google.com/maps/contrib/102939342470245238174/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJj_A6D9tI2PFCcJ-9DUJOwzUkepDf-v8oWPNuiAi_rN4KtDw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I had such a great experience at this clinic. I went in for a consultation and was really impressed with how professional and honest they were. They provided me with different options, explained everything clearly, and didn’t try to pressure me into anything. In fact, they told me straight up that my case was purely esthetic, with no long-term health repercussions if I chose not to go ahead with treatment. I really appreciated that level of transparency and honesty, it gave me a lot of trust in their practice. Highly recommend this clinic if you’re looking for an orthodontist who truly has your best interests at heart.",
+        "time": 1758739591,
+        "translated": false
+      },
+      {
+        "author_name": "Matt Zak",
+        "author_url": "https://www.google.com/maps/contrib/117752469239406567180/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6lhVzRqfA3pLcGvUxepAJNRjHN8eURWxvx4TM2_ZxT4v2-h63Rw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Wonderful team, especially Dr. Gaston Morell who is a great person, takes time to be sure of the details, and is very genuine. One thing that makes his approach all the different is his drive to make sure that everything is perfect, following structure and coherence, and to make sure that only the best possible outcomes are not just likely, but a guarantee.",
+        "time": 1765693423,
+        "translated": false
+      },
+      {
+        "author_name": "Alexandria",
+        "author_url": "https://www.google.com/maps/contrib/100519582486568040908/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-MC5c0vcmzZIliK2hZJbuqc2OLD2ShFSvTAnB93kKTUMR6A4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "From the first visit, I felt completely comfortable. The staff is always friendly, the office is always clean, and they’re great at working with my schedule. My results are fantastic and I'm so happy with my smile! I highly recommend",
+        "time": 1759515364,
+        "translated": false
+      },
+      {
+        "author_name": "Suzanne Lass",
+        "author_url": "https://www.google.com/maps/contrib/114358040976290474871/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUj99kemn2sraWS_mfLl0gBHZvZNLwbmk7mGqi7P2X50zmilVE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Best orthodontist clinic. Every staff member is friendly, competent and accommodating. My son's smile is gorgeous. I would recommend this clinic without hesitation.",
+        "time": 1768103146,
+        "translated": false
+      }
+    ],
+    "types": [
+      "dentist",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15648349159451869125",
+    "user_ratings_total": 117,
+    "utc_offset": -300,
+    "vicinity": "3040 Bd de la Gare #10, Vaudreuil-Dorion",
+    "website": "http://www.flexortho.ca/"
+  }
+}

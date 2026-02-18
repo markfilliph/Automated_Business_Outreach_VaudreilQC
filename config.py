@@ -30,44 +30,59 @@ GEO_BOUNDS = {
 EXCLUDED_SECTOR_KEYWORDS = [
     # --- Retail & B2C ---
     "boutique", "magasin", "store", "shop", "outlet", "mall", "centre commercial",
-    "vape", "tabagie", "dépanneur", "convenience", "liquor", "saq",
+    "vape", "tabagie", "dépanneur", "depanneur", "convenience", "liquor", "saq",
     "fleuriste", "florist", "gift", "cadeau", "bijouterie", "jewel",
+    "supermarche", "supermarché", "grocery", "épicerie", "epicerie", "iga",
+    "sqdc",  # Government cannabis retail
 
     # --- Personal Services (The "Solopreneur" Kill List) ---
-    "coiffure", "salon", "barber", "esthetique", "aesthetic", "spa", "massage",
-    "ongles", "nails", "tanning", "bronze", "epilation", "laser",
+    "coiffure", "salon", "barber", "esthetique", "esthétique", "aesthetic", "spa", "massage",
+    "ongles", "nails", "tanning", "bronze", "epilation", "épilation", "laser",
     "nettoyeur", "cleaners", "buanderie", "laundry", "couture", "tailor",
+    "beauty", "beaute", "beauté",  # Beauty salons
 
     # --- Health & Medical (Practices, not Businesses) ---
-    "dentist", "dentaire", "ortho", "clinic", "clinique", "medical", "sante",
-    "docteur", "dr.", "dre.", "md", "physio", "chiro", "osteo", "ergo",
-    "pharmacie", "pharmacy", "jean coutu", "uniprix", "familiprix",
-    "veterinaire", "vet", "animal", "hopital", "hospital",
+    "dentist", "dentaire", "ortho", "clinic", "clinique", "medical", "médical", "sante", "santé",
+    "docteur", "dr.", "dre.", "md", "physio", "chiro", "osteo", "ostéo", "ergo",
+    "pharmacie", "pharmacy", "jean coutu", "uniprix", "familiprix", "pharmaprix",
+    "veterinaire", "vétérinaire", "vet ", "animal", "hopital", "hôpital", "hospital",
 
     # --- Real Estate & Financial (Agents/Brokers) ---
     "courtier", "broker", "immobilier", "real estate", "remax", "royal lepage",
-    "sutton", "via capitale", "hypotheque", "mortgage", "bank", "banque",
+    "sutton", "via capitale", "hypotheque", "hypothèque", "mortgage", "bank", "banque",
     "caisse", "desjardins", "assurance", "insurance", "invest", "finance",
 
     # --- Professional Services (Independent Consultants) ---
     "notaire", "notary", "avocat", "lawyer", "legal", "juridi",
-    "comptable", "cpa", "accountant", "bookkeep", "impot", "tax",
+    "comptable", "cpa", "accountant", "accounting", "bookkeep", "impot", "impôt", "tax",
     "consultant", "conseil", "gestion", "management",
 
     # --- Education & Childcare ---
-    "ecole", "school", "college", "cpe", "garderie", "daycare", "centre de la petite enfance",
-    "education", "tutor", "lecon", "lesson", "formation", "training",
-    "gym", "yoga", "pilates", "fitness", "crossfit", "martial", "karate", "dance",
+    "ecole", "école", "school", "college", "collège", "cpe", "garderie", "daycare",
+    "centre de la petite enfance",
+    "education", "éducation", "tutor", "lecon", "leçon", "lesson", "formation", "training",
+    "gym", "yoga", "pilates", "fitness", "crossfit", "martial", "karate", "karaté", "dance", "danse",
 
     # --- Food Service ---
-    "restaurant", "restau", "bistro", "cafe", "coffee", "bar", "pub", "club",
+    "restaurant", "restau", "bistro", "cafe", "café", "coffee", "bar ", " bar", "pub", "club",
     "pizza", "sushi", "burger", "grill", "cantine", "traiteur", "catering",
-    "tim hortons", "mcdonald", "subway",
+    "tim hortons", "mcdonald", "subway", "a&w", "wendy", "burger king",
+    "bakery", "boulangerie", "patisserie", "pâtisserie", "gateau", "gâteau",  # Bakeries
 
     # --- Religious & Non-Profit ---
-    "church", "église", "mosque", "synagogue",
-    "non-profit", "sans but lucratif", "osbl",
+    "church", "église", "eglise", "mosque", "synagogue",
+    "non-profit", "sans but lucratif", "osbl", "npo",
     "charity", "organisme communautaire",
+    "comité", "comite", "committee",  # Municipal committees
+
+    # --- Known Franchises (not independently acquirable) ---
+    "lebeau", "vitres d'autos", "auto glass", "belron",  # Lebeau/Belron franchise
+    "speedy", "midas", "meineke", "jiffy lube", "mr. lube",
+    "uhaul", "u-haul", "budget", "enterprise", "hertz", "avis",
+
+    # --- Known Subsidiaries / Large Corp Operations ---
+    "raylobec", "waste connections",  # Waste Connections Canada subsidiary
+    "waste management", "gfl", "terrapure",
 ]
 
 HIGH_VALUE_SECTOR_KEYWORDS = [

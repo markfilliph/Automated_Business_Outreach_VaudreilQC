@@ -1,0 +1,100 @@
+{
+  "query": "443 Rue Brunet, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338698.9980226,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "443",
+        "short_name": "443",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Brunet",
+        "short_name": "Rue Brunet",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 1Z8",
+        "short_name": "J7T 1Z8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">443 Rue Brunet</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 1Z8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "443 Rue Brunet, Saint-Lazare, QC J7T 1Z8, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.385717,
+        "lng": -74.0906162
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38701887893166,
+          "lng": -74.08923014950545
+        },
+        "southwest": {
+          "lat": 45.38432091834867,
+          "lng": -74.09192811008846
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "443 Rue Brunet",
+    "place_id": "ChIJgxz4G_FJyUwRUclewfCHLEM",
+    "reference": "ChIJgxz4G_FJyUwRUclewfCHLEM",
+    "types": [
+      "premise",
+      "street_address"
+    ],
+    "url": "https://maps.google.com/?cid=4840393167622555985",
+    "utc_offset": -300,
+    "vicinity": "443 Rue Brunet, Saint-Lazare"
+  }
+}

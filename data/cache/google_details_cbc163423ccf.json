@@ -1,0 +1,457 @@
+{
+  "query": "Eggscrepes, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338495.8165102,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "349",
+        "short_name": "349",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7W1",
+        "short_name": "J7V 7W1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">349 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7W1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 2:00 PM",
+        "Tuesday: 6:00 AM – 2:00 PM",
+        "Wednesday: 6:00 AM – 2:00 PM",
+        "Thursday: 6:00 AM – 2:00 PM",
+        "Friday: 6:00 AM – 2:00 PM",
+        "Saturday: 6:00 AM – 2:00 PM",
+        "Sunday: 7:00 AM – 2:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "349 Bd Harwood, Vaudreuil-Dorion, QC J7V 7W1, Canada",
+    "formatted_phone_number": "(450) 455-4466",
+    "geometry": {
+      "location": {
+        "lat": 45.3808278,
+        "lng": -74.0175671
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3821437802915,
+          "lng": -74.01628631970848
+        },
+        "southwest": {
+          "lat": 45.3794458197085,
+          "lng": -74.0189842802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-455-4466",
+    "name": "Eggscrepes",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 2:00 PM",
+        "Tuesday: 6:00 AM – 2:00 PM",
+        "Wednesday: 6:00 AM – 2:00 PM",
+        "Thursday: 6:00 AM – 2:00 PM",
+        "Friday: 6:00 AM – 2:00 PM",
+        "Saturday: 6:00 AM – 2:00 PM",
+        "Sunday: 7:00 AM – 2:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfVwApKPQrhVAzk7uFGe0p8cB_RuGQ2llpZY2a-mKDlV8TSzQgWpNzHh_NyPLWxs5vsNpmhdxUNG-vAz6UIdG0E5RlxKU86fJHRWv59l-Rmhc3ShIqyvvWQSo94lsxwMoUFM5Qos37U2r8xhTVbqFQ2aYIt5io3bniAvH-J4a-euXbrzJOdsTUE_6G7GmTAdeUNKV35UTU-0fAWfNn_uRyBnrzRXi4d9nxivOVFO3ZfklUbMzwt5wfKuBLNDpwj2l4PEeA30kK_JDMOAlwT5_RlDasQqDmMhKGCmKbbSGv9WEFAL8sga5MrRHDyoLpaxU0E0fSm2GCCDbjx7AGmomNXO7uGToubZGErSfPPs-s-jgMFUABZ7coosNF633LZBhxGXoENqkCVxpC3X3dIUlCYgCy96KSuAQ5c",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117266287951336422081\">Isabelle A</a>"
+        ],
+        "photo_reference": "ATCDNfXMDZlFKm19m1AdCyFYib97wVxDjCl0pjSTC8HMF38NePOyHkc2ztkOO_nr6kxoxQttEETBBJF-Wtx_tPLBcpAexuQ0S2TznFkOq7GiztUUJHNiL2HrGfwZnVsX2b2fXRxCxoNQA97NgbPFEFhpH4-w5Vs3XWocP5ln2z11FzHJ-rwBzmqPiaEufRigdXSpGRLF34TO8H6DZauEEAw2F0vjQXcFwzzZlJ8-tRCUX4HLqPTqiEHqwaRS_RDIoZ05dnfj1mOXqr1ylISD2s2TrECc0ovra_8jcfMeuw9Ry7rsAQ6lnFmpUwThzhFQZOLP0JtAw3rijHp54G-frZ-HvbkvPJP3mYib-_EShEuWopl7hSXCBFaXlDToG6XrdZRPr06Kk9BYfw8kadocWTePnLgSQt-CAim08Cvquut7qvr4UA",
+        "width": 4000
+      },
+      {
+        "height": 743,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfUieWlFoTkajva2fKQ29RzJvxqrTOJRnFad4yh2fmnZdfypIGpZ3ROxxoeFveOoQw7Ok6fPaxWjhZ_kW8jPiazJ8TZj8QH-ti82_2fNVl4SoPcGD01_oWvmOy-eh4_uaVUoI5DgNZ_frkxXx91j0by4dE8HwCCEb0uuzOqnDvFAPFPbRMrx81TEWWK-07wBYnwKc_uY8ntzhPHCSdCesf2RtN_Kv_gjwurOgXNu_i1E7YU-M8PT8Rj95l0S5xxC7cwY_LfSu7H3ESqLNOxTJ7D733gwx5l7NPXhQdnl6JTpF0HGAXWMEkL9Drekz4gc6SBR0a9VU4ICYV7t5vqIXGVgP00GsA3UJvpYSmSuIMoIcin08FHzkdQUSVVOXIyXJoHsESZKrJjMRT37dNOaBVAJeT1XN_6ZHqgOFuZDbDduufGk",
+        "width": 742
+      },
+      {
+        "height": 741,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfV2wEJBJY6OgLZ_Z2iYlTYVUxTweUUoA452pqZzwOvSoIRGlTsX38UbVEPIcbf1Tg6VS_KscAhi0pxova9aia222mPscPWj0WBQLKFaC17cWVUoBTtMJrm0j9eiYz0Bpy1e063w8hCzcKEX6zHtAPDRpWl94pJnQ7-mf_qn99P7yMWBUSfrGH_QvDxuYzSSf3SVpa7Pa5ijUcgzJe3W3IUj3DS0bgek6XU6ItTkC98wUYUH_vjH1MrJzLIY8axOTZ9nIzk5sblbkYQfDXIY3AyQJbKBxyRtlduW2vn7rmRpIECEDqlDXOBKAeCIhhyz7BNoTq-dviszg0V9AghIWPvZTRyMx2dULa7kAKQtoGYr78SaS3j64A_RZu701NhG4Z58r1xJ04vjzmexSgod89Z_78y8_fxPKvl7hfoneXyG5Ttc",
+        "width": 750
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112956233201821464375\">Homayoun Mani</a>"
+        ],
+        "photo_reference": "ATCDNfXR9-BoQJ19jI79c0Xwwbv8hMPvPrwXDcIddjzNxejJZmFfpSjog4k6KobzSMlLUP2zdasaY_4IGeNsK_mLMX64inb89L9WE2RXJakbNe7AwszXgtSz0VJb3I5UhPKVNk9zA15jtbIByuVydQrKlOdT6lKok7Ln7OJpu7S-mvscEau5jwW41Ta9lIfmIXkml_KvsJEx1_tYT88TIQX_TEN23S9rroEI0ZtY2m1Y_fjK-icRu3-zDoRJIo0U0NX1iN03KJ52VoAan5kSAxH3r0QAYVohea8iHB1v4kfSfAJar_H855lg3waV_eoNGQCk6pnCEaZNdNZDY8w1KxvUvXaee2LE6DIcOQ2JeHaqnAU-5F4XHr332T9qaqCwYGcwPYbEnJHBh22bJj0TjjTLKjDkcfxiwr_ZkxaRohoZsdVzjJML",
+        "width": 3024
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110879921258771011158\">Mila Chern</a>"
+        ],
+        "photo_reference": "ATCDNfWnYXyWytTOK77R-kk9LqVXrcwCiO4rqvDYbHWvigRdCnG3XVGgzd1_Jtl4Rc8T-3v8FXjyumgJZidfEsnHGOF7QXpZOpy_1QAgwMMle_osFLt4ZnDkg9lac_7f5tp_hEqdkGDXpxT2lsPY1YyGuk7qEJWpXdVpm5Vd_5M05v-M5QG2KK4YqU7HlzxrraCs_69xtyREaC_vUctW94fJVkv3nfXN0CaEseTgfblXz6NTfc_1BNXoR9wKqcq_ilAvT2jdfOwUDCCzJYk2j7Sx8QeMzX7Yl4hgc6Ng-w31U1JNvUabzF0ZjVO-IRxqucijAzvG6TpG96RxC2LZ-N3MVFZYNqUS_fp90PqWAwCATrnaTGZTDtCyUXZmmqK0mr52S-L4Zj4KX11R1Wn_nHGhY1aN5kSOIpSgWoPvkznLM35yaA",
+        "width": 1920
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111471998506179974942\">Andrii</a>"
+        ],
+        "photo_reference": "ATCDNfU2Dk5-wJVOXRyRBO8TDNKjCgdKyOH0JuvKP3G_hobpHO_DrKYXa79SmCKJDukVLQlEQvBay7ZskStDbMnuC2e1iJreL-hX16nWKlrWFhAkzj_8z_aD84cli5zzUWsRq_3WfK1HOGR4aJCfYIy2YEOi0A0gGXv68t0RNWb6S34C2DjQYNEPfuk1eCt9uZs3OSvslKWbMBi8G1d5vQcVcbxMKxBtYSNvQcuN4Zfu9KNUrdI-zICQNgvalPai7SsjFd0D7PO-y91SHH60umOvwhPpSz9jd9sv9PItZ4mJZruFRsH6cdM8NWaRU6Dt3d9Hc6QT43_ak38APQI3pj54J4zGpcO9Y_cfKG7FsHP95zVuviPVRz7WDZCTCOisK_gzxK74H--rKunS8vBfM4b0DpS98y_4ZX6kooUH8WPaVgE",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfWI7NeQm-lVZY35tWGtQKpTjGJ_PCOmG_5auI1qsyEQY7UEBfM65fiHUyc46-KyGU0fp30jW64xcJeJHp3Vm3E-WZ7945rbZjww2qui3wEYHYOPO2vQrS_1fLYap9Z5Z4E8eJrAdMgTD9Bu4hIE3NiMLR4v5rnVUOvBlP8gDPRcNt1gMKBC4OEQntiq1L9F6OpTV7ZujbseC_u1m5r1WwrXhHV9snG4cbqzddnlLr4nBloqsPLBKh1qwoNV8UVaYaRXtfknOwq3WzcLm17bjxI_O7tY_kAGBDI9Q-oCDd8BDO0HisXsxvWS90KDJi3F620DO3dCFf_JDN01JR32R0-tfNd4CNWe_cCc7nME-cAIRkYhJMUj1EYZW_HzIa8CsVVNhrFqYtKhhY_S6s4odR6P7m7KCqJVsxDC2A5cAPj3IWI3",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117175410112690796415\">Peter Baran</a>"
+        ],
+        "photo_reference": "ATCDNfUBOuP-gBiPz3Su2GMjU2jYi7g25o6rwtks5s8EurJ7zdBkYPxeKdrwungOE2SU62TDEE2ExTP3GBmkc6EGimyVfVdAyLTSdn123TADlKxmTkvTsZhB47hHikWcTBVqXAo_9sbtvleBZWCWup-ZROloBfeRhhzu-pE4YCdjMAtDFSu4oxyfQ2ANTpcZB1Sk8-K430k4BbjYY4Mw6XlsB95Xxw4St7dZwHEqrVO9l1KEIqXk27F_PfIADPWj9vT7uFwh1C6InOv8EHVOegn4U7JoiVVzixqcgKdVeuMG0fLQoRmDoRJgy36CJq8Nqa5M_afUn4GHIpAw2ngn-vYXNFl8Mz4n638pW6eYeRX7WNaUsduBeEYsPyOa40_YsW4ZKmkFsHuyvqyLMSC1-BJ8pqcIJvIGhiYbKqg",
+        "width": 4032
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100687541660225784541\">Repaq mtl</a>"
+        ],
+        "photo_reference": "ATCDNfV-glLRtCF_n-OTAvA1KsVxN474tI8AAB-LkFytK_Eg1CdeBdZ5n9ThZVilLWOFXlYMw3onPFgXZM7E_3oVGCEp4dU5jGxuxRcaLAvXBXP0UkVIArYY5mbyyXRQtxruajojMtZfLqoQyd1WCxqARW4tfM6BHzSbdI2vq8bkv6ZUhFNKEOHultPc4DXe38GhmgX3RsI5I48rRkYpRLk_SRiw5HlKKMKOjw3vWusCK_awXqdyWlMBDI5RJN1_YMN84FmInKTtmK1mzTF5z1OIBARZYgbQa1_vIu_UQ2pMtKsT7CTiOl1oCutueh3lWCtzoaX_q81UVcpx6JYQUglZECfTz2XWyAgvI8aeLIttwDtoYORqEo47cWS_SEpeqkZSsjw9r27Di9fMCmHeIdNIGUvM-if2U0AY4rQL3NEFN0k",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJ2cv0nRlIyUwRD17UqIuuxIU",
+    "plus_code": {
+      "compound_code": "9XJJ+8X Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJJ+8X"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJ2cv0nRlIyUwRD17UqIuuxIU",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Steve Maclennan",
+        "author_url": "https://www.google.com/maps/contrib/116810980572758512204/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh4vYjsPVGGwYTq2tKdkAf_wMZu49tPy9r5GwCUq359rEyww=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Place us a dime it s the beat breakfast around hand down csnt compete quality cater to your needs and asks and wants  wish we had place like this eggs 10 out 10 cooked perfect and hospitality  awesomeness 👌",
+        "time": 1767215079,
+        "translated": false
+      },
+      {
+        "author_name": "Bahar Mirzazadeh",
+        "author_url": "https://www.google.com/maps/contrib/115562144122078006129/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKIC2r2fHpG-PqgVUAZpce3D6bpHn_seeh3vfoNcljajZRuEzB-A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "From the moment we walked in, the atmosphere was warm and welcoming. The menu offered a great variety of dishes, catering to both classic brunch lovers and those looking for something unique. I opted for the avocado toast with poached eggs, and it was perfectly done – fresh ingredients, beautifully presented, and incredibly tasty.\n\nThe service was also outstanding. Our server was attentive, friendly, and quick with recommendations. I also appreciated that they accommodated my dietary preferences without any fuss.\n\nThe coffee was excellent, and the mimosas were a delightful touch to round off the meal. All in all, it was a perfect spot for a relaxing and enjoyable brunch. I highly recommend it to anyone looking for great food and a comfortable.",
+        "time": 1729348721,
+        "translated": false
+      },
+      {
+        "author_name": "Homayoun Mani",
+        "author_url": "https://www.google.com/maps/contrib/112956233201821464375/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX070splXVC4lJYKGWFtWQSGG_U3ehSqb2AvX4MwqmUYf-26Hs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great spot for breakfast! The food was fresh and delicious, with a good variety of options. The service was quick and friendly, and the atmosphere was cozy. Highly recommend the pancakes and coffee. Perfect way to start the day!",
+        "time": 1729349585,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "This is our favourite place for breakfast in Vaudreuil-Dorion! Wonderful french toasts and chocolate sauce! My husband loves their Breakfast à Denis, yummy brown sauce! Always look forward to see what the special du mois is :)",
+        "time": 1541324852,
+        "translated": false
+      },
+      {
+        "author_name": "Eric",
+        "author_url": "https://www.google.com/maps/contrib/104498424660183582615/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVfAMhkiOnsCmrkmQYYliG72TJXSSx1gvKNA-dw3Rk7fzDhOU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Do not go! The eggs were cold, the bean’s watery, the bread over toasted and the fruits chewy in a very strange way.\n\nMy beautiful wife threw up twice when we got home about a five minute drive.\n\nAbsolutely disgusting and over priced for what you get.\n\nI do not recommend this place.\n\nThere is a hotdog place in the next building. They have a very good breakfast for half the price. Service is impeccable and your food will be served hot and fresh! Keep in mind they are closed on Monday.\n\nEdit:: In regards to the waitress, there was only one. She did a fine job, but this doesn’t make up for my wife being sick and me having stomach cramps. We were likely the only English customers, and my wife has an accent, impossible she does not remember us.",
+        "time": 1733794610,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=9639021017335881231",
+    "user_ratings_total": 335,
+    "utc_offset": -300,
+    "vicinity": "349 Bd Harwood, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

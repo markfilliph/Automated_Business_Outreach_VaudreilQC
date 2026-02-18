@@ -1,0 +1,368 @@
+{
+  "query": "Carrosserie Gaetan Lalonde Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338070.2560248,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2930",
+        "short_name": "2930",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue du Meunier",
+        "short_name": "Rue du Meunier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2930 Rue du Meunier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 12:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2930 Rue du Meunier, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 455-8448",
+    "geometry": {
+      "location": {
+        "lat": 45.3708389,
+        "lng": -74.0349106
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37214503029149,
+          "lng": -74.03338506970849
+        },
+        "southwest": {
+          "lat": 45.36944706970849,
+          "lng": -74.0360830302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-8448",
+    "name": "Carrosserie Gaetan Lalonde Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 12:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104113254051485813135\">Paul Genest</a>"
+        ],
+        "photo_reference": "ATCDNfVDrA6BHWMmxAtOHzQEXNhtkUbSBknd5rGM95nX9rvEc3OCWb79UOxcQ8Lt3CHFktkGjv7-8EwToc3VDd3rWPREdXauuw7eKfcEes3pDSIMDyr1D3gXqdbvu9uNnLdv0eG5YjbCaWHf3kg2yBJq7U8qCQbfbbQi1uaqakjiy2kb76vyWGZsQsvmZDxJQMmjWIX8CJi-Yw4tfp529N-VQk9DD3dTobylSm7uoVnkhb3-3VDMP8AcRnHZGWx9_ZXWFY6S0thWGQZzUn7E-SOt8BFKU2iO37q1Q0UdJxn2JIzcCpa-CNoGfw7rb9NjctlgT0Sz8lpRn4Ot0gJ9BJc-YNJRSRiem3jotlKJJoH1o-SLnDHLH5FlQvJ8B7wWgFO5ofYG0pZ1D8_AUPq-KmKbpROYTDZ1fpqoHAFOTh9DYtPlyRkb",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104113254051485813135\">Paul Genest</a>"
+        ],
+        "photo_reference": "ATCDNfUKfQ9CGPlslBdMYRMh4ZN0vxQ9-IOvpBJ9NmIrThXFbT6XXN2rtUdJV3zrpIbT93MDCrP-ZY7PspKjpfJRpsbluFPaHk0usF0KVPwo2tLZgVmGeYHs2k_jhuIcSksvL6hBPy8B70O1LXW3aleRz3CX7gq979dk7oJ9aIKSE-jKsqdp-H5SXB6PnMuw_PtniIkWiyTVJ9tdNUFAnduj0xkPZX0TcYkDtlbTJGpal5YkF_IvjJoF-7lG4aUsYOlpophdF_eQ-AyNGhL9FJ2QkNq0CE6Pf9259YjTKrYklbXbHBTNs7N30-vcRyjmld4yPLBWaNF_eRYKGNr1oPTats9NH3w3BxrxMU3xk-1hKElsdNaALmF7NUIdkOZL9fQSMlQnJYKrfdXXdXaKgcs4TNprAeMkcw34hPScL5pP1e7U-A",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104113254051485813135\">Paul Genest</a>"
+        ],
+        "photo_reference": "ATCDNfV8J6cy9GDZkrOYBSiEK28YAzEA7I3eYvLpwGC8HLwTwA6xd1fVLXZ7aFdHAnPxIIIdTsZXLuhwR9ACsDkHXvwNgyL2gBCzozobcywghnJeU_V9aXGvbOlf9Gmf_nENoUAinhl8CPw82LFD5hPt8Z0mO1bLWbwSN2NB6LKBpjUro3BK-LV-WF2-hQgzu7GVupkhyPDCOGXODfzfhHMwz0obotciehzuB_E38NP8HgNJsnMwgcRXUjK-tWNjLMLyzt-9GMedSbxD3Jdh3K7men1VELVwfrbIz-jZO3-Kgwb7s2HUP2rxvqECAS9YGnJJod4AWFyM8sEASgLIWT7ncmFtrN8J6mdEJ1cPp_7MQGHS6MboLVLP5L599fnFd4DGhFQ-AD_9xEqpWtLFy2ZU8-16h4mhFxdSHw-9DdTH4Xw",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104113254051485813135\">Paul Genest</a>"
+        ],
+        "photo_reference": "ATCDNfVDLTKuL5ID__oPlMi1xAV66C3wOGOu-QC0tt0cYT2EfI0-MMAL9YQuQvabzdT3v0W7qZRfETy_hsLPamcRWQ_xtmlytE0Zr9IM5ddTU4iLN_komPb2tQoisjPP0gej96amjkljhaQ1fS-xc0Fz88VpKnX0Kpe2HgJVB5Z7iJWXk_vatUIW6Z9_Z10oDf0ddcgh_5kv_rhme3PtDt7lQo1DhQGgizL50hdIlqBgTi_sgYP2Sefp-DLwOzB6iLSUZETE9YivtpCHS_G2rn2k1L_sGoz0bYEgZMibsnJF66aHjL2dRZ00eBXmW1pzcnmJx_3rLWVVZOG1CG66vlQg4oRSOykN0UjMUSykGnaAhsBL4jwCJcWwEcmXcsxZWUn1lLogpZrpVtLzIzd24yKLK94gbRuXU6UbYTLkld0mDPN2ENNL",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104113254051485813135\">Paul Genest</a>"
+        ],
+        "photo_reference": "ATCDNfXtIqLgMuJFr3hv1jRqF8icjpiD9Siz34EcX-VZarNVaBtVo-PSL39_58MBvOSOv9G3mM3uvEhQ25dxOcySC6rBd3OZduS0wmBcYiCueahJ_C9Zn18Wg1vL1QjqSSilSwzmXHyq2sQ7B8ODjVlPnMbSJ2Vgm-iW16cH1AxgYhhsDXeh0h_98S---RkUZvP4EGMznE1yrph4-Y1MpMF-5AUpQVLJiHf7Ld9hypnjCktt5BbX8UOBKkMlHbR6MTzFYn0xBoBkQzBZiFNl9SwPSoHB2WIKCyH9wUCIJDiS9sTcolYJFoRKc7TCPM4UEVE_3i9ilddFw8b5BaWlrBYTWQbCrpAdrTjJBUZdhTowCNOZrMPoEosJteH_528macTeLHuyahvpaTVbDqhsnKtf6_jewr-mhdIB22hfkm95JNykuMWs",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104150969563960422569\">Lionel Chayer</a>"
+        ],
+        "photo_reference": "ATCDNfVcQ1oql57bPz7FyeuREUg0D18MwceANUV5gdMJKm2wW20djyuoSM9xijFK7SLTmua-wD6m7jLcjJJFgF7XZwld_MJ00rr2niqG-LoYIGseOqRhPlyuBq9BO9hQurYF87SUgs8Ha9n-9ZbQ5uQ_xeDvu6XEgNPzVlKwp8a_EwVI_MBzGQbnP4cmGDATh_l_jfrUgk2YT_7joyinNCnX61gMoLCkZhKVQYpix09o_fqZDy1MoBKKHe2qRnW0-FMjtcGzNTzW2w1Q2rdHax2R4H82uk7aakWMPBeJBHQ-Sk8hsaU4K9ceepiNIUcLshWp1C7-CXIUtB5VnmM5v0nY2oRVaQIHkt4aHq2pXXiWQcOjyLlAHOgPwywNdT5yU37hKaXnRwlAvFV_VMdC8JR2BnJfHprIuDw4ewdDiN-reyOKqg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJZz-bqUBIyUwRNfK5bROgsHU",
+    "plus_code": {
+      "compound_code": "9XC8+82 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC8+82"
+    },
+    "rating": 5,
+    "reference": "ChIJZz-bqUBIyUwRNfK5bROgsHU",
+    "reviews": [
+      {
+        "author_name": "Paul Genest",
+        "author_url": "https://www.google.com/maps/contrib/104113254051485813135/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrAz4Vcl8v4eFfJHW66wZZuwyyzuSsU9-u3iD5hHBoMFof8-D4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "A job done to perfection. Philippe had the challenge of removing dents from the aluminum hood of my Tesla, repainting it, and repairing several scratches. He did a professional job with attention to detail. He exceeded my expectations, I highly recommend him!",
+        "time": 1705334846,
+        "translated": true
+      },
+      {
+        "author_name": "Pierre Talavéra",
+        "author_url": "https://www.google.com/maps/contrib/102603582130454422070/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxnHRwHFi-qEkdNh6ADcIj9kwxTELGwVAfAwBZ7FPu3D85Ae0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Very professional and meticulous. I highly recommend them.",
+        "time": 1753114338,
+        "translated": true
+      },
+      {
+        "author_name": "Lionel Chayer",
+        "author_url": "https://www.google.com/maps/contrib/104150969563960422569/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOv63soSCRqfbV1V3XqbWhF9mXfH2sWtgu4pXQ5TwVKXhu5oo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very meticulous and perfectionist work.",
+        "time": 1735710253,
+        "translated": true
+      },
+      {
+        "author_name": "Benoit Pahud",
+        "author_url": "https://www.google.com/maps/contrib/110182791932007686822/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB2chLFgFpPeIvSsYCXuAlk4ZsFVhSwroPwoT7gtuWi95IUoQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Phillipe worked on my Volvo and his work is of the highest quality, it's close to perfection! One-man body shop with an emphasis on quality work. Édouard",
+        "time": 1528411210,
+        "translated": true
+      },
+      {
+        "author_name": "Ghislain Denis",
+        "author_url": "https://www.google.com/maps/contrib/100076119510029693376/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGMHivbeXdUviLg32mZYVzo7GZzjn04-sWK4J5YU_gMQJHdro=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very good service. My valve came back like new. I recommend it.",
+        "time": 1706139138,
+        "translated": true
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8480454103644369461",
+    "user_ratings_total": 10,
+    "utc_offset": -300,
+    "vicinity": "2930 Rue du Meunier, Vaudreuil-Dorion"
+  }
+}

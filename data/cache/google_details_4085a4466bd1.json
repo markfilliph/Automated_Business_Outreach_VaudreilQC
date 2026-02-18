@@ -1,0 +1,408 @@
+{
+  "query": "EMA Académie, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339791.0625868,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "418",
+        "short_name": "418",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N1",
+        "short_name": "J7V 2N1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">418 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "418 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N1, Canada",
+    "formatted_phone_number": "(514) 919-0277",
+    "geometry": {
+      "location": {
+        "lat": 45.3989258,
+        "lng": -74.027118
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4001894302915,
+          "lng": -74.02568556970849
+        },
+        "southwest": {
+          "lat": 45.39749146970851,
+          "lng": -74.02838353029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "international_phone_number": "+1 514-919-0277",
+    "name": "EMA Académie",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1192,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107814314192130769127\">EMA Académie</a>"
+        ],
+        "photo_reference": "ATCDNfVMxXv_b62D0xjRi9moh6qBwcqlXzGkhVF--9PBVsmlMLw4zXqVHG_Fm3WGD4XE7Lz-TOym8fV-1QXRsQUHov4MxICejaDVQg535oKq8lNwsOgj9bEdDiyfDPJyE8omKnOF7t3-f63RVfi7ZaWITNEWnZGFk4lHVv924FLwBVhrxOJW7nyfJoMrqC-Yv_zIWUCHgtRqhEj1HnRpVaelbMVwCNJePgGZaxtDCipZnRQqb3NKnvZGRtB4HS26_XchlpKCUqWbRd8tFkQNaKVy4Vgd43K_dM1Z3otZeb2BP85YkA",
+        "width": 2120
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107814314192130769127\">EMA Académie</a>"
+        ],
+        "photo_reference": "ATCDNfVrE2-U1y6ieDMQ2okC9dPmunX7HN6Iye66BAVwIYjEisL3Y3rPhHZfBMpyXZ8-2zydxLV0aQlO8LW4LEyZu8ewuuTRuhekKO4hlmrT-diSWs_fnZbbIN3jTtXctSTrqIVHCFkKA7-0U66ayUvTSnkTIDQqRXAMply9N634VCftjyd81c-NukCJc05Xg_bG8zcdIHuIv_K6MxOCFSibiG7McLMxy4qWs9duOzEqlJo5ZYQbc8GkmYTV-2Xq3LTz1P8KXWGgsQGQP0gB3aKef6vZajGxBPGv0Q5_aAXaja0phA",
+        "width": 3476
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107814314192130769127\">EMA Académie</a>"
+        ],
+        "photo_reference": "ATCDNfWJXILjJzCZP6rCR3Y-TMfUhkAAz6UWwfS95JuOuDwVq7uCoBb_Hf2Dwu5BdvOkd3GRFb0SZIFXau_Ek8cnG_JxdB2lqK9ePa4JjHPkuniMd9jOtVyKMTDlAYhsHnXQ_LEN-ZS2-T-GafDgnYZDELSFfwAJ8YvCtUd35QatSs17-Q9DVSuzymd5qY-jJqzznCDPC1ZErK5qNS-YGvEvf7ci2P2wluSS5a85ZELDBPFdbUFdpmjdJ8Maze9WUHNXtSNELDOLWeNDfJYWdJxYRd_0lfHW-44iS94gswLQ0VpYzg",
+        "width": 1024
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113703797859872031604\">Guy Dupras</a>"
+        ],
+        "photo_reference": "ATCDNfWIPKFkUPjfGNqFgEFXUOMl7Y5VxBgnHAub9v37oXF2uyOWW-bMwrV0BlyqWAZEfkguoeP6ETddUZ_m7iT6T9lwYrIpchHfF55K5Im5myK0oDP6qSYV7BgUPOQzYUlZM4awrDUp0gNSEXtk2geIOpogZJFQnIOJP0KaC-2j1qaY6KbIIqyVN2vRA_e5FBS72mg5V53e70-N7msffuTheSUREBIkQHwGX2LmDFMvM5Gzj4oRAY08fehYkX8AUq8a5P6OveGA1jjH_DKNyhJlA0hYTJKzGShmoVSGmvM55yrM4l9SDbYevgQwu6XcLvxOIFnNgmqS1cCLpYTbERvO8dItV9gQkkuxaqyTWUGzV8LffVe23sa-g0r29EfrHIfdDEYjTvdtx5i1dauudJFvXoaC1FzmEKCvpPi1Y7u1iM9GFkI",
+        "width": 4128
+      },
+      {
+        "height": 626,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107814314192130769127\">EMA Académie</a>"
+        ],
+        "photo_reference": "ATCDNfU7qZ-Oa4HLlLd6qrlSe9RWHsWuiBO9v9sWg5KlzX1Ihcy_e1ITk-0VLLQWZWSu55MZ18KZElXZpX6UX1Lmu7I-Y-u22T5P5gE7oIZXlD1AS1f4P9X5RM2gtrV5qNXkAoPmWujl4ngez7sc5uKLKooUPQuoTAs_kNVifWKCNbcW12qNOwkV_5awydSSOggn9iu9n7c6vPQgC9MNWwVbZiFsDg967wOtcccChML6hw4W_xZpARLWdqSZpPzo4uZYcS3DG0g3yvfDUQ5W5NAjGN7Ay-6_gIYp47s-FA0UF8iWVw",
+        "width": 913
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107814314192130769127\">EMA Académie</a>"
+        ],
+        "photo_reference": "ATCDNfV9k6FB_PWmfUmAAmj5e4dp0X4xs_dZB86CmLMJ-7CJFP5lQIt15NY9GpC_7X-Xlv5hANfp42cbMYyCf1met5alAGN4iG7chlnAZqFC-JB-CMDdFHvA90WLhVQLt845h9Vqp5x7ZtnwMdR37CWIWTbB20R9VQXcaMVG_0P2AMPBxYvoVeTk5F8cqReWOOLxz7NLTergO3TF9n_sVvdkgbb06G4gt03zTy8EYbeCvS0vnIGAL17cFSH8g27rT7xyCnIN_N14DNLw4d9uQ5AK28YnCMkY3IqKroKl2MffCrIsxA",
+        "width": 4000
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107814314192130769127\">EMA Académie</a>"
+        ],
+        "photo_reference": "ATCDNfVdRf2I8UIxriDGOVwNUvUUjjxvaTvdYvZp1JAfXdBwe65m6iPgvaMTnwLyOqcuuRgjtRLTwDNniYxB2E8vdm1kIkozfN3IlgTnFohWsYco4VdQtZiHDLXZ__L6rr5RLp2fTbixHvAtoIYwysXJu1CBE3Hp4Hplq2vtH7me8t9Emk5z6W3ts8JO6jFqWXX2XVj2uZfuJIn7TCnS9zC3O0excctl8fwlgBr7IESdkUJM2qnv8NyNSZPuvjqayPpgb4fXIg3tncNeasLaMARQpoewQJ-3ipyX5NuR35-UQzQUjg",
+        "width": 1440
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113703797859872031604\">Guy Dupras</a>"
+        ],
+        "photo_reference": "ATCDNfVWggTYeVwH4fqnJKk6tVcUM5rRhGXTD-U2FkVr-aKNxXM0vRC6O45-RkfB5b7bccXWRFOY5SkL9GC61-JYisx7YQiimY56hIw2JLrFZWAxQYKOhuYMinrJ5zBUUE5B4ilVi5Xet6yefRbWGRB2fLzkSsV1G_nNbuDknBGRyua8wLR6eeORQzbiQ3tpd2rosEZrxe9ymoMRWvYNVTcgXsULFUn7E4NrUw972ynoJBfIoz4sg923om5DvMbwi9cPtBwIDeqxXBuxjI2Ol3iPfqA0CoR_zrXRkDPUJEyDCt216GXXBTWeoaseqDRL84UD4rKZovDegZ_QFFZv_yED8yq9yMCjAwtiINUN2zv8v593aEDR2sVlpm1g5n5WXXCOwPab0Bxl24pIDsige2GqTvFBKamRmVkGumLyRvrWchE3Ye3C",
+        "width": 2322
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107814314192130769127\">EMA Académie</a>"
+        ],
+        "photo_reference": "ATCDNfXJkgP4lVppH9ZtfEZ2mTck1bB_k3kMP_vQi0U-XOxSkP3ZC2qcLXXKtbWH6hwbH55WTele65Li-g2abq7Nh2kS35F1BB3VGUhj7HZ9pzYJZrdU4ly38b8t0qA1QRePaX6Qrh_pi5pt6fdatZDP5F1lyKLC6ba2ZBJ516pSnNNNitSrwKM44WI8QKz3JLMZrpDLPUwr_9qimuqtUEOxaVsD8FmiWQe8Ej6xboBcQiRmahF8YQeEZIEOUnZaLvcSgNPUptJ7UJklCVx9AqShX6HbdvecHIjgJEnqaak4Hp4cYQ",
+        "width": 1618
+      },
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107814314192130769127\">EMA Académie</a>"
+        ],
+        "photo_reference": "ATCDNfV5DCUOK6EgqdHdsnj1TTu5G4aJRa_I1QtSjwFffYn02tYW9LBKdLx-ITFocZ2C7Uj9xrfRAs1qhjILrwOvDLhI1inum82Zf8Ie13D4gEfa1yliRHf3a9NTba5HaTvOaRMuzR5Vfr4txQcT5r9IslfmaHjtWqNc6gX1vkLTkrXM7wfa1jfzJoPuFQl0fgwCkgFpP2FKAJOlK27bolumMGoLN2bAkxCHRGYHHNx2xk3hQTN9MxJL5WpKgUYPq5BfvoR1y-ugvreYXS-LzdruTPEurgRpJ2M2F2dk5fBtYSLneg",
+        "width": 1513
+      }
+    ],
+    "place_id": "ChIJOVRj-r8WyUwR5EXERtZt794",
+    "plus_code": {
+      "compound_code": "9XXF+H5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XXF+H5"
+    },
+    "rating": 5,
+    "reference": "ChIJOVRj-r8WyUwR5EXERtZt794",
+    "reviews": [
+      {
+        "author_name": "Sandra E.",
+        "author_url": "https://www.google.com/maps/contrib/112552932433858102497/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIfnM1cC23TYfqQVSY1RSVEiAeezTpoSVGqhRPqoaq7wQz_w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I took courses at Ema Académie with Guy and Cynthia. They were so kind, I learned alot and enjoyed the classes and it was fun. I am now a full time massage therapist working for myself at my office in Île-Perrot. I do recommend this school to everyone.\nSandra G.",
+        "time": 1762812091,
+        "translated": false
+      },
+      {
+        "author_name": "Emilie Vallée",
+        "author_url": "https://www.google.com/maps/contrib/110824167727560044506/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcp0bi_JnkYC22SOzlrSIN3hLTQF94xaPbBvHAFgKG10K-qeFDZw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I loved taking my massage course with Guy. A fantastic instructor! Professional, calm, and patient. I highly recommend him!",
+        "time": 1762809760,
+        "translated": true
+      },
+      {
+        "author_name": "Noori Multani",
+        "author_url": "https://www.google.com/maps/contrib/113753006938358235750/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYaKEA2b09SeSuq1D_Woh3Oiyu5tRkmelQ9DXGHVdOkS6CIQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1767803655,
+        "translated": false
+      },
+      {
+        "author_name": "Olga Balukova",
+        "author_url": "https://www.google.com/maps/contrib/103999398393231312844/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3dK0rC9-3TeIeG-HLvF-Nv7jEMkNPtGqOKELKz08WtU_D5RkLqQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "",
+        "time": 1762870580,
+        "translated": false
+      },
+      {
+        "author_name": "Mounir Bouhroua",
+        "author_url": "https://www.google.com/maps/contrib/107602333199156395769/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8itAYX8pUugISoOEJA-ePb2INa9Tg3eBc2bDRnnzK-ZK7Wg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "",
+        "time": 1537982544,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16064179162931545572",
+    "user_ratings_total": 5,
+    "utc_offset": -300,
+    "vicinity": "418 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://www.emaacademie.com/"
+  }
+}

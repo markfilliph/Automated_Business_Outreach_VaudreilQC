@@ -1,0 +1,315 @@
+{
+  "query": "Hydro-Québec, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340272.983671,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3320",
+        "short_name": "3320",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue F.-X.-Tessier",
+        "short_name": "Rue F.-X.-Tessier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3320 Rue F.-X.-Tessier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3320 Rue F.-X.-Tessier, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(514) 453-5537",
+    "geometry": {
+      "location": {
+        "lat": 45.40972499999999,
+        "lng": -74.0484772
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4111702802915,
+          "lng": -74.04673961970848
+        },
+        "southwest": {
+          "lat": 45.4084723197085,
+          "lng": -74.0494375802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-5537",
+    "name": "Hydro-Québec",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfXJ27NNgOkK8PfFo5mG8iQKEECwRV1GrHMEtAeePPNlUtIvmOINGWqKb8ipGRYJXJ0WFaVziy3dgQCL72Iu1V5M3si-Gc7seLDnUJydAtPaqk5Glk9wSLnL8spk7Odd37ZVo1vzDlp34PI85B-D73rgA5mw22nh8IhXs-ylahk_CV_jiIL_dpBsVJBRptosXvu2zTDYLD6bSj1wlkUpPzf7L0FZGc4anhKkRojuOols4UI5jeI-1vEE9pX9HUqmv9aROki3a8tVJmtAxsDBMh6XSMRjJQ4p6kgf9M8mF7oAoIN-LWM0jAY-gXts1B9Y61YUstrX0U7EbtW6eXeAUlsDlyKtXksnjLiJcCNeP5dvYONWuzbX_eS9ryDCGzIkap71eZ28W5D4U6K70QgnoZ72HyvcLqiCP0Ah7Uo0Gey4Gg",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJ_5Xn9zg2yUwRWL3_U-G0KKQ",
+    "plus_code": {
+      "compound_code": "CX52+VJ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX52+VJ"
+    },
+    "rating": 1.7,
+    "reference": "ChIJ_5Xn9zg2yUwRWL3_U-G0KKQ",
+    "reviews": [
+      {
+        "author_name": "Neerusha Gokool",
+        "author_url": "https://www.google.com/maps/contrib/101737667318175716115/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXidTPtnl3fss48N3_ocwUGBO6Z2tAd3uR93vHRNoBzi51fHh9e=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Very sad that we were informed of power cut from 830 am to 4:30 pm. It's 5 pm and still no power. I need to cook for my 10 months old baby. How am I supposed to do that? Can't hydro do his work in the night till early morning?",
+        "time": 1567803762,
+        "translated": false
+      },
+      {
+        "author_name": "dom486",
+        "author_url": "https://www.google.com/maps/contrib/112249074295193834889/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWskn1_BB5ZNEEa8MTqK29dNLMH5tWb5QT9p4PeR0d9vebd7jo=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "In all of Vaudreuil, there are only 3 blocks without power because Hydro-Québec isn't doing its job properly, pathetic.",
+        "time": 1681001937,
+        "translated": true
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1653417439,
+        "translated": false
+      },
+      {
+        "author_name": "Rossana Castellares",
+        "author_url": "https://www.google.com/maps/contrib/116556566281089946918/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxvQg4mZC6H3mDl3oP3z-KuM2J5jPivFKNbzYLitjgCGuJAizJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1572710740,
+        "translated": false
+      },
+      {
+        "author_name": "Louis Coté",
+        "author_url": "https://www.google.com/maps/contrib/116868991530615186233/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaMz1YzscUo0sZ3xX81wQb3XFysRAVcovyrURPivFeMhB9JOk=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1559852711,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11828903301158518104",
+    "user_ratings_total": 9,
+    "utc_offset": -300,
+    "vicinity": "3320 Rue F.-X.-Tessier, Vaudreuil-Dorion",
+    "website": "https://poweroutages.hydroquebec.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "query": "Pauzé Mécanique, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339401.6982586,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "41",
+        "short_name": "41",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Lucien Manning",
+        "short_name": "Rue Lucien Manning",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8V6",
+        "short_name": "J7V 8V6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">41 Rue Lucien Manning</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8V6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "41 Rue Lucien Manning, L'Île-Perrot, QC J7V 8V6, Canada",
+    "formatted_phone_number": "(514) 453-0556",
+    "geometry": {
+      "location": {
+        "lat": 45.3871793,
+        "lng": -73.9665039
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3884361802915,
+          "lng": -73.96519671970852
+        },
+        "southwest": {
+          "lat": 45.3857382197085,
+          "lng": -73.96789468029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-0556",
+    "name": "Pauzé Mécanique",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110969400668846238771\">patrick pilon</a>"
+        ],
+        "photo_reference": "ATCDNfXfYi4pY9C6Oip1mbo3FxQRqR9v1Cr_HfD37O0VE6IhTu87sbsJR7G0rLwg1BrsJl4pT3H8_kuVBFVlrIO67zzG5rRYn_aT2LCciMbRu_Xfbe2MgJgK63mTzPQyQDU2FLQ9Fn6HJKV_kd6E0SggWigJ1n7JXPT3TVFph1VUN6tRO51TKCLMgxv874YzFa2ycJhxRv6-hPXv_cqXoormS-SwQsvyTYjTWJJzBYvGwu7NCZZzo_no_mS9Qe4SrDPy5ni3DmrDX65nB_m7acDlu79xyfDffDiB7IQbxwnfXSXoJc-4Z4nBA0CfOa64uyi0FJeUf-vTtiaiOwltTz9yWzlToOxyRPQFifDZoPt9y35k3eNju4jvuvHPLuJsPmVsn0IdEsiaAendI9Mmx_AkXIreUALd_tZVV7ufHQw3s5fRTw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110969400668846238771\">patrick pilon</a>"
+        ],
+        "photo_reference": "ATCDNfUCjY2fnChyDRfqJplSfv3ChE1s64N57_dW9zfQaacdHqyfTCJ4ejWYwrH9Go8Jb0xc7hDT_CX23AATd-tK-iCIXW1Qq2XsUzbFFQWXQ0TT1EBcq4CdkB9bzUYTUpIo8tNsvVoZP-mZS3VJicF3ZtlZ3qNo__cqJ5A3DNrPEsoN2Z-PwvNNDZJU9BuN9a8Lqp0UkK7N7FA3IcIQ686SmLPBKLwCJ0zdC5w57D1OkOztvQsIMjasHmgc6tNn0tvlCMg3f5arCxywDHsrsXs0IfTfyAhwI_i24uMjQXkn3ssagGuE7LzZdVuGlXiK3AaYAvYQb949PuhLoJtnktm4kR7q3Lqe4j0jMES_e4kCJ9UAgmWv9XOlIT5Xp_pkZ6yy1GUcBZr7WM0Zo0ifHzjJOL5D_CdROfN--xAfJzljUFTVxw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110969400668846238771\">patrick pilon</a>"
+        ],
+        "photo_reference": "ATCDNfVyol_vbgaQRCNyR4mSz2GRpn1SDT36sAtlfCZ2hRJdWcNF2o_qv4X6wa8U48bPoc_XnYNBdpgDMhBf2qyO6K3Sv6PT7pXHU03VMCedS-IBzxupUW72iMMll2nxadyielkHAtx60Fl2qUmnMPOaUHu7N_0dRwsZ8Za2img_IrLDmFNtttIZI4GTlaSzimbEO4SMcswhGNfPJ4IlKayFUb6OdfaAnDDd5H2XWgJMILwNA1BW9nwdNHlr_gIOS2si_z9wbImHqwxiIoOuyZ89AfxqnmS2Sj3n4fzHVOKCTd9NPndRK7OyH7i_lpRQQoqVVe7LjWqLnZDPjVPphRDynuMqvl1LIahSo_xF0Le1wLYz4ic_k2VOCnEVRDUBCI6q7cCHTcl1F8s6c9wWVyOdP_elfznhR-8SrgfMBHN40jNtcPw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ3yk30Qw4yUwRvZnRvakJfUw",
+    "plus_code": {
+      "compound_code": "92PM+V9 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892PM+V9"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ3yk30Qw4yUwRvZnRvakJfUw",
+    "reviews": [
+      {
+        "author_name": "Simon Lajoie",
+        "author_url": "https://www.google.com/maps/contrib/106410526540398814313/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpPK6RiOc0bI7kjWzwKdXHw51OvxCDwDfHEWQWFXxVO3iSew=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Excellent service. He woke up early and went out of his way to make sure the job was finished for me, which I really appreciated. Would happily recommend to anyone.",
+        "time": 1766079862,
+        "translated": false
+      },
+      {
+        "author_name": "MTL STARS",
+        "author_url": "https://www.google.com/maps/contrib/103379950480075938053/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ47FB2yv9rlpFgRWwam_1eM9jdARBIeWqlDe1TwSaPzRNjHwA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "The best mechanics on the island very honest and bilingual can’t go wrong. This is the only place I take my cars.",
+        "time": 1759078421,
+        "translated": false
+      },
+      {
+        "author_name": "panther715",
+        "author_url": "https://www.google.com/maps/contrib/108034228596409567564/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXh68DFftu-tbpRf1KUj4Btu32b9kJrGQJ7QQlMLt8im87bgCIH=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Amazing service and very good service, know Dan for many years and grew a solid name for himself. Finds the problem and will be honest if worth you spending your hard money on the repair. I value that even if the truth may not be what you want be he will say it as is. His costs are fair and as he says it will be.\nStaff are hard working and know what they are doing. 👍🏼👍🏼👍🏼",
+        "time": 1679232161,
+        "translated": false
+      },
+      {
+        "author_name": "Laura Gangoo",
+        "author_url": "https://www.google.com/maps/contrib/111825851108416152076/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzi0xbBjQe8EweWEDOGU8uFuvYwdNqZJEL3SAM7S17yVG_PFA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "In the grocery store parking lot, I realized my window had slipped off the track and was lodged in my door panel. I headed over to the nearest mechanic at 4pm, not familiar with the area, I found Pauzé Mécanique 1-2 blocks from the IGA.  A smiley man asked if he could help me and agreed to speak to me in the parking lot because my son was still sleeping in the backseat. He told me he could fix it, but they were very busy and couldn't do it today. Disappointed, I told him I would try my hand at it when I returned home, because I once did it myself with a piece of cardboard and coat hanger and a lot of time and effort. The man went back to his shop, returned to the parking lot with a pair of pliers and a cloth, and within 5 minutes my window was back on its track while my son slept in the backseat.  He then refused to accept payment. And I discovered this smiley good Samaritan is the shop owner. Needless to say, I will be heading here for all of my future car needs. And, I highly recommend anyone reading this to do the same.",
+        "time": 1715031161,
+        "translated": false
+      },
+      {
+        "author_name": "Field Racer",
+        "author_url": "https://www.google.com/maps/contrib/101257358614349687732/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOnfgXEFhhGELu7iXBsGGLbN1fovtvIhftZlmWzc83odDQ3hs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Great Garage, bilingual service, took me in at the last minute was extremely Fair priced very knowledgeable team. Very pleased with the service I received from this garage!  Merci de ton chum le maudit anglais 🤣",
+        "time": 1695952385,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=5511572143610108349",
+    "user_ratings_total": 99,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 41 Rue Lucien Manning, L'Île-Perrot",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "query": "Les Aliments M&M, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340329.0271347,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "5",
+        "short_name": "5",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "22800",
+        "short_name": "22800",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin Dumberry",
+        "short_name": "Chem. Dumberry",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0M8",
+        "short_name": "J7V 0M8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">22800 Chem. Dumberry #5</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0M8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 7:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "22800 Chem. Dumberry #5, Vaudreuil-Dorion, QC J7V 0M8, Canada",
+    "formatted_phone_number": "(450) 455-8959",
+    "geometry": {
+      "location": {
+        "lat": 45.4129638,
+        "lng": -74.03820619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4143860302915,
+          "lng": -74.03692906970849
+        },
+        "southwest": {
+          "lat": 45.4116880697085,
+          "lng": -74.0396270302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "international_phone_number": "+1 450-455-8959",
+    "name": "Les Aliments M&M",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 7:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfUTajpxExd6fpS9QRNftHXOKbNzxhkzDC2k-6RdBBD7aNCUMzeM4WTxSQpaA_3RHlpB_TtDcUgT4EuDtdQch5CVeF6yX-i0K2KCLRttcjSnizU10_uH-A9zzaPEeoi5ChM7ieCMGh787x1hn0MAPXX-S7xtUbkx9AtmxjrrQfdhtXxm23_j0Rh4N9Rx7FcQJfktkDd3BwBcVRnjSYpNJGTMUW4qpAcetA6jSaf5CsgE5VvMYTrOBfqy6Dsyu7nEBs8JOtHXjCwv7mzlOemZDoNVv8CTuDIoFTvRaEGMbJAMwBiwa1T1h7BZ26lYp6Y-EMviJHpTiiCOVWHdSTjTE9-foCHWXrYJJBwnvGFZl8TnT8z1TT15WFjlt5wlCzrmCoikO3n-RLP8GcyWDj-6K2LADsctPK5i-m0TBjWo4II-RRNo",
+        "width": 3600
+      },
+      {
+        "height": 857,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107759684566710264925\">Les Aliments M&amp;M</a>"
+        ],
+        "photo_reference": "ATCDNfWOJmGX3ZmcatSJm0EycvGEiA0fTu2knaE8oe7e2PCMGIwX3en5iWYUUB3qC7eVmHxYJ9-8Z_KhOMMRf1rTPW5Poo0XwYcyAXzyEDnep3CAa6X-nVX4o8Sto2y2lsCclAGE-7J3SdQ9UHNacJkhKQ0ItEZNVZpHbQgh6rbcVuZzpA9t6MGKCx729spU_o84eBGBCidvTtZ3CqBxIJ2hN0UTea9GBaY_erIk5DuhEMpLBfS6UTxQqyZKpO0gT66D6F7GudOifD9-32fbCFGnXoR3F37_7QwAI2zu9-MpB54psA",
+        "width": 1500
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113075049730685942153\">Tara Sendel</a>"
+        ],
+        "photo_reference": "ATCDNfXPUc-VZIFPdsvlOYehNwEV9vlerSx0gaXzMEQWeyUg-0ej3vnjfFMcOsBC63in86Z32RoWPQnbJSb3YSWLUCYvAz3YRbUNL-hG6mo6Kr0F73NRnkX7-f7c-prJxmIEnfm0rJ8qO0TUram066dYDCNb84nyOzdUf4N62BmPd5335-RcBl9HrCtbTMJSumViYFEWELO6118jViCGs0srZAbziIUUxG2uNLux9lhTsdmXQ0nE-t9rI8j4B3OYxRvWWuiqk0Z-DysHKdNJ8SWIQ83eGGvb_DmA2xq1lQtEfCD7GHNW8k5WsuqBf73ROC-FRsr0U3SM3iw7nedDcKPkniAILuDNrmOkFoBaocYazhRueHR757gtGPAFHseoGwRR78qSm6NAZL4iAfHIHB5x9gm9TU5o6PENPg-tsxjT-qY9VwbP",
+        "width": 4608
+      },
+      {
+        "height": 1765,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107759684566710264925\">Les Aliments M&amp;M</a>"
+        ],
+        "photo_reference": "ATCDNfV3EN2NI3QAPwoPtSj8n9tcUslSPyLz1RjXC2_1Ha5VU2vkZQGqlJ1qQfLR6zOXe9oQXnnzaVf3r5-1f7enK4LXFaBYt4kM1Vg-5gf3Q0m0u5CAFTs6K6M0FnTZbQqUge6YIxwZX6jqqOCBYNcI3XaturuhYE3ODh8ztzsXANbe0C0lItLofNaJO-peaDussQP6lyjRL6g52VSGdz7I8S_68ord1amd30iLK64hVV86vGGgAg-BO7NkflguUqZQI3b8EcMzHelLDnP6ERE-jame3a4sVeqOqRqIz8FHypQtpg",
+        "width": 1178
+      },
+      {
+        "height": 408,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107759684566710264925\">Les Aliments M&amp;M</a>"
+        ],
+        "photo_reference": "ATCDNfWMyKmMqye8v2yqADXAhrKssR21fY-g87wsm9xzLsft3T7QyUodzxwnj_1XZb3aniTReODpX6SdnpnRdbvGEN3QytEiAK1EPVW5-RxsmljpetaGJ5hgSQo0p1gqN0wvYjRowvQ5-jtitO0g2zgq63HCUL-xXZtk5rqjh-PEYmc6VDsWU41QyYSEpd0xDrPTsQ66ycUe-T2sLyL32c55-jzqiy7wgFsyy84UDLp_V0LFZjdKcWou5uMnTwpa_OM8FcZuaxZbnzUqIjqQ1_9xkFRA8KEZsxmHfP6LEY8OItJdMA",
+        "width": 612
+      },
+      {
+        "height": 422,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107759684566710264925\">Les Aliments M&amp;M</a>"
+        ],
+        "photo_reference": "ATCDNfVM3VJEi1mY6P19Dzm2Nj4eMaIDD09U6klYKgbhRtPA1Yqr5_QlBodYtBuzO_c0vBZ-dDEnbEntkKBKJ60TWsOKDQo9P_2WS-EW8R5LaEQ1BBlesvfqE-Ti1To-QzJgrI23HTaVeBCrJ4alwqpJQ_QKLjoo0YvpRw_kOKLuoiRkVkSHfL6ltGsDFWZW0cQzvMtqTfqDTEWDLcRy_3bFz_4qXSKFt9TbryCE5rp4lv4ZStv60WEfkKoP5y0s_lUHzQoznjYLF7mVgj_dPqhbjv-_8hsnctJcPT3x70S7icpllQ",
+        "width": 633
+      },
+      {
+        "height": 1075,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107759684566710264925\">Les Aliments M&amp;M</a>"
+        ],
+        "photo_reference": "ATCDNfWC3sP09upDYpI9KAu9K9W2BCj6Ssce1cYFcYKcHoLld9MbUiiXzicqSvC7NJfZ4Q6Ajgd7190OsG1iCJoMydzUhftjFjH8E8H5B12H0RmZ0oYMpD1zS5WkKxgarhDsEnBKGnkYn46czGuStTP2vVdBUCLWZBeR8r9LYALngadaQpKhEWtoAUZ2AIpJhITt_2gySnahzEnfPlYOhpsbZ5Q-UevbZby3PA7PvQASrhbzr2aoHVYEIvEdAuuYs3J5-AkV62i7JxOIHOlEs-VpIgVsQ2nxqlTiDzvcZ2LIuD60WA",
+        "width": 1612
+      },
+      {
+        "height": 885,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107759684566710264925\">Les Aliments M&amp;M</a>"
+        ],
+        "photo_reference": "ATCDNfXYP0B7cowoN0g1xAfmKD_gd9Nz0C6dnc8YyympiE5rBJ2sq8qcmyISY2Ck9H-qAs7WqVK0xMHO1NgjzpBsxauwW_qCXVrFohX54Ze3PdNfrLiFLKqO_FS1_GE6TYDbqv_M4GlBpK4QDuUrr9Gvm1LCbd34AXk7LeLH8AZDJuPgOy7VmM9OdNK7yVKIem11kvtuOnUAd3ky1k0YbODv7R1ghznxawrqhB50v4BtjTsGdLP172vIBpDr2rCsECMKRl8CyFv00poBQG9paXTWl7RACHUm1g2-3fDjGG_P74jksw",
+        "width": 1327
+      },
+      {
+        "height": 1053,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107759684566710264925\">Les Aliments M&amp;M</a>"
+        ],
+        "photo_reference": "ATCDNfXl7gRBgdxIcCrEjfDu00pk2ChN6YNrzBHp6Mnewa2-PhW6cbUQ45By4H-Ecme8v8U3qkOMmj-wpR9TfHlz7caAw2RMRKfWDaTFon6Cm3m5b9SaiG3xHl1Hxd0WVL_91h4H3hAqBbNYlz9iSHNfF4iEXVhszmq0NsA3VMvfWAi83JgHiQtYUeXB7pVWRGghEeXkmDLpdiRPXC-YmjDb_rWq7jEc_sCDiVNjLXCi7_Sb4EDWB7AmSbOChv0B2haLyk6H3ElZ1jyVhWnsnjBNqpVvHnXEOQkyIAH6Q8xhvTYSpQ",
+        "width": 1579
+      },
+      {
+        "height": 2344,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107759684566710264925\">Les Aliments M&amp;M</a>"
+        ],
+        "photo_reference": "ATCDNfXLHuK85cZxKCs_UljE0_Uv2p63NmLasBBcRhzx55vCIU3xoVVTTJeJHMGlShn1g7QmezSZjD81hWDnoniW5PVYDs6EzkgReqoh7fV2KfTxH-sFXbsq8ixk5BtF6Ivbhkya4JLNc3Fe1DMjSgFIhkY_zfuvDXdfzIsNCwq_P06e_v7BuVBwr9LwAX2T0kj3yU5GSMOAk1kbwFwUBJ6TJ97DpGZNtb1KRd3S7YzJPBNhx3vAKpal0Sdm6z3BF9uqsnQKLlPbmDgPkCK_IiVswwVz_qtdpB_sMeQSbRZVJY5YiQ",
+        "width": 3125
+      }
+    ],
+    "place_id": "ChIJy_9jiDM2yUwRQni9hxGFpWs",
+    "plus_code": {
+      "compound_code": "CX76+5P Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX76+5P"
+    },
+    "rating": 4,
+    "reference": "ChIJy_9jiDM2yUwRQni9hxGFpWs",
+    "reviews": [
+      {
+        "author_name": "Marie",
+        "author_url": "https://www.google.com/maps/contrib/100174916054128653563/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVANpMsTR5MMYx129ghWLiD6B6a0jTVmmsD_BLZCiRul48qDPI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "Walked in with a friend that didn't speak French. Lady clearly understood our question but said she wouldn't speak English and \"it's Quebec\" so we left to somewhere less hostile.",
+        "time": 1748044099,
+        "translated": false
+      },
+      {
+        "author_name": "Katherine Larsen",
+        "author_url": "https://www.google.com/maps/contrib/106134526379734897673/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVP6t4BbLuso4jj2nC0wjfJ7eoH0n5OL5DNASaxVS2YHL0IWA3mQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Management is rude to customers when price errors occur and the consumer protection law comes into play. The cashier made a mistake, called the manager, who was rude to me by telling me he didn't need to be explained the law because he used to work for consumer protection. Raised his voice and was very abrasive. Ended up honoring the policy, but it was a bad experience.",
+        "time": 1752237775,
+        "translated": false
+      },
+      {
+        "author_name": "Steven Vandal",
+        "author_url": "https://www.google.com/maps/contrib/117317247649636864664/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpLaQwrOfTBSXbOeiaj4LKgnXsJwxrrxGjdb2X9gLHRMPISdi2ww=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Super friendly staff and great selection of items",
+        "time": 1763936955,
+        "translated": false
+      },
+      {
+        "author_name": "Annie",
+        "author_url": "https://www.google.com/maps/contrib/112460852147124571868/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsXbvXrv5ezVNiIGmTWl2_6-n9xTmP9SdjTrWQmq2YppGZaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 months ago",
+        "text": "Wish i could give 0 stars\nThe sign says opening at 10:00\nIts now 10:20 and still no sign of an employee\nIs closed or it has no employees",
+        "time": 1743171748,
+        "translated": false
+      },
+      {
+        "author_name": "Nora Hague",
+        "author_url": "https://www.google.com/maps/contrib/109260540179042654131/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQbWutRbplqhAnLRiRtwfU2IVYUL5bUequ7RMsIdr7z-Pcl64=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Not hate, just irritation. The Vaudreuil-Dorion store is closed, with no indication of any re-opening. It was a nice place to shops, great food and a friendly knowledgeable staff. What happened? I want my store back, NOW!",
+        "time": 1682019822,
+        "translated": false
+      }
+    ],
+    "types": [
+      "bakery",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "restaurant",
+      "store",
+      "supermarket"
+    ],
+    "url": "https://maps.google.com/?cid=7756752243553826882",
+    "user_ratings_total": 52,
+    "utc_offset": -300,
+    "vicinity": "22800 Chem. Dumberry #5, Vaudreuil-Dorion",
+    "website": "https://mmfoodmarket.com/fr/store_locations/462?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+    "wheelchair_accessible_entrance": true
+  }
+}

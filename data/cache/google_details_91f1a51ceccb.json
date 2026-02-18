@@ -1,0 +1,443 @@
+{
+  "query": "Carrefour Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340372.8826756,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Parking lot",
+        "short_name": "Parking lot",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "585",
+        "short_name": "585",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P9",
+        "short_name": "J7V 8P9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"extended-address\">Parking lot</span>, <span class=\"street-address\">585 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 6:00 PM",
+        "Sunday: 9:30 AM – 6:00 PM"
+      ]
+    },
+    "formatted_address": "Parking lot, 585 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 8P9, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.4081059,
+        "lng": -74.0327725
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4094378802915,
+          "lng": -74.0316238697085
+        },
+        "southwest": {
+          "lat": 45.40673991970851,
+          "lng": -74.0343218302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Carrefour Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:30 AM – 6:00 PM",
+        "Sunday: 9:30 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102982805849203089053\">sonia petrila</a>"
+        ],
+        "photo_reference": "ATCDNfV7KBlU75W-ouHiqh3iTnWCuGqStsQq9v1Vl_K8mJDYiY-K__xIPw7xXmjNJcbvDWL1NfnSIXF2KsCZXIGJktI5TK5sfmSyEGIfckMcVJUq11kuWWKj8uGXAOJ2DDL25tIduzVUP5rTL3FHOdC08trXBlHrHqCnUQRc76ryraQYbj21pVsQyWfTzFSJNfvAMiyWqAgoYUv-jSfHnSDSKMGgusdp9_TLplkFaAiBVdUmqdBgytxwKC7ZNmZSXLOQ8ambpjeciOx74mAiuXSrM8KcB7M5GkDa3uk_r330QNZR9kDTtphUx0YuIYJX6m0M0ERw_IKfjRwAJ5iYihp2kYILckdRrNyZczjeRu06nXDEjdM2_nv7nuXUL4d3WAjpWRlUleMFs1jmmd_e-4S3o0ZKOaqrqSD8M2VREPb3oVBnVhLa",
+        "width": 1960
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105464112006759751980\">Robert Deslauriers</a>"
+        ],
+        "photo_reference": "ATCDNfUk0W1OWI59GpyMLvMzCstzGkX_6s-BOYT8PdvDieH0Z_MZ-GvyJKNntamrGt0EQc22ynKPBjreu9qx8_I-sK7SHMUFlq1w7uwMbOCskgSEWnt9-jF1OAfeWWVgvKMYC7Rtc_OHeTMMtP4SIezi0_KUrkLmljjVj6FvnTg3HmhJMvHiiMEnvzPVqvYMmapAioN1_rmlOpGmD9FnRqRpXzYdfmENXBTz-jzdpNRHHDwWP0PNOIBfS-c2hvlyECXZTZPNrqGbdEq0nt1B9NrsHWsz7MvTrUH5yA6wHZA_UbDBFzCLj0yT5LOKHWcApDX14OjpIwvgCmY5H98_QTp-ukNbcA6-rImDLmXbkllNx3iPwcw6Ufk_hOptL31ROhD-rMHThLIWzPdOj5MYm6TJpKdKIakN__s05YMR76DkvjtBnivs",
+        "width": 3024
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114032084958732811518\">Xiomara Irausquin</a>"
+        ],
+        "photo_reference": "ATCDNfULhvwGWKjP9lLiwemKOaW5msJNP6ogh6o_lK85VUr_-X5VX2K8gUSPMLxWt9n-T_q9Aa-gUxBC0P6CKNFwTGP9DMB-oIWYJ-lAvBGa4k_IL23F48Oq5Fr2xyLMe34tdRDQen6K47O3lyjXwY_KbAEcs8QHUALDVH1UX7ilMvdiMchk4OaGawPrq7PZrKlNHRDzDbreWBgeik8tpuS19EkXlFcXSQo8cV1WQSm-AdKNy_OWU_msG7Kx-ykk3GzfucN8wIOSguNPCl25-mB9Ujko-Ojf9Yk6jPTmBgV7pEwrHEXW3dIeKFCILzRoaxLe2Ozmus60MRITQ79OHxrZtm2jO_dTmTtV3dguX3234QKHrgOBdPBLEXfWW2Rg-8A6vBjOykeWWP6MjJ55BHOPzJiyE3gPhACIU7HBgGz-h50",
+        "width": 3456
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115021015742233932976\">virginia pablo</a>"
+        ],
+        "photo_reference": "ATCDNfWkyWootDZU82udMe6ksVe6HtC6NfHvDi9slUV98XTyqshGB99Ub34R7HR5CiPwvY11dekiUYmOepqf2Gw711ZF-YStt7tc0BxUtRT9oZV-3qyFWoE2AYDUEZne_3Qx9NrLoZxsMCR2DYzeFJazJHKqI3AeOVZjHp7jVsosVXErA2mSlNSavEhmyQE-VWFp1CWH_MEXV7B_1SX1Yf9a33_UePNbJe8wP-OgjXhiFF7BJXC9uIARO69_cFIfj7UR_tPMwB9x-h470SOWQ00pSOB2YpUs5HereTm_Blm7yfSaEYE7T1PxMWHCgda9ZBoN_ZG2HP5NhE9IxDcam2Hc4WzDkE7xTrPAs7W18PFfbQUHJSrfsIIkzYFbdrMISUDoOVWGjuChu7N3yWSOlAikudfQL5iJg4tKCGCKfdWGahWXxfM",
+        "width": 3456
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112077785889854518867\">Adeel Hussain</a>"
+        ],
+        "photo_reference": "ATCDNfVQqxvY-BxTmsPWuynK_WTFP96do0GH98Kw4i5_oFYdwrfIV664fNBklamLHoLJSmFP_ZVCaXGZTT3KF9OeK6kL3dCJmfgIM8Mkw0ak_NSR22EzKa2qUka26dv4Sd1UtKdVBKadf8jXaa15EL_WAJHZKR-ITDMFeMq1m0h8O8WUQ04PSQ_t0QuekdvcamApzfQ1bi36mpf9TOomVnpPJhq5ZKMaMLH5DZzSKHmYonug69NJE9dSSMw1ykTfKALjzAHlPzUxCvFqJScG2Q92-5L6sexYhMeNFq06N3C30qx4Th-eqwbWHvRfeWQSvnFzCFiicxO5HkqDpjeVCgYXCodFNye7HFj7555kcWOIpmToR41LyrGnsgWtPFxX-I5QGOgzFbGDg7tIVqzQ_SKNtBfxdZugruVKpDKy-GWpL6rIbw",
+        "width": 3024
+      },
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116841811492941368072\">Intergalactic Traveller</a>"
+        ],
+        "photo_reference": "ATCDNfUOOPWHbIOgXNvgeH-osmhgm89ibT1cf84EJqMwOeBwXNuWmRdnjWdAFjan7PWnLtBEwUA6LDo66dTByYvuTpXqKOkGhPThYo9Wp1gFlV554gZ-5v5xIg-EHPABjJT_tAhNLsGecABUNjR09OV894vWGA2IgXTFlsFou9NmOnB0diWlW7-elALPjmcbi3okxltrZ-uAlSM-d2iM2hTsio6F71EGoY_CvtxnvxSQLa3AU-dxr0d7BFzkRJGQs_VCDSQ2f1ODeZfDoJMqwWwmuSN8I1u9EDM8IvfZnz0Ck81hf2pHgius44b_o30JE9AQdPkVzuu8BRm9o1cc3SAFY5y0gD60WNyADk0GhHkfBqtQDSMGynKU5QJ9-nH27DclqmI-mpRTWTu8fPHJzok2NE8kvLfB5soGmGN8Rw6Okx5Fro0",
+        "width": 2976
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105303808701316039334\">Kevin Desrochers</a>"
+        ],
+        "photo_reference": "ATCDNfUMt2Dgojfk0WYS6aSJNH1o5Ve7iojsEvTI0ylSwMR5JCFrg2EqDOA5FrzSnmhrD1-FkwHoYaEDV3pUIBIVkC0uqiRfv16TX5fMrvXI8jZfnhDxW9V0KMYl1wX1r6-KtkCWaEPsDguAnZQ2LApCvcqUCoO4uGEf05yBW8nRResMJLre7FrdU6f-Nxtl-4UXJIlJ8nzkaoSEhtvMbN-wbKY_0DeWIWEnRcOm8kbTJGe8UGqPPXePlji3hpXUs7VNGGi1Rrl7LtAMAv4qNbzPKo4IYRnohD1jUa_rZ-Dj7_0Ai7fmJOjqH8TRT5_EobmK1rwt35fsLwHwP--nkfVcq3TtCXUaFL8kjy3xa9S86CRDbwDtZawfTnzBsHeA_QrpDJxWTjPT6qamv8RDYTKWabo4B8Kcn5fYyq1MxbujN0XW65g",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112077785889854518867\">Adeel Hussain</a>"
+        ],
+        "photo_reference": "ATCDNfVa0NvRhlMI3d-UllJXXkjlowQL5dV3aCmc1Ro4jtP6pqCywf5fdmP0bWcSYiv9QsQt2UYKQZzUEeYR25EraKkqSg6XwqrzVNEnFlI9ajuEwujbpBWzry3EA3I4ACcAFUa8dp9t_qzI7JSf_qCM9x8Sf6hvtPC54sPZPpDtk_3D3-6DvO5VT5uxBXmSafjnrUvINUFTonE7RO4FCw_TMA1rhfpCnHsIjsoV3EMXZf8ye47anns9o_W-xnyws-t6PbwGSeuxdL9x3cSxtvuuiy49m4N_bJmUfGcac01wSQ6l6y2nTXRE9FcW98nAs6nkcGd5Ij8pDvfkybxXV2vjmRCitOysmFY6RX3GN79V0ONdvE4-oQzf25QCeMXAiIiTQIlnoNLFCcZ43-q2TO4RTaxiplCwXLRiAxBhqPyafHY9gA",
+        "width": 3024
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106014325392739460680\">t</a>"
+        ],
+        "photo_reference": "ATCDNfVT4t0wyS6GLOfnzdqOEFZJa9P-DEmawdw_ww_NDeJWdwsA_lFM-r9iEsGgLPk4Tm00H9JBrUWeKMf1xftxVFfbkCW5k7w8rp_WBiA5fWe468Y-e-4vECfMJ3LetruBZ1B14TCVi5hd2s8OCXj_TXnt1B-doN21YGL2mHnv7sLRnM2bionrd7C4w5FnEKQozUqIHrDjC6xVx_0aicMIa9aZQ0ucLpovanATJ9im3Db91u9yfGO7S2iPcirnSOaKPEwTc4mDQ5iB30lrZPM_BvDtOg4M3xDngZ6A8d_bYi0puV6tr_VuPVP1HYC6CZb6oFo7N5Cmm0MnYgBY1IprmYNcBhkeIF7Ozo0PKC4bqQ0ecIb7VSE2BvPpoS_lBsgeikQGvtkqWqU7WYECy4dh-FFUf45l71WKTjJMsaEjHXo",
+        "width": 3120
+      },
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102982805849203089053\">sonia petrila</a>"
+        ],
+        "photo_reference": "ATCDNfU8FJ6bc_zxIEsqgcheheZZUSfQ8lcSVMJ5bNU87AqpVaTfnL7hoTbTz4P_jDIYFA8zB3Yz_0x4KtWn4gbWpUdK_GIDIBjEKVwXHTo-qBy93sZFJ33tsdRJZ1fX5lwTsrLoWG-NR9hzc-C1tWPBAWtzgBCsw95vXMxz2u5ig-czMyqUe50xhq5o0bXeLkw2HEptgkfpyhqnRcnV0Iv8BTq7_QzqPK4DTuFGd_I1tJMnwiIbNlXOITi0M6E9LHV24c0PBQ66R9ZG0qOJ0lzyi9-ssCASHxzeyXBLoRHpSpDrDuljjdXBQXn-wqRAM7cnwjkw_LK9h89Jh_MpnMRZ7Q1ckVPPISqklX55ib25LcKOaZHCRZc-6n9buquspHhu62rNGgPAJ8CFOU_B7vt2hhHimP3BENCKvQxGkHCxYJbs6_rp",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJozwwxco3yUwRdfimfpNxQj0",
+    "plus_code": {
+      "compound_code": "CX58+6V Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX58+6V"
+    },
+    "rating": 4.1,
+    "reference": "ChIJozwwxco3yUwRdfimfpNxQj0",
+    "reviews": [
+      {
+        "author_name": "Andrew Laramee",
+        "author_url": "https://www.google.com/maps/contrib/115664713202649926445/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWadnzzuoQYh2ksS1dmWRB94mmAmX03GqZV7lF3nHg7nY3qcDv5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Nice area with some useful/essential spots based on your needs like the pharmacy, bank and pet store. The parking lot could be organized a bit better with larger lanes but overall it's easy to get around. There's a sidewalk along the entire building making it easy to get around on foot.",
+        "time": 1656417055,
+        "translated": false
+      },
+      {
+        "author_name": "Chris Regman",
+        "author_url": "https://www.google.com/maps/contrib/100277037905362502930/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFCxUmhyI3hH3uPjghvuZx8uVMEOsV4YQR1yKnLAAGwKnmNQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "This place is a bit less crowded than the ones on the island.  There is a queue anyway, but in the morning it's no more than 5 to 10 people, and barely any waiting.  Later in the day it gets longer fast.",
+        "time": 1608475866,
+        "translated": false
+      },
+      {
+        "author_name": "Rodolph Dandan",
+        "author_url": "https://www.google.com/maps/contrib/110986911941999780715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSiTemaN18vuRL1LaGWtNixhriQqJ496ygpaRnom0n7jriV2-LGQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Always good to be there. This is an open air mall, with lots of good shopping outlets. Parking is abundant. Has a public restroom, very cleen usually, however, I'm not sure if its opened during Covid.",
+        "time": 1615222774,
+        "translated": false
+      },
+      {
+        "author_name": "TBM",
+        "author_url": "https://www.google.com/maps/contrib/107831255855047968545/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDJmwPGoHMMXba-D9wykQGZdYDiFRSwjQAU9KhcQoGYhagXg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Great location for the growing area. Lots of parking with billingual service.",
+        "time": 1745008913,
+        "translated": false
+      },
+      {
+        "author_name": "Art P",
+        "author_url": "https://www.google.com/maps/contrib/103402069108451285547/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWjDRt4tlJrdAD_adXrybcEJ6rDds8UpS3IuOznUEVXNTd75KBfw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Has everything you need in a grocery store.\nFriendly staff, easy to find and great sales.",
+        "time": 1712609126,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shopping_mall"
+    ],
+    "url": "https://maps.google.com/?cid=4414215463075510389",
+    "user_ratings_total": 342,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 585 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://carrefour-vaudreuil.poi.place/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "query": "Clinique Kã, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339281.132086,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "600",
+        "short_name": "600",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6A3",
+        "short_name": "J7V 6A3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">600 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6A3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ]
+    },
+    "formatted_address": "600 Bd Harwood, Vaudreuil-Dorion, QC J7V 6A3, Canada",
+    "formatted_phone_number": "(450) 455-9301",
+    "geometry": {
+      "location": {
+        "lat": 45.3770101,
+        "lng": -74.0230637
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3783259302915,
+          "lng": -74.02157026970849
+        },
+        "southwest": {
+          "lat": 45.3756279697085,
+          "lng": -74.0242682302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-9301",
+    "name": "Polyclinique Médicale Vaudreuil Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 563,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117529371521004046190\">Polyclinique Médicale Vaudreuil Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfViN6CophV7Oq9Dh2A6gt3zEJelJ9V_1PhyQmkwq6Puyk75BKRXwsuu38pzi10FrZQBJ6iZUz9fL-0k0r93slgYfq-wOYwtlThWxbxDOgB4tECHZFYj-6ssZnXNx_8so5LO502GZmZsUoKZDwKYg13ao-CLOFRNZbIYG4wHz0PqwpCRdu6PSfRdSKn24nbgNRl3XpumgxcBOgkX5xbtVjbCdiFfTGFeK8mAw85Lo4VtgdbqP4Xa7JRi1TPF9hO4QTuxFQ__jBKf56zjDcNAg-gWY2cXdglgbihmJKArbT7_DQ",
+        "width": 1000
+      },
+      {
+        "height": 713,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfUOuqWsJh4GV8E5H-ySqMqnFZeL6URsNUCLf4hXlYbM8ORfBXxdmzubEvPtp7iMO0-7zVJd6APOE_Rkn0wo-OSnLWo2FUmMuvR9jjr2-1TV_afmgFnnw_awz-4edMFz6SPDo-bkXyyybYRFgTm2HrQ-T1egSWAYa95Xv5Ek8RSPJgJPyDtQhhcuT67ykdhCg55wjgRhurcVO0-bLr_aXYfZ3VwLZRXOYDrfh2ThkmpCrJqObrd5EuZ0oQ8zoQM7P6Kw4waGKtNte2LKeTPZJwnaFR8cXgj2aVS3VCJlD-PXFyF9sy4Dw-3Ft27D1GPuF7vq_I-5SJmgGCnkdIExUSpEcJZXlVw70jXEQYHvyiKmJFAqkSvqgjZjRMsjS-2run7wMKvsTSAUDbwIzUlsEyVjuZM9ZiiH4BlGQhEjjvwH9YBJ",
+        "width": 1280
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106538940409447236833\">Laurent Martin</a>"
+        ],
+        "photo_reference": "ATCDNfWTeqMyZDGlqJOQiZoHEqx0dCrIeEEdjKziz9lU3ypMzIfW-SONFVZJRw3RWlQlw-_-CBsMh2t6yp6l0f_4844Wvs5V3cilMCHj-1eu4-WiiF1m48khEz995KjNne0jf6Bbm6BGZH3xMSMjn9uyWJ5D6SGJYo2Jn3wZupQzIM6i204qzO2TuV48Yro8FGLv92oriDJ20Os9MkPACmdvwbFKuzfIvQGgEGDYNGpGZ4riWU7BH0uOr4k_e9_6VPlBP1u9fR2cs9qmmdYkZ2UDMerc-26LmXa02fmkaR6f5_YLpBkVUgSY7_yOt1Q1YKYVuRM4UD0YgLo0fI2c9qgnV2n5invU8EH59ZwDPf76PJMOvH7caHpGXJc4MJ5BVaI132qrU0cwGtrjdjEjws6VwJVs2eV-433V5n8uK81FtlnfEQ",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104446575663188378990\">Martin Tuchscherer</a>"
+        ],
+        "photo_reference": "ATCDNfVI_XyRMR7h5EfRJk1ex6yYJ1Piqs1_qSiA_kNKs0Oe7pC5oy3wnd-SpFiZUoS0wclpaduy7gsD6esMZ106GM8Ykq2HRNHR3ETgA4nQJH7r7utuiA5rHRjG4WCYFntfbC-yn4Oh-XgwpGDVvdhmHHQZhC7fRqEAYdtdZZ6nUQfxVxZQ02VW2gSvCIPaGKvih01j8Q3lC2NouREJIOUcetYDpjXxDyUl_pQ_FkCBlOEWqxHG8sl-L1Pi4vLjXFmOiicJWTNQsKZ2UW3Y11XjbmjJRiw3RGAUH-OEAAhy0_GQ-ggrnocI9AYW0HgYjuOrq1uPVHWs7pa8-nqmwcveRnfN25JagvaZhe0A6AFpVzv5I_1dH5blto16kewFweIR3Y3doNDX1Hub0BbgBCWK_xScvEztL-5Hym32pAFsCBeQ1w",
+        "width": 3024
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105237369830264605909\">Florence Clerc</a>"
+        ],
+        "photo_reference": "ATCDNfX3S6aCdN5lsTgafzFkYYeJGaJ1OfXLv3Of7ddtaTNGVwtgHwg5Fa6iFctFtmRbnCzANXNXjmgwPytj3FrqNF-UXUzaPTPstGUHMpZtRECkPEQjQVSo0Aba0384zNY-P_lG5-PguqvcFMj725DeOyxk5FirFssRXGqzUDkifzbT3td2O94DJVr4nDuo_Ips_U44a8Pgv7EFBG5bfCu67L5G3nmFMJtz_Dd6Us7hI-_M0oHW_SffVlJKo0FmdTw_kBe4Ce_3LXx-f_cfOehOAIV4sUGxkLtjY4WDlrNYmmCAiqrF7kxg-8DU9w_V01YXWPqDoyZ6rgQa-Xisctg6TA9FOowLIDn2PCCDPyiLsMG0BU74yFZHELDJeqMHR9U1tpXz6NVYQFIFy5WFi4oJb8wxSZZEWY0ZVktQl1l6I5XaKOCjxpy44qd5f1JjzdEN",
+        "width": 3072
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117529371521004046190\">Polyclinique Médicale Vaudreuil Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfX-VPFYvGVjLBdaUpNMAzMzyp2jqvoMi0fGle6nanMIznkJrgacUqRwGf8nOYgVUH9KczS8EhaN55vQsTx9sMiB5ZTYtUxx2ybe2d-ey3V3oAzyrgBCY8iLf7THVoGPJrLYYLcsApCiNVJ9-tZyBJyUlsVQNjdzkNoXexQzOVne17MDA6lGBPC6-XpEPhIK_inO-9Xk4lnZo4jXAoVDHecu8f7FUk7Wn0Db0hebe7qyvktXSAB_DcHbIs4LFwAzlLTFAtfciu9E1JEWDva08baJ-C5vO3qyYYTUa3gtIhXLqA",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJi7WjzxdIyUwR4nbFkPfybtM",
+    "plus_code": {
+      "compound_code": "9XGG+RQ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XGG+RQ"
+    },
+    "rating": 4,
+    "reference": "ChIJi7WjzxdIyUwR4nbFkPfybtM",
+    "reviews": [
+      {
+        "author_name": "Andre Remillard",
+        "author_url": "https://www.google.com/maps/contrib/101313581857939457366/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISk2fqqSD93U5xcqv0UKR21tHNr9NBnbaCiCMQKntn99KoeQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "5 months ago",
+        "text": "Had urinary tract infection 2 weeks ago. Gave me antibiotics. Still have infection trying to get another appointment. It is unbelievable 30 minutes on hold. I guess the only way is maybe go there in person. Maybe I might be lucky and get an appointment",
+        "time": 1756935755,
+        "translated": false
+      },
+      {
+        "author_name": "Smily Emmy",
+        "author_url": "https://www.google.com/maps/contrib/100061763334539418704/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq5kH-9eOy9INkKxXwrHHWqh4kA6yIHurNLVvo48ZDdavl8E2_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I want to say thank you for offering appointments even if I had to book online. This past week I had a problem with my ear, the nurse asked me the right questions to understand what the problem was and the doctor was right. My ears were filled with water. I was prescribed a nasal spray which I have been using since Thursday but I want to say thank you for seeing me when you can. My doctor recently retired but I did go online and register for a new doctor and I hope that I get one at this clinic Again thank you so much ☺️",
+        "time": 1753569138,
+        "translated": false
+      },
+      {
+        "author_name": "Jonaralaw Transport Inc",
+        "author_url": "https://www.google.com/maps/contrib/112774954609191714939/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWtETqMYmXlMboutQbXzET240doyMF7kZY6MReI9FhC6u0fQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Almost impossible to get an appointment with our family doctor. My wife was injured and they kept hanging up the phone  as soon as you call without even answering. When I finally did talk to someone and I explained that we need an injury looked at she told me to call back some other time when she's  not busy. They don't care about their patients at all.",
+        "time": 1753104361,
+        "translated": false
+      },
+      {
+        "author_name": "Rosine R. (Roro)",
+        "author_url": "https://www.google.com/maps/contrib/104368344433220361144/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1RqRexy5DiNJp1CcZCrwNGPIwTbSyZ5eyqpNLiLpNKn33wrlf=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Really nice service.  Each time I go there , I always have a super great service 🤩. I love I can schedule my appointment in advance 😄.  And if anything happen  I call to reschedule.",
+        "time": 1741856368,
+        "translated": false
+      },
+      {
+        "author_name": "Tyler Cardille",
+        "author_url": "https://www.google.com/maps/contrib/113669557183705731753/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIm6f8VZi1gBAKHt2RqeSYTyih6INDV2Xvo3TOLkErw31kMHw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Horrible experience. I need an urgent diagnosis for my throat which is causing excruciating pain and they said they only take appointments. I asked if there are any cancellations and they told me to check the website myself because they won’t do it for me. I asked if I could stay there and see a doctor for just two minutes: any time today is fine and they completely shut me down very rudely. The service was awful.",
+        "time": 1728477167,
+        "translated": false
+      }
+    ],
+    "types": [
+      "dentist",
+      "drugstore",
+      "establishment",
+      "health",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15235381734540670690",
+    "user_ratings_total": 504,
+    "utc_offset": -300,
+    "vicinity": "600 Bd Harwood, Vaudreuil-Dorion",
+    "website": "https://www.polycliniquemedicalevaudreuil.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

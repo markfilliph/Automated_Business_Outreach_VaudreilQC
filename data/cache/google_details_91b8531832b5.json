@@ -1,0 +1,425 @@
+{
+  "query": "Garage George Lavigne, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338061.809373,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "786",
+        "short_name": "786",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">786 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "786 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 455-2115",
+    "geometry": {
+      "location": {
+        "lat": 45.372005,
+        "lng": -74.0340154
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3734736302915,
+          "lng": -74.0327852697085
+        },
+        "southwest": {
+          "lat": 45.3707756697085,
+          "lng": -74.0354832302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-2115",
+    "name": "Garage George Lavigne",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113908128350439762186\">Garage Lavigne - Tracteur a Gazon -Soufflesuse a neige - Tondeuse</a>"
+        ],
+        "photo_reference": "ATCDNfWLMpQO0D-2bT61RaZ-OacCp5OfMACBvF3Cp51phYyltqITgmPLuTiPQj2DjpcmDZMIbcC3ANdXaj-xbk2VFkxGebQFToyhJIsBDdeiFwsps61ZDTYEpS6ZKhJ4mT2QU_MbPd8MaOWLGDVcR9xKv-zfeFOfWsomObv8-wDAhDoZwWMshNspAwS2nTrf1FBGhTRirwCBTIJ3d4g5LlB3heroh_mFlcK5-BjgMkHDgNtqJsa4IwSGAP-NzF6p-7IhrQ2peWBEl0zRYWGdBVzQyXLxOomQwl5xcKKuxGrNc2AOqA",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108856004582565573629\">Pro Web</a>"
+        ],
+        "photo_reference": "ATCDNfV9u0-5_q94TZbZqSAPP7hypzFOF3t7YIWMFeykJkpbenm5kRwXXyocw5kz8tOAKGCf3PM-O0J5_Pi_wRyQSyQyh5LWaQAfIb48t_VUxovND7j_TASJbdbEX0h-a3CDYXE8EUU1m5iwRa1sAKceMesRt_QXiJSq6wGSUxYFIXWeBi1FnY4aW4C_Z3b8RYa4czy3eenestdc8_sUsnjLdyt067L74gMWPf-mGxX8eWNM9GDOJbdsxgzhyYYNRJhu2tckaSVe0FzQcWMGa1vLdfzQ8W_bbUf3VfynLfv-Aiozqy_fnlaARFqxqFK3C8UWgfH0sxovTvEpZDsx1Ze5j-SWe4L0Y1h7nr-FKATPwATyFIDzLqgEf597l7_tKdUy74Yc97O2rCr-ta27NE9urolqazg14m885fzhxau4GTKFS74y",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108856004582565573629\">Pro Web</a>"
+        ],
+        "photo_reference": "ATCDNfVfuZvB9_O9SYcmBOkS-TCRuV5WXnrD64PxVF6GGNxZpn_v4CA_hAtuWP3-My8mC_mQv13aPF_5kWcKHGvNjbm6Ap3OBw3a2I74CQp1wTsmK8VRGj-BNFGhACqorjPmoaxfHaX5KsyyeQPlucqbFWCMBOWBZ-0dtG6gxKwiBA0ib4VkzczH7Djs6hkZJVbolm3f54VMLb_XWalc7y2WjOo6ZnbFfj-cxL_GiYbiMHfW51BpTxOKlnErekqLz5Q3OWWEfuPvMEZ1iy5IJooUHvPzkFE6JnMxh3e3oQPm4XUlddG7IhNvpn9JuNOW6_f_BQJ-IO6gnaDlteclde9MaOHag2_SppocVU2b1lcWmSdrZ_8a9q5s6dJef_VIjcklPfxwJf-N5DTgYgl4xCx9EvBUfb1jvP794WECkZCmi9MWa18",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116208526540245124426\">Josy</a>"
+        ],
+        "photo_reference": "ATCDNfWLBE8s6oQXx28wgUnNp-O_HD-MTrNPwKT0cnhMpOSP1dpao2zLCIx62o1P6LoI4YQ5MP-wqa8az0krKU4jNr6KiNY7nmxwT1Up-5a-Up8nH5SkYRO2nAlhbEW9cjPEYnmU86mNzgp3W1Byukf_OAVAj02j6V4xK9CltiYK3J8CyPJ0o5S0Mt0ehh6eZDy_NycTcd2ey29fDAe_FcAnnLVqA_ApGNjriL_lbK28KLImLFVNozvt32o99khUlw4_ZOEAc4efcMWqv5wGy2DPDlK1mhiBAkebPrt22qtAk5rC7zOwVhdKfvQZFJHyMONvocNu6xZPP_rC3lMsDca7kBk5SmI8hC_-2AaYgaPgtEdp72AuyuktOg6P33r84HTvFx7osTF47wp3hNMCTCLNdY5Q3MWzxnbE8yMxbnTr_gHZ9w",
+        "width": 4032
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113908128350439762186\">Garage Lavigne - Tracteur a Gazon -Soufflesuse a neige - Tondeuse</a>"
+        ],
+        "photo_reference": "ATCDNfWkfv8Lp9-iCgHZcDWY_p2tebHSuZk-eGzAq4KwywIbmEPb2V5sY74yNOQ2wh1iIOWVb439DcEWmPDlEKynkuuetq_oMl5fDwA1w0ZjrEHKFf66PdDNJkln7seV2w-jbIb4-_c4AXFa82jcWCR6KC2oMJGI75B5OfyMo1nnpBtk7uC0emlk-fN5fVQxINJqni21XIyFyqATUXUST7s5h7nCAtQ3-he_6rc8ao_FbQ28xbRSHT_Y43JOAn6TAtrdRa4L7S1MJUnYvyIkrQAytatxJpNraM036L15YfW1pQHXeA",
+        "width": 960
+      },
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfU9klVa4Yz-CtL9by5kJOJarcN7PjVCdVEwBm_K7V2GQekPppigp_gP2WZAk-CkAg-f-T3pgGfCyIGXWUUBftzWcz6WSbFPnZLEa7RM0kSKdgBFf7wTO5EHni5037TGZ0TXYgAVWU2j5u7DmJ87Pmf222Skwcln06ItoRTooEeE6vS9EXw5WDyRKDJVomxVIN7W7A8MkRkF-LVRx-Uo51GXaMzCpj3nReB83rIuKTCb3V9KEkAB3fxlACg_uPZ84cmlWekmHY8RP8M7d0xj1Bg5In5toZISk_nRp0uuQdndmAUOlG9HO8EFlcg6DgCeHAONcaA6tKXvYqfAw-ebUwasjrTw0-XDg3DWKKwUkC72TLNqpBXVbztRwcdKgjBz_ahMi87h99uFsNjV228KT83WNJXXVnCfX3GBnvMd-Svjeoc",
+        "width": 4032
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113908128350439762186\">Garage Lavigne - Tracteur a Gazon -Soufflesuse a neige - Tondeuse</a>"
+        ],
+        "photo_reference": "ATCDNfVK76mWGKLDdPPDAUlLXYoVsKLJmi9LdM0I14Woq3W3776jSjnxmXjex958rmO05iVxzePmj_5rQvrIQUhdZyMPsjtmIZEoC1Rx7JmjiFqTld0teu9aFmRDzlcJy1oOkp7vzID5ZAfp5UBf-DjDjdfyvJ13yX5KlYMSgOaT4kYJitRQ-FrtuMbthfKBpoz03pl76sKf821Mm3Aj4BT5vfyTEoyD1_Zz4OUuZfS-KRC5WNT17ikO2cPzZm1vjoQyUeJdRhD_QoCuMYCoL2F2ZIIZA7Ps13vGcauor3RZqbYw1g",
+        "width": 960
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113908128350439762186\">Garage Lavigne - Tracteur a Gazon -Soufflesuse a neige - Tondeuse</a>"
+        ],
+        "photo_reference": "ATCDNfVTG6WzepvuoVqefHZKZ7LTJZWXxeMQAlnuWTFqcbfd_UxaT523ZI94Fa0yT_2c5rwc_6Tr-losUzy652msaYrBwGNEo6PAOWasEeCKCHpqAIxGWzPZZnh3r41edcYNcYKIhCXWS8ucwpTzZVVVZukTyvWuIlpWN1hXDfiYwVDK1ab2UTtx5qsdvXQUK9Ls-u7ksk-0pGelI22gW60xpNszljl6v39oRHpfZw1iDzea-FOCbBaKuF7s944Ax_cz4nNQMO3jYTHPFSFYUwNa0htQUx2XCoVyDfmv5VH3kkEufA",
+        "width": 960
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108856004582565573629\">Pro Web</a>"
+        ],
+        "photo_reference": "ATCDNfWVsgKmYT5xljt5J0QF6GhrxvAMgBfCexJnmhDdb2b4TP2CnaLqjNxRV8xJH0bR2Jve6jW1XGw-tYzdoDbsXH1ioPqxzFcfm32JffOhHyx-XW0_M3wvMudOAPMJJE2b38OPvULG42cfyJxZxW4tsA52bw_rkrpirFHoVP7pUQdbux3406U0hOGn6QaYBKTy8h5_KGOGfvZnsBHBtbOVld2lNZYLxyaGKILO_LHOy7WUnHGLs89YE0aENAtOyOIieOYvn1r_Pg51Th4GSP97Cs3uENNrp5lFyRZ7IRjq4r6iCGddc_IHSy07yCdL6PnIRFE7xVMmAeeaixQOvhmU5FeRX28ZGnmdMk6V1cL1c4hW8TuNHQBZ8BOkpgDfUFP2-nxjfU4ybjt_aWFsbdbQXzaYqdblbsnVtUEru61CeclPdd2y",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108856004582565573629\">Pro Web</a>"
+        ],
+        "photo_reference": "ATCDNfUoF1YXnUpcVw_WckNdsgN05anw8QSQiHtRoMKGOmh1uAijrXeSLmZDqA2ksSy3W8zKy8C39-A3k99hFiE_bsahPX1_ULgrvYxZBz_1n4VOweJQxNkQIsB9UXpthPve3W8KlUNYmS7uY4M2BakT98hLKjbRBu42iDGM6YORbyMzpuIx5fZ-WeID5-1NHrJ9bHLIHQVBo6lfBvTZHBDLpU-MCpUql3TMvdmE1hJJhRzxasmQCEOpbyYZxrL2V2IDWL2h6kEdQyn_qWqvVaziHyszEY7yctmVV1PsK6By4iJG4L_Ob8Z7PXQPGTfRf0YDMpbdex2D2LcPRfYGebs_J_HkSn76Nk1jVOcVj9_UWMIdPRwl3WNUvXWvK93cHvNZ-cM7kE6cf1EwhTef1xwEtJqcCIllAsV-2G8BVuxQaIlAS7Dn",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ695wyjhIyUwRQwQylbqbIW0",
+    "plus_code": {
+      "compound_code": "9XC8+R9 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC8+R9"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ695wyjhIyUwRQwQylbqbIW0",
+    "reviews": [
+      {
+        "author_name": "Debbie farrell",
+        "author_url": "https://www.google.com/maps/contrib/113782965418771028010/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT5LeNotQFhgZ_ooNFUThg63Wa85bma1JRsaXLf8xMwzXGwOI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Had the pleasure of going into this garage today for a simple repair of my lawnmower. I ended up asking a few questions and they were able to answer quickly and expertly. I asked if they had time to check a few things as well even though I didn’t have an appointment and everything was done. Thank you so much. Great team. Great price. Very happy customer.\nI highly recommend this place. They know their stuff",
+        "time": 1724522100,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "I've been coming here for years whenever a need a new air filter, vlade sharpening or part for my Lawn Boy mower. On my 2nd Toro electric trimmer.",
+        "time": 1659929750,
+        "translated": false
+      },
+      {
+        "author_name": "Fabio German Palacios",
+        "author_url": "https://www.google.com/maps/contrib/107451185420411268942/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHielafvExNSRQ-7GvwtTKCRuGES7m-L8fwqNTrR0zjwnAcOkg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I went there to repair my toro lawn mower and I got an excellent service. They explained me the possible problems in advance and they tried the cheapest option. They saved me money because I didn't have to buy a new part or a new machine. They also have original parts at reasonable prices for maintenance of your mower. After having my machine repaired, they explained me how to avoid that problem again. Very friendly, family business which takes care of customers. I will definitely go back and I will recommend it 100%",
+        "time": 1685808228,
+        "translated": false
+      },
+      {
+        "author_name": "Daniel Bernier",
+        "author_url": "https://www.google.com/maps/contrib/105124004650587193962/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDwRQ73gEtIKd-0CEF2JBcrXpbw5CGhC7TYlg0zNnkCGalhg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "We replaced our ego trimmer head and had the best service ever.  Also bought an hedge trimmer at the time and we are very pleased with our ego products.  Take the time to experience this vendor for a personal service.  A lot better than the big box store.",
+        "time": 1624911112,
+        "translated": false
+      },
+      {
+        "author_name": "Ri Zie",
+        "author_url": "https://www.google.com/maps/contrib/117024450852788847273/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnnBFgvJOyCPBFAlcV6AWR5V8JgqtfQQrVzwQoYXwOlgH2ui0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Greedy in one word. I Wanted to buy a snow blower they had listed for $3200 on their site. When I asked if they had it in stock, person put me on hold. updated their website and upped the price by $300. Not only he lost a sale, I purchased replacement parts from another vendor and fixed my blower for less than 5th of the price. Thanks",
+        "time": 1641848181,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7863737650034902083",
+    "user_ratings_total": 116,
+    "utc_offset": -300,
+    "vicinity": "786 Rte Harwood, Vaudreuil-Dorion",
+    "website": "http://www.garagelavigne.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

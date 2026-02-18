@@ -1,0 +1,449 @@
+{
+  "query": "Le Golf Club - Golfin Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338520.3054461,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "83",
+        "short_name": "83",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de Lotbinière",
+        "short_name": "Rte de Lotbinière",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1Z9",
+        "short_name": "J7V 1Z9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">83 Rte de Lotbinière</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1Z9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 1:00 AM",
+        "Friday: 8:00 AM – 1:00 AM",
+        "Saturday: 8:00 AM – 1:00 AM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ]
+    },
+    "formatted_address": "83 Rte de Lotbinière, Vaudreuil-Dorion, QC J7V 1Z9, Canada",
+    "formatted_phone_number": "(450) 218-7555",
+    "geometry": {
+      "location": {
+        "lat": 45.3802154,
+        "lng": -74.01306850000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3814389802915,
+          "lng": -74.01161256970852
+        },
+        "southwest": {
+          "lat": 45.3787410197085,
+          "lng": -74.01431053029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/golf_pinlet",
+    "international_phone_number": "+1 450-218-7555",
+    "name": "Le Golf Club - Golfin Dorion",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 1:00 AM",
+        "Friday: 8:00 AM – 1:00 AM",
+        "Saturday: 8:00 AM – 1:00 AM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118362261203964440551\">Jay Weiss</a>"
+        ],
+        "photo_reference": "ATCDNfUrqdM6PcHH8pFxSKNRr2TEQh5R_TqEQxTkqO9vCBZXM2Tpe8qctxdzGoJfu97EaLdQq9I3D3jBdt1f-N1MpSzZa7b4sIXHmJjyoL1G7974eQnV280qRAGvddJAJzjsBu1ZpM9vTgPapR9R_dUXZCLCcCbxzB0atIdmff2q3mebLApYVtJpKReQgNpyDZNEF_Yx9lExDP6O3dLawfkuVFzcGud_qj8n13h8EEJ_tNt46knpIojOtowM95XK3I7qfPWTE52Uj2WrSYCiXTs0UvnDrmMtOMfPqqxU1L1BuMc8b0GG6VJxT9uoR6-rhGXCErp-9xhSo6Ww_u0WoqAUEgpCfF5lfGtHriYYmS6-QF8kjHKS9m4lRT_rSgiZ9Oa92--Qa4rvgWdt0Ze-e1l95J4oth4yBbOl7MEpzRnAsqM",
+        "width": 4608
+      },
+      {
+        "height": 956,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717146498842512150\">Le Golf Club - Golfin Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfW_gwAK4tPvfY_H6SIbM1G3BjMsDbz6NRASMa9TjQsioUixGA8xRtRGQZQRagsje0cPRDzUfXCutJx2mQaztkc16Wbnx8D44z4_YyNT-_HBx2jrbOO7aL3JRikk2IaxU-_xVvWJKvc4gVOzPDS7vomEUWD2Isz1pM7qMbBfOSNcBwISRA5ZcElEh6pOZkzdCLxcTBT7OWl0kiwj_bWxnABSYC_orzW4RaVVmTZiWzO4_iK8bgXjAAtD-AoFZ3GrQDAyG1stXoPiufjzeoF1LJt_vJRkCvPhT9SnypKplPCquw",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717146498842512150\">Le Golf Club - Golfin Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWsEgs8QRoehBIjQNn4Hu7FxXaZCMzidaYCKYPohrIqAU9BI4AsxgiBvkjxHBFswqmwOOv9AV4GnujwMZQR8nuOLleBx-CDr8o2LfxFGaX7qlQTe-u3V9BCu5NUL1gRqYxOLiFUWXvartlzCETIFesiubam3_NVOx3cb0bn5MCev23DWpA1qXccTlU_Ijt2_phGkGT91bbU3TqaSlauQwHp3ouXmxg4uRbnag9jy3URYshBGpEzryHpfk3OSKik62dAsgqLzCHGReorVhIqCsFRFfYLozeWOJ1QZN3biV5kIA",
+        "width": 1280
+      },
+      {
+        "height": 1840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717146498842512150\">Le Golf Club - Golfin Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXm3DVZz523zc-0hMvceABpMlDzW6YNfVSf28KVzP-wJ-3hq48vtL2UjEFZRiTWbDiBjCCE8Wnu6ucGtjmNMLM8cE78qUa53epOwIeXtiEILc8Q-Czps4HzUsdjuKeAKYmpzvektHIb0xBslOtbTgPSRR770z5tnLw-tUgIBAyuVLzmkdslNo0Aji24_tzjGex0nCmkqj2VCQXrL4f11lLvXcqJ7FTkN9vEbRGysaupsRjtVgne6SJBqIMLXHs6gmvnBhf9Xd0m-3lns7dYUxnyKZjEMKf5m12QbdiL-JXO7A",
+        "width": 3264
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717146498842512150\">Le Golf Club - Golfin Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWMv9wmei0BV9khgROSa8_ZwqSTHOOemOzs9-MPoBisrS-EZnwZ129ZufmF4MfQA9OtQH8uQ9gTUQVZT7YRaYqcfjfqjihPgp3NO7R-dpS0A3BPwqovSfIQmtL2EpQFBgx9TP2k2pKceHkKkeUsfVR4-IiDVlnL-auH_rnAfpnfgQRtEoYbu29DfWkQbCGil_F1hZ8Hfz_Gwi_nePFi6MlLk1pylp2iIeDAInN4PI_iprSkNOdQ7C0mjS7UKLkqxSxJZGDzAG_jhJ_PdrJz7lpVBWBIfGV3JvM-_Z2Dfcd1rw",
+        "width": 1124
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717146498842512150\">Le Golf Club - Golfin Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXVc3pgeSq0dIjAwTJfD6otLBYJsrIIX-nO3kh5ows7wj6ZEmmz66v773T0yi8NhwzpuJAnOIQiF7ruJWML4sz2_1qF5m1LESNsDPbpdgnvCuFuhLgCyKWM3BGzaSNe7xfnAyc9nzMp1VSds3qXMZJsHAJ2ZTo6Xa02JxdlUf-lqtMaEsgcfojTbI5T35p-EDi-WnDPMrm_DM69gV-8JV-JDCGTH25nCEU2HuKSsmDajN8W9qRyL81hmVafQyQ79LBdJTm-0zgjZ0bG_4QAmlI7gtzbea18ba-31s3fiJeUNw",
+        "width": 1536
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717146498842512150\">Le Golf Club - Golfin Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVQf-urhVyub2r33CMXdOX7umTniPlfNnQRRPpq2afU8RE8SdeaoBGJmpQGaIiDdgZd8GIvsDmJ9X11nmwj8KTpAZqp-NSpoQPIK6LH_N4WI7UkwZS4Epg2yQ4kvzMXpVfk_MDewXRrFDn93mjNddbVU_LvzdXNfK6S9_mRCDNbqap3FHUY1kNRBDCxN-5Y8h_q5LaPsUIlGCOz7LKLhBl9eezdTrS6M7_JSk-O_v50yGzfoZsgxK07cDRwqoESw_lJdSmBB8cJiOvOZYijfgsy9DTPo-pbtm5umELV1b17rQ",
+        "width": 3264
+      },
+      {
+        "height": 999,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717146498842512150\">Le Golf Club - Golfin Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWeSpJCkGXTQ24rNwxSMS7jL_ankJFIqJVtAJ7oIkZXnL7yGHX26rFxQ_tqiPzqMPVkXrngKXpqAS__2Rp-_HWgNKLn_FAzQOqfvsmxWYNeA7esfH4qa7hIeSsCmeTn9EehtZShqDiKdXZFua_7A6nniZQZ_xQ2G9BU7s4bhWm4VY0tQ2lXYvnIDDivP3-KPVQQ6eW70GPNoXH4yvnKofl3qbgTLlCXR_TwCfI30CG79m-i6yfnCZfR26vY6twmt2ZEHMk2YBuWVvH__cXVSrgXFwudytqkKZcKISiSuiCrMQ",
+        "width": 1334
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717146498842512150\">Le Golf Club - Golfin Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfU0pMRzpX6KU-h8BE5a4p1RujJqzyLoUt1z86A-GyrUjDlWzJitNWsT5V5YZeNn14oYTdKHU2mjVnoAsP3tVtpRGJY3Mi13WO51nF8EZPPTC1PN4MVx-pyOozIn6298H2XMzVrhTV17ftYcGDdzzydMAfILAd6dRGpvmO2fMWUkHV2alC-HdZFMRVmBQu-5xMcCDsVfmrbT0bKYeIpjRBOarHhfOT-Zdohy-r_v1QE67qF5L8Nf1eerSgt3hW7NjhbFtTbpGyTVR5H6d96UrIVYd8AkuwatUf-LCEjgJ6V8qg",
+        "width": 1280
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112717146498842512150\">Le Golf Club - Golfin Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfWoj2EbNhPqdPXK0-s0zxHeXqhp7zNG0bEz3ux4aCAphK3ydqLom5aKjrU7uOBq0MeGnNLNSSsssSgESLwAPMWpMleUn6K_aBFtvOA6gltHgZEhF5DeiMIT1lLpniFREIaW-bAkBCza6ZebHCSYABEOovjf-Oew69asPO7j6HWFUwZQKbNZHch7RAelGAT8-WGF8diHdGUPZS4a6lZ-KCWL0kM5hJHtyk-aD7uBoR3fEOAsvC54ezRK68zm0zaXiiEc_diyrxgglnTNkWJYdLMMAjbEg2IRa1DpEgEGs05grA",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJlaEKBxtIyUwR2nlrb_ER9nk",
+    "plus_code": {
+      "compound_code": "9XJP+3Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJP+3Q"
+    },
+    "rating": 4.9,
+    "reference": "ChIJlaEKBxtIyUwR2nlrb_ER9nk",
+    "reviews": [
+      {
+        "author_name": "not human",
+        "author_url": "https://www.google.com/maps/contrib/116462589024306404513/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoBS05feNe9XypF0P6NWnsiNET51wNyTTulwxESlrQN0O2mlq4=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Great atmosphere and a staff that really cares and knows what they're doing. Simulator will occasionally not pick up a wedge shot if you hit it too perfectly and putting in a bit of a joke. Oh also it's adds about 25 yards or subtracts 25 yards from every club depending on if your swing speed is fast or not. Still great feedback from the sim and a great training tool to stay in shape for the summer.",
+        "time": 1639691133,
+        "translated": false
+      },
+      {
+        "author_name": "Guillaume L",
+        "author_url": "https://www.google.com/maps/contrib/110762466039084143080/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKPWRE_ZRQsUYdDd-6vwqDko7hEU2lASSnh_-Rfh6N1TlAjrY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Friendly staff and very clean.",
+        "time": 1734487318,
+        "translated": false
+      },
+      {
+        "author_name": "Susanne Butler",
+        "author_url": "https://www.google.com/maps/contrib/111123998727693870234/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBmgQ66k_px2Sq6252Zuhtkzz9cjmhgTI-niGtbWPz1boDVbc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "This is a terrifically friendly place to play virtual golf. The atmosphere is clean and service is speedy. You can also eat and drink while playing and you never feel rushed. There is something for every age. We simply love golfing all winter in Canada. This is the best way I know to get exercise and keep your golf game sharp during the off season.",
+        "time": 1524665787,
+        "translated": false
+      },
+      {
+        "author_name": "George Toth",
+        "author_url": "https://www.google.com/maps/contrib/105988643537892656154/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDqFRdcEuB31jAnI-Yl4PqYxQ-lDmULsTTjG7oVJuvk1J4xw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "I love this place! I've been going there for three years and a regular member for the last two years. the simulators are great, and the atmosphere is assume.",
+        "time": 1457447247,
+        "translated": false
+      },
+      {
+        "author_name": "Peter Crooks",
+        "author_url": "https://www.google.com/maps/contrib/113526619919503047908/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRU1qP-U0YVZqlYrQqWIUG42vCqWCfxQgy6czF-CbZ-RLe7y7v=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "10 years ago",
+        "text": "Great place, the best indoor golf around, very user friendly, good veriaty of coarces to play and being able to customize the way you want to play. Price is resonable aswell, cant wait to go back.",
+        "time": 1454345665,
+        "translated": false
+      }
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "health",
+      "lodging",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8788231451514206682",
+    "user_ratings_total": 60,
+    "utc_offset": -300,
+    "vicinity": "83 Rte de Lotbinière, Vaudreuil-Dorion",
+    "website": "http://www.legolfclub.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

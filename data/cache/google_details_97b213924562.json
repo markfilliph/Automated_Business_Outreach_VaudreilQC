@@ -1,0 +1,367 @@
+{
+  "query": "Dorion Gardens 2, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338452.292227,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "110",
+        "short_name": "110",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Des Aubépines",
+        "short_name": "Rue Des Aubépines",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9P9",
+        "short_name": "J7V 9P9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">110 Rue Des Aubépines</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9P9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "formatted_address": "110 Rue Des Aubépines, Vaudreuil-Dorion, QC J7V 9P9, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3795455,
+        "lng": -74.03363180000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38030463029149,
+          "lng": -74.03249371970851
+        },
+        "southwest": {
+          "lat": 45.37760666970849,
+          "lng": -74.03519168029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dorion Gardens 2",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108241377827114579244\">Catherine Miossec</a>"
+        ],
+        "photo_reference": "ATCDNfVjuOjzmzoEvabl_vH1A68ZyTkgqvOdWxldTlgFI5aMue3JGYse2RLAsDrA8nQmrk-We_jQhR-_7J9W2eteheeNgQV5GOQiT0StjkXjWNHynGmeiD7xh4JXzWL75rG1vJaSYeTPN3wDXXNw6v9PDCj0OYBzdlEO-2TmqxorIl41xVJFYS1rgB-gMy-_zImS14Ix3txR68MgDr0th-cQ4M-HHxR6Fbqseu5lpxV76ON3dBxWAet9-pVQ10kQArpODuZSeCTjMkiu1Pka2ajc16hHEdziBaqQPAHLbvedR5y2EqLoe7qGObEveOs_Jy9C0mLkeNvAlVtmlHNbo8jHIyiRiHzK75ImyIxt-Lh1omjedBRrPobVcHU5EwuoDYOJjov0Yp7gAsrOVbF044Fsx66cL0Uzm4HoHOOorQZMQBX7hf0l",
+        "width": 2448
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108241377827114579244\">Catherine Miossec</a>"
+        ],
+        "photo_reference": "ATCDNfXI1i0tuI37fFDiGiCFLH0HXpzW9Z6pq835g11IrA_v8CXKQZrx9LtRy8tI8KSJ64712h4a_3Jb_O_0mgX49yL2vKxrWENt12cMuO3xb9yioWq5cKSlFlpQEOW6qsNig-jk_zsyqFHGzY5Svi8lJ3P8KVmuweLeTgWikAGOIFG-Hl188D7PpwgJMJb48ZgXLkoxXq9MLjc8RYr4LapojDCta5FA5I6G2CTBNiCSvNCTLYSBPY-2jtCceFw2AfrCKFhUVsH2D66GnITvzVKcs6THsRH7yYe4b8mI2iEmvz7RxG-x02RIfVtqp1_Hpu_GHsXkO5km26AjctA4_AXajJBMo0mNxclqJgPxou4iQYSqlHJ5W-kzSlb2n5M6gkdY8SYRk46yFtyrpOARth3gMYEKhNs3ETN0i9N1JkDn3GaKQpA",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJUw8w2TpIyUwRmuuUl-n661A",
+    "plus_code": {
+      "compound_code": "9XH8+RG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XH8+RG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJUw8w2TpIyUwRmuuUl-n661A",
+    "reviews": [
+      {
+        "author_name": "Zaki Sheed",
+        "author_url": "https://www.google.com/maps/contrib/102221350243988758373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL984WmPpmMRlgNKoqC-ADJFdy_dt_EXn6WhS1GhOyUWDbbkg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Beautiful place if u have a kid",
+        "time": 1556367774,
+        "translated": false
+      },
+      {
+        "author_name": "Zoïr Radjabov",
+        "author_url": "https://www.google.com/maps/contrib/100249706059581510387/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1QLo-YZnjg-Fp69pYOT8FBIQCkRU4h4VpWyJG9SERQP7a-pFlug=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "10 months ago",
+        "text": "Nice",
+        "time": 1745109102,
+        "translated": false
+      },
+      {
+        "author_name": "Roch Monast",
+        "author_url": "https://www.google.com/maps/contrib/106449977178470494445/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKORUSQz-mrlAHh3s10Ij0BN2M8WtmDffAcydGnEQ0rpRoXmQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Very clean. Good for sports like board and baseball/softball.",
+        "time": 1496757782,
+        "translated": true
+      },
+      {
+        "author_name": "Michael Mc Donald",
+        "author_url": "https://www.google.com/maps/contrib/108219058289873656265/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxmavLZkEz6HGt4kcJIgbFo5Y1LwYM2GeXOwkeqT4wEXW0CwIVxQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1717730573,
+        "translated": false
+      },
+      {
+        "author_name": "MANPREET SINGH",
+        "author_url": "https://www.google.com/maps/contrib/106076616808436776132/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHTrMQRdLHkzjWAJLI-trxHK7koKKJxBw7NsY457BWpXdwpDg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1703545989,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=5831030023738682266",
+    "user_ratings_total": 13,
+    "utc_offset": -300,
+    "vicinity": "110 Rue Des Aubépines, Vaudreuil-Dorion",
+    "website": "http://www.fctroislacs.com",
+    "wheelchair_accessible_entrance": true
+  }
+}

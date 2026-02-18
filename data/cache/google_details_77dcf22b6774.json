@@ -1,0 +1,445 @@
+{
+  "query": "Deepland Express, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338138.743524,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2470",
+        "short_name": "2470",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Henry-Ford",
+        "short_name": "Rue Henry-Ford",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil",
+        "short_name": "Vaudreuil",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9H5",
+        "short_name": "J7V 9H5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2470 Rue Henry-Ford</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9H5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:30 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 6:00 PM"
+      ]
+    },
+    "formatted_address": "2470 Rue Henry-Ford, Vaudreuil-Dorion, QC J7V 9H5, Canada",
+    "formatted_phone_number": "(450) 455-6600",
+    "geometry": {
+      "location": {
+        "lat": 45.3746519,
+        "lng": -74.05116199999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3759520302915,
+          "lng": -74.04991196970849
+        },
+        "southwest": {
+          "lat": 45.3732540697085,
+          "lng": -74.05260993029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-6600",
+    "name": "Deepland Express",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:30 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114330014410583489249\">V</a>"
+        ],
+        "photo_reference": "ATCDNfWNFqOGlmq7RempNCl-NWUXG-H5sKE_NBmeMAWou39Hqx0K52ilDECgyk6Xur5T1O44UI3fTIwpvwL0KzE48RksHwlG43Be795s-eI6W7YF0KMbv-wv7JrczAtAJJf4eMRsutQ-wSYwxR0VS7YKDZE-bD-UteLIVSa7ISuZU6-pj9TWZtVkCcOa1ETpDcXQeNrVTc4rY_uhQ_fkxEN_S3s6XnRGt1FDhT9Gl93rBcIabZJFVOSXDb2u3so_rbtIIw9C7Bws1MTLT-Npl3gtKL7-Ww8GDmXlybxPqgBkAs9XK_ZHBQG0iCqBwnQU5uR7BAUQG61B6sjHOn8Eyj4tRW3P6rtp20VE_VC250QHW4eY24sXEB_CrUjcVntI--ImxWCEP06YSTfKUN5dQSYCJX1aZk2lmSUMchkvBS1cOyTcuqUd2Q-I4J7CZxozllwy",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114330014410583489249\">V</a>"
+        ],
+        "photo_reference": "ATCDNfWsCSZKLa_pFEbjdqyn_dqXuoUOB3HEOjEZ6EBrOwWOG8B2hyLSGPxRLE9ggHBaiym0gyVTh_0JFoHcoAB1Cq08n2hnIEHfgBe_ROrL9GFg7YQZkKYoTE_q2JRFDzdALtGyEbtEyhd3evpqj3Ss1zsHDQbJXkc9Exjz-Md2oT-UWGSL0uU9f9o_2NuO5lIekz1bBoC7K_A-h8g3xEjwRLLX6RqB2Hh8_QJWtG9NBiE0SpWkPtGEGdt6NPGMC3Z1teGnYQfA0ADGbccZVba2EMMmUcYD4XUu3rZBwTvad6Q3KgafNSARi8VToVOg9ii0DXNQAjDPuMh7gRfWR5Jit9OqyubKQNi96ahhqDq22upgyiMOnUz_C0-MMGgyhyD7pyG2iNxJeHT81gORQUK5IL0FQqgAAm_pbN06rXrTSLfEbVX-Nwjhz0PEi7klnpud",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109681529723903540940\">Jaskaran Singh</a>"
+        ],
+        "photo_reference": "ATCDNfX0ghrQOe0ENJr3CcUx9AphYXu5EtCeU_Oe6HzLFp8t3Yljs4j40jGiV9Q3QYdZEkPyBz-kmXjITgeKqE-qI2bfb16yMu6WthQUOA-bBZG4cMHm_9ECev3PVLOx5SPOQTqrRRKhpAV7wYVj_F742L6CHRMlrNNj9yeVl1G0KO3IcF8dMnwrIFlyJsAKneFm0-zwWs8voCfm_E6h2Hv_nhaS5nYcL_VwgGS1H1zEbRRlpoaX7E_gy80NfeeUJjrpq4wtF8BxjOxAUgi6lGHOUjMDONaTYRypWhzDze6IFJKAs-Qs4Zj13lMpaqL7HzXcDPvOxdJLP_CsDlC6UAVV9uESDo9UeqzjRYUB3CTqmr4cNIGxfUNxF4HQ_vt4t11zxrKmiX_6yVfw8kWuMVflDbC9_MZRJI72Fgm_0MXj3vt3QaV2Hid94nTB1L5yMcaF",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113387221160217050117\">Deepland Express</a>"
+        ],
+        "photo_reference": "ATCDNfUAyJ7icmfjfmvsToZkGUErWvaotvER5Gn86FyzC7ofWWUvfl2PhJS-MmhquHdxgT2DmYzcUkhL84zLSdEe1cz9nV2dHrypgXfeeOpNeEn1MKB_z7l4EuUVIgDuQvq0SaIVW2nDj2NVKxPD9DLNqfdtdy9d-sb3RuLuIlV_EQ0iHgTB4Zg7T6fTp8-sJqUNwQqkdXIafeWHPJ-iLSSIjok1Zs8YTaEMjM3EPVvUZba6BtAwQXIkWS08e3TArRLHxLxU06wz9gv32RKs3Qazgj615SQGOx_5KhYy1mATvKcPiQ",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109681529723903540940\">Jaskaran Singh</a>"
+        ],
+        "photo_reference": "ATCDNfWr1V5W4JeCi1ugsOtNBi6FlycVHxceTtOm0ngay3a6e_WokASed2fPGGaoXqCyAgINolzz9Zu43nAbjrJ8sw0RK3EYgvb2BHsV3d9Pqnu1aEJNW-gl9-7eRHkaTj_2KXG2xLXO_2PPUW40eMUYLTZ0bgUAdFHhPOHbIpKhSBsdgpjqXpgmEivzyFsF76TG968H0GKJsgOn1ID_HVblMROmR7-bUqvk-zXJ5QLy3ZvYYQso_J_6NVj_uNcerl_c5gW97i4UvqE1Jhric3lhRfPbzqvX77ZlX7G6gMfvvEOscxqFKGEKL7WdkocRdEJOHKb8I9KbSMFYWHqPmVeTBaIwWt4u5UMkbgOS9Jfk0pIYpLPnrHF12FaDGDASwl0sv7fUD2U7QTTFA-3SuckSacf1q9I4RItdayXPnL6SjW8",
+        "width": 3024
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110223682482984294944\">Fit Trucker</a>"
+        ],
+        "photo_reference": "ATCDNfWSjhnqrkCJcwNbML1o_q4fLlMlSJM6q2IYvXRWHjouIndp0k-1H98Qh7XxIK86eytvYrFawaVySbhyVu6m_bQSVFFsozSsWO_AzCbucLmk-YN5HkLB5vnYbqSFVEJCTwYyZgwMCNLO93Cx-x_6CFCvWuVjZ8OA9ytPIEqrbnKH3AgSZ_w5IV_4EbGpKncNiGTvrl4x6qyc1BVCqWsw2SpGEsd8kXPWgwkke-HFxNqokHNLgfQhlCN8uIDy55lVPsiRUzjbtM9Q6F8rrMoFj_x1NR7MasaOLNLu46oyLRfLP0ZmfKApKCz3CJtaZO5a0rbDNIkQWcjOux-Qnra88Wvf48b0TY2JjlUYd4LP4jQtAIA4Jr2zmNhoOwD-MaYgwv3vqWf4imkGd2bYyRIa5BcvyAfZryRxTgtviWjLGdCUdg",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109681529723903540940\">Jaskaran Singh</a>"
+        ],
+        "photo_reference": "ATCDNfX8xkZYJrkiVaUt_qzP53HHxzvjxJ8-IMFkMnQdDo85EYOaVWcHFy9CWGgiURQJzY-kwMyPxnvNaiJ8-ufWyuu2FfDbpnjtW4aFrtBT2Nb0N0AsjD0VsBgN9KI8FL635Mb2EGrfIeoTYla40PCRpmBui_IHLI4hCJMEOXfg0UwHH-SJS6GVmUQbIFa33Mu49eA_K8qXmE94rvkN13rWAp9XkmVHOZUeaelLHUi_Nwq9NdqAY0irUA2slRQC-9eRZxJHXtZDL_xSxL_z-07c2DTHFtMPg3krWopwqsuRZJHY9_c_alyr9su3EZUlfRaV0XnXuw-cASvHTSDi8y86lVpJ-QBv3EYkxvvBff2REN9yJpctVT5yoy5Yse9O-DGF83QDlW--zRQGX6De424EqfmZvLrinwhiWQdXbNimSA4-r7c",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109681529723903540940\">Jaskaran Singh</a>"
+        ],
+        "photo_reference": "ATCDNfVzrqj0fgFmcDCuSn1eoQWiEruCywAVNL3_PAma1a4h5cR2yTROyaAbqWwY_J5mHMBxN9UQxWvZGbZmtKr5FnvERFbq24uaiV1oy0LLGJF1LYFeMGUAVQRSNmQAOmuZb1HLd272Mfz-r9lQUWy1E5pJ2ZkVYVePPneZtNuY65wuXt0tpF7MaqJUH5EPTMZZIQWrsk5eWSSX3ShSdIu9ds-mdOrFAEwg89Ueue8b_3aM0I6ZffBWKETPAGTTZo0Ob1J15ADPcjwnOffs7b1FXxg8v8Rlo-kkkvMvBKMmFfMOTz44E84xFvrEvTqi4VbJ0rkgKw-7gTSMtUPwzhjkLNF230oqxjWv_sgRw7vgx3FYAdZ2onm1ZXNE3irAabIgRaAccTp_QdS1oc03Y5neV4QNlwi4cNclG8ALGCcB9L82DT3hY5Gx-t2UwxZPiDsL",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109681529723903540940\">Jaskaran Singh</a>"
+        ],
+        "photo_reference": "ATCDNfVR15WPnSPOPxW5LLBbGppfi4tayPxmqmFxbHUNi4Tysv22AL7ix0HoGPblv7fktylSlC7TYVg8DzXz2Upx5Ve9azpDSEgpy_eLFQDApL9tUWidPq_p_Qs7WoWkMhl5SODhy9SKKmFT_Hs91bs4HRuSbliRjRroW4gUKKr7oBgVAIMYcTDNiQK-LdG-EVuQCQTrmAg3gA9lWqUhzExCRF0M36FbjegcB2KNuuErY4HCX40WnWDdmVbaJEiR5UeaKUTHk4mnIYtRKlAsKJy0y4kYJbh8n_29_15DcyHj73eurmypUCWWtY-KucOmfgtEzXgF3AjLwXFU55hTV49-f0cDJuHSI0ct4QhirX0KmyPmHwn8lvK0U0O3ZBq4sX2uMOQRcr4D7qe7MIl4iNyJU-OQL7DyhPgE14M5v69kLDrlVE745LLnO_Ye4pM0xg",
+        "width": 3024
+      },
+      {
+        "height": 354,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114330014410583489249\">V</a>"
+        ],
+        "photo_reference": "ATCDNfUrRLW_rPrTHB5oJ9vBFOhPVWQi-owhVbg3d3DRhNTjUWCNggcR2H_YkqdjhbCtOiB-xfITZiGHypbTrUfsfbsO6O0E3Xv0erU1_myVov2b-ys9i9VWY7xDfE_X-QoQb598jrox2mg2c4TYnMLZGKCrn_WH7Oq9djGZa1o7hYN3P-tPyjlkKfLS_HVW8MmnAd3Axdx1aBJ0BerUHl8AFG6JTJJhxNyGXmnz4-Pt3alpf9RV0RRarSssehU_g_XwWdVZywtCn75gYgES0ag6qRsRuQSf9D52xRwFC44KLvpeICCpH4lDLwHp0BIzl7ypzhq7EeS8HbtWoXyDFvjGOD7VU0guq8sydx2qxuuvO2o4tJW_DwGC9BFxZ_gvLKFqkcx9Z0p6W3izTZRiw9ZW-4YXbZWxJSp_1Q4NtJUgp2Nyqt_W5SCOSNr0MMRjeg",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJrWWGOzVIyUwR6KXBGNIyvB0",
+    "plus_code": {
+      "compound_code": "9WFX+VG Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WFX+VG"
+    },
+    "rating": 4.3,
+    "reference": "ChIJrWWGOzVIyUwR6KXBGNIyvB0",
+    "reviews": [
+      {
+        "author_name": "Tony’s Pizzeria Tony’s Pizzeria",
+        "author_url": "https://www.google.com/maps/contrib/111880979746854967197/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5oCr6I8aaX80oOYecqOkEX9Fko4I0C0YVafvPRztAmxMhM_g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "This is a dependable trucking transport provider that delivers quality service. I would highly recommend them to anyone looking for reliable freight or delivery services. S/O to Sabrina, Deep, Varun, Baljit and all the Team.",
+        "time": 1767576976,
+        "translated": false
+      },
+      {
+        "author_name": "Meagan Paulovkin",
+        "author_url": "https://www.google.com/maps/contrib/108364824707552211262/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXE9nEOZdzBSccH90ujprTOO4F6VRqidmCQIj2gQVFift-4g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "If I could give zero stars I would. One of your truckers almost took off my bumper while speeding and changing lanes in thick fog. Not impressed!",
+        "time": 1670358315,
+        "translated": false
+      },
+      {
+        "author_name": "Grover Jackson Engineering Team",
+        "author_url": "https://www.google.com/maps/contrib/118046520535474490136/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHZdZW2rlPzaGjEV5Brg7dTgb3dttL-ce402bNge7548Oz7Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "I was driving the speed limit and the driver tried to run over me. Filing with us dot. I called and spoke with the head of safety who was so rude I blew up. He said he couldn’t control drivers…if you can’t control the driver why are you in the business",
+        "time": 1675104161,
+        "translated": false
+      },
+      {
+        "author_name": "Jack Alexander",
+        "author_url": "https://www.google.com/maps/contrib/116008785961563729953/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZBQlmfLHEbjaWr5a3TyuQ6_G7k7xYqIect6k8QRKKsnAT_Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "We are very impressed with Deepland’s professional and reliable service, over the last 5 years. Thank you for your service!",
+        "time": 1678675391,
+        "translated": false
+      },
+      {
+        "author_name": "RAMZI ABISHALOM",
+        "author_url": "https://www.google.com/maps/contrib/116355271865000248168/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL00rF9q1LNLs22wFhXgiy16IrPdQwhTPvXNucSH53mphmFkQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "i called this company to edvice them abut one of ther truck with air compresser keep goong of every 8 second  IF compressor keep going like that we’ll stop working and you loss all air when  I called one of dispach told me dont need my edvice but they dont uderstand its driver sefty im concerned  abut driver I don’t think this company care abut driver safety",
+        "time": 1741023082,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "moving_company",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=2142643400661378536",
+    "user_ratings_total": 115,
+    "utc_offset": -300,
+    "vicinity": "2470 Henry-Ford Rd, Vaudreuil-Dorion",
+    "website": "http://www.deeplandexpress.com/"
+  }
+}

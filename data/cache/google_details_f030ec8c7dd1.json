@@ -1,0 +1,364 @@
+{
+  "query": "Multi-Centre Saint-Charles, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339777.264439,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "418",
+        "short_name": "418",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N1",
+        "short_name": "J7V 2N1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">418 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "418 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2N1, Canada",
+    "formatted_phone_number": "(450) 424-1757",
+    "geometry": {
+      "location": {
+        "lat": 45.399044,
+        "lng": -74.0268226
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40022133029149,
+          "lng": -74.0256119197085
+        },
+        "southwest": {
+          "lat": 45.3975233697085,
+          "lng": -74.0283098802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-1757",
+    "name": "Multi-Centre Saint-Charles",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfV8RVtvIeJyzQ0JpWsgq2b_f3fhQWMHuKXoBr-N9fSG2_1uU6tXIJ8kGYSFdemydIBdcq0n96i-jS53shNul3DE3tsYN_V13XUnnclTlq9UZS1isAdj-KqiHVXQzjiNtohh1AWX9p_MEQV3zFU5oZvArcC3J1Gf1A_vOnKEjsi1SkBZxfCf2m2QZiLeNog6NBBPuthohy9CorlciK61pvV9goMgVsEBI_ko6qatWZ6S-fRxjD59m0DhWsYVmMIKe7ayt5d1YGlstzb-edAO2Qi2uUcqJAKwA-3HG8adPY2iSh-TIXo1jAvJkev0h5DqrP1We9MDWiENNoK0QIrzdI1Ll7vaz3ZNWXxLA7nzFhp7EREDTKv7mgVPF_FdfId4PBuUXZFklrlltlmgFAFsx3cKUwVJd3LFig6GPbfc-TUTCw",
+        "width": 1920
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfXuRXBt77eV0ixDUJSctaYml-6Jy9yOVvQey6fndWyG4ni6dQzpqQWXaoIPm3SPrBIyCEwphTJaTJtgg3YGPNlwjoul1AwpilVe_NLWFYZx2zhubl-1kSKb5NaPwdass-xY2UIPX3nxcShhBGQ6f376IyYASTxUsgEeOHsdNSVv_QHfd43eYN_r-MOZZU0zBCZ7xtjaUEJIkZAFs-D9YQkEYvZraCk1N4euOlBypvTBHi3qhnMrGlTK5ivFaZvQ9UBZ-5L0DAlvXdYHRtF2CiPcmdasyDH_050OZWxuAP0R8Cr2ttP7iU8LpQOpHv31uAOUE_JmPZWJJC6DS1n3jyFkKqOVuQ0b1v9j-t1M1t_ThN434N9PrHvMjNaikiEozjUUcBbUvRcusOStP_xO6hjhxDEP7V9IEUjAXiqu3cxieg",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfU2znkkiNagDxCnMf2leTiGQ_-jArLzKU1KZ20W6Ji6lc5vcnh9ef_Os5I3tQHmtrWnSn2gSO8jcToGaWkCwYSfKg4GAmK1kX0DaAKwfdNYwLBvTxyXS18OggVGSlR5OweLTWx1z60Kr7jHKRI_RLDXkIpDnepgVCK27dAwK3NGO6FQqYE323YNG1Rde1qIv99Cts7XXZhbStF4WCiSi3yU3ZKcPfqx9uGv_z799nWwyGM7A5Fzv42OqJp779CNhONI0UDGxR6SQL8Aqvzc8D4rcO7MJ_EwfJkOJfHnpeUo6OhMRtXKfS0B5RRA0kBEixc3AEx2X9swCHyaSsjlliAmR6-0ST18H7-cFwOSrJTfC8WDoHsI1emiDjkCiaEpOQzPmxvr-p1A9DCCiwdvz2bi9KaFQYa1MLH9G3eUz05sOcM5",
+        "width": 1200
+      },
+      {
+        "height": 842,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfUR76sRIX1dvu7TaIEw8jFo0S8fo5CzX8kEikRsdOisX1VVIxdspiAPt729MTQHfo1Sow94maJXh-fsHWVIrsX7zvf8rUWvRCmpyjb2m_btQSAUhXl-mLZNRgc7lIhGT115TnEBNp3EpGxN42rx8BvEaOLVq6xH7Z9tdHuUW9LGan17GQpL6NxlmOxE1_yBW1LZj3vrisyNofnbLDx4HE21eMGqYn7IbamCL8q4yRvqnRIFsxKMsc0Djdx-MwBGs6fK7aOk_SeTQq2YD7q9KylzZeirKvLWldNQHf5R1wjAaW8EZbQPttnSlQNnXwiabbXRmYjJ0MIctAYy0Q1mw1-cnyLhC7Wrod92ogjAptIXJfMPA7uLqps23iYZnWd8ipvvhiV2Tk4BlnBy4irny53W2rRFNW4wbBvwTedKfgjOsg",
+        "width": 1200
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111845368519549573151\">Alain Quevillon</a>"
+        ],
+        "photo_reference": "ATCDNfUbr4wOeDvC8gSHY8mzIi6bdK0BiqocKBkrtyywouwnLqmEH75ca2kveQjv83fETj05MJnDzjxiZAYDmt759T9Kts4h38LA-P06-p5ZWSgwJyTAN31UR4VGpPn9cP0AhOW5yRftP0PXBau-pYfmaeCcdbdcNjdu2hWAdteKynS-98dY8BibL9PYS4_xjA2clkdbmVq42qez-klsoTF-RcB_yJn9sGLnVkoS7h7nNtgcPkQJEQJOp9X6x3aDnipXKN2lERr2LwSUp18hztgmf-Avvula3_0SPWqkkxg1ISmMxbpW_7t375lRS6qb9CTzS0L8O6iAUgnycz-kwz0YNToQlufZHx0SeMvT516U0UvUqYvldpe-qdc9hYHmh3ysVx9megvkSaHw4Z6hPTSC-yGZbRYLgh5pAkJr3nINbchcAYpp",
+        "width": 3648
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104583379733806121495\">Abraham N.</a>"
+        ],
+        "photo_reference": "ATCDNfXbwem5zXdhYuiJ8oguWklX9WM1PEFhUuox9S17ufFByyHJ9czuRroM1Ips-C2ZMPCLZ-uYhrb7lsOkPrSpGcHJyLg2VpUteew9kftKchyoCsATBaw5wWKy7WlW5q-PQq08rAfRu5JaiAThzP4G4Q08EQDl1liTJPfhVxDJbSFelvrmT-2qvFB54Z8rAJfF7X6M5gj7Wq2OGWNwE8AZ-CO3yITi2epV4FUZzLiXndu1D_26trydArOdKkUIHV99ycUJQm82cSSc0OIjFiXbmustCZ0lVUNGWqXvDcSn58udS6I_P92PBDnOQM5SgP1ItMkWarPNCrMBIpqgQ67_U5omYLbMDJ_ZjG47zqMlSTZRPnLCaEczYozFOVMZUW7hy2ds-MJ9-Tb_dJLxsnlp74kERhwl_UX-8RhTHjtzstfkNvSK",
+        "width": 1024
+      },
+      {
+        "height": 1453,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfW0p7d8A4f-vl3OTNAC04AvSmMd04vrc8sSG2Vxfz7veV_67_gLNl95vJ-m9nuG1DsQycLkiakg8bQYrVNoNd0zNJ0C8OZ6DgBTemvL1TScsvhBQuZ_M_NyQVDHyRsxQWd9grjpSHqwXo0YhfZUNYI0VNVYFUryod7vF_VmOw3RC7QeDg3TyvFg0ig3b2OUuo-siRKP2PD4IsqmgD4F2CeCMm5d0hobFoXNo5tOV146ikMinljby8-QHTMyE2L5OVwTIM-eyk85aH-TeNQKlnldpGldgdXRRT_3IEeOGR2Ygw2tjYX4ChktY-09vU3Dp1_LSglQjjpP3EeguFGvxdzQdPSGD4fk2yHi-IsBGidtBp8tJP6qtqq8qj3x8fx2MmYapkV-ByMFnGSZTxJeaScm0fXe8O9RAczbdRxt9oIYzA",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJTQXQ5c83yUwR_8-8gsaeY2w",
+    "plus_code": {
+      "compound_code": "9XXF+J7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XXF+J7"
+    },
+    "rating": 4,
+    "reference": "ChIJTQXQ5c83yUwR_8-8gsaeY2w",
+    "reviews": [
+      {
+        "author_name": "Juls007 B.",
+        "author_url": "https://www.google.com/maps/contrib/116195768679777463886/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInLn71O_RaR9tdKesN01IgutUgFHMOKjJNlsxrXxYwib5YjA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "8 years ago",
+        "text": "Serves it's purpose",
+        "time": 1491217970,
+        "translated": false
+      },
+      {
+        "author_name": "Sg1",
+        "author_url": "https://www.google.com/maps/contrib/113252521247868411165/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2nf7ALZDHfD01Me3usxdJBYdgnLqkwxuDNeud8osxLsZzyp5u=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Wrong place",
+        "time": 1627937585,
+        "translated": false
+      },
+      {
+        "author_name": "Michel",
+        "author_url": "https://www.google.com/maps/contrib/114453100980291146939/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHWaUdKnE7GJmc2qjeQsiLzG-KdcOhk5EJviXzYLtKOzMuDDKK-A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1571803884,
+        "translated": false
+      },
+      {
+        "author_name": "Diane Mainville",
+        "author_url": "https://www.google.com/maps/contrib/114729224326633415008/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDFP79x9CC02KBJ9a1i8gqzoDC9-lC0QBF0qx1-STW-bczlBo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1560024764,
+        "translated": false
+      },
+      {
+        "author_name": "Josée Michaud",
+        "author_url": "https://www.google.com/maps/contrib/117834927914232841338/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGDss9iimODP8x-L2XZbJ0pnMdGRigIhqkK7pjx4vW3AWqkQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "",
+        "time": 1538668210,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "real_estate_agency"
+    ],
+    "url": "https://maps.google.com/?cid=7810260754224697343",
+    "user_ratings_total": 7,
+    "utc_offset": -300,
+    "vicinity": "418 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://multicentresaintcharles.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "query": "Centre Dentaire Michel Malboeuf, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339984.2247312,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 203",
+        "short_name": "Suite 203",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "458",
+        "short_name": "458",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N5",
+        "short_name": "J7V 2N5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">458 Av. Saint-Charles Suite 203</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "458 Av. Saint-Charles Suite 203, Vaudreuil-Dorion, QC J7V 2N5, Canada",
+    "formatted_phone_number": "(450) 455-9554",
+    "geometry": {
+      "location": {
+        "lat": 45.4013596,
+        "lng": -74.0293332
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40279238029149,
+          "lng": -74.0278040697085
+        },
+        "southwest": {
+          "lat": 45.4000944197085,
+          "lng": -74.0305020302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-9554",
+    "name": "Centre Dentaire Michel Malboeuf",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1185,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115744802738102357082\">Centre Dentaire Michel Malboeuf</a>"
+        ],
+        "photo_reference": "ATCDNfU_1af3y6_Jr4BFuBRZgcsXjLmoz4DDgwY0enph9IBfQsBsSfpdHNgBrkzxZrbCbT7Yt0mUuYLNLUU6rjGhnlHUGekZi1GBwBBie2ZNuTQ7gRSLk7AkTuDbRjuihLoHP6jtm-EgQLtH23V_-J0e6GdYlpF3qIJD9nzGgbjUJokZE_-7GUPLOY-ZbCPqHfLL1kNwNUEE_jIXEMa-p46i-XR5z2007VgN0_mShCp2f4r-VURUF2z0BvNuIWkLNZ-MrmF7RBR-Lrv934mOoZoavvl1NQRGkuryKeSbRP5K4ZWtaQ",
+        "width": 3633
+      },
+      {
+        "height": 2685,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109947727990844446088\">Sonia Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfXdVhDO9eH7hoS8FTqoA60gdGpsL14Lweb2kxMHazqfsDwRXofkaW1HgGDjfM2gyXUWG8GgOjwOeo89vAWJG3GoqIIr2P_Lhg-LDg8VBpS--nSyAuOzMo8mF3I79mmk9nYJavnH0WflPtFWtuLqtVGtJRLJmKziLWn_KLl0dRgkewa_otY7MlUoqObjWERpJ9ODCwBckgUIJkBg_RBty7U6miZBgpzO8d12lHUwoTDAwDBSCCpMojPdpdgLFNFzW4Ns3fRwM9atV1WpVpLVjBvC4ZEVw6AGE73M6iXIMpkII5RDWmXmsKuJY7pCpayUaygey0kn6wQe55cRsM8SBHYX9aPcQo1uKdN9Awzv0--GfQ5u0WzCyiASwiJnRMKR4PnumThnkW161f8zsLYeMRHlDTBl-vC0b9gFAuH1zK_wZ30",
+        "width": 4800
+      },
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117884338848738592570\">Sonia Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfXlJfW30FAbKewn7cdKSdnjsYvug3v55NIkqiGxPt9-9DMpI11LBJHcrWAcrmwU-Te5KZzU7H30YAZpda0L4iuJcQnxaySsjoo9t7cXKBZeiz-FixO_McN_To04hI2-MdJdBTxbXzOfsW1shi2AeT34X4hRTa5rNU2_fvNj8-jQP9fx6IrK1TnGRNQ4RuulFHLsrxomF3FkIpU9MKOUkBEpmWSffw1PvhcdNptrEq8n7VGrFkm25ZGIwX2PgTagDTJTMSi2wEWbKstBFbqJLOvWxNf59MAS4DJPxOXkc1suz4L1P_YzhUEHGp-z8fEDZDco0sp-a2y4Jo2ko6NiBvAJV_k8_ffq0hbcfn6x_CbRrL_yhrxG73vDhlvR5Cd1COBrUI3EC90efbdqds2sawQmrSe1uOptCrm6riJJ5jU",
+        "width": 2000
+      },
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117884338848738592570\">Sonia Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfV4r8WUQB1UL-joIuMagnmGc5bQBCKc4IRbeqPgejwM61IC-f-DdRhLXIbWGJaQ8qLtyO7arlIh1y_lHqAisuTQnRc8zieBGCTSinfiMBVuudmR1gOP2NuCNRepUTz57No1G7Ly_B5Pr55efOss55CYtn7hXKnUgf3kWGFNQEAoCX7iPMtRw0JsZdMYxc3qZs2_v-qZjOIL7_ivL9Pa3iy2st3dOUa6dTNpU2KyDn5F3eZCxCKROpRa9UQClywgnbUG1dge9WI9lSL1LBDnrZIljUTkKy6mqPP0RWFmjLGFJEGMYVw3NDU-A3wVRWZovrkRiPd4JWRUDEdZTVQR9AA75voG78LvtXsz2gM_6ZW83Umo2Q7nO_WpMG_8VZk1vMR2ERF6SxKsnInHirxXuDbWiAbeO8G60pXig2a20xCHHy16",
+        "width": 2000
+      },
+      {
+        "height": 1333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117884338848738592570\">Sonia Isabelle</a>"
+        ],
+        "photo_reference": "ATCDNfVR7WSrKEF4rYXagPBlaxfdKH8dMyI6449nFy1QCodtl8iAphVsIDF0bf6qcjYiBCCnvOjk9lHArH_-j12YYT666LKAqE5Ecz4cQZsQmJHSlwY79Qvu7t-snXy_WJUwq3ta6JhhDsaSjvCt5kLomEuyeIJWBeY1-qoqggxaFOAELkXwmBu3NAiKB8weSZx0US8skEb7bpkJvwSLkgcmZ6x0p_B-yL0bAf31FH62xkBRXNuIMMjnUZwAXhDLUoKrH2hECLzHxxMGAEZx3L2Ye_B_7ymbudpqUS3PwEZ9Nc9V6hSe2pal_U1RxPazsjJz7Lzun7dKRBTCJWQ_gp2iPMqi9RF6j-KES50qB0deAcRudS8un471ni9sj6cVTzXTsA3KcIaw-69fXCoXi1KUo_hAJN_v00V9B4-Hx9jS91LdjA",
+        "width": 2000
+      },
+      {
+        "height": 1721,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112904236855881490122\">Mouna Bouraoui</a>"
+        ],
+        "photo_reference": "ATCDNfXoexlh2egLUVBDo8iALrtuRE6qyk78alI5zcUPn0C72LwHLzU5vY0pZQrVyS9NiAxVDJoHDwjNb6k1y6QLk0S-CygZ6tImNra4eRXPwuAAyOgqgFT1ztZCb-mwwaKiibx4crQ7x3sqgqVRaXaSKRcOIPubQ2JABELCSbHfkmmPVf2H2iN29flA1Mu8ycTfkInVj0ar7IqsChTfy-ublTcwJbmJoy02Wo3xIdlS7Zq5fL1aOyQhw-mV8u0o7FxJKAJEDVLOStbjrOooXTlSMNZ9Blodx1BASq9j2xKoaO72erIwxZtC0IvdSy9USlD5QyPmqDPJeJ2Ek6s5tvFjIpj0iqgFKOVpOdBFyX-MbxbeBSZ2C00GDZsigGhsJOY4O9HcTlmrpU0dACFQw-0LKk1JnYDRD7uaNVZH4801tzKN9A",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJ1cGxi843yUwRNaZKUeCzMGk",
+    "plus_code": {
+      "compound_code": "CX2C+G7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX2C+G7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ1cGxi843yUwRNaZKUeCzMGk",
+    "reviews": [
+      {
+        "author_name": "Atif Abbas",
+        "author_url": "https://www.google.com/maps/contrib/112423172638201276248/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKl4D7rWbXLRbeiSG67x9iNcYsFe-2NPiRZlW6QxYnPbSla=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "I tried this clinic for the first time, and overall, I had a very positive experience.\n\nPros:\nThe clinic is very clean and beautiful. The reception staff were warm, welcoming, and professional.\n\nMy hygienist (I apologize, I unfortunately forgot her name), who has 36 years of experience, was excellent. She was very patient and thorough in explaining everything.\n\nThe dentist, Dr. Turcotte, was excellent as well. She explained the process clearly and was very kind and reassuring.\n\nCons:\nThe only negative aspect of my experience was the wait time for treatment. I was seen on January 12 and diagnosed as needing a root canal. The earliest appointment available was February 18, which felt unreasonably far, especially given that I was experiencing intermittent pain. Although the secretary did mention an emergency waiting list in case of cancellations, the delay was still significant.\n\nFortunately, I was able to contact another dentist, and as of January 16, my root canal has already been completed, with my crown scheduled in two weeks. This highlighted that the wait time at the clinic was longer than expected for this type of issue.\n\nOverall:\nI would recommend this clinic. However, I strongly suggest confirming that the dentist has availability in their schedule to complete any necessary treatments if an issue is identified. In my case, I had to seek care from another dentist and pay additional costs because the wait time was too long. At that point, my time and comfort were more important than the extra expense.",
+        "time": 1768579060,
+        "translated": false
+      },
+      {
+        "author_name": "Melissa Bergeron",
+        "author_url": "https://www.google.com/maps/contrib/103795028663997943873/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLh-cr8P723RCF4YrfPK1QcVyzHvVIJg9xErGY9-0DK9NT7UQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great service every time I come!\nThey are amazing with kids! A special thanks to Gabrielle who helped my daughter out with a non dental related issue! She went above and beyond! A big thank you!",
+        "time": 1724245960,
+        "translated": false
+      },
+      {
+        "author_name": "Chantal Garon",
+        "author_url": "https://www.google.com/maps/contrib/115910668561157799570/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU3uTxhLAow3Um7V2SKUSlZmYdE8GokDhEoqBT4-iwtjKbaOfbhg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Always great service. The staff are always friendly. Dr Thivierge is great with kids and he is excellent at what he does. He has been following my child for the past 9-10 yrs with always great advice and care in what he does.",
+        "time": 1663000191,
+        "translated": false
+      },
+      {
+        "author_name": "Joanne Ackland",
+        "author_url": "https://www.google.com/maps/contrib/110702154958621153580/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJy6llSr5-7LPVgLIVNn6FpZZ6ijEETJIfIGoyIV1LA6Xt7HQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Dental hygienist Corine Schmidt provided a professional and  in depth cleaning of my teeth.  She was gentle and considerate. My teeth have never looked so clean. Dentist Dr. Geoffrey Havard was also professional and personable.  For a first time visit,  I was very impressed.  I have found my new dentist! I highly recommend.",
+        "time": 1646082768,
+        "translated": false
+      },
+      {
+        "author_name": "Tania Cole",
+        "author_url": "https://www.google.com/maps/contrib/104171058002302590798/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiNW8uhketUN5gLj-mEZ_GKGZjNEzw0rxuV5bl_Vsf01m8MHfm=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "From the moment I walked through the doors with my family. We were greated with a smile and felt very welcomed. The staff are very nice and will answer your questions. Its a kid friendly environment, with a play area for the kids and a movie theater to keep them occupied while they wait to be seen. I would recommend this dentist to anyone.",
+        "time": 1582212519,
+        "translated": false
+      }
+    ],
+    "types": [
+      "dentist",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7579755948882437685",
+    "user_ratings_total": 112,
+    "utc_offset": -300,
+    "vicinity": "458 Av. Saint-Charles Suite 203, Vaudreuil-Dorion",
+    "website": "https://michelmalboeuf.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

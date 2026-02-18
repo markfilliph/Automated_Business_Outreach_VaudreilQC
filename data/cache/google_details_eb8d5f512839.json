@@ -1,0 +1,442 @@
+{
+  "query": "Piste cyclable, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338658.677793,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "82",
+        "short_name": "82",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "110",
+        "short_name": "110",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin des Chenaux",
+        "short_name": "Chem. des Chenaux",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1G2",
+        "short_name": "J7V 1G2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">110 Chem. des Chenaux #82</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1G2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "formatted_address": "110 Chem. des Chenaux #82, Vaudreuil-Dorion, QC J7V 1G2, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.4042585,
+        "lng": -74.02044339999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4056018802915,
+          "lng": -74.0190734697085
+        },
+        "southwest": {
+          "lat": 45.4029039197085,
+          "lng": -74.02177143029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Piste Cyclable Des Chenaux",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107291261490339324816\">Kathy S. W.</a>"
+        ],
+        "photo_reference": "ATCDNfUMM5K3lr6qPaVrktdIIM0Pb6bDA553uShIvPiL4XMlQDRZPQ0SC7NQlbRURj32SXx1r_7B9sNZmSmXUjbI5gsblawtj03_-1M6Jl70YeudSG-UHUj2rFL-z29Mstj_p2VkhnfdUNXSnt7SItw5gx1AWv9iS1KDqp1wtVzgkPXC1yR1qALEVCE2oIx0EjSt4CqhYPr871WqyJ7IC_auZD8r8hQDgT1QL9BgCDIkW1nwqW4VPnlXwSdr6gRDsxXQc8Vnozvp86ee_37dxZ-CaYUarKpdOsk1OzVTsHHW870F8XDY18o9h-2t7I9wfn_7vR9rjxBqc2fZEJyL185uiFfCuPcI9Hk2EVH6Ch1i3KTYfgkpaPbsoNlm_d2yRCle0CF8_OMesUOvg1suVRYWNcsW1vwujV8hl6k9AuQGT3H8Hfc",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109044447396201243416\">Russ Denison</a>"
+        ],
+        "photo_reference": "ATCDNfXE4vrb8XbR8znO6hjJrCGH9jS6Xx4ItNf5MKZ7qWkXoFBiHlLwGjU-bISHDLWTQ63pj9rMruUv-t1Z8UhZVeafyAjWa2ElQfQ8L-2TbrU88ghj3IdxzgJuarLkwY7lCe8H2KTszdum1g3nQtsHs2QlZYfJm-11ZGN1MGhPGQvNP8NCthXshQUrI8qTvLU8r3kWgsMZTxt3xH2-pfrY9f_Pyqcj22dUMoOOA6bTExRGQMoQELaJFtVLFWZzFi1gc2aKzMKZJQ6F1COr2qBxwtDAK4vT3VGqXtlYlrBJ5CqiIafHfRTRcV2V0yNUsVrqzD-La7Ysz98w5n-7mMvDZ0faFsQRE3DrHln0oN0ITGG-zZavHEG7SkFhfX6L8m62vDeSVkv53Q8der_daba0RYCZngvpfYIDC-UImK9i6MBMqOl_",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108300900701287904347\">Paul Salvetti</a>"
+        ],
+        "photo_reference": "ATCDNfWTdfo-okJ5vHGX9Xk2flHPpli-xsZhC4FSf_4fIHcjP-BM18S9ymoK_zYoeA8rkv7ErYxyga7CT315pvmzoEuUD-HNV66V_MY56s3m7oyYn8Vkls-xDg9bH8mXFFXeCqp_tOtajuI3TVplkxdaBAlTP0xAjuOOkMFt0NCyurr0t_2hv_ofpa6ACkyJI_ybTB4QKmD_P4_1Be1hOhNGL0WRas8mD8Mlr0SOZXykvz9hdofqxrW8TUnHbtY-GW7-GUvNAP6CN3xhWXkdASOlZWciup9T-33PDZKkkNEsjUFjuvggqA5y4GPsFjcvKVUHOD3quBw9aO8V7IpCysLjfFm9IeFlAjEBTXz3DpYVGnV7qPDxTAScV7rqSCr2nPF8TEek_-fSFwP8Sc5cDxV87YdEktFnn7U30_2jRzoCJa2AX3EF",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109044447396201243416\">Russ Denison</a>"
+        ],
+        "photo_reference": "ATCDNfUDde29oW_F6PSpa2GerRgqWbMo7ty8WOJVoZ5IbteOF85bnoZ8e3Kegxo6W3DQrFkvaZ5Xru1L2LeTTOYrneKouJBb_wgTzoPU89W6BySjcbcjcKYx0c93ruA7138lC4VnpQx0BafHbgLSjL-ijvPezTuUjrZ0Yrahf-zWq4MwKG9SvO0c0VznbcNdlYROdzpz62hM55l8-GrLMnwc00fYQhCpO_GE8LqHtuQzv74wL0yvUut5al9dExRJBkfRpL9Z8LsmUAXFEsSiyw8nbjK2_7CzO6dX3ih6OLCPBgcI9Jzxa5zhDdyr_f_ZU1EO2wC8znxe16Wek8XTR-hB2_ZwjWgUxoxPaAegit7UULmC9Q4FQotHZbMxrIIOfIrMVrG3k6ra4XqsF8aRl0sH1XFiBZgJKNKXlbPJYLVLeGHthdw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109044447396201243416\">Russ Denison</a>"
+        ],
+        "photo_reference": "ATCDNfWWfAwAPtCMFF7bXpm5b5A6Pu_2bsw0FO3O1ip2CfoHT8fXnZZ8w3XvMcMteXvVLXsuVOUHWYZ9q1gjVRVBXminNYJh4GYeEs0fA5glyhjhe8Eh_K2TOAs7k8DxZRO0VPWQl-uIupFWfTOjKNQ02-1SxKycG9YSoarbFbn6Hz2dt5Du-xu7MByyuQwP_DyvqnWBEic8sQZDOYHXETPle5XmGjuWnUSTXKXQ6NGw4ZP2LcUZhG9qn69sfea_b8AT2gnFGyDPB_Gp5xqEsMNEI68jQ00hJ_pko0Pt5fC64MIAskGv-Hk_SkDBVm8R6MrOhqftQQNnwu9TzcFJjPy5nMHLo1lkKAWIlhTnoLlZ0ifI96kk51ZkSn1Modb7CnCn_f6NsSkLSWZ1Ji5AEkDBl-WdQP-GD6ODjv_PYwEj7iM16uY",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108300900701287904347\">Paul Salvetti</a>"
+        ],
+        "photo_reference": "ATCDNfXxEvyCGJ6X8XWCNyS9Yb5NSsRw03XAW6EGpYnZ8enIlgSN4fi8Seemokpuh3ng1mHWDjEwxHNUbc8_OlJvzqYJTT9jae7mwTwHaTOVOZJ3oyZMhUoPdJ0-eI6E4xwz9Uw3vumfH7B7rcKn-lliAWDYcOfI70UP38eF2SYao4NJYpy6UMUoi9H51_7YkfFGJuuSyVP1X5E9rPRe89GkQUHBJeHzsOFmGTfC63oaZoHkXTzE1jFNE8GZqhR3nO5HBqtfjlbv-UIbxeNZeII2wrdxCcrwWe-kCRyvYT07gT8QjX-Jz6SPe8KPnHlIlgHRMXaZFRbR6T509O76eNFGL-r9Jpy8i6tzA7YvwHCXpvewMGAp7NfrjEuDk2ywFK4mksub8cEgY1IjberT71TBvc3mWljPX-vkfWMKwhMZDot_L4c",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109044447396201243416\">Russ Denison</a>"
+        ],
+        "photo_reference": "ATCDNfUctR9cLcY1NEQw0KK0-eSeYHH5F_lpHAkWN-ioS8WO3ML3c-ad-ITC7xOMFd1oG0mpoy5aVoPl9MiEjHwz2NA7Y6r1BSti-Srsyu41gAEBd_nbpScTtXW1cm1CVGobCW69LbTEG3eci2xGaxWouemseDeoUfLYkqi8c4xtXdX3zslMoTLb0A2N6O6RmazYCXrLVS_mMer392EYWnXlkuSJxWrazJ_O9JkWeFa-DQm_T5EllXR8Tp0f9_Lx3t1UgLqMVezWyFxM3F-hsoCkzRBrgq5FchwWMJDfLY50tRznfZlflSU0iH4PtY18ml622i6nxiDKtvvHxhiQq1rqX1hki15Dfzpj4iTB1TxqhQSOj2aRZtJHVLeK0fU2JWc_GTIKH8yAQPWQVeFry5uucVD564oIvOKvPOVGPzTuWQAlbiDm",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109044447396201243416\">Russ Denison</a>"
+        ],
+        "photo_reference": "ATCDNfWr3OougnRV8YYM5oF-8Rkw7QQzC8bFw1P0DDf85dOZIHgEDBIPnhf6XkTIxOubFSLuLHK_BykOZzM7sKxMsQPi9WHqTjuak0r473P_7XNJHh7-nWLklStr-wE-BOBwkVl0xJu4A6lJk0bAXyty0tecRQDFN9bPGyA_oiHeI4xaXnj2Sx2-tnH8Z1ohHmBtO7YD2DeVURnCMFPcL9zuza1hqoPXkCa2Ulzr-nh2ul7Jkah-59v_Xyq1VOimpqRX_HICOFvHtjwMUOnznwTSxnKpvF47eC0LNg2PwsaxTKTxd0swbZvEY8KGS57ZGgSwXBKyzh50CP4Zk5vkH-IBbShttedptk-Euzl3PfSaAfC1IQRsKnXyJMxy4DpmhzfQjjbxfi_wAxxq88HkO_m6ouxQ1cMw3t6qZ1gqNcWLBIAqlS0",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109044447396201243416\">Russ Denison</a>"
+        ],
+        "photo_reference": "ATCDNfXdcQs5SFf-uJTSLlJKGbPYkE0-bDBBFCXYoGBj9q8ZExkI3xsFrhURx5V553PXNXhOvClXUD_xOx7rkA-RPTc_Cs7kzyp2GeBPL1uh2v_t8x1J_rvK0rnZ-LKMA21Dr9QCXDauG8SWohcXh0Vx5MpOanluzMtPeLAKxB9YtYnKw2gf7iOZVWkeYzqu_a8lVoZXag7-7XC0Td4YPFquCf-nlu9Hs-ppYr3obxvHx-NprFtqU6s7HSBjulH15ddrgbyrFpXodtuXnTCCn5Ip3p8SljoJAx_9SFFHed4ETI0SIP0D3F_XuAdEc1wcc6nUouljfqiJGhqyIpoV9z7zBIP4psDtB86ljHMaNgsJHSC0o3dVv9YAOhL5RVEVH0iJx2CFBW9rY5MlmtvExpDb8dsKPWa6jH3XFNkMJuap610Y3w",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106238238546799426661\">Dany Zobayan</a>"
+        ],
+        "photo_reference": "ATCDNfWJVwYWhoX0rapHyY-vydCSCknKwQkBCr_MVWkApBX1D2q7a7Q-_To-px3wtEMf8JbzGY82zmKP-4DZ7_yiSR6HN5Ipp5CcjO9P_idS7LxLY9xBHl_yM3VuMxvLec52h_5J7sXXbv0HA2lO-Eo3qGvBao1REGyImwE2FIgIOp35IMaQma12FxG_YZ8ZO65prU7Lpt4ic6CgMxKdxRFBhRM43QwGym66nna4pwvxETcAqnpUtSTCCo5RfsUhCbK4GLwA_fgzLwpeIUVZaGNbWuuU72BwMjrk--89KsLqMzJb9PfZqffFR5A9MQvdDp9asmqhvQWZU1zjYr9tarhEPwSpov6M6S9xIqq-xoXxvXb4UF9kwQTOpQYxxwOUk_vS9jQ3hWGIAfBLiDLEEz0Fr-zAxYmR7bs9YWyp6GFhQXIL8LUk",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJVV3pRcY3yUwRILUI4XkBh8c",
+    "plus_code": {
+      "compound_code": "CX3H+PR Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX3H+PR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJVV3pRcY3yUwRILUI4XkBh8c",
+    "reviews": [
+      {
+        "author_name": "Monique Lambert",
+        "author_url": "https://www.google.com/maps/contrib/111233325723027657228/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhONX42CtiiY9cFyWKk8i-sA_qbuOkjXtdc3SUchfy2VcxOIoSuw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Actually we were snowshoeing on the ice. Wonderful day!",
+        "time": 1550455114,
+        "translated": false
+      },
+      {
+        "author_name": "Claude Menard",
+        "author_url": "https://www.google.com/maps/contrib/117824690613290076672/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPe4bCsmR8enGeIeVAoVdyIYWDwZYUUi5ibQLfhkhGkI9oRu0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Great view on the lake",
+        "time": 1608631222,
+        "translated": false
+      },
+      {
+        "author_name": "Ron Frederick",
+        "author_url": "https://www.google.com/maps/contrib/104452627147749858751/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG4hFTZjZnOF42zQNdEr85F6RH2D9ApWJPrWOF9lHGOcA_vw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Quiet, relaxing bike ride.",
+        "time": 1523806666,
+        "translated": false
+      },
+      {
+        "author_name": "HPL CAN",
+        "author_url": "https://www.google.com/maps/contrib/105560699141591856264/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiyq8nFw9N2NjaBP13wZWJsrqchI3G3mTzEt03DBccyijWNJG3=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Beautiful, clean and quiet",
+        "time": 1572821054,
+        "translated": false
+      },
+      {
+        "author_name": "Fernand Frenette",
+        "author_url": "https://www.google.com/maps/contrib/114275319602506573720/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdxtZS2Z5T6GGvht9Y7piYThnunvKuSrrG1qZx5lRGvBhrA1Ph=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "6 years ago",
+        "text": "Fun",
+        "time": 1567536752,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14377461958381712672",
+    "user_ratings_total": 30,
+    "utc_offset": -300,
+    "vicinity": "110 Chem. des Chenaux #82, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

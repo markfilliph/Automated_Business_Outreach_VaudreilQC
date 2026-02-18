@@ -1,0 +1,383 @@
+{
+  "query": "CISSS Montérégie-Ouest, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339501.9679093,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3031",
+        "short_name": "3031",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3031 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ]
+    },
+    "formatted_address": "3031 Bd de la Gare, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 455-6171",
+    "geometry": {
+      "location": {
+        "lat": 45.3943675,
+        "lng": -74.0537911
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3958145302915,
+          "lng": -74.05260751970849
+        },
+        "southwest": {
+          "lat": 45.3931165697085,
+          "lng": -74.0553054802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "international_phone_number": "+1 450-455-6171",
+    "name": "CISSS Montérégie-Ouest",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfUiYat3OPaflLjqHCiLy7XVi03lQ8jOsrlLPpEvDjFcZ9VPD-uP0DhxAdO3d7AqRQ5fECKY-R-sRmpMxeoKzAzavvNhIqiDDgDqqVQLyIXzmfdlmUJNBzD9Wiv_TOd3rzlOJna1UrkO2JOmzfdv5ts8huyRH92CXgq6QNn9908dmxGemRc4PqPs-qVxS9p8swCezbi7uZpDj9b2dkzbpZJRS8c-FPtu5dwnOpQxsiaveE1yW4zSJ-A6eNjDaExTcuzR9nUsLgS7RnNMo9gTv5trgoXIEtx64EArBWplAY-dj6OT-yDPRvMwnoCmZFl99Uiyb1xALE0zFI55t--m9Pg04l4UHm0p2NxYOCaAopNEPrFHtkg_K-oaqP1zjx1j47Ztb-KJEVz9wSXXXlVR7gxn3fb5SKhQMeXai9MIxmAprCw",
+        "width": 1920
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUGRYepwdQHkH0G7u0HsTRw0_pp_Tj6l8rF7-xeDIR3B-klU61LBoIZkiyE4RPUN63WgvwqjcygW-m5E-200aZKTH8z8ovJ0a2qYuOvxVSGNximrP-JzbY1T2gMAsjuiQ660yq1NQIQhdRZwgUF0iA1y1KnSyFMwxw3szfybI4D5EagFtitW09sBpqMlQixxTE1UNF1T5_uoTRUp3Gl3gB_5JYE8zaIs37okbY1ks9FPKTGZQFXe8keCgVHZ6zOV5jiQmRzfbdO6ccgH8wh7k45DSCuhQa55tvbDmZCF9UygPAZdz9XeYaFqYCadXtKc3Oyw53U-aGhI2YgfCItCcbJGt2s1GMXadtu3vYLyykkcbfFqO5fFfnucmOffNqNBFj3q2FG53ZMjIHalIlTYCxeEWcnSUg2Tg-FqsPaHy0",
+        "width": 4800
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfUHihryijMPq3d7p2DSyrphFfMOUUvQulgISi-T9vsGc0DelVngNNVFZDGuEp_4wKn64DA1m1IyzNND8KvB6QnGZMz85Mfzz9NTSHgabxrRaSgckrJFjM07IkQLlKe032oSlV-rUChhrgIH2h1Rp55gXUxyK2axVGUm8CnRFt3lTCCE9op4ktgbAlqOsH-0FJBaLmXXjsyG-7AYHTnFQvVol31DwmJ4NpMlA_kMiMJ_WYGfWVNw-warT-borIAyz6lxMD_QLRP9SbYFTqMzjD1obEljFoMJKthkynNQl6uymm_dycSAVD12xs02Gzwt2q5ZI63mmZnpmbaXcvv5gGdd0roNsHnswXFqfffH38cbPsDjit1uHqqKXzUiN5OlixNLcV2i8N1qfjBRGQy0-wo6r4YzeMlNlArseaLQDxo",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJN7wRbSg2yUwRg3Nzw0mL3Ss",
+    "plus_code": {
+      "compound_code": "9WVW+PF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WVW+PF"
+    },
+    "rating": 4,
+    "reference": "ChIJN7wRbSg2yUwRg3Nzw0mL3Ss",
+    "reviews": [
+      {
+        "author_name": "Cutting Edge Mobile Service",
+        "author_url": "https://www.google.com/maps/contrib/115488502566907282451/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2mVTWpgdrfu_JT8NEtzw4xiK0JrxqY2Gf3m6-5_eDja9KIxg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Without appointment, you could be dying, they dont care.\n(Doctors clinic 3rd floor)",
+        "time": 1758232960,
+        "translated": false
+      },
+      {
+        "author_name": "Joseph",
+        "author_url": "https://www.google.com/maps/contrib/114867909035295731536/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_IsVp-B6TsMtZfnG0nlNFjsmUPv03nYsBHZFI4cgeNJ8EWrc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "5 years ago",
+        "text": "I went for my blood work on Friday this week, I had an appointment but waited over 45 minutes to be called. The fact that I waited is not the issue. The issue is there were 4 people at 4 windows, but only window “A” was calling patience. The poor girl at window “A” was so over worked, I felt so sorry for her so I needed to write this.\nThe other 3 reps were sitting doing nothing, drinking coffee, talking among them self’s, organizing their easel  board, organizing there desk but NOT helping out . Its just unbelievable how lazy and heartless people can be .",
+        "time": 1607271062,
+        "translated": false
+      },
+      {
+        "author_name": "Marina Voutsinas",
+        "author_url": "https://www.google.com/maps/contrib/107627516387018426200/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGIaQLzo9nimV7y5WARiNi5XWUdIUkGrGJ12dSY7_fzYDPdw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "5th floor staff is tops, both reception and professionals warm and understanding,  far better than the lastguard who have likely almost all retired that used to be in the old Services Santé Mentales off of Harwood",
+        "time": 1527875201,
+        "translated": false
+      },
+      {
+        "author_name": "Sandra Prudhomme",
+        "author_url": "https://www.google.com/maps/contrib/111723789610535792641/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-wyaffa-9zfYn1qOzyphcsJWFWIzHT3hUaEK8iUMLp8d3G87dMw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "The CLSC is an important part of our community and of service for people needing health services. I only deplore the paid parking - we are in Vaudreuil-Dorion, there's plenty of parking available... Why make people pay?",
+        "time": 1526677152,
+        "translated": false
+      },
+      {
+        "author_name": "Susan Whelehan",
+        "author_url": "https://www.google.com/maps/contrib/101751985216401119757/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiUVrGBahCZ_ER3q8SdiI-iAjqve9n8vt2XBOjV7lznUtElA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "Could be cleaner and more biligual",
+        "time": 1548877198,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=3160835662411953027",
+    "user_ratings_total": 30,
+    "utc_offset": -300,
+    "vicinity": "3031 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "http://www.santemonteregie.qc.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

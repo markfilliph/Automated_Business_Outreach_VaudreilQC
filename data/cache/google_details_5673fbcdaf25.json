@@ -1,0 +1,430 @@
+{
+  "query": "Terrain Cité des Jeunes, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339544.5258143,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2562-2590",
+        "short_name": "2562-2590",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Paul Gérin-Lajoie",
+        "short_name": "Rue Paul Gérin-Lajoie",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7P3",
+        "short_name": "J7V 7P3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2562-2590 Rue Paul Gérin-Lajoie</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7P3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 9:00 PM",
+        "Tuesday: 6:30 AM – 9:00 PM",
+        "Wednesday: 6:30 AM – 9:00 PM",
+        "Thursday: 6:30 AM – 9:00 PM",
+        "Friday: 6:30 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 6:30 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "2562-2590 Rue Paul Gérin-Lajoie, Vaudreuil-Dorion, QC J7V 7P3, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3922313,
+        "lng": -74.02998459999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3934665302915,
+          "lng": -74.02850011970848
+        },
+        "southwest": {
+          "lat": 45.39076856970851,
+          "lng": -74.03119808029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Terrain Cité des Jeunes",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 9:00 PM",
+        "Tuesday: 6:30 AM – 9:00 PM",
+        "Wednesday: 6:30 AM – 9:00 PM",
+        "Thursday: 6:30 AM – 9:00 PM",
+        "Friday: 6:30 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 6:30 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfXEP6fpleINLHQS9BfGyaJc2LPy1ZKlNUNwhZzEbYM3Ze2VMzUHjxp2O_pzdFNNtX8OKpEVaiGp3RBNBxlTXIAUTZdVbxlzPOd2XwO3Y1KyiOIDX4WezHIJd3-uZZdSBwKosSF_ABjoR2QkqnHw_SVEfGexPuGwxNXTtiskYBIpVGXX-t4iHEB_HH9e5V_PJuZqJtUzz5Mj2ubxwWiuxvxL2JRIl_y9xfo8zZL3o1NuyT49VD_7yUKgk6Bo-WZWpY6cOZkp5Qr6wkZtPIUtxXX3_WoPaGvBkg77-b-AMAg6IVO0uAbGgSMTTPwQQU-Uom3XFD-MFrVNPL6nwky8aYyAe4LyQuNO7Xmnmgu6J9kbXUkgtUd37FOsmjJsbEZYSAouHsYzhRctxP1TtXgaZM00SMmfaxoEG66bzmJCPeyBsQ",
+        "width": 1920
+      },
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109428613453033129148\">Abdou Bellahcene</a>"
+        ],
+        "photo_reference": "ATCDNfVJclt3PsJ_lND9KndQOt-I4pjHKzsNvi8TEBTI6gKJ-NUiQo5ouIwRzEA_aq5Yee7sY2FbcYLZx9PWfr0EQ6epw300rw-qLCTQTe_upWEN2X1V1nWRkEBQKyf3mMnTdCv6t5TAn1WCGdj6fWU23pwvnBF6Z1XXeqg_x1Sb0rEoN-llycVpi5gqmd4QnR-hSuitvGkkWWwMZRGopP9EeR4j-64OWfCQqMt3WkaRmYO4hnMr0TuJJDv9tPjhr0kTmRLNRW9HdoQLZEw9isO2ko79IvC0GGoePS2bTjW8-2fL16TMpMD-8TKCz_HlzxhJBx50OBDZkQMxwHgD2tuMfxKBcdJr2OCv4KCmJKXIDArqZQT0lnkD-yWGi0Axjypx7FJYqScBvrz7m6PFKzJqlJli_95VHGuCV1KKDqb5untLRpXvYOrQWZZ0blrHAW-k",
+        "width": 4000
+      },
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109428613453033129148\">Abdou Bellahcene</a>"
+        ],
+        "photo_reference": "ATCDNfUjkD8AXKRdhWX9IYThiJOAIZmpNN-Lh1fgXSk6H6S4ZDSy1hSxVgjHLJ32c8Jp1SFrlleRnUX_7lPC4ACk_jQvVZG_j0-iXTDwHRzG8oo-Cw5Wg3_N-yTTdCFP769iYwpcQITsOkYOKNo6uaSV1FFiBm48jmethzANc0Tpjtu-a6MBoiU1M7PQahvNfR46yncnq3psu9JhU7wQuwHS89gohgESOQhQhwyaN_fUPicjyjbFfgoEA3MtuPDHei5Fm_kFV-bOrNWJs-5grdfFLtmYxqk-ZHnl2NcL69ozvJ2qSkEs2WJIt0sH13TDMo3jtuIy4TbIksE9wu18R_9x9mJtcDSqCiuMqfF3FpvgOWYdaNJuPLwYBUo3BUtXSmIw44C6tj3yHhBC2grE7FYc9owZGz_Do8xntC1cjEq2RIeCQewkpp1UQ-eBqP4Pkmma",
+        "width": 4000
+      },
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109428613453033129148\">Abdou Bellahcene</a>"
+        ],
+        "photo_reference": "ATCDNfWHQTEdVx72hGxS24Mz2L_t3jlc8B8GZRkZuJWaKXhNOL0IvOaIgWIDa3kyS8RLpWzSXpeRiLFT0FvJL940DkjlrUUpNyruN2RKGoOa2Rdjix3BEA031jHJs4LKH-Pv5LmMTM-5QMD2iHDtEYonLY1-7W2SoVjbllBbxyoFIKgyLQMgz_UFa9xeGAulHNrHlrGlxuxIRbXEzGH5lAahlp6NPU14024j2DJF-36U1kNaJ5cWQMh8XTpPUQQMUNHsV3eHXgwm1-SFyAxq1PvXYlANEMbHv9OeTItXUs258N-F_XLMF038t9YWW7BWhvoWjXUb9pn_lqnyd31_cEbdnTKWcwkZttYmcpIe6ka6xB0tibmj9Eyevr1UeSltnARijFanl_lfQm8v6--j7YmkAubQ4nN_nTqMdlbtTgRqEsF198r-Mf_-czqFKeB-gz9s",
+        "width": 4000
+      },
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109428613453033129148\">Abdou Bellahcene</a>"
+        ],
+        "photo_reference": "ATCDNfUMyq996bPafUbBvHW2j4rb388rQ2Ud2fT_8Zo-bajqo0jWlwA2oXp5ROphEr05bSsxJT6ptewAXDWP7qXgtXpgkvS_n0xjSlAjB_WkN209yuynjKhC8-QOb-VZkFB-Ve2zKTevy-_5VOdIi2fwktU8RWgpAM6JPTemLgkY6cQmZA0yAS66ds0HK8rXeSdJcfNKPj49GrlZJ5lrJ7wnY8_hT8uJYl6gRDgL5G-dlH22GIvidMpAekf_mykB8RUN0yRV3RLxgAczyutUY3tSshTabo-Yc1jAEPhxaVc3_0irEYk-1B4jrH6c41kjDkhaCiB02-52RoZOzV-yCewc1qn28o0a26KM9IWt5KQVmoE_6Cy1hQr7PDcVrQeJmEMx7trCvvOFbbSlIOtlxwSD09PBMYKTInJfmATGdulgtS_FbJJNhwJIxQG0yvtwDYLq",
+        "width": 4000
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104049684288933503058\">André Chalifour (Zombie Graphique Inc)</a>"
+        ],
+        "photo_reference": "ATCDNfUTDU0ltlsjKtz01FJLqYRr8MAp43txvrFaKqu-pB7sR82eM-4-FfTI4xd9oyxWKGpK3ENg0FuboKVEcU6ovz69swE4oP0o3kJvudmpUQS3Kj9QjitH84f574gRlIdMPpxsm8RcI4LgrIMqKfRr43Un1zgRcZHYp5m4peKncHBP_PKCvfkas1uokYcSg_Po9680EF_c3NLrtNNI3ki7UjQYhsOssbBMckHIdtE22mBV1C8xlIDA8-DOa_u9eQuwGQS8DWZoCSzg3Bb5OIkgsgpo4bh2UGYzk_STeYhvP9inwt-niYZ21oGDXTAFmJgG7HyRnWmrawFealMpzYu0MbykXzxI_X3cuKrM8_fO9JJoYYbBCu5wH2Y5zFRjOnqNZJ3nmg9ik-0MrtelE9UJZrZSj12IUDhbXPRTqWuJKBQ",
+        "width": 4608
+      },
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109428613453033129148\">Abdou Bellahcene</a>"
+        ],
+        "photo_reference": "ATCDNfXZGVPwTz0DVWVBHkSSMTKinHvRJzkv1UnCjzpDsLmxjujkGNgUnIPIy8rIIAVnOcM1PlEX4RSl7Ct2V_iYQeRoGifaFEie0EZuROpvZQRZ2kpN-0mp-0GEQKGmBxHucbniL5JvdvMlr70X1F_7Dflp4hkBNjLkY7kQWbpCmFpV3jpKE4j-TwLFMsIGso66E68r6eZMiNFumB0bh3pyy6Ubh0wowptppBjUDsKsKpRY-DJucs1A_HaLDd7h1D7ceYo75Da3cYnQzHwZCQMEaKwNpNkIRJa2npq8XWTeSaVXuBfz4iYlIpQ67y8a0oQT2JkmzR5xlQm15VIDmwKTQoNT8ZqpBxX2ct72dEpV_sn6Qa5QpiXu1yP47-GaOqA7PvMY9KaVSuWGW-zzBucL-DjAXrlX_o_wYtra3ejRFUcaa3n72nR-KGiwEGGSM4VG",
+        "width": 4000
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104049684288933503058\">André Chalifour (Zombie Graphique Inc)</a>"
+        ],
+        "photo_reference": "ATCDNfWqJarlp8G9JU_rpInPxPIEzdqJuOVWq8EbMf9U1HFAZscRVQblI01egpWkvsPqUzqADU9Zmc-DOZ3qvpkY2BOnxWn3MtSUtWsq0cDMGcoggUrUgoOYSUhqx07EF5DJR8a9ByblKUxA2LAcagG3wOSn_1Qw4TRQJI1qqp_3HJ6cV2l6b9MiQkFmLYRQhMJ4CS11fGlT9Xp-xr8iGiNMPdSaxScoBVrp-7piHlAAD-Fj4zIpZ-6YxGIJBarxe0I3NfTXZFw3EBkpsVPMMDy6x7noMJSqBgY-ndZVLgw7n_VQ2hR01vBH91LLReqw4FZorR6D9FaQXrhLQaGqdVpqVhQ9ugRuaumat5ZgS2getsLgub3Umnt53DRS8sCHRRIwJCAN9xGkZeJ3QRefSnuH2G0miumlyD91kDt-REb9aGJmIw",
+        "width": 4608
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111042359722441384360\">Catherine Blain</a>"
+        ],
+        "photo_reference": "ATCDNfVGLdmWQ5-D5cGiZMhPB31knpFUSicJrxnfoo7DOlAVExquWFkCGbZYvM110kTwmDLPP7kmSKPtJxdNl1SZ365dZpbqD0HGujJHsTDiP5L8I0jiq-1HCdcYYIc_vCXFSg18emyVg0rtheMNujo178dIlqz_OK-Ra65ji1wZEQRnYL7RmF1FFSGdPh0Oy-4eGVQ0zmzX-PgHJuSGTG16EbJb4qFStfvhaR1Md_IP83FM0pghgbBilLl7P3N-LNkg7TrUyiiExNKyv_laMyKJZfZ-yhWdxugnoiwi8DtjVKMQ33If9EJ-vLSm6RXhoLK2Dp2gBwZroC89bCcLDUK9vdw6uueBZCz6TL1abhO92hwpeviKmeIe1q3S7n69K5GPo2tKd9YPmhBDe3JSDq8LM-PdVpAgtQX2iuFBgqZVype8UaAz",
+        "width": 4032
+      },
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109428613453033129148\">Abdou Bellahcene</a>"
+        ],
+        "photo_reference": "ATCDNfVcWgkV9iqRbuQvhIefWMKjy6EIwcr7ELIV_POuNn76nPTBTbFdXp5-R1HtfxAgk_dVKV0WK9utZfeR6BlwPlhbjRpXVxTPTfVORSEKr81R3jX33Ig1T6DQ2xeEBoyEXYN5X3Jffnjp8D3emA8QNzRhx-r8-hYjc-LHcUWxMWwK8ASutEp9M7mopW39ijt52GqkyYr0Fj0G2jpGuk3YlSD1puwsTU5wVeqwZMneiY0gcx8TFYvlxYQngQZYavhXvzXxL7coHsSlabNqDL5hquK7LlmZmYfrWVyQa-CSTE7g-rjnzYzj8aJ4qwR8fqWSxtUlxwP7mw6Mf4ET1IQIF6I6rpZXk54acL2YoSUPuKBZ1ZGD6rqd7pPVgztC2Ixa_f95L1xHiudkIUWYSBJaLMOa13cKipiIOJyWhIHSIO6Fp9D9sHtz_ohga-IFfA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJJ7SXe9c3yUwRUF5BhniU08c",
+    "plus_code": {
+      "compound_code": "9XRC+V2 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XRC+V2"
+    },
+    "rating": 3.9,
+    "reference": "ChIJJ7SXe9c3yUwRUF5BhniU08c",
+    "reviews": [
+      {
+        "author_name": "Abdou Bellahcene",
+        "author_url": "https://www.google.com/maps/contrib/109428613453033129148/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmdZVU9BTdRYjW2rqjtLa2bm5uhAuah2ox4tYOtaIbDhXQ1bg0Eg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "The Cité des Jeunes multi-sports field in Vaudreuil is an excellent recreational space for soccer and football 🏈. Well-maintained, it's ideal for families and young people, promoting physical activity and conviviality. In addition, its accessibility and location make it a popular venue for community events. In short, it's an asset to the city and a pleasant place to gather and play sports.",
+        "time": 1757795860,
+        "translated": true
+      },
+      {
+        "author_name": "Jean-charles Gagné",
+        "author_url": "https://www.google.com/maps/contrib/113840461519361022502/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdy9FwR02aDs3NBcVxVlvcEYjbYGxFwdkP-IeyhTsHgveR8w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Very nice multifunctional (football, soccer) synthetic field.",
+        "time": 1633294550,
+        "translated": true
+      },
+      {
+        "author_name": "Balthus Couturier De Oliveira",
+        "author_url": "https://www.google.com/maps/contrib/109312228111446128049/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUilPiaBqqxRXN9pQhEZ82ouhQEkXsi-bz7VLQC5fv5gxyIK7S1=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Child who vapes",
+        "time": 1732649022,
+        "translated": true
+      },
+      {
+        "author_name": "Amé 16",
+        "author_url": "https://www.google.com/maps/contrib/107700607689247600022/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULjEQM_1szFxhEidsV2VSxXI5vpzQhpz8JrbVKRHg0_4aA4rZv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1757206854,
+        "translated": false
+      },
+      {
+        "author_name": "rafael anastasopoulos",
+        "author_url": "https://www.google.com/maps/contrib/111478517133728290916/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrbxUtICEoT57m24gPOPa2BzMTmsA-d_aWXvh8u5Bq--YmDw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1718853469,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14399015679003024976",
+    "user_ratings_total": 10,
+    "utc_offset": -300,
+    "vicinity": "2562-2590 Rue Paul Gérin-Lajoie, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

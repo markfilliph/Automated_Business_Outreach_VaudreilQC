@@ -1,0 +1,289 @@
+{
+  "query": "Carrosserie Michel Rouleau, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339013.8390615,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "261",
+        "short_name": "261",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 1Z7",
+        "short_name": "J7T 1Z7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">261 Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 1Z7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "261 Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7T 1Z7, Canada",
+    "formatted_phone_number": "(450) 455-5757",
+    "geometry": {
+      "location": {
+        "lat": 45.3874804,
+        "lng": -74.08273559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3886098802915,
+          "lng": -74.0812128697085
+        },
+        "southwest": {
+          "lat": 45.3859119197085,
+          "lng": -74.08391083029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-5757",
+    "name": "Carrosserie Michel Rouleau",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112672883230080002930\">Carrosserie Michel Rouleau</a>"
+        ],
+        "photo_reference": "ATCDNfWrnwGkk4Ckcb6SrJBbGlIO8XfMeH5wN1zHhN0NA3sBBPC5guiIh7Ps-wtdLgVGzgzbyoZSCMHxFTTnZW99pCbTim89QrM4KT-lzk8F5PcQVAWGsmYJR34KLzr_XtFR5yuLo8OlsZ64odf10uDUF8ZMkHPzE0vpJM3Yb3jrrW4oPRN5jy-opCF-AYaPfHr3Te8Ax_Tf7J31OfQFNm4Iaeh_drfgfOYd5eHpcNiOPumWqutifhrDt-MryzfSV7VMKDsJP0GsJ4MsK3EN2j2lxGAXcIbcLKLmRvdjYcBwtDGj3Q",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112672883230080002930\">Carrosserie Michel Rouleau</a>"
+        ],
+        "photo_reference": "ATCDNfWO1uL2abasZL8T_Cifp_xKb5f4tW4SiQMEW0e1hrylLac5yEia2tbEk23F8cT2sYTIGgEvOqb7abCJPhl9wL8qArAr-SKLzB-r73fpY7OJZth3jP9eUB6J4p3vTWVhtu93k3Kq1RbHENdfgKskmUP1rMLQmcQjN8JbJWHFmOqtv2CI8lYQNVmnF7DSoxAAlzE8e5PxuNgABbDfLQoi18Zb8tZWizb2L1gg-Onv0xvhqYNlE0eLnpQlfWejlENorlrDRWHa3Wu2f3HyjDdegBacIUtzloplxUjd5kyCIm41wg",
+        "width": 2048
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112672883230080002930\">Carrosserie Michel Rouleau</a>"
+        ],
+        "photo_reference": "ATCDNfUgCTmBUFbjvYSxh6jEBfwgOEQjw6jiV9z0HepJEcSGe6VDWxhW0nCc0b_vm_kxLDwPWD5OSXdixhyIBsBQz4HnCb6UpEJmpDyc73FONjxmge95YIaCOetcYXlhRfTG_ovg74LGjSTbwf6S2pCSxHMCXDKGqLCF1r1Z13ZxXlhid-HfY7jBE8ku_2PUkyNMou44Fz-FMfZu-rLdcDYig6casWroIByP0gpckoyCspCIXD1GxK3BhT3-jgKPAbPEZ9X6Ygo-b18ODNbexKzRkQtOEj42_1FoXBV8tegSi1Rbwg",
+        "width": 4032
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112672883230080002930\">Carrosserie Michel Rouleau</a>"
+        ],
+        "photo_reference": "ATCDNfUu4LHbQA739ZhIaX4aywOQnK3CHjuZ7uhYFuOjeqhYzyZN4HKgtzKGwji2FHwkSosNvqo7tdvQJWODX1z0oEjx4V86ryDINpGV6kvfMuGpwALBGG0rBVEs7FGOaS8r87hvMTaL7RfSnnYOQjj1uzkHkbjav1ODvwtTc1kw8vOsM6ucHsgM534cafe2diS9PbdLFHxTlDQh1ShYCF7Juuna6gly6tSN3h8I0pcmpdtPY9VNaqMXRpA2VsKD-mBevrbbbJC3HV_kXSvSxZckK4VOhw3Y72rkJ82EPpfHiGBjIA",
+        "width": 2048
+      },
+      {
+        "height": 733,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112672883230080002930\">Carrosserie Michel Rouleau</a>"
+        ],
+        "photo_reference": "ATCDNfWDastk5MNnCrftF9OwqhJ_zWonw8xZjYLDDEvUoHiMIVpo-tVy2aDqTGTkywja7-UKl4bgwRteJZXtkA0yGQ5U_HWA-2p706CLN__ZIx63jfNVbPZqs5fgqY7BQ_3bu1zP4zBsOp0smvjo1hvsNSmBaOc4CRJ3MZzGw_o0LAQ3SyKr0L_xLneiynsXMMBPU0ztGjiutifFdxtqSt54YCPVzvG3GHWCNfBMhIOJVLHWi2z3VvcLbhPBek2-pdpEVNa_NdzIrNPMUO5SHqCVvW7N-pnRBthqbhrzsSm6_3np-w",
+        "width": 1918
+      }
+    ],
+    "place_id": "ChIJq6omY-VJyUwRn9HGFvpyek8",
+    "plus_code": {
+      "compound_code": "9WP8+XW Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WP8+XW"
+    },
+    "reference": "ChIJq6omY-VJyUwRn9HGFvpyek8",
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=5727016294604525983",
+    "utc_offset": -300,
+    "vicinity": "261 Rte de la Cité-des-Jeunes, Saint-Lazare",
+    "website": "http://carrosseriemichelrouleau.com/"
+  }
+}

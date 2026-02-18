@@ -1,0 +1,389 @@
+{
+  "query": "Structures Stross Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338013.3151436,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "945",
+        "short_name": "945",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Valois",
+        "short_name": "Rue Valois",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">945 Rue Valois</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 3:30 PM",
+        "Tuesday: 7:00 AM – 3:30 PM",
+        "Wednesday: 7:00 AM – 3:30 PM",
+        "Thursday: 7:00 AM – 3:30 PM",
+        "Friday: 7:00 AM – 3:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "945 Rue Valois, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 245-7575",
+    "geometry": {
+      "location": {
+        "lat": 45.3734875,
+        "lng": -74.04051749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3747570802915,
+          "lng": -74.0391038197085
+        },
+        "southwest": {
+          "lat": 45.3720591197085,
+          "lng": -74.04180178029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-245-7575",
+    "name": "Structures Stross Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1530"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1530"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1530"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1530"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 3:30 PM",
+        "Tuesday: 7:00 AM – 3:30 PM",
+        "Wednesday: 7:00 AM – 3:30 PM",
+        "Thursday: 7:00 AM – 3:30 PM",
+        "Friday: 7:00 AM – 3:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108644906456852262474\">Structures Stross Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWkYJoh7_LzpB3SK1bKgbPSmFwkCCO0VzaY-zYCouEiXN4Kbm1vGOjDnMhZCK5P1gapTnxygK_8jdKw-ib68aMcBSofl6k0mlksYVpFLyaZcTHXrf4J-qNxuRYicVncXbyFmhAjvB2yO2xHJ_gAi7cZ7eYszNwVqHPhpqss3LZG4j-ubCeKLCcfOMzo6N1HB1mVdpWMxYWaSr03hGNQd05jzPPwRJtmo6ziRkffuMZBisrJfYykwhsPaHPP31i9a7B3tN6i7HYGaNBf8Q3UaYlkyYSqFyFcR4gdxjKmmtZlcw",
+        "width": 1280
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117462146870222874003\">Structures STROSS inc</a>"
+        ],
+        "photo_reference": "ATCDNfWO6E0Y3w3ZQyXIRyB9EngKLvMhgUaZm9M2tIAmGmnpKZyb_Nasm6yL4OIIVKHx3y9qygGg5660Fb8dWX-vRkGebDiAaoFu8um-71FbDBUWUO1bgCE98QAT90UtOnB6LBVOIdAD0DGsT38OzRb8nofH4Sjcueil10up9LCK1WbjwVL9-YzRZL9M4E4aeJlzsGriJPqoC7U7tF3kgLDVCQFnUHfkOq2eGv3gHuP44z4dLKYLw3-2uUXZcE6cx1Fhin4Guyy1tjZw1UX8c_E0urV2pvRWS7E_0NWNt40pG92wY0YWoZJnMIJyzMVv9NaE32Dois8EClAgUUdfMGP-za3LKt1L8hIkhLPadXA8LtuJa0tcuviAHZsRP7wbJnRtNLjpiX_Xuk_PjTfiqIP8fkYS32sPwTh_OckkxyUzZFH2VrDX",
+        "width": 4608
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108644906456852262474\">Structures Stross Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUPNu9c1bGsog4Qp6AyV0ZXjy-dvgt8EdKblu7Eb_4pOfLDZVH0ko53qMh09W-fbvFJ-gNTqmkf2btfpqSha4mSVwPM48KCkaFY76IrYRQ2joJP2EKUShdoy_kHmWJWt0t8f8Hi5h3f5VySuUepvDZNbPNFMMv-fHkAnYbH14bqZO5y5xajrRClq-0M8N4weUWTbBA1VHBplKWP9O4MzWu1ARyaE5gvks6Oe_5gyuDzSYTDQzm05olCKEwhLMLEDHNMF_FTGAQ4AbsCcUi4LmuSQDl8QEv1o9Rb63mNPBfyow",
+        "width": 1280
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108644906456852262474\">Structures Stross Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVfUqbHQBHx2qdAWbc8F76bs0zxNtnNkaAvEHdfMcZu3qHsX6Hp2DtVqKWDDmAAuaIu9kUVlsp85cA-cH4nYz42Sj58oZrUVh-ZG4027-GTqdSQmHssnUNoDX0zDh2s5_Zrl1AlLT9EVjFjZzZp1Zvix2vQG5h0iA2YnuSeEpzKzTYq93DPEuYl_2TZyuv3v7P1rKMEPJb8vlxtMEiYfw2xq3mq1JABkF0IaO2_zkru7Z-oRBT47D8WS6rh2GuZK6NOuf1j24bVdJa0NgnSzz4iendbfaZ7q9cABf1EXC1DUg",
+        "width": 1024
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117462146870222874003\">Structures STROSS inc</a>"
+        ],
+        "photo_reference": "ATCDNfXB0t6fWlttWep2lwi0mnZvnoC25hntEM5uNh9J7VlLn5CcDpcmc9sLyaQncS50rDSUBcBkJFUWwWaW49L8d9BDButWDOFFAzXaL9RXdwwM5lg7Yzj_U3yOIeAFLJ3sVDF6HatcEzvONPgnL2ABTZuX0xjjgM-KXLwPujUH_yeEuX8Up05JWI68mYdF8QfJUXjnqcCHeIOs--5Q-FbgYU-wAXNp2p4EMs868Wen9vNdVy4prp2PxX7qeW2nzXiQVKUrAy_0FOQnUbbMmN5clCzoSy_ob6aShVxaJTtrmAOad42dF0JUcyDJo96Jxpf5Z3BlZvpG-BG2a_68dIm6XmPOaY9ErOmHVGjObDDRPy2J44xU6YYRP0Mm3QYBphul1xuj8K4jli8KIFVZM7MWXEFsO6un_OKSCGI-twZm9BULDQ",
+        "width": 3264
+      },
+      {
+        "height": 1411,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108644906456852262474\">Structures Stross Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUfdz22_d4wtCEDwHehLLvZRbo9OkHflmetbVDRl81XJqyTbJkHGmzHpwbLfHKE4EHjCTXZ_87DB_lsPzJ31uI8wdvgjf8EuDWFZOP5dyeECEMlUCXocCsAgft-BtQ4Mmn5jv_daJpTRhF3wxSPwIjLwvzQ1fw5z8e-gp6u5Ebyk5S7C2Awtl_2U45wYl1QeQRGq2dl-6a3lZPE1WB3x0QRlpWan5XCWu08gUBTDeW4ZCWU9vIfLsaLks23fXIWMUHRy2AGe9jZ0GSFghmxURye420eXTKS9qhMFaVgMso3CA",
+        "width": 2124
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117462146870222874003\">Structures STROSS inc</a>"
+        ],
+        "photo_reference": "ATCDNfUrJyrjyDKnvzYBUnFH2F0LweB5xspTnYjJG1ab5eHTgQcohx21tt_xKVSWL1gCu6UVgB1dWqzUr69FgL8kENKYRd-uNZWhs2NIsg5qsfwPwcrc6JNRcfe1vodHty3iD15k5xWTyp73X0OY8Y5FvR6w_wjTFPla8_EFhCA0BoQZ3voc-E6-OCtthLGujL-xitr2QBspxlQiQvJBizYEYnzNkgEffgwDZaQL2sEZU1dUR3CYF_4yKgSGlz7Hlvgixgsi1WwDShlzRnV1vk30_sGfl5Q7RqV64BSZMFO-b3_9jwtkc8FERAiJvoSQdXdgQ7VB3wryRh_QR1bBOaXYAEnGPNFfqKM58X3bu64MV4ZnUS38_nrfIvwCv7-GQoZjSq4D766OBmWXE4-MT29oDqp0I71CZto29dRrSU1EHhJj1BzN",
+        "width": 720
+      },
+      {
+        "height": 315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117462146870222874003\">Structures STROSS inc</a>"
+        ],
+        "photo_reference": "ATCDNfXDQEpWCasPpSY-7ASiPKFQqaXV2U9tMmwIPJhJ876fArsGi9_QYwS_8pTvB9kHiRPOgKz9pHIkGHs8ZrSmLQaRm8O_TcpGpvtD6dLMXe-o5_UMxtsoXGiDnn_c2K05i-Hfj6__NkkkRbIPCZC6hmk-63899zcL3oZp8b_ztjj0K5TmB5SImrJ6aW-DxJ-eoBqDWdz3Np6NhC4EMZ9w07quV3g_NNf9ivjGsgVaNgx5K7UJliKDJgl1LSIF6NLccGCQ-Gq_60ba3GrNhRGFAVbKkgW98nuOfIwkU5zrUMGPvPYNrukGr2fQvoh3sdGGTCwK47TbuCrs75v2X_iATaayJp7mqOgo-oy31RR887NjPyXwzyO-GOf9cjc9mxkDAzbHCXePSNQuo7yUKZtjqgm8vO4_CbPi2gRTEuaVzJg8_g",
+        "width": 851
+      },
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108644906456852262474\">Structures Stross Inc</a>"
+        ],
+        "photo_reference": "ATCDNfXKYyo0MZFNMnSFbpAP7cEBZ734iO6_Q8E1QVA0y63xPKOz5BupUbei14IslDcvwhDvM2VyEQ_0GC7rxA0ocbxvM1pmtrWH0-s6YlgubVTe4o0GtMSrTBlStfbd9G7XjR9TohPguckB2fKJogs3GdntclA6xDhya13patP8GRIvodgVllt3WRitQ7-NE4UlPAiV8ZPnfSw155Fd4pX6FlxHllblaCVsJL_XJ09RxwDnBO-GbwQx884EWOFWRV-ICECx1qM8KWpXP1aO3ryBE2q51EWI-OXfcmjKRVZnKLbsxQ",
+        "width": 4288
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117462146870222874003\">Structures STROSS inc</a>"
+        ],
+        "photo_reference": "ATCDNfX2cUz8Cb2JTEd0t16phPNH2d1SKiYIIYa07L2uuXUrTjWceXNpNM5bMb-3WNRn8Y8U2OajakmFPlTWtPS-g4qW4ivzxZDwShnSoMjmUIi9psD7xwH2dL4wb1X-EJHkSs7pAzktiHSnipqnLkibR3Kp82QmyN0vKnhNJlHsxwbHf1KLJzYMvdAqnaaTj7SwxMIHsOvc7fajb6VBF8mhvL9VC-wMkBOZ7cCp29Nm6qkpSUG-j9xj1leQrvGG3voLoQ_z-PO8ZQj2Pb-wXqap8o4IFp5uUFfHzfF_temJZmcUG0tPmNP2ww-_jMTcofZV9eXwHURXeDG72R9KMhC8ZZDOgtyb7NcZC8ajGJXvYSRosJAD7rNSzNgW5yUNwzjZCXNXB-gaUc9ERpWCyc7-52zpIniJ2TQhkePTki7UgyGVHA",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJGVpoiDdIyUwRuQkqfsnamt8",
+    "plus_code": {
+      "compound_code": "9XF5+9Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XF5+9Q"
+    },
+    "rating": 3.8,
+    "reference": "ChIJGVpoiDdIyUwRuQkqfsnamt8",
+    "reviews": [
+      {
+        "author_name": "Jean-Pierre Lussier",
+        "author_url": "https://www.google.com/maps/contrib/101639138447193582041/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqo4ugSpVo8TCdZ4Ekju3nghs9LEU1WpFy2zT2VGD4F4ce2Gi_=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "VERY disappointed with this company, because yesterday September 8, 2025, I called 7 times!!!!! to speak with the owner about my quote that I have been waiting for about a week. No response I left messages no one calls me back and when I receive my quote they were $5000 more expensive $$$$.",
+        "time": 1757451459,
+        "translated": true
+      },
+      {
+        "author_name": "Alexis Boily",
+        "author_url": "https://www.google.com/maps/contrib/102031458277216180253/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJGNKOxkLFnb0T_3JcxNo7oE2XVFVW5pRzRGeY0S4Vzw1bDBQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "During the installation of my roof caps, I noticed they had shifted during assembly at STROSS.\n\nI called Serge V. from the Vaudreuil branch, and within an hour and a half, they diagnosed the problem, manufactured, and delivered all my caps to my roof free of charge.\n\n100% in terms of responsiveness, availability, and professionalism.",
+        "time": 1751649432,
+        "translated": true
+      },
+      {
+        "author_name": "Marianne Raymond",
+        "author_url": "https://www.google.com/maps/contrib/106791427763905970737/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkPoWmHsmkNenCaFqeGGA81oUiXN6PIUgdSY8A2uK1w69nXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "I waited 4 months to be told that Stross would be unable to provide me with a quote for my project (request sent in January!). Poor follow-up, despite my numerous calls and emails seeking follow-up.",
+        "time": 1619787847,
+        "translated": true
+      },
+      {
+        "author_name": "Sherry Comeau",
+        "author_url": "https://www.google.com/maps/contrib/107534577406523287718/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnWFDVXdMli4Ys9qAL3vur8dvUXBKEPcaBXaSfkvIwvSm1sQfz=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1702325613,
+        "translated": false
+      },
+      {
+        "author_name": "alex turcotte",
+        "author_url": "https://www.google.com/maps/contrib/117600757777810160836/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPikkn4XMjFl98xqXm3CWt5reiNisqGcePxRNrIlOswEVQAQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1625929685,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16112431175811336633",
+    "user_ratings_total": 9,
+    "utc_offset": -300,
+    "vicinity": "945 Rue Valois, Vaudreuil-Dorion",
+    "website": "http://www.stross.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

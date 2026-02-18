@@ -1,0 +1,105 @@
+{
+  "query": "Villeneuve Marc Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339920.9952147,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2941",
+        "short_name": "2941",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Félix-Leclerc Rue",
+        "short_name": "FÉLIX-LECLERC RUE",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8T5",
+        "short_name": "J7V 8T5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2941 FÉLIX-LECLERC RUE</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8T5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2941 FÉLIX-LECLERC RUE, Vaudreuil-Dorion, QC J7V 8T5, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.404234,
+        "lng": -74.040892
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40553473029151,
+          "lng": -74.0395118197085
+        },
+        "southwest": {
+          "lat": 45.40283676970851,
+          "lng": -74.0422097802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Villeneuve Marc Inc.",
+    "place_id": "ChIJuVyn6jM2yUwRECfRZIHbAOI",
+    "plus_code": {
+      "compound_code": "CX35+MJ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX35+MJ"
+    },
+    "reference": "ChIJuVyn6jM2yUwRECfRZIHbAOI",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16285257601360406288",
+    "utc_offset": -300,
+    "vicinity": "2941 FÉLIX-LECLERC RUE, Vaudreuil-Dorion"
+  }
+}

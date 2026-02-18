@@ -1,0 +1,315 @@
+{
+  "query": "Centre Communautaire Terrasse, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339336.6535475,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "74",
+        "short_name": "74",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "7e Avenue",
+        "short_name": "7e Avenue",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Terrasse-Vaudreuil",
+        "short_name": "Terrasse-Vaudreuil",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3M9",
+        "short_name": "J7V 3M9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">74 7e Avenue</span>, <span class=\"locality\">Terrasse-Vaudreuil</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3M9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "74 7e Avenue, Terrasse-Vaudreuil, QC J7V 3M9, Canada",
+    "formatted_phone_number": "(514) 453-8120",
+    "geometry": {
+      "location": {
+        "lat": 45.3911095,
+        "lng": -73.9871856
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3923856802915,
+          "lng": -73.9857635697085
+        },
+        "southwest": {
+          "lat": 45.3896877197085,
+          "lng": -73.9884615302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "international_phone_number": "+1 514-453-8120",
+    "name": "Centre Communautaire Terrasse",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107548829877052320346\">Anne Gagnon</a>"
+        ],
+        "photo_reference": "ATCDNfVdUyrljLKhr5yJZOdEfYGi1V-2FXwaUOyzoGwts7OfVpCgWDAqKLuUUIbyA5V_qXDeHQv9FlGgNWN2A_-9_qZVGZt7UV_RfDvvv3LVcMPmombksMlZtBcB69gL3IweJio7webTn1qjp5L7Ezf_nOFhFps_uyIJOm1SqxoSv6Arspr8EKzHZ-ZbeUapUPC5E6HUhNgO_Dlj9AEIVvjSgLUadGpIJdaW4IUSyJ62ajvJPV4wVA50-W7ma2jBbQhC_Z4S-rfPIrxXVrceukC4jcxW4YUH-rE7Vae0hWHP2-Gw52IA--ltjBeL4M_4DeS2gDV57HiziZyi31BtrKbTTIF0pu0m4KQyXQ72gLnOy9A7xAGr5SxWr9F6-lMFkiAKfZoX9drdsBig_ijxhbEhITgMHz2vBSBO1cIv-p0kH0mEafdlwVMX-4XuSpiHAg",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107548829877052320346\">Anne Gagnon</a>"
+        ],
+        "photo_reference": "ATCDNfXtzjwkX3mLN_IP2p4T5klOyFtXSaLrirmn0tu0i0BWBt5lWbpwgAQpEE4ivjFsfQRDvRKX7T5Se5RkTxeEPnZcBGvwXR5puieIdZVFe1SRc40t8UWWNsMvUC5tWuE8OuEHSLzXcQ7Ade_tK1GWyAg8rUQFXF1sSR_gpzjK1XBFzTT1duR0Tk7PSYiv4ZZZRZZd4DhlWAWawQ3nQJDfqFg5WCSVbLX3Ww4f7rVwf7GRnCrcwxIy29XGJ38u4uXCabsfofLmsQ1eDr1pc2vv2WY_n23MaL__pco8iPRbmUva5WqDSKSQEZhCXcV6fBEeWJGb7CA3G-ufPU3bk15ECIRJcMp7YbyaHq-nEb2rhN6BhOVufVhlNx9-1RFZP4unCOEosuwfsotljEdPvNwpnhmPwdsdy3fStS4gnawFBjP-HK2c8yWI8kHeJETzlk3B",
+        "width": 4032
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107548829877052320346\">Anne Gagnon</a>"
+        ],
+        "photo_reference": "ATCDNfUDTQ77i16EQ0okzYSG5bnhc2wv3faKgwSYYPBnTn-9rnJ991zdc25Pg78heaQKrOsfxwtwEk0Ger_0YubRBDsqrp7RZG3zGrWpCZqiz2iDh6JYsZH9B6c_pMFdv7qnTU0KYRFMwdMJ1HIZPk7TmTntVNh9meib81OOBK9CIhpunbrkkeAycKNkeoUq1BoYSMzzh1RW-lMHDeTymrMLTyx6nX4wpFWbw6_MnCg1Zx8Qk3vh-Y_55PrDfm5k4MHn5_VX02zCPHhyWEYnCXSSYEzF1Z0psUMraurEjqduuJX7sKsyYkicpIhrsTeRX0QsoE0R71ilUd4RCq49D2vcqn8_KvmH99FjdKT99Z0qudrluq5NJfWixbsGBNg-DkV2Ps6w-BEO_MS3U0mvGsMIZ1lcQUrFy83rV9-usWSzbpojjnl1X80JUbk6Ht7Y5A3e",
+        "width": 4800
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107548829877052320346\">Anne Gagnon</a>"
+        ],
+        "photo_reference": "ATCDNfW1Nq-G9NtiWoics8322E-MS1ZpRCsuyeehJ8LBrP6Zu8uCGn79-4ofywWLeneSV7XHgh-SF6oVAAi1RvBlNXSmjek7Cyg-8gthYimeTglUHJ4apXaDjg4gF4SgW7d5CMUR_DiKuYvRwrz1Wii6pgxW4alhKfXAexhxm-Zbo7jIpZ0oBkRjgIsY63aKsC8L92u6TNeaDSt3UCmx1Fd9b6seVuTAXilIrncOtyqU1BD-Sbj5JeopK270HfgzU4M70h_SYe3qDU6EkuDuMkPDpaFc5aVL2Mo9lf0nRY2KWE299H4dLRmyjXfAdTUQoOPJYBnOxlPiwh1-WRsg0FWaoyi-Ra9894A1JE5n71rJi71gge7Wqe975oUH1Sp3wMZt1sAKHUQAlqc1jBmSni1Ttp6Sm6vh5y2vvToAfv7DWDOHEXal9JlI6yK3syh_mYae",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107548829877052320346\">Anne Gagnon</a>"
+        ],
+        "photo_reference": "ATCDNfX4M4Y0l--Ant6K9XngulDG-KzKB9OVISYVWF6yXpaxWqlIaEDmXgvlIFfBTsTPFLFYDC00LmIyZs2lNLYEf3xI1TrcnAgPNO078bw2GMDGzV7C8XmEZDQ_1sx5TTjlZR0uVlBkRXbrf2JvJqfFF7Z69LSoS-Oj5O8WQTfkKZvG_UUdl3yT63d_JcbcMAdcXW7mevoz-gSkdhhL4XnX2ar7b4zDdMVYyozePmvDkZmF9wii8rHRkVz30cxRlce5lO5avXllwLPIrh4dYlKo4vYBGprLzGfojgPEzhWntOVWQ2NQcUZ0YazE7oYKIDpuC9et99kbDI4bPzIY3zew_e9Onf8orVBjmdfz_wZ3sNyJ-xL-6OmRjJEIDOaypXCc-o7n_T95BPpbX9Qv_eH5rbUXSdYxO9OCDqxpPc1xUCAY6OkFSaureN46ZmDUFCfE",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJtVgXAgM4yUwRTUU3okQwlLI",
+    "plus_code": {
+      "compound_code": "92R7+C4 Terrasse-Vaudreuil, QC, Canada",
+      "global_code": "87Q892R7+C4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJtVgXAgM4yUwRTUU3okQwlLI",
+    "reviews": [
+      {
+        "author_name": "Timo Kalimerris",
+        "author_url": "https://www.google.com/maps/contrib/107123314588986194184/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4FOpEizWzDKjO28UoeevYJqPu8WmMoy-F3uR32dfM1M5GYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1755977609,
+        "translated": false
+      },
+      {
+        "author_name": "Annie Perreault",
+        "author_url": "https://www.google.com/maps/contrib/113048397314983711085/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKqw-Y3yOFptLbsHEZH33HbDe9mshr0t7XtUzKaCz0hy34wVdTdg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1565147482,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12867963106641790285",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "74 7e Avenue, Terrasse-Vaudreuil",
+    "website": "https://www.terrasse-vaudreuil.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

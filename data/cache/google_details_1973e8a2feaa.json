@@ -1,0 +1,409 @@
+{
+  "query": "L.A Pneus, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338535.626278,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 102",
+        "short_name": "Suite 102",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "80",
+        "short_name": "80",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de Lotbinière",
+        "short_name": "Rte de Lotbinière",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2T4",
+        "short_name": "J7V 2T4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">80 Rte de Lotbinière Suite 102</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2T4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "80 Rte de Lotbinière Suite 102, Vaudreuil-Dorion, QC J7V 2T4, Canada",
+    "formatted_phone_number": "(514) 633-0607",
+    "geometry": {
+      "location": {
+        "lat": 45.3797211,
+        "lng": -74.0139961
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3811349802915,
+          "lng": -74.0122729197085
+        },
+        "southwest": {
+          "lat": 45.3784370197085,
+          "lng": -74.0149708802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-633-0607",
+    "name": "L.A Pneus",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117798258126971137809\">L.A Pneus</a>"
+        ],
+        "photo_reference": "ATCDNfUlISre7vhR_pfw14Cfhw5agGxcBavv9XPgB1tqr1DqlhKC14XQMjkzFvUyTzIxt_GwjmPYzgvkcNrhwSBUpDI6cQ3UoD8wQkPd160o-QjvUhUMKIRLnp9D4JNw4fZU8gzJ_AHeyJyz2gBGRtOZmsxQfa6uNpEb5K6X-ruLBftRh1uZyk8sWd7ulpju9TDHry2l-CKjB_VOuDGtGX_bhfD9U0vhXEygjmyp6lmBTt4hzhGozcdkHu92WI6G7DXkb1Y6DhIyn_jO1C3Z-E1muOQAMQH8u1pzAnX6qM1-hy0afA",
+        "width": 2396
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116764104098961754135\">Jason T</a>"
+        ],
+        "photo_reference": "ATCDNfXAJUFBo_pxGGpdo1mT5WQqCysq6wWUyL8WI1UcZ4hO9Q63HbTiEWdWim7oTyCgqOBZiCufRpWNJucKXOru_u7Vjou0MfrAzTxDRlhG1WtDUlYEb0v40V26vMz8dqS6utFc-e6yC2sBI_PtHimMVHgc1RWpTqQXAEcL8P8fD1noeGyZgsXEvHPJQ9-iBWMCH_9fZvj9PgS30pbT_bencmZGVKrNePiNv85Nnpdf574xmbgxF5B-HiR-dWu36oCdrCMoQwRQSWuuvvqO1wPgklvtJkPOdY5CXNN5ZTKwbCgyJRjELr-iDwC6bSEw_HHnVOJdouHNI-2gy2l0kCIv4UZuwWvnQXCluQ_BuKj-igtEAEh7tf7_OHbgMVlU9kyx6EFT2cJCTzCXqQqm-VKRJw8rhIbrFSuUNwgjJIfDZdThZOs",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117798258126971137809\">L.A Pneus</a>"
+        ],
+        "photo_reference": "ATCDNfUqqKe94a7XVf5S-9eLLUJyw2t0vldnHiJAZX7Mek9b3oAcVTuMc9L2sCTL8Gpvr-x9hhF_RrPRUzejQH-JVI40IG93yafpLTheO1QzTMZ7U6n7ot6_eHl7GxqS5I5ITihGq0pvnMxNfae9uReJb070wXRdIm6OA2GCGCHLA8Z2u8nOpIXfV9dk3Gf472z4KoqR0Hke--tKPZQPjafdqKrc3P28y9tsDse4b1ll5c6yB5lq80R7WIHKBv2QswC4RpOST7D4x00_GUVPCkWiJ_mpVqJcF97M_J8IN4shVkKw5Q",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105554969178292854040\">Lorenzo Arena</a>"
+        ],
+        "photo_reference": "ATCDNfWHEIiaQfGSJBqF7yOBrI--oF2PY0wrq62EH1_m8WKO6MHMg57n9lxnoT1Q-UrKRseM0v8VLVCpLOdMUgs7vKI8SQ9RFZrCQccV0WGX3D3TrgJXJ8NSUwqhKLew50lKka2YJkDt9W1X4rR4-Mx4GjBv2c8pw2sa0JqUV3QLhcI7SRNEM3nL2L7GKFjVHd8D76HZa7WQ0pjImdQm6ebstMCY7hkp5uFkk2Eaf9bOBP5u_mhvoFUbgdQPw1X8IBpotK-6Y7mMVLbGpRHMC9Tn78gvuVYTaZT99_kNm77WtdvqyR8jwa-g8c6vzHa3sZEQyS8LSZXZNR1amYbAdgaxJiadSKxB16BLcevjCXCB4yuSMbfVkT1oNLfVfDglgLeTGwx_CyOgKKK_iGj_Ao0_WGSDUFsHM9wbyX8ycqZ40i7WLMnpgN2kI3jXem12xx6L",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105554969178292854040\">Lorenzo Arena</a>"
+        ],
+        "photo_reference": "ATCDNfV5ispflLxPPa-4Ebvhm7qtaOjYkrYBXE4vAUkALuyn53HhzwDqbJADMoozZ2LE5Wg14PATzXQmcVJ2kqFn63hd6MlhBnxCXfEq03E8OdNP66uBJXXc3D0yVxJv9WDMOQS5CxIAD1R2ajB-5st2TlBsmUImKH7_72pjeEBre5dfQxrm6Gr8XEhPU63sf84pBGnYOYspb1IBcJcBAt_3co8RdUYZhlW2A1rkzWA3XteWrKQQBlL659AnbQwgqU3fmj0S-qs-V2FRYJs6PHnvp-nZVpjt_ZZ3gwHwyLfKhYEw7C6CpnLrJGnm4Hi2DtqEchDqmfAm0XsRMBAeddFNZG-haBy6N_aHJKnyV2au4aGtceq_wgclU2V2pd-4AC0eZPrq7AoFbym_3R9_20VtXCVeqDw9MJVcrkGQ-iiUmTJHQSbY",
+        "width": 4032
+      },
+      {
+        "height": 1436,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103650749966173284208\">Rick Lie</a>"
+        ],
+        "photo_reference": "ATCDNfVJVOUpbBQk8pyPGhdZqbcdfWbc8Z2YZIg7HiRffQVbjNMUHyKzS-y3Nivr-UpLb6gCvTm9dsqhT5D06xdNATk2krX90RJ1bYoMIpeRMrLWkO5SU_6hH7d5vOQgv-04LlQ9UQGedvJ_SOWNZIMrojxVmS_68K5jgAMlgy1Fggxk6mJV6KXw_wHrO_5mamvnaKnlrhtKycX5cxmCWbnegp2Z0pkzUhWvj-aX8f4Fy9I0Tmtf8QfDhEQuIefTLMJGWm7Eh-MKZDxPuoyLahc4YRgixccI-xvURLeEqR3bOzxLHZuzGxBnDQHWf89EWCSnuRzFUNeFq9lBm1ziBposokSUQb9s9SHrYHCs8P62YVAYrUjQGkz0E7uGqUZRylvplsQ9w2JfcqwY3YkvfvT_zGnmesMp1_mtcCHkPvmrS5yKJfg",
+        "width": 1438
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105554969178292854040\">Lorenzo Arena</a>"
+        ],
+        "photo_reference": "ATCDNfUeyljF1OdMw4FuOu0qPTBaXnnUDD7I-ruOkV0C16cyGhFsrZzUD6fqpiABufUzm2sGz6Rgw3908MU7vCuMQUbeOY4pM45jLPQUkm-ww_ASjHcybbNDHyuOd3qcns6IDLgCq7mloeL3Z8nVljA0bp9JMEf-lV7it1Peo4oWaRosJw2t170GBs6TLJn65qS5Gh8vW8iycg-rpdIlRPLk7DGpkcPMfrZpjUEzqOWGkyu-4x5KecmdZrZbVYWFdvouNST85Sj93ATWJoVZ8xaz_roBQwXrAlkaESFlK6Xa4vF0TxOjaFIaARSiKpxu9LclaYf0jEQYJLV7Xj2ukgSl0P_f1HvBMkgTlRNzPxJw2LDEYs9PrCW8rHRO9fCyMgJqqeh5WUzd7AggIAJIjbRVIUEYQOR52hF2gmhxlU7saI5IGQ",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105554969178292854040\">Lorenzo Arena</a>"
+        ],
+        "photo_reference": "ATCDNfUJ2BfwyeULVpKIghKLSPMVOQ1vn5nM9bVD2RMp6XwfKF5wLcnU46dJofTlIeJ9MpnRNitVg3HUg6eS6tT5gW7dwKZQzjb_QFSVwMg_N0NICADE2-JqrZW4m5SMEs3EK88_Tk0-XUs6bpt6opDB0Ntvt9cHiACPsfYUJO-ws3-vMpU63-I3zYuar4_9N6pZdx0TbYaf3rf8OenwrkWnXawi1INZfrZOe3EtX-F-OCyW5nRsK9-82ZsDKrgtwT6M9o3hXn_q4rBfHhDQGGxP1Z4h7yRJE2oS1s2HWw6R0kpdFWoQuGoHTQuyEuvumUaNZaG0t1R09EQ50zNgSoycUX6t1RvL26yUWmwRmeY9K1A4lRoJ7rngyHms8uaQvXbLlyxkboptYxCy2dC2siEtiR-p9tPKgmtBkR1JRU38heIfT1xakC-Lh4IGz00GptYI",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105554969178292854040\">Lorenzo Arena</a>"
+        ],
+        "photo_reference": "ATCDNfXT_F3SpBcXM22RpOiFR9sknfl-jkrZdMoEGyJTQ65v-ghgThimYb6fJ6patbRGFtE3f7t5Knrzjzhf7YW-nhDMhUrAW8O6p1n30mto5pM5jWbjowDmW3x6wKerjbT_LrH9QNkDTRww3tnKiEvkdDS3GE8nn37JfA5_PhIDIwMGTQCp2IG3iRG52Lym0DzRWxQHW0V6js_HPh7tN5hOtq1ekzDQ6hNHs2_i8HwiRRluQ0OghNyc2ikysXqWRMhQLtDqsalFhcW8B5LbJF26q3Doulnxas6v8zP1NALj2V6wol2C_TQtxWdKUSZLarZl6NGTvEbZfoDbfG5XNeqsEIUCRk2KcqodXxyCHtGa8ygPOc5p_r3BsBuW7WYn4hIoO_dWRzp-9saSqqlGKc1y_RK4ghQgIyMJdKMl6pzrGhmzLvYD",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103650749966173284208\">Rick Lie</a>"
+        ],
+        "photo_reference": "ATCDNfVIFENoAGqRlV9blKDiXhwrb5vK2JsxvKbAEFEoVf33EBiEZ_MPGWjeMNQAf-iGX60dhYljOVmcrNYf4mdXFy-1Kq1QcPC_NM4C9Fo4ijxXEjX3ipyJEEzfXGB76GAI8LRI94ReEmWrPeS-tS5oEowy0jMUqPJrGAUtSt_t-Kg8Sc2gVTaeMon3jeGuupXaw3daJZR8mD70gXlLz43q7psNyceTe20Mi6DI9SyQBkR17eDBYee_XGlStYokRl5qq7GHZDxkJvUdyhOnjLX9vheFnCsPSiYlCRVePYFpuyz8NmNNPu9RZiQpGjpL1tirp98uDTSV9lipbbs1uXtrH4gV2jg5Tyk2O00ZR_FmBICSuPeP8c8ZGhsWYY7s476F_zq_T94z8WaeIORTmpFrpIELiKcUQnKfdqnxkecwIyo",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ0xVnarg9yUwR5lkVvXnvywY",
+    "plus_code": {
+      "compound_code": "9XHP+VC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHP+VC"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ0xVnarg9yUwR5lkVvXnvywY",
+    "reviews": [
+      {
+        "author_name": "Matt Iversen",
+        "author_url": "https://www.google.com/maps/contrib/115312209544066650509/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw7GHJxIxDWj6_PqYE6ZuSgVsVRNJ4YpvuImuaCQcehb1UsBU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "LA Tires has always delivered for my wife and me. Lorenzo, Alex, and the team are always friendly, the work is done quickly, and the pricing is very fair! Please do yourself a favour and book an appointment in advance of the first snow.",
+        "time": 1763569263,
+        "translated": false
+      },
+      {
+        "author_name": "TRUCKER_VIBEZ",
+        "author_url": "https://www.google.com/maps/contrib/100323973240488757527/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWRODSC3lLbsNYxPdhILi31UNk4Yx3Lm6tfLl0eWBDc4YqQ3I=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Truly professionals, excellent customer service. Took our Audi SQ5 and A4 for a tire change and wheel balancing. In and out in less than 30 minutes. They cleaned my wheels too, and most importantly, they didn't scratch them. Kudos to the team!",
+        "time": 1764029531,
+        "translated": false
+      },
+      {
+        "author_name": "Amin Ameri",
+        "author_url": "https://www.google.com/maps/contrib/107458371634708050708/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmYJ4f596WDhKahrw3GlnVI2pfwtGc6h-yAJgLFRImpVBg9Gg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "We've been going to L.A Pneus since 2021 for tire changes, oil and filter services, and they've been absolutely fantastic every single time. The team is professional, efficient, and always welcoming. It's rare to find a garage you can trust, and we were lucky to have them in our neighborhood.\n\nToday was our last visit, as we're leaving the neighbourhood and won't be needing our car anymore—but we wanted to say a big thank you to the whole team. You've taken great care of us over the years. We highly recommend L.A Pneus to anyone looking for honest, quality service. Wishing you continued success!",
+        "time": 1744306734,
+        "translated": false
+      },
+      {
+        "author_name": "Lyne Ste-Marie",
+        "author_url": "https://www.google.com/maps/contrib/107486385203792712695/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK71hFdjg976MSNHsdWE_s_aUiRk7KTpLGScA8XP7dOqotd-w=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "7 months ago",
+        "text": "Service was courteous and quick but, I was charged full price for not even half a job.\nI was told rear alignment could not be done, I accepted that but, after reading the report, it was clear that only one adjustment on the front wheels was done, the rest was left as is.\nThere is nothing I dislike more than being treated like I can't understand or verify what has been done.\nI will not be returning.",
+        "time": 1750887047,
+        "translated": false
+      },
+      {
+        "author_name": "Matt O.",
+        "author_url": "https://www.google.com/maps/contrib/107071218671936422654/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7vll55YggiuFdhXVPz9_7E6jrIZEKlmwp-AXbGfr--6DdCyo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "In and out in about 45 minutes for an oil change scheduled within 24 hours. Wow. Impressed with the quick service. Alexandra at the front desk was a pleasure to speak to -- very kind and convival.\n\nUpdate: I’ve gone back several times and had the same great experience. Lorenzo and the team were even able to change out my stock exhaust for an after-market one, with good care.",
+        "time": 1755107494,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=489748290642205158",
+    "user_ratings_total": 250,
+    "utc_offset": -300,
+    "vicinity": "80 Rte de Lotbinière Suite 102, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

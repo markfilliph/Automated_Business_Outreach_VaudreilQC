@@ -1,0 +1,425 @@
+{
+  "query": "Vignes et houblon, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338786.7752619,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "18",
+        "short_name": "18",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Besner",
+        "short_name": "Av. Besner",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1Y6",
+        "short_name": "J7V 1Y6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">18 Av. Besner</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1Y6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "18 Av. Besner, Vaudreuil-Dorion, QC J7V 1Y6, Canada",
+    "formatted_phone_number": "(514) 457-1455",
+    "geometry": {
+      "location": {
+        "lat": 45.3815368,
+        "lng": -74.016369
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3829585802915,
+          "lng": -74.01487346970849
+        },
+        "southwest": {
+          "lat": 45.3802606197085,
+          "lng": -74.0175714302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-457-1455",
+    "name": "Vignes et houblon",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103275952511496131835\">Catherine Vaillancourt</a>"
+        ],
+        "photo_reference": "ATCDNfUuJXQsqEz-5YPoIxIbjoQJl9BDIAT0p-DSOn_7sqITwYXbWZlprzl-uRi5HUI6skiA42e8S9LWPpO2Dmnga4r5L_IWgzhnVDYmXLAm6xWYG_iUoA9GNHM4hjcVxKLn6SVpBN4KxKXjet6dHVJStGMmnmv4B8AoYzfhydO76NrQ5s4icVE-5xQG71CY-bIAdMs6yc3dqbB_MpOSNXC3FiOEZDo0Vdusd7Z-YJ0_MvIw_ihQ0U5QQ2yrwsxvpcKFJEej9P_qPSwVuoN68FB5z9_n6l7cS2ofD7AyKh_oUzYMpOTC4G8TFRasaSNh1fOyvALHiUqCGNGMTqGsNit9NH6Bw29QgaI38H-H8JC1FaI7P10N4UhRMaGov6CM87paEe2x7zo65_kT56jRzHrGLjN_hqoUeSgng36coaHTehF1ow",
+        "width": 3456
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100680909306243008063\">Nancy Johnson</a>"
+        ],
+        "photo_reference": "ATCDNfUhrKa7rCNwGMPmwEzCm9TMo8SJMlePSTPBvgNyQ9JapZ2pox75Gw2HG4K2etxHtG3vkiOCNqV4_wnnDo7lzGzP2BvPWCZPx9Ie8hx73dXliwuiqgnKMh9_eqVqJ8CNg5KvDCO8SjcLjxREDhreH2U6LqO56qBrVaLzYev1GUHH0IJnrsqBjGeLrsvJFEXow2aBwIDOljCFtN9OCD2SUwBCocX97jr0GceYw-YKVVCJCkre52bbKgHcAqAWZU_Sa0jrxteTQKq07WCb9bnbPLvrBQA3fX7N8pr1DkdAyF66TGH-lJN07l1JW_hiVIg_IKcpAMdGkrYrHgaAS9z0-qQmWJKbxp1vfVTKM3-EbQUjvwqCIbk1Am3vpA62AjVEeMCL_3dLbvlgnZ-RzlC1xCoOo5d05WwvK496c3t8kXdPSJoM",
+        "width": 2048
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107687981694033158747\">Jean-Jean Wei</a>"
+        ],
+        "photo_reference": "ATCDNfVuhvkaDiBLbdfqrH2BGULt3TkworBN2vHb9q9sx41u7b35GKmwjyw4R0bzTH0O09UXSJCZz6CTdqWRIjXrCiocoujImGCojd3pC_lYBg1oKxsVWeGmGPhlodwtfPGHC2TSSWRX_o_agXcnJ7_pLdBAVMt8TDwpF923nPShjkWV3LGEJoGWjrOjPZC-XzXkXZJZceZ0G05ywJKRSz1UcAHR_ifuqQBOrnMlFJxmGzCTIYDrBPsJf34WlT9ISHnv5f3-F8iYdeiag1FkIP487zJ_lsaBcQsPTUhftPcf3crHyhDY7COUXRpfM1bT7SlGAxmByQeNmauDSXtmYjme_SFtrwDgPGsdrt-WrPOLBYh6c5V_FtU3LW0cOJLFSCwRy2_6tGXs-OQyfq93DgBhRdARTAgUHBLr1s_QQAm1QBo",
+        "width": 3024
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110568458070208434813\">Vignes et houblon</a>"
+        ],
+        "photo_reference": "ATCDNfWokkk3YR3T32WXyU8htJei9bYxdX2OP0WaGZ5LVPTduYVuy3ppvCR39p-4W_7mT9DaoOtQvmte_uzPH3pylPy3tpbY-TlJzzvnDdEV8NBvo7WkLL9T8CzP5B6NyMe_dBom6Ubh4aae7Jo-Zy9t_oWDkZ1GKjYlV_URAPDBe84wfrVHQ1XtusxR6e4NdOQ4ExHCjpJv_LaxZagw7z5lzF8DvQ47-tw3aHGeC4XRHfsDCNtb6a9DcUjNNgBlN5XAnBVHDMpcPbKjKSCxqp0wxRDKtkcBkZ25DoGvyw5FuxWxkw",
+        "width": 960
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107687981694033158747\">Jean-Jean Wei</a>"
+        ],
+        "photo_reference": "ATCDNfWAM4lkFbIkL1r1sJXROYX-4MDSCTkzMlArZqbHKAj19MxHXqEGS0bW_Zt55lePdbkHqFjBzO8xtW3eljWW_w53MUrpkgMDgiRkbFQkUoiBMJRslb7i4A2MagYZwaAqfXBJ1wJRVn4jOOdkQyqC9PobJhHIUShGs7QihSBRbNAFDNbSMB8_TF2lpbFGBXkni70N2GyjQDDMc-X9SUd1j1V9IYw9OiRejFasCo1m6CZa2Ku5U8vy4rvf_EJsSkQwprMU4L3me1vKK_BmYlx-sTnQyflJ77G_W6P3JsOqTh-H5LbM_FhKHW4nefV9uI2wyZIWGdcqtp1RiED76M1YMeQITxHTBQVkPZGKXBlj6937GxhU6l3eb0P7a9ucxCBO5oR8OCYbTNotVAi3vkfFqLxTV1Ig3n-FN_g8O69zs4G3TA",
+        "width": 3024
+      },
+      {
+        "height": 885,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110568458070208434813\">Vignes et houblon</a>"
+        ],
+        "photo_reference": "ATCDNfWx0H1NIT2sgJbnLDLkWOaOdY4IGgsikoJlhWNXiapi9Yf9UlkC1_uWBDEGrgDlcqP2pAgsOICroTAwtrI-0atctP_fTLnWGm9y2KD-Ee8j6dESGbHMkTZuv6sr1Qa4rG-6c5o7jIIiPlceBLTAcAqfv2RTCrPsMYG1TSb52gd0ht3PX6MdO0zBOFmtqMY0h7oLzz8_9EChOWvcED03wihNxl1KAE8xfYsZQnYj439a5YvnRgKO2z8RfTvIZxwYubVTlfoPF-K9rSHMpN9Q1G3KOH6NF7MeJ1RhXHNLlM3eEQ",
+        "width": 1719
+      },
+      {
+        "height": 893,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110568458070208434813\">Vignes et houblon</a>"
+        ],
+        "photo_reference": "ATCDNfXnUHuaMeGb8RRCmZtVnA5Jp3lDs7G5FCjCslhasP50XsTzhZbPtJ5Wd15bWPVUiUL-mRnsj3Vf9AixVKn7Bt8Zr-EAY2HD-pMZqLPXr1kp4h8Vc-1cU4YPlQfc4HdbfZzHeMSWi_Gya6HMnVQFlGm2i9he1JqHf_QzMtQ7QPEJb4rRKxi0N9mCJlktaNGM5YHqXFhuWkZpYfaEHEk7d2KVOr1vpt-N1zFJH3lv1BhT5q2wxsSL8smHqgntalhTjEZdTfuTL2_o4idrN5by9gDHtEzOGfCpUmsMVkumchapIg",
+        "width": 1491
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110568458070208434813\">Vignes et houblon</a>"
+        ],
+        "photo_reference": "ATCDNfXw3FdLeGZmhJkpUoy7rsj9FB30j5XFULFWrNyhJ8rXyvRlRajyvtJw4NvDyV0F_4Fblnb56t2745oPG9Qbq__smQzj4TZUWb_ZzU2ii_oZ0vYJTnHJlJpvqb9CcIo136A7MQKvXUnDgSxZ-5dbK9ZHveYDifzxAtdsJ4lsXlHmGRCPYjbLgSOsqtMe7DzVuej8WkgRNSVfC7fS1Ha0taEweuFQounaRTlp6DP6rTjbOHIhgV7yq56x2iKupOj4UoBxhPQwY3Z8yHVHZ5ThNStUe3aGi6rl9boTeN1NgySK1g",
+        "width": 1024
+      },
+      {
+        "height": 885,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110568458070208434813\">Vignes et houblon</a>"
+        ],
+        "photo_reference": "ATCDNfXOfsVz5veXncwicHiBmiSvgub-6C1UEgculI8Tlrz93sL3y-IJtP7jGSQCmTJFgdBb9qoE4e45-yidDjTxdmMc1erYKTECpyZ8d7_4Mm7s0to762jYX7djwxRegccyz6WpxISBON2kw9J8Y6my013vbh7wgeWUMmaXbpeDY4vtmXBBaevCLh1rCwWdVGj8qr3WhIoOrEU_JVaRzYz-l2x8LIBTMJZs060eL82gfcD3b2fn9LVoMNM097Ch1_sCyKFq-AiH1mR-S17CCqRUlFkfid_ZwY97HFsZbPrATBwCLw",
+        "width": 1719
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116915700630646711469\">Bob Marcy</a>"
+        ],
+        "photo_reference": "ATCDNfUh3Uz7LHx2BvCMcbGtREWBD9NVdUA-v9te354LcGzss0M6gNofEmyhxJPqnk0Q1wDs7pXDeK6VQrJKK8iIHDVv2U_TVwzDfQewOjyOAuL91XS53Szo9h27_hRMm71E0LDlLfgSd-046ly73IQAqC3TQzyR5vVILVp4vkH5dkD0mBHhbhWhtStY1l5ObL8bqFuolosrUCniHSZ4-wosTSCkptmIy4-mMGf-2gg5A3tO5LZRi59qVMc0Kj3tRhEX5Vgkk81twKcXy4KVu3WX8Gayjnyd7m6kqgXeR_4jOCAg_AKskP9A-F8Ht706lMOSsU_l5BzKsfyCRSs1nQUchBnUMIRzMnBAZDysPkoYB2Lj4nituq47Z7K_FKjA9JwWhdnfdpigC6Lpt2LOxuDivU6_vMoCvdRmI8uZHMtVZxnybn29",
+        "width": 896
+      }
+    ],
+    "place_id": "ChIJmz3qxs83yUwRP94-3K4jWF8",
+    "plus_code": {
+      "compound_code": "9XJM+JF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJM+JF"
+    },
+    "rating": 4.8,
+    "reference": "ChIJmz3qxs83yUwRP94-3K4jWF8",
+    "reviews": [
+      {
+        "author_name": "Robert Beauchesne",
+        "author_url": "https://www.google.com/maps/contrib/101306865906550359740/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzKrCfjvnQ8E-o4mz3YuN4Wylj8aKGIsQw7WE6rCAlueARvw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Excellent service and super knowledgeable staff. Thanks again, James!",
+        "time": 1768439321,
+        "translated": false
+      },
+      {
+        "author_name": "Varun Tejpal",
+        "author_url": "https://www.google.com/maps/contrib/101279079230993843719/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzmFYZZGfNOGYGtIn0OLEByptq3NjYCeWkeeuZ94nU9axsd0Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "First time making wine. Staff is very friendly and seem to be knowledgable.  They had a fun wine event we went to and decided to give it a try. Will taste the results in a few weeks but so far so good!",
+        "time": 1547324295,
+        "translated": false
+      },
+      {
+        "author_name": "Bob Marcy",
+        "author_url": "https://www.google.com/maps/contrib/116915700630646711469/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZz00q0CElgd5oJMZHIxyswItEupMtgRblLmVjPQeIx-1fUM_2BQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "Great little wine making supply store. Select from many varietals from around the world and if you pay an additional $50 they will help you start it on the premises. After that they watch your batch, rack the lees (dead yeast) off several times, filter it when done and call you in for the bottling.\nTakes much of the grunt work out of making your wine. And your basement doesn’t smell like a winery. Highly recommended.",
+        "time": 1555766021,
+        "translated": false
+      },
+      {
+        "author_name": "Jean-Jean Wei",
+        "author_url": "https://www.google.com/maps/contrib/107687981694033158747/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtogqtHe7AE-5FHflc8yupBjLRP2r42KxjxwBamES3iWbzkuMV=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "I have been visiting Vignes De Vaudreuil since 2013. The owner has extensive knowledge of the wine and can help customers to choose a perfect wine for them. The store is professional and clean. It has excellent equipments and staffs for wine making. They also make the bottling process a delightful and pleasant experience for customers.",
+        "time": 1493393602,
+        "translated": false
+      },
+      {
+        "author_name": "Carmen Cortez",
+        "author_url": "https://www.google.com/maps/contrib/112254199546974174560/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEMkxzV7cQkcy9Fv0Qf8JYWYxJ9FQq9czyl0B2WYeiiJbIXw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Bring your own bottles and fill them with fresh authentic Wine! you fill up the bottles yourself (before covid protocols of course)\nFantastic staff, incredible tasting wine\nAMAZING PRICE",
+        "time": 1607198528,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=6870280465480080959",
+    "user_ratings_total": 48,
+    "utc_offset": -300,
+    "vicinity": "18 Av. Besner, Vaudreuil-Dorion",
+    "website": "http://www.vignesethoublon.ca/"
+  }
+}

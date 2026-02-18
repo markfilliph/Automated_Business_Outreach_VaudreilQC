@@ -1,0 +1,328 @@
+{
+  "query": "Salon Uforia, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339212.639468,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "274",
+        "short_name": "274",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L8",
+        "short_name": "J7V 2L8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">274 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "274 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2L8, Canada",
+    "formatted_phone_number": "(450) 218-4481",
+    "geometry": {
+      "location": {
+        "lat": 45.3900109,
+        "lng": -74.01646579999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39140913029151,
+          "lng": -74.01501521970849
+        },
+        "southwest": {
+          "lat": 45.38871116970851,
+          "lng": -74.01771318029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-4481",
+    "name": "Salon Uforia",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3780,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116083371763319945742\">Kim Venne (Kimi)</a>"
+        ],
+        "photo_reference": "ATCDNfUNhznFXnoeA8OYDiNsYHQDKdPkC2-dPduKD_HFqvOaFsuZzwj8AuU17Uwdkn7Mo0Yl2KUUjD0chEHDu47VyQgF_6JURvo4qmCBr34az3axA_vDGJlFJITbOgOVHk_-FMComs9irxxLZFTDDE3ic2wonQE2JQMVyLpPrDOMIiuBFR7srVJXaGLoDHvJjfuJiNuCrDKXlao-saSMesuZ8Wkuw8GVAksSNvQfziFfb7XvRlnGHnQYtUjPCD_51rjcLMVIo36TOE1gD995Mcr7v6YmcLPjJv2uH2RWug0QDbiC00mTPowBw0JHtv1f33EBJJUw7r4LomE01LgQOhE9Pmn0QRE7foJayHOxuFLf40oXnVRGuHGYh-qWanSyir0d9C7kxLSzhnb1hoVX_Fgiis2QoON662dilpRJwADJz380WiYq",
+        "width": 3024
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118174981832708203352\">j.s Saillant</a>"
+        ],
+        "photo_reference": "ATCDNfWCOf0RU-4UtiCprFCSACmICD8dYdDLvQuxQJ2PK3DZj1Ix-02Zv6W1pBpS-88d37yEeuEnu0uu_1Ukm1nc32KBjNg5vaKb_cKb1m1-1p2ZTtQTXKUBMMgAWdu4st_sLqNwwMwkfFXJH55ncDROluwzowMH-J73Gy13Cf1HvMLKYWdRiq6m9sJPGCd0C0iqrYfNy7mWPPTvQTCIAb9wP_CKo2fG8T6e7ceP7l5oGfEmClSuN-V3bd9vZBIZtxhOPJm59Vwnys1kddc1VNAxhHMd2-yeCbBhcZCyKMAR5fOLBxWqUSuzWKiD5AYBGWopQPCu37aFV87aA_rDaMXemB0hG9fXaha0qBw78Q1vVyiji10bfakiAaxwCdBf0JLIY8iEi4mtCsHdlIje3b4TRMdLYypnC9SSdVilNKymJEaOBw",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJKZJtieA3yUwRaONpZxBf7ks",
+    "plus_code": {
+      "compound_code": "9XRM+2C Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XRM+2C"
+    },
+    "rating": 4.7,
+    "reference": "ChIJKZJtieA3yUwRaONpZxBf7ks",
+    "reviews": [
+      {
+        "author_name": "Amira Samuel Beshay",
+        "author_url": "https://www.google.com/maps/contrib/117217383452284726006/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj1eus7xd2tKs1NRWXmNBZ-QAfMDbQ7MNfZLJ0hMdAnbQBNhM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Amazing service. Thanks Julie 😊.",
+        "time": 1760654455,
+        "translated": false
+      },
+      {
+        "author_name": "Martha Byron",
+        "author_url": "https://www.google.com/maps/contrib/115084240660247039650/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ29LubsjeMblD4TetCRZReO68qGb0z3pWeZyogLjcwk7eCtQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Friendly atmosphere and very friendly and helpful staff. Always get what I ask for in the style whatever I  want and happy with the result. I will most definitely continue going there and would recommend Uforia to friends.",
+        "time": 1698249053,
+        "translated": false
+      },
+      {
+        "author_name": "Cathy C",
+        "author_url": "https://www.google.com/maps/contrib/105935130607407020107/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeAb9WKtP9RU_803MZEyois3-bE4snDQwaE_Bs97TA2DCjlnOE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "I have been having my hair done there since they first opened.  Friendly staff,  good atmosphere, fair prizes and the coffee is not too bad either. I just like having my hair done there.",
+        "time": 1506165767,
+        "translated": false
+      },
+      {
+        "author_name": "Mona Worville",
+        "author_url": "https://www.google.com/maps/contrib/116744760644386373756/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKl8HyZZclIc2BvRutscBef_aJLQsQvpX0LcKI_pil6i9it5A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Great place .they do the best job on your hair .very friendly clean .and for your hair..by the time you get out you will look like a million",
+        "time": 1660312253,
+        "translated": false
+      },
+      {
+        "author_name": "Ed Derfel",
+        "author_url": "https://www.google.com/maps/contrib/101538796292104338918/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmRe_XFkHB5POvY-M4G7yKqCRuYKd5sce6mPMHgZJrM8wVprs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Great staff. Very friendly. Been going there for years.",
+        "time": 1556972145,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "hair_care",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=5471415121360839528",
+    "user_ratings_total": 81,
+    "utc_offset": -300,
+    "vicinity": "274 Av. Saint-Charles, Vaudreuil-Dorion"
+  }
+}

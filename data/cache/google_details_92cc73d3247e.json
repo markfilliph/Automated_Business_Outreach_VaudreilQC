@@ -1,0 +1,446 @@
+{
+  "query": "Club Gymini, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339704.8630404,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local c-145",
+        "short_name": "Local c-145",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3093",
+        "short_name": "3093",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1A5",
+        "short_name": "J7V 1A5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3093 Bd de la Gare Local c-145</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1A5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ]
+    },
+    "formatted_address": "3093 Bd de la Gare Local c-145, Vaudreuil-Dorion, QC J7V 1A5, Canada",
+    "formatted_phone_number": "(450) 455-3141",
+    "geometry": {
+      "location": {
+        "lat": 45.397884,
+        "lng": -74.05239200000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3994516802915,
+          "lng": -74.05144631970849
+        },
+        "southwest": {
+          "lat": 45.3967537197085,
+          "lng": -74.05414428029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "international_phone_number": "+1 450-455-3141",
+    "name": "Club Gymini",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 779,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfVBUD9THuBfvOaUIpv3JpGLVBo1yNBZJOrMB7gJfTC7E4luAH8FVxYldf0yomUh9aHgBnkPlz8zFXjadtV6bi34qlMfsJ-809UBihcxU7ZoowlkrbejKItS8YdZm2cXYobO81gguvcAtNGDAijZpUyNmXE99GPUt4SwwrcfPihCPLfEQC3TR5ntmVWMz2BHIIIdDlSNMdDouUbm5wj5WcdjNJjBwzsIGdmakaQGyqxYabqG6_2omJdVEeiE776wZQ6wiqg56L2PSuwXq81W5odZcTFaUpaodozlO3cVYhkoYA",
+        "width": 1386
+      },
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfUNZMMIQ8GsP0UFBe3OzK2hmXYftTUhJkRtEEelPCi6PRRL6N0RaOb37z2oBRQFoTy6pE3y-aSYHBRsVaCg8Xar9sw2qr67QM5tQXYIJlW92Gsb1kpCmJnv5XbEfDCsYbZqBHY7jnm2Ip2Rjzkg8OJ8T4MrtcBOPIMqlLlBSxDJ3EqkeWSWwkURBgrlJx-Z9711I1S5o4PwUI-JVrosK_5FWjmqHJUPG7AQ6YuVf6gqZeurzrvTo_SJL4RX4bN4wmbkyDgY52CRNtqyBWNmBk0glRMv-kHfcLuWIxJ5hYP3rA",
+        "width": 4288
+      },
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfXpvm_GF2sqcfzcbXZ5KL60kSw5qgFE_qCP1nzNTBa9namPf2lYQSBfRMyDVs3IJSqenRzvQ7RB0_rs_qqBnj5ZM-4fhlp7tQbWm1gAUKF67Pb-bkCnnQ_Nz552dAU04FIxh5RQSmbjMmx7TDoN31VOxjEvtZRE59z7XiZXIvf-C4gRQMaiTpQ_wdEZtMRyEd4QF207DBO_2Eim9fJnDiXPb7sUBHfJkS1SXV7g4slZDnBVhGaOjAnQ_5a6kzjwHU2IKTmPAnSxCAVjfJ2jic1akRI72qqpwgZ_zW1PIL2_0A",
+        "width": 1432
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfUO2KOlxcmpkMqYQXi0GM7ertO5fE5e9tJtzJBIkVhlGv1qk3nCP9y-fh68Ne02BSEsrePqa6E7KdfC9SKJvz2WAGVvj3rrWPIYDMXr1fURl8QUBx2BCy3klamJSnECnEnrC1_3o9M05aH1Ujnb-7EZSUKLoFxk5L3EbrEsRtkEl92vUeNcemTbPk2bsJzeB2db3awhYZLeHycE_lo_BsuGCeb5oybbqzyD75VjciM94tnXb5RanMz4jgGSVJviziD3JqKUEYT3A-g0I5Q5uU5K14xOOv-uynEbOS-5NSHfBQ",
+        "width": 4800
+      },
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfXLlR_oHCGfZci6f4y9C25CwQIRpuLtlX9mA_u6wzbyKs92QimVFgSqfVxFADMmqOV8kenQ44ULwVh8AqTaYyNd4DIbKjvO5aKwbkVCI0VmYEdbsTh2tQI7VtjPI5LZ7xWcSbvo1Tlafs6MEYXnIYPf_OnymvnYe24fI-J1Fd-NKkACP2iq_J-l-kaIRo2wEN0C5ud7dtJo9Q9qzeRGIj07ckPLLGxChCouzEMJNe2im_dpwbVNX_VvfVjRw2ZIYvWMYpffUupBLeR0PwvHZYJhDF5XURzJPbsSIbn4TrOehg",
+        "width": 4288
+      },
+      {
+        "height": 2377,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfUo-A_nWVxbxWicXEzk4j2rT14pLpvvndWF8vQjCnpBmseqbDv9OwkOJpbP1lE9qb6n-kPzgwMWN18NdLAVdBpb3g60Nq085ZK1T8-_V_wb57lRVs_hMgLsWTmchLDOhez96_qKTg3-FVz5e8LS3F3S1UsnbWEux5mI7LyW7oZk1AkQZOrO5z3uJ0IJo4C5Be6uMhM_BzKbNJ1Adw0mL18FgtFZDFTTwZeqYrCZRJiXyqWqVU7s9xL0k5jLtaS9ZLT2esC7tzGmVZ8UN9KQBl0aVmSacSlEOZ-4V38Xd1MhHg",
+        "width": 4288
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfVaoDRxo_wJO5cnHgpKxC0NRfd8YWCR3Hr3e_R2SFdRdlchK8V4hey6JDpC0fWaEs-0BkTYBvAw1DbZk7t6LNxkq_1uEZBkunkRsrD9VLuwuyfIjdat5oyG-ennhpt5DOuVecRFw-6jj3tiwtQ1NyeBH77ZkhqjtGUfznqtwQ9op72NPANJb1LjNNdK8qwyCdllwAHHi6Utq9IqmF5wYWRgyHhouAOZ_CatoicZtXo2zU1WsUBHxokjiJ8P7YT9HFBCkSuNIMDXIzzAjvFlyr4exQk2TjQyjytsKuExbTmpwA",
+        "width": 4800
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfVQCJuqtLFaJyH4_-1xid4Pg30Uxi97_EnrzVUUxA0hZm6CzPQ2-UyU9yUkBaw7Uhp-kVXyMLYkxhK7WBXL9HryKwKihbPH_cPgONyNY2AhiweNp2h0z_LCXeahPga-5SxaxEjK1TmN-yCg5yWNVx2_5zhaMbF0-uPRWGQgsyMhBe3Q2482RHKLTYTR-_lfEi-1hDKp31ELqKAaTCeYeleLk5zBMGi5yf-FZhemvURlnGD1N3cWeswTBLV8VAXDyyU4EGXPez9J919sje_kMyMDa87xivJg8tg_0K0q0VWTVQ",
+        "width": 3200
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfXskJPwXHEUcoO60dKabfA7_9CISOOSRJvSYb6zc0ZdZNX5XiPKEy3Uk8IQjk1H_WpRwP6_QbYMZD5w5ofaDMber-mokReQKUt7Evloz6oC_V9VHIY9Gh1JYIQ36gPT3hswi2fnsgVVG6K-wuQjqgx-SYi5kIT-6I2SBk-VFXCfY_A1EIQjuSJ68tsbsGPozPnevSqq9gRDx1JOLD72sDtULNyHy1hZLwATTSBMC9uBGa-c6BcTyZk6tZx_S3o3d4X7tlfbPs_gkSQq12AXliw6w11meAEPql7eTZ1n0A6ZDQ",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116735543981461481438\">Club de Gymnastique Gymini</a>"
+        ],
+        "photo_reference": "ATCDNfUiwhfcU0JP_po78SsOLb-FydSklnKVQsyOUcDf0TMgo0onrEeQDnnUFFQzC4YPthFL4i1J0UMCWZqYWykBpGAf-Qxxgqg7OsiVrTnbIQRZbttnbaD0VKYcEKtTLwHH759DHOvUa8oz_66C4cFy_z3VMZIM25nm7VFyxrVHGkY3i0LbgJQMI2H44adKggKvv9pEF0v19KpJClwhid699EMFlykBEcVkms2aZHOZaVixnp3CoTbJ7Gsnj56yIO6qt2qa1rFYMbOc3FoCQWHk4e5SnUg2E21digOeDUYzl0XEAg",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJw3amBxtIyUwRpdR38rBHcE4",
+    "plus_code": {
+      "compound_code": "9WXX+52 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WXX+52"
+    },
+    "rating": 4.3,
+    "reference": "ChIJw3amBxtIyUwRpdR38rBHcE4",
+    "reviews": [
+      {
+        "author_name": "Raquel Gunter",
+        "author_url": "https://www.google.com/maps/contrib/111097877342704272866/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP8ncQtv95nKG1A9Tg7zjOEFAA-1UQxaRYDJLk8_-_O9CDlUd40g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Terrible for what you pay for. My daughter was in 5 year old class and the teachers are young teens who do not teach the kids anything.  They just stand around talking to each other. There's no teaching the students, just free for all",
+        "time": 1764519241,
+        "translated": false
+      },
+      {
+        "author_name": "James Chamberlain",
+        "author_url": "https://www.google.com/maps/contrib/114795830979471833464/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvktRdX_Rq-eQuGSGi4yoWaRp2tUvrrfzyzxUUkgypJ0rcF88=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "Well it depends, some classes have been great my daughter's is good but my son's class this semester hasn't. The girls seem to be more interested in chatting with each other than actually paying attention or directing the class. Money wasted this semester. I've also sent an email to complain but no one has even bothered to answer me",
+        "time": 1717333026,
+        "translated": false
+      },
+      {
+        "author_name": "Olivia",
+        "author_url": "https://www.google.com/maps/contrib/111935164103258050432/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXEoqj_gZMgDkMs-PqvKw0M5c4QRpekny2QBVsDV2Ca-ug0BOg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "I have a love / hate relationship with this gym and their classes.\n\nMy two daughters attend and are 2 & 7. My 7 year olds classes are great. The toddler group has been poorly managed in the latter part of the session.\nThe “coaches” are children. I think mainly around 14-17 or so. I lucked out on having two amazing coaches at the start of the semester. Attentive, enjoyed working with the young kids.\nSadly one of the teachers were moved to a different group and the other teacher seemed to have taken some time off. The coach who replaced them didn’t seem to enjoy working with the small children and seemed disinterested in teaching the class and was more of a vibe of “having” to teach the class.\nIt’s hard to teach a bunch of toddlers and they do their own thing half of the time but I wish the class sizes were smaller as we spent most of our time waiting for the children infront of us to go through the exercises than actually being able to fluidly go through everything.\nOne major issue for me is that the gym is quite dirty. Dust built up everywhere. Floors are quite gross and we have to walk in sock feet / barefoot.\nWe pay a lot of money for these classes, sufficient cleaning of the facility should be taking place. These children are working hard and deserve to breathe in clean air that’s not polluted with an inch thick of dust on everything.\n\nIt’s a great gym and I believe most of the girls enjoy coaching and helping younger ones learn. There is just room for improvement on how they do certain things and who they choose to teach these classes.\n\nWe will continue to attend as my girls absolutely LOVE it. Hopefully the gym can review some constructive criticism and improve on their weaker points.",
+        "time": 1718932424,
+        "translated": false
+      },
+      {
+        "author_name": "joze c",
+        "author_url": "https://www.google.com/maps/contrib/113476668702753504613/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbrwwju77INSRe8ZuMpW_v2Van53FtvVTZ1Mbi6EPbvFvY4A-R=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 months ago",
+        "text": "the class i took wasn’t really helpful, the teachers/coaches are underpaid teens who don’t pay attention, it was fun though so that’s why i gave it a 3, i just don’t fully recommend if you have other options (my opinion!!)",
+        "time": 1745874901,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Salera",
+        "author_url": "https://www.google.com/maps/contrib/115399289850721800029/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSZTQBZtet-GIDuBz9PktRFnPe8hwo96ey3rza7XAIY9541G45=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "An amazing activity for young children to develop their motor skills and physical confidence. We're starting the 4th session for my daughter and will continue until she is too old to go.",
+        "time": 1712437440,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=5652096357657728165",
+    "user_ratings_total": 40,
+    "utc_offset": -300,
+    "vicinity": "3093 Bd de la Gare Local c-145, Vaudreuil-Dorion",
+    "website": "http://www.clubgymini.org/",
+    "wheelchair_accessible_entrance": true
+  }
+}

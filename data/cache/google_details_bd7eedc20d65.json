@@ -1,0 +1,399 @@
+{
+  "query": "L'Équipe Volante JC (EVJC), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339300.5594265,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local 201",
+        "short_name": "Local 201",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "105",
+        "short_name": "105",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2K7",
+        "short_name": "J7V 2K7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">105 Av. Saint-Charles Local 201</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2K7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "105 Av. Saint-Charles Local 201, Vaudreuil-Dorion, QC J7V 2K7, Canada",
+    "formatted_phone_number": "(450) 455-2602",
+    "geometry": {
+      "location": {
+        "lat": 45.3865567,
+        "lng": -74.01203869999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3878516302915,
+          "lng": -74.01071196970848
+        },
+        "southwest": {
+          "lat": 45.3851536697085,
+          "lng": -74.01340993029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-2602",
+    "name": "L'Équipe Volante JC (EVJC)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1522,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111214252379321022067\">L&#39;Équipe Volante JC (EVJC)</a>"
+        ],
+        "photo_reference": "ATCDNfVhBoiCLzZy83yPi6KHI8uSWUwuWsAVVlGgKvFwrprz0ilIDd-kn7iiZDk0Kse6JyD_t1z02p-UOFLO6c2tnL8_DDnSLCGuR35TIynQXe4Cknp5iWyIqElxHhO9f8EA661iRcQ-b-YudHJWOGa4ZmUnlGAottmdwIb22jiXt6T_cfX5HtHBvtseHWQhZWsIMrQPQVvtT-6YUY310vNOsYLDbrKgq6z2N-pPTlIq2mp1kunHAZUDWOydQh7mGtnAB8VkO5vdsSaH31T4tknoJrO9m54wv_X4_sjYk3WgPG2jtg",
+        "width": 1598
+      },
+      {
+        "height": 3562,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114897849859877817288\">L&#39;Équipe Volante JC</a>"
+        ],
+        "photo_reference": "ATCDNfV5vqkiYUR71l9CRgR4jOVCh5znMWh9ylCpihnEQAODiqiEWpIv20dgc8hol-gv0lj0VEnLVnyQ1kGwOFxPf68WnlO4Dwmlm9HpFszNozWphSCxwK6c3l3AqK0oxnAI9JXZOg5zSKRrEC2RCK9mmsoJAvPUcJLSaZqvkx3RRNJcx8nzbXUusUwxPk8MEvvOzn9ZQ91epa2qoWNSBsUNoTNHEeSGMxw1Rt7JUfI4jN_W4iLa3NlIgNrbsiFJw0fRDm0eOVoJmH1hfh0CSwtHj7Em34Bu0HT3JkFpBDF69ISsiWnPZezQwMBxBINLA1AJWnW_LjVlEKyO74kNCaP3XEHlUxRGUjUBEooAl6rxzQUno-FaUSAwKmifYYhiSSRHPCyDYwy0jlf52powHDLqaspmOm4sgvzirDWAZgaPPYu5eWM",
+        "width": 2672
+      },
+      {
+        "height": 358,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111214252379321022067\">L&#39;Équipe Volante JC (EVJC)</a>"
+        ],
+        "photo_reference": "ATCDNfXJrMdSsl5TRyXb27yUA04wrTW4ZVqH_z3CvffOQiLrOOtMqraW87fs9_AoCdry8mfqcvxkanyM7kO5UTJKPd9yZNbRWG1RMY6bvrVJ006CI41sIzU0TBfJ8LP0dBPT2fCZBo4c_rKfCAhJjSO9LlXsIRiK3lhlZze79bXLqsxP8SVE8EPYwq4-NbUCUKvcBsXAKQoN5QVTDDppKK5vR1sM7fJAGpEmmeQPzuHANzKIEuNARx9kwB3tZA8iBHBJlilLLLQ7-yq82I7J3kzMwWSoTzS4RvKt2zcNzBmmKtjh5Q",
+        "width": 478
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111214252379321022067\">L&#39;Équipe Volante JC (EVJC)</a>"
+        ],
+        "photo_reference": "ATCDNfVSGS0yKrsUSt2EUkaYmBjtSxQQao5bEzvh9p8Bz5MWNrlnl_eJ_lhtBsUoQI_agtf6GA47gKMP5-8tCN7cLKZmb90HkhReEcSzp9HwGbVm4c9Dlme2NKUg8wh5P8FZHcIMVinfOKX4egDICL9QxhhPFv7E3yuVRdlpne5ZX_AuRtDXzxD9UIJGc-15bthspnrBDRoaEE6HFeK8ezo1jq3Qe75E6Hr6jw2oUD2fH7WDWMFFl8QOge43dvsCXbFYhQM-MHQ70hS8FlGPOLuHzWp89T0soWJZ52WNb4aEfBRkqg",
+        "width": 480
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114897849859877817288\">L&#39;Équipe Volante JC</a>"
+        ],
+        "photo_reference": "ATCDNfWYxPJXB1pZ_C2Cit7tAXH13YUTTLaHWSW-9y974XqwAawYqzHvJX6WCkrivwBCiFSE3rRKaHHcYyC3xw9rgDJTWWnltOQO4Lk7zgPFg5NlORE3kb9xaKhi7GKmP3-wlMweHfwJ8_apEVQe1YKYU62FBlXxKQal4Nroki5S1BzOvv2d8VAZ5uuLbVFeWZlaGyfn66YJWTg1SWyrvm8jVIj16-MT1WCEb-rqOxd1KSxAKdjmClHkPzP78GA9tUNEv8LI1ELfcgOazEFe4Ez-nfdpgwMy8hleeVgvvEIj4OhOKv9D6YwVzKGUTlJ-okkxjc9Puew3GjkLMaAXquEVsbi9Dcxh6mTGlQ08Kn8BXF7HTfT2Ku6VHWXYJ-5BhpV5FaXsfk3ujE-C-jSjeLpD-zo-1D29ec-hVvoLdKQeMAULB_so",
+        "width": 800
+      },
+      {
+        "height": 2266,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114897849859877817288\">L&#39;Équipe Volante JC</a>"
+        ],
+        "photo_reference": "ATCDNfUxTkbl3_8P17Z5-NKyoaZtw52av4tH-uD2oZIcspHI7ioxwKNr3EjBptxTRanYlCJo0AfH-sgU77CmB7d-dxzL9tLZCU3rK_oWg84aY9xnUMbxJGCKSbHSuZacjfaNidaFBKV54Hoa6PLCJnaufwlBgjNycOZI_n2yDQYiHt66E4RXYvflH95utm7T4yupbfgVp8aLUrheg0263UTItcO9BBroryIm5f8VwnzwHENVSMgCjU2gbdrzngrCyfRxayNmZGbDhgJG0xrXc7uu8Ini9_XIgFY4RUFR9O9o5ATKxkL98xu6DlvZAQ9gO3Ryuv5f1hv8CPl3AxBum-ERiO85W4CtRHaju0lrJsWDFn2ZnBNIStlgSDpGrrRzX7R3Byi02Mx9GJfE_smRtOxy1IFn9xejyoBzfaNIdUBUTR89dA",
+        "width": 3022
+      },
+      {
+        "height": 2892,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114897849859877817288\">L&#39;Équipe Volante JC</a>"
+        ],
+        "photo_reference": "ATCDNfWOTdf8XDfeu0YtHXeQoNANthBuAFCoAgfxZHvxnZQ9wxBiiXpifNorlGJnumEQE7s7POiqLjTYlU7yHSEjxfBaw1kRcvzW2OPSP_b0z2dHzXXBTAlywPFYL1amwvyTuD1khQpNPOmOJGV55X2Tx9Q382LE69RZ9M4La6E8E-hS7HSufMaAu5yjZ8_2Kw7HmHkXz6cz6ig6kKjy7ZwkiT-uTzjRGz72Q01mlfj-57POtrGs0jbK9owjGWR-vWWipcDEPMHZhTlzmQIXWpeHSZCi9wBzbTzoSQzIwoo-YwpgOaKmaKMZQG2k9znmvlbwBhTHC8RnEY5V19WlArcMcsFj62OEhVWsL1Vh80R7mMdbhGiOZ17hLg18tQ8jO_1r0ijexfyzeRCH0eBTIea9foj8xeI7U6n7Gw9Q5T58KYL0wMtb",
+        "width": 2169
+      },
+      {
+        "height": 2634,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114897849859877817288\">L&#39;Équipe Volante JC</a>"
+        ],
+        "photo_reference": "ATCDNfUbyArhnBMI0UJ4SZL1MSh2Qz20nHdsKKvAPj3SJl0LPSuYWdTINMd9gnAlyUoHHcT7kslYuWlGkqB7qXsFKsw7Y-CpQ7kqk448FHSc5FHwyF8pS8uGmgp4DszVbKtxTEIrFivJA79fBBiNu22YfnWfBu9qlX_m1cCwpgXGM5x8saDI9JajylkAa5YHL4o1YjytF8BuJst33W8K9H-SOLyjq-1yPIuZ7NI52xe__jhArVXUKm9pq-kKyoXKCtWXnMcDN84zOwF95WLQuPW63a6tAFo0OQ6I2100cS51XYXRFtRY9qwenZYjQY-FPmQDhtZxibRTxGp62MQE2_PqVli6LG6kChToBmv5nbZSpJg8OJIKErWNx7MRDfyN9UEgf81sdVc4QMeh5Ff1Jtb7QUQ3r0HMfGrPnRox3cj94TQfO6A",
+        "width": 1976
+      },
+      {
+        "height": 2392,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114897849859877817288\">L&#39;Équipe Volante JC</a>"
+        ],
+        "photo_reference": "ATCDNfVCuRz3ZPVx7gv-wN2lygr_9Yrar1hwKVP5tikNB61MFYMIFejhbUwjbAm7dUcD34NMkY8EnEbINki_Xe1rDIoNN-RqJP22wwsXbaUz1p8BmTbEYWFLkf2k6GdB2m3HRThpedHwlbsb0Wkt0LyAK_YRv3ylMqFCrPSzvEJOVeLRBp7_FxKfYvNaFrqkPYUzRBmwi4cWl66VDJJ9DA4KJKLHplqhjh-NWUwtVCqM-gUwm2qTvYW09hsQvV5y6Pn8tRtO3nBDxh-qGjI6-ZwUxi1lh-Pr9FT4VVLFHkNNgdV-Hy69LBMkdsTYFZpuaQQh2sHSDkVryoQZ8wusp5v5rnWC8NzyhYZnL7ZDoLlfM--8Qsr4DDUr5FWEMquEN9WBc60py1FS_imAPsAtxxLhYGgZhot8zsUiBRD6O7hEczc8nuXX",
+        "width": 1794
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114897849859877817288\">L&#39;Équipe Volante JC</a>"
+        ],
+        "photo_reference": "ATCDNfXXUifpCGDk9D-VL9RoUbpSDq7zu9c4qHowUgXL9IThK0EwObdv_1e3yNziPKCqJuQPQ1qR_84NKSH54NmK-eLW7q8tEA6-RJqswRZSJgr8smzvAvOwTF3uGgYrh7sv9h5P2zE93xS0sUBIh-5qrySB4PUq0uvNt6h9oOCxgG6kVj-Fo89O0g_YmzQG1752eZmuUhcbq8bISLn6uLede7e6S5W3U-Vbc6F3GiXXbIy7AjiY8ni7aj1fcj6Muke__oCR0B91tRy5yg_QsWVmsl73qz6bptgu6lZsBjCMVt8Eidc1PKgFf86usFO6AGIPJEMVTFBRPpaUohBZ6dWB0Pz3GEJPQmGQsfxGqdY4nudS4ATl2Lw5KfUJ51bUvXWaeM-jcma9x-nw6ImJqYXzJFpoH8JPi6_FsjxTWmOj_uEaJQ",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJq6o6KzZIyUwR4Gmfd_wq68c",
+    "plus_code": {
+      "compound_code": "9XPQ+J5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XPQ+J5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJq6o6KzZIyUwR4Gmfd_wq68c",
+    "reviews": [
+      {
+        "author_name": "Murry Brown",
+        "author_url": "https://www.google.com/maps/contrib/111584078888367496141/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaSwYEiq5bHBZ_Kx83TY3l86EHqvppBCNtXHZ_6FcnngoI6g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "My company, Murry Transport, has been working with EVJC for just about 1-year now. I was very worried at first as we had never worked with an agency in the 25 years that we have been operating and all I can say is that from the very first time that I spoke to Jason I knew that this was the right choice for us. Great people, great service and always makes it easy. I highly recommend EVJC",
+        "time": 1709065148,
+        "translated": false
+      },
+      {
+        "author_name": "Brenda Bocchetti",
+        "author_url": "https://www.google.com/maps/contrib/101601320587669044060/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoBjpzjy0YcmTBmRi_mYcgehFQoXeFJOf_ha8NW_hQkDeE1Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "L'Équipe Volante JC is truly passionate about their work, delivering exceptional service with a genuine touch.",
+        "time": 1705003882,
+        "translated": false
+      },
+      {
+        "author_name": "Eric Salvas",
+        "author_url": "https://www.google.com/maps/contrib/110641365337739056635/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHDlU8O3D6czINFlaXoy2Rxls4H580vD_1CYl9oqScHGRrow=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great team... and did the job without damaging anything knowing that the moving out was everything but simple!\n\nEric",
+        "time": 1708360206,
+        "translated": false
+      },
+      {
+        "author_name": "jonathan tomchuk",
+        "author_url": "https://www.google.com/maps/contrib/109216068967410697240/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEBTXJLNT2fqltF3maBBnSR-1HBhBQNNjL_fj-4Z5lI5RlCRM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent company!",
+        "time": 1762360224,
+        "translated": false
+      },
+      {
+        "author_name": "Khennache Younes",
+        "author_url": "https://www.google.com/maps/contrib/117071290894658791459/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUYtRKO0QLYueo3cr2nTMJGuIh38yjM3d-M-QhWRFnQbA1mw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "The best moving company, Your efficiency and team spirit are remarkable. I am very proud to be part of the jc flying team 💪",
+        "time": 1758654305,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14405655096901724640",
+    "user_ratings_total": 23,
+    "utc_offset": -300,
+    "vicinity": "105 Av. Saint-Charles Local 201, Vaudreuil-Dorion",
+    "website": "https://www.lequipevolantejc.ca/"
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "query": "Station Des Sports - L'Île-Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339624.037103,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "336",
+        "short_name": "336",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Grand Boulevard",
+        "short_name": "Grand Boulevard",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4X2",
+        "short_name": "J7V 4X2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">336 Grand Boulevard</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4X2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0030"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:30 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 8:00 AM – 1:00 AM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "336 Grand Boulevard, L'Île-Perrot, QC J7V 4X2, Canada",
+    "formatted_phone_number": "(514) 453-0594",
+    "geometry": {
+      "location": {
+        "lat": 45.39192560000001,
+        "lng": -73.961463
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3932394802915,
+          "lng": -73.9600114197085
+        },
+        "southwest": {
+          "lat": 45.3905415197085,
+          "lng": -73.96270938029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 514-453-0594",
+    "name": "Station Des Sports - L'Île-Perrot",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:30 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 8:00 AM – 1:00 AM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103029530058597342885\">Stations des Sports - L&#39;Île-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUgTQfMGrOCVUkLk7MG-jL1lv2zsNeM3N1Oo91WJAlkE7O3olf3eCS0kYK8lGJVp9q1-TbFUlp1l8M0FbKvxYMsduW1zQ0WgOdHTXwp48zRgRj8_PFTx6lKbLO4jL_7SpeJrZTGS0YQCnRL3qHEYn5uUq6V5Ielere1rcxD9-jckoMD0sh5Ruhp1FbU41loWKlL5pvQDhVKHvkS_uBndSQXcqrbXvj0UX-MVVVhZxtdgltyu_PLlzAgwPzYu6nbQ9JwpWE7y0zXtDIds-oSRzPUaFXmr_jj3j99dw8h1Cml_w",
+        "width": 2048
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103029530058597342885\">Stations des Sports - L&#39;Île-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfVcNWAkjvkf6V_IGPa_aEP8wehLnkKK3lMZmHRYdLJxhJrry3eIPnCjOsa0P9Ti3PpobR0H6OQDqHCESPs2GxeUGCIdR_fN6RHYzFh2LNxp-LUdJDCtA2Iw2t7DlyH7sXlpt1CzQsD6xQTvkOhFd8TyHedfEaMV6ytQ-n_6XdoJCihX63vM7oXAxFjEjpQKYSfOh94A_fIoemqHtsXdjzvy-r-r3qnkcZiNtGRHvwGeio0SOew5zFjn9ju5Jklq3_RBVGxbKWilqwQCfE59huCpClyWRVtLuBK0cdszwyVb-w",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101925636920176308741\">Pat Huard</a>"
+        ],
+        "photo_reference": "ATCDNfUBRDeZOMeiIEB2z2cphqoYaS0BTbNvtbVN3zarHuaHV_eUwXerzVIC6GVmCEpz3bUoW_jdB59kF5UG8_Tz8tL9PK6caavPdEyPN6X_AAmLS6em4-Y8uhIJU7vaD_K4eUavFmvcdtTEnkY7UxNvRAiTbGeWgZvPPyzWt5oZsfN8B3cd8sgyDuiRLR5Zj3lsA5jt8ewj0-BNc_iS-SdwudwuHCjGKeloZWVC9sZUeoGMjJ3eifU0sheczTIsL-yb_DXhcej9fT4xncH0WGkxF5CTCKGX0vP1jKDSRtEaZNuoKPKpfCPAEAUNW09i4je5DWcQrd7TRZJOpvJLxxqnZZqlFh6YrWsGYZmsFfgRm1AiGn8-8nNo9Mx1g71qcBgA8YzVDuE7OP5hSun71-E1vMbV95lh5UwyTRH0L7F_uETJ_o7wQA8C09edOUSxOFX0",
+        "width": 3024
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118348679045268999839\">Nadia Mikhaylova</a>"
+        ],
+        "photo_reference": "ATCDNfVoqPnDuC7FfyGi7QEx1ZOVnOO5EzrSXzaT4AgHwlcdAZS-etuQTg2XK6c1awcb80UTH9ozitBw5mFPvM6VQkX_eypdB0_JIQ799nfcTwcoiCFtHMsL_f5PENRjmYXWHrCNJl5I-hJZbnpNEXV4NYHCkZmbQS19-Oc-X1jT_2n3MZP0WgQk1g9qRuqxY9zHHHGLgJT3fX0F3B6qDME0Og77uetime1XcY4JF1PV3m_7HTiflzLxyz63wArKejaplrM7FDcOqh4bgf0n_4RHJPX07F6zTqDu9mpaAWS37njQPjHHl6iSht_d8LjMKkbQZUKQqLl52dJ5qMGfuzDM6UyH081bnteYU803y8--EiEPctgFyeO_RNP61keqLgnnrqa9geswMpij3f5btdWv2M9oBTKpggWEG-vvKNdjGRsF7Q",
+        "width": 3468
+      },
+      {
+        "height": 3230,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101925636920176308741\">Pat Huard</a>"
+        ],
+        "photo_reference": "ATCDNfWPeeDxf7SHtMb-yklLKzEmhfijgWoXWRCKOkQZtvY8j0nrxFYxS7eNAeZqX7AkUTbxE_YXQt92yEKpNUqQsu4RalOaK-s8iIX89r2LJpcXrC5YugJX7FHSzm0AaJo-wvXwrL-UHg5btbk1dlsifr-kVAkeYoE2vMuSige4VVpDed-E50olvFkDN320lPzqXQNwRL2j7vspwVufWqb-dhOndXhbBBk68vno-uldWkdYB0C5pfrBv6bEyehgVF4cS1sYwTNgwZTjhNo33aEOQwgRNa6jRAHSMopMBidEIVUJ5AHCLe6yrIQxnPbpz-3B0N5goAZjZcQgGGpSlxUpzVqO5Wcc9MPnEVZ5iYLshqxsiWWQYpwN-ga41_A4tfy1aYXAjJWN1VzuidMG6hRjEar-9sv1Hr5XA4ZGwhRfWUfsUVmPREFO3yk80LWFIkZ8",
+        "width": 3510
+      },
+      {
+        "height": 2895,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101925636920176308741\">Pat Huard</a>"
+        ],
+        "photo_reference": "ATCDNfW44c_Sw5E4Wyw073UR-IDTT89Ti2AfRWw4I6kGA-fDpywjZZeDlh1XEcRIMHYq-OUC5pXzlIBYhGAbTFLVZU2A8BL0mLHrcSFqzbbFsrIjzXIhwFFK1jJQMFX0Kc0FUbdw-P-ps8JC5koATh6e_fSu886NG2iNHioatBBt-gYZpwuDmAnsrCzaBZGFjfLKDxyRmYq_Zz1lvJCcSMOg_ZOF77j95LXcE03NArALcLaXgHqs9TQ1E-qYnKYqRiwTNLwBAJY-HXWECEsTW6Cx3kn8o6lHxgxaNNZRb3CLgJruYrbuwYN_vkvW-_kEEwkfMyGAH8hJELl4g813Ivw6F3zd6XWjaRxs4oXvFeN4pqeNbPsKpGedyqfv52kDAeNa6siqzeuMIPpOO_ZrKic4QnU4k_d_ZNWZK39kR-wLmuhsUioiru6RHAD6JonHu-3S",
+        "width": 3510
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107703595149122728030\">Nancy Michaud</a>"
+        ],
+        "photo_reference": "ATCDNfX027aRfxghOOiZRCdPs5xCx1P33lJr0uiSixW-vU86JBkThGkSMrgZIBu51VuecVACwU1zrzHf3J-6KudwZMIjeQEO7MSJiDzaQynpvFpXLtBzTtf9P9KZO17Pwsq1nhOglofcj_j93bxLS_C3j2uaNw20yMSO51bn59mWLNg_1d8Kfw6VfmaNogDuvwPPa14sI3rmWOEk968KGEd8zAjnRS9V6GaZVZlFWlgOz8phjKo3tbyMq1smZkAtunLaHEVN9eKypCKgCf969Oo-icCTOyNhomgGbfMN_gULjRqNL7zVBAzy_bjpm4PV4uINiK8t6aGTuBqqWTtELphxpfaRICbWBEgnXFBzgNiJCEbZDOWuWWmghcpI_7NQlCNgVCnKDGGWlbVSVdSgx33Yr2zVTFslgkLwoFI1UBiwD9HZ5-M",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100763758052073939314\">alexandre maher</a>"
+        ],
+        "photo_reference": "ATCDNfWsCYZlA-5BgNQzz7GPaiAMWpjh3A9bLvpoNj2qOU-dpEGTviW20Cv1dmyzchnRDA8gE7h1u1Aa8aKh_N_Co-wAbuNr-rQ14E3X2uI8ZXSnTOc29lzbhKGn0KD4tMTWIPDupNJZtVxXySCNPSLjHaa2AHCVDEWe0zoOPQr2S_-5gBuCLPitCM2tbu6_RGWfoNhnj6BbBO53yuLCjdqt8JaJSjokEeaMqkgXPqFyaw2JmSm6hqO1eMwvXR6ANyQ8i9K66qjNcZpq2edsRKDEZuqkx5uVfVgxoHo2DTCJYkQAJ9TsoS8g7_Ag7kZcZCv1VBA7cQ3Eqd7hivGftB1SjD7dH4Zmi6JTw4LdkWiVeac5x7s-ZHTMi85o4ui9wMd92F-M2HVOhR3Ym_-KGroeAXKkIFyVUjNbSOR-XfFpxYCfijI",
+        "width": 3024
+      },
+      {
+        "height": 470,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103029530058597342885\">Stations des Sports - L&#39;Île-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWUmnLaAPLDizgDBM93NmCVUrX7NdXkJXRXOkOnutHM7cUCmdI_LZNDQJaPKGa5Lr7zNBv_X7Ld1z4hmT2w3o9wLeIolUSCjr_flhPdWAHlVYQuDzX2T-8ePZerQ-5nuaKbaK_3BBjFut2cr-bhIOwGRNpjDfcqqAEuDjZ7rj6V6OcDvrMDMEPWVW1WVRDIoM7RFqZndbeyrhUf_nsvK7HiAqC_Zn2sZkhLFlpJdZjdjf38zo65gcSbYRpbYbyl0mxyNI0vdci_XUtGC7UcftJvOZc3Itk8-DZUGV_vkm-C8A",
+        "width": 1000
+      },
+      {
+        "height": 927,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103029530058597342885\">Stations des Sports - L&#39;Île-Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfVf21dYjrhKZCwfQYHupABK7QNPNeUTc1_JRlCOwTKwFhw45A1uuoDETkWuvnOLLsFBlpLgipCk6MG2ktJZoKQ-qJIyu1JGSg6vaA8elRZTSwOLcJ5OUcQv9GRcjEbaAmhGTdQUF9w7J6cVc7_u3snaUaB3k2oJoABwU0itQV9y_oi829UXVduNDGZVfD7BZ8ryQLMUjgAwn-5spDRkI66odNbZlXlXPi15khcBdVW93oSyjD9sV7AnpXzfHkdmEgDW9FTXn2f8xQjaA3tEptjcqKJQL3z9ifKcY9lIfSnuDg",
+        "width": 946
+      }
+    ],
+    "place_id": "ChIJkRAy4Ww4yUwRribVrhi5OHM",
+    "plus_code": {
+      "compound_code": "92RQ+QC L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RQ+QC"
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJkRAy4Ww4yUwRribVrhi5OHM",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Jason Hosie",
+        "author_url": "https://www.google.com/maps/contrib/100705103212971791452/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJknSSYk2t6QXJfVWV99cupTEtJyrW-TPpSxAQXt8vZv-BVaA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Some of my colleagues from work and I came by for a Friday night dinner and a lovely young woman named Magalie took care of us and we had a great time. Food was fresh and made quickly and always brought to us with a smile",
+        "time": 1769873856,
+        "translated": false
+      },
+      {
+        "author_name": "Nadia Mikhaylova",
+        "author_url": "https://www.google.com/maps/contrib/118348679045268999839/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV53khVK0uru9Pb-re8zY4aDIlK5a6qzkH52Qskog7ggXPSP5kK=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Went with husband and our kid to watch England - Switzerland game on Saturday July 6.  Needless to say that I was hesitent to go after reading the reviews but I got pleasantly surprised when we got there. Service was excellent, we got our drinks maybe 3 minutes after ordering and our food arrived 15 minutes later.\nI got chicken wings, husband got breakfast and our picky eater got cheese pizza from the kids menu. Everything was good. For my wings they only had bbq sauce but I mixed it with frank red hot and it was good. It's a sports bar after all, not a fine dining restaurant so in my opinion the food was very good. Very happy to have this place to watch sports in ile perrot.",
+        "time": 1720285905,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Amazing breakfast! The potatoes are so crispy and French toast is yummy. Loved their crispy bacons and nice coffee! Would definitely come back and highly recommended for everyone!",
+        "time": 1571842136,
+        "translated": false
+      },
+      {
+        "author_name": "Antonina Belayeva",
+        "author_url": "https://www.google.com/maps/contrib/105017352883814761759/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhc2VRmCgp7c3a48ZdGQR37VUBoZA39qEoSKxbTMthEkuzYGk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "Food arrived 2 hours later. Even drinks come 30 minutes after ordering. Food has an absolutely unacceptable quality as meat is dry, bacon size of a finger, salad comes without dressing, rice tasteless, and we had to ask souses (ketchup, mayo, etc) and then for stencils.",
+        "time": 1718506948,
+        "translated": false
+      },
+      {
+        "author_name": "Kevin Pilon",
+        "author_url": "https://www.google.com/maps/contrib/105415338248519223482/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKz4Nvrb9DnVBK6JhKwVfe3jBTxrUP66IfXzSAU_IhpwN8ELw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "Temu version of la cage aux sports. Food came out at weird intervals ie: we asked for the mains to be served later, we werent done eating the wings and the mains started coming out, but the burgers came out when most of the group was done eating, one entry never came.. Burgers over cooked. Bills  all mixed up..",
+        "time": 1760840477,
+        "translated": false
+      }
+    ],
+    "serves_beer": true,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=8302589428721067694",
+    "user_ratings_total": 533,
+    "utc_offset": -300,
+    "vicinity": "336 Grand Boulevard, L'Île-Perrot",
+    "website": "http://stationdessports.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

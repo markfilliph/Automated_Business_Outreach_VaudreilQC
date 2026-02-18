@@ -1,0 +1,322 @@
+{
+  "query": "Centre de services scolaire des Trois Lacs, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339563.5204606,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "400",
+        "short_name": "400",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6B1",
+        "short_name": "J7V 6B1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">400 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6B1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 6B1, Canada",
+    "formatted_phone_number": "(514) 477-7000",
+    "geometry": {
+      "location": {
+        "lat": 45.3931793,
+        "lng": -74.0278086
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3944635302915,
+          "lng": -74.02659146970848
+        },
+        "southwest": {
+          "lat": 45.3917655697085,
+          "lng": -74.0292894302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "international_phone_number": "+1 514-477-7000",
+    "name": "Centre de services scolaire des Trois Lacs",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108654916448601443450\">Michaël Gauthier</a>"
+        ],
+        "photo_reference": "ATCDNfW6fufziMuz0bOXj0CELczN2C_MVnNNRY7YOGpcHmWFPCCacOAgEeJSgoeekBdNBS_w54Ql428VkxvX0bTFHVWBR8qUhG5wYjxrzl11SyPOW9Fk5iw339zsg8QzB2uF0AWGlg_rITNt8YDmAxnYb0ikItzQipodJXoM6q91CwpYNNf0RQfn-PlCjqG-rnzZ8UFKa7EG9RFA-JVmjt4IfpedZ1IjJzCs5Uvv_2gKbYsJemM6-Wzt3JqByseVprdOl6ynSMLlmq0qCVEYhvn1Kh-_y8P4OG9Nuof-8fdBLnIZZ3-_fGeeRqQhReNs0uD_-suVimM3dRCFyrDRV562xg8TNkDLF3Pr_6frqeITha1dG3fVmCI7Q1TqD_5UlzmGTOEPajwWvgAOr-SZ1PpSBQfoWhlfKZS0y-H0cBAeY-tDPA",
+        "width": 2204
+      }
+    ],
+    "place_id": "ChIJHwlY8to3yUwRuSm9Vs2c9-0",
+    "plus_code": {
+      "compound_code": "9XVC+7V Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XVC+7V"
+    },
+    "rating": 3.7,
+    "reference": "ChIJHwlY8to3yUwRuSm9Vs2c9-0",
+    "reviews": [
+      {
+        "author_name": "Anthony Mule",
+        "author_url": "https://www.google.com/maps/contrib/101601976156645070923/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvf7k6A7Bt4qjP_NJuTby0Bgs_oG7aqzO9iw-xHzKVgl37vg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Been trying to sign up to this school for over a year.I called I don’t know home many times.Phones probably been closed since 2020 no one answers.I sent emails to sign up, put me on a reserve list I don’t get it even if I’m past the due date.There’s always a cancellation.I’m a perfect candidate that will be specializing in this line of work with my general contractors license. Not some person that’s there to collect 700$ a week from the government and waste a spot.\n\nComplete BS",
+        "time": 1728057317,
+        "translated": false
+      },
+      {
+        "author_name": "nader Djalal",
+        "author_url": "https://www.google.com/maps/contrib/101904765161219191332/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-IqskJHoCuDLFYOjDGKDeKxgllX5KvSC_TsRNwVB5KzFxGx4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "The theater makes it a unique place where not only schools have access but also the whole community, it's like a community center.",
+        "time": 1681389964,
+        "translated": false
+      },
+      {
+        "author_name": "Eli Chemtob",
+        "author_url": "https://www.google.com/maps/contrib/112487703486921844183/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDzUj3A_GHc4Z1fB_jQe7HmovH0KKFWmpOoFXEbedQAHO5YM2x=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "9 years ago",
+        "text": "clean big place parking situation could be better",
+        "time": 1487194615,
+        "translated": false
+      },
+      {
+        "author_name": "Matthew Albert",
+        "author_url": "https://www.google.com/maps/contrib/100655512096532016686/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgeHyk7VTFWKjxf3hFpyVor6msxzFWG5o7qsmFZeA34PV4o5i-VQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "8 years ago",
+        "text": "Good school board in the area",
+        "time": 1499373502,
+        "translated": false
+      },
+      {
+        "author_name": "Dr. Muhammad Naeem",
+        "author_url": "https://www.google.com/maps/contrib/111933010543165182616/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzPgSBFkkWLEYUpF2ERU0N2PazxawXdIYInN7SQgLo5u1_RQg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Staff is really cooperative.",
+        "time": 1497459328,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "school"
+    ],
+    "url": "https://maps.google.com/?cid=17147346511973919161",
+    "user_ratings_total": 83,
+    "utc_offset": -300,
+    "vicinity": "400 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://www.csstl.gouv.qc.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

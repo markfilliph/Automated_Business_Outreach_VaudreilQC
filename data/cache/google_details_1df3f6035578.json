@@ -1,0 +1,93 @@
+{
+  "query": "Synergie, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339349.5799036,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Rue de la Synergie",
+        "short_name": "Rue de la Synergie",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V",
+        "short_name": "J7V",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Rue de la Synergie</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Rue de la Synergie, Vaudreuil-Dorion, QC J7V, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3806502,
+        "lng": -74.051991
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38339525637146,
+          "lng": -74.04808307764692
+        },
+        "southwest": {
+          "lat": 45.37794655568548,
+          "lng": -74.05573065233021
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rue de la Synergie",
+    "place_id": "ChIJXdLdRs1JyUwRla0-9nsYztk",
+    "reference": "ChIJXdLdRs1JyUwRla0-9nsYztk",
+    "types": [
+      "route"
+    ],
+    "url": "https://maps.google.com/?cid=15694508672124104085",
+    "utc_offset": -300,
+    "vicinity": "Vaudreuil-Dorion"
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "query": "Vaudreuil Volkswagen, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340394.459834,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "29",
+        "short_name": "29",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">29 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "29 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(450) 455-7941",
+    "geometry": {
+      "location": {
+        "lat": 45.4132139,
+        "lng": -74.0283063
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41467483029149,
+          "lng": -74.02712561970849
+        },
+        "southwest": {
+          "lat": 45.4119768697085,
+          "lng": -74.0298235802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-7941",
+    "name": "Vaudreuil Volkswagen",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1030,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699683859921981420\">Vaudreuil Volkswagen</a>"
+        ],
+        "photo_reference": "ATCDNfUGf_kAQG2tuGgkxO4S7wqsOhbi9kVO2Ee9M4NQtAJZOCWNVudokb5p9W6fycwt3hmYA3dBePZ8OmfNl8_p4G7mzLBaNYkQjQDK7xVzo26n-PvQsggYE5xcmrnOil1TZSVEeQOCLiyTdVVCoBcuK5k_keREAE1U_C5D-VsirnH2F3M34McPhMwXdRJvuhuLgEvtHm_H2DNWwV2qW8D6BZtrPhPkSq9G4MdxXg1HTnTXtNvWKeUkMeFKSjKvqNdDZQTRq_nPLympvATOkJhFAJCYdJS6lA8Fi-Ei-Uf9UshZ7Q",
+        "width": 2048
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699683859921981420\">Vaudreuil Volkswagen</a>"
+        ],
+        "photo_reference": "ATCDNfVqKBJp_wDMGHGTmdLS9qNNefEhuRh5VvRlOew5knzCRBBwxJNSdUjRkNbIqVXsJ8fV-NlqrSrUnnU2mullgFMKicQJMmUmOU8FCbrkNmeVIxsrHTgwJznxXb2w0qN4hO5qK9qd8aDDk_qw8KfNtePAbTbUxO6C-sJxAih2QdT1RfWw1opholsLuIgHaDo8PZpTODkXGRiHnh9CxlQwwSbsrqGFqTJ1z7CnlCUWfQiS7_77-VMyDge6FMfePi9ZcvtcX11Yv9PF9AZJkZ_FPG8wJj5cBjFQ3dT4uuNJawz-uQ",
+        "width": 3199
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699683859921981420\">Vaudreuil Volkswagen</a>"
+        ],
+        "photo_reference": "ATCDNfUICP29Ve1I5JyfshKMHNHBGCfmZuPNpDQHeLLd_gG6_SsZgSbXnjGwWn-kVyfdwMxNt1XMroHCT47jkrLjkv6Sd6a09HLYtBzsrCrhJqsqDcKbAl8ezIJ2PTgxea8Hb9EeY_wu-Ccsj48RGmxvRMNTrgv2EhA5w_1Ds2wvMc5vccJag5PF28s_HlLxRfgAC-GDG0eGp3S1NVMClUvAHsNyyI9Hong2eXTSfO4JEfboRFewT20NgTpvRNN-EnhCJMyvoD7kvEvJ3aCwXEZfK3RTlrx2QWuHi3uHto2y3e5JgQ",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117118919530118826435\">Steph Normétal</a>"
+        ],
+        "photo_reference": "ATCDNfXeQoyfO7nQLja420NT0Q0S-r4aiIIoP0yBBiiv-CZRGd8Dnv4xmRfbI0xtKp4rSAl4pymmBPhPkqXaZESLA03kcKK-iTWPKT66HKK3SAXVCSGgjMl0VP-FznnnW8Px29hQiJNcIgeG7jakSxXKi7QhVwDfG9iy-BorAaOo8aENNHXe-k8HankJgCN5HcF5DJHsazUFY-GFN02Ac4AKRwUvcVV4I4tLywlwVQ11RSCAFyj_ucZsDyxqEmeSnuVJdSIEKEadYbNRxoBdY5EsgiiX4vZLTcpDolAu1g1zOGCp71X0QvSjE_80a45pMJ8nv3I2Ml3AtxKJ_JkBjmKqPvSIlYzWGWQ9CN7VAT03s56twADWJlyfl6eRKs-2rH6-LheYG4Sc4QYPxbi-6kTNWmbV8he65DGl36snjjICHCq1R9Fa",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699683859921981420\">Vaudreuil Volkswagen</a>"
+        ],
+        "photo_reference": "ATCDNfW1afBh9MNI0EFzx-4QuA6tucMiMnI-_yE3_FSQOpLrmzWlA00PSaMvqAA0nM50mpRBnIYHcce4YYjQlcmgX3UgiThPxcRCaDIrJBYzNvSFp5nblP3gniUMSd9GP1XxWts4WRo163SJNjNK2eIg9UxvDNBDDOvZfm7Kkkkcc03mYdPfvPLdwj85WLzp_T4v83n-CYENdUT1bSMvfC3bqJOQjNSDF6n_bvTsMZjZBpOYbOjA85-6ythRCBGzAqBpkD3jY6LgOfpUbKmTRsxFLgB23WX91yrc4KzDsQC7hDHB3Q",
+        "width": 3200
+      },
+      {
+        "height": 3199,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699683859921981420\">Vaudreuil Volkswagen</a>"
+        ],
+        "photo_reference": "ATCDNfX1QOwfUv8POx832Zq_8aH2YB1XxCPthJShP8RjM1NdVbD8jwxWwpLhmjkT742EK3tmZV033kadonBhuMlrkqr8ZKJqTM2gUixwtMTS08BZWGZ9Jox1xR6wUqGjAM752TFEzCCIZv8oPehn00uuxZpWvu9_3zZ521USFq_SdeI54y5E7pZlM2mDv1NhBlHMtvKsIiWdVHZY1skaRlMP6LIBUlRWBhNBdmhkOOPIII-wybsOymObHZRiLVXsXMaCyNFl2B4kPnrfWE2Apie39ueS6fw26B0vidtPN3NTiupm3w",
+        "width": 4800
+      },
+      {
+        "height": 3194,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699683859921981420\">Vaudreuil Volkswagen</a>"
+        ],
+        "photo_reference": "ATCDNfXOLdNblGdNXkj3hVpUND7O43EZOTUyiT1Gn0g7kE2pOLDIM7V2Ki_JY8BYhbfldhzVZyAGhre9_-UrzPSXUyRG4b8dbstgXzmhntEXY_4gkKg8A8ZQlDN76csqWATl6Tbrg1yRuZDAxYyN3v5Gq0MLrLxFG5p_4q5su9ag1sIaLLBEA3I8Rf_iP7zEKyUO0XNS9sTjOfbtlvU-uwQCbbb7dGRR3WMeZHqJLXcnf9_t-AhSHLiE5gTZq2naydivhWK10CpJhfSthFSh1n6S8EcsgRRFyOixYCX10bTIx60GVQ",
+        "width": 4800
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699683859921981420\">Vaudreuil Volkswagen</a>"
+        ],
+        "photo_reference": "ATCDNfWrwJAsT7HA8nn_5ZotekS94PA0dToAHfz_gjtTKscB3GLOr2JnyK2O0fRttH0iGEifVLp74SlfvhUTTQ1atymzxLJdoAMsY0lczjrUrPUuCDq0tqNrkPi1r2RJFAbJEk0wW4J3WoSdAvtmBdmUHAWYSx10nEHyj7HG_I_D1HLG1NdTq1Nr47yFa0LcKaWeCPf8fzahkjZtKNGfatzZvkRAKPDV5VHLT8t-A2GUob9OY_op8Ws3jV23SeujMsNMMltlT36bHrqSrDHZiVG5TRrlvm85G5niMsU9anHayHKSCg",
+        "width": 4800
+      },
+      {
+        "height": 3199,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699683859921981420\">Vaudreuil Volkswagen</a>"
+        ],
+        "photo_reference": "ATCDNfWYqq0u2DzRiOSFpPxobgExZfN_xM5B5JNhrCaAe5m6lHy60hoHPSNIrY2oGDughRvs7HKcr8U7R2FeOw_6eBMA6A0FaD_bxOwrmVxKvbxHYGfFZp5EwL3ZUB3QU9pjwHh-5hHsaWCuFzhuiIG2Vvmb1H4Jgu7gC_SapO5FghnlfuiHvBvACUcWEpu9clAq8vTpcU6j3wqudaoYY6nUXsdwjlAZ3PPvpF2190KHbWcwmV-WeeYehj5hiBZ1bMutdpmLKtwekS86jaZ4zR6TbTm_VWuioFknUZnQcBo1jtzZBw",
+        "width": 4800
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117118919530118826435\">Steph Normétal</a>"
+        ],
+        "photo_reference": "ATCDNfXV6IqbWjMCb59NIFpGGpIfhbZcTn4234eXB52UM4-R_pPDPE92JsRk_k90QbIR-Ea0yCz6DRUwk1421nXmTAhoPRYA1GikHg88i76mG7bDxynBrUZ7jHuwuUEhm5fDqgJXuqFpyWe-qCWRgDLIvm4DuWo71GsVfxF7eFCjTakGXmnB6rPgM-Xy3iEJ2Zm9al3Aek_7ARSBm-hvc0dpmKov4ClJVaHAQc75UlM_F7mq6MRYjx6h3de3IZ9RZkUTBoKJV7m-CVswk7K5RZvKA19U4AClnp0djw9gKQZWc81-hpXwTZA5gjsuk9VBKpyt0jC4Jn4wxh5YC0oayEBn4D4EsSYhEcT0p5tlMBo6VuzFC4nG40G4k11o7SJPXuJaW7UwxAAMU5J0P2YtXVpPxWIaqQalqgCaVaZzvgz7hKet7jA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJUW46lkk2yUwRgvB-nv8Idhg",
+    "plus_code": {
+      "compound_code": "CX7C+7M Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7C+7M"
+    },
+    "rating": 4.6,
+    "reference": "ChIJUW46lkk2yUwRgvB-nv8Idhg",
+    "reviews": [
+      {
+        "author_name": "Attila Bodor",
+        "author_url": "https://www.google.com/maps/contrib/108790783204801343844/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyTiw-EHZ9R8D1TvaQlkkP1v4hRUKLCJ6dT6yXelKMyi8cCOs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "A few days ago I purchased a new VW Taos at Volkswagen Vaudreuil, I would like to share my experience and to express my sincere opinion.A great team which helped me to choose the best choice according to my budget and need.Thanks for Gabrielle , professional advice and guidance, thanks for Stephanie at the finance to help me to choose the best options for the finance and warranty.Thanks for Roxanne who helped me to get familiar with this new car which is technologically completely different from my old 2012 Jetta.I strongly recommend this dealership for their professional and honest approach of making business.",
+        "time": 1768055300,
+        "translated": false
+      },
+      {
+        "author_name": "Elizabeth Lefebvre",
+        "author_url": "https://www.google.com/maps/contrib/118055771234307446711/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMxr7-YQceluzg8xC0TDJMAaBJBMVwNXD34FzThO0r4UVJ6fMb=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "Edit again: I understand the VW online booking system is outside your control, and that it places you in an awkward position of having to cancel appointments that aren't actually available. This can't be fun for your team, but I thank you for honouring our scheduled appointment even though you had to squeeze to fit us in. Much appreciated.\n\nEdit: within 5 minutes of posting this below, we were called and offered an appointment in 2 days at a convenient time. I'm glad this happened but it shouldn't need a cranky public review to twist their arm into providing decent customer service. I hope the appointment on Wednesday goes well. Thank you so far.\n\nUsed their online app to book an oil and filter change for a vehicle I leased from them. 1 day later got a call saying they were cancelling it as they had no availability. They told me that their app booking system \"doesn't reflect their actual availabilities.\" Then they tell me i should just take my car to Laval (60 min from my house). I am waiting for a solution and hoping for a good one. At the moment I am very unsatisfied with their customer service.",
+        "time": 1764727992,
+        "translated": false
+      },
+      {
+        "author_name": "Nancy Potvin",
+        "author_url": "https://www.google.com/maps/contrib/104365189982916422776/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtnCVtdXLPTE78rq8za1qwuIPhhT7kt5ft3cn2tETaCdV1zMFogQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We purchased a used Golf for my son’s first véhicule and couldn’t be happier from the test drive all the way thru to the purchase and delivery. Kate Crosby our sales agent was excellent! She treated my son and I with respect through every step of the test drive explaining all the features of the véhicule, she ensured to thank us at the end before as we left from finalizing the sale. Then on the day of the delivery she went out of the way to come and see us and congratulate my son and wish him all the best on his upcoming driving test and on his new car! She offered excellent service and is a very caring sales agent! We couldn’t be more satisfied customers and plan to return when looking to purchase other véhicules. Thank you Kate and keep doing what your doing regarding customer relations!",
+        "time": 1763616368,
+        "translated": false
+      },
+      {
+        "author_name": "Steven Woo",
+        "author_url": "https://www.google.com/maps/contrib/117426068521148830387/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNNMYQSzVRqgZBbC3HoMWJymi5gRmzE7VX4DUz6Z7hky_4yA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "The service is way above par!  They are very professional and you really feel that you are the most important client they have ever had!  The entire team is amazing!  Five star recommendation.  SW",
+        "time": 1769108760,
+        "translated": false
+      },
+      {
+        "author_name": "Daniella Piciacchia",
+        "author_url": "https://www.google.com/maps/contrib/116750869251649160296/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8z1RdvytwY1q0YATQ0dxz_9bsqzNXSVu91nPKKaWZfuHt=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "⭐️⭐️⭐️⭐️⭐️ 10/10 Experience – The BEST Volkswagen Dealership in Montreal and surrounding area!\n\nI can’t emphasize enough how incredible my experience was at Volkswagen Vaudreuil. From start to finish, everything was seamless, professional, and above all, genuine! Finally a dealership who cares about their clients!\n\nA special thank you to Stéphane, the Service Manager, who is an absolute pleasure to deal with. He made everything easy, clear, and stress-free. It’s rare to come across someone so attentive, honest, and dedicated to customer satisfaction. He truly went above and beyond, and I didn’t even have to ask. Not to mention they offer the best prices, incomparable to other VW dealerships.\n\nThe entire team at this dealership is top-notch. I’ve visited and shopped around many different Volkswagen dealerships in Montreal and the surrounding area – and nothing compares. This place is in a league of its own. Whether you’re looking to purchase, lease, finance, or service your car, don’t waste your time going anywhere else. They treat you like family, they know what they’re doing, and they do it with professionalism and class.\nVOLKSWAGON VAUDREUIL ALL THE WAY! Bravo team, vraiment !!",
+        "time": 1759859342,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1762606198130929794",
+    "user_ratings_total": 1548,
+    "utc_offset": -300,
+    "vicinity": "29 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "http://vaudreuilvolkswagen.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

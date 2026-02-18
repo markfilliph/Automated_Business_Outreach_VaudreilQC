@@ -1,0 +1,389 @@
+{
+  "query": "Tables de billard usagées, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339224.7255368,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "300",
+        "short_name": "300",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L9",
+        "short_name": "J7V 2L9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">300 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "300 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2L9, Canada",
+    "formatted_phone_number": "(450) 218-9399",
+    "geometry": {
+      "location": {
+        "lat": 45.39052299999999,
+        "lng": -74.0174655
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3919779302915,
+          "lng": -74.01597081970849
+        },
+        "southwest": {
+          "lat": 45.3892799697085,
+          "lng": -74.0186687802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-218-9399",
+    "name": "Tables de billard usagées",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfXWc44odZz9iyOkKw0NYPPtO6ma5PAoqYkGeZ7VLRf-x0g7JDEVMjg-s97f_NAGacns9KVV3Q84_87Dh7QO9SNnwNWawNwvZt9ASbf7KiLcH6FTdNnUxdScXCkuPMqpxdARLMMtNspsK5B7CHVxrHpj_f1hUQw3U2DX6Wi8-5LFKTLGzANqnHDkzeCZ6U-alaIqKpBdL4pNXycm_2V5IdgudRnrEELOyNojhmGCW5F_6M_xV2QVSxTdsibmxx-lOzc_p9zWJ3xCuJ-j8zpWBXcG4aXbMWkljxBqNZKTfxNgWw",
+        "width": 800
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfVag8WxozHH9h2Gb91cM4q76m3mdi786Z2F5i3xggnRhGREUlgpGL2cTGULzA4dzK9bGGxNL0-UMoTRy9HLNI6UtHCYpBB65JQ2Fc1r4bUodRcLxNZyciz0KkTYkkkGmmLPoqGcfZJ00620uTW7xqPg_wp4t1dym1HS_C2NCtPpBWtat9hP3EXPkhybaEBC1vs3sv-rwW0B_LtoJEa_6lsX0bWhjt5g6Qnvk5VtgyKxInPXwq8cv2yrpAigF0aQTx_-BD_Y4TJ2X2-p99PlYlWqTD99gK291HOu8at54QeePg",
+        "width": 2016
+      },
+      {
+        "height": 525,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfUwRHyMKjkESGptEyCLvK56JVNyZSM4dkfkbx-YRxMOaOI-NCjdM166mq7--cB59vbSKddM8SDf1Uz4zg3l2vgdCXEABPbBRt8k-J8Y3k25jNKNECaAgNRyvcIXU4KypajixxLbXwNqrN1XCfnrHoHZfftJgGVhlWcAq-UMt3NsDv9to5215LHr8RfTIOwSOhyflBSnSjbVZv4mZh-6EBdYxjy8lXvEPdISDSHS-2q-mebY8Qq8-qTIp2Zl0UzBE9RnM0XCcCNRHkJeCW5D74mcM3uvl6DvDmbt6Kr1ECCaxw",
+        "width": 700
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfXedm_R4VLoxTAJ0RSYb9_LQeFTqBv1FJa350wG8XjKXK4RJ9mcOeJrsbBlQE5j6ht9FvANpCKS-b_nR_CRTFxIkGrzEz6WlCnqdH7lLvQGWFPH9iJ4P9rlXxnn_fyJUUI6fzZjOWW1FiU1bGGD3q7-1Erd3A2QYLlzGYtT9KFxvAacujgVDR48ceK_lmeysKYhtSWwMHXdsd8NnT5o_QOgp8GVlnnj2wGa7KOuVCyt4vYCj2DG6Jt5FHtHy0xtNw9Ul3n2SZ62kljj8mEEc60FRuKt9dmn5shToocqDJNKfg",
+        "width": 2016
+      },
+      {
+        "height": 525,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfU3QJ6tCWqcfMAt92VB5hfKTp7tyk8G_CPuwZCmhjlETEDrD9fAipqg5KhXSKWFB8vm9-ALQQz2sLBLmT_PWEJBsKLapEOrgnu97T69ijfAZqOD7-Hn4HzlXdpPgmWs94NGKQHkkl_8nGXAfWkBcLFwsAsFihMlecpQ6tmQuKoiJ9dTiwwh7OsoG7GCsHQUqjYjSuKN9k6OEcqASVZ70QX5p-8bv1M04mRw30x_a-YA9E_2Hzs5RkzLBcTVmRCJnGneXzNBt7mYrrI9GHXxeew48Eci1gKCOMu0PyG0WVOueQ",
+        "width": 700
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfWbY4YPuA4lkzqIUmiOxJJyCmeS18fYqqv8opu-PKHmSbgvYuaWcyftMfBFV0p7dEHCSpt6mhfp9-AuzsR6El7fzXvms4dZtPbic_Kjuz3_YXH9btH6u15L2hjecoADy7paDUHJ114XKfHVbEQuUTjrXfHuXNt1A9FkITxetk0qtkUOo4WtzT9YKWTpGpXr_PaLmW8o0r52AvZVJ0I44RZMrY76R9O3_J5vukzSFcr81fMdGzvAhCeR6FjrFiOQwaYEwcdz0udo1m3SelckHX_YNzRzHcGYK6Qb7EfX5teDGA",
+        "width": 2016
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfVG4Oo_B3fpbWXOSLYPJQp3G03C6AruTlfn9DYIrWmVTBcgH-tM-HsTdHa2yt8FC6qaJN4-vcjsXKwDY8QfjF0rGO6m7ShN6SFXVbn9w9IiEWaPLhMnLo_MrdGon8O8Q2LeuLuD1YIQ4e8iZveat2p9uarWYrNDssU068grymujeWYNzn6hr2ZjYEK-9N9tcQf_tG_GEVclNY2ReKcoEFf8wn-3R-XNyIhc5No1LOeXQ_FkDVx_qwmeld5mhLLjX4ceCPDMu6dcx9AZ-SxhfmSUcMhv8nNtVi7LnqyO45XIbQ",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfXFzsl_aTtXqQGEjWOs1-4ihT3eY-S5EyUsNH2te0Rh6AZUwV41MHJ83eq0J_zldNaGNkCw1J4gbGEW_FokshW8i6cRcvGRg8R7KnoemrCe3JsCh09k04p0NZYCFc2aR9PqrycSaJTrR5XDd3DbxpdtXGK952jWiVbbby0EOhUTi94-h_RTiCS_1HaNZluuERWstEMuNVOmAqhpPtXjFgsy4CW0bTN0M-Vz3ipV4v3NQCVTc7g8VePjeAWdfikO-ClhtPztXRVSMLB4kumjJ-f6gxaoOY_h-cx9x8sPRjU9fQ",
+        "width": 640
+      },
+      {
+        "height": 525,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfVQVgy5JojBrfglen2o0NKK-48lk6IzL6O2I3xVOEWC1hCwS2GCmbf3lzu4dXVtVLeCUbgtpo3NvDDxdDnEfwWc9tY_JM_j4QqCCEK4dXccgcXCxhzCTy8UXz_hiCl5H3k_zgxvdlKvf4BfwkYH4A_gGdnI-7ZLaUoNGxUlu1YddHRtb2hEVADjWxXdFwclDBvudsPb8ziIfQHR53aUpTk8poBqR--Y-NbEjqXlAAq1m31pHsMhKLtCjXpgUI1-geXOoeTlSPI8qJq4nXJGBSzpOcoYfYPKxCaBY6ysWWQH3g",
+        "width": 700
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110666391785115446705\">Tables de billard usagées</a>"
+        ],
+        "photo_reference": "ATCDNfWQkL_jFDi0pZ8ECKWsUPWasJQ2cII9Yxs3KkeibbyGrWuyHgZCgsccrCBiP_r1Y2Br0SQ7xYkmSvENH_tl-UzK7Xp-5_CySj4zt_YJ70UKgE9mETpBZ6K1KI6B5LMFroglqOUb9tOdl0vGS4Sc81nH06PCaX6SJtdLHtR4lSGgwU5S3Ctdup1PY9aS57P-jlTc1XdB-39qcnj1Kp1LT_ig1b5cGfCO6AJhyKwpVIl8rbPGTqyE1c5fAIthj6tOuLNIOVgUzgHyKv7DehI7Z9Tf7W3L54rompfjJHRJ-9ZIcg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ___vKN43yUwRracPU1f2P4E",
+    "plus_code": {
+      "compound_code": "9XRM+62 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XRM+62"
+    },
+    "rating": 5,
+    "reference": "ChIJ___vKN43yUwRracPU1f2P4E",
+    "reviews": [
+      {
+        "author_name": "pierre hamelin",
+        "author_url": "https://www.google.com/maps/contrib/110262175447984918030/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXK3mMGVByrzG18UnQquTyKwJC-9MscOKlTJqv4pJ7VSui7Z3H-=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Great, a very large inventory\nFriendly team",
+        "time": 1691946351,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=9313433409341597613",
+    "user_ratings_total": 1,
+    "utc_offset": -300,
+    "vicinity": "300 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "http://www.tablesdebillardusagees.ca/politique-de-confidentialite"
+  }
+}

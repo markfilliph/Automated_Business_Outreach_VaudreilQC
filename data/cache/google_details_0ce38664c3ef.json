@@ -1,0 +1,458 @@
+{
+  "query": "Cora déjeuners, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338847.8261657,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "84",
+        "short_name": "84",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Harwood",
+        "short_name": "Bd Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1X8",
+        "short_name": "J7V 1X8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">84 Bd Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1X8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 3:00 PM",
+        "Tuesday: 6:00 AM – 3:00 PM",
+        "Wednesday: 6:00 AM – 3:00 PM",
+        "Thursday: 6:00 AM – 3:00 PM",
+        "Friday: 6:00 AM – 3:00 PM",
+        "Saturday: 6:00 AM – 3:00 PM",
+        "Sunday: 7:00 AM – 3:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "84 Bd Harwood, Vaudreuil-Dorion, QC J7V 1X8, Canada",
+    "formatted_phone_number": "(450) 424-2220",
+    "geometry": {
+      "location": {
+        "lat": 45.3844573,
+        "lng": -74.0085931
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3858684802915,
+          "lng": -74.0073436697085
+        },
+        "southwest": {
+          "lat": 45.3831705197085,
+          "lng": -74.01004163029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-424-2220",
+    "name": "Cora déjeuners",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 3:00 PM",
+        "Tuesday: 6:00 AM – 3:00 PM",
+        "Wednesday: 6:00 AM – 3:00 PM",
+        "Thursday: 6:00 AM – 3:00 PM",
+        "Friday: 6:00 AM – 3:00 PM",
+        "Saturday: 6:00 AM – 3:00 PM",
+        "Sunday: 7:00 AM – 3:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100112547977301377234\">Martin Legault</a>"
+        ],
+        "photo_reference": "ATCDNfU9rclVIskJzEMHfKzlRHBp1CW0iTh_ICHPJDX-Rnr3y04O1XM5AMeJc5KFYs2ujElpG_7xx0-9b0IEgT6nZ8_JRi0M2jXmMdXf-Qp2Fl-iHQ9OQqAbjL0ImCTABCjZVDXcLyZ4zT4fxdSoSSrmzENvMAfDjMly--aIKh5uAuGEIeWbk-L0kppqGpT0Swcqrcz5OA7SgbYCfGxyCRhfWfc6JwfYFQsWoOZfXd9iN93K3bpHz-ed9AnDdgnty_o3O9oqb71RR9ht2JEAbJw6i_wJcCfm-DaCBlR19zA3gQINcNIoo3l9NvNbloTLZWmN7d_H6k7nEjKa4OwRjvfeB14SELTSMy2a_qd3BIGolajPapRrqvEwM1CXpn_0QxpiKnC4gHtCJNSyxr67udb6ef440NNfaFzzw2tzgmxibMXQ-g",
+        "width": 4800
+      },
+      {
+        "height": 550,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102710228417239003806\">Cora déjeuners</a>"
+        ],
+        "photo_reference": "ATCDNfV7e98jJV2S-Di5xxBsStVPG4DbOY45RIHgzR3HEW71QLNyxX9k8oeiUypW1RzrO8DQKrmwP32usYQV8gXpVJldqfMTNpve_C_XnlRH1VAzrtqLZt0megzgwxR-ZLl7n20QU9JBl_hc8WC_AgjpZwEXliVJQ5n87qEa69D64gmjpfq1svVpqEkpwa9ZEUK_GT_yitCbfKV0G-wHsWqLbb0aVaLJhWEx0nH-8BOKeUmrruq7wpQhANOPxjH1rU_wlqYFFbD8yud_bOx_2f7PQ87O2ZKL6jNTDot6ABOH2et4Rw",
+        "width": 900
+      },
+      {
+        "height": 506,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102710228417239003806\">Cora déjeuners</a>"
+        ],
+        "photo_reference": "ATCDNfUtl8UsZBcjljVUqi5esJZ8jqF25GG8-S_H3g4Y-OjwrTp1XvTkzn0vgHdMFuxYWpyiW4QrL13hdRc6ffndq8P0Z-rz_mSTryeVFGo-OvrBmk2fOLDcFnWyi8UR_eSwpWcLzaDfo2m1kHz-6lzhmaOGFsLOzpWS-iP32AQ-uXvTeZJyquMV42Of7wwDjaaA54DBogaEBtIRlBO_YDIC5d5trFVNLmXrDCFvEscF1sVu9f9isBY1ofDPoQZnzn8McnWNkLe7rR744Zf9YncEUdhPngzaf2xVb88XssOOQ4Bj2g",
+        "width": 900
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112895228893545243207\">Bernard Brunet</a>"
+        ],
+        "photo_reference": "ATCDNfVkhR3_FtYqzOyc_8EuMzFln8Tb4EesiZ6u-U3zjjpAhnqjN7h5AiVapk4K7MI5hkc9FEylVc04ppqgoxmiy4uP5cb2O7gu9y3s7qZ9BqAB1ba0jUoxi-j_QFy3sJI-bGXKHXy_UobXFA9o-i7XY_0H-XlwM4Aygtebm-77xDVSWV1qZUAaXMujM8_lbAHqxX73EpekpsqH-XvMVI2iQdZ2LIsTasDdESiSd4pUhYq4HobIWclY7h02BCjyy2Ew_uFZk6yF_6ZE1oTxd5T6XwrY9JAL4cjqZtXH08I3sZGrJuXcuRrAgRYYa5qqC3WcT-SiZZPr4_H-J9qH-NvGtVmxCYT9n1sN2EsFbMMxInxBd0xYPIPDc2OkLGEB7hZPeaJCJDpgWQobPs4vt0QiEVLdD0NPgEegZMJIPA0Y4byUZn91kDfnrThtp5jpXyFm",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105099105730992479520\">Fox hmp</a>"
+        ],
+        "photo_reference": "ATCDNfVL71D1c1a-YTa2pxkNQmoOr9M8m9qQuK9lryxSgXLpC_PIKvhiK7V-V2x_eqhSeY6D4jEg-SqBTMZIO0PuiTvUII4XY-MJ4cHuXw2exOr3-IyUqEKw-vRNye9seGNpzhQxjsvW4hwxzUmWAjAJwpIxMfBtyBfzUmBioCjqub_r6AitmHfTnKaC7pda3OConGUlHaNmSdLEXOCb9Suix60wOiNs8bviUMj1yvMe1khwOfM_qu1UUlRwHPAmgXHRxIRMWGBG7iBAlwBtNPlzvYCBU7dk2qlnM0aX0mafdEWwP2CeW8G0cUF5aB8y2s0CGokUiprQp8tlhy0nZ1eEtlaKIplSaWZDbofhMLzb9AHJC9dtmw5Lh9h1NoGNsoUmdD98YesMor-FrkfyuViJVrpdZEGZRQIY_OPOnbPWL_UFaw",
+        "width": 3024
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104924491376522614662\">Cristian Salguero</a>"
+        ],
+        "photo_reference": "ATCDNfXzkJFywSHiul8eiN2dU5wLSftEJTD_tyaka-oWFdn1JVgHMPz57cM5hq2aYpAk6SKkhEbudFFucRUPf34CmRfN94kK5mSSABTUrMieBsw9VmQUvArnL7ogl1MOIzO3TXjZU_wMW-OOOljySQx8IVftDimT5K44pu5jkQ--rNm9g5a_ZkThd9f_2dyKVMxIxE8nh8ez3lFwUgkXi3OowG3JEknxOUXuS0XZ8ZXZF6t-wLi6ihoxhXcO_iZ4XxCkKHoRs5D-TtTbPGXXcDH9OiNHDosS92Rm361Cf8ZS3IDV3XvS83eN-Da3_a5iVvQR8P3ZA6XkeZb_jvgEKRHi3YmjxWbLNUbNAqhKYjzdl2-BHYCeZdMstLY6E-LQKiy1plLCY8Ra64Aqtv-AdJmYlV_Sjs0Y33u456RGxJhjYAKHSXmylTPzaf3lVVnsPYn_",
+        "width": 1920
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112956233201821464375\">Homayoun Mani</a>"
+        ],
+        "photo_reference": "ATCDNfURzE88QopUXgCWon-yoOPyGQgeS-kT8ii1BIhfNCVXCs1g40g7xJwGZ8SUgYozTfxmmRW_8FuqOq1HFsubHXKPByFs_A1LSQm7Njx5U_eCRlhJXPtP_WPd8LqZkTcr5Q9RyeWPyqvwmStX8ieeGfwpELt8Jv2zJggbBE7DAmxxgIlcNaQF21QhX3A2vJfZMVTiGgg2NWOqPsCtCqpTWvL2bcQXutn8V8n_VJRQVxxJBUbol90LGQ52BYlBsa8BdTOasdLHWsQZgvr7ZwKgvANBoaYNx4tr4luU9Jk1pAgp59zj1xcIiLtHHg7MWFViJWJ8-XkbRM9bLJIbXTgPZ5Ywy1SjttiaYVRJjDBYw5DtNODzkri46M6lidHR0dybe8RgPbJ1d60CzBHcRqSUM5f1V307d0SjWnBwMWS7GFM",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112956233201821464375\">Homayoun Mani</a>"
+        ],
+        "photo_reference": "ATCDNfXDofQZ7yLw-WJkzcOB2D-LHvamQ6rPCW6ovwOKLTa5Bn6H6-U1hUyz0bidFYO9qLPh38aLJW-YGkFZcryr-CgDNRRWgPboNou3lCchcrS86yxcDV07a9hsK_WkjI3NOxmnHd7DfHSV2FceIgKAFsTR_51-eimmj-sigGGU9I6VZo9Si_z1vKUlj63ndVSN8yc8OA4q7BVblL9We8FAi7K9OvVJqScPig-MPbSGKeMY6cI1euvtOkL67kT1NlMdi56QYHRS7RAwoIhpehkIzvWYWibjMq1mh97pIf2TZ1h49JQz4UQsx63JLVRg8OYMV8M9Vuli4X0tD7huAUM-f5QTZQrPQWsHgKxPqCGCXYdsVp3iFm5isJQsgPMrD-fRXCFGkNl8N4Gz7sL3wwwgYnt2C-106eNrN9SaXGRr1I9-Vzmk",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104084513083430912944\">Gauthier GARNIER</a>"
+        ],
+        "photo_reference": "ATCDNfXKA6MLsMI3W9TJjofLfkZ73xjn5lOUgXtvwsUGx-vxM6xz7JNkD4T_rNa1gMYrQr-8281c-lp-f6oFeWqE81PzafiP4Z12YMGVPC47oNhN1B8eEc1oPiIoocwoFB-tNpHotHl1THq7N9PKNSnDwoqW_JBP7JkXblOxZ0-OQMCGj6tPEe87g9rGTcB-dP_tsMVQ-1JT0q71Iy1rTdk9BQWymqd8Dn-gAWNwAnIPuHkSsaIHyfKiM54mBBtPiaZV0b-xQNXkG1erTTpdlpnx3HPAaXph17aPOn2ROg32vGc_CLyVrKVS0rjpxoNd0ae6wiYjLMUuvA3jy--AHd-BJlIaJIHpnN6ocLnPSn2BDYNiE3_1oZZijwNc6UumcdFwIwZwTkQdInGj2qP57Jui7DknzQBuXpsnUP1ZHVRK-lSEmzcM",
+        "width": 4032
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107287252329043013736\">Vincent Nicopolsky</a>"
+        ],
+        "photo_reference": "ATCDNfXfkXITByc2sdbU38urkn_LQO-BkpVMMy25tb7Tc5mmD_wJ2DBhBBBObAwo0YVVoEvnTw-vHz73PP0n8oETS1vSedW8Afuu-0CcUFAdzNmfVjEbnxpQPbAhRFLoBzE1Y1t5imjDZd9m6XSmXR-IePAcLLscCCMnLnKzp81byBFoJRtgZqSLThFvCifPpVRreUdfZ_6UG8G8X31VWtMoBl9DxWVuPUM2ROYpOAJ0HlqB3ynyjUragePxbZir13dRDd-SMzNxiE3sRoBH5Kt5IskZEKMG350hk7m82pZu9KfIgsVYHKoU50IFHlBk7lYtQmKMb_gtKO9Y1QhrKstaA1uiauCNd1Di_ciGK2dPhgvdSkFKTYeRssmH5_GkhocfY54p-bPsc0D_Cn6pOYviKrzwJqg0tTmu2kDP0InNt0zvd1Vc",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJVQtnIh1IyUwRBCMt2MmFPSc",
+    "plus_code": {
+      "compound_code": "9XMR+QH Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMR+QH"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJVQtnIh1IyUwRBCMt2MmFPSc",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Bernard Brunet",
+        "author_url": "https://www.google.com/maps/contrib/112895228893545243207/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmEDJiuFKovbg83xcAFd2K0quhnqNZIMwpT-RFqVCXhRM11ZzB=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "6 months ago",
+        "text": "Cora Breakfast\n\nUsually, we love Cora’s, but today just wasn’t their best showing. I’d rate it **3.2 overall**.\n\nThe **service** was friendly (**4/5**) but they were clearly **short-staffed** this morning. We waited **over an hour** for our plates, and what made it worse — we were two families of four, and our friends across the table got their food **15 minutes later** than us. Not great coordination.\n\nWhen my **Eggs Benedict with ham** finally arrived, the eggs were **overcooked and cold**, and the English muffins were so **burnt and squashed** they looked more like flat pancakes. Definitely not up to their usual standards.\n\nAtmosphere was decent (**3.5**) and food quality was a letdown (**2.8** today). Hoping it was just a rough day — I know they can do much better.",
+        "time": 1754238816,
+        "translated": false
+      },
+      {
+        "author_name": "Acheron Hawke",
+        "author_url": "https://www.google.com/maps/contrib/109959266590159314532/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUam_mPfki2u9ClCEeuiSrjW4f2irHZ7AbQecxRZRZiOa6GI_LXdQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "Cute little spot , the staff was friendly and welcoming , the food was good and the overall environment was nice .\n\nWe spotted the outdoor terrace and plan to return in the summer or late spring to experience the waterside atmosphere.\n\nLarge sections seen available for larger parties and are nicely divided to give all guest space and comfort .\n\nOur waitress seemed a little overwhelmed but she did an amazing job with knowledgeable service and attention to detail all while maintaining a friendly and welcoming approach.\n\nThe food was great and we plan to go back and explore more of the menu !",
+        "time": 1765889146,
+        "translated": false
+      },
+      {
+        "author_name": "K B",
+        "author_url": "https://www.google.com/maps/contrib/111986578658821645235/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6-M9OLgEV9hYYaIO75fqEL1hX2-6wE_GxleG5GCSiFoiOsBHgwQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "This spot was a really cute location next to the river with great views. The food was very good and vegetarian friendly. It’s more of a breakfast/brunch place, but they do it really well.\nThe waitress was so sweet and rooks lots of photos for our family and had fast service! Thanks for the great time :)",
+        "time": 1690737408,
+        "translated": false
+      },
+      {
+        "author_name": "Homayoun Mani",
+        "author_url": "https://www.google.com/maps/contrib/112956233201821464375/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX070splXVC4lJYKGWFtWQSGG_U3ehSqb2AvX4MwqmUYf-26Hs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "The foods are good but not perfect, prices were a little bit expensive when you compare with other restaurants, Services were perfect and the location especially the balcony is perfect.",
+        "time": 1723995322,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Love their panini crepes with ham and eggs; it is my favorite item on the menu at Chez Cora! The crepe so nice and chewy! Nice daily breakfast special menu, reasonable price. We enjoy sunny summer outdoor dining experience with observing the bunnies and gophers on their lawns near the beautiful lake!",
+        "time": 1656808158,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=2827563243020296964",
+    "user_ratings_total": 823,
+    "utc_offset": -300,
+    "vicinity": "84 Bd Harwood, Vaudreuil-Dorion",
+    "website": "https://www.chezcora.com/fr/restaurants/quebec/Cora-Vaudreuil-Dorion?utm_source=G&utm_medium=local&utm_campaign=google-local",
+    "wheelchair_accessible_entrance": true
+  }
+}

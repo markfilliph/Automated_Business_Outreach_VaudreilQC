@@ -1,0 +1,395 @@
+{
+  "query": "Service de pneus Ray inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338007.1368384,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1005",
+        "short_name": "1005",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Valois",
+        "short_name": "Rue Valois",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1005 Rue Valois</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 4:30 PM",
+        "Tuesday: 7:30 AM – 4:30 PM",
+        "Wednesday: 7:30 AM – 4:30 PM",
+        "Thursday: 7:30 AM – 4:30 PM",
+        "Friday: 7:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "1005 Rue Valois, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 455-5599",
+    "geometry": {
+      "location": {
+        "lat": 45.3727873,
+        "lng": -74.0418924
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3740632802915,
+          "lng": -74.0404769697085
+        },
+        "southwest": {
+          "lat": 45.3713653197085,
+          "lng": -74.0431749302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-5599",
+    "name": "Service de pneus Ray inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 4:30 PM",
+        "Tuesday: 7:30 AM – 4:30 PM",
+        "Wednesday: 7:30 AM – 4:30 PM",
+        "Thursday: 7:30 AM – 4:30 PM",
+        "Friday: 7:30 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 686,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104164755835148991488\">Service de pneus Ray inc</a>"
+        ],
+        "photo_reference": "ATCDNfUkY3P-wPvhHrWkbhmeOz7PJvTfS5Yun9NidTC-B80ZxAy2Ig71poMsIswf2z52aq2B3q9y5TvHzGmv2TshpeAtyp-chJazxYs9jBrsdlX_4BpEyXW5f9aMWS1mZohcoQTYA-eC2jWtZLaYMxGBLHl3jY9wcy8g1EGWjn6Za1DW70CHnJ0GTfNdvHj7DDnE2RX4S5gaSQw4Srd9r-aoz5ifVZE_MKis5c1422c1LYN9EWXNYhOr4RkT1VjPSQZ7L4h3gBBRMQ4zHG66Oai2cdbAm55ytgeUFRYBsr_Ht4zgtg",
+        "width": 1564
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104164755835148991488\">Service de pneus Ray inc</a>"
+        ],
+        "photo_reference": "ATCDNfX-ZPK55NkA26ne3spZ2otHRgeISRnLE38APkn8sL_ui4rvK6Uu_wc1pbNiH5dEucIxBh0QDT0_bKKDI1hK2I8yzU1r8W6_ocqcKFgtzIpTN9loVZuRZ5RBJJHoZj7Og_5PxvQaq0smPAZph-uxFwiFoyt3VPg1JRyJGkPfiFNoyJzxXPCDXcqBJmpxnSm_xifxJjWMYoHcfeg4hUm0VCiArdp3uBbIym6SYYBQH-AcYgkO5p45W2WyimhZdfYQRxPst2ipdvmhPF2NKND0qm65yj7UaSY3Kxuz_WTlWcJSqw",
+        "width": 1000
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfVG4m16fjYJL9sqo8v5nWyCLd8lkNhMhMq4Gmz3cYNptix2FCsCEvxnsWyt4AN9zn9mSWru6Gy7OGFA-P0Udw2VZ10E9lBfy9B_eZ3_j2TcCCoIHvdTagGmW9tfFKy53KtXBtBD3Y5khnE48vLl9uHKfDu6yvZZSqjF6IBInRxrQR1di96Fn3I3kdyVdMoVS5Hj4mRW2X7T3_YWMXsiN9Xj8SI2_-TJoGKTUG03yTNU3kes5C-Qn0tdIulCJf1I26yx4r6AKJevCvOeUlsoDSB_-0Rp2AZxLRgetxXX95M6IKMLBTVJ5lG6e-XWtZmgK83-ZxsSXT0Lpvo7IB8QJiG5ne__6GUZMRtn3MJd7DdmqcBZmSRQSacRtmGp4XSX8IVMC7EHvSJV0GGg3WIWv_MS0pmIo71SLHXGW9W45ng4WJTHFhZtjKWOBSQJxSJF",
+        "width": 1440
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfUukPGMH7_LhwDNaigpxq9JEDl4p_-CRCQNUTxmgoXwJvP6C6LuIxZC_vMG_SPxFBBN24RDcroI8mFyrX5sJQGrtWbYxsBvk8nHiORruDTLBdTNd03w05y3evmVwmq7hAuP9-uP6kLRBpEzVKHCDCSWOh_5zizYDMJm6bSVhqXBDz6NPMZwv0ImBQU16wo9d7ncj1yxsxJQjXMxTddJ09oouywkaJNUhmwvMZenMpMEkVoEUvjqKUAS1YfznWDjAzIZkbCfCFRStakEkZfQNueQEz8N8KHto07nwenh1_6ZejT43hpKE-LN6zVP3MYwAhJPwPhGk3WmWRK6OxWI_FpEYLezwgLiVqc1sqEadawU59AGfmxqM42oe-W-PjX1qL4wUkSUwnSVAh-WKoAEvixLDp_kQSX5EzlA79ZBjPO0Nksv1NBQdaJ9pJsBo97p",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfUXfsH_dASrD2uYPosyNX_jzXLr-DTBbxndhTOin4JXUlGyo4srw_GC8MJdXAZRoe6kX4_dPD3iiXqidSjmEylR_t1Pw2dz9E2Ywfo1d2reaG9NEVenC_3-jhWYXYWb04wuNttYKfq-7CpproGSPRCwhTGNhhl3nlbbCUYoeLmwlmUGv2ec6E55nF6Nzu_UKomoyXI4wdol9Two5hyWddv4Uxl-1yfqdsTGspC1vdYm7239eGFPFqWsmCktwnaOawOpQEuDmd_4y6N5s6swRnqZkZDSM33MUN4L-tNX0HNh5dTnezSMhBFSR0VTcY1oxOE3efp8jaJcKOdFKvkFPTROEvo0-bd4UTA8vAKLCujVzOoX0CXibM4fIKJ8MlMm6HlY_k80Hj2q_ThPLn_WbchPx96AYJLEykLLWJC3AFy1HrNDDmo0z7xSngcv6Q",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfWtdXiqHby8SnDkKiEDT6HDBjzIp3jYLGpAy9DzNPwNd32vps-NCH5mXhCFBRLQjCrtjAQmUAE2O7vrDb34WpQa72-ltTBLMyMYda7s5d42qNyCDWG3oDQmC6E85jerqemHLvMK40cX0pcXSZJG4oP9YG93mqtMNofb3Y9Lipe2zC0dGaefalPXUMvs09BzaZmSVB5cD-UKTlnH3gdMhELHTuaOzQeR1zqarCFtvCgnrw4ZKhP04hxiEo2neJvmqSVmpiMcKLknyNw1yX_eRPGMrvBlJ_gnom8NYSuWr7myo0xIwv-H9NvEegMNjg8Ne4luSkUZ24DAubg3sgMLGMXM0oYHBxfkewxETROHSCwjfnBsehUnycJQk2RJAVEUvxxBS9QhDAfDgjg4TSC7ESiov2q7CXyQdVGXOdlZwgRdgxvnnwRXN3GlhN_4ef-o",
+        "width": 3060
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfW65-TOKDzQTGRzHAFH_lQRQ1QSYuXg9qXsTTk14t7lq4XtlJR3kwdOUpunO6m_NKnz1cNFdWrmU2y3f2xeDnutEfyXUn_2WMvkHyzvuwEymePQ1xGQwzYIv1D1Adx2Z5luWwj3CuuFzFF56qig2w06q80W6onhgZceIOL6P59unshz2BbUAeFtJ3Rmf0OOtBgWS0BoTevGlfGbImtNPHeiu0OjeCMynz_zEyNBvxz3-hbHODBTlgiCmWeug1VcecTDk0ySjADNNLTzYqBQdAldKk0AOScOLi9E_G-r0FOXdzrOiRUn9jzHoEVsWphRPXvCJ6PgusdbO5-J0rk8HmiWFVR8iGnzEwiNno8tqKrZD5bExof3WYy0-Eb4-1AB1Lc4GwR1UgLhAwk6WU_D0rX0Dx8bbxnHLnofGe5XA8HJ1tMPw5666H3T75Z05RpK",
+        "width": 3000
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfVWhpz3_oQXGogfki3MRTNKtUKJ-VRxp2TanUejvF0ACLU2QB9JP7hWORx8AdP00WEbvpKiSryJ2Yj-XYRnBHAzovVc2HG-aTsntCMCl-jIdus3Cxs5LsdL4Vsp6HcOCewv1n4NDDL6hhWBv9qP53h-D35IFbNT4hFsW9UNBES7uDiBNlGxyyM8DLMkruFcxt78sBPHa0noF-FcX7eHA3JqNnV14tLcg3lDIqBECSpj5rdIw6hpoQmAVXiPZczz25o31Wpq4BvQwZjlQINt6m1XIl9ANzzXJvMy_TpuHnqiiTYHcG1C2fgu9FWxXXwZw1-MzYY30sieMC8pZ-VwhVsSEV3I40wBpQaWrnuiRZD6G5hgzIHvzUCkHfXBFiKtulLub-8I7h9_NcFXeE7zcQaMlaoa1IthTuFPKq7ZdVjEtIMIDwnKwzkEF2XK8wsf",
+        "width": 1440
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfWdA6x-cKBry8sNNwevrdcGP-bjgW0gz7C_tdjqoqcLPBjmRhoExwLV9JIX3eBpwWn__9IOVw_6EJB2VIu97eugII1qrZALDH1fPpPoSpbyckI4H8nYQ7_f082VQuhQ_GlvkciLvasv0yR3XeavMvoLPaZhThiBvqDb0q-gj-6LNLY4_xigMsj-vfirhpv1lRmzoZYZIbHthux0wVH9uW6wMlhAsuyDIT3RnjCD3JzveMj16VBIpogG0Pg8hqwG3N_FAnMftuBp3Cb2U-xBhWd-Z_vH7uPDmkMKqRrpmr5KoMkHJ0XEbaTCCNMGNho4n5XrkG_OV80cbaTICJklrvxoC1ub_7GVLX5z93SLhfQaS9I8Q2YAE2yr4pe3l2cCLlLAZdpkP6sNaS9j5F6dzPwt6MpcmHgdSCWyMWmYXuSW1mC23_OYL-xIIAdHiA",
+        "width": 4000
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfWD0pb2euSm9tzDYW1jbqx9V1SDkPIDiLlCdhplokx5RQSJskINTKz1wXQhGQmAMkUFFI-Ck4lhY35vXXZG-NEZUCp0kdpa9EGv34lpKOWgaDAnspQwKgBa_Ezs8RKxcLcakkX5dwdkpG-939Ui-dbMZKYbn4zDfN_blBcNxpOz-eDcjDxEJOmnaZOK152XrxSOyLeOMuFheVlhyTFBBpDM9llbRsY-8pJ7j0GQeQEAUhAIDP2TIGO39uRGZ6gbybix2BTG4n03AFQrwv-m2B7BzcRifpO2BJUehjd0o9q3XtaVmUNFjJ0HwLj2Hfxn_uZKZ84EvLzvT8zoDYQO5SYkN4iRDgnBqhXJgZdPp-H0VUKO2kDzqPTIUWf_TB2KRMLUDAGHQU38YpquQxuS7GSpHaKxsl4WPhbJTgxMvnytEChdlh-BUPM8BjOpGg",
+        "width": 3060
+      }
+    ],
+    "place_id": "ChIJrQVrJEhIyUwRoHJXPPq95F8",
+    "plus_code": {
+      "compound_code": "9XF5+46 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XF5+46"
+    },
+    "rating": 4.8,
+    "reference": "ChIJrQVrJEhIyUwRoHJXPPq95F8",
+    "reviews": [
+      {
+        "author_name": "Charles Becker",
+        "author_url": "https://www.google.com/maps/contrib/107760281621908251312/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2oN1tSJlQTnAyPsc6-0QRITp-NPScfCaod-xfZxXQUtlT7SL1=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Needed a tire changed in Quebec. 🥺\nThey spoke English well.\nVery reasonably priced.\nQuick\nVery polite.\nSteve went above and beyond to get me rolling again!\nThank you!👍👍",
+        "time": 1638895621,
+        "translated": false
+      },
+      {
+        "author_name": "JJ Sangha",
+        "author_url": "https://www.google.com/maps/contrib/114465715920635305378/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV43TZBJdS7IqXSXx173Ssh0N-znbostjXm1W-1FiWK_NMxQASW=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Real good guys! Would love to continue business with them! Lot of experience and understanding 👍🏼 keep up the good work",
+        "time": 1660327649,
+        "translated": false
+      },
+      {
+        "author_name": "Leland Wideman",
+        "author_url": "https://www.google.com/maps/contrib/112577444273655860928/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9puAmd4fekyUL04HTLMaeJJRuVMa54EDl_Jbgete2IkEVaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Wonderful.Did a fantastic job",
+        "time": 1541528598,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Lussier",
+        "author_url": "https://www.google.com/maps/contrib/117733435204869521637/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPOjYq5yFe7gHVV-3xuo84xFY5ouslmcEM3yqc7Nm5i6VJ69ZKCg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Fast",
+        "time": 1760707579,
+        "translated": true
+      },
+      {
+        "author_name": "Said “Said O.” O.",
+        "author_url": "https://www.google.com/maps/contrib/104631474017099441590/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6HSFUjegkNgXNq93l2Vy5wsdTfDMPd4hZERVMWwZAO8BfFg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Thank you Sylvain and Steve for your professionalism and excellent service.",
+        "time": 1590628014,
+        "translated": true
+      }
+    ],
+    "types": [
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=6909856610745021088",
+    "user_ratings_total": 20,
+    "utc_offset": -300,
+    "vicinity": "1005 Rue Valois, Vaudreuil-Dorion",
+    "website": "https://www.pneuray.com/"
+  }
+}

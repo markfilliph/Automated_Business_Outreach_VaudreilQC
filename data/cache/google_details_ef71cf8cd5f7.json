@@ -1,0 +1,394 @@
+{
+  "query": "Royal LePage Village Ile Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339436.1622436,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "93",
+        "short_name": "93",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6L7",
+        "short_name": "J7V 6L7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">93 Bd Don-Quichotte</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6L7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "93 Bd Don-Quichotte, L'Île-Perrot, QC J7V 6L7, Canada",
+    "formatted_phone_number": "(514) 453-1414",
+    "geometry": {
+      "location": {
+        "lat": 45.38879,
+        "lng": -73.962307
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39011988029149,
+          "lng": -73.96102796970848
+        },
+        "southwest": {
+          "lat": 45.3874219197085,
+          "lng": -73.9637259302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-453-1414",
+    "name": "Royal LePage Village Ile Perrot",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUa1Rqnp15UUf7lSGsdSsT2RzaO2vW-Ri1r8DcaOILOmGzjHG33lRY56aRY1O2MjVZu2ZBPhT6jp5mwqdmmkCV_QkM29B-u3q2i8h6SPm0RmfOyg80FvuhfMQcX3sES5FSZrePMA9ZihUJEwtBQkLlfQ9bXaeGXk1ewbYPs_M_zL3NKUvuY9mIN_6909kBEz6Ka4on-6Gp77UU7N2xfVsRKziAiak8E8REMCgyl0Pk2GcEqFni03rZHUqNFeNZcnbYJpW0IoryEM4UxBPyzBPp886IXtchn3RWezDpywkvtbA",
+        "width": 3600
+      },
+      {
+        "height": 882,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfXn73hVL54BkZTaNdU6gtuc44cfbHzYjZrX2Y3T-u2hOf7bCB-m4_2McTfTQox6Mw3xT4tP7Y-8KpF4N8ihm4ywwzf0b36oeE_Ccv8TnGBuGGaoKxDw9Ddwf86Zzdch7SMTN41fTaKJqA68fGt5-ckHb-TIslzv3DZNSedj-PdrRaNUYzhs52BecaQ_Usw7z2JyuaVeL0e413xRfyhGh_n6iLytkkB0A7SSCpkjySAC2NiR7bztZKXwq_p0oiDuEjraN0yXmT-ck_54Klaj6gg5dBNNZPFcpXwJpUvjXTt7ig",
+        "width": 732
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfXyzZgG-cUS4MyOmqQE1rfRA3i0rJvc-L4zCfSdSnCobBvwD6CNxD39vM5lxtS-Lw9DU9OqsSoFYJf4RsbKHe2p9pgRQbXYRPnUGdWQUcJ9uMXHhcZjTFc1QFDEk2LobQ3INes53Any4OA8TwRxW9-1Tgu3i3RRss_YvG575OH60PxVRlXrDenRl5s_Yf9Tg1pcxrBVJPHEX21gw98Js2NA-I22yLxEMrlcoPpf6zg2D6OpfmQ_Frdyr-0kT6CYksKPPT0htaVS6Ocnmwa2FOENjRexfFd-iGIgcI88IF4fmA",
+        "width": 496
+      },
+      {
+        "height": 2536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfVUon_JKtpyGUYjbHUcwOk6Ilj_KIgmGLAoPYCSrOgLKti4vcO2IwkrirnVv7H24wcUyutsBi6OdWVV-Tl6tdYV0o2GP148vdR2K4wj8GAi1Gd8Ydc4ye8URDwRRHHTs-1bKlqB9lGylV4GQ07jM1h1y7_iCRQE-_wwuzrLnjwuzKub6lURIJPQACXtRqsuJVWjW-f5QXAIJG_cG77r3mkxS3_H42lNC6QWITnPx5zBWsTRWb_NpEDoFLX-bV6ZCBaFncEIpbkiBBsIs0FbUTHXnJUFjPpWe0iTxQ_m4_PBZg",
+        "width": 1760
+      },
+      {
+        "height": 2697,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUCSFoe9OfjG79sMzobtJwk8MHnbzdHl27xdtT10taEYg07r4Mvk8UnVnPXmH8EG1LNuyMqN9muTYN0LQwWyzhrtA8VkU_vXQXOFgr9DyfeKoSi3u1h5cNH90-BiuuhPbmbU8yIBznftlJFocdfU6WUuaoAXP6XEEPxvi4zESjGRjLkNvYeaNzchwFLbijUdh6H2HT2tIZLHDv46WlkjN_2VD_-C41C5BbCLSysRWh0mQMpkV0E32UJP2OqJKZeJNqfSoN_px_oggOtFz5yk_IFTBC5e-iu3OCPByyV0gszVQ",
+        "width": 2146
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfU6PTsxQ32jrwjnX7K4DG2Hjil9JesK3O5cR1HQwsC2PMcfoJIEWl0XZX6MfNb2KJlm_eKGcQrY0VZRrC6xPuzLNnEDUpW0Vai_5jXVO9OH6VcYibed_89fz-dn7U8LJZeOiDDEtLUrqbzpMa1qnfLHXEx2sAHvKo43f11XcnimxC7wk0Jsh93WjWZZeTc2V56v95CTNR9EwRJ5oh88V-xvPu573d53P4U6AIccLvCEpPSlC3FGtd2zpvPVDwcxiU2u3_FyCkQsEhVjSPfCS4ECPiBPEC7mNisLRDS1YOJ-wA",
+        "width": 4022
+      },
+      {
+        "height": 822,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUHnuRR2xr2rYJ55QjHqKdTXLe27kBx_FEWTO7zGWZDchgunWVlJeKBLBNQA5qm4RkTQ2DNxyp4XLw5VIptmcOvFMTMsRkpASCVAbz12v4sUxUay-AElwc2VQBfXGUxzKMz6OEjLUi4ANucua60YBYJ1Gq9E2u2EbQvofNMzjZ1sZoE0HZ9XJYCIFt2uV5MoGu0hG-yksmbN8jjvaXnekgaJskSgwRaocb-2kLOJu3IKOzhzgratMH15-OmRdiSye0ZC2Vjb69gOY8y9sP2Kv7ZyrfQ-cKNCItE88grc7Qg1Q",
+        "width": 1179
+      },
+      {
+        "height": 1088,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWMsdqK1u0PwKJpQm3cjm_SXAG8AQs6CFIFaRH_gGMGxoaVLHsGbbmZVDkZP09HKTMsgom_OyUkJXXuPz5ry9XeQRMqybg5Z3HQGrFCGC6fIGdOCuMF8skg0Lbq3ICRgFIS7Y7QiMmH8Iav-96_aaJJ37n1W-11z0uPFZM3hzYT4RxSIFs-TSGXGnFF3chZ8LTyemQf45qcRSpGA9AGVVyKvsoaH1IKDMtxkkdST20ajjZLfaTcO1M2XYSM4UwOTsoAq5e5x3-9CWVAc24BuULpwRp4Ko-3thkofZal0hVI3Q",
+        "width": 1452
+      },
+      {
+        "height": 1088,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfU4LuA3xKR7Tpus4-E4QzFOkOSxzkBTJTD9FbvlKt2VYFB6tXmzpGWsFjCp8C-Cz5nYu6QKmCyT0koq4-WFTuLRp8WT5WFRXl9GMS_jE-NMtWNEW_qoDB0o8G7n4dq0EcpQqLOZs-lw_O_MEbGi1fe6WDyLTIxhShK9jiCw_fRjn2TxVPJJqARX3Uo_NkLcSRZN3rEHyl7CQBRqrZf-tI_cxorb4mq1DFuGHcmOhTwOiAfiYXcwcKWXfvueuU2g8gUJNEiYznViG4uX1Sbh_BHU6eCNeHULQtvjvDCilRzYCA",
+        "width": 1452
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111812006811917597420\">Royal LePage Village Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUZA06b_EcuiX2ZFQ5DwI3XYAFPlima9OvDayjgKyQTO4nVWs8Q0q1j6q9SWT-LGmO-H2_AP6OmUUbSEo0zsw5U5NSW614XLZsdQSEHB8iGwQkaUSLQ852vG_tG9hsE6f7Dn2to0RydZz7dePTxvRm2KhJx-WbQQNypd3JNWqfaFqitltPGJL-Erth-rvAjCtM8TtAdKRpXh73beBY23JLDLGybJD3nyDtN2OsSP9yJIdwxlKknLm11plKDGfAa_jIsYC6MdBE6s7qn5fJVenyalqcAPVVHfyVYdW9I13tJzg",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJjaj-jnI4yUwR6_ryR-Oq8rY",
+    "plus_code": {
+      "compound_code": "92QQ+G3 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892QQ+G3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJjaj-jnI4yUwR6_ryR-Oq8rY",
+    "reviews": [
+      {
+        "author_name": "Cassandra Dare",
+        "author_url": "https://www.google.com/maps/contrib/102191674250271283751/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxQxYVoHpXEU2l7IB05w8tuYbe128_gonBuZmknHWRkIw_Ou4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Rookie broker here that joined this wonderful family of brokers. I took a chance and inquired about this agency that was in my neighbourhood and was undoubtedly the best decision I could have made. Not only does this agency offer the best resources possible and give you the many tools you need to work in this business but you feel at home and welcomed with open arms. Thank you Village!",
+        "time": 1753723289,
+        "translated": false
+      },
+      {
+        "author_name": "Brendan Parm",
+        "author_url": "https://www.google.com/maps/contrib/101562497718940846867/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwXDiUr5g1ycDBeE0b8oCu0KCJUuM6UCIBySpF0DcnhOfy5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "My wife and I had the pleasure of working with Tim Stachecki as our real estate agent. Tim worked hard to make the process as painless as possible. It’s important to remember that you likely will end up spending quite a few weekends with your realtor so it’s important that they’re likeable and you don’t mind hanging out with them. Tim was personable and allowed us to really relax when reviewing different homes. Tim was also professional and courteous and really helped us find a home we could not be happier with. I would definitely recommend his services and already have to some personal friends.",
+        "time": 1597247908,
+        "translated": false
+      },
+      {
+        "author_name": "Brittany Wroblewski",
+        "author_url": "https://www.google.com/maps/contrib/112017282320575629091/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXV8T7xBXnRvn7b75SDk_IjnU-HFJGKIjuahF1AF-CZ_chjHGbj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Buying our first home was an exciting and also stressful time with lots of questions and concerns but luckily we had the pleasure of working with Tim throughout our search and during each step leading up to getting our keys. Tim was kind, help and reassuring - always going the extra mile and giving us peace of mind. We can not thank Tim enough for all he has done and we would recommend Tim to anyone who is looking to buy or sell their home!",
+        "time": 1569364592,
+        "translated": false
+      },
+      {
+        "author_name": "Katie-Lyn Girard",
+        "author_url": "https://www.google.com/maps/contrib/100716243980619352285/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLP6afQcBtIvaLVlZxuqxJ4KGRdSyUBxollETSE4ULRNbnNNA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Buying a home for the first time can be overwhelming. That's why we were really grateful to have Tim working with us, being patient and listening to our needs. He is professional, available and dedicated to his clients. We particularly appreciated his small attentions to detail. Thanks again, Tim! Would definitely recommend 🙌",
+        "time": 1564455181,
+        "translated": false
+      },
+      {
+        "author_name": "Mary Falconer",
+        "author_url": "https://www.google.com/maps/contrib/108954290634673905352/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvyg6KX5ApxSRiWPcsoauR-evMKS-So2JzKnpQrdtosEq0ng=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Timothy Stachecki did an outstanding job for us.  He was professional and considerate to our needs selling our family home of 62 years.  Distance was an issue and email was  used to sign some documents.  He priced right, the house sold quickly, and we got more than the asking price.  The combination of this man's intelligence, integrity, professionalism and compassion make this agent a 5 star plus.  Thank you again Tim, for all your hard work.",
+        "time": 1572113779,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "real_estate_agency"
+    ],
+    "url": "https://maps.google.com/?cid=13182786952408267499",
+    "user_ratings_total": 20,
+    "utc_offset": -300,
+    "vicinity": "93 Bd Don-Quichotte, L'Île-Perrot",
+    "website": "http://www.royallepagevillage.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

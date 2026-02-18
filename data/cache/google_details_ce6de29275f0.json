@@ -1,0 +1,256 @@
+{
+  "query": "Kleton Manufacturing, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340663.2159524,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "22555",
+        "short_name": "22555",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Transcanadienne",
+        "short_name": "Route Transcanadienne",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Senneville",
+        "short_name": "Senneville",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montréal",
+        "short_name": "Montréal",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montréal",
+        "short_name": "Montréal",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "H9X 3L7",
+        "short_name": "H9X 3L7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">22555 Route Transcanadienne</span>, <span class=\"locality\">Senneville</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">H9X 3L7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "22555 Route Transcanadienne, Senneville, QC H9X 3L7, Canada",
+    "formatted_phone_number": "(866) 392-1912",
+    "geometry": {
+      "location": {
+        "lat": 45.4238511,
+        "lng": -73.9646511
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.42545953029149,
+          "lng": -73.96359046970849
+        },
+        "southwest": {
+          "lat": 45.42276156970849,
+          "lng": -73.9662884302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 866-392-1912",
+    "name": "Kleton Manufacturing",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 390,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105278945049244109404\">Sean Haggart</a>"
+        ],
+        "photo_reference": "ATCDNfU5YbvC2Cd4a3e3__aaMS6bYB0PvD-8vYgwkZ7_weInvkR9rtqVj268UaUxoTSmnZlTnUxv43GuIibMyFRHkAum6bIEXWwCmylnbDTFrbOn75xPdNH6MKXKdMWGz1Sny7F2oEU9PVXINDr9Cc2nyNJTGg8EHy4IoS2DW-YVhlIDTewfbM2v6bNxa3nI0OSIuGjzSzmRbMm8h3vM3-tlwuz_LwHhDTAPqnECvjvQBWiTPGhfSVSmVyrYDOkdJO6rAywL9wTcPxo3v7glZ1rKNLDfXugSf-Qpd5U1fARURuyd4FS0TVwWajy5XYZ_lYyGnKRK2bryRYu_S9f8Y1JDZNqWUFJIDL6JKQRQSPlF3kj4h1pLx63THpT6ZLbMNttoKO6djz1wEhRIl5Gr4YVtePuIMKcuVgZ2EFcBnoSPg2TTQezAKtH6_Z4nqNGK7w",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJp3w9kGA5yUwRSnWitHZfbA8",
+    "plus_code": {
+      "compound_code": "C2FP+G4 Senneville, QC, Canada",
+      "global_code": "87Q8C2FP+G4"
+    },
+    "reference": "ChIJp3w9kGA5yUwRSnWitHZfbA8",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1111368171494995274",
+    "utc_offset": -300,
+    "vicinity": "22555 Trans-Canada Hwy, Senneville",
+    "website": "https://www.kleton.com/"
+  }
+}

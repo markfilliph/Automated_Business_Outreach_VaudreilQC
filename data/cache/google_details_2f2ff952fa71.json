@@ -1,0 +1,370 @@
+{
+  "query": "Physio Alavie, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339268.2524629,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "169",
+        "short_name": "169",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2L2",
+        "short_name": "J7V 2L2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">169 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2L2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "169 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2L2, Canada",
+    "formatted_phone_number": "(514) 815-2300",
+    "geometry": {
+      "location": {
+        "lat": 45.3880062,
+        "lng": -74.0136237
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3893237302915,
+          "lng": -74.01233696970849
+        },
+        "southwest": {
+          "lat": 45.3866257697085,
+          "lng": -74.0150349302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-815-2300",
+    "name": "Physio Alavie",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107544268775505161613\">Jessica Alaei</a>"
+        ],
+        "photo_reference": "ATCDNfXD3qmk8-FVChw3KMaj96pgpGewiipQmm0thRb7LAIM8S_UfOkaYZjNvBzX5T7p-qfLIzkR34IlOAGiDZcAwNG1sx2wn5NhXPUzOJESgWrvfvRx-wnLwAdrJcI5snGCaRe5lOICbjLl15ItmkQzrsRJmO-A7eetLE4oxS6ZdxvSSVpQl_mlIycHqQLToGHPw36_h8UrCyBj5Fy6GoxCJU0CKkuBLXJr3Qxy0QypMJRB35-s9yMvmxv4wMPOmKtgqLHX72hnPyztl9MV9drGIwDvzFf0IMfWjnUgq5_nEa01qjX1nIfQ6acpdsUhdqOOw7nCRCxweUWL1p_dse5R6FuMmlrlSXLl1iEhcPK2oLAYAilAD1RwIqKhWrLQCa4d3kY3RDAQ7BaK_ceybCNtCGrvd38a4EqI481UBbve5uWIPKjolgN-i141pgnPnBVq",
+        "width": 2252
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107544268775505161613\">Jessica Alaei</a>"
+        ],
+        "photo_reference": "ATCDNfXIMK440FKsJOuIB-BjVBbVWSaOexJFUUOrY7OU4o6dqBTxA-Zz96p8USYkBvIpptgYkyXIk8AX9F7c5DiEQW7dMuxv5dI0Ret6N25iSGC8xsZmkqx2PghVo1cVvcPpnj2_ET-fKB5EfSaiNAhYZUQBJThRuUkcWooDfPrKCvZPnR8IUh3Lvdg6N2jUUzIFOfmQVhtVtrvxwFKMGa6CuXjP5WyARtJKwkU1qP8itRfUSORka6corrMvswJjP_TmTu3rKoTVNjCPwEJOAM9-PEcH75GaQhXK-JcUMjmqQwcV6fjdBPB1jsQ1r_ZBmTuaaYwQJ2p8DVPzycOnyx4lHx8Ifve5wBgTVrhvW_nDnUjeGrql1vMXjY3HjvQANggkwQl95OppCrc46x4gCcyAJOVFXX40uvPHWN4c6dHOf1xh9v2opPSL78K_kCHmNjSZ",
+        "width": 2252
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107544268775505161613\">Jessica Alaei</a>"
+        ],
+        "photo_reference": "ATCDNfXaBTgJBdTPckJ28dQxhoVe9SkGcZ1FcZl3EB2M8Xq3jL4HnQVxEi-ZUVMCsoJ3Vg-8vnIAoqgFqcD6nTGFJtJIkquj5di5UM90JXN1pZwT-UuNgaRUd6DJYpgACzYIZmt-wW3GuWW1Gz3Fgbuy8Wm7mrK4xfiaazzqE87qqDcp_iWQ4bLGHMStNg3X1zYjfEsNR3OMr6STepzuAlQVeqTPgPJiWC9l4nj58RO_pUZvtQxsbXYa-y1PJJJkQ0KwjUTArEDPsSHH785CkMPJUoZVE-oZloAqf-B1_DRru2hUpnyc5EQVzr7asvmHx_8X42B_fLyOvHhk53m-3B1Dxdi-3wbT7amrtDbwybAy3XN3ZPY94uKGq6YuEHDnVIptIOHVxVt1keMycCm1tCRssh24hJtuYq2iPei0x2SsOepfYpNZloJh0XfZCiqeBGz7",
+        "width": 2252
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116771051970581970466\">Nancy Peterson</a>"
+        ],
+        "photo_reference": "ATCDNfXEsi2x5lT6bmHQkY6YmnUE3nSs_ziEWKpUraFCVr6hyfN7dsUsqy3MD8Q07NVamzgikUkJV513RjPSKICl9fj8EPtdah530VJwAQkP7pIeWaFYqg1vsqYUdq6oA_3JAc8xGP_wBCilqWXuXxDYrWaN02n7UxmSG96p7CSJE9yiL1S-RXsAn17U_rLjLw7dCQbwP5B8HtSI_Dc6ExrXzcq9QEFWLZG0rtTvVgTnnSv7bMivJpS2wT06jDNrxZeiuLvqGdKFZ0UhusUpdmuyQcMueyJW-jrkVEnjSmM27mb-RBKh9LuBWxWDCefpVbiR_Y-YIzdGlQ2J-AhZuXoOFsPyV58ekaQyHfS1pCgPdXi-c1SREmmB0IBxh3Oruedl1SuzTgqOO6uVS4XvAUojU1wfUQrTfdCtR2kN6ZL96KDRcUcfPYCHeTPi4fvKnl3D",
+        "width": 3072
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105977041884052614439\">Jonathan Lavy</a>"
+        ],
+        "photo_reference": "ATCDNfXvy3Pvy10sMZJDiXtX7p0M0F3meK9G5RbWZbATIOD5rAAl-WeGxix2VSH35c6yGeNaUF1AX70Uos6QQvBuY3x4EsbjHJIWFsCvwmWXQRdeAOesjKjkYm-OUzFSX1rSZgdL4YsumjhnSfw-D6-1Pc3yxCvpLjse4K_cV2FqQnx7wlku4QCpcGboEPbnjv9hERi6ZPxCHwz2Kfs4bML6rvYHB7MPSV1gJ5BI5uxj5m09RW_4CICDhDFL5fvZ9hO_ATWUtCGLPMhy0icTDLQs6-0eZ6i6oa6KT-s9Rn3ROiDUhptXIByQ6iuWsyfhmAW9TAI-Gn_w0KkdTNuJ3evzkaAk5wNNSgvVscvNsjObRVLYsnPQgp4HhTA-YNYm8T5chwVttxRpUSCqwgT0qpM9_iLGTicrzJeow6o9oxADVf5mVkUOs0QNwjdnygFnaQ",
+        "width": 768
+      },
+      {
+        "height": 420,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115924723034749956722\">Physio Alavie</a>"
+        ],
+        "photo_reference": "ATCDNfUThZumUp3Ap3bC5jAj6Dr0DzlVYWVk3rfXhQeKOHTYGV50V7cNGk9gFvWwYg3Tp6xYGWFJZOyfwvUya_1WMJiZagiKz9jTX-G1H-O2e357q5FzY9KHAkpPbVWkv0Rw4bkVtCV967crM8Q0FZHre2wv6d0vT6pOZjuqSxohkUwr4fRB6QuFVy20xVUFcAALKq4V4xuiPfX6YGOpPt6CQyjUNeHchei8LTAbj3BBbtpTBRZ_s1sku-aFAXNPYU_gNQkHMwIRILj23Iq9C3dhH3MV1CFWISZHRRwUpzJoaDmBEA",
+        "width": 436
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115924723034749956722\">Physio Alavie</a>"
+        ],
+        "photo_reference": "ATCDNfUSiCPcur3bI75SdoyIBaATIl5TbItgnDZOAExMG_aTsHNwuYaPoyu6O3S7Qx0vE6WzQVlCdDPvFcI6TTQhF8grvNaDcp_EkwECUgtNVqOW3MaCYyNp5GhvvaRJZVKWcUoOBDpnk8BcgusNWQiAbeKUJzisJj4WpfwK1yAPLaPCFtQYwE8JgO1M_PTPbB2IAdvjXPKrSyRa83ypRoFNNhXGdLr86BdQr8vU-eBAk3ssjoJlOp89k0hSNuRWpBkwsKm9sGiIu-O30wT5F7MCd9a3OkVUAd2xYI5ElTLtLBxs_A",
+        "width": 2350
+      }
+    ],
+    "place_id": "ChIJLY9sZtc3yUwRkp7H7QBRJXA",
+    "plus_code": {
+      "compound_code": "9XQP+6H Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQP+6H"
+    },
+    "rating": 5,
+    "reference": "ChIJLY9sZtc3yUwRkp7H7QBRJXA",
+    "reviews": [
+      {
+        "author_name": "Jonathan Lavy",
+        "author_url": "https://www.google.com/maps/contrib/105977041884052614439/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrgwkLmj7PgETFjPDsyImbbBlf6v5_AooNJkH8k_5abT-z5pWZ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I had an amazing experience with Sarah. She is an amazing massage therapist and I thoroughly enjoyed my first appointment with her and will be back. She is unfortunately far from central Montreal (45 minutes without traffic) but it is highly worth your time! Sarah was attentive to my needs and also incorporated cupping therapy during my massage to ease my tightness in my quad muscles, specifically. I took a 90 minute appointment which I recommend for a fully body session to ensure your needs are met. Couldn't be happier and I will be a repeat customer.",
+        "time": 1763651074,
+        "translated": false
+      },
+      {
+        "author_name": "Rajan Sareen",
+        "author_url": "https://www.google.com/maps/contrib/108278418878837220828/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWyuge5_YGN4H3S0qAyjBmIeyrb0DELlrtrNKmah-iOFAPGvk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Jessica is amazing she took her time to understand and assess my situation. Her treatment is excellent. She really took her time and hit each point. She is not like other Physio. Where first off all they charge you a lot and out of 30 minutes they put you on machine for 15 minutes .... and some time they forget about you . Jessica doesn't have any machine its all with her hands ...\nI recommend everyone to go there... and you will feel very good.....",
+        "time": 1764332046,
+        "translated": false
+      },
+      {
+        "author_name": "Nancy Peterson",
+        "author_url": "https://www.google.com/maps/contrib/116771051970581970466/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYe_0D0TF0YXIHWQZuD1MOoY4n74k-aiIk79af9QEWAuqW0ED2BQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Sarah is an amazing massage therapist, really listens to your needs and concerns.\nSuch ana amazing experience, highly recommend",
+        "time": 1767988671,
+        "translated": false
+      },
+      {
+        "author_name": "Claude Beauregard",
+        "author_url": "https://www.google.com/maps/contrib/106323130063711429952/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbspP2_Mvk-7T26Tpdfxir7vU9i8WriBdMHS3k0GtpJSGP7A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I can't say enough good things about Jessica. From my very first appointment, she made me feel comfortable and listened to all of my concerns. She created a personalized treatment plan that was easy to follow and explained every exercise clearly. She's incredibly knowledgeable and patient, and thanks to her, I've made remarkable progress. If you're looking for a skilled and compassionate physiotherapist, Jessica is the one to see.",
+        "time": 1758393351,
+        "translated": false
+      },
+      {
+        "author_name": "Melissa Simboli-Gibbs",
+        "author_url": "https://www.google.com/maps/contrib/110227900747341082096/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpUCKdHXnyd0op-XleoS-UYQJrGZLRJOQejkJgK80Q7U9FmpBj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Jess and Sarah are passionate, knowledgable professionals who make every appointment feel personal and warm. Really appreciate Jess’ approach and her recommendations for exercises to do at home even if you have little time as well as how to adopt good habits for back issues with a typical 9-5 office life!",
+        "time": 1763583874,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8080954170817355410",
+    "user_ratings_total": 49,
+    "utc_offset": -300,
+    "vicinity": "169 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://www.physioalavie.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10726871150486110834",
+    "wheelchair_accessible_entrance": true
+  }
+}

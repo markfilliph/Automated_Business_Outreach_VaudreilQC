@@ -1,0 +1,425 @@
+{
+  "query": "Annie's Beauty Bar Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340669.5246794,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Unit N",
+        "short_name": "Unit N",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3187",
+        "short_name": "3187",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4E2",
+        "short_name": "J7V 4E2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3187 Rte Harwood Unit N</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4E2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3187 Rte Harwood Unit N, Vaudreuil-Dorion, QC J7V 4E2, Canada",
+    "formatted_phone_number": "(450) 319-0146",
+    "geometry": {
+      "location": {
+        "lat": 45.4285183,
+        "lng": -74.1092084
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4297455802915,
+          "lng": -74.1081534697085
+        },
+        "southwest": {
+          "lat": 45.4270476197085,
+          "lng": -74.1108514302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-319-0146",
+    "name": "Annie's Beauty Bar Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1756,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfW7WnQNUw650SdYNdFqQP5DpnXH9VDgTg1lIYw-6Cbzgv5FyDVGyOhJz1f8QviidKopl9fYXTqlbSlKQYLsawtHht1zR-0qrg2bb7x5g5KwTnhjkgW9bSGCRWgdkoT-oKYoaEM1MTMAhVGxue2nQBLuNhwlavh2Qr0_tvK-nNpj5C-H02THm1lfViboj6iJaK5lxJsj9LYaVa7jAHx5_PC5r6lCGqgbhSIK-S2SjEDdE7zDJba3VTeXauMr81bS3lUkwA8q4-cq7wr6_FF5ZUcKdWuM5j45LWhPx8QZG2CPYw",
+        "width": 1319
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUl7byy6lioY7AZ4OHs8UZGCDOLxPM0EgY9hdTkgxJXVvJZBqkzYPGvRjYdtILzGoJ47wmo8ZwzFZ0CBztxjPMma66hXhHGOHJjJqQE4WSlpqgipWV6R_XznAVh1MZhA1O-kVvYtoSDzCk7XkUkanWjALMF_To5PAwhRmXqKkL8yGprthe31SlPAlf92gI3nLue4e9YnRLPlw517G6nnYEoa8yIE7wsIF2a80mIRZSM5nGBJZ6ycbnYVA3y--0Tf1hjsWv4QZ5iEmoBNd7-zKF0UvUVY8_zaDIrwrxeqqhkew",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVt06PQSvZfj5Ru8k8PdCTwyzS3QIw7h9h4roqRW7RRHNjjHXTqsRYxIxVzIeeXAlYnAjYY-NCPo0y65NjuyIfjxOFVZGctvGqlqOv_dRAYWlUwfPIz8gVW7oQ4NPMX3UMAloXRUHZYo1e2DXdaxsFp2FsxFh4glsxIh0Qlnn1ySlB2quYtQbaA8DDLcTFypr710Jhi4TOJgUW6miKEdFhKeZDc0AAX9WWLfKHoqG6bOwQ0RflgKe_46GcZEwOlBImMOIEnvEPfmzcLepGJWvAHDhqSFhERd5srWcpACcEbWQ",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfU5V-BsOqavYK78SBhIDp_tgSE_ekY1fO_MDNkWcBzz_EH_yBor2JXZkI7L0qukYVlffijKsbEgiAhF1IU9PUiVB40EFIdNDM21ahr3vSjxXpP3kMJeanCWpucVvZuQGD3IC3iXyd72qky7ziuqXtrb3ZaRF9G1wBDI1uldgaPcoUhsgt4y6vTii_osFmYYPWU8EWyqcguyBLcRsesuetONW1wB53G6PF4olV8QQdovmJDmAiLCrSk4ZhR7HjyJ7lk262RziMzNUQsKgiXX1hH4NtAHQl6FNonJhGgzenJvdw",
+        "width": 3600
+      },
+      {
+        "height": 4596,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVVUon_Vg3li6iZVNhWNcE8YYvK2NJ0wzPBAVXxPiooHrqbZfkFq0W7AjwPq_YQC36NuFqzu-xdeW2Jj-feJsP_ZxG4ZO8L7YECzpkuSLeQ1Dvgkoqby7fwkYtxucOlcBi7JV7DWWZPTpWV6IznAiMEC9Ym0Y10EbkfVRAXhbOJmAF10Bizg7D8V2YAD1Hu3Q25H3Yr6DUZd5brG9cWDyJFesOOcdF8X_5b8hiBrZuhzJ2oM8a0eJP5hirJvyhXWqukKZG0AUIcsp5VN59M5VFMH4e3TyZr-RPiRUXuchOYog",
+        "width": 3870
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfXbCuL2DBrQT0O21DP2XG2gbhx0y-LQNboegAAFFhaho8herQycT31hbDvD3xZqGRQEYQhoDWzqN1P4GIK9wv5ImocHWn_jBsaR3zc3b2J-dw1Ipn8HnvfRqAb8VwfpVL1izKe8B3lhTh9PuyWgAcSeuHXD-HDnXUzzzdKO14duG9y4887LbjtH-ZiMGgMEhLq5MianiwGH3tZmHjqsj5Pkfn0NhMNILnry2QRreZfNnPvKywpOmpFLIjXsJJH0kgAjqulpJh4N9yfPcjs8n4GfkQKU6hjt2kHeehr4F1AFXg",
+        "width": 2048
+      },
+      {
+        "height": 3780,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVbQCxl1o_tWmSJzoaWtheb0rhTvAcickiWHWycFax4W63qGpyqzY2mGzpnyQw6NtLUroI8iuLNo3iLw1wqfdq6mqOA0DmHlChz3B2b6WRdbc--_WncG5qc9tF7U6Q5qKjvumS3UNBN-1Gt3z0Ux096GcsZ-8edvmGaH-BIm0ktshWIJkaEizReHnK_lmuqjG1SdZ9kBdR08sn5psin1cByt0pIaP5tXPCPt7VrnU4_p6Dmt5FqGk81ltXt4_VWHewE5W8mUQ3LRGrb-zVaaeFoXl4QUZpaiAiHTrXvz3BO_w",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfULHh6FWTUQT-H8pkD3ng4wycdCrMJjJdo4rU3Aieu0eYhamz5nZeV5f8ypiyizcYZRZhawjMTZZhRCH7jgWJOEijHQgbHj6sU2UCFf_3gQuF_HMWKQq0Q4IzO1_IanyVbPPLLI-dgAJO8VhgqZLb2g8wvKaO-wb4EJnQimLa3Pwp2nTIxDgkoGIKLgiyua_VCenqQAsy57HGxndd_KaHITxq1K5_6WJjdhi3FApAvrn92WNogKdOnVI6Aw0hcqF1XMwMkrwXttotxtRWo3Lk2tWtXYoxFR9mwiVUs28xN4Kg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfV0w4rUYCP4w6TgFtN0Q_p7JwQIKE6Itl2IhtE3eZ1QRDawict2PzUR8MNwqbHbUPAm-j6S0vKVXJHH09JRVPowBAMX-5-3qPG-NtfGk-h7lI5Y_YkMEz-fjSi5D-modS3lZboYaiR7g0QR9swrHwLz-fbKCliSQF3kX3GHCI3ekJVNv5TjwjxaxRe4RTAn1RfpSe-PzmY1Kp3ZyWdIV9UTtwUQgYdusUkckgsBEls7RkdE_6b00Ml-m1UkL8a--TTpLAwxxdDd4GxYBCIFKKqE55jt4HtvpQiGba7FQtG3tA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116393347525222804713\">Annie&#39;s Beauty Bar Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWkbix2upN7Cpepm9lP76eUD8NMELsUuYKmIlI4KADpkqrXgOlLVuHYRdTYlTr7w759gavh9QGP15Os3CKlpE8z6iCdcgoSqkypvwbjb3tY_BbthjXVTvBSeQEbtxfg8KR_pZvSDr1TtaSRyACvrnuiUutp0EqU2wGHoM8ogjduQ3aMehwwTjqP9vlhw4aMAN9p1bvacR9y0P2AFD_lI8WY64-AaZAJHuF7TI8RhyKFAVmrANgq5EvrFyZAqE-pECeXbhfgz4dVuF9Hq1HJRif4L1I7rk0ZR_0m2kwHVIP0QA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJq5i_7TM1yUwRM-5z7BshbZo",
+    "plus_code": {
+      "compound_code": "CVHR+C8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CVHR+C8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJq5i_7TM1yUwRM-5z7BshbZo",
+    "reviews": [
+      {
+        "author_name": "Jazmin",
+        "author_url": "https://www.google.com/maps/contrib/103477057991250764762/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKT_k_zhqGXfREb8IXpEqcP02Ym3a9UOMgGEPkMPvqG1qKAhPZw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I absolutely love coming to this salon!\nThe people are so kind and over all a great atmosphere.\nI have gotten 2 completely different services done (facial and hair cut)\nFor the hair cut I go see Ashley and she is fantastic!!! I’ve seen many hairdressers and so far she has been the only one to really take the time to cut my hair properly due to all my different textures and thickness. I will always go to her for my hair needs!\n\nThe facial I saw Edith who is just lovely!\nShe took the time to find out my concerns when it comes to my skin and explain in depth the services and why some are good for me and not others. She is so sweet and knowledgeable. We got along great and I will be coming back to see her.",
+        "time": 1767747821,
+        "translated": false
+      },
+      {
+        "author_name": "Manon Hindelang",
+        "author_url": "https://www.google.com/maps/contrib/105257930403760310705/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj2ObfWCwcqKq-S99hBWvhtD6PAzdKNqSsjQDCL2k6lFgxoA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "5 Stars – A Talented, Honest, and Truly Professional Hairstylist\n\nI recently moved to the area and had been looking for a good hairstylist for quite some time. My hair had been highlighted for years, and I was trying to grow out my natural color—but of course, I had to deal with grey hair and damage from all the past treatments. I knew I couldn’t expect miracles; hairstylists can only work with what they have, and we often forget that we can't expect instant perfection, especially when our hair isn't in the best shape!\n\nOne day, my boyfriend stopped in for a quick cut, and while I waited for him, I couldn’t help but notice a woman confidently working on a client. Everything about her—the way she cut and styled hair, her focus, her professionalism, and her energy—told me she knew exactly what she was doing. I remember thinking to myself, “She’s the one who can help me.”\n\nThat woman came to the front, introduced herself as Lise, and kindly asked if I had any questions. I explained my situation, and she was completely honest and informative about my options—no false promises, just realistic and caring advice.\n\nI later booked an appointment with her, and I can honestly say I’m 100% happy with my decision. My hair looks amazing—beautiful highlights, a great cut, and styled with care. But more than that, she helped me get my confidence back.\n\nThere will always be good and bad reviews, but I believe it’s unfair and harmful when someone tries to damage a professional’s reputation on purpose. Hairdressers are not magicians—they work hard, with skill and care, to help us feel our best with what we bring them.\n\nI’m incredibly thankful I found Lise. She’s talented, honest, and truly passionate about her work. I’m a customer for life.☺️\n\nDenise my boyfriend loved his cut and will also ask for you again! 😉",
+        "time": 1751219524,
+        "translated": false
+      },
+      {
+        "author_name": "Gabriella Martel",
+        "author_url": "https://www.google.com/maps/contrib/101009981406080373504/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpf20CQsa7DsaunzYAPhAERvRZuwnvo71Odnz0HDBWkG7hhQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "What a fabulous experience I had at Annie’s, Sophia did such a wonderful job. I have never had a hair cut that looks this good when I wash it and style it myself (with very minimal effort). She is absolutely fabulous!! Thank you!",
+        "time": 1766537070,
+        "translated": false
+      },
+      {
+        "author_name": "Cassidy Brady",
+        "author_url": "https://www.google.com/maps/contrib/115005676992789033321/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXV6mm-gRL92Zbr9HdDBezmWvkDKyjgDXfU4h1hY0xRuJLqJz5L5w=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "I would put a 3.5 if I could.\n\nWe brought our 4-year-old twin girls in for haircuts today and had such a wonderful experience with the two younger stylists. They were so kind and took their time to make sure each haircut was perfect, and made our girls feel so special.\n\nThe only downside to our visit was that Annie charged more for one of our daughters than the other, explaining it was because she “had more hair,” even though the appointment took the same amount of time (honestly if not less) and they received the same service. That part left a bad taste in my mouth, especially since they’re only 4-year-olds.\n\nOther than that it was lovely",
+        "time": 1760242268,
+        "translated": false
+      },
+      {
+        "author_name": "Sam K",
+        "author_url": "https://www.google.com/maps/contrib/106701351744545050892/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWA_7txPANVGwZz3r60gohMoGIuJNMpdIr6Jd4ARjnOGkMCdBY=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "It was a really bad experience to meet you. Ever since I came from your salon, you made me feel so bad that I didn't sleep and cried all night. Please, if someone shows you a hairstyle, understand that they want the same one, not what you think. Look carefully at the photo, if you can't cut the hair the way the customer asked, please don't touch the scissors. A woman's hair is her confidence, please don't destroy it with your inexperience. You cut my hair so badly and irregularly, as if a 4-year-old child cut my hair so short and irregularly that it gives me a bad feeling. If I got cancer and after losing all my hair and I wanted to cut it, it wouldn't be this awful. My heart is so broken, I am so sad that I have no words for this pain. I came for my daughter's graduation party next month to cut my hair differently so that I can show my daughter in the photos of the party. But with this awfulness, my mental state is so bad that I can't stop crying. Madam, the head of the salon, Mrs. Annie is like your mother. Mrs. Lise brought this disaster on me, you should have put customer focus first, not when you saw this awful situation. You saw my condition and tried to fix my hair and it didn't work. You talked to me in that tone and when I asked you is paying for the time spent on my hair legal and you said It's completely legal. I waited until I researched this issue, so I paid the entire cost, which means I lost my hair, my spirit and self-confidence, and you wanted to compensate for your insult with a $65 gift card, but requested the service to be paid in full. You ruined my hair and requested money to pay your staff. Yes, I paid 80 dollars, but I did not accept your gift card because it was an insult to me. According to you, you were short of money and did not waste your time, then you thought that I was too young to be fooled by that card. Anyone else wouldn't pay 10 dollars for the service you gave me. Someone who cares only about the money is obviously not considerate to the customer. How did you think, making your time and money is valuable, but for the customer who is helping your business, their money and time are worthless. I hope that everyone will read my text and by referring to their hearts, they will be able to recognize who is right. I will also take a picture of my hair so that they can see what bad things you have done to me. Make them more beautiful.",
+        "time": 1715451631,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "spa"
+    ],
+    "url": "https://maps.google.com/?cid=11127586658117217843",
+    "user_ratings_total": 158,
+    "utc_offset": -300,
+    "vicinity": "3187 Rte Harwood Unit N, Vaudreuil-Dorion",
+    "website": "https://www.anniesbeautybarinc.com/"
+  }
+}

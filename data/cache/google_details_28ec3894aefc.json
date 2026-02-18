@@ -1,0 +1,415 @@
+{
+  "query": "Boulangerie Mira, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339132.7013624,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "941",
+        "short_name": "941",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">941 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 3:00 PM"
+      ]
+    },
+    "formatted_address": "941 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3885796,
+        "lng": -74.04826729999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38999898029149,
+          "lng": -74.04686961970849
+        },
+        "southwest": {
+          "lat": 45.3873010197085,
+          "lng": -74.0495675802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Boulangerie Mira",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 3:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111723789610535792641\">Sandra Prudhomme</a>"
+        ],
+        "photo_reference": "ATCDNfWuKlyRNJR7seMEZ2kzUGPjduMyrK5kTlilS-Dvc5-UrMCU60TZqREJ_AfEskSxfnGj1wtV90TDno68Nxc3fxgq4PWxW8ndMmhU9PLAEQdDokCyi4DOz9E6nDT2KV2HG4-kmCEqXE02otOfbDf-DFVBpnDenB1n9IqnsL5AiKOqXiZX7jJbLhaQbIfk25Ss72Ypn0giW1EeOzmkDefhsPwKuDYIeI1aW2Uf0xfBt-_PXzo8bhKaoWBFYP2Q3eTuJwcgmIoT343eOB9fYcRSMoCJACPRRP96-xyXT3jYdBx8Fb5hKn-gq2-GsSnv86kR-Rg5xvoPF3Inoqs3uLf4hlh4WyJ8FYNcHHfAx-hdkI3z5nVt42TLjMIf1drGCZntD3KPtbltBdGvS-uGxbiLdpCSZ97vjc9vPiTw1i_LNEGJ3amRckIzxoXwG9uqNqYB",
+        "width": 4624
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117802776150034818940\">Boulangerie Mira</a>"
+        ],
+        "photo_reference": "ATCDNfVyzXBbiEHSsovtNNH0JMTi7QHgWBUUkciGZ8MTAmZX5nMn1RZ9dwt6nkd8r_aRcrUar7SDLwHFMkmaQ7Vk49fpZqrMq1hPrwDDUe_bnlLCddr5hPUsTFf6Z1F0KJmBzj8fXd7DsZOOnk9f9x0UJKOINYmRGBUG0bncMiRQWS4dOiF42i2-pbbvEVDkLNYPGCdvMEC_yaGSAD1CRWBW1-S_uK_UEoo0pzcghLJnqSEtBPKlvhUofXJrvgseMpoZeiu229hVzV28ZIRABLFiCQK-LA2OHUPKw9Eix6JeE4_C1A",
+        "width": 3600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103676181729178855074\">Alja Perger</a>"
+        ],
+        "photo_reference": "ATCDNfVYRkznf-Ylb-T8bxR1iZaBFMuVBFa7reefX1Q3CDJeoV1dZE2KoDuccZz2BeXgu-phyBdE3h9QellwsMp91fq0AJ18dU8Y9Cal4eoUu6Uh9RYF73QknlkZHZVgzLwfAHOgYOQmeslhjwPqe6tfDSlzSX0trRmoov0bkFPnnkHoO0z_7-JlTFHxC6hxznzw5wWo2cGyloNZV0W_zyo6fObOITLbCa0jV54XVI_O1n1tm7GPeP1C12BN4ZY6H39F5rli7J_M0gfnGimUe0KZkTmuUPFxXxuCVUiyDYNgHDRQUB4QJM1bF2E5nDuBjBTExmmmH_nr8OzHmMKkwR6h6AE7t-0r31aI9rZhTNYplvzdhkq0qJQV3tIQKHgTr72ucNLElKz8AjOQgTF-m-mwNKqEzbsMMudkbCRIL7eUXYRoE4JxZglfXcuc_72Zs4Z6",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117802776150034818940\">Boulangerie Mira</a>"
+        ],
+        "photo_reference": "ATCDNfVzD2iWC-AClbH3TBmOUr0jjEd2_h0JSd22ffAeHEv4Pq1TKajBPPtbwFIvlWYHxq1JQ67VMw_g4liuYJtqKE60TuioPpmkIzDyddinfxbOTR4WTjAvKizWwWWBzXiB_AAVWcRX9m5XdKjjMf4ugx2TMvo1YydEbuVf7cHoX1Q_GD1MhYBX2F0lT-8mTX57u8xvc6AGbgq8MkMZKBHTT2w8hW32wvvT6OxrZUn70K67BZMCK558aou4WIXQ6wehnZCQ2Z5_aBWz3c3mcnsRRA7v1_NaEL4iX9-0u3RcH3VmBw",
+        "width": 3600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103676181729178855074\">Alja Perger</a>"
+        ],
+        "photo_reference": "ATCDNfVaXI9cV-jR4n-o4Wws9C3eIwvnKCsNtSSrz0YufNCJXKL3HiVMAziy20Big2y5qF_06xzS1MCOrLag95tzbUAbCtb-dl3K1WgFrTgI4bZ-ezloF8P5IZeQ-xOTHE5Q0TKGfXTX82i7JV1WHLEysYXmvV6rXRgRUi-OJPkmNue6o602iMrhekXgqvyXbx2tiyA6XFFFNDShS-ousrg40uSMDvVmnnQvT3e71GHAN65rODv1CTK6w6pHIJYmhq2THFOItdmg0DEwY7YfmAVnTMvi5nmDF8Tv1lWbamUxEqc4v1ToG2oQQ0ru0AIWje44hP4AGZSldwmwjihYbmJNI5spfUAm4aciUkXossEefXpyNtjmL-AJTdAudN3Oz4PO10bqHMa-d2Q_r0JHEFlrd035LZBlQiej5ZHr1INkvx6lchjm9I3EpGZ1UlX21zUZ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103676181729178855074\">Alja Perger</a>"
+        ],
+        "photo_reference": "ATCDNfXWY1hUAuLOkN_uSZp-uvF5DhwpNcGfOpw70R6lEEvOeX5F7rpOJuZhsSbU4nBAqheaX0FHSP8uqECH1u9GXuQwNDRzjlTFQ7R94nmZe8icCNPY-4OsYUmubFSTHhYmahbLBbo0OQ9CqvHw_oh_MaICo--dPtPaleTZODhbPx7CXepMLfc9hDGT9xrAvieDSSSV09BaKXtMev4w0K1cPOzTQl3U0TcY02TaMsXBA96OMLT4fVJoVfsDNe99Ez6m4frVm9Hqq1Xi4QfROft2AVv_MUq_lv4CT4YrmiYNSudpPsHPXZNaYAlbLAM2OEmDxSFsg8LKx53TSM5sbHaKckO34XPWcZBMdaXTeou7icH5AuqZm3UGQT-hM0WXfLgr7FsjkPkhZWa-ZmrIwQmMqAMFdSLQ4s3P0NU08Hr8cKLllA",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117802776150034818940\">Boulangerie Mira</a>"
+        ],
+        "photo_reference": "ATCDNfUrsbu7ohYmN1CiowV5YCsRKOwM8o_bh5mPSZuyf_ZGzJAlmvvo6qaCjv-80tTgDtVkdL7_L0l6xXepgq3nBwEmL4v6jqyXSJ8XtnqcRKnxRuwV6IeqsJdyFskUFSDhQ_pvdoR_v5QO7lq1eRHwclWRWkdLIQP82GmK_6EgojFHfKewoVh1MGZXrkDP9w4oSBwFjjE6YkaQyAG3dDJYUwbZxebqNafB8_2fqI_paY5HF-WLMJqFjiXJeL2H5zLTiTo5KI4tGhNufn6b-Ie2M1OOb3A9uKd7nfge_OS5R0K2jw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103676181729178855074\">Alja Perger</a>"
+        ],
+        "photo_reference": "ATCDNfWDLAHgy-sq64K71UEm_72xG5tzLR73SejLmRbwObApeSRoNsQkJYPs-39QcD3NsrQ384iPptT9UsUVbYdl_0hKuXaF3xvfrOwcVusepX8rdkN1enxWAt1oLhDozCi9fBUJFPdWOCwQXlp_HvJO9qwSxrt7HeVd40lwQte2Z09v0ajepL8BM6cZwpGRQ_rJOBW7hghx7bVmDxU51HawoKGGaDrU27XKJMtPFEWKzOy4V7VpxzXZW6NrS5VNcbmEQSx1FMbU568umixIb4n5ge0RzFOBOvndb81pC-n5sgpaCN_QJlnACSnAfOAEiRKBIWTHR6mAkAu80-NdcuMd6G5oSxxfcQiJ9o-Fkz4Lhf0f9I2Ge7JI3e7AnGlVNfH6-Q5cSEoPrJikETyCJqlj51FFxtanFNY99GAFDI_nOWBLsuaDB0sVnEi3rw5L1YMq",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117802776150034818940\">Boulangerie Mira</a>"
+        ],
+        "photo_reference": "ATCDNfXmQ9aZgo-8luBNsaa_CA4YSVVFwUpPaCTqZlRhF9xhAWDbGVnetxW3WePNY9ZucKwxSuiqLbyX0_pdB_uZUz0gWKb5bNTM81-nFgGTFv5T_aFq0sf7ztDQ0kRwGtgKLFByjuQC2bUOUNtmQwlpovsTopwUKnaq-z7l3rVDPDM0veVVKpL0zR3PUmJ4Smt3qxjFTGSS8UwEMDlDyTTppsdzGGn2AoqHjsVHtT3OJjwpbOdwEOcRp4tStKtJxPKvCkaLdxLqrk8PlR4ColUAaZvNdWr6TTXNgcaAGX7NenkXZg",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117802776150034818940\">Boulangerie Mira</a>"
+        ],
+        "photo_reference": "ATCDNfUtUfERb2BZtRxTUIKnTGlQGwUsGKyjaIQNfyQf861ambOXHALTM1JDypmB0zfYTiMs2kEPsGi_GK7YfLVK2YtBdnAKC_jmZ3Xs-2R_J4c7pin-Lc2KSTeaXfYf5crZosPF6uofF4QGx-XquBFbtcapefxVkPpnN2PXBszGujyEP_BkUVHWyNnCMuyp0Z-mWTPZjEtmh_PBmNc8z7h7aBqfK1B41b0OBRu0h3M5dosLOMyC9ujAp5wNwXHVvidoIJs5vlkUC3b-f72OzBhFOAvKsuS-zqDImKwuVPOtQYtZcQ",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJJ5YIX9RJyUwRVo9C8mdImuA",
+    "plus_code": {
+      "compound_code": "9XQ2+CM Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQ2+CM"
+    },
+    "rating": 4.9,
+    "reference": "ChIJJ5YIX9RJyUwRVo9C8mdImuA",
+    "reviews": [
+      {
+        "author_name": "Elizabeth White",
+        "author_url": "https://www.google.com/maps/contrib/103071402591557901566/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh8wDpPL8PhKrpwfWbF0-TV_ZlnmCIdPBD8cm58qP5d8g6-A0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "An absolutely wonderful experience. We were visiting the Montreal area for our 36th anniversary and wanted to experience a boulangerie. By fortunate happenstance we were traveling through the area and saw the terrific reviews. Rarely does one encounter a 4.9/5 but it is well deserved. My husband and I enjoyed cappuccinos and lightly heated chocolatine pastries. So scrumptious we had to take some home to family in US. We also bought, bagels, croissants, and focaccia. Alia couldn’t have been kinder and friendlier as was her husband Greg the Baker. As we didn’t know the area well, she made a note for us of several places we might be interested in. She also gifted us two pastries in honor of our anniversary. I can’t recommend this bakery highly enough. You will only be disappointed if you get there too late and the pastry you want is sold out! Will definitely return on future Canadian visit.",
+        "time": 1758319054,
+        "translated": false
+      },
+      {
+        "author_name": "Michelle Menard",
+        "author_url": "https://www.google.com/maps/contrib/105770306347157179816/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrP3fqIrpMijBZMg6vlph0iQPfjffE8sI3_8J8sNV_fzQCXQsQKA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "My kids and my whole family absolutely love the sourdough buns. They are so fluffy and delicious. Very friendly service. She was very patient with me and my children 🥰",
+        "time": 1768415521,
+        "translated": false
+      },
+      {
+        "author_name": "Sara Coronado",
+        "author_url": "https://www.google.com/maps/contrib/108128026722941259426/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiX4FrAWxs5rdVbd1oOC3ESkTqQzLihLkLWysCqoxV-97wGjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "This is the best croissant aux amandes and chocolatines I have ever tried!! They use only sourdough and good quality ingredients. The owner also explained that it takes 24 hrs for the bread to rise! Longer process but healthier!! I am so happy I stumbled upon this bakery! I can’t wait to go try more of their breads and products! The owner is super sweet and kind. This is my new favourite bakery now!",
+        "time": 1767135103,
+        "translated": false
+      },
+      {
+        "author_name": "Marnee Clement",
+        "author_url": "https://www.google.com/maps/contrib/100988324054512910404/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIuAKHP_Heqpn4EwLYXtYlnFKE10ffliGQxzF-fLFCfpX6SMYM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Always pleasant service. They take the time to know their customers. I go often and everything i buy is delicious. I feel good knowing the ingredients of everything I buy from them is healthy. 5 stars all the way...",
+        "time": 1769866353,
+        "translated": false
+      },
+      {
+        "author_name": "Wagner Carvalho",
+        "author_url": "https://www.google.com/maps/contrib/102826658514194503412/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYmhULsl9t5Lf7N0hTB_Nh2SA0B7IhOwt-6i9kS8fp5pR6Jx-s=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I frequently stop by when i am close by this place. The fresh bread is great...and they have a good selection of pastries and other bakery deserts, eastern europe style. Salages are great also. It is a good option to have a good coffee or a good soup at lunch time. Thank you.",
+        "time": 1762786188,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": [
+      "bakery",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=16184327822192578390",
+    "user_ratings_total": 83,
+    "utc_offset": -300,
+    "vicinity": "941 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion"
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "query": "Pavage Roxboro, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338702.6465707,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3030",
+        "short_name": "3030",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue du Plateau",
+        "short_name": "Rue du Plateau",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 3E8",
+        "short_name": "J7T 3E8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3030 Rue du Plateau</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 3E8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 5:00 PM",
+        "Tuesday: 6:00 AM – 5:00 PM",
+        "Wednesday: 6:00 AM – 5:00 PM",
+        "Thursday: 6:00 AM – 5:00 PM",
+        "Friday: 6:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3030 Rue du Plateau, Vaudreuil-Dorion, QC J7T 3E8, Canada",
+    "formatted_phone_number": "(514) 631-3018",
+    "geometry": {
+      "location": {
+        "lat": 45.3857966,
+        "lng": -74.0763865
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3871287802915,
+          "lng": -74.0750476697085
+        },
+        "southwest": {
+          "lat": 45.3844308197085,
+          "lng": -74.07774563029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-631-3018",
+    "name": "Pavage Roxboro",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 5:00 PM",
+        "Tuesday: 6:00 AM – 5:00 PM",
+        "Wednesday: 6:00 AM – 5:00 PM",
+        "Thursday: 6:00 AM – 5:00 PM",
+        "Friday: 6:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114710621790527425561\">Vlad Mitskul</a>"
+        ],
+        "photo_reference": "ATCDNfW607iDW9OWcimFhLBMo5tR-LFUAPCGYo-aSf5xLQy3cwVfT9HCliUxRYJvegXeLxR2swXC4odytXjufk0LTdho8f0WDB3dLJaa3FgJymPdA2OT3mhfkCk5tY03C7UXxRczFTRSZUPGKuWeLilG9b25ItOpGuCxyp3QH1yovyrgLvvQfYK4CAZw2miZvDgLt55RKIgyxzqF5qJOVfnlqtlSSCT2lDDrExwSzzZ5CsQLe00wEX16O93eUFAXtD3WMyYjJzoIwTncMlHXM0OB1J-JeJTvIjuL2U7akDEDfE59WD0JLHxL0_uF-kDZUNEkSc-41WGfkoPOe-o7gZGq8WXysEk7Bm410x36pfXvExGetcGG_PdaqD0ewFsmOla8s8P4D4VbMiKPkGz5WHnePTGMmN9cB8-A3BW7iRrhNgJbQw",
+        "width": 2600
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107575502916997786989\">Marc Bourgon</a>"
+        ],
+        "photo_reference": "ATCDNfW3vth2M8jcOlqcbxn2xax0_ciZh4Weg6xkQB1MbkQZfLkTMRkWLZn70QRmxk36nzOFUTxy0qHHxyKat_R260FNkPq8CwrceVtPbtMeWLy0GydlovPpX4Gq4AQ6A4ckTLjaYLS0VIghbvGtuzKW4m6CP6SlwBUKDP9bw_d6OrJsyksMK605Q0n1jToSwQaJyM87UlzFHqDWR2qslCjykze2Tpf5RZyMS3i6uV7y2PaIwlNwfi1RuvLVsg0z9BwkmWWQikrfteiG1lgdyKCrdw54wRpHaOikNRp6hjoIylJ96U1PPzpWDLxIsDh5Y1eflDnph1KBexXrDIyEjKK8UfObF5AERP1-1esGRJInwZm-nYV6WB59TmPQhWaAjjZTYIWT_ST33ilQEUVTPzkb5-EkpMv6s4efe7jrnkoIgR-XXfA1",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJ2W-AiOhJyUwRAz_UeydZlAA",
+    "plus_code": {
+      "compound_code": "9WPF+8C Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WPF+8C"
+    },
+    "rating": 5,
+    "reference": "ChIJ2W-AiOhJyUwRAz_UeydZlAA",
+    "reviews": [
+      {
+        "author_name": "Gino Levesque",
+        "author_url": "https://www.google.com/maps/contrib/106269288926508463874/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNqRm-Hil8yQ9W4R8aoAV6hmQPTCPWyui-WBc5zzzMHf2kvA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I work for the city of Pierrefonds and I can only say that it is the best place for asphalt, always extremely hot and beautiful. Bravo!",
+        "time": 1605712339,
+        "translated": true
+      },
+      {
+        "author_name": "Sylvain Cardinal",
+        "author_url": "https://www.google.com/maps/contrib/112700482559411861215/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2vSaPsM1UYQLQMUxMobP2uvCBsiVJPn48LI9LTlzaRmIPHw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Very respectful and responsible company, good quality work.",
+        "time": 1600781395,
+        "translated": true
+      },
+      {
+        "author_name": "Eric Gagnon",
+        "author_url": "https://www.google.com/maps/contrib/115238815462409843119/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqlpaGI22fN9LNN9im0Mk7li6YF2VcLAniU9XSckrzRS3XfrW7=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Alright",
+        "time": 1590756303,
+        "translated": true
+      },
+      {
+        "author_name": "Marc Beaumier",
+        "author_url": "https://www.google.com/maps/contrib/104134426485190062829/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK38Ij8WZ6TLvB_2ImSq3pWi24cJcKAdLFx9pUINEdTJ9Irow=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Very good company",
+        "time": 1600957195,
+        "translated": true
+      },
+      {
+        "author_name": "Claude Pratte",
+        "author_url": "https://www.google.com/maps/contrib/115222048069792951009/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_dId3a4Ne_qw9h5X78-v-0L1r2sATzKVeafyYsoAIm9xqOb3q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1601993553,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=41756322669281027",
+    "user_ratings_total": 7,
+    "utc_offset": -300,
+    "vicinity": "3030 Rue du Plateau, Vaudreuil-Dorion"
+  }
+}

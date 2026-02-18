@@ -1,0 +1,421 @@
+{
+  "query": "Espace Famille, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339912.2591171,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3150",
+        "short_name": "3150",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8W5",
+        "short_name": "J7V 8W5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3150 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8W5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "3150 Bd de la Gare, Vaudreuil-Dorion, QC J7V 8W5, Canada",
+    "formatted_phone_number": "(450) 455-0392",
+    "geometry": {
+      "location": {
+        "lat": 45.4033037,
+        "lng": -74.0488774
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4046195802915,
+          "lng": -74.0475116197085
+        },
+        "southwest": {
+          "lat": 45.4019216197085,
+          "lng": -74.05020958029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-0392",
+    "name": "Espace Famille",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWwTArTBkUA84vAh2GvtHxUzGBNqpyiR5796M_QFg-WKkZzS3EmBmFecemQ-VU1m_S8oKH9mQjyI9Qq8Ci-aKYn8reJS1LvtddaY906s5G4490yQYfLRswAP8JZjT27vKrk6LWiC0cDpa0Nd1Wp_ZPh77nUmsLqwEqS_1M0FXMivpJKVeVddz8bOuEM6EUUmk5QdG5aRi3qMIfZ2qnMuAvQgvr_IQdqTlDQArxcGBLWJkw5RpBcxH2b8dojWXwxhbRxwN-BY2Vf4X-zX1gY2fuHOVIQ088UpTudgBv4cSNpf69trVVSX6kmdWAfOEOdt0S6eKYvQmH_Tv0XNWwb__uTpuh8jrmjIwAT7PutDHJmfSxTTOEdNtbBEiOBT6eIdD36htz34KU5R07zTn-kujUcptlc-p4_SBlMrhcvMb8XCVL03-lDrUEeUIakDrZo",
+        "width": 3024
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101940074465101941044\">Sa Joee</a>"
+        ],
+        "photo_reference": "ATCDNfXtPMkGYlg5PQ5XHgbCFG8ZMaUbNLHlw059POO6IAN6nU8ETLnYQCpRqt6WQm5WbwTkQ6XrIiX0h7k4MQrlRLL3384Hd7c9ZJhmpUaIOt4oiEKSHEyXNhLyoXIAzZ8ZUm601vxnQ4W4TW81aT_i3V0ebdE225d9UnQtIgKXMJLPz9EafFbTV2wTs7ZbCef4zf_oDrQ2i6umVMdbOMqL0pjGyxuRPJC73HfxLyhErfH8v_D24TbFI8H1R5vyHjJopEIxfmkNZ_r5sIWg86D-cwHi_xXYCMBh1sgY55HPmNp62D9gcep2oR15Ge9sBLNfkSxi3g5fzOaJi13hICB_4lFxQqNQdGpgu_hNmfSaeNPtGLEFhzzKfPIQUZmQyWCDdvdS1SkInMXjwjtdFW0mk6nQW1uzv_KNKAxInnVjmA0dF8M",
+        "width": 4032
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106048760777539240570\">Diego Andres Galeano Florez</a>"
+        ],
+        "photo_reference": "ATCDNfU1x76AuNHvZbUTPRs5cyvxq7sNDnPkUPnapYg3gxzpG91X-RE5pYfgCM-45nvenA7QGKHE-EdJEdkBtXrqqvSSBbZnfUZ9uollDn8UtlyJduW2DWUeoaCOwfEgfscFcd1VDs5phYaAnDtplC5DEwhh7I547mDu_fTfXZCTL19q2EUotxp3VlsBl6XHyMqvYnfgwOH_k6n3dxvHmm6b6g21pr1CBpN_JinSRALfjubYQlKDx8PsoIJ7TvWuU4eLc4zEWvtYQ8_vE8BqzwYgK3OjxDx38rFxSo53rFHJrdQnkNi9Pct_sIQcpV691gl-Jn4IJSHT8T3uoxuyqKCny4zNAqMPKD9Q5Q7Z_eQCZpuPk3yMfdQRDddaBEweJjJ_X2c6WDbCFO83S--C_lic4T2IsFxmu_ntpRWxXCAVTRHd4w",
+        "width": 2700
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108036912491902541542\">Z DHK</a>"
+        ],
+        "photo_reference": "ATCDNfVtBpuy4l031I2sFbi6TUfYpAHaWPE0_r6RdXAmMQAA2fwDhgRfbIADvTtvhrbKBsAR888TT3iE-tEB4B1IjqM2SWq-BSxUaycOvHFUaGGQSGCmk9qCXAByqFDFWFoB2reutkS_gOM_PWEvv0UwOzZ1bmue5N6PlcQTeeZRcdtSDQGNSTPm9M6bFVfd2Bn7Zyd6QOMZETpYPpxCLWFnGPWh1IOT_a7qhdeCjCk4aKbjKZPb4vaiNmxABsAAcJLqeqRhDLVg8cxGhmNH_FLKHr7Lw_nTi5yrFKqijWdaVeD52yBpkZMzR8sAqdWKZz06vDajTLfvQkD_8dN8VTGbs20Cj6-GR0T_pbOMFjCnbbpWrVW_kRbePqRXEiCLoBaVUZ3lMK-WK4LMOKRpZyK-mKyJkonz1yMsx3ctp9bUtPksGvsC",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106048760777539240570\">Diego Andres Galeano Florez</a>"
+        ],
+        "photo_reference": "ATCDNfUvlAu2JxKv2aKaXsFoCsT_jRF7j1NtqbE8lw8ua6ZH9UT5DG55Tktmo9SnDQPr40p5nQ3pQN-J2wqEVCh2vfTGLSHvEZ-TB49o3N3dXemdCV0UuS7ZbLI91PMKerTp421zzrJ5OVOYTSSLPfsDo3MiTNkPpig6rIpue_0DM7oPYJdbIeCVCwMszTVoNgVqHjZJoPJu6PwbKGe2W6VAetXGcHWjP4JgjM9nthCKBGhxRsPBTqE52-Eln5vC3foVrnVQWo7OUMxS39oPEhey-l0XtfbisNbM1HywZwv8eSIy6qUECysOQwA7qyRP_WRnNLaUKcPt57rR5alqJGJmRrgG0z_RvcB8Z--49TJmL9xf07mgU-JmBoPZpaP0h5dh574eau0ygscIWN7nh-FUcycw6VkdfXfyIhUUGIvPk1mebcYq",
+        "width": 2700
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108036912491902541542\">Z DHK</a>"
+        ],
+        "photo_reference": "ATCDNfV9xj7IYBfaDTjpPduNHkzAo_VESlbE_auapoYYu8gKdnAEi4YnrH-eh5CTiplTb0cLVpdIz1j0-QTcTAGXaUySuM8GCkaqx6-AyhjEYRLShJzyXpCCkSGnlDqtdwxsJhyS9aBsyfdq-3h042Oz85LevHrYfW447RqzD3DkIm_KSLyTD2-4OPQEVbtMpYFPR9b-DLQmxljd6Zgs3xul_I0cj50DixVmaEzb6zI_LmA200iZHiKy2Sp9Z2ZbDkDOgSH6EOHOlaCn1jR-MsmeAOSojlYSnrJDNSSfMs-NqLhXOfMqBLdbcuTgP5RMgQIp6_dAwg_PXgvbWYfXIMTVY7q2QeQGoFn7tF9uDZc22GhhN9dJWwSsouqQ2r4lHSbHoREyAtgcC9sF6kaTIGWYab-82tmaACdJ51sZxssL0-lNmg",
+        "width": 4032
+      },
+      {
+        "height": 2615,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105585517353433059593\">Keep Life Simple Allan</a>"
+        ],
+        "photo_reference": "ATCDNfWoZQ3F4I9e0kBG4e50bwkeh_Sl429B51zsiepg03bG4ZBKGmSFa3B-7rD3RkbdRSRwnW4rwPlubHkUI7xozjnjtUO2RiiwfiL607UcheCd8yg7Ssp8loepViEiUPKugU2To3OoGX4VtSx-Twg3WOoRCjbjcZEw4ErjFJx1unKW3PrEzQJHTjr6FmgtF2FrxhUPANLTyRx2UHGxij7fJO0PNCLhj5lp7zSowry_q2qNScIpgCoRzmo8lZOijAGyBeWxVfBWtaltO8U1DwCTB3tTu9Zm9dtHtbKgbxnPuJsrw3uo879VtwFUclpVJqlD_OONds8Ph4SdL5irvc9E49Ho5nVcPCoBLntXu0XeZIBDwH4onaitzQhK8XObg6X7djH1inaSR1-7Lx-BjlO38ZrfZH5iuDHZHbdAfs3-O0JXmQ",
+        "width": 2061
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfW3w6tapTceKDIGHFAGU37msoATtnFjG3N2W-LO1xbDqezY36gav3N1Jv46igYvEXQ_6lxXVYFsVXyGj_5UplOzePirjwK4YH9XHSqvUU_4mafW3X1WfUhxNfU9cjDWbgzFLLNqXZAfaOUEGqe8tWLCaq8VbcbA07UeFOW88kkkl4DTXOqtW5GwQkERHkBIwE3AapeWrIUKVNYGQkByKjdUIpDJRnKy6sQVjQf7z2mU_hZYIxK04ekKbDx0Cl0i4K2uBD40lWlvey7taKTEytyXSmTNIhUiCEeeO1nOCBMNxMQX-TaoVf4-CoaaqD7z3RXupfPG88ERBqnSCLikQAg3PSMJVwhIMlPNT5c8sJ09nCxpGVTgDi0sl4q0o6uiX00wEAMwW5ouja8UObleUmu08hkhPrjffkhrEizTQzZYPTnB",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJhxRZtc03yUwRcE7_AiQG_RU",
+    "plus_code": {
+      "compound_code": "CX32+8C Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX32+8C"
+    },
+    "rating": 4.4,
+    "reference": "ChIJhxRZtc03yUwRcE7_AiQG_RU",
+    "reviews": [
+      {
+        "author_name": "Mega Bear",
+        "author_url": "https://www.google.com/maps/contrib/113531208738365574780/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBRLxQPjD0nbYd0WmOKhwbJvHBfmChCre-Wdp56XjTrQKZxG8=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very convenient place to stop for a short break or to feed a baby or use the washroom. There are changing rooms for the children that their father or mother may require that type of space to get the deed done. The person working there was very welcoming and pleasant when giving any information that you need for that shopping strip mall. This family area is always clean every time I have had to use it. It shows that Harden is thinking of the convenience of the shoppers that stop by to buy. It is located near the store, La Vie en Rose.  Thank you. It is appreciated.",
+        "time": 1699556699,
+        "translated": false
+      },
+      {
+        "author_name": "Diego Andres Galeano Florez",
+        "author_url": "https://www.google.com/maps/contrib/106048760777539240570/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhFtoNUwWSnurGG4Qhz5B2DlK9l1Qij7-tVpqQVbPZFSm1MMY=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Great space when you need to take a brake in your shopping day or when you need to change dippers to yours kids.",
+        "time": 1557309112,
+        "translated": false
+      },
+      {
+        "author_name": "Eric Blair",
+        "author_url": "https://www.google.com/maps/contrib/118096829909210081568/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUOiE8tPfkJ2MQcecJnX2Cp4tC641tQYCaHavfuX-i_F-yCA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Not a great experience!! My wife was shopping so I decided to go feed our 6 month old daughter and they refused to let me feed her there because I wasn't breastfeeding! Shame that if you're a dad by yourself for the day you have no place to go! Sitting in my vehicle now feeding my daughter, thanks for nothing!!!",
+        "time": 1761221957,
+        "translated": false
+      },
+      {
+        "author_name": "Natasha Maltais",
+        "author_url": "https://www.google.com/maps/contrib/104518745551820143561/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV84RKIkUMPYZwDxii6IEBuofwxRYW1djFghrMJnp_wvTLPsjn3=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Last friday (01/24/2020) my car was stuck in the parking lot and a kind employee named Gloria helped me call a towing truck. I was so grateful the service here is impeccable and the staff is helpful and incredibly friendly.",
+        "time": 1580575229,
+        "translated": false
+      },
+      {
+        "author_name": "Goodtime",
+        "author_url": "https://www.google.com/maps/contrib/106759412726052318006/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7DaXHwnfIOAmS_CYbZpitKvC66K4bnPRQl_k1cbHv2wiQLDrl=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Gloria, the woman who works at the front desk was super sweet, my friends and I came inside and she offered us an amazing service and made our day! Thank you!",
+        "time": 1653594862,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1584429395643158128",
+    "user_ratings_total": 8,
+    "utc_offset": -300,
+    "vicinity": "146, 3150 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "https://lesavenuesvaudreuil.com/espace-info/espace-famille/",
+    "wheelchair_accessible_entrance": true
+  }
+}

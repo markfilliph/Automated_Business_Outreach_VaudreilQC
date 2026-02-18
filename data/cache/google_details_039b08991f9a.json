@@ -1,0 +1,426 @@
+{
+  "query": "KariSpa, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340307.6279309,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "local 130",
+        "short_name": "local 130",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "190",
+        "short_name": "190",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3V1",
+        "short_name": "J7V 3V1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">190 Rue Joseph-Carrier local 130</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3V1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "190 Rue Joseph-Carrier local 130, Vaudreuil-Dorion, QC J7V 3V1, Canada",
+    "formatted_phone_number": "(450) 218-7662",
+    "geometry": {
+      "location": {
+        "lat": 45.4093497,
+        "lng": -74.0451278
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4105086802915,
+          "lng": -74.04359091970849
+        },
+        "southwest": {
+          "lat": 45.4078107197085,
+          "lng": -74.0462888802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-7662",
+    "name": "KariSpa",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102882533588881323011\">KariSpa - Soins, beauté &amp; podologie</a>"
+        ],
+        "photo_reference": "ATCDNfULoXXE6WPCyk9Xf2U8R2NeHhlRCmY9DZo6igxXKRqeHTAvLAxcrAm4-xyPMRPF9PZJavopzMi2RQ9tcX2pNDXR2cKuCT4o3HL7_3m_nLKIGDpqDAQTO3yoiBPflFHToxTOIjRr5hS-YEhvy1uZsXdcuRbNv4xQX-rRxiFe_avHK_hnp0NDCDrZEaJbUoUWFoPejZja20M3mpacLygDiU1CrdHR-s6LEIb4IHca9OAPLu8WKK-wQ8LjPXCsEpUP9guB8B4cJKgzeLoHtWvAaMljbGKTAsT5lGDaiUdcq6RRIw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102882533588881323011\">KariSpa - Soins, beauté &amp; podologie</a>"
+        ],
+        "photo_reference": "ATCDNfXUXEzbejf_JuvkLEylSGtxDUurdwe1OIF7KBecs54Z1h16w0iR4DmVZcp08c1T-2CeeKUMZAr5rquVUoSAkLVWuZtaOMCYDUSKFLztFEd2rXSPr1UgVTpkUH2-pdhM32f4CA6Dg7SMY8VsCTdMmmf7yxgzaaTpmvCgorFz_xpL1yUebmlrdvCPP8IKOJaTPYYC-EW0Gw6BlLUPBydSfjFQuvyv56wm6_DCDp5FL5hf75IaKFvZjpZyewPMC95quKiqWWtJnB8aoq5SeWcXLXst1Q0Y2PciB5yAyf4tSOJ0kg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102882533588881323011\">KariSpa - Soins, beauté &amp; podologie</a>"
+        ],
+        "photo_reference": "ATCDNfUn8pLqPAQXdLN-qSGKkSY9r2fghNkvGyFRNRjU4OltomiN6O2egSBfCA2KMxKVB_CVXeOCEV2jvtvbaFd9CsR1PswRpQUCwnRpreV1RaM0eXBHjRxphn0NaANELl8ctrPn4_Kw4kwnOtZEptHhHByJJ7fHLXBVPpVMnB666TQ-k-tXKuen8SCHPSA5g5DfOllrB5OqMXgsrJ_vlF3umA2W6azvybNiuC7MV7JkTxDQXHHc-xxuKvduBlfVHCRgEuTwYm6jZwfQYx6j4YNBC8jchZu0Sj-xTzcHHrH0jX7rFA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102882533588881323011\">KariSpa - Soins, beauté &amp; podologie</a>"
+        ],
+        "photo_reference": "ATCDNfWhWBQpJ-ArJjNAzrif4hn-44nFQC2arj-B8josTDp01nm36TVtXEekNL0NkS3G2PmAMtIS7ZPSSt9necf0UbfBdagG_x0ntp3XnHrOgKA3sdqRb27Kl10j2dx7sfuKfJkUWtkW68Z-SVN_kzPDGtZHj9Q1Gw8xIsSEkYXa-O59N16E6d3ImQkg0hywhZypVU_544rExhdWnepp1X0pRavPgO-tAnyS45uGhXs6TPS4vPKufrW2DOyr0U3LzUulefqoA7XxBW6ArtQv_SLDDXAeYEitQDPnr0koqwP5CFRjmw",
+        "width": 3024
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102882533588881323011\">KariSpa - Soins, beauté &amp; podologie</a>"
+        ],
+        "photo_reference": "ATCDNfUKZcy6mK7-dxl-GE_FyXG0sIiPSEN0Gm1JCN0H1Twu9laIXXidr-vqpJvAdB4z-7ey3pqGk7ol_4xdjTZ_V5m10RJU1afuKekEDNhhGfb8vc1DbNprBlQxo9nwtaeanRgUl8dLPMPq6ppF2dEEQGzCvOqjVaIvtz7nIbewAV2HqBqz8_X44AGGd39voi1bjcWb4LMGdhF4m21BwDmrvvFTr9ugCOvT2vDjYXy7IGAVD1IsWydsCthA_nNQTFYfsdE9IZw_hsLmzPV5eFUbLeGIugYD-L627ARzSlz8xPbmlQ",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102882533588881323011\">KariSpa - Soins, beauté &amp; podologie</a>"
+        ],
+        "photo_reference": "ATCDNfUrOWY9a1H7OyX9JVuHFyp1cLhbbT3AqAZJc9nxCM_q8r8PbyRpRwpJHDHRmH9VKdgjvavdy047sPVcZ1mmAONTBuhjP4z4w5n0k9Icudwe_5wCAvdkUpMkGwQGHoMuakf0KM_03g6ZVQu7HxJMmz1Rv-cuKejKK9ZbwQIvFtniYj5WRUzYSdzeRf_q3jXXhm2EmCIXciepea5Z5Eq-VjduKCzPQ_WpqiwDyDIBYsqiMUDwmcbPhrHMUTVM_5eONbLx1e5O-7kmmLF6WePD0TcSayv3C1acKxgY_VepmxRG4Q",
+        "width": 1500
+      },
+      {
+        "height": 2040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102882533588881323011\">KariSpa - Soins, beauté &amp; podologie</a>"
+        ],
+        "photo_reference": "ATCDNfVRdzCxDLzKxlzpZfxY2kmvOkqfDWcRA55iMXUKhGqpV8Dxk-rTwM6TA4lBdEa95qmBOmhTVKbgUHaL5aiQgycCVUWREJgBFSNXeg-ZcHUUmXDJHq_BMS7EsJu3LKd2W2g5N4RpidLwKOXRpbCvU8pwyQma3rayj99iWjgy1j5nWn2xLuyzQaP-9iZrZFBESe0orfZMmXU2UnNZSwk99NOSIG36_gMwjjYVJOuqgR7kYYidKiKBQAnIPN_8Eiw4AGIno-WYrTmITZK2uOOAgx-VZF2i-A4TM86tdYRrd1mNuw",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114182569811628296688\">Geneviève Beland</a>"
+        ],
+        "photo_reference": "ATCDNfXNHgVVAknY7sklCW5HjsM0AboyC9WP5RlimyC8hmoLPFVSMZ4L_niichq-1j2RC6WyCa5EQM-nj2z4tNmGIstmgjTIskmmskGsgsT_kZKoowXhjNVLZiFhNAR_adUPpEtBgjGjDuF-aKZANKJCOnCGOI1H7RAJcu88EWt3WmvHAlAMQYBWSW0wr9jI_mSqr3VJlq1YmlXeHDA71U97bSv9Pxavp8GgYyNRq702qdUbZ8rv-wyfU_ehqpW8iHmcLVbHdy1pHACmc5iq2oiiltf3pDBR2sanfPiSjdzOQyX8UiMC7XP0qhfIaOLQs_Lov2wj212fMQU-M7lvDnwxS0BNmHoHuGs3LKBzjo1_wxzVLsAhmzUdnHNoahVmAdc60Iy9jOXUf8qS8vIRhIoSDbLz0p0fUFVcwsNOV4JoRSVqcGlX",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110911028189048360746\">Lisa Gigonnet</a>"
+        ],
+        "photo_reference": "ATCDNfUnNLEO0SgsbbT82YbN2pEg4IKmZM_Ay3L1Gv16ep4QYIUyyHTQ7_pAaXS5H_UPEpztyfayxEwm3m4x9qchx_tdGqmQGkdTGo8Mru2i1YcVTPHKPh__5b9qAy98a1yzOq5rGtkV0x-LwUob1JlsWqJGj0E4BUShRLRMio0cKBMpx-gYuYMP1p5OUh37z_g_DpLAUTM7t1auYYCy7tkNgp5vwYhOrfRIbKza1lv32C2SXrIMcoc0gH-5Nsla6caCw9tywy49eyj3Xu8NiCE1rMe_gVRU2cDtoTsujBEUEUSp7jbLHpUiKG8FJS6CqF9SaSiVlw9UNnhZC1sayY84uhSzSaQPoJy9fbeJzDwDZRAjYevhHjEOHMJnX4m6FENHIefLKXdpcCARft4FzKxcNQO3dZn25PzfrxUdMSbTLoM8Ag",
+        "width": 1152
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110911028189048360746\">Lisa Gigonnet</a>"
+        ],
+        "photo_reference": "ATCDNfVTrhH1CsY1tmUOLTlc3u643MfvrOxHHw-gMPQnX9u-Adq5ZPsvp1gFKrLpdoZqME3ypQFG2FXP5LIhqldO_lN3CK0BOm-m5uHTnOr5szUlcyAOGeMRw5tUzomZWN8qXwWtSNmhnqETch-TMDGb5Sty7SQo14zdaaIGKfAPFDdsb3toA8lchrBmhtSCxrawaQa2QLzxMh-rFvpsOPRjULfPxXmYRItn5RlM8opw9EC1CVQcwmPWBaSPlIK35tdGtVvTxR6lazBKntbmTbF0uqaok1Er32RMd_FoFK1znqZB2OLTKP_NuznK6ujtpgNdUc1lcfmVZNgv8pRl2eovjdUJvDNbFE3RDz9-KuhwJQWrBa3j7UVEc9EpWHcQ_fNPTbi-segLCl2C1snvOjXL4jd9blAPSaTXz0oRPl_6NcA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJLwmBknk5yUwRdCi3B1glJwU",
+    "plus_code": {
+      "compound_code": "CX53+PW Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX53+PW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJLwmBknk5yUwRdCi3B1glJwU",
+    "reviews": [
+      {
+        "author_name": "Kailin Hay",
+        "author_url": "https://www.google.com/maps/contrib/115578313751576944481/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvBEfgbXby5cprDFX7CcmB1ZaIvtAi4QJMCrKOqgl_Q-3cSJdO=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Got a last minute microdermabrasion facial and two days later my skin is still so soft, pores are smaller and my acne has almost disappeared!",
+        "time": 1767026667,
+        "translated": false
+      },
+      {
+        "author_name": "Audrey Felx",
+        "author_url": "https://www.google.com/maps/contrib/114215627156643023163/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAJQk47p8yJnjPBS3UOjszZliJx5tcFcxfxny0n6i8FzB8WA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Had an amazing experience at Kari Spa! The environment is so welcoming and cozy and the girls there know their stuff! Couldn't recommand enough!",
+        "time": 1702502738,
+        "translated": false
+      },
+      {
+        "author_name": "Joe Pat",
+        "author_url": "https://www.google.com/maps/contrib/114253684024665266657/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbU1bCXcjYz-f3BzEO3XYLDMXgIVbARz_FYoaDfcxAhvVkHw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "Massage was very good. But I paid for 90 minutes and it only lasted 75 minutes. Disappointing",
+        "time": 1685010056,
+        "translated": false
+      },
+      {
+        "author_name": "Laurie-Anne Ranger",
+        "author_url": "https://www.google.com/maps/contrib/108830555804450245371/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWH_Nk_W1NyCkKI0IXhPbkw98twuBXOu8MqJF2RclIQIVNmfTw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Went for a pedicure and a week later a manicure and enjoyed both experiences. Will return.",
+        "time": 1668794950,
+        "translated": false
+      },
+      {
+        "author_name": "Beatriz Corona Vecchionacce",
+        "author_url": "https://www.google.com/maps/contrib/104021849374602552022/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF4n8FluBc3DL8FrwTBS-lak1D3Z9WqfwDqzTh4bw5whN1Q5oW=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Today I had a relaxing massage with Delphine, it was wonderful, I recommend her 100%",
+        "time": 1665197194,
+        "translated": false
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "spa",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=371306554298148980",
+    "user_ratings_total": 35,
+    "utc_offset": -300,
+    "vicinity": "190 Rue Joseph-Carrier local 130, Vaudreuil-Dorion",
+    "website": "http://www.karispa.ca/"
+  }
+}

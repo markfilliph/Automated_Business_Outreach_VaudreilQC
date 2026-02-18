@@ -1,0 +1,392 @@
+{
+  "query": "Pure Treats Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340082.4210813,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "373",
+        "short_name": "373",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">373 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "373 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 424-1110",
+    "geometry": {
+      "location": {
+        "lat": 45.4053028,
+        "lng": -74.0523759
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40668773029149,
+          "lng": -74.0510630697085
+        },
+        "southwest": {
+          "lat": 45.4039897697085,
+          "lng": -74.05376103029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-424-1110",
+    "name": "Pure Treats Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3204,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUvMUTGn5jM1PRtODy2nkoWtsaJnAZ-61UZrxYc-mFnznPg__xVIpfQsRaar6QMqXQXhGkNhBbqFiYrteZfzdsgXhSfAq_uc2xO0qwfGQvMK20LaOVuPpLJM55NDHC1pi15CQfyS0XHMbuHjt5okZ26YRyPfs36WuZXjb803ZzECrr7n42MXBXr4i535vfaYfHWJOb1aliN_MNjQn8PtzDQa68AGzCyUTDhS8JkRMYd2rQ2wT0VhFIYxPnf9-2jF8YbV42KXI9lpZfYmveKKdIHYNr5zW0eyae0qi3wW4qFZg",
+        "width": 4800
+      },
+      {
+        "height": 2254,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUDb4JyKFdLz6fZnsZLRn0IbSorQ3Xf_y6cRjjRTSMQJBChpHLHhG4qCNAxjH5FDYMETznrrKS1829zWPIg3H_lE9Zn2s99VCS8db9EqWjfxocSxDMz8TB-G_73C0KkoA_Yn58Raw2Xp6d3tNHXeJO2HAffaDCRR-ha-TmVM8o5K8glTdfJbSLLVq-5VqwwNypIv_AfR-tP4NQ8qx8-Dh83ro2vgrlmHIkVF_qJaaz1NmzyEhBI7R4i5ZCwOwZXF82occ2NgA_AsgQ8yEhQNUXy827zh67IFwE__-MaAnVYUw",
+        "width": 2254
+      },
+      {
+        "height": 2292,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfV0ZdgPfpyofil2nWMTBXSBz0XaiJGHVWhHkyYagyLbDwtZGXuI7sGx2kfwujj6MwsqQXC5Lkdp1SVI5qcHZePnOij-bQdujx3qWQjc9PKlQCU-nYePpPHGc2LsJFEZkGULgztdaHVxxDUYOHT-merMW9a1GRAJ2NfMTfiuCLmsJO6fN9xxZSCF9d2op4oG4HXgM98orvFQ6_Qy5S7tBq9QMk1DnZtlfLpAd4ZQ0zZkIFJkDgBmTdCl983w4nQv0I4Qxm4eQA9I_eJtZpvrg9M9XcvNpR4tnSK16FrLMbUArw",
+        "width": 2292
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVHgPL1b9h7ilPTfziTU_Ko5QBcGfKA3PzovqAB3tvEGoRjynAKw2ifyRX77biUlu-jupP6ipMQSgC4qMwfVEjZEr2DmY3R72_tt9c96pQYvXqyZKCKE2ttUKe1LrNr5In_oEyECQMFHYppKHT31O97DKiAkFKmlz1y9-cv1wRlR2rquD9nPy8ZslmKKY5plm43wI7iS_w_ZC6SIryoPFOfAMdxh4barGITUIMbNd9_eKMwGfJ9UhMS9bRv4be3ye_cwzs3RJw9YjLVG2Cr-ayFsdOWqE6BNZQY1uwC6MNEiQ",
+        "width": 2400
+      },
+      {
+        "height": 1900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXSFodYKFdpiO_UP-CyzHKchkj2CPm5TFm3rJyl8voveeH-l1Rl3Gbryai93YbnG_-qjbT5yEFzXmWgyYnbNWhnPeIxv9dCYTl_00CrKqnx4dDAdQgHaWqcbeR4-lL-w9Pp-L3r2XmuQ3oipa2QjypxDDJhWv0wddVFl0v0eUtHixICmd5ewYDMq45MfgYbRhAtS6XrCUrOysX0yucmIn0YmWM0WL0MkKEi4xixRr5K0lT4K62w9HO4gxmY-gPf_8PnVZTprfpoXYdp_uCRPK1CMrP4JsKK6Hiym51jf7Cl8g",
+        "width": 1520
+      },
+      {
+        "height": 3011,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUVgk1jWD7gA6AXj2JRD9c5pDf7adxvO-MKaQP7OdOju00bgZBB5tcWS7ZYCtsQ96HaEZOWQR2GTlShMjFhF-hhgro5R53797gRLSSf8xZUmbfL8j3OVFLD1ECQiE_FPzoubA4_V72bCzdtYtZXUIMsqVw519Xzh1wJ5-UD0Je1ZulFDl_dlLiNtlKB4Cy3qGlMFKT7Pd4eDSnMJYNotZla8NVozQ7T8NWhpujf3HLao5RIqZtPx2738fvrB2wH1qm-vpVuRR-UU1f6oBbfWy3uiSJXsFP2iSM3WkKUhwL_YA",
+        "width": 4510
+      },
+      {
+        "height": 2671,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUMrvjxYgv3Gn_ZCKvV2_7KM9Axv2QFjx7u7hoLaN6S2EblUhwDFm1TUCwXlb2pXNHnHTZGt5ACUUpvvTEM-8690CcGqacOxc1sHAPbwoJ1IgGBqD5BqPUsnbbpvnZQo5ZCA9lGBCejkynjrEHLMqyvxbqx4GTooFtnasmLWAFnbOGc8r61gA6RuTKqaPeGmBoWGVDFmlgjd9aHx9320b2SdUlhKUwLtjwEJk7JSAIW8T8nI5NbQZiWZ8-URDuzkX4oMK7__MhjPmkShvw-Ja2qlJVGl3S7h0Kx2kNBu9U7CA",
+        "width": 4001
+      },
+      {
+        "height": 1350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUYiAJNQ2xBJkZibESU8WRzQM055YMRLQNKi6W2DHOm9b9_xKoXeUmbBqy0QrTdoNUDMcBIepN6CFkRkZi_wRzTv8Iqm3cJrpUvBB_xgMjB14j9uKQQZSf29omsozCUpAMpIOZmmlJiReFvTxgZL3OXob9JRyVsz8iTyj8joh1dFYA4DcDWl6aZLlAM5tZzBxrUavZuVjCXATyzcWw0eMrLYiKi3tv_109KXCSegTC-vPAqRo_TND5CrKhD5yn-PZV_dkCJNRDqcCEOj7ajXdVTg42vq-PIVmjIOULtbUzVxQ",
+        "width": 1080
+      },
+      {
+        "height": 3247,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUMUYLQW4_J-AylaShW4li1JsdqVzT4TIJ3o6Jj7QGjgP8ennFeLAFq8TSh4DwpEmjXrNt6TbFwzMwa8jZVEhrb8PZNqkyUoQ7SRxoN6tlryWw6E3RcPxt8iCrlZTYcvd68q_hAbEr7v2bRLTks59Ry6YoCIIRFpZLbynhjGgbeJKLxilYbWQh_NOj5r-UJcCOH8QNqhYmGt90dyxGJ-gIC6LCApc5wQuviiI4KYdHD_y42NAJt_rS6OqYdVRTn2dSrc3DEZdZFlRF4QK3EsN10Vz_hUK4T7cpQbpvMH_wb_Q",
+        "width": 4800
+      },
+      {
+        "height": 4683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116776298454307127052\">Pure Treats Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfUKWCi_ORoeHB7WmbhrutDTfFsD5kD0x3BijdylRHAN3uak-BLKDs-Io82ZvFDR1G585es3cDwtQgzRP5MS9XGvWjkWBUPsC6tGn97j8uXvrVTeQamGcQjUAzbi1PMB5QMOhvw1JNWXDgJbN3gb1mhcamZPQ3xreZ2vnKTcyYvVKgPFheMOOBirwmrP0o0eyOI16vMKIAMvMB6tcdrk0ONDPmSvsoFUfEK6O-51ziEtEoAfc1cCApmNv5VSvOMYD3agD8gSZ9CqNFjrF8gvhvFZdLzy37gWQCol2SlmaRPs-A",
+        "width": 3786
+      }
+    ],
+    "place_id": "ChIJwSc7ujs2yUwRIk9KQ4qe0KY",
+    "plus_code": {
+      "compound_code": "CW4X+42 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW4X+42"
+    },
+    "rating": 3.7,
+    "reference": "ChIJwSc7ujs2yUwRIk9KQ4qe0KY",
+    "reviews": [
+      {
+        "author_name": "Anthony Iantosca",
+        "author_url": "https://www.google.com/maps/contrib/115998186970217842944/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZOzVWrWZdWaocF6o9GCBh0Hn61GtF4KFVHrwQmRN1LeVekw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Poor products and even worse customer service. Freeze dried chicken is full of hard, sharp pieces, some bags weren't processed properly and were still wet, stunk like fish when opened. Contacted the company and they refuse to offer a refund or replace the defective product, even though they offer a guarantee. I have the leftover products, bags, and proof of purchase but they still turn their back. Great way to operate a business.",
+        "time": 1681695771,
+        "translated": false
+      },
+      {
+        "author_name": "Kellieanne",
+        "author_url": "https://www.google.com/maps/contrib/105136103348107497893/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXGEGoN3xibQgJz5lMvDarD_kriHSIZy2N2XrMWqO3p79PUA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "If I could give -0 reviews - I would.\nI have been buying this product for years, during covid the quality took a hit occasionally here and there but taking the 100$ bag back to the store or exchanging it went from once in a blue moon to literally every other bag, if not more.\nThe product is either one of the following:\nWet, mouldy, deathly sharp, dangerously smelly like fish or discolored. Our F1 savannahs will not eat the \"off\" bags but will gladly devour a good one. The store we purchase from is sending back bags without even putting them on the shelf.\nThis week was the final straw when a sharp shard of what seemed to be bone got lodged under the cats gum line and was almost a vet trip to retrieve.\n\nYou would think that a product so expensive would have better customer service but their \"cooperation\"is abhorrent. We have asked them to address the quality control for over a year now. Disgusting the way they brush off the health of animals just to profit.",
+        "time": 1691169700,
+        "translated": false
+      },
+      {
+        "author_name": "Bear Minator",
+        "author_url": "https://www.google.com/maps/contrib/108635630476086335297/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_3VkmahsynYCT-Ba62YdBH8XW37tqWU9XbIaRJyrmlk3NRlEM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "8 years ago",
+        "text": "For $35.00 470g, is a product, not safe for young or small breed of dogs, as the bites have a tape attached to them, some of them, not all.\nYour dog, might experience choking coughing, breaking them into small pieces is easier to swallow and safer for your pets.",
+        "time": 1503187803,
+        "translated": false
+      },
+      {
+        "author_name": "Alexander Lessard",
+        "author_url": "https://www.google.com/maps/contrib/116250905850317658311/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPODoZdRxdhsU7U4tg1jIWtBRId9eSQDH8PLiV4CFN2Fm17g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Best treats on the market 1-2 ingredients only. Freeze dried process with many different proteins my cats and dogs love them !",
+        "time": 1506426482,
+        "translated": false
+      },
+      {
+        "author_name": "Simranjit Singh",
+        "author_url": "https://www.google.com/maps/contrib/113103094285479723163/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0IXES82A5S5qoJMj-aOwCeR2EjBTNkHc6iKpfUMwaPR4Y_M9t=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Overnight parking available for driver",
+        "time": 1728052009,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12020281722123472674",
+    "user_ratings_total": 9,
+    "utc_offset": -300,
+    "vicinity": "373 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "http://www.purebites.com/"
+  }
+}

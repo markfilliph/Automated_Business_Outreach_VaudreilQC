@@ -1,0 +1,417 @@
+{
+  "query": "Entreprise SGB, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340685.8440545,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "6164",
+        "short_name": "6164",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Boulay",
+        "short_name": "Rue Boulay",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0K2",
+        "short_name": "J7V 0K2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">6164 Rue Boulay</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0K2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "6164 Rue Boulay, Vaudreuil-Dorion, QC J7V 0K2, Canada",
+    "formatted_phone_number": "(514) 809-4098",
+    "geometry": {
+      "location": {
+        "lat": 45.45437870000001,
+        "lng": -74.21209209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.45571133029151,
+          "lng": -74.21055116970848
+        },
+        "southwest": {
+          "lat": 45.45301336970851,
+          "lng": -74.2132491302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-809-4098",
+    "name": "Entreprise SGB",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2122,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfVHQIYmCQ2xvdot8hHAmNgWcC9RVpMnNmvmfLGF1bDz8ucSK5sWGm8h9CyW2jrvTztn8nobXwZG3liKVh1gVRR-MTlYphw-KRMF-IvpoHk19JwB6gstsglSPoBi2xqmaUmPCFrOQYbpVK_EgnJZhImWZnft-kFpPS1IOIhPRTV5NzccNMVagDECN5_s4TH_2LwE39Mv1wx-4YV994R2b3xDPLZ-4IIf6Bg4psMgNPs2iZQwUYniOfvS5F4WpHxCGh6BobLQAjf1zWWjhitcgz5FlW26L4F_rJQeVsNO7n5JNw",
+        "width": 3773
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfWFC586N2U5Wuaqe13oY4n9yZZk1Xx4XVCWucXNi6a_FIZjZxc_qT-VA3r0T9Wt7-CG6PjSmpN0-QcGF1KFaJyydjQr4C-UYznykVerxa9ZXexJSgpyW7UR3nr0pK6u7M3CZRjStvXKBmU7RvdYKuiRogwoQ4kPcEJLLN0GNwc_y2h1D34XS4gQnqw-Ut-z5J5i_I8DfK8iUODqaDhTUvl8Z8OFI_3hGy9bR9Et0RCMPHd1O7Jbl6RwWYp6rPG1FupWf9gqymybUefz3-x-zzLfizNKaWaqsjmgNDwSH5GmHw",
+        "width": 3024
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfWNitEbyUMV69HeLZGjWErTWyc9N0EMSMkmcMfjTI0hPy8kMjQaQcFAxg34HR8f7HJgnq1rd9svdvp78b1KFzI9R4lkDM_0iF9fvuZIu1WDpbdv1SZZ4OCPEVMYqSacF_3ezBdWSlbK1pS6i8yF9WCEqrCAn1VKFScgyovBRM4BSFvCMl2sPiDzY1nclT4NDO7OxyDkfdZOvf2-XKFYcEWZOiikyMYYugZysUzh-BEj1ElqkNIvMpw4Z-K5qYBJL4FJnTT4roQkLnYY5joSXSwUNeD3PSystoDlkkBxl4lglw",
+        "width": 720
+      },
+      {
+        "height": 478,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfXMWTmqlAJmrL-iPsT8vFYIjLZIEKFDIp4ALDRM2f-PxwX-zP1O5jq_bSA1SVOkPg4uZd6dTFgPyQiJ2wWAI8WFPLnL4CMC_Zzsw5UJnmZiBryBylezevUcwRV4BLyvtzeCz3mo-OwhfbjmztucRJKdzaHE3Qexw_fkFglzBPIWDGyM0XnAgfo2PjE6m51X-m1U1esyFb2XQVNAUX5nG3hika_ZRrE6u8-eCxfo4cpdEGwSPzqWTVAMYzwe7ywiiFhkW2yxnTylLCSQrywAC11WSX5ee_ZBnB4pUIH6EcNVqw",
+        "width": 637
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfVF0_0P1iNltewEgJSGRTK6dVPK5UVZh30hVwA4KYlnZcFSbyovdyQNkKPakj5PNEBQ85hcPshe9xxD76loX3YRxKGeeAmdAzxZ3qHNwGhZ7AcMl27c2_WCuJm-i8my3CpZy1mn7xJtKCNpqXCuqDdnGOsONUvUxkHtN0PEiVPjXCJl1rPfoh-csJOtNweoA0UX79eQGHMydZedVsKiWSZkXxNVivLRDxHoDte5nGAXM87_rwh8WUhopQef5M34X0wdUij_6221lHrL_YRz8GksrcOnv7bSkPxVKNdUYkNE4Q",
+        "width": 720
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfWDTPuatJrE6o4ugwU6eahM72zbwrv7ieGuqqyOlxx28uiWnKNfx_ps9WijMUAUXNCj3akcjEhuJMhamtAc6qux7Wd4lTMtidSPHSRbX8O-Gut4ar_8qTww23ogVI_hCq4IAUS_ZStaxwyGbFPA54pgpcMGvQu1Rdv1r6Fk1udQxa-De4Ug1019qixFjcRWiuelVZSQ5mUmgoMNdb03Kq83Mgllr619TCAYw2LYm2hPOQsp1THisokz5mjRyoIJee5yLUcJkxH5rdKIo0SBLNIJ22jUsd4ECVewm4mRctycNw",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfVLcnbA3xBkwt-jy1__t-bDpwfbV1oIuOygfJoyuSt7pOov2V7F4cgJUoyMenf8pT4OARF5dNkVn60ddWj_S5bOJtWVR4JLDf_l68GMGVNVKHy5AjgWydZd_OeZilRyXsJSVMDkPIu1zgro9uDBiL-ydxWoXY5VXYHUU1PWdo4xdTZxzz8sDP89S0SSR_Nmo6RA_gncfMVFEK7Sw3alNHOG3qPbumu3z5vI0rS9SEBscgaUvvPeB27R7WPkbU9I5d6U7ceHPf5JEQgHW5j-4VdyTFLAiPYj3qvsdLIAkfEW0g",
+        "width": 3264
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfUWb4Ta2dKOxHdEjERfaTv74RaW9nubACwmctaDW4DG83v7zDqy72qB4NdwRvlO3cTivl_PMlYTf_wyYz6Tto4U_st2nXGWFukLDrsmQdRUmmhvtPXU1lNE1biWUkQp-cnuAiMBQhOf9VkNHo9oz-HHWsADRgrakM5c-1reUraFEnRjZ3tMcO4vVaqncQxKdf4WeTfsaevjuLP7gfeJOCbKAXw9bkVRTKEQzNMwDypP7rixorC0eQ1yrfiNnqvXxfTgnlr4aw6oIZFEI4wLXW2UP9m6cYCMMxAa3NwWrIEtwA",
+        "width": 800
+      },
+      {
+        "height": 1936,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfUG56-jllakNErWMq_t86iBCAHu6ISKANO8BciSS0Eq0YN9lSNnMSaWr2ZRq2Rghd38RldRKtLIJBE1DztqZxdWQXQqMNxsf3OPJk0DYBby9t-HdZQYWDndR0KIh1kTp9_8CNtmQy-6Jw2j9ItHUr2N-bnpgdv2r82pb7bDkp313uhfTXZ74NXxDkB7s1ZaiuQjWXtsqQfScypAXjZyTY65kVgJifqpkuzLFcHN6vGvPKvmFA-bK5zRI5wP828y64p_4gB7HWZZMOQixMmfAwMitHiL6LQskqKLmYfu4DohlA",
+        "width": 2592
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115699778043004681238\">Entreprise SGB</a>"
+        ],
+        "photo_reference": "ATCDNfX8EBsDDx7-ZJ4kvR-v3_9ViQKSW6R-fSzBY5mlvBrGK8EGOBsBReVIJo_UPfdjl63YfajIenMUCAoKd-h0D0oxS8LFdNQYExPTkvxYElWBjBb6EQzNFux8IZQkhZLXMPHJmaTvAtopuf44kH8laVTlRvinTgM7Q9rDB-0lmR2zzqakq-isoZK5pwWy0ZVCTGPF1_YiUTeXvz6J154TP6M0Nxcgvv9agXIFGPrYcWlj3-MRkr2u9IXmsFzHTeTz0Ci2JYU1YO6J3Zv_AVfq07eTeqkbaYbnC8_4P6gHA1qWHA",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJh7DH8v3KzkwRad65qKIHtZM",
+    "plus_code": {
+      "compound_code": "FQ3Q+Q5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7FQ3Q+Q5"
+    },
+    "rating": 4.5,
+    "reference": "ChIJh7DH8v3KzkwRad65qKIHtZM",
+    "reviews": [
+      {
+        "author_name": "Sebastien Ferreira",
+        "author_url": "https://www.google.com/maps/contrib/103138450332307507982/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLuUhaQv2-7WzYdblmqkNqHfDfC6eFJebq896oBTqMFJ2DZXc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Absolutely remarkable service! Sylvain and Marie are not only extremely reliable, but they also offer sound advice every step of the way. Their professionalism, availability, and support make all the difference. I recommend them without hesitation to anyone looking for a trustworthy, high-quality service.",
+        "time": 1758932971,
+        "translated": true
+      },
+      {
+        "author_name": "BellLy1 BellLy1",
+        "author_url": "https://www.google.com/maps/contrib/113263115486927385709/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9eImuvboIfMIu1mXIst7Tza0Xykf_anucVDYcW0kRI66MQBVm=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Excellent work is guaranteed when you hire SGB!\nI loved the work SGB did for my home. With their exceptional professionalism and skill, SGB is what you need. You'll never be disappointed with the changes made in your home if SGB helps you achieve your vision.",
+        "time": 1721238244,
+        "translated": true
+      },
+      {
+        "author_name": "Kathleen Mc Donald",
+        "author_url": "https://www.google.com/maps/contrib/100839968517493222065/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBrqoNFisNBKVkxT-PbP7ECr2Sa_ThQDbOcEE-MWBfYh8SDw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "This contractor let us down at the last minute, without a clear explanation and especially without a return call or email. He had asked us for a substantial amount as a deposit, despite the fact that we were good customers who had brought him more than $50,000 in business recently.... Unreliable and unprofessional attitude",
+        "time": 1738790603,
+        "translated": true
+      },
+      {
+        "author_name": "Mathieu Crevier",
+        "author_url": "https://www.google.com/maps/contrib/116502154790725865796/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQTNMfFXsdY-jdqBFPuv6zpAHAVBv78IxZH2AZfwfkfbK51T4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Sylvain and his team do an excellent job. They have been working for us for several years and we are very satisfied.",
+        "time": 1719486506,
+        "translated": true
+      },
+      {
+        "author_name": "Bruno Sirois gagnon",
+        "author_url": "https://www.google.com/maps/contrib/117148115486559360123/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZoDBii2gDHzryfxXFLaYP1lm8V-pBUp8uFpmROqZPwGingQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very professional, extremely meticulous throughout the work.",
+        "time": 1719430987,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=10643421689556885097",
+    "user_ratings_total": 8,
+    "utc_offset": -300,
+    "vicinity": "6164 Rue Boulay, Vaudreuil-Dorion",
+    "website": "https://entreprisesgb.ca/"
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "query": "Stokes, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339655.9908931,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "#400",
+        "short_name": "#400",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3080",
+        "short_name": "3080",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H1",
+        "short_name": "J7V 0H1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3080 Bd de la Gare #400</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "3080 Bd de la Gare #400, Vaudreuil-Dorion, QC J7V 0H1, Canada",
+    "formatted_phone_number": "(438) 792-0972",
+    "geometry": {
+      "location": {
+        "lat": 45.3975604,
+        "lng": -74.0564529
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39883488029149,
+          "lng": -74.0550188197085
+        },
+        "southwest": {
+          "lat": 45.3961369197085,
+          "lng": -74.0577167802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 438-792-0972",
+    "name": "Stokes",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfVQ76F_19UndybjymAkROTI5Ri77U3Yz2zlR2q9uuC9HethPdPgdgyY77N55Y0d4e_-85QOCy6HbE0_XAO1GCkENMZ6Uc8F3vRNgVURayWfTqkblzG8fr6Xp3Ral8MDlds4eoOblwXTIqwAnOhYyRddBQB37GAavl-0Ojr2HJ735ZtlCRN6ZIh1xoWUUpVSkpkUaWJuII3xYuhEhgic-S1onoCt-4UhVmi8WFMS9bwXwydURXqL5rQjtjMkTNw_hyfqB29k0h0jtT5OvcngMrj6dGF1IP4iWEi0bgq4z1utKNMueHFrG-xrdnYWwrj_3pXj7euA28ivdS0PmFp4LFHQdJxl2NIDDZ1FF1PisN5nPGKd5l_w6z56dYbeAdNu3v8nsG7pYavIEDBUTFUYGORSU4Q_yJI_1FMjZXpBl0Mg7g",
+        "width": 3120
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105749280134410023102\">Joshua Mathias</a>"
+        ],
+        "photo_reference": "ATCDNfUM3ttJF_HhpfvEZr7LG_diwBbzvDah4dds1OKF2hsYf_NrS_ujqDqanAgydC5Lur11aZMXF0FJshrg4kfcsVvbbTCOITklGVLvCKYrPGlT6MRZsEcGxD_MEJ3zDI2X4BbMQXdq1d_nGlBiHZLtjYzIvCHFykfOOoESLMDOh6AdU3qVfScEF9TZDw4Csww-iXxf10XyUoFNRJcj3d3_9gDHH920QgsgyQ6gVaPUD6Q1GGVuZjf8-L0AZEOMqCJWJ1J6lNhijAum4Z0c8DXLGuEXpuK7Xl-KZWfJ9pj9_aiOMv0yMtxEICxDTuKonMOoRkG_cInQ0h7KKyfQ_8K2bPironX-vm7fc-HfY6Onh5_BFRTzHEMfO2-Eew-kOfQfFp3OM8VP4b7NF4q0F0Eb5Eu-q9kqxFUzo8TJwrAkxHbphTW-",
+        "width": 4032
+      },
+      {
+        "height": 3343,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103632316429760841734\">Martin R</a>"
+        ],
+        "photo_reference": "ATCDNfVLsVifrbYLNlpZDX_2mmnUBFk3SqCQNd9ymLKCB2rrf999ESPLUI-uVYgoMJPz0Ruvu2FJFZH5UMg7MQU9HFPRVOEczbNyA_mcaBo5XPg0PRhrmhojCD8xjWvZzmAQ3wQo4tobElCJCKmumyMJj66GZkgAzvI-SZeIJU2TWiUPvjgsMQchieqo0jbClSWLRxz4Eo2Yum4HS76Y07-CGDSyfKeouipdRoI6BxpborqoY1Ovd9SnWmE9grHCJNgny5CU1c4_urTiCa0wkoHi68oUOlw-ZQSpw9Ksw9HHCUsuLYPtuYl3xnVcXhIAQ_MgJc5FU0mIERHCAblCWUtmVsAW0yUPbbzE4t8eA7C32IYRsjJ0fdQYadUTYyB70f7yf_W2foaCralnZhgtdW4nRzJl7N1vlIXXPx9wU7XZ-cxZpDc",
+        "width": 2932
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112642535948646280499\">Anthony Cafiti</a>"
+        ],
+        "photo_reference": "ATCDNfUkdrtL4Z4iKHG7pvL0bwnBdP4S6jXXBhG6lUeTrVu63h51_ZOixC-KZVMyiL-DAQ6Wg8jyki65a1PQTUsXjWBL_jcp3yils9fOveD1YCJNsVZo-VC-6-HiGGThZGDmfGAqj2439jF_3JPOb7LsTQrpePrUH1naIPD8fHGWA94-YNMrSH35DtJm1yy38AbPH4iu37F0kCHxSNKSfRW0tEFJtG5tOdzE9Z4nKEjIlPKpRiIQef9olQeqXhk-cURIoniBQD8YEK96oCByWd8sb7J1lwq5F_uJIjrN1b75k0ywBLEWdCGU-mP7rXprtdl2C3PZcVf-abS_XLt9imzdIH6cKmyR72NTOZR-vNuRS5tETo5lOMSK-v1pUnCsD0LiFCCgWEo2ACfyfWT9zLYH15fWIKVXwN5_XQKXgqywMgTrbNM",
+        "width": 3024
+      },
+      {
+        "height": 3543,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108577127556784797344\">Eugen Brinzoiu</a>"
+        ],
+        "photo_reference": "ATCDNfX78RfVAKU54YbCUkm7gM63yyVmpsflHe2Y2_2n_BjhTk1t-l9398ta-q7ThwGgrkwTfGNgQ5cTPZls_jBu8Ze6lHC17UGs_8tsL0E5GPMtmzviMMJgpqoxz_kdy2kV42F9WZycC7WjpB_FE_MRqlhhmb6I6lhyC95bkMEh5A_NgaGbWSbTojOxnxJu7ynrXLRsU9SQ2E9ZlRYAyl1QcSP79jUwovkij6qFOHT-BYgWaN1wrHLMhQD3AJY6cWQLh1OzhklQculRln7XSQ6iQhQCgnRfjcsJbutEpSNJMriqvBkzf1Z9dNa4FKA61RCEnDy11zU4I6TFZxUqio5X8l8Cbg1VfSaYxWrbLxCFKpAdHjuCigO7pXgYykKik_YePyZbjqpGUD0h7QjGDuatvL1D-mABgUhcMSgTeb45ctTkLvHJ",
+        "width": 2657
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfUwCrqYhrdK8mH5tQFEyEM8j2oD8KgrSUaEhFmRWTo_16pMX42anRnw7Ut_7dm5gGgz3nOtNp89D49go7HqtJG68pVue0t8qKBAvsWpICnCtlFJyhTXfNqmQOsTkHuStycgN5XbQJVM0pj2nlOhlUVGMtwXT5aUGCfWDn2-k0vSnmFu5RaTH37LPHDcgYWnz2ymD2AnAR0lX3sSN5Pqr1EEvDt1mRnTQwnjrXxZM_YimJ9ucHgqhjDJaRymDYkieB30sqkpFTLPTJgXMoFbJy9WkWRtCEuOmCj3SSPsW-JJZtGi0jaR2ZTBu8TuwQVv_VLeyviOmr_qBcOb30J53dXYZ1oxnvaAgNOBlg3MHeEClnNEdxsNNcgKhDRbkyAkmX4Vc2BJvSL6xno95mY5jU3rrrs1FOigMigFwEpayc6IKbJn",
+        "width": 2580
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105749280134410023102\">Joshua Mathias</a>"
+        ],
+        "photo_reference": "ATCDNfUVB6yoWgAgfzIaIGN6ByLnFgoLmLLcPS3XXS0EjkBLcqFnZBLb7okwhoQl8vqdrr1bdyDTqajHbGqKkWCuk8NIJHnWVVGKedNQr0_lFiZ0pxeAI8pZZoP2Iz8p8memF9dhjwi6bhEqcfC2SUqyGH_9oYOLTK-8z5nBkVH6IwcoSPOMminCYT0bzCXhRzhn6yV9t_Guwck2CvHsE0CIOpJ4wxajSOuqZMYSCp_4s_JkX6xttEdv4wHrWXIGTcvSfNhUMXmcLkqTfK4TYl_snGSGOMrrxa0yDQLXJdYXvoVJHi0WOKYJvuMn_ggFykAtNtLqzSQjUxKSxi4lVtauM3grcJhqnIGk3oVPhJjMD1n6ke1c2njkftqRkZ_KkeTo8B_Ijjo44GWNmV7FBGW8q5qo6cQx7bmHBHqADGny3-Q1xu4B",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112390602820533980055\">Dhruv Tandon</a>"
+        ],
+        "photo_reference": "ATCDNfU4zsTkE3CRN_Dh0ERg7YbvXxUnBgcFtxOIUkg02lxpW0ItuWEAr5CT6lY973KmqzHjBz6ZUDsHAh7k4E4W2_70UuVhH9HHQo98-kasnMoiOCSdtDJmc2itj2TxnxGtx6HLNZAb_Y1BZThDD9G2yykyVklfQVEVENE3KUO40dMj9AEg4p_J5TL8vq5N2X_wyGQy4riwEnSWjQFWNKEK4J6Cj7qbZmxavir3Z8m2k7qebvZYl7BPV-U9XfS8V20BQi3kdYCoKQjAGcLaK0uscCz_NTYykelLQ6GonScjwDoC8JhyoIgQsUHmxjcY7I55_U9jMl-36VfAW3VkLnnY_TmmgX02_Sv8pIJc-vAZzB7f2fEwXEf7eOjKmvhv8cay-XL-P1yAUoqfDnrUqM12AyvzsJfWgMWxk9GG-Y44iXg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfUP6WIIRFFt8u6i2XYWNCk6Re0isXoAFOQyU2rAA95UVtKThQN1LmWSsUOh3iLdtNRhja-TM6g3RWf9kE0nzG2k8y4gw99SdbU2YUSjND72GnFSY5cjPyePA4yhXqWsKurQvnpPp-ev7gT4uZjvww-pb-ZoJU9kBrC9UEyBFzuLmuGC-nQR2D-pL6HqsI1wqPGkeU28GWSmwjD0LKRi10gmJOUbtI6if5Ne9-bw0rJlF0sK0_rWEbwaTAA_c0JCi5pvdsNkTvCVkjyehAGZr5fb6uurKL_Ns4VTrfLbUPfzoWiADhS06mBI2dV3p3Tf4_XfCC2LjGLy6GRbWDUm37mSNy3quu2H78Sz-nx8ZUoi7Yxieb2zUDDV0yS10m9MnE4luBuIB4brGWIlFoxv8PAVXnAINBDh6w0tX6h-ZKMJhmH9OppfKS7VZpwVx3qg",
+        "width": 3024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117733435204869521637\">Robert Lussier</a>"
+        ],
+        "photo_reference": "ATCDNfWDMNGkqwYrEHWbgI1LnicD7s_G9y9mUlBO5N3KjWTT8K9nBnKQhnidCXKdNvWVa-wnP6JCZlyfAtsRBZJzNH6I8Fz05kruQuJkTvePrc6eCYlGJAkg3G8-_iif3IALWrNyiUF05bHrFE41CG79DWjASmK865Mw6wcy6WIfr6bZu2qDW3Dnxl_cz1LuwZLyXGqrsx2BScwpcKK6eOXKHTZ1fUfjpkyg3UN4HKxTHu8hHLg_mL0Xp1de2QfvCfNAMX7jiY6Zi-GE3H7C9d-aOkzY2BCuIwpRgymQsJ_Bnc1it6gcoEmziPgO1qk8mXx8rNp8Evnq8AHaZuAIekvS3FILsdcYtRVpMGvbIxM6iBoqI2CifckM5voxvhSmGLVtNwq3sV4cjg9rdZT0HKGFKCpCIgZMxrcWRiSKWTAsXUzW-Q",
+        "width": 1848
+      }
+    ],
+    "place_id": "ChIJC4WrgCY2yUwRWfxgVriSx-w",
+    "plus_code": {
+      "compound_code": "9WXV+2C Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WXV+2C"
+    },
+    "rating": 4,
+    "reference": "ChIJC4WrgCY2yUwRWfxgVriSx-w",
+    "reviews": [
+      {
+        "author_name": "Robyn Tsounis",
+        "author_url": "https://www.google.com/maps/contrib/104049602919505407861/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5Zu_8qNPUDmdEtVhrvHuSwLbU7XN2lhKbMOgo_jhkl9QO9INd3g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Poor costumer service and professionalism. They close at 6pm but they locked their doors at 5:50; two ladies and myself went there a little confused as we got there at eight at 5:50. I knocked on the door to tell them they it’s not 6pm and the two ladies ignored us.\nI called the next day to speak to the manager, she wasn’t there but I spoke to her assistant. Turns out they’re two sisters running Stokes. When I made my complaint, the assistant made it a point that even if I speak to the manager (her older sister), she’ll tell me the same thing - justifying that they close their doors 10 mins earlier to close their cashes and that’s how they operate their store. Meanwhile, other stores that close at 6pm were still open…\nI’ve worked retail for a long time when I was a student; I never did this and never spoke to a costumer in such a way that was disrespectful or make them feel unheard of.\nThe one in Fairview is much better!",
+        "time": 1735062147,
+        "translated": false
+      },
+      {
+        "author_name": "AmtlS MTL",
+        "author_url": "https://www.google.com/maps/contrib/112061812386888230417/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjFrIRy6Wylk-eJhqmnNNiUkp-GRwDej7Buecmw6oGbC-n0w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "3 years ago",
+        "text": "Although this store is well stocked and in a great location... service in the store by the sales women/manager is horrific. I'm at this store often, and not once has this person smiled, said thank you, or tried to get to know you. On a most recent visit, returning an item was a terrible experience as the item was bought online and our online invoice was not sufficient. Go figure. Either way, with no help from her, I was able to get the info she needed and completed my return. This will be the last time I visit this location. The district manager should have a talk with her.",
+        "time": 1671625615,
+        "translated": false
+      },
+      {
+        "author_name": "Kelly Fraser",
+        "author_url": "https://www.google.com/maps/contrib/101387803433922639393/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQUFIDY_5ROVRQGnAN56EyhBpPJioAcu1vwKltgNAlbTsGBQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "We went into this Stokes in Vaudreuil, and were very disappointed with our experience. They had huge signs outside the store that say 50% off if the price ends in 88 cents, when you walk in there are huge banners saying 50% off if the price ends in 88 cents. We found what we wanted and the price ended in 88 cents, but of course when we got to the cash they said we could not get the extra 50% off. They said that they have never seen a price tag that says $24.88, so they have no idea how it got there. Well that is completely false advertisement and I will not shop at the store again. The manager was not helpful at all. She basically came up to us, pulled the price tag off the shelf, and said I can do nothing to help you and walked away.",
+        "time": 1554574181,
+        "translated": false
+      },
+      {
+        "author_name": "Fair",
+        "author_url": "https://www.google.com/maps/contrib/116642911488631438520/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwerkLwGSQ_RVaPI5NnhdmdE8UZP4qSNjs8KcmAGJ5mL-BAffx=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "I went this morning, the 28th of January 2022 to buy something that was on sale and ask for my order online, the cashier answered all my questions in a professional way and was polite and patient.  It was because of her attitude that I  considered  buying other things. Thanks to her.",
+        "time": 1643401367,
+        "translated": false
+      },
+      {
+        "author_name": "Claudette Benoit",
+        "author_url": "https://www.google.com/maps/contrib/100748017199929540855/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ8oL6k_76psLc6cX6qPEnVfs-gEhgaPV1eIn3B0j73eXsyNOu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I shop at this Stoke for my kitchen supplies and more. Always great service. Last week I called looking for gingerbreadman cookie cutters, they did not have any but they referred me to a store that would sell them. That saved me time and that extra mile they went to help me, I will continue shopping there and refer them even more. Thank you!",
+        "time": 1608763605,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=17061767033737247833",
+    "user_ratings_total": 63,
+    "utc_offset": -300,
+    "vicinity": "3080 Bd de la Gare #400, Vaudreuil-Dorion",
+    "website": "http://www.stokesstores.com/en/smart-centres-vaudreuil",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "query": "Chevrolet Buick GMC Ile Perrot, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338951.5899262,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 1",
+        "short_name": "Suite 1",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "2000",
+        "short_name": "2000",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard du Traversier",
+        "short_name": "Bd du Traversier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 0K8",
+        "short_name": "J7W 0K8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2000 Bd du Traversier Suite 1</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 0K8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "2000 Bd du Traversier Suite 1, Pincourt, QC J7W 0K8, Canada",
+    "formatted_phone_number": "(844) 800-9215",
+    "geometry": {
+      "location": {
+        "lat": 45.3857534,
+        "lng": -73.9843571
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3872293302915,
+          "lng": -73.9829677197085
+        },
+        "southwest": {
+          "lat": 45.3845313697085,
+          "lng": -73.98566568029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 844-800-9215",
+    "name": "Chevrolet Buick GMC Ile Perrot",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102264952105620409587\">Chevrolet Buick GMC Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfXBkejP1qhf17BSKV1uy8paaiTfWpx5Lz9k-IGvAWmbYXLbENS3vR_5js-CrGytJem4U14MK9FiGU5qF7u45xYNVRgrm-secJqqKD1mVF25nKxP_selIli-mhpr8AcI50GpYkFPZmPTcwUM3rdSTP-yFaEVfRY88lEoYlf8YUGpwEHzWnl8bXOAMqP3fQYjrD9QIf21CP72wOdwSnulEffH46QGnrTU6WPo_nmW_KDZGjkAIec0MOlpE3Vqk6XJCRWT1-T-ALD1yRwaGILtDeKJaMs82g57_c6-VvuCkdHDTA",
+        "width": 1962
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117287774477561942638\">Richard Hudson</a>"
+        ],
+        "photo_reference": "ATCDNfVhJnPOCVlnqdhYMfRbuGMDtz7UPh7nLyd9Ju5mPv91xk-4nabH_Fup5qQgzXBkZwpTY6lxD1TTm-eQT80m1TMP8vu42hvuNxKw-4bPzjz37ASiRUOzm568r0ox00fRFx7G6kROGTdhaVwUlP2OhTGOpwob8cdRaHJLBkxoEhpg9dOSWaXLX8m74LZ5-Q4yMXw5Bih84222dDoQgfMKbCyaiCJniHV94gRppelMSRKVqv5EazvVIwGBfddWFj-KWLLZAhbWM5wp6JRvK_Zrhz6fpOQIktbu2Bbkz9v4_28DS2v31yDU9D3VWXJ-sKSr5VpdwbNbAGd1I9vE_qEXNhoHyaKK_EigDHjPLlA5czBJETjqBUFgJ8RNCYwKYa2EblXp_IjjRKSQX8C8eIwmHUjW8PPpmGfZnYUlCq8LSVKz6g",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104455453235087655953\">Alain Garofalo</a>"
+        ],
+        "photo_reference": "ATCDNfUjbz8YzGzQryaKmEQ-jmZz3BsaX18CP-gbm-UXVlW1eF2Mtl69pcSN8bdPY7tZuuS7h04xQzoldq836Gv_bpu6B-FzOqh2RmzhPkh8ZWVd9ax8Y1NQNxSoBsLP-ZWDhYSOweh1pAxlSCBDMJSvLYvQ95TStFNWvt62J2sJ1x8zphu-9GwN5Lw-2fDgcXlh91-SYgSlkQm-ZYlGmPhANtqZaNoVtqkQQ2JKT9fTeli5dizc2m5RGb--ryjwQj1Vh2HN38s2u2uZw_H0GAypyE7h1DHPtr5un_zL9DZvNSOa23wDF7KlVJU9WVNV_aE3I6WUGLGV9Y2J8yZkcqF_D4Xxj0iQ5Xg1OrQvr3cCc5g9GeFSmCIsb8DnM8h6lzNj7cYtzTf_LQT4vFj_RMbtnoIZtKrx8ib_bCbrH4efXUWNTA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102264952105620409587\">Chevrolet Buick GMC Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWM1nvMBr-2czcAWL6oW1I96gQsAAk51lIC1lXiHojL1H6wCoU19s2yZ5WPQsPH4SxgHdcNAQH31t6a84qWwG40JJM829675CaYxi2rKg3ursVnEIFyKvIPTYUwyqRbIwsNUg4Udc-jk6Oe-PvSuhc3PFS6Fh1ys6vgECrxONbyuXsNvfpAq6r_QBZaPw5491YnEXp1OUIHYLvkufWeHsIxB-UmiR5AAaUWKCj10y8GewvzmPU5Fz-ViAXxeKaz5q6sWznn0c7BIiwe_6IHB6AWqbF9OgWfyNzA6fSJx_fJ9A",
+        "width": 4032
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102264952105620409587\">Chevrolet Buick GMC Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfU8rLUJhIH-2Df_JTtYMD89MvPyKg2DN4PmZ7pwg_haijCX7NHf3sGHX4_iUP92rsPYTilqqYj3ejqovLGU2EjN9eLptXXKLkVVVFSLxC3D-dG1Jk-_h1jcAhkwpl8sdokx05kzGk2WExb_mWZmgwrCf0gqOK7QHWh-UT8r0X98zELFXhneW_FbnCzjbazuYOhrVfp79bxOaShXvyrButvZNBAX7m9cNd05QuRAiyr_dScGsfmKd_q9Av13VtLgj7m4Muctd3QOpRpA67h9Aea9Il7ujvZWjgS4K2yUSMsY7w",
+        "width": 4800
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550796921914107603\">Peter Queens</a>"
+        ],
+        "photo_reference": "ATCDNfX6PtcTJsdBD2PUBOaCzq2-j7wlWOowyuapDiB908LlIuJpRQrPVrcHFuGmuEdF286t0wxIRDcC4jQeOOqsnoztAPkrZlaXxBLKZjlA6Dit6XGg9OSe7GlIs6UtpIanYzBtgI6KCW-hY1V4zipMmYG45WiULnbLPQwURXU3is8aiuGbE5rV1nL4feZBcXLsw3MLxUEXkOnhnJvqWWCLf7xMVeDnqxXQcTVZGuzy3WuXHER2r3Hhzia0DPh2GPvzE67BG0tW5GHBwIpAoFHD0MI5YvtcqgGoxQj28JJOe8h86KF_uFMqliVWE2jRBkyV0WjgS-v5vZNLcwuZtlbz4q6kjf0PMjhLX4CTQmBa04KN3HXzgUX87kZNf1y4UOg6luO4g5aP_XAk7hTGW5hkzwt4hb8m9I_cpui5soSL1afHDg",
+        "width": 4160
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102264952105620409587\">Chevrolet Buick GMC Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWrLmuvPhaQbhUTDcI-DUGxVCDImjBIDJwLeWWHfwim2qNVbm4FOvhVGZy2DX9fAu6eQQZ880wdJJNJdCgzQi7N24WCJqEvwWkNDPb_qhgZGL4F3WmHjqx0xtCTmGqj6bZECWpNvv8-ksFOL5hcTh8VcqsENLhUSeCYu4uY7yJU4GOVDekw8fulBi8J7UXJUTJb-PDV5PuMF_iyDTxyhfZm3sQe7NJ5nFP9y-20KdchGeVlORgz1iw8WQF4sPvFCvP1R_ZQHKEiiFD9G73AZypqqobtIiapIlF2-JaXkPrMIA",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102264952105620409587\">Chevrolet Buick GMC Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfWSxpqaKB57jiMc0B0VpZtI7BI0oGnATbdyJL3mzv-tHWsAbuusR0Pfo1WwEyeQVqBQvrhD_85v-9gY1RvqF57sf1F13qhWHx-LeN4Ta5jUEWnpsWz5TDWgctFwWiahV_2auEfEP16mANU8gCHt2Ar0F9vYh6qPbka26OwdurjNnEVktpOJq45_6CrZ2wpDAGzMn-Kmd6O7EDhV1jWtCmrRL9yVEAuMIgwqZXt88-EbayD5PJTo6xGNXLaJmw-3qxm80PBZJosQKK3oOzA8T_bjiWUcxtCkJr5jUXIPM_cJRw",
+        "width": 3600
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113550796921914107603\">Peter Queens</a>"
+        ],
+        "photo_reference": "ATCDNfUpYvnGkvuF-No75E76lILoLfGhDEoh9jRXVKxc8ZVIEATj2TPtSYcvqQxXL1M7H9vPzCJU_FwH5NyU4W9y_MIraxx0bkrZgeuN0cQONqlP1vHhOSK6oCqPOP23XZYhMFucxD3i5TmFy2eHcTUlCuGvBcpNTQe-jVxxrHKxC29q32dGPmB-QhMGWOMSmzMxVyTnACKyfsmR5Uvpn6zSfkoGtspW-n8jvOD8KD7IzxyBNEL6-DDtNT8lO4NFY9F54u80UGWox8dAIPZWauwypl-oSz1RRgkOgW4dkn3Z1CYkEkpcHhfDnoSvVonPCasMc9m04TCWpdch-yDfNlKRQyRnpW3ka2FL4lWvMGii1I5R9KmnVsgMrw2zbjF-nICtCq1lLCec21LDJn8bR9DYubKU2M6X2pMm338yR6Dt1W9LNFk",
+        "width": 3120
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102264952105620409587\">Chevrolet Buick GMC Ile Perrot</a>"
+        ],
+        "photo_reference": "ATCDNfUS6pMlQb-Or0h2pWdG-9Y4zw9wzq-TdPDRzTjaD7vgBjw4do8nrvMJbFN-KR0xLcBnTJSW3W38qQBGdKLhTIR0qmkac-FVha8mTYi_XeP9fKUZss89q1v3JxbiYYIGMnd95bUpulE14sUtbjm2NVgdao9a9_bkuchATKC3XT6nWPBwCOrdYUUmPwpmB-rYOD867Rgot32dC6cw-nkuYfigNjTpO8wHdz_rXWoPuuxfYiL3CjwRZheFVsinJ_yI-Hxs_LjMZv3YfYBtXUb_OFNcbLvJvy8urPOnbyxhC4XBGw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJR1pu-gY4yUwR0QRSNYSxF3M",
+    "plus_code": {
+      "compound_code": "92P8+87 Pincourt, QC, Canada",
+      "global_code": "87Q892P8+87"
+    },
+    "rating": 4.2,
+    "reference": "ChIJR1pu-gY4yUwR0QRSNYSxF3M",
+    "reviews": [
+      {
+        "author_name": "Marc Major",
+        "author_url": "https://www.google.com/maps/contrib/100387418698750677906/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgV2UxkNgnzIlwLwYATEvFJhNXO8ZZJcjTNJRvwuXRJnRD9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Great Experience buying a new vehicle and trading in my old one. Sales Representative, Felix  Lord was super helpful and tailored the experience to our needs. Getting everything settled with Jolyanne Brien was super simple , friendly and an easy process. The finance team and Leonard Guarda were terrific.  They made buying a new car stress free. Thanks to the entire team.",
+        "time": 1768434995,
+        "translated": false
+      },
+      {
+        "author_name": "Otmane Tagout",
+        "author_url": "https://www.google.com/maps/contrib/101304854678665227440/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8Cn3G9IhN3RTUUKjDjwpaXMp_y3ee1kXJVmLDQFpCHcHE9g2A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I had a great experience with this dealership. After unsuccessful attempts in other places, I finally got what I wanted with ALBI Chevrolet Laval. I was with Anthony and he knew how to tailor the best offer for me, and we agreed on a price that satisfies me. The finance team was also very professional throughout the process. All in all, this was worth it all the way, and I totally recommend this dealership.",
+        "time": 1756424689,
+        "translated": false
+      },
+      {
+        "author_name": "M. P.",
+        "author_url": "https://www.google.com/maps/contrib/101207332000819431262/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDPLK2eQKwuCJBm0zTsgj1-aIADMJR53otOKzjZHrGvp8neA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Went to this Chevy dealership looking for a used truck. Max MacPherson assisted us demoing the trucks on the lot and he was the most professional and knowledgable manager my wife and I have ever dealt with. He's always looking to get you the best vehicle and deal for your budget.",
+        "time": 1768828286,
+        "translated": false
+      },
+      {
+        "author_name": "JUAN RODRIGUEZ",
+        "author_url": "https://www.google.com/maps/contrib/114458483584453024044/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBKBFZdQP6x_mOhNqnYQNMFzQVw_ELKOb7AzaKIzTMD57DpgGx=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Disappointed with Lack of Disclosure on Brake Condition\n\nWe purchased a second-hand Chevrolet Cruze from this dealership in May 2025.\n\nAt the time of the sale, we were reassured that the vehicle had passed all inspections and was in good condition. Based on this, we trusted the dealership and proceeded with the purchase.\n\nHowever, only a few months later, in December, we were informed by a certified service center that all four brakes—front and rear pads and rotors—needed to be replaced immediately.\n\nThe total repair cost was nearly $2,000. This was surprising and very disappointing, as such significant wear should have been clearly visible and disclosed during the safety inspection before the sale.\n\nWe understand that used vehicles may require maintenance, but essential safety components like brakes should not reach a critical state within such a short period unless they were already worn at the time of purchase. We feel that this important information was not properly communicated to us, which has left us with unexpected and considerable expenses.\n\nWe hope the dealership reviews this situation seriously and improves transparency for future customers. We trusted that the inspection report reflected the true condition of the vehicle, and sadly this was not our experience. We would appreciate a follow-up from management to address this concern.",
+        "time": 1765223396,
+        "translated": false
+      },
+      {
+        "author_name": "Elias Klaesi",
+        "author_url": "https://www.google.com/maps/contrib/116689128077183346890/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcHggEtqyWa7fDVWKNrNzvSy5IPt_3pxgfvgzI3hMQ5cMxZA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Promises not kept!\n\n-Promised deposit was refundable!\n-Promised Tahoe would be cleaned and smoke smell would be gone!\n\nSo we purchased a 2023 Tahoe under these conditions.\n\n-One week later (because of Christmas) I got a text that the smell was gone and the Tahoe is ready for pickup.\n-so I drove 3 hours for pickup and guess what…. It still smells like smoke!!\n- they asked if they could try one more time\n- I said I would let them know because I needed to talk to my wife and do some research on cigarette smell.\n- after all we decided to not take the risk.\n- now I can’t get a returned phone call.\n- they still have my deposit!\n\n…….broken promises!\n\nUse another dealership!\n\nP.S.\n72 hours later I have my deposit back. It’s too bad it took a negative review to get deposit back! I can’t get the entire day I lost back though!",
+        "time": 1767649723,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "car_repair",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=8293292420214424785",
+    "user_ratings_total": 620,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 2000 Bd du Traversier Suite 1, Pincourt",
+    "website": "http://www.gmileperrot.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "query": "Bédard & Chamberland, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339931.0482547,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3339",
+        "short_name": "3339",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8W5",
+        "short_name": "J7V 8W5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3339 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8W5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3339 Bd de la Gare, Vaudreuil-Dorion, QC J7V 8W5, Canada",
+    "formatted_phone_number": "(450) 455-5709",
+    "geometry": {
+      "location": {
+        "lat": 45.4047625,
+        "lng": -74.0385162
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40620773029149,
+          "lng": -74.0371991197085
+        },
+        "southwest": {
+          "lat": 45.4035097697085,
+          "lng": -74.03989708029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-5709",
+    "name": "Bédard & Chamberland",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJxXAQfTM2yUwRV8oKMtheZms",
+    "plus_code": {
+      "compound_code": "CX36+WH Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX36+WH"
+    },
+    "rating": 2.9,
+    "reference": "ChIJxXAQfTM2yUwRV8oKMtheZms",
+    "reviews": [
+      {
+        "author_name": "Alex Tremblay",
+        "author_url": "https://www.google.com/maps/contrib/113731401285911229955/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeMU38gvyeUT7KtpAbJph8FCvpH3AjFN_wqTMYu0FuJAgF9A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Try your best to avoid them! The secretary is super rude and unprofessional. They will never get your things done. When they say the schedule appointment at day X, it's not gonna happen, expect to get stood up. Consistently.",
+        "time": 1646183817,
+        "translated": false
+      },
+      {
+        "author_name": "David Robbins",
+        "author_url": "https://www.google.com/maps/contrib/115957228115499503140/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFTbmIkyE916XUvNc4QKcl1sC8X17MRkRcb4zqDZjaMf1NA01MgA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "10 years ago",
+        "text": "Horrific Notary!!!! Stay away from them at all costs as they will falsely provide you documents that you will have to pay for again, Specifically the certificate of location which costs close to $1000 over the inflated price you have to pay him.\n\nNever heard anything good about them but I was forced to use them from the  builder Sylvain Farand.",
+        "time": 1442344121,
+        "translated": false
+      },
+      {
+        "author_name": "Kevin",
+        "author_url": "https://www.google.com/maps/contrib/111081827966747793193/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvsKaXr4tOyCrVG07lAYkthFKNINyp4SxK4gUKbzP1Lf8Cwpap=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Our experience was very positive. On time, quick with responses and friendly.",
+        "time": 1724880892,
+        "translated": false
+      },
+      {
+        "author_name": "Xuan Wei",
+        "author_url": "https://www.google.com/maps/contrib/103897092769696687544/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOS6vGyXKkxYSTQsuOpC7P5lqDe9xw_kwtI1mVXvLEwWs9G0hr=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Really bad experience. I can’t understand why my estate broker chose this notary. No always delay and always no response. However the estate company appointed this notary.",
+        "time": 1646184959,
+        "translated": false
+      },
+      {
+        "author_name": "Roxie Furman",
+        "author_url": "https://www.google.com/maps/contrib/114328168019809142379/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHWd5EPGhOIcMVmrh-3q14KyE52PymLlypbiT6kKPhuMJwEQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "I was met with discrimination and told my husband should go back to his country since he doesn’t speak French when asked to see a document in English",
+        "time": 1656532515,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7738977292328290903",
+    "user_ratings_total": 30,
+    "utc_offset": -300,
+    "vicinity": "3339 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "http://www.bedardchamberland.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

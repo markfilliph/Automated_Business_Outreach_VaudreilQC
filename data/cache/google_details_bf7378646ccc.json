@@ -1,0 +1,438 @@
+{
+  "query": "Les Avenues Vaudreuil - Avenue Loisirs, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340363.8621356,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "39a",
+        "short_name": "39a",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9J9",
+        "short_name": "J7V 9J9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">39a Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9J9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "39a Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 9J9, Canada",
+    "formatted_phone_number": "(450) 424-1101",
+    "geometry": {
+      "location": {
+        "lat": 45.4109104,
+        "lng": -74.0308292
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.41226908029149,
+          "lng": -74.0295272197085
+        },
+        "southwest": {
+          "lat": 45.4095711197085,
+          "lng": -74.0322251802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-1101",
+    "name": "Les Avenues Vaudreuil - Avenue Loisirs",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3514,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108787719442193510882\">Les Avenues Vaudreuil - Avenue Loisirs</a>"
+        ],
+        "photo_reference": "ATCDNfX2gsxgBBG-RiwteUfSwHopo_SxY14gCn4Kp7VbeALI00pat1SJUynwWATLY6sQPFKb076eC2-5LPK9tHulsmPD81HwE0W-7V-q4E4Tok0kiQuEhTmE6syet-9oHK18XW5RYHQGazb11_OeBvUs-1BYiVKX0JeZC22hkMWGc9wKsWJJCHbd-7_IONqu7KKgO6hbLXxjtkyFumO6Gvoby6KDC90fzcdn8KoaNRgk_61cLpEGdEOr2O7_jH8JtbA3XLD4WkLj8spDUQsO_mnn8DAL-riuuKH5JTOYOIbi5sV7NQ",
+        "width": 4393
+      },
+      {
+        "height": 1818,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108787719442193510882\">Les Avenues Vaudreuil - Avenue Loisirs</a>"
+        ],
+        "photo_reference": "ATCDNfXtpYM2VMzLH4qIASkvt1eQF5zR2sJWk-j5BSJR2Sc93e0y1z9d-xLZTsCuOntl9ui3KISs87dTZd97prRupey_GXyMNzg49VNBRH51kUPSd0JaF-H_Yvy6Ywu0n74qhZAXrm68XWbjIsZRiZC5iR6bo8S_J2OpL-k_6-bS0KwrY4HoQwPAG-KftjeQeu8T3mfx_Gegx8vsqx36U74300-zBlcR58JVCYhz_I9jR_XxsaPxJMWo2cghHY0jvy08hmv0-P1rdMOP-MJoT_AxUfnUPLHmooAgTvd7bjl1HmF7JQ",
+        "width": 2560
+      },
+      {
+        "height": 3725,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108787719442193510882\">Les Avenues Vaudreuil - Avenue Loisirs</a>"
+        ],
+        "photo_reference": "ATCDNfUpvlVNX44_iOJVbwkXbEVaICR-l43yEuoeLwRbQK4lCmrsSs5i3RneNKAOp2h9aJtTqoNSki6GvlPeyaYwMAZmViETYaSWo1bZwQdTlss2OV0fMRPcrwi2Qp3v3FQ777tVZBdI9YxcvJBOBfppPoHo0QLJqhjlYRVF51a-_IIbLLSeoBzbvVmPXSNIqJT4HnkDOe2iLVIVTps-Tc3uz2KYAuK3YW-vudkXpCxuDJ8tTuhuSeXi6uOQsqVhALb9BCkZ8lpLhB3SZo099hZ_kIVnJ16-msgEmSqaFHiL09kWiw",
+        "width": 4656
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108787719442193510882\">Les Avenues Vaudreuil - Avenue Loisirs</a>"
+        ],
+        "photo_reference": "ATCDNfWfYCvt3fXjfuFTEsoQsU2eD171c8ZKYGI_G97FCXJd_Nl_lUqIxEqF0KKruCtL_drc9YOS9QsOjZag0lZCYV4ASTdDLA8Vf4lYpMRvLG2-GCbKU_rV72ZjvNpXaH4fovXN7gd97rebyB-m65xiTdSHLMz5NZH5mSivRDEEXsYBykSkdQ9tjd1Mw69Q3zonadc1tuvdagu8jwb6uQaMXnxLP1mPoSJEZBIxKj2nVjjJ3cBtRnBYAPHxgaTvvgL033R692wUHOx9oFavnVj4UmEJ0yCpvAuoVl4gi-HKApG4hg",
+        "width": 2000
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108787719442193510882\">Les Avenues Vaudreuil - Avenue Loisirs</a>"
+        ],
+        "photo_reference": "ATCDNfWMVhZ4ocTb0ICAGKELv3EuLIfTLYZJ9JyrEv-hiMPDdAEi8hEY0ZPmlzNLOAhfb9PvKF56NNfdZMmL96okckapoFFNqf-RmcxnWVTThswU3ymASH86NU_7sEEFUCiKAnYcWpUTyVBbTLY8ZKNr_67yuvOgam76ibvjrw4Hne6m4u41d-Na2E_JO-2FeC8OsciJIQ0RS8tq9DCpBtRiIW10VJJVfOLllkbRXxaThjthcdXGSFVJ6Q4GxVSzKGOtQ91m7zxgrfqnzzzEBUFYY5ossGKoe3eMo-XRVnmInH581A",
+        "width": 720
+      },
+      {
+        "height": 970,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108787719442193510882\">Les Avenues Vaudreuil - Avenue Loisirs</a>"
+        ],
+        "photo_reference": "ATCDNfWOgx44AXVO9TsoMB4mBlIGa4vAum4Lt-O3v8M1vYIN2m_CRT62s_FwaFBuPtkKKH4P_WnDjuneaIozpS0hXHckjlTdGzaBr7WdtI1H2vPt-3bHGoS4hj9i-2mzvWXMNqm9_L_VOUXjvtJOZwpQY2U6cYietAFB_maq3d5O8_i-wnt0U98oOUWPKZgdoPKPmmIhI6QAk9AbvCtXqsVm7In1rvQ2mVuxoVWPs6ztk_kFsYjSQ5M_r5bbRzwzXbau7fg91caExGRo16Ubnppt3W8wYGGGnlj1Nh7O-7jEOWAGvA",
+        "width": 1646
+      },
+      {
+        "height": 3839,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108787719442193510882\">Les Avenues Vaudreuil - Avenue Loisirs</a>"
+        ],
+        "photo_reference": "ATCDNfUrzgdN2kvSI7CJtgrYlAdMhtDkRPmRKQQ6c1Ht_PPwvP0jth3ZHnPHL-PaqZ4Y9oY8JZuM22rFSbgx-QLkTuGcI0S3StuftyN_qJLR4e-AoyPxDXh6GB53BL_SaGd1D6QOVjWvf4T2OnF9xSKD_DIbt_w3MxT2L4LFa4NlKrNJt5phOsfRJJfymT9V8gu1bEx_GmuVlszlhh-SyG2J6QBDY5dF6D4VL6ujTsksOasNs-oQUJ9p9eQSzHID9gh88MoNoqKrpRfTvvSnYCxDo-F3rNhfemkFA3__2TPNS7UnIw",
+        "width": 4800
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108787719442193510882\">Les Avenues Vaudreuil - Avenue Loisirs</a>"
+        ],
+        "photo_reference": "ATCDNfU2Bofb39ZKiSKGOMjrseXXyasxKfBVWtIeFDB4vAQCDvliHCszd5stIZBDzZ9DQBWViajRVXYgKsqTFmehNFA3GWr_2LA39uKAGw6G2VaWuwqxNEY8XXnmP9IZMHkkGjdED8fMMlqg3NJwaKoy3nFFEtJ_Oox1Q_2l3PyUsXd-PG89ad_09BYFqxW84kxj4J_MFuPimzNPBJjg8XpNtr_OOx95EZepw7egNYbbHSRg6lw_H0FekpKlsNCsl5HYqm1IaCfAWYwU2RP0u1B4rzYNlh9e_YgKHt4Z8owCIyhsmQ",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108787719442193510882\">Les Avenues Vaudreuil - Avenue Loisirs</a>"
+        ],
+        "photo_reference": "ATCDNfXoj0F0UA4lMhYOL4wP3P37ObmSjdcHYsA3tmXRWXKml97_4ZtbNazdIAeBqxxHekMmXKCuZznM9naBIhsm2Xs8tjqGP-T2DVrzLu32oY7MHTZwS5nQuHg_BTIbjpoJrEeb-_WGx1VkGcCB6VKIFe5PqeSfnyWzrhbPWk9M_YGuq1Y3e9maLKcAhV4IFUkaFb1BN18g-g76kAHM5LultHJ0cLBdUk28yqrEw2dke7JXmEAk_vTZuU9rNSRMCRhD1Gk5Af8KcpXQJjuu4DB90Yd9g-JxQbA4tmjcyRpbtauSTA",
+        "width": 960
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfWpGIQv_IZ5uyoW5UaO-3UTvsvS6shkXJC9Ojo3_fvDlfD6-XhYsFcDkqGVdNNM0z9CfanpHE9mU6IP5OqXnly2yYkcL8VQiio0gCI10mJ8ZncjYjTF-FUdkJVt59Ue5Mg_DZ4OwJniSJ9eJaCIlFPH6b9CHFeHX9lgP_m9ZCUacrS-K-cHnAAkcPkcqoPCW6nZ2UKmxD9APLfFuPrlXQ7a2RDQ4HRDCN_DrNTL0sAQM7X8KrxRee49P_Hnj0kMDaLpfYW7OVRfi3dsDKg7xPoSCzynx9ECHSWSyiPnHyVP43ONttwTV6eTVE4MhmDzL1WBp3fX_3JBTannXYehipg5tgV6wZbC_sRbPc7zxfhZVS-ZdaLKr0oKUdzsQcSLR-ksv_xK4mbxyW-RS_pGUgg2B8ottviozDtiWDlb8As",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJWeB_x5M3yUwRBTxCuYjKtTM",
+    "plus_code": {
+      "compound_code": "CX69+9M Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX69+9M"
+    },
+    "rating": 4.4,
+    "reference": "ChIJWeB_x5M3yUwRBTxCuYjKtTM",
+    "reviews": [
+      {
+        "author_name": "snoopy snoops",
+        "author_url": "https://www.google.com/maps/contrib/105205340685194660444/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8wZc4urtS2NbdYgJdUlid5x_PxxyFcMaPC2EgRQSh2-I1uI88KA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Good outdoor mall with great selection of restaurants, grocery store, camping outfitter, SAQ, and other favorite shops. Parking is well organized with easy ingress and egress.",
+        "time": 1752148314,
+        "translated": false
+      },
+      {
+        "author_name": "Taco Grande",
+        "author_url": "https://www.google.com/maps/contrib/113752779918944340990/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJM9BVABvxPYd29cHOpAlvRhudkiFoAtYO26CyTYfxcwzYLaA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "11 months ago",
+        "text": "I was impressed, good selection of stores.\nPeople were very friendly and helpful.\n\nIf you want good retail service, go to quebec",
+        "time": 1741739530,
+        "translated": false
+      },
+      {
+        "author_name": "Linda Gaudet",
+        "author_url": "https://www.google.com/maps/contrib/114664822834744653620/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHRiWOsfxPlHxU-wf99V_-wo2JxakNXFFiB3xiyznfnBkF0S4=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Lots and lots of stores and restaraunts. Great on a summer day.",
+        "time": 1729429301,
+        "translated": false
+      },
+      {
+        "author_name": "Roy S",
+        "author_url": "https://www.google.com/maps/contrib/105433532300197283418/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmK9N23knzkOXXchf_buQmj6bVnibKbwx7EKUCTqtuLLt18P4=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Great place to shop for your needs",
+        "time": 1662421834,
+        "translated": false
+      },
+      {
+        "author_name": "Raymond Oesterreich",
+        "author_url": "https://www.google.com/maps/contrib/117944430603027223908/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaxPA0GEtDaIXqe3g68UsiyXyHlda9FMJKhhvlCloqaCtpcGxBvg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Delicious and fresh, wonderful staff",
+        "time": 1659021392,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shopping_mall"
+    ],
+    "url": "https://maps.google.com/?cid=3726106955291442181",
+    "user_ratings_total": 34,
+    "utc_offset": -300,
+    "vicinity": "39a Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "http://www.lesavenuesvaudreuil.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

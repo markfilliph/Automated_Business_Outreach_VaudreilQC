@@ -1,0 +1,455 @@
+{
+  "query": "Le Gym 51, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339288.5397522,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "46",
+        "short_name": "46",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Tooke",
+        "short_name": "Rue Tooke",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1W7",
+        "short_name": "J7V 1W7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">46 Rue Tooke</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1W7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1130"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 – 9:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM, 6:30 – 9:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM, 8:00 – 9:00 PM",
+        "Friday: 8:00 AM – 4:00 PM, 6:30 – 9:00 PM",
+        "Saturday: 8:00 – 11:30 AM",
+        "Sunday: 8:00 AM – 12:00 PM"
+      ]
+    },
+    "formatted_address": "46 Rue Tooke, Vaudreuil-Dorion, QC J7V 1W7, Canada",
+    "formatted_phone_number": "(514) 515-5043",
+    "geometry": {
+      "location": {
+        "lat": 45.3868222,
+        "lng": -74.00591949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3882590802915,
+          "lng": -74.00461531970849
+        },
+        "southwest": {
+          "lat": 45.3855611197085,
+          "lng": -74.00731328029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-515-5043",
+    "name": "Le Gym 51",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "2000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 – 9:00 PM",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM, 6:30 – 9:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM, 8:00 – 9:00 PM",
+        "Friday: 8:00 AM – 4:00 PM, 6:30 – 9:00 PM",
+        "Saturday: 8:00 – 11:30 AM",
+        "Sunday: 8:00 AM – 12:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 933,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108448262426628094541\">Le Gym 51</a>"
+        ],
+        "photo_reference": "ATCDNfVW61Uoru79na8eEtMbP3-Te2L9lwx-cvsOi-15a67ehdaBAgqA6qnPJHFJ6p1gAd9BquBDn1YvDP_aerYGNL5A2F3MVYUjUnTkAjR3M6D0lDXXRI2_K95QVVL2oxq22niU5thVN8dS-MkiT_InEHaRuvu_njwOp3jzN55heT-pF_FGjgJKv8OG4hERkVZiwPOak7fKYtCPEMqUsiqFe5cbnvjCPjZ4jWIhgI-ImRGk8fL_yuYIvpsh2gIvGW-q3nLGEHd9qVAeRrSYVf4XUM4DiO7KaP6sbx7G48E6QSmMRA",
+        "width": 1060
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117324939991669113252\">philippe tessier</a>"
+        ],
+        "photo_reference": "ATCDNfVJIXb-6NYz6rucXkKEOpXctuG5sSYqalGeghDyZJ5WddyGsU4vJKot2L3oNpwfltDP-hJL-HDxyzulLR5sVK2HqBQgW8AvzqvEu2FPqwgsIeBWglebu0BJ6AtJBCKIJLhCU2B3KSZq1gXqf8uUD7stZfdfN2wfkWrVVbW8WRklxmMUawnyUC0UTAAV2EPAXUYIH9pDFCVycR7UdbDv4pyWU_0qSVtMjahcR_GAklmr-LEjTYwuAM_3ddzOWw4PQixOEcjxO5pGQy4jpY_WX-W07p5AJSlf5tNAcaKeh9ppfm5ZYMhV3eDFr6ofzefAqCdDIhqCH6zaQuUxe5ad2eqktoTvxRHFG3QqKiIxwXWiMAe6MPiD9b1uVU4vcc9qJLdLbF2BPR1OFNM-gAzuZBlGc-eMFIGdqAFGq66Itjo",
+        "width": 3024
+      },
+      {
+        "height": 2944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117324939991669113252\">philippe tessier</a>"
+        ],
+        "photo_reference": "ATCDNfVlxJnjUP0_XTClSf8tryFZb6Vw0nRSW26cjapB1i2QOiBGP5wV86KDYoKLyetMafnKzZzvorn0D0l1hutg1OoIMm-4ZzZ2cTsKheqJKXoXLTSz8CNxvZQvIOX1FHV-FDmCn228kmKfNf7IJLlrDR477jwcKGn4DuUzoD8RqdZRCi8ItZFycq1DZD_NQIqukyVSVK-9MjOUsHIu9AcuAIc3Mm8A2tDH7oqefn6PAPVYczQSznEPWbYeX2p3HmE6hWGhcWxmh-7syNDy-_aYnQ6SUA1_KWdJpf2p7cBSevnzMR80gRiBp7trugDHdHjODEDZWG5faN79iqBZycEBfPlw54Zl0iQC0WcB7T5MaSLdjVw_6GNaYgmnxwQT97Hpd-KqbHWGrVC7mWTBfCe5Zi5mCowcYqNd7VGJ93USpPysoJFB",
+        "width": 2208
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108448262426628094541\">Le Gym 51</a>"
+        ],
+        "photo_reference": "ATCDNfWg0-ks-hkCJbb2OnKZn_HxS45Lc2BzpMsPZ8U44pXNiiEVQQ65VSSgnxI7IeuasUJI9K1tPxHOIA3nJpRvSZblyboh86Z76d1KH9tu1J76JisbzI1P8rt6CPfSPr5JdK_ju58N6itFO3WRyuEtbL5h34_ih4y75w4bwPI1aKqvKKDYGkeGsevo0U41KGbCMxcSommbsCmUJjFcZk7wPJFl9yp7Js3xXdWpNONGEhBrdOI6pY-kLuj-0qUqQ--rYJr1Q5jDwnpbqcQga8psHif8-jwh7trIiApx1vX7zQb8HQ",
+        "width": 1000
+      },
+      {
+        "height": 628,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108448262426628094541\">Le Gym 51</a>"
+        ],
+        "photo_reference": "ATCDNfV6P3sQrqKJUvAhvaYnPBELie1D6Ct-vzw3MkxLVvLZoe-lKo4St4NmbMeGe0TxzrBFTyEHPCi2TJFPRIAOtNz9GnHv2r8TAkQVE6EN2EB5y-4inyi5yH-x9FST2WnEL_i1R-98THhouAWXk22OVnc3NS-sMh67uHtqVPBrC7U6VEczM0tGl7FJ0UcYetjT65giesTx9R7yUscffXjtrhWbtgJoSQl97Tu9QZedJzvgmLdVmt6jJjYuwHSuqDF1kDygdgtIp32F4APcNj5m4btnVF5WkCIXKNnIt5p00za5gA",
+        "width": 1200
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108448262426628094541\">Le Gym 51</a>"
+        ],
+        "photo_reference": "ATCDNfXey4-JDE_Fu5kRTLD1OZqHaJzjrAaqdhhQI10ZaiVIyLtKZLBYL5oYqxG4fJ_uoho41d-8xor7JBsco9QvG7hXDN6OyPNxIS_TXx04NNJ2f_jxf-hGMUTs4mbYJ8qQR6u6WjpMioGg6HKrgvupWQVlTIhI3mpHCb4LmdsVHG00VmJB9qApGZrQOR6imJkeVJbfdQVq0JMIbnRL4W7gausx4S7dZfUWRlRGMHPqupbDeI-uZQNAWz0R3uz_RsCwWSWPlgsH19rhQiFNjDEtV4N51RJyclsubcM_X4uMs2LbFQ",
+        "width": 940
+      },
+      {
+        "height": 999,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108448262426628094541\">Le Gym 51</a>"
+        ],
+        "photo_reference": "ATCDNfVPNMfvtLnlfloZg3eu-1lfpIA61onONxN8Ng3R0jAPqQ2N9BMRCg0CqDuzc6XlAYlRtWhGgSL4qWl1YQrfE-3b6toadmXXtrc1Xey-bLaj3s3RoTMeHrjUJyUdm374fQha0aKDzxsdbtCqHOqfU7aKlSVqcYNOKMKStoi2-fx5RIcgimznW_pxxTcEF8Rj2Im87x0rT9lS49VD58Eu_M7OpZKD3WLE1CJTLA43RG97S448wcIySY4rewMFJ44MPR7qRyYEt31igBNklDnifnu4RyQSXhxHppWJoYh7b9gu2Q",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108448262426628094541\">Le Gym 51</a>"
+        ],
+        "photo_reference": "ATCDNfU3_GYjYJdv4N6mciLZPP3OvrSZzQknEnBKfGJobkzJhoYmsfE1Iu-4gtXsezohVPnxOEVFjf8VvfHyIX9zdOnp_vJdWCKHkgW-mOuHAaBJTlkgUEr8YECim4fFHKDnYR5LU6X3RtRzxvnfmBpW4WHo-mfZ17UdLLqUHVn508GV9jG30t19KQux0QqR_ziIQEk_vLYZnsL474MxfMNZLUlDNID80JtWP6hHcHOpfydOHc3aSEgXMl5qRmKv-dbt_RQXg4E79QuxJ9uspqEsCL3h4RBrPsp70LOtm0D7-fG9Sg",
+        "width": 1000
+      },
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108448262426628094541\">Le Gym 51</a>"
+        ],
+        "photo_reference": "ATCDNfXbXMLMBH8bZg-lYwyuN15MPm150LvYEfpQujTHgK0pKj-oNuoGlITcfGwoAEpqzDsVA9XCPMUm3C3rZ1dijrUD4l9ifnyw87Y8GaydKmMTcF9RMEUjty25StUFTT_nKmpQrDx9iS6OmbXk5TaJX18m3Zy4lTjDydHYZULUWQgByOjo1wrO1i0_T7RAd_wZWpdyll-_tvhRupOioAB_bilR6G5_Xdr5CSWYNyMdaFwwlXTj1_NcmrxWtpIFDkYPDhteT9omYw_cIwuekpdY1TVN7GPHtjaLzL7SyuOf1c1HYg",
+        "width": 940
+      },
+      {
+        "height": 438,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108448262426628094541\">Le Gym 51</a>"
+        ],
+        "photo_reference": "ATCDNfWm1WapZezjSryT9VAkobLdRd1ksA7EXoXiCNVTEdFUzE26_kB9mlTXIONmxtp8RD2f3-L9BZIqBZMR7KawM6VeUHv5jNZJT8qkbIwYgto9lrz1plTe1yzv6u7r0b00eWqQnpijs5KrOIWQCOYpPYE962GXviOvhLzXV-7TSTr8RYypKUGRpH29FE-GumFotAR_p8wrZ9N9e8UUePS8sGyyXNMTtCrKVwU4sYgKKT9ncyQDGDH2xKlElF3Tugpe7RsnEDma2OByiRYeL2gBBmLUxJF5LF8ZoppZHRA3JpRZHg",
+        "width": 512
+      }
+    ],
+    "place_id": "ChIJ6d9SRnw3yUwRkCQ4ZJ3Osrk",
+    "plus_code": {
+      "compound_code": "9XPV+PJ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XPV+PJ"
+    },
+    "rating": 5,
+    "reference": "ChIJ6d9SRnw3yUwRkCQ4ZJ3Osrk",
+    "reviews": [
+      {
+        "author_name": "philippe tessier",
+        "author_url": "https://www.google.com/maps/contrib/117324939991669113252/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSUNittslVjFLdloVEBKfLJTdU8frxnVkoVhiutRRf66MHpw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Impeccable service with respect, training adapted to each individual and a motivating trainer!🏋️",
+        "time": 1672180128,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=13380984618257753232",
+    "user_ratings_total": 1,
+    "utc_offset": -300,
+    "vicinity": "46 Rue Tooke, Vaudreuil-Dorion",
+    "website": "https://m.facebook.com/pg/Le-Gym-51-105689601860200/community/?mt_nav=1"
+  }
+}

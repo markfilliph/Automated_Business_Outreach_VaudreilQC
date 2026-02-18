@@ -1,0 +1,366 @@
+{
+  "query": "LFG Transport, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339593.182136,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "161",
+        "short_name": "161",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard 1e",
+        "short_name": "Bd 1e",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Terrasse-Vaudreuil",
+        "short_name": "Terrasse-Vaudreuil",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5T4",
+        "short_name": "J7V 5T4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">161 Bd 1e</span>, <span class=\"locality\">Terrasse-Vaudreuil</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5T4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "formatted_address": "161 Bd 1e, Terrasse-Vaudreuil, QC J7V 5T4, Canada",
+    "formatted_phone_number": "(514) 612-7841",
+    "geometry": {
+      "location": {
+        "lat": 45.3925127,
+        "lng": -73.98956179999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3938176302915,
+          "lng": -73.9881867697085
+        },
+        "southwest": {
+          "lat": 45.3911196697085,
+          "lng": -73.99088473029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-612-7841",
+    "name": "LFG Transport",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116205901315938526574\">Annie Papazian</a>"
+        ],
+        "photo_reference": "ATCDNfUm6nZmQlLs7bfJN_UaKu-B8Y_mC5ISu47v1z65vvPFxfw0q_V6ur8CH4lX2Uq-EFPfJ2AauLuODrwQjF50qKrEZhoQ-39ib6HxTFVd6kJnzAfRbEB75aLVWs3Mb7AJaXGj4yDSE0tOHInuUa0o-4ClbRCUZCiwMXa8zA-SzgkUIBYYCYoIkS4JxntLozImFvtUOaDZhlZtIDiwPQNe6T3o-yZZUskBc2hw2elS8cjXTANSERfl9nhNNjyRGAG9AL7reErkOssd3QHd15A5XqcFIRBSY_HhHkIaF8ockv6WfvxIVZYJHj8agw7NTfcECC4NWwuxZdQBuhoNQQYfLHkFGj2Jmg9FeujCj385PsmRCymBbaQAR5lVaSBuR1HMG5aOaIgmFB1onpUvO4PFVg7qMrReARtTvtuo02B1VceLbg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJvaXDG3fLzkwR6Akpmqi4r7Y",
+    "plus_code": {
+      "compound_code": "92V6+25 Terrasse-Vaudreuil, QC, Canada",
+      "global_code": "87Q892V6+25"
+    },
+    "rating": 5,
+    "reference": "ChIJvaXDG3fLzkwR6Akpmqi4r7Y",
+    "reviews": [
+      {
+        "author_name": "liezel tenza",
+        "author_url": "https://www.google.com/maps/contrib/112302649378904261700/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEUIjU7v276HZRZ1q-gbNWoCWHGSN5ofPxFH-ZQ-jdS0d2yA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Working with LFG transport from start to finish was seamless and stress free. Grateful to have been able to count on a team that was very detail oriented making sure they handled everything with care. I'll definitely be using them from now on. I would definitely recommend.",
+        "time": 1742590038,
+        "translated": false
+      },
+      {
+        "author_name": "Annie Papazian",
+        "author_url": "https://www.google.com/maps/contrib/116205901315938526574/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX1-jmbd9ge6ppPJZFb_LdQe_swJALWI667n7JiEqY2Ob8Fsk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "They go over and above the call of duty\nDeliver more than what was promised\nVery hard-working and pleasant to deal with\nI highly recommend this company for Moving or any other services they provide",
+        "time": 1742572882,
+        "translated": false
+      },
+      {
+        "author_name": "Alexandre Bélanger-Laflèche",
+        "author_url": "https://www.google.com/maps/contrib/118152870700331917297/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZ1hNeVRCzJpCxXbcQboPCOWbnQ-BuI3ZET4AIAZ4U1wt9UA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "This review is more than deserved! As a realtor I referred LFG to many customers, and never have I had a bad feed back! In fact, I’ve only got praises from my clients! would recommend them to anyone!",
+        "time": 1742591032,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah Jane Devoe",
+        "author_url": "https://www.google.com/maps/contrib/111863841933913929429/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2EjtDqvsmeQsAwk5xIPkNDBdZBc7kO1CpsMWucObFhIiunkRF=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "LFG moved our family belongings to our new house this weekend and were quick and proficient. Nothing was broken in the move and they even moved my house plants safely. I`ve moved many times with the military and this has been by far the best company I`ve dealt with. 10/10 recommend and will use them again in the future.",
+        "time": 1717093026,
+        "translated": false
+      },
+      {
+        "author_name": "Anthony Nevinglovschi",
+        "author_url": "https://www.google.com/maps/contrib/114524360807972861230/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQJRe2_Nxz9yO4DGhDVl5V2LGcmsjQYB55n9uWvACnsE6c0A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Very satisfied with my experience with LFG Transport. I used this company for their moving service and was impressed by their prompt and courteous service. They were very attentive to my instructions regarding the placement of furniture in my new home and made sure to pack my belongings well during transport from point A to point B. I would not hesitate to use their services in the future!",
+        "time": 1744476691,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "moving_company",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=13163943270107646440",
+    "user_ratings_total": 22,
+    "utc_offset": -300,
+    "vicinity": "161 1e Blvd, Terrasse-Vaudreuil",
+    "website": "http://lfgtransport.com/"
+  }
+}

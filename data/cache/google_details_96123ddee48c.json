@@ -1,0 +1,436 @@
+{
+  "query": "Gaufres et glaces Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340380.145785,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P9",
+        "short_name": "J7V 8P9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 PM – 12:00 AM",
+        "Tuesday: 4:00 PM – 12:00 AM",
+        "Wednesday: 4:00 PM – 12:00 AM",
+        "Thursday: 4:00 PM – 12:00 AM",
+        "Friday: 4:00 PM – 1:00 AM",
+        "Saturday: 4:00 PM – 1:00 AM",
+        "Sunday: 4:00 PM – 12:00 AM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 8P9, Canada",
+    "formatted_phone_number": "(514) 991-3315",
+    "geometry": {
+      "location": {
+        "lat": 45.407906,
+        "lng": -74.0324634
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40912333029149,
+          "lng": -74.03114506970849
+        },
+        "southwest": {
+          "lat": 45.40642536970849,
+          "lng": -74.0338430302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 514-991-3315",
+    "name": "Gaufres et glaces Vaudreuil",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00 PM – 12:00 AM",
+        "Tuesday: 4:00 PM – 12:00 AM",
+        "Wednesday: 4:00 PM – 12:00 AM",
+        "Thursday: 4:00 PM – 12:00 AM",
+        "Friday: 4:00 PM – 1:00 AM",
+        "Saturday: 4:00 PM – 1:00 AM",
+        "Sunday: 4:00 PM – 12:00 AM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3614,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117757253518512493581\">Canadian Local Explorer</a>"
+        ],
+        "photo_reference": "ATCDNfWN5BHDfntrbjWHz77eiuRK3uI6BPTx8PpcaTCstwE7ggjhWi9djfH6egpnPoMxVDe6K6T1LVfudBqetW4jVqkQJ-o7lMkb5UpWKCHc8knQrd1n3aDge8G7qfyvSykyx_4KBc3jOrU0CefQ0imn_uJ_n_bSNFtrC4cHha39L3FSWiaAJCSs5wOqplzxYkSN6bDTSIbg07ntZGvWCk8cahyfhVtcjQg4VIQz0WUgPq_yDBEscLsNifUzy3spvv18JRbxND9ZXOJiT8G9dDk6ZX84iRdFul4uOVu42CFGwWAoxEnxB88U6h-THZ_nGgxTdZOou7Yh798hYyWmClfTCofAHU5dhlWO-zjxWhxxrFrHkLmRMDo7vdkUtLoAipAYNwIbJU4PyhfKO_qnXhMMwUmzGDpkwoDWU5c8JrbFbxxv8VVsXQoD0JCuAHM8Dw",
+        "width": 4800
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108764832529983022518\">Shumaila Irum</a>"
+        ],
+        "photo_reference": "ATCDNfWGiZTv37Xul2me9oJ74x6AU-doMyHsz4h7lqZFphbzq3pZb9rjDEPNUBR-9GjkZucKeIO901mEV-_iqY0hzCB5i0z4UFjWpPcJbgX_cfRAqbrKPFCVGQZFvmpmwOWaH4tug5r8KmYva10t6wGBsBdA6PMalXH3zqPOWGSc0-l9ASInGoFN95gBysVYynEF21tQUGunZfDVWOm_sjAdZkPQrUhi3msSBgTp5TqappySIE6KD3hfYCXHl5EUXYXWIzq8s-pMMuY8fNhPu0bVxRlTLGVZUzp6lsF95VWyxyF3-wNAsA-LXQx1X9UjLZMXdWIeBTOriziAHIlMry535LKt5mkU8mmsNfLMqYk7lPvHLLLK5TQGxasfFFZDENw5dEDlBZZUVMrozM2fyn--ufrK5xVnCXTBPdy3yMzpk9jXnf1sbAxQhVi5Z03DHYmG",
+        "width": 3072
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108281785775392688275\">Gon Freecss</a>"
+        ],
+        "photo_reference": "ATCDNfU-3xQkYLs1zi2TKF0pCY6ePSqW1xv0dGd5jzbpMKIf7pF16WdvfzFzGwnYEZSRx4slgjzc-WijNHRBOLJlGp1CJznvWttfeppIS26iHY7BZhHkf_AdF3dTbPk97GyR6nhDhP9JqxHbQ_y4IMYP_9DUtQJ916EKGXZeiQzDLF-VknLPMTK8ySZJb1oaMXTcEPWjUgBzg74N7xqFAITzFZLek4gep_GSa1J1QBZcAdvvP6qfBxEXS-P8k7b4Pk6Lup3QQB04udYgx3_yebrLGPLObGojO-LOiAU0O8xWZ_4AE0jqPEplspxM0U3gJXMpSZBuVjl7GNxzhflmah7GJZJIQaoB0l93Js0OWJPFg9v425jhEahaIvdCHVVs_eqFkaQEvZN9RvsqNRAIEOKjWyQ790db84VQwvvJbWBbIykzT433vokA7LG9OZ2v-h7v",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108281785775392688275\">Gon Freecss</a>"
+        ],
+        "photo_reference": "ATCDNfVGaYH1kyaWGwbdgN4PgOYUh2wGxmWky4ukHxzxSLe7Zbg3PxZJ4NGBxZzS9oqqYOrFogBOtf9NKa055onQ2Gufhbbmm06I8xJ6Ck4dtzskL-Rvd3Ii_N7IbZxTCivLS9H9KEPOUsBDkwJEOFEGJfUV4LY8FOrWFcZQv4p8Dh5bJKVulfbAkvZQF30X7bss2qgpKVaFKwbcU1CrkHoSnXlo6BgPzTS8r-6PdPN0oD9md0Xu4gF0tX5iJ7TplBwi8mM1bkdacIAH0FTx9bSq4iC7CiuuPvy7EZ4cQPit5daf9PHwp6dpD3uEoTWgJguQec-N0t-2L9LCA7h0RA73HyINQs9LbccgAmk6VNMgGu_VYfsPuV23RGpjyA4NnJ0xg18e2w0KsbO6655VBXrPCg5UBNtHDnymLz7-7uP5ulD7SX51Hz-ggP4i9IBB2ng0",
+        "width": 3600
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117757253518512493581\">Canadian Local Explorer</a>"
+        ],
+        "photo_reference": "ATCDNfV_5UM19hIo0a4HurkTDCPvZ8rXjWPKHdmEu-6F7EKzg6xMZdGpAJLrxDulS4D7Gl17NeNfXPQIWe_5WBMtNoRTUqcmkM6qBPkFiJ6sDOXmKlGlRe5Ui_bC2nReV5FuDhls7nyc_IHFjq3TSFaUQFWaMhF1QK8DyKHOUwpw5wI62sIM9SnxtSfijLAnAUe2mUBeeTL69gj9Y32Tu7-4gcXOtYXnDSlzmYa9n6XTf27lWj4rBQ7LNaYJzsIi9waPcfb9OVa903NfV_WIuEnjdkmLNB1KDuNtvifBoRk-a0vZbBdYB-SlxVbvW0Wp5FDeiJbezQsxOiDXfNbEC-lkjYfK1n1qZh2xh6Bko7OqNSEFpVvD9FWCuFGZYNOlh3dbwrJzaWmXzSZ4FBG-euymFMBt6ujyLoUXxEXOcDTUBPNqJJu5EqAx08LRRNYkslIN",
+        "width": 3614
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVInDbD3571Bi6pEtCYte1uAweKnzj6LFuI6yohncG4FYALlBr5IC7xKizHvF1MmI0mJ6Ald_pQt6rfoMtQdPeNNQZACP_bk2UWTHjg3GcVIRahC0z6gbyk40eVb_qoJSrWltIgs18KqgPYnozV6VZf_aCT86m3zQYdwT5ClOr5cOqXcwJRc-5mzujlg9Lcj4g6bxuWgi0pn0FfBDe7tCqDEK1lY1pFloXnnYUGzjFTSzn5RJtiNx1bxczNxT9zpRykFC0krkmUU40G0U6tmjGHYNy3fqcm8qQcP5vKNowCHCQ0YhW8ASBU_7_cWbeF-RCcYBOf5zmTCJmhSSDVcVDtPJYIP_NLhafgiq3pNsHT2G5_VA9jDkyhSSc77JYVrzwVIinT6FzG6zd2VxNJ4YPuWPJzE0KDHudl3DI8XWikPg",
+        "width": 3024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108131362939926808514\">Bianca Vescio</a>"
+        ],
+        "photo_reference": "ATCDNfWLQWRGo_7IznYYF_FPbjTabA3s67RcqA7izBz0YxDi5RMmjElQyGDqIeufbEB2Hz0DzJL8qbHX-76arkYlPvGVcs0GpwJNfYvp-ZtjBjjrKWA535zK-Ciwi7VR-z2PXyt8Yqm6_BZe75DWMoDtapMvefERG4zpDDo1r8gLuAr2fHaNBU74jQAXoS7JH8G0yeRnWwHJKKwUNugrw6QUdnkxrGmaGIsUu_viyBMPxLuDXo1mchrw6sng_2zIFBVzmjgC1FMaMfQOhrteW3Vw4Cx5t10-Bkfrqoor5wH-hTVOayEE3VH81ByK0ARjjbDIQF91QHaA_K5KD_riK-b3qW1OLaBZEYGaggR6QWugj4P9kq4tzDejj4_2MFNLK7ROAruzpws2xYDprazy5oACZoDUAIbJAqKHUD8Z_b5aGBa1YaU8",
+        "width": 3000
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113326285411271160314\">franck LC</a>"
+        ],
+        "photo_reference": "ATCDNfUrSjC-QPvERaxDmL2yh52Me684HVGuOkQEbL4Y1s3IJSuaE51CL9hPrIKnOlG6LAqkmkJusT8TNePB_IKZR--dt2fuBb1JuDx69nq5AphUIs23a2-IJH4YYkhqBR0MYUufsUZ67GBPoY0WUiZQYmDhx2Xzjj_6El8VW5tbBU3zL9HKmenHMCm8Pn57IGG2BNOF5uzbH2fSlR-6XBCCZUrYbTC9QjBAcNcNjI40YiVYOpaHwtxAEu4GC2b15m2GPy1MqiK2WizDEsCq_q6uQTyQET40nU0FRKXWYDHQeeA-In2tigGBAnf2aHi6tkPXabBtYKeFKQAUUdpcwVxxrxwZmSxEPRt0262NwNTjJH7oC3XIudHw9I4raKt-X6msFu3KJzus_nFU0_l6fPo7bqY9f61oSoIA9CLfyR_V1B00Cg",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110830675411525788038\">Yasser Zakkout</a>"
+        ],
+        "photo_reference": "ATCDNfXDUcsA0DbaGiaXkzYlIMKQRmBGqBpH1FdeL9YjWHZ6gzwBivFlhkVPeiMzSowfdyJAAw-lYnx8nRZPPlAzrLyHHfgqdQYIvaDy_FDq4nqgdYLcCfzKVHSSm38KLjtqv7yxHqjDJYvpV5fenySklJool3uR--KDglcDmWIqLYsN0CJrt-Tw9CZBGNRuPbdBihewI6p2IVMXpBdGJyPJCmVUHnYiCA2Htyf_DT_9sUfxrZWzRrcFTcx1qSxVI4Q06waD3ktK37kkcYBo3Kz2XlI1OOPXODmMQ_CH5eTtWg7GsUF1JMoZfZnicglcfuBdBvqO6K4_mkSYRyXk7UYeGHhyQ4n18_bGhTRLEKahDETfGIp07IhLL5j94ULf3q1_nQbGb3SwqMS148pRlAS6RtP-uShIceqZjJiaWH4Tph34Zg",
+        "width": 3000
+      },
+      {
+        "height": 2293,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100954443775491169446\">Attiya Mujeeb</a>"
+        ],
+        "photo_reference": "ATCDNfXyT3ksqk2PCncnbNOeyx4sJYeASXuM6GkW-SVwBJCtIfOvyyUUjTsdenhYxW-Wj_3B4W9z6kfZ-_q_VpSg6qBXf_h9pGz7qqgGtxBuShlAB6orlBOXD_12eGqy0_coYTNMqW03w__r2wvv7S4RdWWSCxQiKHxKSndCCPYVK_d1D4GpSNEKvlHauWk8DC754petMSIflq1xCqxj4hglXJRZ0SeY96bfvhVdc3UffWQlVa_RbuEPZZZUP7TNeWHcNYHMvWxyMecDFne9br5UB3Ot8dYjMdL568yDUpa-PYAmlE66kKPJw0UaghdcrtOAtrmxU4s5wZuXH8OHoYAQj8gS7YzzKXgEAtGFFKqz7cj4_E9sjlEJOqE5Jvcxpz0KrKYNl-1lqmc2ByxiAHCl2QGSX7UZquZEbva7Pwhd0sj9oN4W",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJja6LPdc3yUwRd5azBQNQkn8",
+    "plus_code": {
+      "compound_code": "CX59+52 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX59+52"
+    },
+    "rating": 4.7,
+    "reference": "ChIJja6LPdc3yUwRd5azBQNQkn8",
+    "reviews": [
+      {
+        "author_name": "Renee Daoust",
+        "author_url": "https://www.google.com/maps/contrib/100158388418818465181/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVR9zrQX7aSEPyvVJ-09lushMsSaQ76EeRSkaLraYljG8YQg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "The decor is pretty in the place, very clean as well.  There was only one staff member when I went and the gentleman was very nice and professional at his job.  My teens had the bubble waffles with ice cream on it.  One had Skor's as a topping on the waffle and the other Kit-Kat.  I had a hot chocolate, I don't remember by which chocolate I let myself get tempted... could've been smores or something else I took but trust me whatever I had them put in that hot chocolate was to dieeeeeeeeeeeeeeeee for !!!!  Topped with whip cream on top of it and more of the toppings I had chosen were on top of the whip cream.  My kids both had the boba's because they're so darn cute they come in a light bulb (that has different light settings on it and you get to keep them as well).  They loved the drink however my daughter liked the boba a bit less but did have most of them from her drink because she likes the popping boba's better.  Very Instagram worthy picture but, I was too much in a hurry to drink my hot chocolate to remember about taking a picture and the only pictures I do have are of the bubble waffles but my teens are in the pics and I'm not into posting their pictures up for everyone to see.  My daughter and son both agreed best waffles ever and the toppings just took it the extra mile along with the ice cream.  You for sure have to come and try it out with your kids or with someone you know who has a sweet tooth.  Food: excellent, drinks: excellent, cleanliness: excellent, service: excellent.  We will def be going back there for our next sweet tooth craving.  By the way, there's a lot of parking as well because they're located in one of the Vaudreuil malls.",
+        "time": 1768318861,
+        "translated": false
+      },
+      {
+        "author_name": "Liz Potvin",
+        "author_url": "https://www.google.com/maps/contrib/117446006302534521920/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXWm02DyUdOVdcCg2TnYkPgHb5lmh0u3Jo1ACv4RJhJkd0wwM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "We loved it, we have been enjoying these delicious deserts all summer long.\nThe service is always amazing, very friendly atmosphere, and the variety of deserts is quite large. No matter what you chose, it’s always a unique flavour.\nAs a side note: Don’t go there with a full stomach, because the portions are quite generous.",
+        "time": 1730261261,
+        "translated": false
+      },
+      {
+        "author_name": "Mark Maceluch",
+        "author_url": "https://www.google.com/maps/contrib/104848410476171130105/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWmbjJlB3vojk6_HKmMm4t1AzPYgAxBsajrQcg-N3z6pnDStXH=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Super kind owner, they have loads of ice-cream and gelato options. My little one was delighted and mesmerized by the topings and fliavor options.  Place was very clean with seating options and there's a bathroom on site if your kids fingers and face get sticky.  As a note as of end of September the Gelato was rather old and crystallized and 1 scoop was $6.49 which was outlandish.",
+        "time": 1759003116,
+        "translated": false
+      },
+      {
+        "author_name": "Saeid",
+        "author_url": "https://www.google.com/maps/contrib/100385287609758779177/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZ7MyfyEUoKsVBtnOcIduprIQHcZBPTEtprA1l32x3Jzp38R5h=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "The ice cream is delicious and the variety is good. The price is not cheap and it is ordinary, but you are really eating ice cream, not frozen milk. The staff is very kind and friendly. I highly recommend this place. The interior and decoration are very interesting. They took pictures",
+        "time": 1756687385,
+        "translated": false
+      },
+      {
+        "author_name": "Noémie Ménard B.",
+        "author_url": "https://www.google.com/maps/contrib/115788048222385593100/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhZOQvxCHfOE-HxhwYfXerv16TX72syLEtNC7AJyVIQAmRbp0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "We have been there a hundred times and we love it 😍 menu is awesome we love everything we tried ( we tried a lot) . The place is beautiful, owner is nice and we love that it’s open late!!! Perfect late night desert 🍦Try the dubai chocolate bars from the fridge as well 👌🏻",
+        "time": 1755310648,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=9192497763327383159",
+    "user_ratings_total": 78,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, Av. Saint-Charles, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

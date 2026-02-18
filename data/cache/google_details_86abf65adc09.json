@@ -1,0 +1,402 @@
+{
+  "query": "Entrepôt de la lunette Vaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340377.741576,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "local 180",
+        "short_name": "local 180",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "585",
+        "short_name": "585",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P9",
+        "short_name": "J7V 8P9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">585 Av. Saint-Charles local 180</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "585 Av. Saint-Charles local 180, Vaudreuil-Dorion, QC J7V 8P9, Canada",
+    "formatted_phone_number": "(438) 700-1034",
+    "geometry": {
+      "location": {
+        "lat": 45.4079416,
+        "lng": -74.0325916
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4091792302915,
+          "lng": -74.0312995697085
+        },
+        "southwest": {
+          "lat": 45.4064812697085,
+          "lng": -74.0339975302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 438-700-1034",
+    "name": "Entrepôt de la lunette Vaudreuil-Dorion",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109147395944781514090\">Entrepôt de la lunette Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfU62ZqRcut1Yv4qv7uWLKZfXTPfjzyJBp3JDYt9eJjDXWZJBdsHMh4L5iI7tmS5sZpfwxit3yUeXSEa4fdNVW1qyS7E7v12zn-wMrZIMGoEQXA5wa_-HsAo4UfwqKAvSjcFQrNeRaLjkiNR5r-kUc0gq0qgLuxuxy6a0ACqUmB0P9vTUNaDqTY6Z7qNHkUepm9k7twvbdC7rtXIHLnKyrLejP259-ic9p9hX_W2QjVOjFxONRn0drrtpqN8ewbinztdIUZY33IC44ndugZHuTGPLjU7F_2qiPBT-IX7xX5InQ",
+        "width": 1080
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUs1t8rnPZza8HvAoifj8lOE9v5DX3M0H9pWLFcgEk4JIGO_rsGE1eQkM_gH_zD47n-4SgQLmbcG1HNlP1dXwbg6CeFgdBGPMOaURQzT04YcF5DwfzmIGo-NObxvK3PiriJHoKg1SFkpZOWl8y2vkaIW55HJTxK8xry4Wdbmn9H4v93htcoyqiVGLgx1ynANj_fpD0pjQhNJ-yVk620XKXu9u5JspFPAQhEqED7Rv_xDB7DD0BeA369kYHjjBsaXCgECh0Buse8gFlcC61cwcrxVSz_xgwkCjjluF_OTXGPMvP3HAeWBHS8r0tHorFvjcbiJZIgntotd1HILMUdT3yBkuaZtFGYHGHhPvJ0To5pi0EtkBlJnO7iy0k2HOXrYDE1ix-jEj3ZhMF7MusjAt_wLnvHCA73MnktPHiWlkQh_af2",
+        "width": 4000
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109147395944781514090\">Entrepôt de la lunette Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfW4wVVhRDLYH1_XnCCva6wZCIt1ucfGDboLnOyDE4sRbfLzBt6J5uvmlUNIGB1TegHWJO-wwLpuVnVX2t1V7U2EafUmEw5z9TvyRIGxmQwqnnPlOOEhlZEToV6wK0A2tpRy0r25bLKQoWRi8sETVHkzzvddMChHPC8bAtT7xC6J1xPodEKI1xez5Q-6prAsRy_TuMT_iitkT00roOc-Q4wHScZJqDEEWG0-p6HUxg3W8d9WODZj12lNgzyIIlhkfn6twpmrhgFoag1hXPE6TN4D8ORGc7a8WW3tPNqKGuZy6w",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWcPVuiE--HrvXow7SSozMhh-4oNIsItS1P7BtVLiwOy6nGo3dgURcSnEamxjCcYlyAbZmtLArqD-DN1q2T-idomg61pzMQWlgMBh1aO4Jy8Mb2Ig4_LWQA4MjM-XqF48RqP3l-o5R1bLRz0PAvqFSItqZKQXvi0hdQk-dmgiH4s38pFY7PdXOh_uQGGhZVh8mLESRJJT2gMH7wSiTg6OxWZ8x6_0WYjbjDPLv8llZj1p75APOKrDmMIF5dR7XXau1PukcXezvOYH1DuJb-TSfbm22iJlODuhTrTmEi8EOHqlPPWxjCDBUCO-l77OhohvY0exLzkbRs7dZ0FWxr31BLTK8ETU7pmTPaiWL-sxddRIsTeKXWA7OIcgQPPEL9eJKYZG_1PhoSEZ6hSs_E2zl1aFoPdVwrslwSQNsK-NApGaENTCKkEeVkNbQeCEKa",
+        "width": 3024
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109147395944781514090\">Entrepôt de la lunette Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVg4_GxRN2IC87z2UKC-HcpFO1rM3rsgm_xPrzwSc2dO9E0iQLGsnavFQpiLOgR4uTZcwpe8HMwtwLODLEwTCGfahGqm8AMdnktz-TuiDU8rjM0B-A0wxR3n8VMaCEmD9P4kzx_F2847ZRtQfsSG6g7Jcnl0YfGMIU2hqUYTwcE0pZZysFp3-hlaRyheayY1VAfcNmwqQu3eHYEBESeKE5cGGzEbxlz8LMZi0JNk7Kh0XwYlpkRCI31wl-sRMuO434sp5lH-ajzLo99sDN7urbOd_2EsSLS6ma48Yw-C8ZKKg",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109147395944781514090\">Entrepôt de la lunette Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUeqvyofJ781nQnJPHN8rumdN9YyN0I10P_K2aLnYDF_hYoBkoek8Dg9aZsJfk5Em6kCDIuiYU3BwtPCk5KHdJjtQz2tS_ww-gCRKU9weNfmsdqkeU5di4R0WdSJrQleUCA8jHMdoJAglrwoBKzi6UrGY9U4OXncQws3-ne9T_wqmv3PRzq51ywCjBR0WzghM7KNsc09M4n5KWyrhxLzIoED_dmqrHkksHRBGtF_KHDuVlkKwjj_OoGYo62ILKGKsynEI4UKHPEB0PO25xCgQvaMhaGFztDhaDKu5oUHGTSqQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109147395944781514090\">Entrepôt de la lunette Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfXLfS-0_BWOp0qHzSkRtomsuL7JZwtt4OgKGFnIUOtK7rKt9uMsNCLYN-Xu679nV6bQyFeR066GKqYjI9rO0nbP6Y30TsCb5Dkq4C8V0LXi4hJvmUfzRZVBNXZTiU3QUy9XypuH0azdXM2JABQBoONQgxp0K7MjESa2V76dR2MvmeCn0Xc_G_l9sg9Yt5v7WTdg3s8yAtPHDnYrLcffy8I5ygf3gvL4NRl_8BI-hvV7nI6MpWfq_uePSAbQcwMNx86-_TEg5a6-as4Hi7YtF3NO7SMoWz8dI9b4Ehf2JJ-rPA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109147395944781514090\">Entrepôt de la lunette Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUdkFIrSijySSoftrIYIPwsvY799UrTdH9R0VWtLOjYEibPZge-noIX1Atb7r6prLAWAVzj3HsKpwiivPa3jlJSApUA08U4Zb3pvodyZddEiuBjr-OSsMVV1x7bv5kNHzHtxgCMXJcyAaVHj2HkwECS-C4INbptbVX-cNaqUlO1P98qIUEw3sOdO8cPlh4qB13atvZYz4j_M_Mn4ncR8ia1a1IyT035piH9_3w1nW-gH5O_SYOgL-RgDee5dK5PkfjakDEWlDAcQlsxpqh65e_cb2sBwjwyTuSFYcyzfjvEiQ",
+        "width": 3024
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109147395944781514090\">Entrepôt de la lunette Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVKZhrhHKW5xg6ZNHmVj7QXKouhWwxScCTxWIFNIuHZC2r8bttDe2BRoX9VBcb7n1pR4SYDRYw-S2o8G1qK3L7XeY0sJbLQLLfp3nDRG_69VX5xy4lx8ussF8JcnSQe1RRW7dHHjVNr_t-Ylk-OuPBKDYkMysAVMK23Zc4kTmmJkyBitk8Xk2od8Fah42vhsMd0sNqkzC9wAytvscYMYXJ7nzHZzQBAGS6L90uK-l_OQTS6cplE8ySr-mCbGN8UQKuXgB3uqQvKYlatGvQOhR9_RxX_gNvYRd-03ThcYsDHLQ",
+        "width": 4800
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109147395944781514090\">Entrepôt de la lunette Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUexxsdpPSsDhmfIqhbrWNJx8pKpvWPo-RrLwa8gvnHvoDnQ5sOjN6TaIIy-mube4M3A5JL4Pa77LCDVzxRGUuSfdLVpY5OE0k_gR6aZE5ZIBhJU2sWwBMyCAgpPj7N2uzjLtQy1pFmWzcv045htPECYr-GnIxyCXjGJhvT5-KTl4Jy_sU3cYNYUTYOMIyAMvjFnAX3HvlNghyY-inG6UY1-XZ4_zn6wHh2koR4RPxZn8qQ-hcNahx5c1AzNmuVC66CuhBUhnlhTCkTevzNVY-JNu5SbE9nDeB0SfqZ3XlquQ",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJm8pzBrA3yUwRvUz06ZzLdpA",
+    "plus_code": {
+      "compound_code": "CX58+5X Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX58+5X"
+    },
+    "rating": 4.2,
+    "reference": "ChIJm8pzBrA3yUwRvUz06ZzLdpA",
+    "reviews": [
+      {
+        "author_name": "Maggie Richard (The Gathercole's)",
+        "author_url": "https://www.google.com/maps/contrib/116391348342439783594/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSngm9RtouQtceN-0ZF5a2OLny13MX6cqa9xQxbaWgsDQq878S=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Staff are very nice and are very helpfull . My daughter went for an eye exam and needed glass, the sales were great she got two pairs.\nI find it crazy expensive for adults for eye exams though. 180$ an exam. Shame they aren't cheaper. The insurance companies only cover like 100$ at 80%. I know its not the optomitrists fault. Just sucks. We get all our glasses here. Cant wait to get  my daughters glasses.",
+        "time": 1761874873,
+        "translated": false
+      },
+      {
+        "author_name": "Kendra Mathieu",
+        "author_url": "https://www.google.com/maps/contrib/103024875325684682720/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoEbSipVkqBJpR12IAGOfUez9uQaZvHXkJaokAEZHHdoV-I9M8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Great staff loves the place not they are affordable glasses and you can even get opinions from the star memebers on the glasses of they are not occupied with another client great service can’t wait to receive m’y new glasses",
+        "time": 1744764313,
+        "translated": false
+      },
+      {
+        "author_name": "Carol Periard",
+        "author_url": "https://www.google.com/maps/contrib/109857484251990098555/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkG-UgofFn1kfnlmEumZ421zE2Lx7eVhL-f-GTDV4_tcwKlEiT=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 years ago",
+        "text": "Bring someone with you to try on glasses to make sure they look good and are the right fit. Mine don't fit well and they won't let me return the frame. Head office is ignoring me to. The only good thing was the eye doctor and his assistant",
+        "time": 1702247908,
+        "translated": false
+      },
+      {
+        "author_name": "Stefan Durafourt",
+        "author_url": "https://www.google.com/maps/contrib/109238994744402117037/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXH1K5glzTiGJ2pC1JX8C0N0CgQBwBO59TbiTsdKowyI7zJV4Qh=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Great prices, friendly staff.",
+        "time": 1682034166,
+        "translated": false
+      },
+      {
+        "author_name": "Manon Roussel",
+        "author_url": "https://www.google.com/maps/contrib/108260325298205617178/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDvfQ937-bQGh1_CUinIiJa8vKoFTnEiH0o_WM9Q4WihShWYo=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Since May, we've been waiting for my husband's glasses, it's really not good... they told us 10-15 working days, which I thought was a very long wait, but this is crazy... last time, they lost two customers who change their glasses every 2 years.",
+        "time": 1751314905,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=10409731463513918653",
+    "user_ratings_total": 16,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 585 Av. Saint-Charles local 180, Vaudreuil-Dorion",
+    "website": "https://entrepotdelalunette.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

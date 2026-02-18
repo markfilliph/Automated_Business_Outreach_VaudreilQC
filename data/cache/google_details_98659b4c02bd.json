@@ -1,0 +1,422 @@
+{
+  "query": "Résidence, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340656.084687,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3041",
+        "short_name": "3041",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0Y1",
+        "short_name": "J7V 0Y1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3041 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0Y1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 4:30 PM",
+        "Sunday: 10:00 AM – 4:30 PM"
+      ]
+    },
+    "formatted_address": "3041 Bd de la Gare, Vaudreuil-Dorion, QC J7V 0Y1, Canada",
+    "formatted_phone_number": "(450) 319-1919",
+    "geometry": {
+      "location": {
+        "lat": 45.39586,
+        "lng": -74.05372899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3971600802915,
+          "lng": -74.05231176970848
+        },
+        "southwest": {
+          "lat": 45.3944621197085,
+          "lng": -74.0550097302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-319-1919",
+    "name": "Résidence Rivia Vaudreuil",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1630"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 4:30 PM",
+        "Sunday: 10:00 AM – 4:30 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXHn3zhbs6CXtobug2per334PXSm4VfY0rM8H1bstxZMyFgmVniu26nefmHv17SKndyN4Y_ooflPfM7Rr6krLqHLV3Ok_JbDxejJHCwMCspQAebEQgEBy_oQt65FeEYDQgpQHz39dUgJZLrtV5QQHvIlfX6ke8nWXdiKeK_dcC_tISWQpdHd57EOW5QrjKbscW13NyPZM9ECRtwCJZMVb0NwVlq614f7neSZOuPhgXiDT9d1Ixy6kMIPROICoWcq6a6QNiFCmt5HeNtmEe4dzW2uk87X4eJS1dvILX7lBZXDA",
+        "width": 4800
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfW3teDjnapIlCn97UBnQq59XB82WSYuR7-IoJ_Scg1gowM94UgWoITVJGIU9iay5RC27CxTfnkTeD1D4TBv4zVT5rS6Nod2Jv_yjRdrnjP_pXfEtF-KXDYET2iBUUfswGFMg42XXy6ZjtWfp4mxnMB-LUXkQJIxY_1-jRkE7chPu0SqG5AGxnqhNFBJxAU1BjD2NMSjMvw23OzmRw-FtZJo1hkb3blZ-KmtwS8-s49wSlldCbakMlr2w2IHiGFiaKd46h8KjWde29dX-cWiiYi12LC1mARHcQo8h_zeFqdz3g",
+        "width": 720
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUn7tZf5hj6k4B_bMiK94dE3Aqq4t9ZvSmb76LIt6z33ZtZTYVu0DMvYmqHP0g52NdYHLOHqJy3bb2SvThYwR9_TTziPjpwUKCJ1R54XG4XWnEWzwMl0Ad62C0q2ELZvs7WrLRRgqiUDFOoQFl-GPJvepH8TpC2I1HDdr50TD9c-6IULOWIQBS02xMc8REpNwlxobJpitNskQlTHz9OyU6eHWmeQpfPiIuW85gcZPeEOTRWN5OznZUoi8RnnU0cOfbSK2qWYgiSxEdMHidsVjAGk3iU2duU1tK_PdKPe5T1oQ",
+        "width": 4800
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUId8SUe3zvGDKJuyvUPwYOA1UcDVzBHD2UQc4uZV8yb2n12KtaMe5siVObs7MK4lfO8DkR5Q2cTQVdY8_PD8WJeV1pzJl1JmhDnDJ83N15iuTdexOyLrqFlEJELbuReCPTdcyEKQj0X3YEBRhmK9iWtlHQ6-VquvsUqY6x32HEg71YV1AYp3SIPA8Ud6h9LCoUddiA1-ZRIJI0qWIGkhINhg3iYhWW1G1E6aYx72QjkhAtNA8wyvBeQ8Ec-wFjmlc5Ozk19EelWD06h7_N1MqZ2-mUi685kHAuzCVgSz6P2A",
+        "width": 720
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVWVhhUcV0vqFCxxrpzCpDEr54uP27flX5juJIfB-e7jWFZ5m4vjDzMh0fqrHN-d8MnQik0NPBKzRwJsWokYdf6_ET3yJvAgZwfWshUoORp6-WTgkd8DTh3nyJ3gwzgWQgvcrmqeORHILvTki2soAHgWmF2vBDjiExGI8qpsUXEOzUxbxgFcbMLEawPHbqam9aojYkMpQKTyrRTaGFzDgc1muhlqW2UaBNlupV-bf8PpuU93z1Uy6fAdEC-n5bdReTxRR1F82q_LNX2aE7KPauXm-07uI_n8swrTRKbESei0A",
+        "width": 4800
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU0Yb-XuuNdolc_xhfGwRH2UkZ0ZqWkFtgrrwVYyubRfHg9md-YBD8wCy1ju_QKbfj8dY4vu_BcpZuws4g_Cf0Amz2dWpp_2lQoqqQRzThV3akWMEGZAndg5yFqynNqvFnNYzfyheR6-VRHnoK3AewbGljnaXR2cLlGQ1R6cOuhu4ydXly2sThcKOTvBj5M1J2R9iwxfLQpQDmM7QhQjZdmug-oKJ4kjcX1bIzyi9TGUxiHJj0VZrHR7iHxBo29ysN-TpECZ97STCebFAiPmHUm6Q0Kvy63OiARFd3c0jlqXQ",
+        "width": 4800
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfW5WjcHmvHT2wJqRE8ZM0OQDXIQJwvXaxozKRrERykCGIyjMUJOB06b1w-AtPOHoqlwpb2R15q0gee5EOwwebZZiJsHGUVvMl_U5hyPDI7v4bKGvd2yIwaf7-ZveLn0oOOUDANQjWfnfvZK01HXUuQ-6zsXXD0DXhewuBEHyDDDuYZ4jvPaFPEHakIivjyN6H4DKYg-H0aPy_aeNxdmbm8nGLiI8CLmbZ_7MWcF-v8eYP8Q44_Zq1RB07s1cIU2-v6oVecWyDrJ4ouhUif1aUpOZch7x_ceb__2vCC21foeig",
+        "width": 4800
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU52v8d2SbrWIg1jXVdQUpdRHo_B2WVp2t1zaXJc0zNj7BFSMK5Sx3GvUMAivcAPd0OHSL8qEx_RcXGtGXQp0lUH0rGeFwfItNRJHTc9qeTvQjvDVVS6giBbDuQ3h09uvBiWlGC-s_dqczt6aqbC2UNshxYscVP4XixbUhEfUJZR2q8L_nKb1leAXh2kVz3jtkWdCCguUpGmh_V5kVz5h6iRpJLw4EWpZiYj0dkCxoPlrVDGWbkEGzFF8h7DQ_KTFAPGKzBoMH3rk004Y-Hs6cYd90Yejfeuv3omT_pk2koiQ",
+        "width": 4800
+      },
+      {
+        "height": 2700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfXarM6qaWc5KdHBZUTbpDkdOUgrZQnsWMv19aM0l4YXROkprWrxjsQJAKK77I8ih_cU1kZj64jckqQTkWeNFI5bs9abLyb_b_EEic1gX2ESpHFsHjFfNQ1Fx5xLavnob7irH5HWaTYEYreLq7nx558uNkdtpoc8JfmLW_mUb-iY9W8iOiO0RZy02DBKexKEsGHUXl2JbUw5Wce499A9M7FxEn11TvedhZgbP-MTvD8eFeWrj7GLzNwDi640aI6IMr4swfK74CWPsBPzOForHMriuaIyJRCjtQWsKJzsfFRzMA",
+        "width": 4800
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100383456870363534753\">Résidence Rivia Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfX1dAyHfF6NJBLlQhJtADJri0S-i-EamO-w82OWWie1MR85LjhD1XTCXziBdAd0IMYWDFnYTzKJ924r2KTRatsCjbnLiI4-9VIVSAdACD47ZyUneVdwhdbQRIihQo8bwyrWl3DVs7oqUW3tpuuA-qV5FIn80cxMnZEC6bPzlmfxuzdqJBgt7s-4rEE-66fxyMCFwEP4PvXiMulnINQA7YDrBKnDJ6HjYBwS8LaICMLDs3nmAlTtXD5dG5cOn3Txoa3XJLkWMRA1TTzXoJ0rIL-YZKuxeddS7AOfguM56sgzDw",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJJZbveCg2yUwRhsvOfTPcULA",
+    "plus_code": {
+      "compound_code": "9WWW+8G Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWW+8G"
+    },
+    "rating": 4.8,
+    "reference": "ChIJJZbveCg2yUwRhsvOfTPcULA",
+    "reviews": [
+      {
+        "author_name": "Claude Raymond",
+        "author_url": "https://www.google.com/maps/contrib/102943910715537003577/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-szhNL9uAPSL4xDmIl0iBZCDcJf0KpGIVieiTlePGzhxO1zX3=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Nice place but very expensive",
+        "time": 1705243506,
+        "translated": true
+      },
+      {
+        "author_name": "centre dentaire boulevard galeries anjou",
+        "author_url": "https://www.google.com/maps/contrib/101518065148796498882/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZv3nA2ptfFlgCMdZkPgL6djjGJIJbGvf8O0CnIoMivr-kFQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent Residence!",
+        "time": 1705245265,
+        "translated": true
+      },
+      {
+        "author_name": "france desrochers",
+        "author_url": "https://www.google.com/maps/contrib/114174361679235693716/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI63DglgqhWnqHNccm_lvWntPp-PPOY4g4_23bbeLcq8W_Zag=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1717777770,
+        "translated": false
+      },
+      {
+        "author_name": "Harry K",
+        "author_url": "https://www.google.com/maps/contrib/104898905653442546613/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl4Ds5iOrnfwlwDQb_QyccKwMQYkwbUrWRPybLsshmyQtohlk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "",
+        "time": 1536529363,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12704896662524316550",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "3041 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "https://www.residencerivia.com/vaudreuil",
+    "wheelchair_accessible_entrance": true
+  }
+}

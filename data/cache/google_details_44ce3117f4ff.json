@@ -1,0 +1,357 @@
+{
+  "query": "Centre D'Esthétique Caroline Legault, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340045.550926,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "24",
+        "short_name": "24",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Saint-Michel",
+        "short_name": "Rue Saint-Michel",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1E8",
+        "short_name": "J7V 1E8",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">24 Rue Saint-Michel</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1E8</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "24 Rue Saint-Michel, Vaudreuil-Dorion, QC J7V 1E8, Canada",
+    "formatted_phone_number": "(450) 455-1025",
+    "geometry": {
+      "location": {
+        "lat": 45.3999922,
+        "lng": -74.024676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4013119302915,
+          "lng": -74.0232386697085
+        },
+        "southwest": {
+          "lat": 45.3986139697085,
+          "lng": -74.02593663029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-1025",
+    "name": "Centre D'Esthétique Caroline Legault",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114135245942879023413\">Centre d&#39;Esthétique Caroline Legault</a>"
+        ],
+        "photo_reference": "ATCDNfVJYYEIPw1dczx3QLEBM4TS6alflXHnn8tzh3RryX3UYu5c7Gj8iIIkr1E0voJhSaQDEzi6vDVH5Kb-VYSlntY1axBpD4qZ_x1xzCkfcLP4PwEy2wbxBxickfZEj-qAQO-Nq3b4iVDlxUZFgE4yaloxSDcNKlwvUeN-lpZL6PiNkdbMY5WFOp14XbJfsMg_QfENbVXo4MEW3ZI0oBOrzV0Ic-Uyg0Q6QUIZTDg4XCS5XyvYCAev8zAB-q2jBmuuWO2qV7Lmq_1Bk21zWTrdAX_w8phFnYa9U1zVr7nsxndlnQ",
+        "width": 3864
+      },
+      {
+        "height": 2472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114135245942879023413\">Centre d&#39;Esthétique Caroline Legault</a>"
+        ],
+        "photo_reference": "ATCDNfV-67-zAM0N8oJ4lls9UFDDaS8IvY6frmeorPhgRHcOEhxTrviRq0L64T8t4jamAVvgE4eyze_Hi4aLQOM4qbrztR0SJucS8ddU8lPGJx5HqYLKcO7AAaANlricEV6xU2yVZ70w_rjLlDb68YwjLRQnNIDHyQsG57FAP4DYcoV_a3UK1LmL74JLTu1bk_Kf8jEIFvNbHWo1Ww0k00YszLEAG6Z26RfZx_1pTGgpY5GQkBJTlAn2tgXfAUtwJbLi2PKrAb9TjQDCxDetQB74TOuPXoj3pAooQm4YAls4k8TQgg",
+        "width": 3648
+      },
+      {
+        "height": 2532,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114135245942879023413\">Centre d&#39;Esthétique Caroline Legault</a>"
+        ],
+        "photo_reference": "ATCDNfWlXH-d1NZWIhNUmFhaxlbJZjeK4z4zUZMsFCSCmBI8gbcDEhZPEuzcySDyTKS2FVn1WU7RrZkaXWkjUP4NDR8l5u5m0DplhtA0mP346Bm2-FG6oerG9ZpXphkTipfP6IGHhV16Ga0RmxpqQID608a5QIwTZHhhIB7cEDPTFOV0ry_6dzKml-cKdMNfXHJbT9Fm3DX_MR7XZO5RBq2iEWXCDAtvh60-ocLiuqs4qbinIykVEk-C3uKREjXVJmsP3yOqJQwJ0RhXGDdI2rU0sBtWZhhPdN15BiR0mUBSVZpZ_g",
+        "width": 3990
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114135245942879023413\">Centre d&#39;Esthétique Caroline Legault</a>"
+        ],
+        "photo_reference": "ATCDNfUPXbtkBvZn-WFMgCQ4OkRL_KGsVugd0YRsviV7nXn1kmvpilTHZTVM_JN62ZekbvZ2IPh2tocx3i4EJnRoGh6sY9D-O7NkyNHLNLegYbfqKdFY8xIRdr6D2J7dtak8hajy28vPlEBTzMXOo2ygs2Pl_ng0CuCb6ELxXM2KaM49P_gsxxY4q9QotPgmqIsYbzWwIMo9cvfbrsaeQ38fbqD0Ha3UxxOKG8o-0Io68DH-8Z9Ulw-ksju8Lx7WojCEyjNw7QNeI0mrg0Tt79oRIQnG2q48T1W2JugvqXDF-VEXVg",
+        "width": 1440
+      },
+      {
+        "height": 2578,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114135245942879023413\">Centre d&#39;Esthétique Caroline Legault</a>"
+        ],
+        "photo_reference": "ATCDNfVmzLHEomxX7NV-CDiPmPIDYvAPusIo-uo00DOoG_PN6V_m8wXPg7HiVpbpQXO3QBkrufUD-VvCqHlB6mSfAXeAYAnAowlgTwnCd0JQP518XAUX2uPJQOp92USYxLQ4O1W-YamzqBlP7xwQbyr_BYzNVrZPAzOLy9jBDauBotG_L2_9YdeI87I1KM2oKwEj221pRw9mUVD38LFdJGKYykwFaydkk1lItja8kVa-V1ZGMH7a-1gY0MQRCvf6R90kdDkydPkmAB8Pm-kKSrrwst0hvzeDMWvm0dbz8Wa0dnTJTg",
+        "width": 3863
+      },
+      {
+        "height": 1233,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfW2ZdPto62Qe4wzZH3fwXiy9VDHeuET-FaxZbyeT31439Mp10R62oZ-OsNsbr6NfkpbFiNShEcR2hhwo_nxZ1RxqHmDvcBUHW8SPO8U7Lp9BKwkkRmbc6xlPX75f1KP58XYM3RaN4mhIcpSaTbWmCGNo2Q6UZ6FjLNIIMdwi6X3lTSnpJ7Ee55OTMMmreWOBNNNBENFUCwdBL2M0V6HpKUmY0PZMQpoJSgQ60zxaTilvjyzwqH-gReE_uWS_OGILaVqqlYEr-8eNqwmSNMgc6IA85uM4D7NSx6khz7_62ZTOWQVd5a8wz0UIUXIHcNOylNZxifJHb36f9S76nu2WIJkQ0KvgLhiH43_dyPlcLn3NZNxOhptO3hhXNjwrQZBxWJqIjqqkafVtRpE10jskIsV1xmZ3GQl8X2n_43Lh5yNW28M",
+        "width": 1920
+      },
+      {
+        "height": 2479,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114135245942879023413\">Centre d&#39;Esthétique Caroline Legault</a>"
+        ],
+        "photo_reference": "ATCDNfUqLWHqy_8_PX3rB5R99gIxPv0LXoh5KEKg6QURoeuhGDUO_l67inP-sWfDtzhrMaljFmkIyq5THbR4OWVe8c-cdPi7hec77B0pYK58xb4zgQqpdn6vNPiRC2wgZIKnsztDmWz72KN-kzja4hRkdRE2NhbnD2x6KGjTtzczKLJu5Mn1gTOdaigDZOCNhfNNMf_L8-YxnksJNI_8yXU8aMvc-wzcb7xnB75E3o01Uf9RNnuvEes9n_nCr667_kCmEuH8pNYjf1VWUB2qXM3SuPObxdo_wyk4W4l_kjtOVgI1tA",
+        "width": 4016
+      },
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114135245942879023413\">Centre d&#39;Esthétique Caroline Legault</a>"
+        ],
+        "photo_reference": "ATCDNfXu672slsZxtx_n1KZHK5AwoSWc3CxxBD_Uz1xPA5zMi-rFJneLrGLI0CJljP7VV_OUQhSjYcC8clIzER0AwZAy0tcFaHttE7efAcUS3wekANI77-i8BKhq8k6yro6bUNE5lwN-zGXnYKaworCqzNWmWsvTOscCnJrapcJhDnG9SWhbnaBYIGzMHFF86RQkO29v__7GQaxVD2Te8_M1UN88t64vuFSZtqtKpFHX-Q2TQSBhYE90mdnJ4uQyDKmnwoDQJ_c3CD2BzckDIGf_q3U0t0-RnbiBhrRv9KkPU88XAA",
+        "width": 770
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114135245942879023413\">Centre d&#39;Esthétique Caroline Legault</a>"
+        ],
+        "photo_reference": "ATCDNfVv_tfYWNlYbVFfQZsIlE4_oUJgOSAO7ZkXfhbEwMmuG52v3TqlxJYBAUXSCyCFygNcZjXMKZxUO0-JYNa7u9r31sv73ygMZ4MkWRsLzdSVeSwPdUgQXU650dIJXCy-iFbWvIb5W-8PSlnG66_hDEV7mQijIN_bqVq1jygLDcMIIUH1giCWy9m9hQMAYPF2m-HVl_PHruslBO7xjMSbn4hsSbjUtQwKFmUO8u2CaaXfP5l7zh2-Mqm1CGoFrXBpmorHTNV7OXMPCkBCr4bp2cuA-VAR_yYFeGN1kcihFIBbEg",
+        "width": 600
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114135245942879023413\">Centre d&#39;Esthétique Caroline Legault</a>"
+        ],
+        "photo_reference": "ATCDNfXg0_376pErJEUTtnhf2qVM38q4GbNA5N0jF6QMr1qkfWcbILgEBqC2JBLumIyLqODMXbIMbbPtXTDaMEBahpsYULDQGgqHyX2kruJ9N9N31ZCWipZfEPNbYF7DsxFLrUkszz7tGdMmgbSk33QQN5PHJjgMoJkjQhrcAi2CpjlhNxb4fMleWXRQwaNbxcVtacJayrfeJnUFiBPCtstfhy3GQ0mARG1cnfko2xKNVWoOZe2lvf2YW4RgQIrmQhRa1yweRe3zukjbmXm_RQqJqASTjgEIq1XaOI6cKdNQL7W10g",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJFZTy9M83yUwROK7J4WK--wQ",
+    "plus_code": {
+      "compound_code": "9XXG+X4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XXG+X4"
+    },
+    "rating": 5,
+    "reference": "ChIJFZTy9M83yUwROK7J4WK--wQ",
+    "reviews": [
+      {
+        "author_name": "Annick L. Gagnon",
+        "author_url": "https://www.google.com/maps/contrib/117165543932024527392/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUorUsjJM5bcaoxELjdZk5Llk4M6LM_p4TOLHVFwgZ9XeI-a8PjQA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Caroline is attentive and meticulous. She's always on time and always does her best to accommodate me if I have a last-minute change and need to reschedule my appointment! She's the best! I've been using her services for over 17 years, and I recommend her without hesitation!",
+        "time": 1732014086,
+        "translated": true
+      },
+      {
+        "author_name": "Julien Thériault",
+        "author_url": "https://www.google.com/maps/contrib/112168318111590949156/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnWm0aXauwaS5hLhVWLTOtYEYgI9FSSfxvVpHWZAq88E2LgapD=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Courteous and friendly service, highly recommended.",
+        "time": 1584564635,
+        "translated": true
+      }
+    ],
+    "types": [
+      "beauty_salon",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=359089927210249784",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "24 Rue Saint-Michel, Vaudreuil-Dorion",
+    "website": "https://esthetiquecarolinelegault.com/"
+  }
+}

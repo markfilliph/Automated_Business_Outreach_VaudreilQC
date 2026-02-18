@@ -1,0 +1,442 @@
+{
+  "query": "AcroPark - cirque aérien et pole fitness, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339053.091184,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "#103",
+        "short_name": "#103",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3650",
+        "short_name": "3650",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3Z6",
+        "short_name": "J7V 3Z6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3650 Bd de la Cité-des-Jeunes #103</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3Z6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1645"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1745"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1745"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1745"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1745"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:45 – 8:00 PM",
+        "Tuesday: 5:45 – 9:00 PM",
+        "Wednesday: 5:45 – 9:30 PM",
+        "Thursday: 5:45 – 8:00 PM",
+        "Friday: 5:45 – 7:00 PM",
+        "Saturday: 10:30 AM – 12:30 PM",
+        "Sunday: 11:30 AM – 2:00 PM"
+      ]
+    },
+    "formatted_address": "3650 Bd de la Cité-des-Jeunes #103, Vaudreuil-Dorion, QC J7V 3Z6, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.38893299999999,
+        "lng": -74.0784469
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39022943029149,
+          "lng": -74.0772046197085
+        },
+        "southwest": {
+          "lat": 45.38753146970849,
+          "lng": -74.0799025802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AcroPark - cirque aérien et pole fitness",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1645"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1745"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1745"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1745"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1745"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:45 – 8:00 PM",
+        "Tuesday: 5:45 – 9:00 PM",
+        "Wednesday: 5:45 – 9:30 PM",
+        "Thursday: 5:45 – 8:00 PM",
+        "Friday: 5:45 – 7:00 PM",
+        "Saturday: 10:30 AM – 12:30 PM",
+        "Sunday: 11:30 AM – 2:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfUCaDj4qQIdXwgZtmakhtaz3PWtoekhf3xDCJIE4U4VYAw8PC5jvgfvZ52rAHkz8nWN51IHB3512y8Ges0mIBIwBcx7QuQd8SsCaEsNEAdBSV_ERorR7BiTrZ8xHyTijQNXHdQyx-Wri2qfK7iMuDZxXTjo4T9Iv7_7rEYlr9If_u9ZkvibOqoRyTQDDMLRuUI0zPP2Nzdt33uHll-Nav0JXjSXd58Q8jD7FMcn3x2M7NO3fhzQ2SuHRf_T5EceCHe6jHDOI4nRUe8j5O1bcGnsGRlRBuhwXvKt57XCFIM_Xg",
+        "width": 3936
+      },
+      {
+        "height": 1562,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfVRayRvjEDMgM1nhmaChA2XkZ6ButnnKieJ8tfdLPFy-xIPrtej2kIJ5b3XIDiD9yf6pFQqxJneuWEsNlRK6S6R47KCcTFXChAxbLTk8ZCUP7KXE8bmOS6eF0B3KgolR2VscfZRc-y2yFlH0x0d_25RIlS1NpBQCo35-KCdTKspCbmo03FlAimNf4-N3hbDE7-1I-Pqsd7S5FJRYtD7jjuK9rDx3_j5gof3xhS_c4LvGJyn8_qIW1W5nmGHsoPhQWEd3SDADFoX-G5Rjkg43Ff1NtKLzgkZUDIBMYkOmYeiSw",
+        "width": 2082
+      },
+      {
+        "height": 1560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfUVN4Cpi2mi7OYILTh7F8PA3f3JY6KZuuvmyfR7khXc2PG0RXsFDbDp-Lk13ROjHOUCDL6BYmCUeK5tRDfFr_H9NWYXzxOxuxkPrBN7tOHCiTJp1BBb_s3TB6yh0nB8O06tW3Hg0P4KzxyxJBufq8NW9ix1ANPCRRYHJwewoBPAqf1DwoJwuJNcyHjiciDnDHFTXp8qEKzpYwbfv-zqUzj03lQYf1ig4jn8LtOUzFTYeAV-1vZPlwnktqNnG9dptZT_-y87h1jktqgwOwHdQxkXNRysU2sA_WOhD4UuJOWHuA",
+        "width": 1164
+      },
+      {
+        "height": 1100,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfX0bjX7-F5JHgjqRXi-bICZNbPU9GAEojIXBYUmwqQA5UQwNnwvy27xw0DWPdRrTQIfzxHTi8T3gmPBklFNB-QaE6C3q4kO5NYj73LDygUwSpMwbWIQGuw9A_mhGEmafFrIws3J7IJbVwP5LAjLXYseyI6RvHJUlYj-_hJkm5c3a8YZdhlf2Vgo_T2bEUn_FeO5Hmhe87_DbE8X3Ama3x-rMI_VUxGc8qBdk2FOuVOXxSV1KwHshHEZTmVNVTFFmztd8XeRR3JF_NI3-FMkkQYpRTNB_NOIxqrYCAlwf9_kpQ",
+        "width": 828
+      },
+      {
+        "height": 2624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfXyiwOYeqZJuY4FgoM0C20wM_Md-tIWFsXmRNDK2IlrhzLTMiF3vX5Cee_zczV92WsPlYOmqg_Ea3BTv10qgLRwyrdyU_ZjhHAZ3zlr9kgeMsQbF88GaPLqamit_AtYCZQO8KQxKL8QOmRxteSHb1nN1A-Of2fQx-3A79rE9BQyPGdOJk4O6HR5Ilh125PyMpTgutcgmrTNChaRwXgdwrdVB4Dkpox-8Xi5PmESWlEaY0FbEu_er2QdY6oZjE_8971IITB2OSB7FY5yh1jAuDvaFgEE73laEhgiB3qAz9sbOA",
+        "width": 3936
+      },
+      {
+        "height": 674,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfVAJBR4HrR83YT_f6iUuo53CASV0NYVMN6hjix65v2zdAaeycsn-AIlp74fDIxEqzHn2KTYP3YUJ1oWm6JuXxd7srh6fhqt5ofHstlH3-F6-oXnq6NjR6Qhvc3BZBPXvKEmRhD10OxPFczC25HjC3eRDseTiFuUixXGin2t6HjeTVSkDbdTl1fyj46-7LNcBcyiKU6YDum5vjcyrfQx-w-pgucWpMgLGjq4uxXDizVV_gsX0dGVpuykdc-pmVvSNci1rKnwCTalypjg0mTdUjEsKsKu5BY3CtidboBFco5-hQ",
+        "width": 640
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfX3SuOGg_UgY3m5w0khiErHxugrBe5wvCmvY_cXSFb8q9dBwX5Mx3T0CAc5pyvQOAoG1xaFO22l6rUTCC7V-9USx-tMMfFNslt0bT8d1W72i0MJr8Z4zM50hmPye3--ZNtBVHgjzWVms88rJK29sd7u5qvQPQREFzNUMdXl92mpDdNP5_Ajkgc0juIWoQgTUbdRQZe8mA_EVvztx16yyCdpSx-td683rTLuKE-4QaDYFhiwAkIWHIp9iFAAESL1CnayIcIpJmpmOUzfhl3jWTnHaU2SbLCRsNFyfVHM9y7CRA",
+        "width": 4800
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfU7ukeHpYRDh4xce4lBuOiMVE3ZmVm1KjY56wX8BTJug4Pf1lhPnBSaZqlKIPVf4_uilcO1uS_h-jEzU1tyNiLweIeTJLxT73vHRtcQu0rMe465QYlZ0Q4168fZ5WWL9JcA2Vx1YbQrarKKg6LUjDkcG18jLM7QRqbDHjtyNNWJalTtcSVEhQXBFWj4XImbq9tzqge8l-acPMI6msPh1PT7qfukeJH4QQX4lSrxCN0eJWM5uKq33Y619dOJrdDHhvzXZLg4mGRG_r9du8r_bnaRtBZqrvzloev6RvJWHqJJoQ",
+        "width": 3264
+      },
+      {
+        "height": 747,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfWBmzsv2ie9S6Jsj5sGGM6lsHkvH6c6sw4TP3cvBPoTNHH2jeSDhSUTtj06LLb1cUKWruwE4heoI7yzEr3yrrv3QPJ-UeHM0JsvaulYo0A2qYDTjDAU_rjgj7r8KEZLmJTYPdG8Zmwj8UdTsEizdqR8UO9wACAGy9Le4dfau_9e1gweG_VFCxrXivjsBoKo6NEYBjHKdbsTn89bHamlUC6c4Ucw5z_X41OgOxZvpQn6mqnCF8-5pdC8X9OUEUrODpdRj0jNO8fgxWmFOt-s8u6BhTV9CcdyGhjQQasfwVYvrw",
+        "width": 746
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117996448294353905432\">AcroPark - cirque aérien et pole fitness</a>"
+        ],
+        "photo_reference": "ATCDNfXIoHlXeag-2VGh-5xM0mq-RVO-aJHXxWaQQCbOgMcZcAna3lMuCmPe-qoxqUUFNA42nQ27O3HaODQAZJ5-v9I4Os4bYf9XBpaOmrBmS3ckHekcoGH7GKYT9IFA3I-HdNkEqyzk3mOAvERKHDOMUl8y4FLiuXanqgOcvyQ17RTCJvDlt3Rg0-yQwGX9c8A44h5vXXW4JhD0JLCcDy1RnCipY3r3OCHFQ1Cye41N5794IA_c81NSls0cmGgpn5j_9NUQZ3La0DOHRTvp3FWZSqqJq8B_uuxIpNIPWqrzCAOz1Q",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJfamxnzs2yUwR82QJvyJJGpU",
+    "plus_code": {
+      "compound_code": "9WQC+HJ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WQC+HJ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJfamxnzs2yUwR82QJvyJJGpU",
+    "reviews": [
+      {
+        "author_name": "Veronika Derecskey",
+        "author_url": "https://www.google.com/maps/contrib/103769362280712854329/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoNbp3kUUnOTvysO_lDuvSnr6PSD_ffexXzLZlFghKF1rlN6PVhw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I was travelling through Canada and happened to find this absolute gem of a place to train. Anna was incredibly professional, welcoming, and truly amazing at teaching hoop. Her guidance made the experience both fun and empowering. I'm so grateful for the opportunity to train here—thank you, Anna! I’ll definitely be back whenever I’m in the area again.",
+        "time": 1754055541,
+        "translated": false
+      },
+      {
+        "author_name": "Morgan M",
+        "author_url": "https://www.google.com/maps/contrib/115583319053307379602/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLozPG3D-6DS9-YoWR5bq1MuMmkHoHvHoxHO7N8NKluX-6WSg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Highly recommend Acropark, both for children and adults. My daughters (13 & 10) found the beginners classes so easy to jump into, they were nervous it was going to be difficult. Every instructor they’ve had was thorough with explanations & patient making them always feel welcome! So important for my youngest she is super shy. The studio is always clean & kids are encouraged to take part in cleaning things down before & after. Staff really make everyone feel comfortable, My gfs and I did the pole classes and had a blast! Anna was great & so professional. Love this place :))))",
+        "time": 1733350164,
+        "translated": false
+      },
+      {
+        "author_name": "Nicole Christopoulos",
+        "author_url": "https://www.google.com/maps/contrib/116477797731789609303/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkbUC5pOZYwY0rG5U-3hPo9YOwxsUthZQrQt7uRBpKOzii2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Must try (and you will get hooked)!  I have been to several different studios and this one really stands out!  It is one of a kind!\nThe teachers are all talented, kind and supportive. I always feel safe with their spotting and teaching methods. Class sizes are intimate and level appropriate.\nThe studio offers many different disciplines and fun workshops.\nThe studio is well maintained, beautiful and always clean.\nThe very best part is the community Acropark and Anna have built (accepting, uplifting and encouraging).  Give it a try, you'll be grateful you did. They've made working out FUN!",
+        "time": 1733325381,
+        "translated": false
+      },
+      {
+        "author_name": "Julia Boland",
+        "author_url": "https://www.google.com/maps/contrib/105154322888110878586/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxaFdWpLfYSZ4E0hvPWlhK0RXhj0rgWWUmlE1oyfX3HJQKDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I cannot say enough good things about Acropark. I have been going for 3 years now and it has been one of the best decisions ever. Anna and the instructors are incredibly knowledgeable, welcoming and motivating. As someone who was never the most athletic, my confidence has grown so much, I have seen more fitness progress than with any other sport I’ve tried, and I have always been welcomed with open arms despite being more of a beginner athlete. Anna helped guide me while training through pregnancy and postpartum. Truly anyone is welcome! You will always have an amazing time in an Acropark class and become part of a little family!! Highly highly recommend to anyone of any skill level. ❤️",
+        "time": 1733349695,
+        "translated": false
+      },
+      {
+        "author_name": "Kayla Seguin",
+        "author_url": "https://www.google.com/maps/contrib/109589245046781937093/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkVAm9XpIOSeA3O5pGu7l331noHz9kN92j_KS69dFf_om0RQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I started pole at Acropark around 3 years ago in the intro class and was instantly hooked. All of the instructors are supportive, encouraging, and are attentive to all of the students during the class. Anna is incredible at providing feedback and tips that make a huge difference when training. I took the decision to compete and Anna was always available to provide suggestions and support. The team at Acropark offers a community that is warm and welcoming. The studio has become my second home.",
+        "time": 1733357079,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=10743980274628519155",
+    "user_ratings_total": 28,
+    "utc_offset": -300,
+    "vicinity": "3650 Bd de la Cité-des-Jeunes #103, Vaudreuil-Dorion",
+    "website": "http://www.acropark.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

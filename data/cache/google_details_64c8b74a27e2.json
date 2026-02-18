@@ -1,0 +1,340 @@
+{
+  "query": "easyfinanciere, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339675.3690944,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Unit 300",
+        "short_name": "Unit 300",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3052",
+        "short_name": "3052",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H1",
+        "short_name": "J7V 0H1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3052 Bd de la Gare Unit 300</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3052 Bd de la Gare Unit 300, Vaudreuil-Dorion, QC J7V 0H1, Canada",
+    "formatted_phone_number": "(438) 793-6805",
+    "geometry": {
+      "location": {
+        "lat": 45.39634359999999,
+        "lng": -74.0550047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3977626302915,
+          "lng": -74.0535799197085
+        },
+        "southwest": {
+          "lat": 45.3950646697085,
+          "lng": -74.0562778802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 438-793-6805",
+    "name": "easyfinanciere",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: 10:00 AM – 7:00 PM",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJDXbd3sM3yUwRxsPls_4_rOU",
+    "plus_code": {
+      "compound_code": "9WWV+GX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WWV+GX"
+    },
+    "rating": 4.9,
+    "reference": "ChIJDXbd3sM3yUwRxsPls_4_rOU",
+    "reviews": [
+      {
+        "author_name": "Ruby Maclean",
+        "author_url": "https://www.google.com/maps/contrib/115853943179074070822/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTp3QoP4XR0PnB9-jjXROWQDEiiuS8GXtfEJTX5UCGQMrQaVnigA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Ferguson and Messan were amazing he helped me out with all my needs quick fast service I would recommend them 100%",
+        "time": 1749589167,
+        "translated": false
+      },
+      {
+        "author_name": "Mike Ross",
+        "author_url": "https://www.google.com/maps/contrib/100964898494041246974/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzVjBOIKgWiEmJCbaVltaS6dZE35tFfoB5EQpAhMD0Nki7eg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "If you need the best of the best Mr. Ferguson is the man. He handled my loan like a Boss. In fact he should get a promotion. Keep working hard and doing you Mr. Ferguson!",
+        "time": 1749491628,
+        "translated": false
+      },
+      {
+        "author_name": "Connie Roy",
+        "author_url": "https://www.google.com/maps/contrib/117314845566726455220/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDFaVd_c_D9l7K7SYFxNXoMg8xCURMU1gxcUakdMdqP66eJQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I only have nice thing to say about the employees especially Roxane at the Vaudreuil Easy financial branch! They were efficient and all was done to ensure that I was well tended to. Easy financial was able to give me a loan that I even was doubting that I would be able to achieve but they were able to. I am happy! Thank you!",
+        "time": 1668118229,
+        "translated": false
+      },
+      {
+        "author_name": "Tanika Vernon",
+        "author_url": "https://www.google.com/maps/contrib/116643438394513624386/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKyXvZWZKR9LEGlgJs56-Zqbea_7wwJOQPyr-YB26lUOngmjwPWA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Representatives at easyfinanciere are kind, easy to work with, and will do EVERYTHING to help you get what you need as they did me. They strive to see their clients happy and successful. I would recommend easyfinanciere to anyone!!",
+        "time": 1637960965,
+        "translated": false
+      },
+      {
+        "author_name": "Kimberly Dupigny",
+        "author_url": "https://www.google.com/maps/contrib/108649459405653649178/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP1qAcjh9I4klrLX8a2HYM20NXjop4l5ZsFoyb8caFB6bF1ak=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Ferguson and Darius were extremely professional and efficient.. thx",
+        "time": 1737023838,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16549673093852152774",
+    "user_ratings_total": 70,
+    "utc_offset": -300,
+    "vicinity": "3052 Bd de la Gare Unit 300, Vaudreuil-Dorion",
+    "website": "http://www.easyfinancial.com/?utm_source=google&utm_medium=Yext&y_source=1_Mjc5NjgyNzAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+  }
+}

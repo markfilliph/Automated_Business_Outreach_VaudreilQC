@@ -1,0 +1,280 @@
+{
+  "query": "Vitamin Booster, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339749.108068,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "7",
+        "short_name": "7",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Bourget",
+        "short_name": "Rue Bourget",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6T4",
+        "short_name": "J7V 6T4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">7 Rue Bourget</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6T4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "7 Rue Bourget, Vaudreuil-Dorion, QC J7V 6T4, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3972394,
+        "lng": -74.0319186
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3987518802915,
+          "lng": -74.03059786970849
+        },
+        "southwest": {
+          "lat": 45.3960539197085,
+          "lng": -74.0332958302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vitamin Booster",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101266534000572644789\">Lisa Wilson</a>"
+        ],
+        "photo_reference": "ATCDNfXEVRMpFzGx9j07rcRiBwBy0HzWL_vk3zbNR4rsf0UmVCfr31AEhIjST4a-GBpnEGuik6Tfih_tRzcFgxbmkaBir5YweTdcrfPsolJPu5X9VXygQke6FsDqIhgXA_3kIffpDNVdqnz92_TNDGpRxfEdSKCuaJTKNDAEBnJbMxC-LGp-_lQmCRguMPmvdjVoENQ487JakX6cmLi_szTqLllC8dr0AGNUPwekncMi_xfSEzgsZ9StdyaESfuh9rk26ck6Hf3pURjLU6mYP91eYJpC__lqXEyiTeKWBe4VSq7NcVQ6u6TTsoplOJTd_iGIZu1oQ6934mHiHj-BF4IO9J7yTU83IwU5sE94CCViLk4NatPhs5N-e9Oa7zg-kViB-Wak7rfqf9jdvn7wMTv_wJqVox6lk82n85alWdRHn-cRqKdO",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101266534000572644789\">Lisa Wilson</a>"
+        ],
+        "photo_reference": "ATCDNfVJrr3JZRO95aBQ7dpsOcNAvRq6QAedVcdm1UVEYAX_08WiTGtJvLW7Wy0mxG2zoRnMbS2mOJfLqf-tKL_dgaxWIldrWmo1CbI59LBlohJlkkvzUcOW16kCclOYgPC3QxRDoLKPWC_1AhWkiwcN61bmu3Qln2-0vqiioc9vCd8Qv5x_mDrrT1dyUpChyOuBM935s6hkmnWlvx37i2qkutLtIveXuj0TDR0timfcUYswHRBWRdLNuMzqNAqhCW7tLX39Zgx5V7hT6WSmB6g8di00dRJTU4YYwpLyps2JrU4pF7XZMkx-iMKBsRRTbN0jdjlmrRMPKcErXTR4aj73REX9NLYOxBvulwDQsZColhGESJEEeS5Gh1WNxi_9u1wOI7evAVOT_x6GitAzj0PqJERpLmF-M-QFz_yc4cXMiZSs9Q",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJoQoq_xk3yUwRbPFqeDUgNw4",
+    "plus_code": {
+      "compound_code": "9XW9+V6 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XW9+V6"
+    },
+    "rating": 5,
+    "reference": "ChIJoQoq_xk3yUwRbPFqeDUgNw4",
+    "reviews": [
+      {
+        "author_name": "Lisa Wilson",
+        "author_url": "https://www.google.com/maps/contrib/101266534000572644789/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3il_dpPGBoCMN-YyX9INLa1B4WA62RCcmoo-NnWg_XoS-Yg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "A definite 5 star!\n\nI was genuinely impressed by the package we received from Vitamin Booster. Our smoothies came in a temperature resistant package, neatly in really cute and cleanly designed cups. There were even a few bonuses, including a reusable straw you can take with you on the go! Everything was SO professionally taken care of.\n\nTheir website is easy to navigate and it was nice to see a large variety of products. You can tell these guys really consider healthy ingredients in addition to well-balanced flavours. The first one I tried was called ‘Spa Day’ and honestly it felt more like drinking a margarita on the beach! I loved the sea salt and lime. It certainly didn’t feel like I was having a healthy morning breakfast.\n\nI really recommend this service for those on the go. It was easy to order and the product was well worth it. You really feel the heart in this business ",
+        "time": 1625155913,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1024322854275707244",
+    "user_ratings_total": 1,
+    "utc_offset": -300,
+    "vicinity": "7 Rue Bourget, Vaudreuil-Dorion"
+  }
+}

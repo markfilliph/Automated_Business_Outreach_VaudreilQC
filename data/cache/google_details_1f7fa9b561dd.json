@@ -1,0 +1,308 @@
+{
+  "query": "Dany Boucher, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339504.3525589,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "350",
+        "short_name": "350",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Claude-Provost",
+        "short_name": "Rue Claude-Provost",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0B6",
+        "short_name": "J7V 0B6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">350 Rue Claude-Provost</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0B6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "350 Rue Claude-Provost, Vaudreuil-Dorion, QC J7V 0B6, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3949499,
+        "lng": -74.0474011
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3963366302915,
+          "lng": -74.0461657697085
+        },
+        "southwest": {
+          "lat": 45.3936386697085,
+          "lng": -74.0488637302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dany Boucher",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "place_id": "ChIJh0cv6s83yUwRy6CjGqw5FNk",
+    "plus_code": {
+      "compound_code": "9XV3+X2 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XV3+X2"
+    },
+    "rating": 4.9,
+    "reference": "ChIJh0cv6s83yUwRy6CjGqw5FNk",
+    "reviews": [
+      {
+        "author_name": "Denise Clément",
+        "author_url": "https://www.google.com/maps/contrib/115961844222006162933/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9edrv9Ltm3prlXNjyFCq7oFtdL0evWDrKoRafu4TcmwkTVg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Éloqui saved the day after I had had a horrible experience with an agency that never listened and couldn't deliver. I can't tell you how happy I was to find Éloqui. Dany is so easy to talk to, and so patient in explaining how things work. I feel he is genuinely interested in what I do and where I want to go. It's never about the money. He loves what he does and you can feel that about him. He never pushes, always listens, and always gets back to me quickly. I highly recommend him and his agency.",
+        "time": 1643300060,
+        "translated": false
+      },
+      {
+        "author_name": "Peter Blair",
+        "author_url": "https://www.google.com/maps/contrib/111575803774002825723/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1zD3vJciY7GUdqgGd27ve0ZiMYypMCLrAwi7pFdPCBec3mw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Superb work and an end result which looks fantastic!  The service after the site was put up was great as well.  I highly recommend Agence Éloqui.  They have been incredibly helpful and patient with all of our questions as we went through the process of having our website professionally put together.",
+        "time": 1519877543,
+        "translated": false
+      },
+      {
+        "author_name": "Linda Riendeau",
+        "author_url": "https://www.google.com/maps/contrib/115450276568617136551/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGMxMzlExYqt64QbR-GrLsIVruqsZIMhkcUSoeJya8Dn1Ktw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "What a wonderful discovery Éloqui agency is! Dany, who heads the company, is incredibly attentive to our needs, a true listener, and has a great sense of humor. He did an extraordinary redesign of my website; it looks fantastic. He worked like a pro, and I highly recommend him. He's not just a web designer; he's a genuine person who truly cares about the well-being of others. horizon360coaching.com",
+        "time": 1653664241,
+        "translated": true
+      },
+      {
+        "author_name": "Solange Casiez",
+        "author_url": "https://www.google.com/maps/contrib/111771075116913495752/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkNBIWpq4aumwX_eSN7VrdbFeFibKqzhNs2U6MYi1Li8VNwWN3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I really enjoyed working with Dany. He's a professional through and through and helped me showcase my information in a user-friendly, dynamic, and beautifully designed website. He's very responsive and doesn't waste any time. I've received many compliments on my author website. I highly recommend the Éloqui agency.\nSolange Casiez, Author",
+        "time": 1620334227,
+        "translated": true
+      },
+      {
+        "author_name": "Charlaine Benoit",
+        "author_url": "https://www.google.com/maps/contrib/113084757085364550587/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVL3kcaDdbpVCDXXtHhp9DmO5O3M1ui2907Ro7we8OKWqBw_D4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Éloqui Agency was referred to us by business partners. Several pool builders use the services of Dany Boucher and/or his team for their website and social media management. Our website was built to our complete satisfaction, on time and within a reasonable budget. Everything was done over the phone and via email. I highly recommend them!",
+        "time": 1607625793,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15642190817108664523",
+    "user_ratings_total": 14,
+    "utc_offset": -300,
+    "vicinity": "350 Rue Claude-Provost, Vaudreuil-Dorion",
+    "website": "https://dany-boucher.com/"
+  }
+}

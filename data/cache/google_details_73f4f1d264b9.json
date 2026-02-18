@@ -1,0 +1,415 @@
+{
+  "query": "CMR MOTONEIGES, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339015.089611,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "261",
+        "short_name": "261",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route de la Cité-des-Jeunes",
+        "short_name": "Rte de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 4J7",
+        "short_name": "J7V 4J7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">261 Rte de la Cité-des-Jeunes</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 4J7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Open 24 hours",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "261 Rte de la Cité-des-Jeunes, Saint-Lazare, QC J7V 4J7, Canada",
+    "formatted_phone_number": "(450) 455-5757",
+    "geometry": {
+      "location": {
+        "lat": 45.3873921,
+        "lng": -74.0826925
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38856173029151,
+          "lng": -74.08120156970848
+        },
+        "southwest": {
+          "lat": 45.38586376970851,
+          "lng": -74.0838995302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-455-5757",
+    "name": "CMR MOTONEIGES",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: Open 24 hours",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105098822037874831373\">Christopher Little</a>"
+        ],
+        "photo_reference": "ATCDNfXBJwVMG0cTDn9BEHhfniSXNljQhE4AN2mxhi_4ZL4543Im7DK_4Cl8U6eWRMsiLqSlu5cu7iR22BVJWeU1UHVbP_jspZlkrt1tll2kUXui45Sd-UgvRAZU6An5TVNc8HypriDCxjn3TDlnpT8WYcMrAap4jYrieQHf3E-VToGDFAY2d40r69u_UXyYeIDsSrOjKqJhurjc2-tlNNmy77S8en3tZ729aE7_mD2btwy3Yl9NA5o_rrE7K3aRYsvDIz2vqlDIKljmvBRfL9GK3NSn7gfx4yJpIx5upg1K8yveTsnRhMr8ZOi9AuacPeibLSzd_H685mtWdU4YWHYa0m1YoeslcZtMqzLVI6RkdSnrSYcT63IVV3VzM6yhm3vljkt_D7MGgEmfZNuTp3UCp4EkcEtcQwjJ8CQaIXDuiV5gyU36",
+        "width": 3000
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102407111575534964152\">CMR Motoneiges et Sports</a>"
+        ],
+        "photo_reference": "ATCDNfXRIbEDfBfuWSQYJrv9vOxoPHpASHt3shRZnnBKeZjwXvkb5zoXXe9jF2rnDEf2T6ucD-gwhSo7eV2_UWNa9Y1CybCYd-TZW_9DVKPy1uVygAoeGN4GYLtBV09QCcHkAjrLeh7EOeIgRUWYnlYlXJcI5eU1XWgBP1BgqYLNyzrMA1oE_TgBUHJ1ijyghm4JAn-vnUpZ4shbJmUX0V9d31EBV5S4V1wPPtOMTGgnIyAioOW5Ym4sUapWK-aXf2Sp2nmMrtU3V4-z2Hn7O6X-7ev3IshoS7q9SJHCkZhCtWlWEA",
+        "width": 1280
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109199793265203575149\">Kayven Rouleau</a>"
+        ],
+        "photo_reference": "ATCDNfVWQdDXUWm2hx_1M3PlBw_iYCjTXuYDKfOzDaew29HCHbOpmfyCwBOBwxq3wEO6uq_5iNXw5lrNVnmnFR_73Z4b2vNTNT8R_75PzRYw1lmJ9KNCg6OBLLtG2MWbGjvYYR5YrWhAdnW1O3SE8SNE0-x2EcAnYu8FhDAdf73REls_Ef6cdaSi09uVXKb5s1iHGQsNWfkdRiYoP__hHVSg9Qsf7pze9ZNRhjcH_wYLmST3yOwfpQDFHPDvNNdJ22kHXCpoXZTc9AqjZiS91Le5VwfCjRRetHDMEoBTgMLm-jBMwZBtw6mYY9d8WYuZ0B0pEiEYIxesco5ikEsF_ibTOYempC_vDJq1skfty-S3QpZvol4aqASLYvjDx996o3ATdc6lWgVp4Fl2bZNl-hB2-mjHllfJafS66vP3ek0Nr7BDfMrF",
+        "width": 3456
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102407111575534964152\">CMR Motoneiges et Sports</a>"
+        ],
+        "photo_reference": "ATCDNfUuGyJZEwBQk-8bU9Bv16LrnCK0GsnfK9fIDUzysrFcG1bkn_4GF8ApZI3oP2fOmRKyIUHzhQFMmO_k8FWvjSpheYfCmAhKKgSrimZeuVMLguS7TMMn_oITIFvSJLu0d7ugU-U2BYeMdHlAteDHUOMgU_Lv6fn6SehsTgJma9HQ_HhogQxLMiDEyofcanPIPIkfpYnNrtWRtAE7bIoYWT-rIk87nrZFQ9pfKocOC03ooUgf0Eu0doi5ZzODMg-cKg_VWzJY2dyG6ND7EL7fQRK_HcZh1UvmFq6FrRFbjok3-A",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105098822037874831373\">Christopher Little</a>"
+        ],
+        "photo_reference": "ATCDNfX1OaymFSYdVsYqXNnPQpesofAX025X97qrUckk0x0Q8IZlIV1_aa0FbXhU-fgXrp0V8JliHb5yNXQ3dzMdcfoo3WAwI-T0Vnb6w8ArhjxOejlkX9bTF5GhCGOTyOFlwpGBKdTnFMWNHxO498KskwKnYwwjB3t7Kt5iPppZDTUz_xYCvQhRgHZLxqsV5cBT7ScVzvwP7iWMzX7kmUEESrVJNwm053sQW8TFEfxA0hzzLc2pek7_cj1nqxOQF8qe3CiPgcfTlg-TxJeDaR6wbTGTJF347PzGIXIjT28E1qNi-BbIq_qelfzgyx48dRck31EGGhP3JLlAkBDfZtXSJUXR12_D0_rriyEGzT7Sx40o4-jYVgX_p4QJuVTY0UAbViq6skLL67Jpp-CPSFS44iB8YdDFOUHV1fzxTIYS2lnRTMo",
+        "width": 3000
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102407111575534964152\">CMR Motoneiges et Sports</a>"
+        ],
+        "photo_reference": "ATCDNfWnhH40rx4aE5F1EZUv8Gezkw5UbsQAHKboQ-gPi2_Hwi5nV0cpzTzD6f--Y17QPneUjyQ0vWZZDt2E5FbKF8vOZIRtTojgzQ2JlJK2JWdml0mud-zHNo1ifNAJmNC9_U5Cov52W1JjYR9Gb7zzW9fJnKYRMRkvaCFvw5S2WkLe53IvnEqa_whiGRd9WvCbO4CSE_S0zfOgoiWmy_JV8WqeLrY0CZjco-ZDT3Q1WE0l0nATaYO1oX793Tb5ictGTXe-urFXrvQN2g2Tkd1_2WdfYjuTUIUO-P_gEUbm-w2XFw",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102407111575534964152\">CMR Motoneiges et Sports</a>"
+        ],
+        "photo_reference": "ATCDNfX1VUyp9mnKUpPdSLPBIN1AmUktIEQy66lb0r0NRlTKpIPiA0QXXSyeHOgt_P3kZFiB8bzOHGFaYFqdD-xl22SjSk5oi6X0MkES_CYT4oElrh4rePodOYQwCcXAefX37PPoH9vNfW41dWcajLFP8L3EUfmDTNbRpIfgJIPjN2a2SdmJBO8cimlax7c7_eXCL4RrQkYtZmQ1KOmcy9Kiu4ftWxwHGJHC4mB05EE9VFvTZcnAmY3H_kykvJbS17o4OZsdI2oREH0CPjQsrMFQyBd1106AcJkv4K1McuuoXt5YPg",
+        "width": 1440
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102407111575534964152\">CMR Motoneiges et Sports</a>"
+        ],
+        "photo_reference": "ATCDNfXYft2D9gajeuPyRh84zw0YSww6Jg5Tk9plsKKBmmR4-IwPZXYKKnyBzmrXxgGBCMo3xXagFttVpJqLY21qiXmSCwDt4uv2pMhXfppn_l7Ij7JbieDPZYnPOEphD-GMOMcLRdPP-Z1TBrXw5U8xmAlmA3Z7q2tU0F5jquKX2_ZqD5vs85JcEV0tU-ZgASVlzKZkVrHxiOYQks2clMr_CIK-vxktEiW1AsTmFKcYbVLI9edOzk6z8r4rUqdM7PdyBwjaq8dn8KfaX3GQqI8Dnoce8BFrVlaRt8EHkt6zCzLwfg",
+        "width": 1000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102124742291992788479\">Justin Meloche</a>"
+        ],
+        "photo_reference": "ATCDNfWXcy91TD68wlvDQqYDEcA6FxjzAzeqn230kupao1o-vZWxb2AQA0nDe0MIae4h37Xqnj_S8iHAD6UqvAs3HWM5io45Jr_NHUND_3C-PRUtDTBlfq5XrTS_7dI5nwDS3_OaCaHkjlqcl-qGI2y6GrWzk4QeM67VXaq7a1ag8Bm0KB17PRXK_lQ_KGwmrPY6ZjzuWlmWyGqUrUS-CV0Bloo9mTaDnIIPU1PVXK2HZUBRnjuU0ZiWxwVOiCShuIi8LG_3dPsnb1ULqEf5rRMGr-y1x3DDNkgm8yMqBbfK3rkr48TZ_S5KkfFYtUmPksUSXyChfw9utVJQb8uHbwwmOF49kP8FjbLAPsCHYrnK1VaAbdZc9H3ONk08K3qY4Ct3D4W7Y0zk8AXoFvBu0wlCQY7rWR-aoUT269WCLUvOPqlP6wQ",
+        "width": 4032
+      },
+      {
+        "height": 832,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109199793265203575149\">Kayven Rouleau</a>"
+        ],
+        "photo_reference": "ATCDNfUhwtp_QV5cRX-qJ7jUyIoFtH7cXncrdQqjaxPqdigm91GdgOqjdz_Gjv5NQBxqkI_42OUaN7WNHkO5sFmFKhgefVsct3F5xMYeMv8Aq7yuu45QNv2c3-3WgGU20Z5tMSXg3Lsy8cx_weHaXCprtNHUs48OdKp-x9Y2k4ngcV592YMTzc1MwyDzwcdTu25D4g2jkPyjJk9qSbuh_hEyCCDZOO7anzSPKkSy4HjLF62BoKupkDXmnCcHUbbYN1HzeVHj1yTeHJzOcjPbVbcK-kDrsFIQgHJhxe22UUprqv_fHA7UZsnnZu-kpB5Irmn6zH_AnNXi5OfKDRUKPC14eW5gDGPY5Wcvd89Ww6CsL5T4k2_Hw_zVMWz9oFbe8EFndpCIKQ58TggLFenvrASTXx_DLymYyya7tUdIZkVVTI8UQhP7",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ_3dNhO9JyUwRpCHjMTw_-tQ",
+    "plus_code": {
+      "compound_code": "9WP8+XW Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WP8+XW"
+    },
+    "rating": 4,
+    "reference": "ChIJ_3dNhO9JyUwRpCHjMTw_-tQ",
+    "reviews": [
+      {
+        "author_name": "Sylvain Asselin",
+        "author_url": "https://www.google.com/maps/contrib/117789761463050683829/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzSwSeCtsAhwnSL7povHdNnIpnaMXWsWX4PTVNvX1EBHiU7Ko=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I bought a Backcountry X from CMR and am very satisfied with my experience. Nicolas was transparent and honest and made me feel confortable. The guy is a snow mobile passionnate and he knows everything you need to know about these machines. Thank you Nicolas!",
+        "time": 1764426066,
+        "translated": false
+      },
+      {
+        "author_name": "Amninder Singh Sokhi",
+        "author_url": "https://www.google.com/maps/contrib/114353909588359127801/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYBH_bN8aPv9IspozZgr22kHN3ugeVY9O0sVZXV2z3yBjejCgf=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Bad review for selling blown up snowmobiles, My friend has very Bad experience with them, they sold him a blown-up snowmobile. Be careful, don’t buy from them..",
+        "time": 1763657467,
+        "translated": false
+      },
+      {
+        "author_name": "Austin Lav",
+        "author_url": "https://www.google.com/maps/contrib/105330527642019137924/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz3yi1Twkg5OoGO2r-9j7M0cvmx9v4PCzChmup415JEQtOfw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Still hasent tried to rectify the situation with the sled he sold me with 60psi compression when arriving to my first trip handlebar heaters fell off in the travel and all this guy will say is we looked over it I spent an additional 3200 to rebuild you think after paying 9k for this sled he would try to help fix what he sold or split cost but nothing I’ll keep spreading awareness until this is resolved",
+        "time": 1751543071,
+        "translated": false
+      },
+      {
+        "author_name": "Christopher Little",
+        "author_url": "https://www.google.com/maps/contrib/105098822037874831373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnRd1fg3r8QLyMNqKg2SE6ZG5nojifnaHFfotwgGTLYBmbo0pv=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Great people , great sales reps😁 purchase took me 20min😋",
+        "time": 1728440042,
+        "translated": false
+      },
+      {
+        "author_name": "steve pavao",
+        "author_url": "https://www.google.com/maps/contrib/106945693792918917431/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb06n1cxrSR0z2whs9eDFG_y-InEtIITYMQLA0ZWix9QOlwQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great deals and service!",
+        "time": 1712798713,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15346648207985942948",
+    "user_ratings_total": 30,
+    "utc_offset": -300,
+    "vicinity": "261 Rte de la Cité-des-Jeunes, Saint-Lazare",
+    "website": "http://cmrmotoneiges.com/"
+  }
+}

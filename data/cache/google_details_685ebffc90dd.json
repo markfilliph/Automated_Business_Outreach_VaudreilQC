@@ -1,0 +1,417 @@
+{
+  "query": "Île-Perrot Nissan, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339358.8216977,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "12",
+        "short_name": "12",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6N5",
+        "short_name": "J7V 6N5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">12 Bd Don-Quichotte</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6N5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "12 Bd Don-Quichotte, L'Île-Perrot, QC J7V 6N5, Canada",
+    "formatted_phone_number": "(514) 425-2255",
+    "geometry": {
+      "location": {
+        "lat": 45.3908176,
+        "lng": -73.9672494
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3922066802915,
+          "lng": -73.96569001970849
+        },
+        "southwest": {
+          "lat": 45.3895087197085,
+          "lng": -73.96838798029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-425-2255",
+    "name": "Île-Perrot Nissan",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 8:00 PM",
+        "Tuesday: 7:30 AM – 8:00 PM",
+        "Wednesday: 7:30 AM – 8:00 PM",
+        "Thursday: 7:30 AM – 8:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107528588930188862868\">Île-Perrot Nissan</a>"
+        ],
+        "photo_reference": "ATCDNfWccdmspMybOr2Yb04wlRp5YwWJ9AU66EzF0EaFb0mp3tpGLJUtHMz37kV-Rzfrnc5N76_HnCdUbke-fs6i6YjqUIKnWBVhp3TLlGtN1nI2itIjIcAvcC45Lvxsm0cmttrWX5GC2LM0ewm_RkArbTTWpybYtMszaY1gLxPybUJ_NODKeJsXHfHqjpeuA6TMxHyi4hbGJaEyQKsXHTSwKw6RFGiEgQe6v-AWSZsPMsaJYijNKn8YrpdPMzZpBrWJC62ZoTIALpSNrmKQUNwBJzsiCgc17zUP-s-LlILXq72QYw",
+        "width": 4032
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107528588930188862868\">Île-Perrot Nissan</a>"
+        ],
+        "photo_reference": "ATCDNfX6n2jx4g_lWF1kmifbRzNOInyFLinO8DtmYqZVAsjVoNF_VKtrUHww5_A2_MfNfilfVOufqXIvFVBJCAUSXkxIoHrU-DEMdfwKVNvR9C68v9EJGe7i5GPlwO4t3ysKlQO2efJ05KHCS_JmZXjjvILCAQYq-72eBg5LF5-V0Txf_T1zyfwPZF40dK1aupCH60hn-hYTXJZGumFPeC3r2JpqFlKhRHAQdsJdGhyWLNNVwCF_0wXCyOstp3tQhsWXcdvMTRiHV6iegXzJgqLg9_Cb6g8EHFYiadU8tGUNH6acXA",
+        "width": 3872
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107528588930188862868\">Île-Perrot Nissan</a>"
+        ],
+        "photo_reference": "ATCDNfVJ0Ypv7iozsYxUZhy2WP-ZB9VRi6vrEZhOZkhIMPYxdzX0CXd5FVinNsMyb_7-m2oazPVYdzniB0vKJXi69RFAQgjLKb__797eYsAdBaZ8Eu8eFkK02kOcytLss6ueKFN6Rp-pX7ne3qxk43VQurv2TR8Eui-VYrGHZ_VSh_ctUuWJjImjAxddh7cN56R1Ty6ikTpMOmt5XId31sN1FPPUcgozuR-gMi2b69e7Vil0DeloI8AX91gzXaNylq7M5LPez4TVGaSbimm7juTTvnn1_uKCQqyFxrNW0M7LnTHwvQ",
+        "width": 2016
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115614082599981478535\">Pierre Patenaude</a>"
+        ],
+        "photo_reference": "ATCDNfVIiGsVUBW-XZMFfOJRwqghGpjg55Or-wVJTJ_OvsH8taYGCK3eI3fp5UeM4F9jllS4ShTMByoef4ftxQmCL-H9OtUhoBwWRSI268-MTel9w3GazOw_UOhLe5m1cK2g_bjH3f2Vb_t-Mjj19bLBIThqAseXjNTDYCK3C3W9F5oKbPlbVjDciu0MBggPcvgfzweMnQRfIJmv8ull57R1I80Gon3dAc4XkTsnbJgINs93-LWXMvk18dgpPPKL6UqQKtgKXCgk4iMYh-cB9TnvIHvZ7NaTVLkCCXRwr2-d5PfWHpNQAvSL_5JSxLU965KqR3lvVKQlBzZf7Gh3GBtWkpK8eYWg-6IsY7vJ7t9gudVh-ZZdIQl6mlznkoivcj2RGPNPuhy5r-kmRFesAYuVgX81kmJc5PW8K49-lQBui2XEnAChhqfb4t_G8nwToxnQ",
+        "width": 4032
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107528588930188862868\">Île-Perrot Nissan</a>"
+        ],
+        "photo_reference": "ATCDNfVti0SMzX1eEGj1Kq488ns1_xzmDJe_uSOqYFo2lUd2eYWTtU2UfxksLdWlBq4C9Ej19aNh9LAigRa55uNLAjATg4IOrYLySPOmKnIJtaSWt4RAZ6FeXciUNTh4wfQ-2FvfBIRsZJcNroTtcLZnKEdSQS9qOkuxk-wp2ZtxUSvoFTMPAQM0rx_tewRxs2djGpZqH8_0GzQ3YKpIYdxqPOtiCcFkeApAypHKLjwCTELOk0dLU0GKodYxYlp7tvofVDowMHdvQttybVvCAg6ZwAbyB2GV2-L0yFa0PdJG1aU1aA",
+        "width": 2016
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107528588930188862868\">Île-Perrot Nissan</a>"
+        ],
+        "photo_reference": "ATCDNfVimr0i_ErYdHlloZ8nAicuSndL5ItPywoKhJCqe5NH0kBujr23_l8Rwm7OVZ2f3R5KfaoN6VBpsAnLsWynjHSjJt6V16oS-V03dQvOkZcUqByE_y_QjJLlIOnKEkV6tJsOd8XffM2636HPWF0MDXYigYvYep9h5oN_QS859grxKpwQmsAOPhKWWfgHtU3L9vQou8NxmEDW9S-U-tPRv0RnpbCQRvYZLk1VJt4ewQmq2-j6KkgW5NAqK4R0Ygs6npgZYSWIlu3nJN-dYubhe7NcD_RZ2F-h_jzmOwp0euUYFw",
+        "width": 2016
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110129532775026367979\">James Dolhy</a>"
+        ],
+        "photo_reference": "ATCDNfUjuQGqOSodDtgEmztGay1r58no4fSX_8hue9LaJ7OvANh-aEEN49oJgILybyIJgwbukQZLtOLJMg6qjD3rN0ve1MONXY0jIOpxGlsijWJ_QkELQEJWDVUmU5rWLcu2E3RKuvYmHda0wpv0V7VErF6gsjKmGJ2U5RAmpCaHjd-NPMEgHZr9pJ_36I-t3aFAqQ3TgkAtVShdJpKEyBKNinIyKvdnASz32Kr1NhtZqD9RCQBiOAMOIRWNgtjVsHj6HhQnZrlDTPWmxMJPGRU_T2sQrBoW8ncVZ5LTvqxW0w1-Drvk5tGNvTMWOZlqXx7I1E0gVuwxxnxkTo_Tzu9Rf7NA2n0hhNSIWYwPGtlAXR78VSCHtl8uEvSEDYqABSBtvSWzy4j8g2PaAqdcOXy9auV0r3B04oxxd4YcO7W6-k2dicQ",
+        "width": 4032
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107528588930188862868\">Île-Perrot Nissan</a>"
+        ],
+        "photo_reference": "ATCDNfWs-p4BptxW3De7pQQRrjj98YtY-Qb8Q-9gV7ML-QRQjTKymN-FDhGae37FABaRPJRZ4O71b7qk06DiwvGlcMvlPLdLSIhy_UGs2gM1yw2Vjj88Iwj6cZNGTEeggWnVXLrrRP26TJiX-Es9gLHnM_p3RTjZv-zpx6qFGh5KxYbADVUDIgFzgOuX5OQxz79kJbba5iIhkREFjgrzMiOpXraWNj46FA79X73RH6VdfWNVTyBv6zrkt0jCm0rTHJa0PFf1pnWDKgRLR5K1XTo8TYBvHswbNqFRZuG7oIEYezr4BA",
+        "width": 2016
+      },
+      {
+        "height": 1456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101200775447652688235\">Victor Munteanu</a>"
+        ],
+        "photo_reference": "ATCDNfVFAtq3Tetrp6P1bFEwmCWgZUG86ozZjLvU8ENsVjk-WHZ9qKbU-hVA_vDIyMr_hDFuhbSgIGAK4jAXLNy2r-607GB7M4hHiBViP-AHe2KsNP9-TaYDU82AwvoPTOq--sRl0vKvgiDChE8g4WA7cXSJW_oqRF6aVThsJnGWP0B6JjqUtxz4U81d3HwOL7mg1SpCICMhkInrgoV41kldSw8FXaarzQm4KBezqPN2qk_PHvg5gNnxh5UF4ArTtD_F7btTARgEVTLBzZv5ahm_uHNQZDxbaxJAxp4cFIKrQkS9jAcC4jKAJsKoG1HSMCIjmdnh68aVve7tduPYTmZaudooovLRn_sb2xPQ78wARkeIPHXUqrfMbwyo6X3YGYOJDcHGUHbwa9GclgyRYDjq7ikP5cihb-N2cynCxVoXhl8",
+        "width": 2592
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117639871627700296757\">- iWill -</a>"
+        ],
+        "photo_reference": "ATCDNfWO7ztaRz4R2NfIF7lfM2ChnRc9ze49s8AW_EW2LuHW4yRvs9NDl9az1fpfLN9_1YZf5lqctvT_od2bSA9KUGkTqL_dRtbdtyXY-NIiLo9rkzFb2U9Dz9M0PxOtXhpIT_qDkDDKT7eOhuyPt3QzSxidns4xm8ruBA0lY_eOMuM_55IJG4UoMjWxJ_s297ULd4DwU_LhT2c2UKnX8V5STufXeLPO2wNmOKJoEoYl-NwF6qk4eIVpiwAvVFfK__uwncxCHxI5eX0i8HfLMQQZYpx4r9bxQD2dGd2OVq60sW7dpI2wC09IacyXaU0JcHY-ACicyvB0Fm1OuC2CnePlCRYe2h5QIP60x-aSIglK-O_CNIZEIICr4guxBW35LNaVBh2Kz-UTbfym9p5CGyqzuQrSQlf6T8yzUBC1ueLhnNGtuQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ8TrLiRI4yUwRh3f7Mk5uqGs",
+    "plus_code": {
+      "compound_code": "92RM+84 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RM+84"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ8TrLiRI4yUwRh3f7Mk5uqGs",
+    "reviews": [
+      {
+        "author_name": "Pierre Patenaude",
+        "author_url": "https://www.google.com/maps/contrib/115614082599981478535/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjbfKfoOVDMisiesOPXPg36hgP8k2OcEDeAfFUU_KdjBdKPX_Y=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Super nice experience got a good deal on a new 2025. Nicolas was very helpful and knew his product. Thx.",
+        "time": 1767832886,
+        "translated": false
+      },
+      {
+        "author_name": "Victoria Denault",
+        "author_url": "https://www.google.com/maps/contrib/108600082846719654463/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsSQDZCJwvM7CLgiNpYjIY4evK7mInKWKVEjjszkKTk9qIojc=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "On here on behalf of my elderly mom. She has been dealing with the service center here since she bought the car in 2014  and remained a loyal customer through all the ownership changes. The Rogue was defective from the start (leaky sunroof). The front desk manager (now gone) bullied and was aggressively rude with my mom and with me when I started coming with her because she was uncomfortable with his behavior. The final straw was when we decided to get a second opinion (because every oil change/service came with a estimate for hundreds to thousands of dollars of more work) The service manager (Vema I think his name was) at the front desk told my mother that if she drove off without fixing the \"front table\" then the tires would fall off the car while she was driving and there would be a horrible crash. Scare tactics and bullying. She had just fixed the tables the previous year, with them. When's he questioned that, he got belligerent and said \"Fine. Do what you want. I won't tell you anything anymore.\"\nThe second opinion mechanic told her that the table part Nissan put in as \"new\" last year was most definitely NOT. It was used and broken probably from the get-go and never should have been sold/used in her car and billed like it was new. When we went to get our winter tires out of storage with them, to cut ties completely, the service manager defended the former employee who bullied my elderly mother and had no explanation for the used part. Or the fact that the sunroof has needed to be repaired THREE times because it's leaked basically since day one and that the former employees answer to that was my mother parks outside too much so it was her fault.\nJust a horrible experience and if you're a senior, do not trust them. Glad the bully is gone from the service counter but they still defend his abhorrent behavior so they've lost a ten year customer.\n(No bother giving me a passive-aggressive response like you've been giving others on here. We're done).",
+        "time": 1758207164,
+        "translated": false
+      },
+      {
+        "author_name": "Marla Chu",
+        "author_url": "https://www.google.com/maps/contrib/110322366926908256538/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzTNhmfms7EvPQaVEnCA2vJZizIUp23XeRxjAb_LKcylHWAcc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Amazing customer service from Nicolas and Jonathan. I leased a beautiful Nissan Ariya thanks to them. I really enjoyed Nicolas’s honesty and he wasn’t pushy at all which I greatly appreciated. He was very informative and allowed me to process the information to make an informed decision. I visited 3 other dealerships but nothing compared to the excellent service I received from their team. I was also surprised that I was able to receive my car after 1 week from signing the papers.",
+        "time": 1749839473,
+        "translated": false
+      },
+      {
+        "author_name": "Sara Tekel",
+        "author_url": "https://www.google.com/maps/contrib/109126770416748833839/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi1N3opAMYRs-NC2ZDvxcUtI-8PNb0-OvyfRwYxBh-vLkRhsm4=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "I'm extremely frustrated with the mechanic I just visited, as they failed to repair my vehicle correctly, and it's clear they lack the necessary expertise to do so. Every time they attempted to fix the issue, it only seemed to get worse",
+        "time": 1757957661,
+        "translated": false
+      },
+      {
+        "author_name": "Terry Mavrovouniotis",
+        "author_url": "https://www.google.com/maps/contrib/100368027338852612306/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKj57QNZ1DwRMIuA-3UD9T6g1C30QkDi_LZejyu9ZqkhC5tCA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Great experience buying my Rogue from this dealer. Nicolas was very helpful and patient. I would definitely recommend them to my friends. Nice dealing with you.",
+        "time": 1752797699,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=7757571640287524743",
+    "user_ratings_total": 257,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 12 Bd Don-Quichotte, L'Île-Perrot",
+    "website": "https://www.ileperrotnissan.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "query": "Entrepot Kangaroo, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339472.326461,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2941",
+        "short_name": "2941",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2941 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2941 Bd de la Gare, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3928726,
+        "lng": -74.0542419
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3941677802915,
+          "lng": -74.05312936970849
+        },
+        "southwest": {
+          "lat": 45.3914698197085,
+          "lng": -74.05582733029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Entrepot Kangaroo",
+    "place_id": "ChIJD6lQwlhJyUwRdoRECs0Yreg",
+    "plus_code": {
+      "compound_code": "9WVW+48 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WVW+48"
+    },
+    "reference": "ChIJD6lQwlhJyUwRdoRECs0Yreg",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "storage"
+    ],
+    "url": "https://maps.google.com/?cid=16766084256689849462",
+    "utc_offset": -300,
+    "vicinity": "2941 Bd de la Gare, Vaudreuil-Dorion"
+  }
+}

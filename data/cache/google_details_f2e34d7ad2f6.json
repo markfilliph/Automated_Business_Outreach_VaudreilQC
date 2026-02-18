@@ -1,0 +1,429 @@
+{
+  "query": "Chez GloRy, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338623.806791,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "100",
+        "short_name": "100",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "5e Avenue",
+        "short_name": "5e Avenue",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 5K9",
+        "short_name": "J7W 5K9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">100 5e Avenue</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 5K9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 8:00 PM",
+        "Tuesday: 11:30 AM – 8:00 PM",
+        "Wednesday: 11:30 AM – 8:00 PM",
+        "Thursday: 11:30 AM – 8:00 PM",
+        "Friday: 11:30 AM – 8:00 PM",
+        "Saturday: 11:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "100 5e Avenue, Pincourt, QC J7W 5K9, Canada",
+    "formatted_phone_number": "(514) 453-7373",
+    "geometry": {
+      "location": {
+        "lat": 45.3818188,
+        "lng": -73.9914604
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3831995302915,
+          "lng": -73.99004186970848
+        },
+        "southwest": {
+          "lat": 45.3805015697085,
+          "lng": -73.99273983029148
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 514-453-7373",
+    "name": "Chez GloRy",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 8:00 PM",
+        "Tuesday: 11:30 AM – 8:00 PM",
+        "Wednesday: 11:30 AM – 8:00 PM",
+        "Thursday: 11:30 AM – 8:00 PM",
+        "Friday: 11:30 AM – 8:00 PM",
+        "Saturday: 11:30 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104566122560452775692\">Chez GloRy</a>"
+        ],
+        "photo_reference": "ATCDNfUZQ7iMCuRbfsDYSZggjSKlCZNXUOShevbQaar5B-8FYuN9gJLB-OvrJrhbXr7U4PvPuCQ6DIzzsmo7zY7nylvoNVaziL-hzfX6fWQ9rqZ3iT8X4qaNzFnfQM96HF18FQyvFIo2j7EBDJUjM2DerJ1Y0U7vQEz_85n7huUeTNaciCybg1SxQjWUh2dp0Yh4w0CTRBFCZ79e1KF7rBRfQkgnvPlMOXqBP1wp9U3yUSI7oQuBkhlzAcCTVVcW8S3bVlaRfiaO8FPpbWj_tCnQ5_ivdBQMmzuMTF4mLcsthE--gQ",
+        "width": 3024
+      },
+      {
+        "height": 1411,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104566122560452775692\">Chez GloRy</a>"
+        ],
+        "photo_reference": "ATCDNfVGffCBbl01ZdyIpL6jIZIO4CL_hyVdr5O93KEeilKLg8dw0uNVEZ9Gr5kyuTX5Cqgq3FCMOjN4m1GFcIseM5sOxrYwnKST-UiO-9cYjO1RkaQqO6Uc2M5Dk9c-OjMZUCliOQz2qF0YF6uG2AqfR2qldJwQ-EgBRF5A8SgAyjyF2aFdknns7KoSWPSxwsGBsUJYtabuh97KbDTBq2jt-_QNxLth0ZSQSNdbzsTHtqT9KTpT0vCLBmgRbsfVvpvbupFwZelSk5HCXq2lEGn59PrIkA0k1YeJ4TyDqhQ75B7DUw",
+        "width": 1500
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104566122560452775692\">Chez GloRy</a>"
+        ],
+        "photo_reference": "ATCDNfXH3lspIf95V0s0ERYfNLg3yEaZzf6otgE2ePZi53h2LCLVnROwdRHNZW0E4LRXDXfEK7n_jA39V4IEVZLkLYTXE_0qTOSZx7N9CU9ZLySPPQpWWruz8FV_RxqTaJvkSigCJX6eXMoMtv1lcTVpGCbP8k0E8WBMHS-nFcdov1-_GPB0j3V0HyXpIBlIh65u9KOvnsthIXlwfDexeeTUCmtB-VCsy0nt2UuNNkqfNXlY5VTT0PgkIjqTrbCn8x0N143dlICyJSzj_HUGOAPxBN1MJTwwU6UNbaEbW7UTS7SHKw",
+        "width": 4032
+      },
+      {
+        "height": 981,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104566122560452775692\">Chez GloRy</a>"
+        ],
+        "photo_reference": "ATCDNfVXtAzxVTUU8M-tVaGKeLbBIAJrtP10GEHgew1GZPy2PI9hg7jXbRr75oc1MSDxhHqHLzn0mVZ5qhA_EozYRL1fQ0sJsWk6QydU767clutUyhKXjvTC-zToK5Qgc-8DQPEnb5I-xFLhBsBfybbwxqO76ZkVUBtjxqrL0ipqKCvcRxcXVn_EbgqQ_pIdvRsxYeI1zuQ7Syt5iiUTxdSbYvsLxD6CYOFtt1z91F4ryLtTwMsumgnnEKIJldEnzZ2pF-U1NWNjZeEGuYwTu3rE5tZejc4ap8nqed7XNvlH2TLGMA",
+        "width": 1500
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104566122560452775692\">Chez GloRy</a>"
+        ],
+        "photo_reference": "ATCDNfUB-WwCwGq7TqbuKSyqEWOM_MMctcnoxQrebUa-8QNWiAw3s6M-O1YhJfBP1Dy5rUAuTNejxWb4WRapYGRs6o4olPsLY8zgN3IBTpNq9Fy-KWeLyz69TMLBMnL4lOP2xVzJf1fvJZN1GUhpV4lRGAcYvhdOKwMczBEXO3Ak_NOgz4odLTjEdDl44BahDnii81fvY7Xs37AiatOhFrFf34NKHfLj11cSW5cIxwQg-kXB_Abrit7ySGpWFooidGPQTxxjeKxCv3ho-knK1tIFeZ7hg2L6jzyN13rfUg6PvVkzVA",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116812853905760368758\">Claude Guay</a>"
+        ],
+        "photo_reference": "ATCDNfVpb7G_wcGtrZ8TpD_Y2D-puQczsrHr8b0LwuWnM0s7XBbh1vT0dgVor352-cfxSeWFhsqNWPSn-yhNcCPPnbSlwWtXnhgjtXIOwLa_Jxq_AL6rDsQRyEArQF93TZTDkG7bmoTY2ZcomisfySd1XhXvjxLw8SQFMCOJXqjjLUTm_fCDjTBYHElL_bNYIZisQB3IUm-xpqciqCj-1a2yDbZJCnrdC_O9ZL627YsyJyEZsanw1kDBrC6QaoW6C8V_Kn3Dgmc-DNDA_F9ldcVP3rsrJ3s2dBbab5v_Hrv05j8DuU7XDNvZno4oSCs8sWuzpU_fIiTNNi7H5MSGkWTv0cAfn7Ps_P8V4cFVjicQ7yu6PuL-V-tux7-WoZKE1PwU8MDbQvVmSZ-J_a2Ryx0kXxl99IR4mBTyoC5NdhbcVH08",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117766333680325333099\">Lobo Ramos</a>"
+        ],
+        "photo_reference": "ATCDNfUGEvafkNWVr46utxMy7FasUoRIe-6OU3fsFKWE6qQTJd0A6YssHfBvSF5kjbstcTXql_T4FokaRQH-QlGIRFKLzdKs9isqX60YpCulshBSazgg-q8JIi0dMfuva6hhmT_ZQsEpofbIpXFnfmmRJMv1yVozzwmvcM_Rz3g1C-JgjAZD7NSQMEOGDveej-RQNLNDToO6VKuSqX82RUnDyuAC5cZQ5SHVBOZJM1Al5JWVpWLH0qJ-vEJ41jmjMm4vi3EuA-Z2GHvOhDbTaaGLdpDkT3rwbUV9rqQUiq8iIfGrNzcmti80hOlHkJUTc7JnB-6zZYwdt8qnGQKmlCAtm1vtDOEnb-omerbd9zZgSLOMaCA8ms57cJiUocTno_uEncNQKCNCZszOySh0k9iIEgPWv34XJM0X-j6njFtUxMQt7Q",
+        "width": 4032
+      },
+      {
+        "height": 1320,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104566122560452775692\">Chez GloRy</a>"
+        ],
+        "photo_reference": "ATCDNfWw4Gw1im-5lAxXROfhc2Ddji5ml_4LG-H6tOvJFQ9s5ACJ-YSAUc8vHK01SsjqIMtmsDHxmETSuBuLAFCENoaPWcLsttwK4IDwle9xGnil75heExrY0xqbW11hrbW7Wiuj5VIHL7oOLkhvBmdpWw5XEcT2CD4lHDs0jEB4xrcTXar8PBFYNUIUypJUxWANb9cvaEpCFX6dgVwKOV9Wf_fFx57tG7sT8wJEIQx4BWfk-0aDQCZ6FawYkhveoU2NUNPT-YiuCGT3WPUu6R97ou4-qSD4gTOkeaQZAUMqJR2rnQ",
+        "width": 1500
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104566122560452775692\">Chez GloRy</a>"
+        ],
+        "photo_reference": "ATCDNfUWw10971XC8nObZUW0XxidvdgX-uLFLdlwn-bUyP0KrJqg3aM_tUSEhDJUIh_T83m7hHX5dSqjo3EXBINDXe4NITMIjmmP9L0fhdUktk6nE8RDIdZaBJJV61EZ2lvpguXrcWbCBYCm6FpPSNEtW6mm_xvDJqC08C8i3ukqDGr9l6PMiQtwPZYJe0X-vsPVUrcJ65SY37hGTapC04dWJBka75EVK45eTjVqqbky-I_pE2K1Xi3dglTQw_pudoUxxFiQRHplhlI9qgedWEmTRreyRDg8tUepT0d94cr-DmVNKQ",
+        "width": 1292
+      },
+      {
+        "height": 1069,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104566122560452775692\">Chez GloRy</a>"
+        ],
+        "photo_reference": "ATCDNfVm0P3U7R_Xaomz0qCUkOV4KKQu0O7MTvSLcxQZKlw2SlaIRrLTPid5r_714KnZMkj6JNj_MChjLCg1TDi8KET7S0VZ6izz2O6M7OZSulO6whM7sPBDQqfVdUD29FyEqYxChroRVuZDR_Jw0rP633YTCJmGb2AGb7Khi9Cmx7q-UMHRJRLN3Gk7dfGA99Kmf_s6-W7Z5Ixytflcmi1oEZid2LM1BCM25wsn7tP5OMmiunislq4oRecbm3RvxqdW5mdK_TzsgU-RoJ7irMpxWjvcqaVKb3AO4miKawDD_G6wYw",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJj_URf5hHyUwRjWagTmTi3Vc",
+    "plus_code": {
+      "compound_code": "92J5+PC Pincourt, QC, Canada",
+      "global_code": "87Q892J5+PC"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJj_URf5hHyUwRjWagTmTi3Vc",
+    "reviews": [
+      {
+        "author_name": "Anthony Woo",
+        "author_url": "https://www.google.com/maps/contrib/117120407163949577646/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjzJny2Og-SfD9dJEM7m3q0HihCFQt_Bt063erVRBul6ONH370ng=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Nice little greesy fries joint. Price is decent for what it is.\nWhat set this place apart from others was their service. The cashier was super friendly and also brought food to our table.\nEach table had spray and towels to clean the table yourself if you feel the need. But looked like it was already cleaned.\nAside from the food, my kid found a nice little suprise from them when he finished his hotdogs. Since it was just a little before valentines day they had hid a little heart chocolate under the hotdogs and a few stickers. Boy did that put a smile on my son's face.\nThank you guys for such a great evening especialy since it was my son that chose this place for dinner because he goes to school nearby.",
+        "time": 1644455830,
+        "translated": false
+      },
+      {
+        "author_name": "Samuel Robertson",
+        "author_url": "https://www.google.com/maps/contrib/117909364837496444788/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRhugaEtp6sGehnO-CFtu2kvufTHv6MTKeaCebKIfhjQGtIrz0tw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Absolutely love this restaurant! I've always had a very positive experience with the staff. I find them to be very patient and gracious people! Not to mention the thoughtfulness and care they put into their food and service in general!\n\nI highly recommend this restaurant for anyone looking for quality diner food at a very fair price!",
+        "time": 1597954477,
+        "translated": false
+      },
+      {
+        "author_name": "Brian B",
+        "author_url": "https://www.google.com/maps/contrib/101267909332938545748/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJADWIv1zO3skhwFeQHFqYFXnV2223zEjY6PJnkL8CvMgrYRw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Well I just picked up two poutine from here , have to say very good , the service and cleanliness of the place is good , very polite and friendly , definitely will be returning shortly to support our local businesses.\nThanks for the service 👌🏻",
+        "time": 1753988034,
+        "translated": false
+      },
+      {
+        "author_name": "Anne Blais",
+        "author_url": "https://www.google.com/maps/contrib/109703787890839942037/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpXXhVHaKmxxzNq2CzSlspCQZVQ5bWvRhvMa-DCSaL8Ykx3pN9=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I love love love it in here. I will drive thirty minutes at the end of a long day just to get the delectable toasties (hot dogs, buttered buns, all dressed) and i expect all the other options have the same caliber of delight. They have a members card for return clients (and you certainly will return). Extra condiments on the tables, options for desserts, a wide variety of canned and bottled drinks. Fun bright atmosphere and kind staff. I don't believe there is a washroom but that's okay because the service is quick! Two enterances, plenty of indoor and outdoor seating options, a superior slushy (I picked cherry) and lots of grab-it-yourself utensils and napkins. Great for on the go or just a treat, when I worked in the area I would stop in for lunch with only a half hour break so that should let you in on the speediness. Always spectacular and it's never too short to go back. Please do yourself a favour and try Chez GloRy's if you haven't yet!",
+        "time": 1753408513,
+        "translated": false
+      },
+      {
+        "author_name": "Hadrien D.",
+        "author_url": "https://www.google.com/maps/contrib/118066694934090400515/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuE02ccMyxxlw42Ckt7aLf9HkRGRBpiheNUpGvkInbw3xPFVI=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "This place has some of the best toasties hotdogs you'll ever eat. Cheap, simple, fast, buttered bread, lots of candies and ice creams available for dessert. A perfect joint for quick food at a good cost and without disappointment!",
+        "time": 1753408087,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=6331465571596527245",
+    "user_ratings_total": 321,
+    "utc_offset": -300,
+    "vicinity": "100 5e Avenue, Pincourt",
+    "website": "http://www.chezglory.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

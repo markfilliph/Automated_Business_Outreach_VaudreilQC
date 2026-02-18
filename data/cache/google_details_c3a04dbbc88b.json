@@ -1,0 +1,367 @@
+{
+  "query": "EMSO I Équipement médical I Vaudreuil-Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340501.7199519,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "17",
+        "short_name": "17",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0N3",
+        "short_name": "J7V 0N3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">17 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0N3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "formatted_address": "17 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0N3, Canada",
+    "formatted_phone_number": "(877) 252-6964",
+    "geometry": {
+      "location": {
+        "lat": 45.4143722,
+        "lng": -74.0246137
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4159582802915,
+          "lng": -74.0235809697085
+        },
+        "southwest": {
+          "lat": 45.4132603197085,
+          "lng": -74.02627893029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 877-252-6964",
+    "name": "EMSO I Équipement médical I Vaudreuil-Dorion",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfWvY8rJdg1Bnnug5BgKxTJTMg2kPbt-qaTb2YkPZfRqa86WzKlK2mOyNwEJgj72OoXKScbuB82BL2WdNa7O7R4LYhCwSTENV_fS539mRHOarFLDmP0qunLHRDGifMyoXeGOZvYmegoOZbVMvHAPoWCBfl6c5hnQQJ8Bjwr_Ul9z67e1kgwtX3X_Qt9WKwAXoyNh1Ozy4y1U2PaI_vdwL5igpTIecJtSEQ2_f0sEm4jTvk1r6sw6Zc566lBRzF4R73keJaFbk1z0nFKNZZwb0u46NH6xmRVZdFksCj7k4vW0kn93JDjtZ5DDzrvjX-JVPvl04heqiNxqTAKZ_84k3TfUwCbAHgXh6tIgFZ1dZIWyOfv6TtaNHNfHrTdLOV1qsrFkDYpuwubNjdlFpn7zhx_MpY3_tDMIso406QJmD7Y",
+        "width": 4800
+      },
+      {
+        "height": 650,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108257287605066270990\">EMSO I Équipement médical I Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfVVl7b-VEZnYDDHVWvJmswJ7IjIfEHNO4KW_F3ppy5pjkr_rovUdtLuHn2Kjj2vTbdWt9cahOntFjmwRAwPEgVcU268o4Tn8EyiRAuKu_St15B4kh3mut9cxUd1dFUsXHxMcZbCdu9Zg-ZgZDSYxriIRo4CXzOhHJxMV8qYwzJ8aqJmSL6IUfVU56GLArHEdmLa4oiz1RaY2TcrWs1j43VcvPI4Uvp876Rz132yJgWwW88lGDhszv5tPJNGtNLu75qTBeUKFXrMh3MDa67Dvc1itY5p0dvd7Wbj1jgC5jcYcA",
+        "width": 650
+      },
+      {
+        "height": 250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108257287605066270990\">EMSO I Équipement médical I Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUB7C7quZis3Pzzj0Yf2IpNiaSrFGK3CPCpk418AVJ3mnDbs3QlcVQLMjTkWPktjiyQASNhvvCJoa-yZAiZQAmGHUIm5mHdSx4xi1xGzgEUioZrRpQMrDLYpyw_BHDYOn3M9HZxlQTpe1UpfNTAV4t33uNpCu6NCOqU70UPz1cU4WeAJcuTIeOCTwaJvnkKpsF2L-n-ADr7RoOxLNmQt3y0KADYrJcie8BEWvY9uVjhOXj33yw0WCuPQu4dnCeSqXuZGGIFkdoAFAuXqmVPfga_P1eikGnHTVAkO8F1A3jeNA",
+        "width": 250
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114903787878765510623\">Amelie Mallette</a>"
+        ],
+        "photo_reference": "ATCDNfVq1RvTOeHvdQdWiiYCCUdCTNRR46G5bRFc5q__LJQY0lEYA7aB0aPfwmBhxOB7v79D_pzXXmUETFMKULp0RfFkKXvI8QqQ7GY0j9O07UB59U7vvM9t4uujIUvVfMEvDzOoZBIEPUEBWvE2OZA7SHuw20QT24CtBt6YFleN32QKn4SMReKeczJG-tPbk1Ms3SZUzDE3PJMhd_ChT7zb3YFUyWfaKjS40tk6TpSosHN7YzrCnbbUjw_Bl-eb9vP9RfjSvagr0_gIB4AAXvh1ItldpJM9fuJUR39GWeEYrBWXMzy2Ub2ZUPTUKtMG59as0F8zMjBq77Cr6mgkau886plFwhC9DBb5WSk0BfVj39-KKomV2-C14LdRwpXn6srV1OdHrpjfAiNgVS-gP2h7CMSu5JBMjQdmdJ6vt2qnMi8",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114903787878765510623\">Amelie Mallette</a>"
+        ],
+        "photo_reference": "ATCDNfWL3TtAvG1Hhs3ErVEoSlYYdZWtv45AY2qTzHmv42Q7EsPgjqrXqn5Cda6f6Rsek6Q8x-fu-hM1hMWrMS9g1DZ4ZPoOnxDIdP8PMjOSto7YM068JcQRddVgOSY1CDdohQV8E1XM_r8Zq9YNFMwiYRc69dKuFIFtxY7-1un95EJ8ZWF1rj3ikL5UMPfM5leJIU501dFXZIurH7skjCE8fyAaHOA9ngQ65dH4gT9yOKIYq2wfK_-IaVx1aJCjTtks0FCoHTjwUxInFfCI9nrg3I8e-y3qK3nvKnfSDwvHDJDnyQEO1982kKz1G5YDhwmO7xbLjuANkrSUXt4sCOUwskgdG4zwCpcCDeouGsSF21LRmTeAwPiGZWaRgOarqwyFCH83u9gu4IxYwFsvl46AyzRi2ELiotTvN3VC3xC1WecGxlsn",
+        "width": 4032
+      },
+      {
+        "height": 893,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108257287605066270990\">EMSO I Équipement médical I Vaudreuil-Dorion</a>"
+        ],
+        "photo_reference": "ATCDNfUGfzGKAGgdjgdNno8W07lg4FkDVXUfABA0b2NyPHDp8UEJMEsZXw3dkgB5kxqkV-hoLBnqA76790JZhGa5RoSgwOZx5VRRsKrjGrjjrz9aEQuOmmYH6eZm6L0-XRg40P1XLuhiYXbM5N5UPLl3MkLDmrqJZ4xtvIM3Fw-lL7cQeG7sZV3VRt2uJpP-mJYg8WTjUvxzHPX2klbzNu0XFuWmfL_6kBaGKoXb_1yQBl8aZXy_UlAygH2Pc7o7YyKaqaoaWM5_1eufjx9CEP-wllNO8l1ws-k2FmKnziaNAQABqQ",
+        "width": 2895
+      }
+    ],
+    "place_id": "ChIJhWQJEcs3yUwRO7J1LWTVBGc",
+    "plus_code": {
+      "compound_code": "CX7G+P5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX7G+P5"
+    },
+    "rating": 4.4,
+    "reference": "ChIJhWQJEcs3yUwRO7J1LWTVBGc",
+    "reviews": [
+      {
+        "author_name": "Rosalina P",
+        "author_url": "https://www.google.com/maps/contrib/101987435202311699209/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUU111r0Frk2TAPmQRt5lgFvkG4mH2OIjyW8V8y8vOYDNcJw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "Read carefully what you are buying. They will not notify you are buying an item that might expose you to chemicals known to cause cancer.",
+        "time": 1605715071,
+        "translated": false
+      },
+      {
+        "author_name": "Chantal Jagr",
+        "author_url": "https://www.google.com/maps/contrib/112995400435892684382/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDxZxopzj5dKfueR03ieM6pM_lov2GESPRq_UPodDwRwjong=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Excellent service and lots of choice ;)",
+        "time": 1758369781,
+        "translated": true
+      },
+      {
+        "author_name": "Richard Dubois",
+        "author_url": "https://www.google.com/maps/contrib/114019563567548084425/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2D0cpkS-1X1S4OIFupSfvElZu51GK9IuFwY36TwuaTktESHQe=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Courteous service accompanied by attentive professional assistance! Thank you to the entire team who cares about the quality of life of their customers. Your efficiency is synonymous with kindness! Bravo!",
+        "time": 1573828075,
+        "translated": true
+      },
+      {
+        "author_name": "Michel Biais",
+        "author_url": "https://www.google.com/maps/contrib/102660001476175542118/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtAwPih-RMpNIwBpvJ5mGZqFxsKNnXMCUQ_wxWvLcDyP8j=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "The service provided when purchasing two batteries was really great, delivery was very fast, the price is unbeatable, trust this company 10 out of 10, thank you, and the prices are very, very good.",
+        "time": 1678997288,
+        "translated": true
+      },
+      {
+        "author_name": "Maryse Bouchard",
+        "author_url": "https://www.google.com/maps/contrib/116186022764878291031/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIznhkq1tHmYdzk3cMsP6gHmHpW9Cdwnp-QEmFZfp4l7Xrbgw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent service. Compassionate, accommodating and efficient team.",
+        "time": 1677164772,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "furniture_store",
+      "health",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=7423292712049553979",
+    "user_ratings_total": 9,
+    "utc_offset": -300,
+    "vicinity": "17 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.emso.ca/?utm_source=gme&utm_medium=bouton&utm_campaign=site+web&utm_id=notori%C3%A9t%C3%A9",
+    "wheelchair_accessible_entrance": true
+  }
+}

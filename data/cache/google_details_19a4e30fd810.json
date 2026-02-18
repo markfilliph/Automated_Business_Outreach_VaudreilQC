@@ -1,0 +1,110 @@
+{
+  "query": "RPP Distribution, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338617.8548884,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "220",
+        "short_name": "220",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Shamrock",
+        "short_name": "Rue Shamrock",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 3W4",
+        "short_name": "J7W 3W4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">220 Rue Shamrock</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 3W4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "delivery": true,
+    "formatted_address": "220 Rue Shamrock, Pincourt, QC J7W 3W4, Canada",
+    "formatted_phone_number": "(514) 453-3848",
+    "geometry": {
+      "location": {
+        "lat": 45.3810547,
+        "lng": -73.98567609999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38238048029149,
+          "lng": -73.9844327197085
+        },
+        "southwest": {
+          "lat": 45.3796825197085,
+          "lng": -73.9871306802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-453-3848",
+    "name": "RPP Distribution",
+    "place_id": "ChIJVVURUfhHyUwRqMiA8Al7dtk",
+    "plus_code": {
+      "compound_code": "92J7+CP Pincourt, QC, Canada",
+      "global_code": "87Q892J7+CP"
+    },
+    "reference": "ChIJVVURUfhHyUwRqMiA8Al7dtk",
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=15669847236102113448",
+    "utc_offset": -300,
+    "vicinity": "220 Rue Shamrock, Pincourt",
+    "website": "http://rppdist.com/"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "query": "Excavation Francois Nabelsi Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338651.3136508,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "286",
+        "short_name": "286",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue de la Plaine",
+        "short_name": "Rue de la Plaine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 9W4",
+        "short_name": "J7W 9W4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">286 Rue de la Plaine</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 9W4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ]
+    },
+    "formatted_address": "286 Rue de la Plaine, Pincourt, QC J7W 9W4, Canada",
+    "formatted_phone_number": "(514) 838-6728",
+    "geometry": {
+      "location": {
+        "lat": 45.38198149999999,
+        "lng": -73.9677924
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3832323802915,
+          "lng": -73.9663869697085
+        },
+        "southwest": {
+          "lat": 45.3805344197085,
+          "lng": -73.9690849302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-838-6728",
+    "name": "Excavation Francois Nabelsi Inc",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfXmDyVZnf5CqwvoYZoIw-gyKUqlyykgwf9hhdecbCW0Hel8Ysgx8H_-OaCWsE3N24xhrNuMy7Ns_jcV8hZbpLV5sCBc9Y0QkasHp8ihmRtXExIoGk4IOMlz_2dgFIU_LvBOartqIoZtCFXKOpYFxSGTyHbPWhkOfyxkp0MbzVvH1bPio630OJi9j63YZcw_kfXUOBc9zFlG1aigljk9dFBorJzk-5EAnXjwtT2U0qIg9OE_eGMH-nvLXDh2WTb8okj_PXX-AgfRfEaYsMlttXe1nEDMZLf3hZqxCVO7fcWs5hBCdCouc5Ho0U6TGPnvtGDgXi2JJ1AOUU3knqK0fi8q5-kLBWVQHFMHFYPVwbzFkSC9OOYx-Jo8wTjBWU3WOKrCG130QtmDX3aARz5VxXAj2TifX3vaQissZ0YuaMdIKQ",
+        "width": 3024
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfUzR0rmcW9Tihr0FeAqIbL3zQNArBNsE8bneGWAvDievgQR_DaRVTnRe-DXNBYalJmYTPXor88Umr_0JeWpEyVYAZKaU6KTPvXa38A54CrTE9M2QWsGQ7FKhvHyJSk0UwRmjk9NG2OAQnR7n5_pVwgRCSr14Ozzo3T4T1wuZaqggNXe_nT2sY_3_qm1Of9emR_eB3b09ShqWbqxxyGZZFJiBNn9mw_UwpoTCmnFuDRv1PxMDfotYRcw10jxO5LmXsBtX3-LCIzGGfBToA2CWBd1t-I8ACnDAT22-3XnI8-ahgG4WNUHlkrkYX3RVysnMiHaUVUdEqEzdBA8nxf1gCpJ3qmczAkKxMs_lP1h69s0necMPxR6FkT-vLhiR_NfFRNP4cszQxzr6QqnFSQRcgsRIKQG8Os71NmQANpdjgFAeVI",
+        "width": 2016
+      },
+      {
+        "height": 2066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfVCpuSYXSBppU-TtitP4aLI6G1j6vO0pjZ83fLE_OewmTEFK1cp7o9ZLpyV1DPg2V5kByalumx7sgN_qzfmfvYvMxQqR2Z5PGj_6TSEMncPSeJuG-EaI7AjozloU3RUhihFtWyXmumcCi3it7cHQ39ur1AD8u-nklDt0ypwQULQ1tt2W6SpUsAYTEY82TMl7AQDlO3S-acbbKuLaFej-00p_yh-cMg1J8xZEUbciUuiUfqlZVMozztJQvbNGVGpaD77FLfmYav5eLwwMSkzqQwsgMzecZwngbK3Ej6kDkrMPSUiKUlRCr7_ZGVx4tWayBBuKASIbOJlHXc1wYiSZxy1ca9RPCOP5b0fTyyDIpC7XDfQG0LbWZZn8gJSb2vEg88cHwQkPs-xlTOw_gpTQKgEJy7rRp1RU7vcg7s4N5HMo-rr",
+        "width": 3672
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfU-KfdRgvPARq9imHsY1frzh-dLIjm6ZBG-9Ge4LpCBivgDr-2PS1_8or1JMCSkjajzgINS9wqqK-QZ81LTyqZEaxmvAr--ChSXxOoQqp-QexrjyoY9m0JqVIrRLOLEw6zdt9K2Ncom7Pk6MtyoRkRCYOpJQGruNu_rmFYfRBRUUgGx0RUt3N5lb9qXjwe-Hia-vvB10cq_HCXqxTUTCSxxgNOMXMaluQ7-R8ewSRI_vvZLfRMlD45dhMAyJcV3ZFb5TvLJnmudNa989oFX9jeMC-958h8ykEntmFFNh24gPcLPJ_e1GH9GdnvLiLzjF__30-kYMfVoZw890na_Gi05eTg8OnDFnBh01k3L-fKYwSggn5TGgGsXCFSZd96BMnIdGWNNa2IkaklsdzNKpLnOMV-1sPcWr02vfmbovoZVn4rG",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfWle_PrHEyet6xpUXhBqxb1ssdWwBcleFz1a7LBKSgm8htILHywY-0DjYBlVlmuHRmbI2p-ODnIVM5n76G4zZYSjAh2i53lUmLcbcdDwFW5kuQJBE7MMOZ5-GJpXRajkh8U3AKZWuQ7VdtI17ycUVfTjD5uHgKdmGt-uYXvNk3RvmI27sXjewBF5t4SHdWE6gl1uinsHUyI34PUZhXOYurqoexmzc62P429-p4vYeeolTxPBM2ru-9Ak6mYBZsDIO4pywoIOxAF4KhuR8yCH3Co1qImI-cEBIKgGptcVSnvrQdH5ofnqMmpwet3DntvSGiAy-T8QwSf4qZJ8ma_esFwTpFwCQnEjvq-Nnl2K_eyoumpl37tDyqrzRo8FE4Yj3Xrp7M3nGwJNQgJzD2FvxX9iQpS7r_DhltEKOpNDhRxzBA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115009134375888096955\">Haresh Rana</a>"
+        ],
+        "photo_reference": "ATCDNfXteaOKEbWw_Bz87IJhI0LIxdmFrHOd76-v_dG4bLndksX7gepWSXql1pioRvObSxqB7gVCCeLIoVX6HYO32txqamFJvHPbdU_MzXwPlWBiJnNGRbAeIxj1nZyD69t_buJAposShhuWhwAXzAuMSsdutiOiJ7Yz9E0QzOIExTcN9KeCi-SfHL1JfZYuW9FrgjOEDcLJrEd-8w3dZf3Lg5tqqW_wOXTPERP-CZIflCVSxo9QotjJXviTs8mafzltkMYl_XKtdJBiQTx64qGbW53-T_ntenpy6nwpFsZQcXKnbmpJ84Fil32y7vI0YWECBxriCZlC6T2F28O0lqHEANQI75Jo9ILlawrye1PzU18mjHoVDz_PayqZdOLkY5Amec4JiEWBfiWF-_lA3BHDD5-0ge9pONuPAp-q-C3EEDFVdw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJzSfUoHQ5yUwR0qd1BCWX_7A",
+    "plus_code": {
+      "compound_code": "92JJ+QV Pincourt, QC, Canada",
+      "global_code": "87Q892JJ+QV"
+    },
+    "rating": 5,
+    "reference": "ChIJzSfUoHQ5yUwR0qd1BCWX_7A",
+    "reviews": [
+      {
+        "author_name": "Harnoor Singh",
+        "author_url": "https://www.google.com/maps/contrib/116738813255855451673/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUBX7NWbmlrFDflhZvSx4cadXCEtq02f33vWT2RBW6jHPaGwR_=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Nice",
+        "time": 1723737106,
+        "translated": false
+      },
+      {
+        "author_name": "John Fon",
+        "author_url": "https://www.google.com/maps/contrib/104367760724724834852/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi3idB_YOScm-SDN2YWRqv7LbnHNL-idtGPwHy2fv33Hddrg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I have been using Mr. François' services for several years for pothole repairs and speed bump installation in our commercial parking lot. Always very satisfied: fast, professional service, good price, and always on time. Efficient and impeccable work, as always. I highly recommend him!",
+        "time": 1764805247,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=12754078854980937682",
+    "user_ratings_total": 2,
+    "utc_offset": -300,
+    "vicinity": "286 Rue de la Plaine, Pincourt",
+    "website": "http://www.efn-asphalte.com/"
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "query": "Carrefour Don Quichotte, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339424.800738,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "25",
+        "short_name": "25",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7X4",
+        "short_name": "J7V 7X4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">25 Bd Don-Quichotte</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7X4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 – 11:00 PM",
+        "Friday: 5:00 – 11:00 PM",
+        "Saturday: 5:00 – 11:00 PM",
+        "Sunday: 5:00 – 11:00 PM"
+      ]
+    },
+    "formatted_address": "25 Bd Don-Quichotte, L'Île-Perrot, QC J7V 7X4, Canada",
+    "formatted_phone_number": "(416) 922-5553",
+    "geometry": {
+      "location": {
+        "lat": 45.3910344,
+        "lng": -73.9647293
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3923814802915,
+          "lng": -73.9635297697085
+        },
+        "southwest": {
+          "lat": 45.3896835197085,
+          "lng": -73.96622773029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 416-922-5553",
+    "name": "Carrefour Don Quichotte",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 – 11:00 PM",
+        "Friday: 5:00 – 11:00 PM",
+        "Saturday: 5:00 – 11:00 PM",
+        "Sunday: 5:00 – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104848410476171130105\">Mark Maceluch</a>"
+        ],
+        "photo_reference": "ATCDNfVD_ENDAvPqx8-KEItvz5C0HqraI-Q9sxwGl6fFO_e2Afh42XVRvo1oi6D6VIaSUlxFholugfxkADCqXWrxm9U-R_NlabdyISVkHgekJEVC_E1wDO4dqJJ3ij2KWeuKEARADfyGa-Sfywi8zGH6zliBiOXkRhMT3iiGO57mYeWBFiKzThTMaJcw_ufsGXdIeJaGhEsy3OyHQrJkmkx94i2fq1QqHLnrik7fyTxouannM5GHONqY-EDnPT8ALWAYqBU7XaOH5I46PDHz82MIKC5HvKM2U1Rb7ZknaiuTOs5zIt-Plcea3q4L1DhhnwSXcwCM3ukG1mug4zGzUsI7iVcECM6_RL-5-dNCXy8_W3V6Cu-YJlLUqpn5gNM6bPgkYphZrc-tlvGpO8KvF0Au9W1Gc6zq4Fd32uSf8EDGfWXmwrmD",
+        "width": 3000
+      },
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107884334286913578461\">Liyang Zhao</a>"
+        ],
+        "photo_reference": "ATCDNfXPoiA6M2F-GZcE-2SqJs_hafHGDvj_7ZB8RaYBM8f9Ixn9beH15hXG-MGvLjlaUwcwQgWm2VSFiPK2DjZ-XcgXOFa0Az9myXsl5Z5EtPYRlLuwKWoFPQ3jScBoG_cT0CIYQ8sojKgPx8d5ukKcGzc7ZkJwhgjL4QjJE6SoKTsQpYzHbkEMFB2SGkr52noMxbubwYPEO0lH-wFXqIP50raqHQvfeWrnmwJ-AJMA7Lo89ap9McwUa9kPfOgyl5sxZTmvxdBXB7rcU-Svz9xicDVDGLRvxOWsK9BCxXnfxWVNgOXHYEfx89WQfdvLPW6WCKiN2gz6ZqHEL69THLg9EEatEBxMZcZi9W3ZUKA0RCqi7RS48NPkXDzY5DwQXKle5JGvCYGBr_vws3Fmzl4cFhZDqC91SoquCyFEALSwi5wfAg",
+        "width": 3968
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104848410476171130105\">Mark Maceluch</a>"
+        ],
+        "photo_reference": "ATCDNfX8Stlz_AcWTwj_kSokN16t34FQ04dvsjPPnJsjpQCI6IJG1k87wLHY1_Y8OpMtFiV5Fj7CiapfG6BSj-jVgnuxh1OxokyV0kQ_a1z4yLsjoAnH3C-hUmjKkNXqtI7Gra93xt95Fz34gzlNHA4CLB8jvlxWLCjIBaCwTSL31DPZZZ8dKf0kGtsso9SdcAMkQiNDtcGus1J-12wzZdKaWW-hn4apGz-iNh-I52rmrPY57k726aLZ-YMUcRdZ_GuVFZ0Y3yl-KbxLXG5GzJcLYMhT5lUduoAjy0twGVillSfUEh5RGjzSQTxyFFZRKDR9eY8L1Ixa_j3Or1Y1gNK6jmfohEepRsJusxZKaAsl4Ntu7r9hMa7m-Pf0W0tQbjbzYWeDQ9APvUECUUeut2CHK6rRm5T3jCyF0cXNpPoXF9gmmMIB",
+        "width": 3000
+      },
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107884334286913578461\">Liyang Zhao</a>"
+        ],
+        "photo_reference": "ATCDNfWAqyKJYWFg4kc-3ne6TLEtwEcctOd49fTrB0volipOzfZdQe5Ft8V01GEXZ0cJk9bZCazPIal-e4Nqftc6RaQUqoGo68oMHKHIQsg63-xfBHNNx9G9W1-434NO5B2_xb0oZrOn5T7_R0adRxfsjr4fUIEvwOR9Ob3hgjSq4VoZBM62JI4Q2d4mb00j0fMT9rZMCFD1TJAIbkn51WVUFzGYAlhuc0NljriQ4yT6NxjSVmnx-FtIP2xnNUBhkFnMe2wfLJUlAfKLTVY3wcUO7-Y8wYS_FwiAzimRmJTSJtP-KHfdLIhnTXaGoDTUF_VRQt2PTQOK0VW0kxsP7URHqeZVRVR_FJacZnWZ2hPuIHZoCO6Ng7voQ8Aw5rEphDHmNXGBq3w7DKhr6GZ3kZLV9FJP45kPS4xO6gLPaW-KNO172g",
+        "width": 3968
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104848410476171130105\">Mark Maceluch</a>"
+        ],
+        "photo_reference": "ATCDNfXptAJti_o9sYsuNAbbHt6RDk8GacmDRF9eJmGOJsvVOezdmRVtljnMvWoFHda6lW4LrAVt5_QsBUXxBBArAPLUZ_Fo-Zj7Fj51Wtpzlx7jNDk-PAMwN3eTIXX13TtLctx_HuRDs8ZAQzHfGnjXe2SCi7Wvc0u8mKf39EefXARYk01chr2Ds0RoAllKhhuUM3fabnt-ecsG__MATivRFWLcosttYcHh4Qr9OL54bGxGEF4D983-dnsRsn01Qb_DwKlUWxabtixslpCR1qHqza25XLY4fCfsPhZQ5mEzzrQE3-FZ3tPtPxmctJy-0koRxrQtjSnSTnZlclBoS9MuPQ0EuAvxGpO-f-_GLbL8fOxYXMEuVG-uKSg2Yq0hvM67fT9NoKFuBPsqClFxxlXnAxoFId1W3UNIAuFk7dCMU_Z_Vg",
+        "width": 3000
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110157972248654623570\">Andre Ouellette</a>"
+        ],
+        "photo_reference": "ATCDNfW_XbCHLOMmDevHYpjdGuoVaxjSp-r4SNVcpFO8MaKYr-GjzVtmkt5LKd59ud3Yerg2rrj_TKTripL-qffskA2JnIsoueA7rXOxHMAgFh7aYqLU-9091yCFJ8dEkXR-Py-GvymDH0SUdxJyQYzq_wt6vgW6_J3ERLOaJab5aIHSQIYQlJ4YVtuBvajAxLmvwPu1o-zmPpMHmydwdXgfS4VPs4fcwdN-_JXaWbiQX9Gnr7iBkhcK4-gzwOGHGVo2xMPGsylN93DnHN9ntL6vOkZHQ_wDRM2KBr4nAJtXU7CSi1Ruj-EEo72zcaT5veuUBlrNWjf2izJoFRdpkGw_r-X5RwwEzvDx0dXLnV9LlGOZT0zlj9ZXqJOZI1sbdct4_391G2ee2igX2j0ANZj9Xoj-UrpdY70mD8vn_dsO48zV8A",
+        "width": 2592
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108657403342484113168\">Kamélia</a>"
+        ],
+        "photo_reference": "ATCDNfViQs9rUWl7FBISU0IGmTpVGeNGgPz33QhZsCCO57LQF6XSlxnNKV7yAokQkVQd7vHRnRno4e_sjnOC1yxf_JTxLDNJpsx6q0WaiSsJ_ZUMvrBzJExfJKaRvGj2-FwK9JjQ72fOLfgvPRkAce4XnHvEea6endMhAna9xhwj3qYyTGgJt75KChVqpK24-HXBHV8e07bHjq9lNw9WsqRVBo142Wc6re2_OV3xZmMtOl8i67Sr_y1ADE911CWWxgRULwc-SQb7lfBLKDguCJtJ2iG1oR7lfozoQgXZf-as1urwC5CR261XIvggwM60zv7YHjCpUGQCdWYDbFZnTEZrNmygKJcjjmaAHPTSuFvxsNA1VNm2JGP3AiyjGNm6Hc5e7Frq-Y-C_SYGwdTQitvRr8r5XICyYWcnk01HtPc5pQplgw0",
+        "width": 2448
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107451744046989787821\">Jerome Samuel</a>"
+        ],
+        "photo_reference": "ATCDNfWh-k8cSTel3b0aZti6iRziOS2lCieBHN2QRAaMUzZJ_et5x8xw304QtIXY2K2lAK7lfi94Jq_qNpxneExXvKcL5haC7XqMT-XJHE2uky8Zl0560QjGS3odfcKCB5ao4-brtjPNrrXcdFM15kBmONKBNI6UfKPk5-3K2XRNLWNo9A5pU5BeRfIuq0srdYLhOnZMNyVAR74OZoCPzccbDmiNMPN-43HymVGsuQkw-K7i-yn3n7__FtUab8pHp0erx92RacSlpempsRur0YWF20BrwKbO_tjTsIhr8gqsJtEIpVMYDFihJGqF6lcWgCxICf0u_KorEG0bnl5uJQkG0Mmk0SWgSNyCfF-q0ZDn8XQkVvzPKBjQAlxaKmkA-GvGjKArG3WMobPbIclLCU5z6PY1iXqpvtnfp3lwxgJ2TDILtGw",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJu1mGxhI4yUwRV0FmTZfWUsc",
+    "plus_code": {
+      "compound_code": "92RP+C4 L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892RP+C4"
+    },
+    "rating": 4,
+    "reference": "ChIJu1mGxhI4yUwRV0FmTZfWUsc",
+    "reviews": [
+      {
+        "author_name": "Darlene Williamson",
+        "author_url": "https://www.google.com/maps/contrib/111314439283834393395/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTF4T1LxZD_WqFbH8c0latYCbJy9DgbOOQJ2ckH4ysOXnNWCv4=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Some stores still open. Most of the mall is empty which is sad. There is a great shoe store here and I purchased the perfect pair of winter shoes... and a great price too!",
+        "time": 1674582151,
+        "translated": false
+      },
+      {
+        "author_name": "Kelly Fraser",
+        "author_url": "https://www.google.com/maps/contrib/101387803433922639393/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQUFIDY_5ROVRQGnAN56EyhBpPJioAcu1vwKltgNAlbTsGBQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I haven't been to a Domino's Pizza in years, but I will definitely be going back here. The staff was so fantastic! They took their time to explain the specials, and the food was made quickly and it was delicious.",
+        "time": 1578734966,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Smith",
+        "author_url": "https://www.google.com/maps/contrib/115352028933157456867/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeq1KDv54JYrjidpxgs6uX0hYokJ4z5sikVwPfNCknAGqFVg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Giant Tiger is always a worthwhile visit. Good prices and interesting items. Lots of curtains and curtain rods.",
+        "time": 1694482901,
+        "translated": false
+      },
+      {
+        "author_name": "Anita Stevens",
+        "author_url": "https://www.google.com/maps/contrib/105889064901450724176/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvT_r5QbK4zujEvtgHzPAUg61sd_f6O-1cf-lub-96gKLMGg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "Went to the vet. They are great. A little sad that our favorite technician is on maternity leave. But the ladies in reception are the best.",
+        "time": 1569868008,
+        "translated": false
+      },
+      {
+        "author_name": "Field Racer",
+        "author_url": "https://www.google.com/maps/contrib/101257358614349687732/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOnfgXEFhhGELu7iXBsGGLbN1fovtvIhftZlmWzc83odDQ3hs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 years ago",
+        "text": "It's 50-50 with this place, the drivers are always on time and they are good kids, I've gotten some serious attitude from one of the girls working at the counter taking orders... Not going to name any names..",
+        "time": 1565182936,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shopping_mall"
+    ],
+    "url": "https://maps.google.com/?cid=14362778106964885847",
+    "user_ratings_total": 536,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 25 Bd Don-Quichotte, L'Île-Perrot",
+    "website": "https://www.salthillcapital.com/portfolio/carrefour-don-quichotte",
+    "wheelchair_accessible_entrance": true
+  }
+}

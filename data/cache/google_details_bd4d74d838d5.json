@@ -1,0 +1,324 @@
+{
+  "query": "U-Haul Neighborhood Dealer, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338223.8100994,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "995",
+        "short_name": "995",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Valois",
+        "short_name": "Rue Valois",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">995 Rue Valois</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "special_days": [
+        {
+          "date": "2026-02-20",
+          "exceptional_hours": true
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 2:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "995 Rue Valois, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 897-0802",
+    "geometry": {
+      "location": {
+        "lat": 45.373198,
+        "lng": -74.041291
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37445973029149,
+          "lng": -74.0400089697085
+        },
+        "southwest": {
+          "lat": 45.37176176970849,
+          "lng": -74.0427069302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-897-0802",
+    "name": "U-Haul Neighborhood Dealer",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108205104026270578975\">Patrick De Comillo</a>"
+        ],
+        "photo_reference": "ATCDNfW4VrBAgd-_730DdgU-0yGQF48YnWdq8ruKxyiW1gWJaXMJIxfBKjGZdiX1hP62Y2gHCtEnmQxj9MHgd6y3yveBm-5m6hDP-ZrHTDMahDrLbqbjicgTyWXFA3DZYdIK3QZVBPrbMFZ6DGosiOInfLm1QSwY4QYmf5crIoccxlYkfRbGf5jGkf5BLfQghKJboPyqTJ_xXRFc6F4xhinKN3BVVRNcCIud-n5cr6e3PPcmJW126tQTFeKyqJ8YBRjhxcQXNfYGWw8AYspfe0vOEHMzf66ZLhIEBr5YOMiDcK56BVXkAQ-KymLKR8wPVrw0JRYjKetQtf5tNTjMGRpSvY4nEuxt2hAEs6MZoNTFjh_DEDd4lW9sY8tjJeLZkQ-KZTfkju2c21o8_d8AkLEbXJn_vY0QrkWlqjrhwkd7htmqvCa1",
+        "width": 1920
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108205104026270578975\">Patrick De Comillo</a>"
+        ],
+        "photo_reference": "ATCDNfVHeXMSVfLKeZdwePXmbPL0thHH9cgkFN7JgxPsPtQ5NX26MWsrVAIfk0vEiVPRq8pk7Gr3ItmwuwWCz97ab8zere9ZlFUzOzKvkxG-cOJyMMG96C4-pqP_HVa3WIfgRhRwtRdZU9maX4NtUZ8Mh0tYKZNEEPUVixqk9q6jDO3GstefF0DUev2H4K0y0VsElqG4r0H7r8AY4xjoecBoulhb9BCJ5vxLyJUNDCSLN7C1ZQWR_SjD6nkKetsdr-MadOqgVy1IJpYVqFj__h6nQ6HAKnoOyBu1UeU8aUXJWDE-92CXtVKICxaxy8JVM_dGZcrPpQIGiHjAg3ggBmBjUhcgrPXviu2oGJKYHsROC9FAsboFmNrSevL3bm1GuSjW5gbYMdEQOaXS36f_uW3fT8pQz7d1XVmRENwNZZ9IN7MlqA",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108205104026270578975\">Patrick De Comillo</a>"
+        ],
+        "photo_reference": "ATCDNfXjQVpYEIJyWKdUR8iCHeF295ulTTh80AVuKDwUQ57UlWK39m4W4Ih9E6jaZcE-Tle4qyJNKcZUM_QmiC8Cwf-T5G1oCGk8RZX31z4Tyipsh7hZiIFC0Qd43d7_Fmpc_S6JgPGdOiixb8AiO1dSkwMbhehikux9TUat4TmJAPCpxgu0RwpUeTiBUAYfFvkaxpXd1knddXx3qb6poUmFqyRaCVKi0TU-b_QPnQX229-qtx499CFmiAozwCcsvWkutX_X4GDiWyEIwAtg6Pb3mtrDT9_sfyiL3_rNWdLe6GZBnbY83xHdchE2BWs4a_szRtMr9dknZPmtDX2X9s1D65N527PAZ_s_MwlTyN5pdem1hKya938gW1X26JqIXs1AopyVWEX5hdRvm1sRqLv9hdnuoutEg4sc6Wa6QUESJyrACw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108205104026270578975\">Patrick De Comillo</a>"
+        ],
+        "photo_reference": "ATCDNfWd9fF2dyBZIgkiQPvBCMF10exxKxSkL-3rSZvqbces5D4xyWNq842BHMg709C4BmnVZ43f7OSUmqBju8dTLU_4aQ6wR2fFCezKd_qiJ2cHxLj94u56SE4v9l77sCQ5Ke32CnXfT5GTi8LIPXmAQvpyv8bEPZZLzU2UqRHOWkai72kDteJoZSyMfq7vOJe02kxFQHDKHWtJtkHpbNhB7Q-vy55lSYO3EgEiWzxaAdS9TA5pBWxUrkVWiO3hzAevaGWxSQIZv9D_2_muln4_xzKK4yvmKMrWqYdshElIFxtXKdOpCryAz1O7jQbCU7rbLdP_JXUjK5FgivjOdQoT8AHqo_QG8UfNnDyah4g26yKldmOupP-1FRLLtWLt8cnOnARQxUfj0glZenTcTWGJlE4oJqnGoxdcMdl2acSNOQiVboE",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJrcqhFQBJyUwRCvBXWiQmHtU",
+    "plus_code": {
+      "compound_code": "9XF5+7F Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XF5+7F"
+    },
+    "rating": 3.7,
+    "reference": "ChIJrcqhFQBJyUwRCvBXWiQmHtU",
+    "reviews": [
+      {
+        "author_name": "Marius Laurian",
+        "author_url": "https://www.google.com/maps/contrib/106434039762858324040/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnk0aGsAP-FUwp46vzS9cRVO_d5KTUWx3dB5XKGLmPiFtxWUIh0A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "I reserved a truck one month in advance for moving day. Comes the big day, I go to pick the truck in the morning and as one would expect to have a truck ready to go, but to my very surprise, no truck available. Way to go U-Haul!!!",
+        "time": 1749420904,
+        "translated": false
+      },
+      {
+        "author_name": "Patrick De Comillo",
+        "author_url": "https://www.google.com/maps/contrib/108205104026270578975/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuC00e_iiHUFM6p0xYyq4I-ozlQbbSbgbkZPxMMYAQuP0BUgftuw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Thanks 🙏",
+        "time": 1741616890,
+        "translated": false
+      },
+      {
+        "author_name": "Wayne Harding",
+        "author_url": "https://www.google.com/maps/contrib/104300252292030579560/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPDxYMP9ElEDfTFs49Zd7SgTRzT9slicc3KlU3g3klQiWgrg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1770132674,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=15356753716956360714",
+    "user_ratings_total": 3,
+    "utc_offset": -300,
+    "vicinity": "995 Rue Valois, Vaudreuil-Dorion",
+    "website": "https://fr.uhaul.com/Locations/Truck-Rentals-near-Vaudreuil-Dorion-QC-J7V8P2/057083/?utm_source=gmb&utm_medium=primary&utm_campaign=uhaulsmlm&utm_content=057083"
+  }
+}

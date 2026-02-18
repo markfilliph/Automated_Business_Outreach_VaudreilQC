@@ -1,0 +1,328 @@
+{
+  "query": "Indeco Canada Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338198.1299636,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "240",
+        "short_name": "240",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Loyola-Schmidt",
+        "short_name": "Av. Loyola-Schmidt",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">240 Av. Loyola-Schmidt</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "240 Av. Loyola-Schmidt, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(888) 843-6771",
+    "geometry": {
+      "location": {
+        "lat": 45.3761328,
+        "lng": -74.0427126
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3775777302915,
+          "lng": -74.0411708697085
+        },
+        "southwest": {
+          "lat": 45.3748797697085,
+          "lng": -74.0438688302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 888-843-6771",
+    "name": "Indeco Canada Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfVjmePzAw1ZvGp_dbkfgJ7q9ChVm-KzOtTI41W6YEKil4eKqhMsQ181Eo8TerH56eWsrMSY1MCJxudBSmpnka-CX-NlfMLAP0oQohicxy5kO3G3bXntTn6db0FruYRd4pBnRM-bOfT6aj-KbizmeIji4L47pFyW5Rqy333-CfsFPdaA_aAzAb5cx3-4ge7mNasN7Oa-psYmso9ufU2NUFOB-ssb5ytlPAXWCBHzjm8bmZARBvBv46BViF-aQjQvmRH7hi48WahSGjhCoWm5iJNdMagodRlUlIqozVEBElE3lA",
+        "width": 1536
+      },
+      {
+        "height": 582,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfU2lZmaiu4jmxyaDAiBbniDXyEkdCIeVDtffuHEUUpkNNSkfIB_CGfVOb9adcse0mSINVHtN0oYXe8tcbIHLEoCUQynHpSzTOPmDMNMxDZ4ov-HDPCDM4d6RgEQEuQ2vSc17pS26Ba3zQ2Cusj5hblbZcWqic4k_dLVJbDJ3i3wlPju-ucrYxbV7L3jz8HYO_M_bxVNXfeKXZ_fttw5lrw-4Sj_6cYPtgjqkIFLwW73v4I2jfHxFWtYEKRkLMCUPF2aYbxDrZtDATUQgFPzy3hWbtY4GQ6ajFZi6e3wdiDFPw",
+        "width": 816
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfV8j4P6wOm8Cq0LkSvnzK_Hm0hC5RSU6CdcrXcFqT2hU2p58zfveTQot6BBFUvNnVLjt04pstkVcdAa06WK4NznlFfmjrwhOMJzY0l8BzTCDPQU0yhqhUPu3t_l6qG4rRxcMgHreesBSsKT3mVqZHvZgPcRrw10yRDs5wFLuj4oYR_sLNoz4QMLy9LQUPq2h5r-lqrPEiA-NDf2q3fkvkN_XRJYtV5_wvqmRiH1JEKenTfCsan5xphLa4ntIIgbylsCwpafMJu8V5r0uCRRzHh1lv8Im_RTpGLabAh7VoZZ2w",
+        "width": 2000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUIdgzHTTNZFU2WcCJQqzhYxSFcqIItvO5-Lf6EEMFdjMWpZc-GhDsXhb6q_sHd6D3EcoCb4qodArh6RPuzY8vVf7ejIu26WcRyJEGYStPzndWiBpFh-ghLLdP-VWGHL6p3TqQZCdRx47OdFTCZh0RKCodOxlw66sUzmdfNVIGHf4hKWD9PvAY84yW_wAMglId44FJlNRAnhsD6v7e1NUcUssNha7dVDueLHUn8B57OdXAfQ2IKwHEa53JTv_-xVa6CcH5jh8w4QOi-PmbTEglGY6atehb48JDxGOgI_aC3vA",
+        "width": 4000
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUL1pWrNdhoclZks4rW-3E5kwBRk4W7WEtIXmJ4KDekZt3iyNFCglFRurOriKpFVLxxGDPoBGDmW5DE3Fxlmjor1mz7TFFNpyXzgMUNvtMYdEO_tOLRvM_HfUE-kjBsdkYN9pO8YVevUBfn4-Ny_-n5zjrl8dpSlQYEoqGeQL2R93Fh0UklQCvUl3V9QGAeIl5GkLlQS3WTuOS6bseWZQnH_dPgN1eQCrz62LrswgvCpRNiS4IsNxVACglBxWLlN90OjVeqpJbWKKM343vsBHFhaDeIs-4GINiCSlN8qeQS-A",
+        "width": 1500
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWF1Zgz2R6M8f7SYteQDE6UnoFglpZF9wyW5LZRtIoYXy_LagUPgzN4XIA38OpZd15WoBMrnWK1xK82ZNA_OdlfIeRmMkeseRpHPT9FZIEMXOa55yKJRPAgNSN7ve2WaN5GRkV_OpCekLzNR4ko7xfQj53JcbA122uVRbeYrUVsHSXJuDKv5hpXFkSQySzemyQdaFlRr6uNZUJT3vwqxJ9FU7yShn3SID6ty-L_zpoXbMLZ-MJ3hbi-0s_mWr4c-IfLci4Rg-9cqjkJKkItl5sUUBCJfKIQ0lEx0A4sJ3AWFw",
+        "width": 3000
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfXdncsizstinUaTLLo_Aa37t5qghgtL40bBdr68ePVUKwkRLo47O0qauPEgLpk02zor6ecZ-cdY3izBThcVn10b1YRLJDbWcI4JTzlgA1pHbmoXsb1uv6J1LGUzSC-zsVSOkA-1tgBUXXRbTLERx219JMVwLIcSKG1pwBiTMrkYpB7T4D_pfIv-RGxcsi7xEuXRYh-7uAEXTzv1E2oLs5m7YPVZFPk-MRL24vyLAQpStWaMocZhDNITs6xgh0MgEx_umZ1j4W0t9hu3zKKeAYjPD4rbpiJsks02qtgYcUiQYQ",
+        "width": 1500
+      },
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfV0BJz1kzvYVwhE_SWegqVnmTFWllgLOV7DhoDW54EqwY8sk-pc9PNxp0PSVo7819CfG3Ywntu5d9Gp5LsKlgh0XYNwLyu3mzeNQSBEKQVh2WoDb7gxxQlU_pUXma5VK9T7odxCVihZ1HTxw1rA3bbwBR91W7b0VnNXgXiMihh9Er6bCOSSoSsTHLIZt1CPm3SBBw8jXM6W0tQ7b-_xxwLCHtQ0uycm9z7r3ZpFUk95BJ6i92CoJIBdF6KHUuPL5dkruzfuT9-s18z4v0TIZRnHDAZpl3z5ChiLR8ughOh3eA",
+        "width": 2016
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfUzob0QtpNm5FRoWRyQqcsG9I0T7CpTAHK3b7Yb6ozuI74DgC09ip9bNEjsTN68FX1w-n96u7vYnVmiC3Tm5du6I1kTCYrhCALAINOy16pcCBmT9G2zeg9-qRYMk6lS9OUCR3uIh0DjF0KtDzCbv__XmuXVrHrUnW3azlTcMdvtV-0zFsDak6wgGsM3uF8YgVs9HahJRqLuCguT7d8q6QVgAgKMFqDLNmyesq_Qm0euwOfdgZRqwP712IAw6IKNmXtLjpEAqcKGGlWK70p-becIl-XHyE3MDtcEIY_plt2LWQ",
+        "width": 1200
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114289554306734700454\">Indeco Canada Inc</a>"
+        ],
+        "photo_reference": "ATCDNfWiZWdQAMZ-V-Z3l7TB9UELzJvg3Yr4u-lqmTmpKHt_ojhBJZ-YzLm8ec4OJSdqOzImOSm4kOlwnlDOZXG1liHAk8CiEvEShjRHo_mUYIPsUxexKcF9pj4mV4qNLudZkQYI4sfo4dx_aPj2FBnxOOQv1fhSeYb7WECg2wGV2KcdYnobq7JcFJNgYj5uucl9aLPDslrQZweT6W4Rg1twjirRQnw-3Y443NacidNe4MZteyTUEgQQwYrq7uzsvmXOoUomgCRAGAAGpme2meYH_zBSHqBH0S43hpSULtHHR_jP2w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ2_4zfQBJyUwRU7VqaVr2i20",
+    "plus_code": {
+      "compound_code": "9XG4+FW Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XG4+FW"
+    },
+    "reference": "ChIJ2_4zfQBJyUwRU7VqaVr2i20",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7893673640073016659",
+    "utc_offset": -300,
+    "vicinity": "240 Av. Loyola-Schmidt, Vaudreuil-Dorion",
+    "website": "http://www.indecocanada.com/"
+  }
+}

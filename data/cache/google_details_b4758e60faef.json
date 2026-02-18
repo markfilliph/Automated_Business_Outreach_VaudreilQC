@@ -1,0 +1,335 @@
+{
+  "query": "Groupe Alltech, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338190.9152384,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "bureau 30",
+        "short_name": "bureau 30",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "250",
+        "short_name": "250",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Rodolphe-Besner",
+        "short_name": "Rue Rodolphe-Besner",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">250 Rue Rodolphe-Besner bureau 30</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "250 Rue Rodolphe-Besner bureau 30, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(855) 730-5555",
+    "geometry": {
+      "location": {
+        "lat": 45.3753408,
+        "lng": -74.0447717
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3767753302915,
+          "lng": -74.0435062697085
+        },
+        "southwest": {
+          "lat": 45.3740773697085,
+          "lng": -74.04620423029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 855-730-5555",
+    "name": "Groupe Alltech",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117510204701324011009\">Groupe Alltech</a>"
+        ],
+        "photo_reference": "ATCDNfXzBg30iZ-C_dfyZDy2Gz-TCPgutSJcLHE5gK_tJygV5FuV6C7Pndiw9KZEFecakQnXAiEG1RVwur0ZAAbeVFIeZClmdsyOgFLXMmE4gSMkLMdqrQTxbPwlsZq7FU2gRrl4QM6swIfzAbDmVnNdm8De_1otS4P5FwkYSwxWP3G1zFTkMhe_6w9OsGsqiTPWB8Exx2abR5fZcD4VUN90cgDrlgeHbiga0Zjx9OqVonStxFBtU0NPsROoPcFHxK1Q_9nKa0M_RS974cozU9-f3KcRzLFAl5PYBslbsuAKgytMrg",
+        "width": 4032
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114623901016617980730\">Groupe Alltech</a>"
+        ],
+        "photo_reference": "ATCDNfXcg3ZOU1vIufyEwpB8gyaULMWgyxlqQeTQSp94sFw1B4xso39q90Q0W3YEnrePDObuEmUoaUJU03J7lyXUy4Ko6KGU9eH4tJdAaxvGgxnXHhhOoDC6FRqzvQHfYUEMVbuveV_PhfSaiTXFjRXFFHqJL5o7LiUNbm02sDdlERJmRF0otnsUtCdZvvTKYzubXmCEY5piOtpyQQr070gy4bSmQl8n8F0V7mDAbWPjCV3YnCHkGL35gXML-K64jS0CDEAD484tF1guaemk-I8dWgaG3pRcxVhP-14g3fNDVg66qFjkSZ8mbEG0je1WiALgOotbFn0xD1pHgAjhEOk5dyyNCwr0wdOExSCkyFLZdO10LCd_I3hv8dMoIqAUPkqSnytb5WoJKI2hSW8LqEMAnTBx28sNLK4OY0Wz6uvNtXIdRqS0",
+        "width": 800
+      },
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117510204701324011009\">Groupe Alltech</a>"
+        ],
+        "photo_reference": "ATCDNfU_plUmDukB8ngHiFXAJKw2THmhKtycmBdiB8-UA7U5SK2qPxIZKH7fJ1ZlTH-cBA1uHJfpp3vxvu1buzyeKQZKnh3cjLWjnnAIh-1-Wnt3Bjd5m7VP2Ar7MADN0m_N2OcHvqHv0iEZHZJA9GtSenKeJW_EPeHqXsXNWbwU51P6UxqMsdj_qhDIa58DUzw58C68uhkZ6y9Sr-qjwAW9-E2BTW033Jm78yktb1FKdb3U4xm8OwNN_B4hOUxA7MgBo_0p2jgfKl-tikf-hLQUSCKsRRthCTO1RtVIWvn9JFJ8uA",
+        "width": 3000
+      },
+      {
+        "height": 2680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114623901016617980730\">Groupe Alltech</a>"
+        ],
+        "photo_reference": "ATCDNfWtGNkHrxh1oSD2pP9S3cN0IuAo4oxUHxpX6HpYeeyDDloZ_jyhwZYFqiOFyhHBc2orHnsVLtCXvWgESQLgn2GM9W0Ad_hV3XoMB7Bh-W6hRh99iqOeRWOHAdWmiTIg10Sj5YnN0iDut5GMgR8u_GyWRf5bHFl5smqfOk-5zyVwSxwExRxJCrfUkmcEyfVeguXmkMHg0e3L-V10eLHjjUE72CQbca-iIaNP7J2mPlR_OMRONpj_-5yvcR1N787pw_5cDK33EONGyS50OFVr86_K2TMegM_7zhz5ThnltI6yV6PDC8s-x4u3fdX5VfULMjtpH_k_NMW6ammw4rURQe08UL0fJ8hfqeQoCh71jU8S-l3gfqXIT8pUJOzEKHqWb2iVkRCy1FiN6zcBYkirAgzvLUiTC2shkm9wJ3hI_7brpg",
+        "width": 3716
+      }
+    ],
+    "place_id": "ChIJn-EZMz9IyUwRXv5apzz9nXU",
+    "plus_code": {
+      "compound_code": "9XG4+43 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XG4+43"
+    },
+    "rating": 3.8,
+    "reference": "ChIJn-EZMz9IyUwRXv5apzz9nXU",
+    "reviews": [
+      {
+        "author_name": "sonny gran",
+        "author_url": "https://www.google.com/maps/contrib/113216327666779169174/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZUtGmRdPYxZM3cHs_ZIf5yRaAI1YYsBvBSJ5Z3y7GyCKHYg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Reckless driver... young guy with a long beard almost ran me over on my motorcycle. May 23rd 2024 around 1300 heading towards rigaud.. not even apologetic when I was honking at him!",
+        "time": 1716485921,
+        "translated": false
+      },
+      {
+        "author_name": "Bernard Pivot",
+        "author_url": "https://www.google.com/maps/contrib/105339035158809008416/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUkKlOF3jIo9N1i2Ag8EsGLdxO-T5eOZkpkYnPSY7VEYxfOg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "They know their stuff, excellent service!",
+        "time": 1529026642,
+        "translated": true
+      },
+      {
+        "author_name": "Jean-Luc Callau",
+        "author_url": "https://www.google.com/maps/contrib/113840463277864414645/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzjR8Vsglbj4_QdoJBH3yIXozjkupGyaf9dJSZyUxtkJrNvUvf=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1685630125,
+        "translated": false
+      },
+      {
+        "author_name": "Bruno Carrier",
+        "author_url": "https://www.google.com/maps/contrib/107528447794591196220/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRXVA5Kr_UkmBVWY2fvMCciKRflyVtLOI2yh4Szmlv3Xz1Hj4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1636665466,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8475208510728765022",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "250 Rue Rodolphe-Besner #30, Vaudreuil-Dorion",
+    "website": "http://www.groupealltech.com/"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "query": "Mélanie Roy psychologue, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340198.057968,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "suite 202",
+        "short_name": "suite 202",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "520-A",
+        "short_name": "520-A",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7N2",
+        "short_name": "J7V 7N2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">520-A Av. Saint-Charles suite 202</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7N2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:30 AM – 4:00 PM",
+        "Wednesday: 8:30 AM – 4:00 PM",
+        "Thursday: 8:30 AM – 4:00 PM",
+        "Friday: 8:30 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "520-A Av. Saint-Charles suite 202, Vaudreuil-Dorion, QC J7V 7N2, Canada",
+    "formatted_phone_number": "(514) 360-0937",
+    "geometry": {
+      "location": {
+        "lat": 45.4051427,
+        "lng": -74.0327889
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4063935802915,
+          "lng": -74.0314032197085
+        },
+        "southwest": {
+          "lat": 45.4036956197085,
+          "lng": -74.0341011802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-360-0937",
+    "name": "Mélanie Roy psychologue",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:30 AM – 4:00 PM",
+        "Wednesday: 8:30 AM – 4:00 PM",
+        "Thursday: 8:30 AM – 4:00 PM",
+        "Friday: 8:30 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106078745135409366324\">Mélanie Roy psychologue</a>"
+        ],
+        "photo_reference": "ATCDNfVatyVU4k1SbR_AguO8dFpZCdfZs23xV7aN9L4ltovOzCOJNZ0CedbldnCOxz23P3hJc_j3NaCZbGtIMJ3CDfFsTj4Cu0V8rueWUzvmkahKMN7f3frcg4kzym2vpj43V7i7pMm2d34MHwUfsTyKkYPM477CS-TBwAWSL2ARqoshFAjoL4z8g-qkXFw5Zm0JYXh5nNbtGjII2jEhjmLIrOkGFB1L8XDdoFBCJMLvPYqTKj-GGbEMAz_QfdgvKBdPUOa7VT-Lc7vbnx7RlbkfRrhge0v67A4mldlIyNNCDMFtLw",
+        "width": 2048
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106078745135409366324\">Mélanie Roy psychologue</a>"
+        ],
+        "photo_reference": "ATCDNfXOgynR-6ZER6OojI7xG_PZrK8GDEnfK7eqxKGcUJ0e5u6iyy9MVshiwoZKNx74cvXNa9UJPKH6EkO2nuFGiPC86goeXn4co2J15K17Z_0IrM6p6Ged2kIiNK-RFVpaFr8PkZv08PUOyPbBjRY3m0bpPXXgDQZlSTbwggXkTS6B5VGAE8RB2Z1C4nknFyBOMJdsOoEQEdg0zI0bY09p3hSpEb3owCKrVUFXoygAYqX9qIRs54RJxFpdR3uw7aDCRxupFXcgVf8oDm4LdWPoCkU6cv3hVMMr-MKEfhu0kDwCKA",
+        "width": 4800
+      },
+      {
+        "height": 512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106078745135409366324\">Mélanie Roy psychologue</a>"
+        ],
+        "photo_reference": "ATCDNfWbWUGvPMZ2z5mbW5mC___J91NypOnxjRF8YB6BsOH8PvOS_2R3rkQeYjLnP9D3sC9_di2w9bcpDX9BOCTu61vwKt82WZVNl9lkNHwpy7LxsIEW2WpTE2uJkvQxlKIh9UX9Unb_T6Kea5YM_LABDISFHRrGvD4MhZb6Opi91oW2AecZDmPODEfhs-cKBZIMZI0OlY9BWH6aedcPULo463AiY_MnUrTF1O35OqieLJpWOOSv9KcYlHaJGY5WDMb1VqQDjGCmfRwQO1qdx5buSysqXkadCYMhxp-OnXBtOWAM0A",
+        "width": 768
+      },
+      {
+        "height": 1125,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106078745135409366324\">Mélanie Roy psychologue</a>"
+        ],
+        "photo_reference": "ATCDNfUMPapQpNcDkvYrWDLOjGiTswXy1y9_H7GYYROtiAtbeSRHK8EcJdRWfvZclbQqthFuZytQWmPYXanRnKSCYjz_v751g0hzj4CSL3UI4nqqZPQDd_TW_waHivmKh-dHGbY5Dl4RR358OVoB0gRbN2SRmEivYkwkHNpmy0kS8OH2SvCCZ75-Y4GSmwJ0E72sbQkX3OtYE-RAOgceJuds0RgHqEqz_Nr6nvOxZ7pDMREu1InBlO9tOA5am9gOGp-vLQpcWy2AaMcUIKpdWpDlPN6QWCQev-i6CHVfc6pBxTNxCw",
+        "width": 1686
+      }
+    ],
+    "place_id": "ChIJ8TKBCBdIyUwR865lhFoz4mw",
+    "plus_code": {
+      "compound_code": "CX48+3V Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX48+3V"
+    },
+    "reference": "ChIJ8TKBCBdIyUwR865lhFoz4mw",
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7845889964694154995",
+    "utc_offset": -300,
+    "vicinity": "520-A Av. Saint-Charles suite 202, Vaudreuil-Dorion",
+    "website": "https://cliniquemce.com/"
+  }
+}

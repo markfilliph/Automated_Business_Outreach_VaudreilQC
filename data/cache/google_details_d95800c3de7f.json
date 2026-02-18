@@ -1,0 +1,400 @@
+{
+  "query": "AG360, arpenteurs-géomètres, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338312.8628154,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "430",
+        "short_name": "430",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Chicoine",
+        "short_name": "Rue Chicoine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7E4",
+        "short_name": "J7V 7E4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">430 Rue Chicoine</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7E4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "430 Rue Chicoine, Vaudreuil-Dorion, QC J7V 7E4, Canada",
+    "formatted_phone_number": "(450) 455-3388",
+    "geometry": {
+      "location": {
+        "lat": 45.3777997,
+        "lng": -74.0189335
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3791280302915,
+          "lng": -74.0176304197085
+        },
+        "southwest": {
+          "lat": 45.3764300697085,
+          "lng": -74.0203283802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-3388",
+    "name": "AG360, arpenteurs-géomètres",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103179297779393780436\">AG360 Arpenteurs-Géomètres</a>"
+        ],
+        "photo_reference": "ATCDNfWWzWWidOKtZZhqs2XQrQ2XqtSdEC8tRoi9VPXM2w-xL8FI4d765_1HP2tX-MdmDUYwgtvJHqGUCPSHqgok6tbdyMKJ0ah0IdySBkAcZK-WinfF6lV9W1I_tec3l9QG3mWjm3Bc7NQXPimCfFXxJ-v6E7r-jvhFnwkAY-H2G79ymbFL47pMFGJYhmtngvIHdEfTsKPYSklWbhQMe0u3PXo1f6aKa62HaZK4MNesXho8armj1RMAsyuaG8FML87fQNEaylOiphk-naxw8aJ_OrNzSwx4Mdvt9mMzNbXCghSE8A",
+        "width": 2048
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUOmlQMDJRwGFMk1-S33vzDUGb0OaD5SrFYbr9suDzOPKioTsQFjEn2N3EE7RoJpXHIQVxHhVArNEifUW6iyuhb_LywHMavEIQ9xtxvQ_y0mXtmT7ZWEYkgTrlS2FsB31vnTlkM4s9VxUVxcWgV3Vn9XfT3N2u3Ta-dJVRKFKAF88JTWOZ3Xay81h-FIEeIvDbb5jd8jdw7DJNXfIrx1aABmbOzhB6-NjqHnkQMKRMVypjb2J1gAbnNG9hkcv4OF0CXSe8oddm4B3Rvsm5LVgNbMDjy3SSxo_n0n5QPx6WE3Gyxe8BN_Z4OmJNEWCXfipC9kXTsVoKX2oOa_N6K-IUWPAvS6RElu3bV_nUwXrfcnMT0ajnTrF0dP-WSLIRLJBtTef73JJzRDaobbdr178ZUnXas_njJ6nFuEyN5cXeCYrLY",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101519673418192145913\">The Walking PotHead</a>"
+        ],
+        "photo_reference": "ATCDNfWxpHvABJHtqDG_DOyQcoJfrQupG4O_q2aUhYeUJ82viT_Gx_W9b7FyLse0kMO3YQF8VOt792MFFfXs7TUo1ZKez-XYEImVslb988GarSFTHuR7FZlf02iNFkJozP0EiCH13Kc69tcJ_K_ZislGKYUs3JtZLUAs_St8jNWSqcXP8JrsWAlg3y-kCB4fu37erskWbGwh2qI9ct0de2OFpG3as3ENo1-n4bWgZxHne_OVi9QAndhTBqtQukIjy7-iZW-MNHo4S-2VHzTTBT18yapYXsCEYY3s1JcGuVijmU8yYdzF-sLjHkfNoszZdF3U_elpuKa4yELM0AXwdXlYr3hxU8YTItqJbBQhLP_W7v1dPKTpJEEgzd0onunEdNWtALncCBa2OVsDemoKIcX1SNS03uG6295pHfV-Lb0_VMiU9A",
+        "width": 3024
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103179297779393780436\">AG360 Arpenteurs-Géomètres</a>"
+        ],
+        "photo_reference": "ATCDNfXTsZVr9y_CXGMNemak3XkVhtygldnMlGFfN72sZwWxmksibXXnpJyZXGNVdpcCHv7GrY5R_O4skQkgtA1uiOxXW07F0W9YUJ1V6CCBPGaSecgl07-HWVSS50LDs8sKZpb0S2cxg25khyMOUlrBsL3d5EW3A9Y48vniZd4sYKV0pgV-6WGv7UQhk7GE-0MZUaRs_HlRWOz9H_A2HxqGpdLCiNe4uTL5lnz9TZg3vwefJdvBSx3s8MKHHNT_2dCsraNIYfefZTy-ZdCAqE4iesiobK59dcg_YcnraGlyFT0d3Q",
+        "width": 2000
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103179297779393780436\">AG360 Arpenteurs-Géomètres</a>"
+        ],
+        "photo_reference": "ATCDNfWvblRA6C9zd3oJlaeu1e4AbNBikHu2d4w6KR9dcc8GRyadku6C99N9o4qCfqqgZzilzbr96evgHcApEuSpxX5wttKFKFG4S3e_EOklK3n9J80IsEOoYDm_D-bhZ42hstjWrg86tjqX7Mhsshb_0PqPYOsAYMTRQvACnksLLWoeFBKbbzeQ9UWm0R8TpqxY3hOhxwOcH1Jw4pOgRiuhjI3wNwzI15XjuucghmjD7Fx-tlBWqOng6hFLSyGwchK_ybHGOR4PwSghg6t_gDM5El4EviDsNmJUct4cBOg-3g42sw",
+        "width": 3264
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103179297779393780436\">AG360 Arpenteurs-Géomètres</a>"
+        ],
+        "photo_reference": "ATCDNfWRMyeybuQomQqqLcu54uZ9wOnpr1WSI3Wgjixfnzk4AjOook_-vnee3OdzpeDkcoLZoi34er41fBYtv0H4ImSQwieWt3g_S02PJzYW9uFOH6vYTS7uIE1Qb9xBbW8YCRSOkv1NZcMFMBmdXuUBRhawBzX6HdZWyCvdcpRzVkP_zajKC_eDOvkUuH4eKTYDEsHd90sACUQVHigJKjS4ii7wutRkJN2LgQlwg2tVUEgGmwqDxK5gNj1TARS7E8sQTcX70B8g1kXp3UI2e3WE0rAzFmKw2N7vhLNM0DHmPNlXmQ",
+        "width": 960
+      },
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103179297779393780436\">AG360 Arpenteurs-Géomètres</a>"
+        ],
+        "photo_reference": "ATCDNfVseReti8sZvaLMTW2Pddcsvdj1ZOsA5LtS9p8c9pCzvK9kKcUsU38UulZfRwu06A04_sI6vHRIO_O9PatkHnMAsEK4jFIOpeFd7Z-PObDtr7T_JQfuJ7ebbLeSaRrpKyFiCHkmwcQGjFJlyCIp29UCjWywGQumiUOyBXCvGsyptuJfzyAvfN049MQlAR8fB2EOztkD9n-r9PaTo4ymBksJdc_cCJCEZMy5tWfVaHgs0uq9XtQUDjtJETTs53a__HM16SgMtLK56zD0SN_RAiFSY2I5n0GjS1jssVEUMxCdiQ",
+        "width": 2000
+      },
+      {
+        "height": 411,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103179297779393780436\">AG360 Arpenteurs-Géomètres</a>"
+        ],
+        "photo_reference": "ATCDNfX5RDLNdhrezZjh_FR-UNN0g4VjR9Y4NIG9ry1jkzQa_4rZQKzgVH_pk1WWHkYNLI42J2dqStm4AV_8dMWOFmgOisnLP0H4Vz7cRj0GZu09bVdAYVyRRP-d3owMmqEHxhlon1IQzV-ZvX1eCBUW6siqMdUqHEsZgxUJog_7OjYj2obPoGC748Ry9qEOIkn4N0AD6P0y5nBz5iahdxjSMbrUUPzdPDh9PlrEpH3Z72OQeczaNTYoqeUS1wr7Kx0gBaG7STzzUM8YzUhrlSylulKSV_8Wl5YQejS6OHwYw0OHLg",
+        "width": 680
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103179297779393780436\">AG360 Arpenteurs-Géomètres</a>"
+        ],
+        "photo_reference": "ATCDNfU0ArjPjD0n9a6VX4NDXRABr_D2WA-OfbO9AjfQuyyvqfICPC9Kwd9ycR7J1mFkxCZ8OnW6pdHnLuyg3y5lD7YuFa__0srslrBvI2jF0N7cCafNo--HreGEP4MlQU1N22HWcWuuZFI_K1oQk9sG1ZzLgCpxB94l0hSWhOI2EcjJqX91-Evrc6-zSw1wBnxgjyB14mCzEedHqA5S89frpRO-NGnsbljYE4RqJLUkjBjVAJ0zMIVta0Piz5JtkoVyNid3N-ERmqgF1kv2cUxwZA2vVssrajCLq8BJclB0VhjC1g",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103179297779393780436\">AG360 Arpenteurs-Géomètres</a>"
+        ],
+        "photo_reference": "ATCDNfUxpnZR86hcTAHJQIfuD5ha4SDpud3LWCWYTKJWfaXtpA5GAWotxDJTqP5HCVltOrHxTSbdLyWN6p24MgeEBjgiG1YUzRVhhP2VmhJzKkbYYpOrJSjjyETULvwQF6UQ7lC7w-ZusUEBgAnsWU7HRJ4WJlSq2tFJSW-cy-wysGst1EakcjYOxm8Yho7kM_qt-iYHNqYpVgP2sSKTN6Sr5Nq5Mm1uUQB4NZ5eeG7CTpRqp5tLqqptNd038zzbUD7mfwqwEPAvDuhndEV90I5ymHpyVuCGsZIE_xfqk5uILCFZSQ",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJRw21XhdIyUwRmbrkzqY9EYk",
+    "plus_code": {
+      "compound_code": "9XHJ+4C Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XHJ+4C"
+    },
+    "rating": 3.8,
+    "reference": "ChIJRw21XhdIyUwRmbrkzqY9EYk",
+    "reviews": [
+      {
+        "author_name": "Kulbir Singh Madhok",
+        "author_url": "https://www.google.com/maps/contrib/113363621259870574121/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqxvspqzhK8aD2_hua3w6u0Acm3YX-S0qmgNZrIEqYxiNNi6N7Tw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "AG360 in Vaudreuil delivers professional, reliable service with a strong focus on quality and customer satisfaction. The team is knowledgeable, takes the time to explain options clearly, and makes sure the work is done right rather than rushed. Communication is straightforward, and expectations are set properly from the start.\n\nWhat stands out is their consistency and attention to detail. The work area is kept clean, timelines are respected, and the results match what was promised. Overall, AG360 is a dependable local business that takes pride in its work and treats customers with respect.",
+        "time": 1767236093,
+        "translated": false
+      },
+      {
+        "author_name": "Claude Guay",
+        "author_url": "https://www.google.com/maps/contrib/116812853905760368758/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcqvQycbYZjDcb_pfQw6HQFYhwxd3RBUm8Tl_6OIrJgohr-KdR=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "If you need your property lines check, they can do it. Great service, French and English spoken.",
+        "time": 1546009234,
+        "translated": false
+      },
+      {
+        "author_name": "Kat Diabo",
+        "author_url": "https://www.google.com/maps/contrib/103569163249796174508/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKy2IEFPllmEMi8tcMuGKHXRCR-ffFS87K--YekIwVBE5RQDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "doesn't do work in Kahnawake",
+        "time": 1668001420,
+        "translated": false
+      },
+      {
+        "author_name": "Up To Billions",
+        "author_url": "https://www.google.com/maps/contrib/105961910077417062323/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxdtJ_odArDDgzDWWKi7KFG7xlS30MIQjAhLL13KVyKL_NnU4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Very slow service!",
+        "time": 1693948343,
+        "translated": false
+      },
+      {
+        "author_name": "volrazz",
+        "author_url": "https://www.google.com/maps/contrib/106577600034865497237/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0W4Or6aT5VWJVKBOXDH1L7dpq1sedVoSzQTbe25nSMr1XKk8W=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent service",
+        "time": 1687730404,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=9876743244445170329",
+    "user_ratings_total": 24,
+    "utc_offset": -300,
+    "vicinity": "430 Rue Chicoine, Vaudreuil-Dorion",
+    "website": "https://ag-360.ca/"
+  }
+}

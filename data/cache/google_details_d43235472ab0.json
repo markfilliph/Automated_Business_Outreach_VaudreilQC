@@ -1,0 +1,545 @@
+{
+  "query": "Bell, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339844.6276073,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "106",
+        "short_name": "106",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3120",
+        "short_name": "3120",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0J5",
+        "short_name": "J7V 0J5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3120 Bd de la Gare #106</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0J5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "3120 Bd de la Gare #106, Vaudreuil-Dorion, QC J7V 0J5, Canada",
+    "formatted_phone_number": "(450) 455-7200",
+    "geometry": {
+      "location": {
+        "lat": 45.401766,
+        "lng": -74.0521708
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4030885802915,
+          "lng": -74.05069501970848
+        },
+        "southwest": {
+          "lat": 45.4003906197085,
+          "lng": -74.05339298029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-7200",
+    "name": "Bell",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 270,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100871264870265255045\">Bell</a>"
+        ],
+        "photo_reference": "ATCDNfVMgNjzd3VHHja5nhq7hcuoKWYkHr23-U9RCUqTsFuVMVXMSokrwGM2Qb80mTVIvT4xPRVu2hYFf3d2jgYJkFyorp9V-ZeF1oRnDrI0bKAvoneShf5LI1Ue5w1foGPZdRntCRMIEEkWxi40E6M7Z0ZR3QuCrqfime9t6O9WJPo4YIJ0uFW3vdcWM7itBbi1pLcU-qWAiOsp4PCpmsApktuzsD4KW5t5Q5qaJztVSmVL1J9P3LpB9kWZE3Fc09dAreqnM8IMU9WypUA5oilY1D_fa_AH1afSR8CjVBC0sXHqmA",
+        "width": 480
+      },
+      {
+        "height": 2970,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105585517353433059593\">Keep Life Simple Allan</a>"
+        ],
+        "photo_reference": "ATCDNfVZS8EbmRkjCgTMAjf28c1be9tIQS59sEixXPl3BTh2DOLHOqOjto2BlzqwAeFMZGVbHJUs9mmVyGAqY8e0MLVOaSnNxi7ulD19_tand1uJGytqzEJHYA3reDTKfNOgCtOW03if7q0mfaTTaB22_OrPw2Ouhhof1f03mWa0d2I9RQQFz-KANBo6dA09tQEUU1MzijKzkcmLauj_fkwKel7c5mdNtieNP1shKBSpPDN7BmUQOjvh60QsAdnH6K_VYxO0ua48Xl8WRPV7OF686aWjw3Vl2LNwBLQrmhwW0PVM2ib7dDFSS5V2goC-ZiPEVT2wYtYgJNIkuyEzRtuhfZ2W_M7Av0arelP-ZdD6xT4-UpscloZBhIodfBtjYPXyf3LO1oJ-gIDyhm718fGZodi7tzLD-BXr-LyDJsdTO7W3PLAU",
+        "width": 3695
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101221509407942731798\">Kawal</a>"
+        ],
+        "photo_reference": "ATCDNfWfX1m-8TWRuvX9Oc9PFaNneQKsYu2szII5idNTL0q2QK0-RvF-hFMcg9pC7rUmVMMHFaE7-lbjE_Opr5BHqH5CagtI1yy8Ntl2FtsK9xNYL-OFgzjxh2vzRtSCrgtafC3Nu0A20ngg_vSEieZ_rfZmL0vAb6ieLEE4votAT1V0nUETMyBcxiXyPwA7TDeMwjR_Fgzlv1EK7S2_fSzmlMvsk1S2Pa6Dw367hXXamH1SrHo22d3Bid3tqifnUrJgxuyP63S2Uf_BQnEx4bFeQjuni8LnXy5BpvG2WjSZ5y7w25aNbPtWNG10v0h8SKzdxcEA7OS-v5V5HXDZIMJSkmCO_Pcs7E1cWVgO_RPTYkOwarMw7eAxOwVuu8JDeeHC3lD1EML6EXeeo0u7H11u80OJR2LhympwuXOwVNNIL-M",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108081218341448071035\">Eng</a>"
+        ],
+        "photo_reference": "ATCDNfXomn0eTkWsaw52G7o_FZEgC2XI_BRVD9brp2F4Ng4EYF92PLqfEqxPn9E2G2u1UuEZwoEAzvpUNVSEeheaOwulb80MAWVv9aQrp7Krv2ue4Mo7mCC-Il2W8_MRO8SK4P6pySmD0GZIsh-izeE_rYebciKe1rpmBuzEUzbCiXMw1PgjZGcPpdk6wDGvBHE-IhDwIWEspQbd6zL3QK8lwuDmWQ8ZwnCF1jeHD6lq1nC_a_Z_mwYMJiTTXnPr6qQtld-XW8kpDieUCH3zudEi6T5raPW3rcOMFDoJwBJ5Oo33j17G5itgSyE__B5mJtf6cfldC6nZhyam402WqO_XLz-8BDIae7q1qK1uyLaaTTXFsBSPc0byGc7hSb63HhJBcjxJ_K2nNlulk_G87caluXv81QU_1o45PBmYbUkQqOKqsIhY",
+        "width": 2268
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112385964224864664931\">Nam Nguyen</a>"
+        ],
+        "photo_reference": "ATCDNfW15O5uHlvPlcA5aRDO-0EzQ4fCotJioO5yNaKc99aHhCKj5ITX0eLpDBIMMD6b02wBKZS187Om9wXnEZ88eaGvKBUu2l5ePRxzZcmCfK-X7EvQTqdvmbylm1jREZBsGBKtuWiVh7Tfg7-UmLEkVq9YsPUyxjngGe3L2TocSl5a2aCT-OulCGzjZ2yaKmLZnp4RKqdUHf9WsbExKFXVQ4ax4Owi2w99i7o-T_BZQP3n3FMwvZDJqihWlSlW8izHzQk6xFqHNe89ZvcNhfc_pSHff5yqri4wzLb0vUZQs1mPAAFAxys9evc6usXWiOEfzF-auA0H7ZKjYCEiBJf11YkQgBUHEoyITeN8o5W9QXC5EurESXialPZfGq3wV78_qbRXxxVsgkXraZ4qe2NF6POSiPzC0J81XkCgm6iF6kBjhBo",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101221509407942731798\">Kawal</a>"
+        ],
+        "photo_reference": "ATCDNfWNXveNyiwPttEcg5ga1yog_1n-epPTxJI3qCVJr7wYX1MwEn61FOq47UqWIMgP08fI_V9ZIK4UHG_JcjQRZ5aBEaijvjZmSkVfnihli1o4lP2K9HBTbCu7jjCrODnPIsfPUbicIomu7M50xFiTUafVMLsDFuHf-uc8bGI_sEuWt9ARfi7meiTS4VuV6HYW6YDATCSmMBl94HJSwtLFFDR0VCUWZLYDtvvQg3IYsiCkdYXxJdsI23wY6LPs4wrd3jqH5-L6y5CeaI-vE5dD2iigPnzAPpOBLZedXLwjKTM-tmOKuarPoeIis2d4xIa-hhXUzUBHgui2LC5RkgNTLJORqOR2b1a6bYrZuyRrVMgy-W7i5hhrtgPRwIrekl9T03mD580qExr1o2aswQthcIyhYM3b3dS_6oYkgJEgZIE3-g",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101221509407942731798\">Kawal</a>"
+        ],
+        "photo_reference": "ATCDNfWMZQAOd7l7JP_ulmkfa0G7S48FS7o3Yjod3DB8PH3KdDiJ_u2A6BdlxAq7jMbeWkgBUFd3DxRQ-tePjJpDG7A9xU6zL_52eGd7dwXyqJt0MooSu0R_jQQMOf1XpkwL7oW7G2JpHwWgj7cTeut4W_Mt9I96PlZxWY1C-x16BpXCale4f0ghqY4w-a3t6OKED3fLKHX7SO641wQaB2aZITk6lS0fVBO83tF9s9LBY-_IojbiTRWDG9Tatu6hvgesvTieUFar95GCwjp4kFe_B5z5h4QyIuIQTB_X_8D_YBk8HUP6dsA5kefEDf4lIaS47OIdEmOrQfe3ib-P6FqBrAhph8FwqPZJO00hcb9npr-yTwRkFKFwE2fjSCCwJBK-EAJsJDIXOJy945_B7cYeJ2LGth2bJkxnKkuHSo7Hp3s7rkgZ",
+        "width": 3024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100871264870265255045\">Bell</a>"
+        ],
+        "photo_reference": "ATCDNfVncsfuwRbaNsVNmhF2RM8RUf3LJHcZMkQ9r3TDMivCzMs4TXjg0lzpTSsBKlxT_NqSK1ItTXwf3So0WZehj4f7aj0QRlEALO4wzzooFJUvcGInDy028nPsAv1HV_nGyiW5RQ1woiensUD31EYgQKTrcBzw91wycQvVn2byURKpkWATZevP2b2yxQd7RH_GvA-69E8MyKTOsopeFk0fBE03omi1-8dpYlLAFrWFkUsJdif9cE47lXrcRkiCvSe_EvjvhrWLXfWFJk-WJLnOjpYBnFqVPuD3Cl5I4-jenTGq5w",
+        "width": 720
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101221509407942731798\">Kawal</a>"
+        ],
+        "photo_reference": "ATCDNfWCEYNMEee3gqPm8Ylf1Sfgk64P88qgHKHms40r62p0N_27o7uFP-XsSDoNLtPinS5qb9rLXb8CYF0bxlPiG1o29q7woI459WtekbtLIeTT-nBwMi29B5td10Xd9lI9ZDlzbZGoOuHmciSSgXL2G3tluVFB5xjSiFbE_GrmzthG40PyHHrewr-dQ2O0OWDuTo2DWU-ZlvfWeX7xA6Q2RPGmQ-I0AwLMcKhC00v6uB-seVEVLeHsPZj1C01ZD7CEb-4wKaRBKGpGW1PwBzyuWfL5diLSp0kd8b2qryXDWVFz5TPTv8DGhH4Dt36FrWVv3CcQxB6t-AJgwV4UFmY6rjVQE39RdKCETNKDLKXwSRMr5hMbFQ0ckHEfcT1Jf-p9-KlxK28Bngfx5icoIdrnIx5E9ADa_q0w8Fd7VE_wCrw72zca",
+        "width": 3024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100871264870265255045\">Bell</a>"
+        ],
+        "photo_reference": "ATCDNfVDfS-3Q8NunU36AYohFp-1CLBdadq-11FAFXoCbXTsmF9AfChZCLfcSM83rjyuq0M0DXsU65zaDohZ1OInj5pvemoRmOnFX-1uFXWbFSHhpuKB-IIX8wzndr4j46koQ8B9ncXJLaZsXtt4Ff7lewPpVhJXMrbxsLDVHJJilqXDbYvWvXTwliK61z_jv7GXXCYriICguAf2yxO0Lyj4Hwphy-0pXiE6MaAkUL7UK5rN1abTprymutX99djkP8aGU2y221ckJJjl4GWg9aZFuqxzzQjzDhUk0yxwJLIX_-M7aA",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJuaIbcTA2yUwRpdNb3_xCPQI",
+    "plus_code": {
+      "compound_code": "CW2X+P4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW2X+P4"
+    },
+    "rating": 4.3,
+    "reference": "ChIJuaIbcTA2yUwRpdNb3_xCPQI",
+    "reviews": [
+      {
+        "author_name": "AnTonia G (SweetMadameBlue)",
+        "author_url": "https://www.google.com/maps/contrib/114080774820996452461/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcO3gNjBMiYXu4tKkIlrxb70qU_l_v66VdKO629F6-VkgjKRSw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Matthew took care of me. He redeemed my faith in BELL stores. I had previously gone to the one in Dorion and got screwed each time. MATTHEW was patient, knowledgeable and got me the best phone and best price. I was very, very, very happy.",
+        "time": 1767146200,
+        "translated": false
+      },
+      {
+        "author_name": "Stewart G.",
+        "author_url": "https://www.google.com/maps/contrib/118436127742807880582/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9YOhED6Dn4lp2Vuu8Suy5-j9dslKIyg-e6EssWug5_wTt_iM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Did a full switch from Videotron to Bell yesterday, 4 cell lines and home internet service. Wilfrid gave very competitive prices  and excellent, proactive service. Took a bit of time, but it's so much better than spending all afternoon on the phone!",
+        "time": 1763227365,
+        "translated": false
+      },
+      {
+        "author_name": "Brandon Katz",
+        "author_url": "https://www.google.com/maps/contrib/110957757449976628358/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDPoTCVchUeicfCO1C-6KwYLVSeUQt978kJ6w3nUtsQxSrHSNC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I had a great experience whilst shopping for a new mobile phone. Morsale was extremely competent and went above and beyond to make me feel like a valued client. She was attentive, knowledgeable and went to every possible length to get me the best deal on my purchase. I would be more than happy to return to this outlet for future mobile needs.\n\nMany thanks",
+        "time": 1754020217,
+        "translated": false
+      },
+      {
+        "author_name": "Cara-Jade Kegle",
+        "author_url": "https://www.google.com/maps/contrib/107413284815591310406/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz4bh4CWfFCZYLbheM0ZyR7ZampVOjzuuNB0EEI5Vv7RUzIdSYYg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I hate bell , everything about it, the magic extra bill amounts they add to your bills, and shitty phone customer service, only reason im giving 5 stars this time is for lovely Morsale from this particular bell, she took the time to call the billing department and tell them we showed proof all payments were made and why they tried to charge 2 extra bills for non payment when its pre-authorized.... she took her time with us and was very patient and understanding! This woman deserves a big fat raise!!",
+        "time": 1760432828,
+        "translated": false
+      },
+      {
+        "author_name": "Red Pilled",
+        "author_url": "https://www.google.com/maps/contrib/101219982428556109688/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2TvrY8ES2R_-2l6ogzPIZJBkp-qZf_QTJj4Cs4NyPakn2GJ0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Ralph is the man, we went to videotron next door and had the worst experience. When we went to Bell, it was like night and day. Great customer service on his part, good job Bell",
+        "time": 1759087839,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-22",
+              "day": 0,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1800"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1000"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-21",
+              "day": 6,
+              "time": "1000"
+            }
+          }
+        ],
+        "type": "PICKUP",
+        "weekday_text": [
+          "Monday: 10:00 AM – 6:00 PM",
+          "Tuesday: 10:00 AM – 6:00 PM",
+          "Wednesday: 10:00 AM – 6:00 PM",
+          "Thursday: 10:00 AM – 6:00 PM",
+          "Friday: 10:00 AM – 6:00 PM",
+          "Saturday: 10:00 AM – 5:00 PM",
+          "Sunday: 10:00 AM – 5:00 PM"
+        ]
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=161358815501734821",
+    "user_ratings_total": 330,
+    "utc_offset": -300,
+    "vicinity": "3120 Bd de la Gare #106, Vaudreuil-Dorion",
+    "website": "http://magasins.bell.ca/bellca/fr/QC/Vaudreuil-Dorion/Bell-De-la-Gare/BE170?y_source=1_MjkzOTM1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+  }
+}

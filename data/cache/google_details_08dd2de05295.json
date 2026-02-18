@@ -1,0 +1,444 @@
+{
+  "query": "Beauty & Co., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339130.1968324,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Local 126",
+        "short_name": "Local 126",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3120",
+        "short_name": "3120",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8W5",
+        "short_name": "J7V 8W5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3120 Bd de la Gare Local 126</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8W5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ]
+    },
+    "formatted_address": "3120 Bd de la Gare Local 126, Vaudreuil-Dorion, QC J7V 8W5, Canada",
+    "formatted_phone_number": "(514) 868-2333",
+    "geometry": {
+      "location": {
+        "lat": 45.4020345,
+        "lng": -74.05167689999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4033152302915,
+          "lng": -74.05024376970849
+        },
+        "southwest": {
+          "lat": 45.4006172697085,
+          "lng": -74.0529417302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-868-2333",
+    "name": "Beauté Star Vaudreuil (Star Bédard)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3005,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105585517353433059593\">Keep Life Simple Allan</a>"
+        ],
+        "photo_reference": "ATCDNfWqcevf1CqtYoH70AuvUIlnZc90W3b0MoPg2fKWrFDZQqe0yKrsAJ6s9B_dd-LvTuun5ssP5lASrNZyOCJlo91j9r28snTDa_cq9XFPsbo7pmmXemdqAwknoJ4TIn5I0jOgICBK2YPO6gI3Z0ke9snpxzefx2-DD-BfY6cDAAsJ92yaR9BW5IrXBYBUT5r527aWzTexVp8tmTG12N9hxiV71hgTGH6jxtX2On-tiooKpTORS6FifrezN25eZMvDU5UKsjCsWFAghweHRyTGs3TX-QoVVSuTVHdD5slg6RCAccbknoCubvNiD-LVUobec6H3aNCNp_IdqLknFjJAWhW7b4TxeVNz3rOFjE9rFmCX-sf0e8Mr3ddmsCFUKhsWvLiv_rUhE6uGPC4jikBjeO4IP2HL3G4nL37jefap_VikXQ",
+        "width": 4007
+      },
+      {
+        "height": 1020,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102494418503313191804\">Beauté Star Vaudreuil (Star Bédard)</a>"
+        ],
+        "photo_reference": "ATCDNfXH6GXIQrPKoJG_V4Wd9Jid4iD6vGhp7CcYIIdel8SosNRIAfpbIV5EZvlD5M8aHg-_B9bqj5Q8L6ZP2tH1B25PnU08yU3UXR6fOO1ZljfqYJD6BXZhsg1DWQLNLwQxb20FTkzJyX9vcO9oO4MaBGSW7OB66V2LLTRRe_ARkOiU27bATHEd3KQiAoFDApuwohC7Fz_SNk2E3wjgTR_E6xedkCUj8lLhIPLqeUNnJY4W_qhhuUCNesatO0mFAZ2HpuZfwgYnQl3lzIO0wGqQ7alZ2fu8HYTalHZlfriCXYPltA",
+        "width": 1360
+      },
+      {
+        "height": 4192,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105585517353433059593\">Keep Life Simple Allan</a>"
+        ],
+        "photo_reference": "ATCDNfX2vpIDI_fpxmrQ4XRDHBo46jNQQ2P4s7Duxrfq0DXjNKlJdsnUhOjr2aGvZ2kHLMiB2mT_skNcJbegxCZHgq2eo7P3yWIFKGZAq-F6yqnmQeKKBd1rcEF2ay5wsUCuhoks74q76nJyRCigurt79U7DONQbH8V5P2UHwBLlTiWHootuDgsQhaWax9v7Z2F3vpvJt4Osq5nEf50Ws8AXK-B9lAj1iWMJOKI1K2dlTOQZuu_aquvo3MWUH7uRQ9WQcaanFJRCFy8pSW-NCAgEBDrHCv6M3OxbVGO3odhwpgWbtvGntuhT1OlLkXROSqCtQUi6Xj5j1JDLTU-2CjnBkUBk4NSj3wMTf6gRNzZ-ZBjG7HxXpsBgv6XBqbZNmPaa2IHvvP6cG-dJ01m2bJRuFL5tO-B6SISUh1WKdJwfxyOA9Eey",
+        "width": 3144
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118125191032373065523\">Audrey Laplante</a>"
+        ],
+        "photo_reference": "ATCDNfWhN0jlXb-RXrbDlrAE8KqNm78KHgi9XtkgeiOTPR-3Q3fAFklSfYUUR1xhyErEMRJ5315tW2bWs9U2MvVL5ZNUT6qgdD0SaroBGI38Aatcw0gwA6lo-rnA60fG8sTRDyYxy2YNpF121glhZml9f-0898yJv5ZV6oeWW40gVzmUd2YJvKlUbybkK-i7fIAOySfOgfwvU7UqU8x90QqJR-TjeX3mS030uDSgzH3uc3V9Jq5l9Q-M9O_l91c2a2Od87WJCz5gr87d2AAIn7B75Ve8IiLD2k8cQKlrm8BVbjJ_WaJ4uzuN1gGTscPUMZYAe5wbhMeJJWv4IAnoskBxts5CGw4q5RCaAVVSffiqd0nPdYfGdFm2uKdM7opZubCCsTL83uWogm1_n-uprJ3Rp4ptScLZS-f8GEDNhn1OmBgBNuo",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWH9xREpS2QgdEkuzjx2v4V7b1n09kUbzFaqpjBdRFC8qLg003x-ysjucIeH6GLE6bv-4YrV5U-7Z2EyK9vCqQpsiguo0jXP8vIjnvX0n8hUWGTQ2BpRngN6vzZ8URzmTNdDwQZT-9L6T15TyNj5wpOz3noJyPg_4a2L3cY7q9m6_ZI2VfOGetqO21mPv6md_y7B1QfdIknq1NjnIYHwz3AnVGkLZkXW94jVX-ZZJcGBLKtT0sHGutmBO09sZmEWk_FYZgs6T04H7xil9KOD3EK6mSOxLZV32vTik1PoATPvQms4RDUR-fGfds2proKOjd0CdahnPWVhNBQ07rWjazs8lGfDRdxbYum2cXETnpQsxh0_CKQrm5e8MSaRpYX0N7c8z68Ns8QTPZ8AUfUpWa7Kv3kLCkouR8dDa5Ir5ALwfsUOKlUj7IGxEF6FHX2",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118125191032373065523\">Audrey Laplante</a>"
+        ],
+        "photo_reference": "ATCDNfXSkDi32cb4WMghSztH38L6T_tZZpENTREBFIBPAjz4HQ3eltODqL9KUXs3TQ3ZiappRokNBalIx5Nn-ERhVg5mk009w8dyhwvx2dgRnQqfaTxPvDS_kTGslWbHciRCI0g1lipH8C-gK6AKNRfNgkPIQDz6O8aK6ykTPskGRl0M7Ou55s1dmT_6dGMYQQCOR4_t6Q3p9nouQErU6gfE9xy1jC82PWxPICA5wKum8aaBscou5COWucXVB6lIp70yJlR8p3z85u4klgwxFQifDdDw1okwV6sjyNZF_LL2Ica1uVs6UToewgkg8RjboXkIBpClSHBVIo0GTOVfQGLBybUZWh-wdPZ1cifPRDvj_EDeGfk3Yqqc8AhxW81lQxEg_2rls0Fq9Wvd5eHqTdlV8HZHwvZL7qGnkdqrMkb-rJzKWhn2",
+        "width": 3024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117798267602681196089\">Eka</a>"
+        ],
+        "photo_reference": "ATCDNfWOGUUX7QKmLQ3PiXsQNaaoRqY6wqEplsR_HROL-D8vTFnENBlqj24376lgCaC4disfLz4kg9kIHYSCuwylRG37BXcN0_1lbgOJG_O-km9HEidsR02D5miqzlQxrUX1BlndTB_JF9VBGGrQmRZ-J5O87joJUV-tWXCTyBj9zcomvss6DbhNTCqzJmTI9-_UMC_xB3u2FEV7VXxoDl0b5If68nlIJ_F95vsZ11BKNJEa5m7bCqk5scQz-0AkEog9m1pqyCS7FB9mtZiJTaMoi-dn-JU_V2C_3qeDfwnv3IB9ExKak-U85p-8QtP0FhgPhbHy0q1ogEdf9MwS-gvQFVYcvJcsORvXN4x0dVXwW0C5HKi57-yN2WgA_Qrmhsv8fmoAUtSfkIWLVtJNrOfivWMjkZvG4HzA5vF4VkSQbGyvy8VXMzgV8PNk-Cp5AyaG",
+        "width": 3000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118125191032373065523\">Audrey Laplante</a>"
+        ],
+        "photo_reference": "ATCDNfWLkWiT56ia5ggSIfNHNPlBYlaStGzbi9awisvkdc0HQr1r1N6Az4BDUVJGNkz1uPt1NCczS9EjnhRAB_B_SKE7jbUX7Vn6x5-_u33ZI-206-KLX-3Gsm1ut1vL5FMKK991RxC3MrNdKEgFQ8A-ZMEPWuAGIDJfAVx66F_Lnlxbr2Se8F63OTmyIdCip0I4AYpnXWZY5KU8S7GvRRnBDCsB21FPt6cjn24_bEFw2K0Pt5DfwJ6iJFbpZHlANq9N54h-aW5MiU2JktEANimCCXRgTppYeQ3_5gvvPYFbUMXrb3WaoFCTKjnITxeeGW_hTrUMXQhrM-M5tkXLUCmGHAtjtkIBjsdU-LHfOynnXZuMezvyvochOcdocGq3bAE5WLTZC3GZCKtqR5x88woSGG7Bgqg0U2D1VXicOcaqHUk",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118125191032373065523\">Audrey Laplante</a>"
+        ],
+        "photo_reference": "ATCDNfUUx0gNYsxh5eyC33hgSSzkUpWboFmXKeQVfwqmTXMrI-CWXxShpiW0Dofyq9stNzTq4u7rTX5XGG1GjLdwc98SrQGtxqwl_T0oa70QcMYVhf47WO147D08MctOlO8DQDi7eO-_irv420P9JZCFoFw0fzfzDi3HxjtQ5dirWnt7lvb8AUoUfsbAx5lwdxnnxsnGIyzxEAb2rqROtH6LcMVOMO9L2s-MkaU2Rt1pHTIxbrWBS_C6DcrQ7OQuctRYMU6bR9zDuxdn0AopcxqA84Lrjm3avHbnnruQpmdz1XYxRCHhfrvBdOMhAwvBvHok5vICOV9UWdh_OxjctP7K9XyPJ4kbD8PRfnN78l0251a6lXR-qNP_3u9rGJHm67QXLqIlQCQp-Y6ypenAiKN5RsxH4Vv49UbwSCgbyneWoAWElQ",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118125191032373065523\">Audrey Laplante</a>"
+        ],
+        "photo_reference": "ATCDNfUfaTY5mJ9VMKYtBVwlqfI-XC3CH4hCe3tdwhd50KwDXYEJ_Q2irC0F5j3SRbl03mAkvcVthC6xtp2a9PqoiDbw6yYyFZd51ZdBENAIdhEruUttcSHsCF26ug5vOHnomItFZuPH6lmqS2hm8a5aEfqnQdhbjyt3QIzNx4bJ7jprwS4O3zBIEcoMCsQq2wzmN94CealDYE_ow9Y5jBCWHH5u41S3s5hYwfYaYGS2bJ3MishQK2qwfjZCCFk00Dm1rctv8A2WZ7L18WGHGsy3J3StgmHhgxwTn75hV2RW4XR3HRvAarfuFnQRih1MUR4QwCSpFO1QY92_4LkgjuzpxJ-tUgEe4ZWn5idvSjhVMpXs1a0m27UcCHAhzFLBl2BqulsEE8Hz2Nc2mX7Mi6xx_jcRD-egOEYZincYV7ZpbBq9v_0H",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ9bpq7QM3yUwRdHKVN-kFXhM",
+    "plus_code": {
+      "compound_code": "CW2X+R8 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW2X+R8"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ9bpq7QM3yUwRdHKVN-kFXhM",
+    "reviews": [
+      {
+        "author_name": "Carmen Marrero-Morin",
+        "author_url": "https://www.google.com/maps/contrib/112735831933242959335/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwev3S5tHdrpUVdQ-XgeMIfE80SkYvzzjaV0ijDWyhvc-WeiXc=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "I found all the employees to me very knowledgeable on the many products they offer.\n\nSaturday, March 1st, both ladies were attentive... but I noticed the door was not shutting due to the wind.  Perhaps this is why the other review was negative.  The door chime didn't go off.  When I enter a store, I often say hello first.\n\n10/10 will shop there again!\n\nGreat boutique for quality hair care!!",
+        "time": 1740971128,
+        "translated": false
+      },
+      {
+        "author_name": "Heather Tims",
+        "author_url": "https://www.google.com/maps/contrib/115346123022304557959/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDZWJGwcPW447nNlSYVLQYPxlJsdXGNdap-37bzOTwfpoCZw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "I just went (Saturday March 1 12pm) in looking for a particular product from a line this store carries. Two employees watching me look at every product in the wall for at least five minutes, not even a greeting or smile. They just watched me from across the store while talking to each other, and ignoring that I was clearly looking for something. The store was absolutely empty. I was the only customer. I ended up giving up and leaving and will place an order online for what I need. Won’t be returning. Customer service is crap.",
+        "time": 1740850273,
+        "translated": false
+      },
+      {
+        "author_name": "ariane",
+        "author_url": "https://www.google.com/maps/contrib/100236532950835900705/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL53wuhV-bltoLHwYRLn1cn_U8wLsHLMdATNQePVMHy0DricXI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "The employees are amazing, never had any bad experiences with any of them, they are more than helpful and capable of explaining the products impeccably in a way that a non professional can understand. Josephine is a sweet young lady that knows what she’s talking about and you can tell how much of a passion it is to her and her recommandations has never failed me or my close ones.",
+        "time": 1740959351,
+        "translated": false
+      },
+      {
+        "author_name": "Eka",
+        "author_url": "https://www.google.com/maps/contrib/117798267602681196089/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs5Jp9u34H0bH9hxzl8H6XLm-xK0g71_oiNn3o81DXTjszXKU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Nice store with various hair products",
+        "time": 1748974042,
+        "translated": false
+      },
+      {
+        "author_name": "Audrey Laplante",
+        "author_url": "https://www.google.com/maps/contrib/118125191032373065523/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYKyNe6nMoz2N03Iy-IrTNPkuK94L5eL7VV1e5w0GDtEECSERD=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Wow, beautiful store! Excellent customer service, the employees are really nice. Especially the manager, she gave me great advice for my hair. Thank you!",
+        "time": 1720787264,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1395559433749492340",
+    "user_ratings_total": 13,
+    "utc_offset": -300,
+    "vicinity": "3120 Bd de la Gare Local 126, Vaudreuil-Dorion",
+    "website": "https://www.beautestar.com/"
+  }
+}

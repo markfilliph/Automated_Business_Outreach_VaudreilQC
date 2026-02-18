@@ -1,0 +1,287 @@
+{
+  "query": "Solaris Chem Inc., Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339050.6425018,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "Suite 101-102",
+        "short_name": "Suite 101-102",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3650",
+        "short_name": "3650",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "short_name": "Vaudreuil-Soulanges Regional County Municipality",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quebec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 3Z6",
+        "short_name": "J7V 3Z6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3650 Bd de la Cité-des-Jeunes Suite 101-102</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 3Z6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1130"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 – 11:30 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "3650 Bd de la Cité-des-Jeunes Suite 101-102, Vaudreuil-Dorion, QC J7V 3Z6, Canada",
+    "formatted_phone_number": "(579) 217-0260",
+    "geometry": {
+      "location": {
+        "lat": 45.3888451,
+        "lng": -74.0784027
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39007583029149,
+          "lng": -74.07706836970848
+        },
+        "southwest": {
+          "lat": 45.38737786970849,
+          "lng": -74.07976633029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 579-217-0260",
+    "name": "Solaris Chem Inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 – 11:30 AM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111616715420237687251\">Solaris Chem Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXjn35uZc4OhYpzz0orb1BgVw7rcmow_oByknIfKP2XSfBxR2IszaKYK2QoaPaXLKXxT6Cztwjjt9A4HPgBVqc3CxRpccvjY2FsZ2Ior5z0Vp6l5N0QKj5bzwIe0vEbVd7JnwjGmuw4iJD4kRv8_dLzLfrGGDntnCEocfGOvHLmGVvNQumxfnRRbc2F_ngEGM0sD4x4PULJBV_7CHbJ4KanDhw7-fRDqSUlfX90hczKIYD60_1tAUV96uhVRtcE_ehENG-56mxraY4EddxiizzziSARZivaafzKjUeltOucVw",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111616715420237687251\">Solaris Chem Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfXTVHioVVd84L5wnbJYU514DY3WB-LKCctUe5rPENLtURtVdHwPnobNLjTBUXkcLuNttIhVKRKo59dVKsWqOyoFhzeGUJEP9vUR1rWD8_tMgPH789lYBJvPDh2JHHpFeUI8p3UtIZ2I28m6henIR0UbjnanM5ew0v5mOGQCZcrIImuUZkeiI-PBM-xtdjW_ZpzPq_0wXKpZLfOrofAcPyJnvXMl9shtuS0kIVpGUEfl7oapiMbq3MbOkhMUj2LYmWZNdw1CbAs438nXQgsxgzXgtcaBHwtSlRlNJI1S6YkZTQ",
+        "width": 4032
+      },
+      {
+        "height": 724,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111616715420237687251\">Solaris Chem Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVbjBAu493gyD4pUaFMEUDOquRmx_bno3lNwFGLq5Q59TNO9ztKkXvJlS-fvFO7w0yY1Vh4bp75ChdTsqpKYi3p8FXb2m7djYXrKeFMzEu4VpRsCcf2emCjMzgkG0gOLpN3O8Tw-gbSQgxuY8UIGge_586jbf4BW5dTEE8L-L2zaRbM1pk553AhqEkHPql1HEOx5HnfZOXoM6H607q4fjxkDaQsu4xePUx_6xlSZIfOwXKjDWoEI0ti-F7NoNsPVAgCBlJD777XXy1-6EnauPCVOqOPBdEmY9PoIiDyaIyUvw",
+        "width": 734
+      },
+      {
+        "height": 1004,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111616715420237687251\">Solaris Chem Inc.</a>"
+        ],
+        "photo_reference": "ATCDNfVrgFRxw_PonqN2aCMM1EyuWUdIpBqqxKvhg1uNcLH09U5KlDqLRW8yX98oQLVjO8GySP4DVfW_-h9xcJqhZamA2DXCGuEg4zn-Pp8PHOq1SsIrrypJt32x3BB9nUQHIgHvX9TOMMzS_Rw1y8WdbXvYHafepO3aKkBDFz3w9cFZ3bnkmbCmOvkjnej6oBkyicKZPq2Wns2KERiyIVLBFAJxuu_z2yiNFGuRB_7PUPntqVBYfQ5DLSDGDM80uL6GxccwSa20wJczhPgvPzy9L46ieK9JQgeUW556y14dMjg8RQ",
+        "width": 1073
+      }
+    ],
+    "place_id": "ChIJ5fAFgPM3yUwR0wRd5jhm3g0",
+    "plus_code": {
+      "compound_code": "9WQC+GJ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WQC+GJ"
+    },
+    "reference": "ChIJ5fAFgPM3yUwR0wRd5jhm3g0",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=999348561891886291",
+    "utc_offset": -300,
+    "vicinity": "3650 Bd de la Cité-des-Jeunes Suite 101-102, Vaudreuil-Dorion",
+    "website": "http://www.solarischem.com/"
+  }
+}

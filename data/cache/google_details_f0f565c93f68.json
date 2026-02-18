@@ -1,0 +1,440 @@
+{
+  "query": "Athletic Field, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338340.747224,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "3093",
+        "short_name": "3093",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1A5",
+        "short_name": "J7V 1A5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3093 Bd de la Gare</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1A5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 7:00 PM",
+        "Sunday: 7:00 AM – 7:00 PM"
+      ]
+    },
+    "formatted_address": "3093 Bd de la Gare, Vaudreuil-Dorion, QC J7V 1A5, Canada",
+    "formatted_phone_number": "(450) 218-2821",
+    "geometry": {
+      "location": {
+        "lat": 45.3982353,
+        "lng": -74.0530229
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.39963298029149,
+          "lng": -74.0517559697085
+        },
+        "southwest": {
+          "lat": 45.3969350197085,
+          "lng": -74.0544539302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-218-2821",
+    "name": "Center Multisport André-Chagnon",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 7:00 PM",
+        "Sunday: 7:00 AM – 7:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110782664025461596841\">Centre Multisports André-Chagnon</a>"
+        ],
+        "photo_reference": "ATCDNfVos3u0605V9Cc1XZMCRx4vCRFU21c4nnvDBqSRMH-lZPtEb1ho8zEfN__HQiB7UCZW25d4Upsm_fBSxIkIQVJRRXWushm0UnhrFrYUYqSKGB8WDuryUwVL1oZBPqmAUt5FfZcEArOxHjTSgplbP4_-Nfn5pRgZxZfGZh69Qg5SM7wdOK5mRVPatbNyw_gXI_MW7PZjlT5qfzq_QQfb9hWjB19MmgsD5_vXH6RsC9ku8D_onTbaR2gdnXoHgkTKmEz0Y_qiRKMFT1JDnQ7b10hU7khTV6xB526JlYEYVfYE3A",
+        "width": 851
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113736088880462416274\">Steve Rodrigue</a>"
+        ],
+        "photo_reference": "ATCDNfWNG8LBJb2cCj35Pn6hWIJ6A1Vp7Ty0RLyrxCFg-2ckSXluA1ZE5sovTsFOSBOOKGQtT6q0qPDCKTxHtEswbBqXLT5wn_PEsXmYtUBZDUQH16Ka8HQk6OHy7yEpMXvgJt4LYhgjazvUpB0lnRw0rLBV9A9cKKpe0IwiU0P5G3euKIFP7g5zqP8aQz93sV2hcH-UMtT81ulV-iBXprFR5agYTJSJV0ajvvE8MgWasZs4SAQV6by6-pbi__sy0PvMk5pzeFF2WPXEwdKB7d1-5VP7Z7t7EQqKHfQF1VGxxMsf7YJIu6AICK55rlcQ4Tcp8zXmfXFEwMVZQo2A7Giw3pD5YsCvoUS7NDgmdhR1JBOXFLxy7rQHvYT76jNvCKe7kf80eF3nI883r5DoFjBTqT9qI7Ptdz8dJ0YW5PdFSpBTYg",
+        "width": 4032
+      },
+      {
+        "height": 425,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112217696940206874863\">Nathalie Dion</a>"
+        ],
+        "photo_reference": "ATCDNfXdiaTLAjELWZmyBPIWiPzWRT2aRdRqW-C2uAwElmnbRyjHl7sKsaDjqQBT7FuMWbhak24SNl0Xn5A-r57TeWwxNYS1LXi4byXw7kBCCRoHWc61Wiq4Vc_3OIcqYfeSzpNcbVuXwy1QhdbZESss6KkQPTIdMNLbtHIYFeJPsqyDX8kGbjyf1LqGPJs-7J_AADEyZRRegQ15cN-Ji_vi1y01tIoE-pE8Ak__AAOEWRodppNP_DdaAhY-Q9qyZUwbaiH0rvvMG-KmDY7dTrblluZF0Qld0iScwtR6vZA5z0sBQpcctHGSdfw-u4Wj40Bu_-PaAtQ-jwTQuwn4cD_dzHNfXEAkRJH585E5whjHwUXZbYJ0rLOfJIHRLXkrK5mB-T-LUPbcymRflbq13Q1QDma2H2N6adRn-FaY6jYZ7P-S_A",
+        "width": 640
+      },
+      {
+        "height": 2400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110782664025461596841\">Centre Multisports André-Chagnon</a>"
+        ],
+        "photo_reference": "ATCDNfXEh2bXc03zwTljSQXukbliSqV0yNZZJ9cMVe5QiouuieVOGJKSpdJt0DdvPtE2Taf4ImC4i7xHUg9-WTnv-I-EsdB3RLNPbZ0cTJM1RCAH3DRw_CLTQgY4SPEDd7twDu27fcbSpwFDiYo7tY5W5a14LU-pQQQunokZPZnP1GWaCs62rhpRT_32O69Y05Mz1ytjH3aIigTvHXRRhUPMaFx39B_Mlqz3Up-_6nlqzPdDs9P6faf2siYxtnqCJ4J9GFK8PixvfRnzYebxNOzHnVef-lEcfOHFK3C7fP6TObYzHQ",
+        "width": 4800
+      },
+      {
+        "height": 2400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110782664025461596841\">Centre Multisports André-Chagnon</a>"
+        ],
+        "photo_reference": "ATCDNfU9ZCAkR_L5i2IxkikciJVlXwpaer91WZq_4FLrESHRhX76ztpCzFkTOZk87VpEBFIxK7Bk5iWDukL7Dfzv7zsgiFT9qNtYwsR1NjPWFPyDF6oFugD5lmJYFD3YrfblWiDhCSCRPFMs3AXB35K5BiJmNmtXWHUyr11eVLKt4CZyH5wU2AW6qsNd6HMk629INhDSfzORC-xHLyaoPPuy7Ocr6MnsHl1ScVo32f9mgtSp9_eVUaLKzYyrfzcb5HBi3xf6oqR11V75WUbBdjoBU_zoLVl_O3uopbEw_6ktO8couw",
+        "width": 4800
+      },
+      {
+        "height": 2400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110782664025461596841\">Centre Multisports André-Chagnon</a>"
+        ],
+        "photo_reference": "ATCDNfX864iondw9CIVpCp9oEfFBi35mst12DDbxbL1CwHMzPPjZJVQJpEFxq01l4tpFVnKiXSQ7zS4mxPHA3nOhgCnzPzJ6uivwhO16Knpvu797aoZsRP_K7axw3mLFuM7RBuC3XQaHknwoQbWxlc5IqpYG1_uuF0ktjqfd7qE2ZFLPw2fCxB5c_EQBtHwSKB-VedT4oolj-BDxJNFUN1kc4ZSwXdHIhETHdaixm3e6LbwV0OHOCKGuD_weZRGQbRFpOeJd5v1f8iaErRyI8kSMhI5PJHj8h_IO24mIoP9a6z4DUQ",
+        "width": 4800
+      },
+      {
+        "height": 2400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110782664025461596841\">Centre Multisports André-Chagnon</a>"
+        ],
+        "photo_reference": "ATCDNfVUFl5VMrBgucakuJGPTposnTGJQhsLNKaxClpVdQnniNh1hYPIs5h_t-4_kaTfovBhSqQDO332akF2wxJfByGKjxlkm8OTNBK3Gc8cHgrftQ9aZ6ZJ9H00h1F31OoBOdFINE84t2n8aGU2cu2fs_azgqyeWp1V4bQb5hC7XX46zdPX_jCfsq6f5UXW4oLUtBcnDzigCn1XbYzmuDnJ6mLTwTbIJ9Z36C6ec86B6ClGN_MfUSXCXfS0BbPq-8Gqq49MaeG0IvNicHHt_6f59I0ynfb36iymYVSz22pnvPEZLA",
+        "width": 4800
+      },
+      {
+        "height": 2400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110782664025461596841\">Centre Multisports André-Chagnon</a>"
+        ],
+        "photo_reference": "ATCDNfX0lcGZYmd_hwxvSu1XvKb024TplUnj6WDWizdVldXqrV6NmPfdiWplLBju1Q-4L_koCzfqkWbg_lWLMzzvnWhdc9KfEW94bp8YrqF7ybZ05HzQ8GZPndC9ojll2jJ1Pu-mW_5m4nuh7DM1K2fVXVxskFTz01zHhK6BsjkgsinBUMqsYbRl6XsZNL3vGfvlWWwpBNsJ_RufcZZT2F9EcksAWB1w5UhUVzdoTUlE97wPsmHdMbhF-RcUCd8i_LDo590RlzpdEDVEoh6BLa-C2rFtNnCrlJVdJ3Q_aoAtN_CKxg",
+        "width": 4800
+      },
+      {
+        "height": 3228,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110782664025461596841\">Centre Multisports André-Chagnon</a>"
+        ],
+        "photo_reference": "ATCDNfVcuSwmU8mmhCOvINXeK7BS3gA2E8o2qPkhrPFA4d8gqVx0Dx0SAIZjpeNppa8stB1bgo4j1f7ycCzEXt0c_Ze4rRwTpM1SKby9QgsZ6w0fDD0vYKIfOBTsn7ldLVcfp3SUshypsqFSuaMTne6oi25oYz7lmRF_lb59xw3Mmf5U5cEvnnzv4ruo7KNLAmq62mRjj2cfn8nEmdAPNozXOX784Xl373eNHyVG68toSjI8YVq-YXIZK9G5FdLETU611friLU14uxW2D0V5CAcuhAZJEQs-8gEF6eqfi6THFPBMxA",
+        "width": 4671
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101720860719215721044\">Neil Van Willegen</a>"
+        ],
+        "photo_reference": "ATCDNfWf5F0qIDq7aLonf3UKMH8Fxj1tiRfwCmSLGrw2rALn7OISjFoaCxygauxR3c1vVOaHvalqQDWsFmaol1yDAw8MNpBgNjNY-80jNFzzQtYRqzVBh7mt5sSluBLOxNDiOoOd5UA8ElIOggqHAzpol64vbYyZGKsmEfgfovARaE3X4hHN-9Y20-H7iXsXiZ1OhmpOWdS7OEoItfmfQxCY-dnONhyaHamWapzPnBqB2kWy_3bjouXKUJAnfXaEnIAFVo-LXnZMr8_v2JFEEXi3JRTJes0qlqqJOCD4rnOr58NtAnSe3L-J5usuNyJjZ7FCEY-HIQm6QUZm90LAHBnDktvflaYts1AwbNVt3MUgsF9Q9Q_WBimj98KNq54dWYM-3f3XwfLUegQFXzkZrgmWuWpgGsFtDuBE1hvEEJ32fhXETmo",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJSbK_WyU2yUwRVog35BV6fPE",
+    "plus_code": {
+      "compound_code": "9WXW+7Q Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WXW+7Q"
+    },
+    "rating": 4.3,
+    "reference": "ChIJSbK_WyU2yUwRVog35BV6fPE",
+    "reviews": [
+      {
+        "author_name": "Alexander Wilson-Sparber",
+        "author_url": "https://www.google.com/maps/contrib/100733511360528984578/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJK4IPj9MVADgM42DwrZ64DYposu47Ouh0pPAKf7ZHsikOKlA=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 months ago",
+        "text": "I enjoy the gym, but it’s clear the equipment layout wasn’t designed by weightlifters. It’s a commercial gym with only one leg extension and one leg curl machine, which are always in use, while two cable leg presses sit empty. The hack squat is oddly placed in the CrossFit/powerlifting area, where it’s never used by those types of lifters, forcing me to cross the entire center mid-workout and disrupting my flow. A few simple adjustments could make this a 5-star gym. For the price, a steam room and sauna should also be included. On the plus side, the front desk staff is always friendly.",
+        "time": 1746379513,
+        "translated": false
+      },
+      {
+        "author_name": "S. N.",
+        "author_url": "https://www.google.com/maps/contrib/115149673901588020311/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkcAjtEqjZEob4QHSNb4ha3JaG-opBf3ZPTqblit9rFurjOw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Best Gym I have ever been member and it’s like our second home for my kids and my husband and all family. Amazing instructors and classes!!\nI reduced one star for the Showers! Water is not hot enough and the pressure is not good for taking a shower after each class (women with long hair). All our family and our friends- neighbours we go back home to take a shower and when we are sweaty that’s the moment when we get sick!",
+        "time": 1730729860,
+        "translated": false
+      },
+      {
+        "author_name": "Rafat Sammour",
+        "author_url": "https://www.google.com/maps/contrib/104197686106973397595/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZFjCGVz6Qg6iDCeIX3_QzUeGSQIaNc4QSz0dKX-Ibe3ek9A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "The gym is clean and the staff are great but\n1. Many machines have quantity of 1. For example there is one machine only for leg extension and one machine for chest press. So most of the times you need to wait for long to use the machine.\n2. Many machines break and when broke they stay for several weeks without repair.",
+        "time": 1724446964,
+        "translated": false
+      },
+      {
+        "author_name": "Callie Joncas",
+        "author_url": "https://www.google.com/maps/contrib/114329242713195892704/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrbOj8akb8-R1ih9aVmEKNrjsCxsyZOVuQxx6YOkDcKGQ5ew=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "*I am only reviewing the vaccine clinic\n\nI came here multiple times for the vaccine and my experiences were pretty mixed. Sometimes they were organized and friendly, and other times they were hostile and clueless. I got in and out quickly which was good, but during one of my appointments they took me about 15 minutes after my appointment time when there was almost no one waiting which is not ok. The staff did do a decent job of explaining procedures.\n\nThe first time I went they communicated well and were efficient despite the fact that the place was crowded, although the first nurse I saw was really rude to me. But during one of my other appointments they weren't efficient, kind, or professional at all and one of the staff members there falsely accused me of having a fake document to get a vaccine which was absolutely untrue, but it appears they may have suspected that because the lady who signed my paper slip made a mistake. So I had to argue with a guy who then couldn't even find me in the database until someone else came along and found me......he had zero clue how to even look me up in the database.\n\nIt's an alright location to get the vaccine, but I'd consider other locations as well. The staff at the clinic here don't seem to be the most experienced or well-trained.",
+        "time": 1670474930,
+        "translated": false
+      },
+      {
+        "author_name": "Fuat Ilhan",
+        "author_url": "https://www.google.com/maps/contrib/111602045257743120241/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWoF9WB3X-yGZQRfKwYxOYRjjo4BZvr_zAqNKyXfPdD86FsnNA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I love this place. I would like to thank all the staff for their friendly smiles and help.",
+        "time": 1754682856,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "url": "https://maps.google.com/?cid=17400917294694500438",
+    "user_ratings_total": 256,
+    "utc_offset": -300,
+    "vicinity": "3093 Bd de la Gare, Vaudreuil-Dorion",
+    "website": "http://www.centremultisports.org/",
+    "wheelchair_accessible_entrance": true
+  }
+}

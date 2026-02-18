@@ -1,0 +1,431 @@
+{
+  "query": "La Cachette du Bootlegger, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338517.8426664,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "18",
+        "short_name": "18",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Besner",
+        "short_name": "Av. Besner",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2W7",
+        "short_name": "J7V 2W7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">18 Av. Besner</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2W7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Supplying amateur brewers & vintners with ingredients & kits for at-home wine- & beer-making."
+    },
+    "formatted_address": "18 Av. Besner, Vaudreuil-Dorion, QC J7V 2W7, Canada",
+    "formatted_phone_number": "(514) 457-1455",
+    "geometry": {
+      "location": {
+        "lat": 45.38151939999999,
+        "lng": -74.016384
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3829465802915,
+          "lng": -74.0148776197085
+        },
+        "southwest": {
+          "lat": 45.3802486197085,
+          "lng": -74.0175755802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 514-457-1455",
+    "name": "La Cachette du Bootlegger",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103243460534498596292\">Rosa Isela</a>"
+        ],
+        "photo_reference": "ATCDNfWdM3q_T0gf0FT-3Hvh6th6Q37HG0MDc2zxyo-ys0ZWUYiktiTOoeLH_XM3umeESm3dIKwTXCTOVgq6m1HwZL1_cxowOtX2nxSQUbA_MGMv4nkBVUICo-CUHX3aHKqf3zaFHSoJ7qHQ3e91DWqu0iKI723LT7LXckL5HdX8kqQIub2_weT80O8ChhMBsZGV-5-OQPMkmrQCEoNSLD36KLpfR22bf2FT5cIZSsgfLAWJdwTLDl8ayOD_P9InIJ-oFywr39SLQ3fWoJya3SE8Mg5bTYqbhAfp60YHhqa8vKCiWkW_C72cB7hvcexvouADo--bdx3sJPql_JR-9zhQQdAd0T6da8I_0u-D2V5APwOg_I51-A7ISV5aU34fngqzHP3woMonJ_Zz4nZ44c9NBl-lIiuxdcHf0gOxb04R9C8",
+        "width": 1908
+      },
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103986515136657355272\">La Cachette du Bootlegger</a>"
+        ],
+        "photo_reference": "ATCDNfXkLcU9_Bkr6ck1BZmWfhb66KQuef2kTVaA8SUAQ8ZhBX3Ejc3_QqeF4NPQlIYfHqNINQa50QpeN62HBGwzUQS6wBKvtu2ObWRSrdfqm1v9I987miwMwVIZ3D4YdgccOriBkC8j5qP9jFeHZbIDhypu8KDg7dKwzW2AvEqL_b4SGu6sO3mZ_4kE39c8k0YIVZxHtGcWgW2Qz03mSLI7G7GzCzU9yuU9jLdD0ezVg41sg1-9p9CrAWpWRU4qYBhbUnFniBRIY9fAezi4_0QwRcXbEGoL9_j7S0x1223KJTLUMQ",
+        "width": 1000
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103986515136657355272\">La Cachette du Bootlegger</a>"
+        ],
+        "photo_reference": "ATCDNfXpLfZYuFqWZsLoO9SDGrzIaVxee6OgJOBN3kpvd4YKKfn0QtmnD41LMzHR9pZ7NMgZWd-3qtjbhRu46wHx9H8UogPbmQ459wIZAmqf0dn4OIFXuv2WlvMCC_flmI4qUugO9fA_YrjoyVdS65T3kQbPkpj6EvSKXj0K2bckFXZ8CcMrhhBU1wHLhj5Wu4sUnzgbhocxpJInMs0X7Tx04ZUeHKWqSLPSvwO2VieBPRwAjZyvDOG-qgWkK9K2PHdTvNG4nbHBEBbZ4NhmWuegzIJBuQZRzSjdP1Ca78SUjFtSPQ",
+        "width": 640
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103986515136657355272\">La Cachette du Bootlegger</a>"
+        ],
+        "photo_reference": "ATCDNfVFN2djiHCSwFFE2Y96BO5Pct8qrsRO9y3GCe4lDQ54KIdW3tbJCwNrP0ZPNrwj1GhohQ48jpkqUqhnAqHkByj1G1MINVH-QNJtPpYIwGcF34Xr4f2svOXZVUHOm0sQ1yKeqMvDA-DyScze0wE372d17SOHgCKEcVEjN9PoZDUV-T5w-xjxh-lAPfuQ9JUx178r-OWWrevIK0sPCmJCdfMl4Rc39NJxYpDFFB7El_QqGEY74FS878iH7lEFJdyR41k-GFaxHGoXy-4yxxYtbRsAklctbOJYAhBLfvci3PyKyQ",
+        "width": 2448
+      },
+      {
+        "height": 579,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103986515136657355272\">La Cachette du Bootlegger</a>"
+        ],
+        "photo_reference": "ATCDNfWcTYRNg8bu2iDaTmPkRMafz74BMJNVTUbpkxUNxdz1OPxZAaNLDwMiVgrG0WPmDJingEbsp4vyxjyMAx_2GZvwF1yd6OdbrtUgxjDJ7wgPEIfVTZqa_yEFd7guld4hC0iGoAe9zh9luVlkKQbMKDvzaZ6GFnNlBicd4qEfU4WHNu9fIqdZAtj57ZZ3zVFCsnR6uhfPmUqya4jhX9BUA8sjsjROpzkseynnaa46F94D1lx7NuGA0iFJ3ILu3YeXyRUvadjiqv79dLbYypO3AKwuPx_yrLIGTdbWHp5UWh0w8g",
+        "width": 640
+      },
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103986515136657355272\">La Cachette du Bootlegger</a>"
+        ],
+        "photo_reference": "ATCDNfXEIdMWJIulqkepu34JasozObEZRAQXNqaHz_6Tensl7Am5etAi8e-RnMtYJN4Ie4beGku3C2FeJi2SLs5n1DBhniWRMEIfPbUVIsPKhmfO9ikLbnJpYqu5fxj9GnIDywieGT2IxiVef5ElIo4Mrqirk4Oky8OX4NC9SkO-4oO090Ym0p6Hf972L2imkZNnh4GtuEijs4rvyFO6gdWhuvaExu4mBoLbmF69BQkNqpe-YnjaR5TZYeST-ZoNQ9f1DIR2cWZXvlCwV1QdsaaYWqxnBly3Nu1W6usSzMSILgNZRg",
+        "width": 2448
+      },
+      {
+        "height": 2858,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103685956503590743075\">Juan Carlos Fernández Espinosa</a>"
+        ],
+        "photo_reference": "ATCDNfUu4BvW_pARP0oGy47HvqemwK95xOkfbLF0i6KIk5Yd2pMm8CZV6NQVJF1rZUF6C3xpOVSxgNWjjj-W8vb25LqVjEx28OgkeQb379fBdMKwXCI2rq93m7FIhwHPXGrDTzFfOO3vLXNT0WrGHa5Bl6QAeHF1Dkp3I30Ev1RX7QGYBUUDhLqnt5fP6eUR7J0lVaE0DTBFqrkXPMJnDfE139ZhI7tjF1aLcgzjxsWZVS0eABEsgDz2EJtvrWw0psvFH3374uTMDudJeIkj_jR0scZRYIJbyV3tb5Er_HqTwAzV9HzUHXp73WL0kf38GOipxPTgcvkpAeK9Lumu6kTSlDiluvWN0HQw-aYKfHmuFgJoP3NiMQOdYJWsnEIQYzfZ0BG6mgkUN8dmEZDl0t5RabSAmeKgVlwDOVtR_VfPFZLuVQ",
+        "width": 3816
+      },
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103243460534498596292\">Rosa Isela</a>"
+        ],
+        "photo_reference": "ATCDNfXUxasc_64Uo4kEBI85wX3VQzD9fjukYdw4L2ZmcORjtOQNVgW92Jpcukp6QMumvNFwujIZugnF-8xTRJWIOhR3T8xFT62gxKOwPvgOdQU0wCAkC0MQDoLewNktzj0XInQem1YKmPWGJHDpmB3NCe4_pYVk3PW6d31J6LNQpuvA6PaaQ04pOZO38NRn2RIB_fesQAoDxdnczhsxiqgcwgwYCkbyWdOttPhbRpyuc6D9cC083dy9WTNGxt9gKe9_G8jwq3XQOOlYuQ2n31cA3zG5vVhKFicrV2uKhrk_fWCT3A663sWPKlrcopGuWjwgQAKXK97FWm_-QBjnJekd9pBEXPmbTUPmmtJf30sTSrJRaIQa0Z-2MJYTt7xYX9AMwTreYdzdDF6FmPkjpou2TU4yx749snTIxu2kEbzkkZ2LQA",
+        "width": 1908
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103685956503590743075\">Juan Carlos Fernández Espinosa</a>"
+        ],
+        "photo_reference": "ATCDNfUbU2wG32jp70YkeAEEKp8MChkXkCRQW31ly9HTAx1szxYo8W8oq2XTwrEpDEMmwvUIcBW5gisrL8z6SVd8ncb8XMHDVI_oZUfR0aQ19XAnVQQM-WLsd9Tg6qAwr9xRct8wBfXMMlu22ugGemhernkc7QRD-YptSqYEhTvTxA9sB2McTnS32UJvSn3RwqBj2hsAToah0pitll_SG2jG66T3z4SWLTIYjA_WXfhAIOOPcTMNnwfEy8cAWHUBKNsbtF7o_nvh2YWm8mEDh13kP_ZmyQsKedChQJrahSkv9D-o3e31RHAzPdpZx-j72lutFtqHSgxuEfVscCsMEzCPXbowrA-QqegDmOWf_mN3hlZikSNJecl11jaXstsqFFwvfI4xDf9F-fynzAHCBdsjwGZEG6I6XFKEYscFLwfneWpXLmTf",
+        "width": 4032
+      },
+      {
+        "height": 706,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103986515136657355272\">La Cachette du Bootlegger</a>"
+        ],
+        "photo_reference": "ATCDNfV5JHxgxZiNebHCArxU-qn3FW9j_2PmEjv8W_6R-FicWiDqPrfsZpWB4EJCqn0aES88ljuys1DgyouFsoEVGYe8Rlwiwagq3m8y7MJpsNoRebSuV30iaTS_ls5RoOwhKvHQpja890vQYmPVlivDRnVxQgLoU0AGoBI_lT31AvTCyuLjB1_jdd_zrlRHUgb2XfWOTdrFbUY3vLmJz2al9bRGWLep6K3Or2X9d5kqGlzptiyTpYXNI45tyNuGNADTEfT2eDVZQHBJKBMsm-wZ39Y9hETwYnsVtoNCsbp1riggtA",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ62FAzwY5yUwRNvW3UOXBCk4",
+    "plus_code": {
+      "compound_code": "9XJM+JC Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJM+JC"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ62FAzwY5yUwRNvW3UOXBCk4",
+    "reviews": [
+      {
+        "author_name": "Alex D",
+        "author_url": "https://www.google.com/maps/contrib/101455776214929077788/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJK1Ub7yFHaOlyZBmWE4RIom5OQw53L5ihFkjkV7d8wNNjO9w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Helpful and enthusiastic staff, lots of items for keg setup.\n\nThe staff helped with replacing all of the lines, new faucet, and in general very helpful. Now I have a running kegorator.",
+        "time": 1760941437,
+        "translated": false
+      },
+      {
+        "author_name": "Bambi .On Toast",
+        "author_url": "https://www.google.com/maps/contrib/117339024795516594056/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR3sGgZvBGC6G5SALBsMaSdIqkacTy3MwR9EYxkRhxcVOJ4Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "I highly recommend this store, having been there at least 8 different times. For background, I was a veteran winemaker and newbie beer maker when I first visited, but did a lot of research beforehand, so I required only ground malt. I felt like the staff intuitively knew my knowledge level and gave me the exact right amount of support. In subsequent visits I have asked their advice for specific beer making procedures and have been satisfied with the guidance received. I especially like that I was not bombarded with new information or had my recipes critiqued - they would only help if needed. For anybody starting out in the hobby, I give my unreserved recommendation!",
+        "time": 1742791132,
+        "translated": false
+      },
+      {
+        "author_name": "Daniel Y. Perron",
+        "author_url": "https://www.google.com/maps/contrib/114482137735542187748/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVT6PpHSjpLTiIl4ZGlKducKAq0QqZre2vegOz1hvqsRCy59N2H=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "I've been a client for about a year.\nIt's called Bootlegger's in english.\nOwner operators, there's two that joined together from what I understand.\nGreat service, wine making on site for those without room in their home.\nReasonable prices, lots of selection of wine, beer, and cider at different budget levels.\nSo far I'm extremely pleased with the quality of wine kits and service.\nI haven't tried the beer kits, perhaps next time.",
+        "time": 1747263790,
+        "translated": false
+      },
+      {
+        "author_name": "Xavier Berthiaume",
+        "author_url": "https://www.google.com/maps/contrib/104603968584371105930/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT8Swe0ash3n9TfzPcYI54MMpqNRjA0IFg6V7ohKc7R4KBQA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Wonderful experience. Highly recommend this shop for anyone interested in learning more about home brewing. The staff gave advice that drastically improved my first brewing experience and saved me some major headaches.",
+        "time": 1722537077,
+        "translated": false
+      },
+      {
+        "author_name": "Christophe Beniak",
+        "author_url": "https://www.google.com/maps/contrib/106314183448780523579/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCYNpORg3_1oSjGtvNR5Lpz1WCBvFpjAb-Pcn6z1F4fxksWQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I've been getting my wine made at Bootleggers for a while now. There is a good selection of quality wines at very reasonable prices. They handle everything and  call you when the wine is ready.  All you need to do is cork the wine. The staff is very friendly and knowledgeable.",
+        "time": 1684454141,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=5623520275371390262",
+    "user_ratings_total": 169,
+    "utc_offset": -300,
+    "vicinity": "18 Av. Besner, Vaudreuil-Dorion",
+    "website": "http://cachettedubootlegger.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

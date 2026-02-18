@@ -1,0 +1,421 @@
+{
+  "query": "SavClicks, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339316.8156223,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "8",
+        "short_name": "8",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "139",
+        "short_name": "139",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2K9",
+        "short_name": "J7V 2K9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">139 Av. Saint-Charles #8</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2K9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "139 Av. Saint-Charles #8, Vaudreuil-Dorion, QC J7V 2K9, Canada",
+    "formatted_phone_number": "(514) 915-6326",
+    "geometry": {
+      "location": {
+        "lat": 45.3871864,
+        "lng": -74.0126219
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3884848302915,
+          "lng": -74.0113892697085
+        },
+        "southwest": {
+          "lat": 45.3857868697085,
+          "lng": -74.01408723029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-915-6326",
+    "name": "SavClicks",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfViQX19bchq116PEUxz9cRYOFlBdIfTvSauAhIkhlMBRxwhSiRKzOdVGpjw0a-UbwN1e40Sw8ykVCW-S_o8oL56G1aUIX0zeRTcQd40wCr85yko4UCY0Drjdx8tyBXIyRwm75va8k2Dqm29p0icez2YkmgK58USwdfJ2Deih7A_qg-4o1M0FCYRFzJuRAxn0ZEWATgZtxd1eLo9N5VgT3g0dyxgKGCxSKqoabrntmKixTGdAQPCxM518bc1x8XHPLrKbZ_HSvtwr43CzXqe7E8S8gwJQ3rGCN4nU46aIxW02w",
+        "width": 750
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfW2qaCWbmTdihyKs-l4gRGrlxE1Sr95vhZg_gmMJQWNjxCmUdzlWAZvI7chm36XLBL3ret3wef8lSgCf493sFmEkt8mw4d7wRywHBr6gusRiEc1Xjcjv0WIhI2sf8uK1tbVEHNT3ZMEjSECZUvyn5dZb5P649wFTrGpnpub9Z7cwnvfePuoSDmlxZXurTOECrtLASyPTQctkcxbNulUsYw5wp_hFXxrVBkQrt3cIegf2dAEjulnBAeXg2vvnVPKwhHdHUKyypiGeGlTjHHC3nzctKzcjZZrQ_Xg_SGoU7FGYA",
+        "width": 750
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfVp7zbQthhA8qjYr90gKMUxXDmVymTn7sPwJw9PBLp5olNq7ghiPrAHRIEG2YQHfOY7uT1Rjz4W3uWeNrybuB8Ks67yLSRlG1ou32n3alzLFy-45ZPEIOqvad5QI0j8aA8IdUde7kCgG4SYQhOzvT3hsb8_WWkiw4WPPj-VST5cEqbhb4d0cmQ-UIUAjuZ0aUPncAUUqZEdxCSRKonUvqUkqLIF36gT6Whk9rRaByknfE5uC3gj6xPc6T446KvnvXAzNCqBW-ArRLpnyV9GL8CyYXxL8P6uZ_RZsIrUxx435Q",
+        "width": 750
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfWuDFcBhmCdUUWBx0xUne_1Rh1QobNn0REcFPlzEmJwAdL3Q3qm0zfPbpJ9xeJUD1kL7RVQnmuzNAej3bNwrOT8hsXBCYI_qJJV3rclquYXlSr_RYNRW7jnJBUktiWyxqXaK-m5qXQDWacyT2Y7dLUNoJTHt_RLAxdkXTWGWjGgL1jr3ODc0sAxsF9hf3NFIkIVReMOhke98_lzzO2ytV88PlbjePIXmCzc3tBeVilmv9A_1RqW7Hq3arPOxFMmM_uRnXHpVCM89OAQojucrHBS3A4GRCkdpxb2XnfyQllOOA",
+        "width": 750
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfXTlDAqd0B0tOZa6cHHEIA-wnm-qMry6yeJihr1IWQ-1Q319VuthWMFFTG7bYIxFzsJwp-kVZ1uFugJHXn3OzUB62aAHMyuqNkxCjKmg17D7tIxTAcnvLER05nry1v1yQf8MbBQgws0IY3odcRR5OLfc6tD52TZUBrj1rD8C2bh6EgsBRER3dn2STvRt0pgaVlmPTXFkkOhydVI3K5W14eRi4wO3vZJVmKSmRY2CnewHGx38LMRlT4usgdK5eaC89Ybrzetg9oECZMC_OcGo3K5UiQbDN79SSsbXWNviMTA0w",
+        "width": 750
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfWwwfDi_dv0GDybG8yAbgIUz3cGRRdA_wNORFepmUtgMfUxCsURVI7pjOxbCfLqVg5m8Hpva7mDlPiwLvVl07wHGdpFZPzADhgK05XJa7ef93iOT7pArv6zFiklmxKOOXaFiM1QWVs6Pf6tyUxxBL7hSIwzCmWV_EryfWtMA_aJG7cKp8X-n4F3-qchBZ1elGzZ-pqfNTjpy2OhTj6zS97fCSErjbsC5I14d8eiAPZZ0u2b1n6_cGwpqQKBq_0Sp2FVAcCQetgR4WCj1d5liwmAKxlTWpDrZpdcnllG003E5g",
+        "width": 750
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfVP055TO1m5IMDqRTZANkW9Z9HPQKkUMhh0yYaFP1ElGujg9-pYCplZYEOIGqikZaRBnAlz41KbYzGO4PXWsjw_q5H62yWR1leN_kEX2TAAcFoxlRmujlA5x1E_ohb_Nmq-tI02tVjo-4NQXy20U4rMv0-oxnoVpMLDWhVpMk5KRdN4iyjE_SRLRGU7WD0fUA5Z3-wEPbalaFGDZPeGtN3DUCwQbm-FrG83Sh4xmX2Qcqaa9jpJdZ6mAENJ4Ev2HlsQ7H7idUrpTvaZzD85njn1Y0EqX8mHLMQOUtnKbv9A8w",
+        "width": 750
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfUiz-1jhhcsxybQvkCPMrEKjHaCCy8XS0iXrbyMRBEWlnsxf2S_RafyE0hkr2_2QqJ2XKMoxQJbek14BG7D2nhdjLFz3RcOcc3zpuzzjxYOUY7Ge8s1hNQWMvkTAdSoVWN_mwO7QVno5m3lXN59Fgcnj12IotzPEVD5vL1XveuxJQIxHeBAUd2zqU8vMqpIpU6bBV3GipVPHg1fEaY6_v4Fk4uPir3yi7ApzBv-BvWZKzsFpJMoNwoK6QO6hRKR7waSu8yr68gLX6_jM7Th1yZkCb5QaNuKhqdNazzgew2XLA",
+        "width": 750
+      },
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfVnk9jLgIuxyWLWE2RWPUG1aeJ2wwKhUe9I_BF97zb89PXHIDahxTLvYTW-QOMzR8tO1xyv3aQtGo6r2jhd8PTWb44mo94qoroM_iwtjw604d1HssodR25dJtlk5gAMnXzCda9d4udr8rzUVmims7_FmADEwqsT0Wdnn5D-WbYZ45K_5qxXUR_cT4KbgJd-NXiekqT4NBwJZf62Z4RLmV1tjgEz9eRAjN4svWV5qtM0E9Egb8gqTs0qfujtpLJX9HpPf5lfP8tnK1lM-1_uctysph5WQKFPRJFQnSRSHh-ahg",
+        "width": 750
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106281329365060200402\">SavClicks</a>"
+        ],
+        "photo_reference": "ATCDNfXX2Qart1EcCiHRGu7Mqq_WBCLwcOniZ_t7gIxtV15E_hUe5EYT_-r34th5YRNtGYh0FYC9Z4hK8qcjcAtyfwc2awoiDBOsIX04kmzlwqeoml86P7FI2MXm0Wt3yCaF5rEFFGjt9E-9rKk8fKG3j_LaPM1PEZ7FHjjtQ7BGE7slMEK8UT78nzvjdos9EF025-eSHvlEkO0MCebCRPAU3IVh-WjtDbGnyW4b3guwLpy0awkM-WbWiltgm0syl8Hcq-cQJoffecm_MjgXjPzz2NAyZw5BZruNwa4fd-ZQfbFjjw",
+        "width": 3500
+      }
+    ],
+    "place_id": "ChIJy_cQ3RQ3qyIR9pDSW-ZOTFY",
+    "plus_code": {
+      "compound_code": "9XPP+VX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XPP+VX"
+    },
+    "rating": 5,
+    "reference": "ChIJy_cQ3RQ3qyIR9pDSW-ZOTFY",
+    "reviews": [
+      {
+        "author_name": "Kyle Ross",
+        "author_url": "https://www.google.com/maps/contrib/102526081321438647970/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0k0vZ10phLAL3zUP9t3SsmqzK2g2WG2w-q2KMnWizCp-r2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Working with this company has been a great experience. They give you the freedom for creativity and vision. There were many times when I simply voiced what I wanted from a vision what was in my head and Savclicks would send me a mock up a few days later of somehow exactly what I wanted. Great team and a great experience. A company that is true to its word and can deliver amazing work at the end. You will not be disappointed working with this company. Amazing service and it was a pleasure to work with them.",
+        "time": 1767049817,
+        "translated": false
+      },
+      {
+        "author_name": "Anthony Palombo",
+        "author_url": "https://www.google.com/maps/contrib/107950650978590149617/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVjjNp_jhIQjizA_IovnaheuVocarHijy8slpTDjetx2xQNQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Having worked with many companies before with little to no results, i was beginning to lose hope! I'm so glad SavClicks contacted me and for his service to date. Don't take my word for it, give him a chance and you will not be disappointed. I'll end this review with FANTASTIC service and thank you very much for your many years of help !",
+        "time": 1768920609,
+        "translated": false
+      },
+      {
+        "author_name": "Groupe Da Silva",
+        "author_url": "https://www.google.com/maps/contrib/110911594967034370886/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6HrphRn6n5TQMtQ_HnivGYGQhXpfiACNC1cmgFYArhgFnfg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Had a fantastic experience with SavClicks. Super professional, easy to work with, and really knows his stuff. Communication was clear from start to finish and the results spoke for themselves. Highly recommend them if you’re looking for quality work you can trust!",
+        "time": 1767724359,
+        "translated": false
+      },
+      {
+        "author_name": "Diva Menke-Thielman",
+        "author_url": "https://www.google.com/maps/contrib/105823561544107926029/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTUON5n9q0KZ2L7qPk3hS5n1e2-S5GxmR12d7HdqkbMjxUDoQ1=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Saverio completely transformed our website. Our old site had no SEO, so we were getting very little traffic. Luckily for us, SEO is his specialty. He was patient, kind, and went above and beyond with all our requests.\n\nIf you’re a small service-based business wanting to boost traffic without overspending, hire him. He’s skilled, reliable, and delivers exceptional value. We’re thrilled with the results, and you will be too!",
+        "time": 1764108283,
+        "translated": false
+      },
+      {
+        "author_name": "Angelica Dalaroy",
+        "author_url": "https://www.google.com/maps/contrib/110103772490038330464/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMrw2gALOdx5-ekogXz-IAHb9XzLZqjOVAJsujKr8zXIBuEw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I was referred  to Saverio owner of SavClicks to build my website after a few attempts at trying to find a web designer that was truly interested in understanding my domain as a health and wellness practitioner.  Saverio dedicated a lot of time to helping me build a website that represented my business and the message I wanted to convey to attract the clients I wanted to target.  Not only  was patient and resourceful but he made suggestions to my benefit.  I would highly recommend hiring him.\n.",
+        "time": 1757449838,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=6218431936781783286",
+    "user_ratings_total": 59,
+    "utc_offset": -300,
+    "vicinity": "139 Av. Saint-Charles #8, Vaudreuil-Dorion",
+    "website": "https://www.savclicks.com/"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "query": "MTA Experts-Conseils, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340740.24779,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "108",
+        "short_name": "108",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Charles",
+        "short_name": "Av. Saint-Charles",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2K6",
+        "short_name": "J7V 2K6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">108 Av. Saint-Charles</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2K6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "108 Av. Saint-Charles, Vaudreuil-Dorion, QC J7V 2K6, Canada",
+    "formatted_phone_number": "(450) 369-2133",
+    "geometry": {
+      "location": {
+        "lat": 45.3865586,
+        "lng": -74.01253009999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3879478302915,
+          "lng": -74.01110641970848
+        },
+        "southwest": {
+          "lat": 45.3852498697085,
+          "lng": -74.0138043802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-369-2133",
+    "name": "MTA Experts-Conseils",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103108297304961696214\">MTA Experts-Conseils</a>"
+        ],
+        "photo_reference": "ATCDNfVUqxc2uDRiQgXho92waw4QjWAoied2NFIv9wLuCasjPFIPrOL6qp_Gj9OoS1Y53TWN5nT47uQn-eMsQJCtnX77PoLvWph1lZh2nthNCO-7qBYPpMlhyno6N6lcKhnbBX1akIDbn6cz2nbsDgm682gkAjmKHHRC4ThQDdZfLJn45Q-RFwZTQVr7ePIyL7qyVidfOhTZKoi5OZ_JwYw9bTY0C-v2Z4j6FNzCxSF4nqQY6Wxwv17lyoeYBku8Gh5qbQ42LFdPjGWBr6Lb-aiaD1hg0hM6csuqDJkUFM9q5KTw4A",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJDWO1l7JJyUwRnMIwDCQIpaQ",
+    "plus_code": {
+      "compound_code": "9XPP+JX Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XPP+JX"
+    },
+    "reference": "ChIJDWO1l7JJyUwRnMIwDCQIpaQ",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11863897744293806748",
+    "utc_offset": -300,
+    "vicinity": "108 Av. Saint-Charles, Vaudreuil-Dorion",
+    "website": "https://mtaexpertsconseils.com/"
+  }
+}

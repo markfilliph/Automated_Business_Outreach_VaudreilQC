@@ -1,0 +1,271 @@
+{
+  "query": "Renova, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339742.9432569,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2643",
+        "short_name": "2643",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Karine",
+        "short_name": "Rue Karine",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8V2",
+        "short_name": "J7V 8V2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2643 Rue Karine</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8V2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2643 Rue Karine, Vaudreuil-Dorion, QC J7V 8V2, Canada",
+    "formatted_phone_number": "(514) 589-6562",
+    "geometry": {
+      "location": {
+        "lat": 45.3961616,
+        "lng": -74.0354526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3974540802915,
+          "lng": -74.0340104697085
+        },
+        "southwest": {
+          "lat": 45.3947561197085,
+          "lng": -74.03670843029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-589-6562",
+    "name": "Renova",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1418,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101356852432148730131\">Renova</a>"
+        ],
+        "photo_reference": "ATCDNfVWvtP2BDiFLqBGnJHbxFSBOyKoE3QDtX0xao_PF3D8mRkA6tVNjjgfgzdAaCYDyYoAgiXbAVClnaiGyVy8afk4FajlbdgNIQ0y3ZAY0zPL-Vq_nggYq-lwZjuGgi4K2RoEuXSllU9aX_Uhgd2sZUsYYW1wCPoMtRrQTLDTpBbpPn1lq29cIIwWOVBwI4ncllYbsJWt0IM39VGEh5KijpoXvsSlLBX7lD_Fh10MAlGO8Fbn79DZrdpjPTAjJDamAitXuiVbXoc-uU2dRNSb9AG8bR3JHcc6KsBzH1-SQUq8xQ",
+        "width": 828
+      },
+      {
+        "height": 1425,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101356852432148730131\">Renova</a>"
+        ],
+        "photo_reference": "ATCDNfVB5acLXDiFwQ0wcot8xIBWSpW4MxBgeys-1EO2eaJRNxslBiTC8OQ1wSNb5SYnE3YNo-CjyK72vE2U01pUDLnND0dGRxJIzxJxJ9aucKiYXS6uYt7G1NPuyq3JDgx8a3Peh7aHF3uzw72sykBh-NnIUn1HnNyjI4kpvkDrgEJVmb8O_CvRfK6UDgf3TJ91n7fwQoBO_4oi4ik7qcQ53XSdpZdjlzti6ksDyf5AOTgqoe6aBpVtevR_WqKOqkUKXRz-HX_M_tvFAJpoc2fjmAxNawe-BqjmrNIV7jpYtdGMSg",
+        "width": 828
+      },
+      {
+        "height": 996,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101356852432148730131\">Renova</a>"
+        ],
+        "photo_reference": "ATCDNfXOhCe4egrxDH-jeIhYHstZiRKS1bSvdBjd0fbk8kx_hATii7dyyrGmdPVJ2e8cfC_A64Z4DY1wfwayQHZ7HDkLnd0LvLoN-SdTK9GQowimNM96W8YwvWHof133QIgbC7xDdQMkBStTj0o-JVv1EdkrezGaeDz2D2M_GwgGaPnxoCJan9XBMpESUZY8cRDKkizjFm4_9QHvBHpLxd_YKLdu4Ad-18N__UG4rRNionqv2tO4GdB0fVRVyRIRnR9DVDRBC7nPMrpOAaFFG46zZDwalKaVukoqjU9VTdYrgwrJ5g",
+        "width": 828
+      }
+    ],
+    "place_id": "ChIJj-oSe8k3yUwRJLiupq-YNHs",
+    "plus_code": {
+      "compound_code": "9XW7+FR Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XW7+FR"
+    },
+    "reference": "ChIJj-oSe8k3yUwRJLiupq-YNHs",
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8877888645637257252",
+    "utc_offset": -300,
+    "vicinity": "2643 Rue Karine, Vaudreuil-Dorion"
+  }
+}

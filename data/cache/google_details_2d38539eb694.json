@@ -1,0 +1,442 @@
+{
+  "query": "Continental, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338912.5934641,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "67",
+        "short_name": "67",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "101",
+        "short_name": "101",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Cardinal Léger",
+        "short_name": "Bd Cardinal Léger",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pincourt",
+        "short_name": "Pincourt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7W 3Y3",
+        "short_name": "J7W 3Y3",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">101 Bd Cardinal Léger #67</span>, <span class=\"locality\">Pincourt</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7W 3Y3</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "101 Bd Cardinal Léger #67, Pincourt, QC J7W 3Y3, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3840385,
+        "lng": -73.9959887
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3852508802915,
+          "lng": -73.99441156970849
+        },
+        "southwest": {
+          "lat": 45.3825529197085,
+          "lng": -73.9971095302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Continental",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1872,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648157979369461741\">Nicholas Buonvino</a>"
+        ],
+        "photo_reference": "ATCDNfVctKaw-aFx1BNYAfWKjFkePvDlPEGnEK5fEnQ3g40gvwfWa7vGnai9BuFydxNXCFoWeQmN3L5nBBH82eoMl4bdbixMcqyXu71i-TeJO8leoaCMkyXFxZhdKgGzgLoNy-PcVN2xOV1vHZWdT2omKySvMP2K2P5su_zYFkhQKdZ3RlanLL4G0gPjBpZGTuoFyPZWqqtSkuRTtXH8MKg9No1zV95bP8UsNPTFUdGeHPIjSjbezgWLyJa5bYxodzkNpDPmQo1wLJ_dnxsXI6un9XgWY381pymMeeDq0vFlorphQhIxYlgsvwHFgwZZh-0qPKVhjmidiOhSJCZiMlpztlfj_1qrzceoSFFQJBEfFB88L6LW-NsJke8KMxtTpUEsJf_mvJHfpCgCc_II2QYH-YmTjbAYb2n3ohKtlRkDBIMB0Y2L_86BRcjQYk-GBVZF",
+        "width": 4160
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648157979369461741\">Nicholas Buonvino</a>"
+        ],
+        "photo_reference": "ATCDNfUSRTmfg1ql7DvsyTJg6jHt0XZRIpW3IH1R_vGux80brYD34h8lHDBmmdZo7FmUidaNpTwh1j9Go9MnWuu-kOIGtyT_Hl4hvDLE0RttWGBDoah5bIkhxK8p1ZFrupG2Bv4kZugrMbQtA9Yek74cNs0Fgo9MtmMdQ0gQbQtZEo7wTTxf-ki-R_0avst9PatplC1SjR9c0O59OWECF0TqH6obxdyDzZWbeXwGHTnyZZyJxM-mFkawKbCqVDXRVXS2RslakEq3UHgyYrqntCZo0OYvk3idZa48myH3jiDHVNCB7G9o_PzRtnS2xcGWEcxXVlTO-zGElpOGYts3yePq_HQHaiVsSAAc8p3j8z9BadrWoi_6pPw1fScYqRFPquVY7kRwA8H9Iztr1o684-8SEnTE33rLtYguU-XlQjDNPqr_StYF44HjL_KPJ7GOBL5N",
+        "width": 1872
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648157979369461741\">Nicholas Buonvino</a>"
+        ],
+        "photo_reference": "ATCDNfXFWHOjmlqMFBn46bHM2NY__7WCDcofBhpjrYkU7-a6_v8cjEWshRuQqgbjjSTclIxq1VReBzsL5-q7weyRSrL7JWiJLLb0_LshLzN-U0qTNoxvoz6Io9goRzKM1zzGkqYiFmWU7LNKyjNiu8e-sE2A7JIi2v8m8qmo6zqBj2IVMHAZNvOO8Ge3illU_fGtZEyFKmZgWmUFox9kjmXhDQG3EDPrd6Q1EjRnJ1pDLYyIYqcRk8yJZ6Y2r_nJ77xMpFz-zv9MQAkU1_9TMyfufciYf1_JUvxHQBf6hgWu0a80e6P5FcV7Wk5c9GeDj1hncoxFyrY8KwxnaMFYPAXm5EvyLbJTEyxGS1qXgjwClEKVY0LAeBV2jRkiWe_gC64LDKrFQEad1ZxCG3xAVC7qoyhLnbk6UYpEvtC53_nIPeA5ZoTFYhc59-jV738J7g",
+        "width": 1872
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648157979369461741\">Nicholas Buonvino</a>"
+        ],
+        "photo_reference": "ATCDNfX2fY3dzIKbKS0mDWtc1v6124kcGOG8oAEhqEL8t6VuubFCqfY1mviYSCoe5ELnR3BBSpGChARKKSVKRR_YvKI2XFvHKeZE8uQ8UMrZf3UnzZVkTwT06sz_0R7spL3nnL9I1mhNCcbltKkJNkCQ09nJ0RP0cLK1l9xMR0l_6dSvpSM8YgERH5T02zksKaQlQ64oqI7aH_yGMiJLulz_KGcV6VysyqrTGjTwS5f0Tk8B2O-FBUUEx9iyq6LJJe4iqnKwX4S5rLRR_RXFZkO9safToL_zUuFdhnyg4itmaQZ50ezUYp0vYxxDuAV5EYpqhqj-AYhjMaGiyq6Gz4OMe1bteTumqy7Ce6-NvJQLWkg6eDZQP1rgWuIBniV1TWBxiXiI48JOLEo3hRqo_cGJdwUFuAjOe64lwJjgf0Om6awhR1II0iIw9rMMZ2vxoIjz",
+        "width": 1872
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112005128819375880196\">David Olson</a>"
+        ],
+        "photo_reference": "ATCDNfUYOvYnJA0snqa9zVpDbHSolGEy2nu5qgrORXHWB4QBtp9ivyCVQ6QSc6FXsVl6tH1BKewNfo0__Pw376M_FCsgVWFCAJLlmTMvs1CGqfCx7LzWiotbUtxLBYOFt66vIvjJpHnbTdOGzzI-JS2-z_YsHuIyRZqIVsUIBNaAkvj3-zrLhpuXnRVnOPjrj6M3raGv8uTOr31Mf3td-_dd4xSfCPjBkhZezORcwtvXmv2Q5ix1E010HiCjOFu-7Tqo4wIL6EIFmRjwpWs-LbmGDtv4woFgpzq-hTrnA5tEKbQVcm0Sd_ks5O-qKl-DDwB8mokUqT644DerTqyHv54WxxLXoWEq4mncwwPp2791kP3IC77qhXQGP_fCAgKobTZY7EURnCZFMADDjrbZ3bN_XtOzxXdt5zDiHLUOS1chsDYC_BTxw79-1s_JbDisG7hx",
+        "width": 1080
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648157979369461741\">Nicholas Buonvino</a>"
+        ],
+        "photo_reference": "ATCDNfV8nsB5j2YjW3n-04So_TXmFbBDu5zi69hONB4-kc-JrojmPpE-te_z37bvLjAsHqz9l2qOt4P6q_lEm4zja0iBEU33V5QnC6v_N_coUYHp3Nex6agOoC-4ZgQezYsSGXfupOetY8oXMMZvD0zGHa4RWv71RPBXMvlyIBwRi3zG0NYSfmjE1qhLdnB9NmzHm9-qhZ-1mCtFezC-HL4vSwFaY5X7yYOyQMVhmi75HK7Hri2mfNgFqayuik0IcJBjiYH9DxznIgN4YxyRcjfDEwidE_Ym__UpD68QmwGcWWbNyQdkrKTBHCZOPp93cRyHcSdD3sWPs-V3FV9GFwyvvlOs1gYDyThBEpf6LAF-v9MoE9e6908jF-VhebxpUmuySWsqWp08COXh-MigAkmSFbzvy2bpRqO509vGhYvM59KojpcDlQmBUcUP5Ur5kJ9c",
+        "width": 1872
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648157979369461741\">Nicholas Buonvino</a>"
+        ],
+        "photo_reference": "ATCDNfVHBF2ffg1bzoPEhComDXeTnhRJiuT0i9-tfp-zhxo47tBIJQnDwXMJny600nFEjaD8iCxGCThs_K1-4FWpQkjWLS4En_vIFpxUKSomCbPB0Miq0-12sgFWAQCvLKGbyQdaSUxG_Q3qHiVER4ef-ZwGv_YepxejaT28jFKkm2fw0mb03T699YHzc66A-lEyZBdU82z-ch7Tyv6XNoeHrZuReDHp84YBpOyy-EouHf43DzsVUUXsPqoXFNiZ9ESd5lf6HCl7wM4VQSB5zHKL7yyH2GjpnMFx861YZORxhs-D4bUj7z72WPCQCugg3ev3F9-vMX3SwjJTudMRUjNqUbIBt5tXzCKTBWm_KE0tLnufrQnQVmFxUfhp72LCueew_vshdjUAnHH7gEAPs794qyJmCtOARncuM4yLYQc6solyVGqCmL7R2uJn9N_u1enI",
+        "width": 1872
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648157979369461741\">Nicholas Buonvino</a>"
+        ],
+        "photo_reference": "ATCDNfVrW27QGxotjrp6t0xUMEZRj-m12ajpGZz7D6_mE9P52pmbgZkUdD2ftS2mlFSh6aIMFX6NkULDowRphp0-lKxpMx1-eMP5RED9EFqSc_nYkdpdTF0b3ZXQjm8YIdks-wxrYfG8S42noOyCG0sW5LqLPHMByn1-tKHPzVX1fglBohCvS-73v2XX1W-T-uPL4j-nDArEUvUba529l1NVqKLRs0guzSFj6gYFv-ZXEH3phMG-9dS4IyZT-NNyaI67KzcSHw__dNqQy5KTfCGkRExOIEPUTFEHZA4ypiwTkKp_XF0hLQyEUNBjWEAFW3Nj0OC_ccbMuOzHBjULRvRjegGFTNKcorQFf_rZf3sy3mf3zp0OOOT6llNlvhj9ZXOki3Q78hMqSNmfcwZ57K975sQNp_9SghELzeyikfQ3B3oSate4D2z_BV6X2KPWguoj",
+        "width": 1872
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112005128819375880196\">David Olson</a>"
+        ],
+        "photo_reference": "ATCDNfVr6nd-lc2WYtQw4-ACgj2FLp0R6rIl5lImAyOwtl8-QKC17rH1da_XUjWpDJ9wMsbpJhE4qDNUSpS158gUBwpB96AMKJ7WfLZsxX7ekE2BRmNi_L3Dt8qC890hIkVleDLXrJiVo1WIVTDKNZqDcldtQMuTNDI6sYcR5sUvt1yOj-VHKMEP9y4xaWnIYtXs9VYJXptG6zHykJ_JLUGSjjEeNgg__n1XWqhZheFS-Z0V-j50F1euwZ_CqiIoCI-IUwyiGHLKRg6CpbiC0qodgcLH91-obU5L7LJbGeSOJk4m-c8mXUJpj_BW1aW9IDBe0jKixuMVd5WX2ifHHpz2uLcvith59IlGaKh3yj7y15oAj60uZzc5sH3Nn5IAVbRlURRRbGknhYZhkR3JsDX7BMMlwQl0pPzHAZYVMjBIqGoJkz3EnDv3edjqkxTzWA",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112005128819375880196\">David Olson</a>"
+        ],
+        "photo_reference": "ATCDNfVA0YdixNUCUDsKcSWt0sQCFeqYR4PpYLLg2UVbkxTvU7ab9Am8zgUubgkvj2jGwzCh2Ug9Nj07_LIHrt74aDFNhJ5RrJOswwC5IKdgC0G2n3QUPJeN2gfDlGYa_XFDgLSvQXW408i_He4eSToWQG6s0ipapBr90KgPazE32fXXOEwrjtLZ4YZtwGd5xNHGBB-b3nLlNu1ksyIF-EFP6SAc7GrBgYZ_brpVzdlPKx9No2RlBnwrRc2UPot24q9_kHvkXKGk3oLynDVEqAA9zOI_ykgA6CuFojUt5mmLbDPWlhsWU5xy06Js1yCVtL4qK6FM7ZDir8am4iuNVbAy7Rr71l5JNBEcKQQUNwG7yynrMqQOWIJbP-J0l7QAPf-NFvAFZlQ5IFjp1Uwp9KNQIy6k0v1hXF5ROIOrqkzjdHxbv7R2WYlTwoVl39E9P2jU",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ76zZPaNJyUwRo17tVUk6fsk",
+    "plus_code": {
+      "compound_code": "92M3+JJ Pincourt, QC, Canada",
+      "global_code": "87Q892M3+JJ"
+    },
+    "rating": 3.4,
+    "reference": "ChIJ76zZPaNJyUwRo17tVUk6fsk",
+    "reviews": [
+      {
+        "author_name": "Avi . K",
+        "author_url": "https://www.google.com/maps/contrib/111072749131022926363/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl5kao1bLjL4tBHfSsieGnoAm7nV8RswL5UtJA4cIaAYWa3P4yKA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "No deal at all over there 70%, 50% , of a higher price get you more expensive Very expensive with no discount. Nobody know the price overthere.The one at the counter will give you more expensive than home depot.Better get a new on one at home depot amazon or reno depot  with a bill and a good service and garentee. Even less expensive and less argument with staff.",
+        "time": 1766360761,
+        "translated": false
+      },
+      {
+        "author_name": "Avi",
+        "author_url": "https://www.google.com/maps/contrib/100825451923748676863/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJdxYdRRQKU2B-mdP8cpI9q3AgrtMsdUWdPx5N4DEftgpe6A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Very expensive with no discount. Nobody know the price overthere.The one at the counter will give you more expensive than home depot.For me i feel better get a new on one at home depot with a bill and a good service and garentee. Am sorry for the owner the employee is not doing a good job.",
+        "time": 1766345634,
+        "translated": false
+      },
+      {
+        "author_name": "F.N. M.",
+        "author_url": "https://www.google.com/maps/contrib/103863523798550029750/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWULDHvZEe9Z6mrvXiERfsCuSbDf_InN_gpbQXc-uvjY4lZJkzQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "3 months ago",
+        "text": "There really are no deals here. Feels like a ghost town. The sales are not sales because there’s better prices at Costco, Amazon and Home Depot.",
+        "time": 1761958385,
+        "translated": false
+      },
+      {
+        "author_name": "Lifetime Photos",
+        "author_url": "https://www.google.com/maps/contrib/108239199199318726329/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFmRl1H7YutmOz8WnV-HuToK7-RBDYpQXkwC8eEesZEY9D5TDA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "I was able to find two vanities that were in the box instead of the floor model. However, the price was different. Be careful. You may find amazing deals, but don’t go shopping there blindly and always ask when they are presenting you with something in the box if the price is different.\nBe vigilant you will find amazing deals, but you will need time and be alert\n\nHappy shopping!!",
+        "time": 1728650564,
+        "translated": false
+      },
+      {
+        "author_name": "kayden mayoff",
+        "author_url": "https://www.google.com/maps/contrib/107865476333926860324/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMd95CCpaZ_TI522ANiU_uLmgyDnGdxGd-_9vmHy6Kj1uqWb8=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Amazing store. They have literally every kind of product imaginable. All of it is reduced heavily. It’s to the point that you could buy something and sell it online, and still profit. It’s one of the only places to find quality merchandise for next to nothing.",
+        "time": 1740869731,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=14519106335337701027",
+    "user_ratings_total": 28,
+    "utc_offset": -300,
+    "vicinity": "101 Bd Cardinal Léger #67, Pincourt",
+    "wheelchair_accessible_entrance": true
+  }
+}

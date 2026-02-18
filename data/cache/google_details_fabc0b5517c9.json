@@ -1,0 +1,443 @@
+{
+  "query": "MINISO, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339918.5480044,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "118",
+        "short_name": "118",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3150",
+        "short_name": "3150",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0J5",
+        "short_name": "J7V 0J5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3150 Bd de la Gare #118</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0J5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "3150 Bd de la Gare #118, Vaudreuil-Dorion, QC J7V 0J5, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.4035669,
+        "lng": -74.04859309999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40485973029151,
+          "lng": -74.0471332197085
+        },
+        "southwest": {
+          "lat": 45.40216176970851,
+          "lng": -74.0498311802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "MINISO",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105287515458589226134\">MINISO</a>"
+        ],
+        "photo_reference": "ATCDNfXryB8Q9kKB_v5srgvxM-Bet8IpTcKoHMbR2u1h3HA_KFRKipinS9SSwlt4ZJUJ1m_76-IaURjR5vPFBun9UNVpvsmeZ_Sr-btHBYq4ejq3KxKbdnosrsy5oGxVHalt5mAvyAcPSwibR8JBYUgwTQjsF5ywIGb0XbStJ46AyuVDP_nG-ZmsIeDewgZftEeFNstMkiUZY-qtKlLVUUIgoUV6nQgOQNDqEIEFUZ449yWMpLmf5zBArriQ9UfApRvn6lTAP3YJJh0eLBrKsXP_aQd9toAG_6cGyzZF3hGNS_5vWw",
+        "width": 1440
+      },
+      {
+        "height": 2256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109553085909048586425\">Kirill A.</a>"
+        ],
+        "photo_reference": "ATCDNfUyIvI6LvsQOPFyItCsM5U9FSTZup7I5-QLhKpvts5ApgDeT0q8QrWfC974xDIi4RIQ1NLuuykeoDHLfic_b3PCpyKamf3aKsMGZCZ1fI4bUgTNPPQqEsdIdQ80U-0itQ8JBNJPwI_0RXYC-j2tX8qZrNbO-dBgxqAKw1UfZI0AvsvXRE6kJP54_2qjGn5JKKTRtI0N7qA16F1N2r8HmvJq8wWWKKAHe22PbcxfbYRT6okQymvvfr5wVd1TMF_B24OQOpGbuQNBfLro0fwfB_KI21fIeUytOWnf2oOL0eJlACiNQox0d1QCPk5UKFalj_Y3xkOi6FR26WvjY3Nq_cSGWWbCiesEFgvYRNtKXv0MIvMH2VJVdY_Ua7xrbhGJMidQEEl8GOIrIDqmxknPSX1mqNnO8UIvdnE03xW1ZPafJ9o17rVqbKgGx2Ty3p7K",
+        "width": 4000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVpeCrDWfh_rTkRTGWrTdqta1TmgPOXL34Cddnff3Ih-QVnsUoB9WI5hZIwlCzUK3sMJsHkF8VyYskVfLHcGmuYo3Fd-DImborK2sxSoAyjwqVhTc48npzrdww-T_MxPV6ZVROnaEjQfikdohxq9LRqwtP_VjnmLhqDTvtZRAtv-174pentZ-NIbB83weAUvCOPzaUDfT9a_0X7SegNbM1wFETb7rvDHGq3pZJDOKIhiCZ5rlen-J8ry08D1qn7dDjK3dbq5necdkBAITzwCPHl6mT3PYCqIWruwva2q8av8CZIdepDORddMVJJ0i25gaQilxNR-_jn8qsaN_A7KZT3MgFj4_nuZVhWhiiwEsV3mcV6deHTil1OGmiERlHPO4LRhS_DBpMP_PWwN9fsIxZ5UU3BFsq7dm3ZWy5Ll3600BBqXX10sZNuIpM6GpUZ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfVK_3m9qgwOqtMGlBg1tf1az99We0V79zGUXa3ZYCueKRpOm3gYpEQ7B5h9rFroxQWBLLOFowukM5mly-BMDzfdvjNwAuRB6aaesr6qplZBpcfr4GcnP1049G6KnrwlNZDXgJiLU4_abVRBdpww6qskvxB8s5F8hT7xvploum4pjwcNAAbGSOuSQFO4jF2yuAMdPRo5T6hfG-cl5UFXT2FRlMWD06prxusaZDCTRcqvApO5U0K8vvqNDLCQLJ-S6K3dXVfZZj6fmbI49oqcIjfjAEgAxrrni8acn5cO9WFV91Q-qY0ByCo_lBW3vW-dXbscoIRKs-CNJwzvEFdu_ojqLgVPH2gzlNhjt_KIrzo-S0EJGgd1Kg5r57pwYb1766zU7yE-NedBn3AGMSIL6qlVvl6zS8b2lBkPpmyn02zib48dWPWlcffM8PDmUxF4",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfUgKVOW8rt-Td43Be-MV_cgVFatOXUJwKKNERvR4h6IJq9pSO3eSwQSpVMCmx2pcG51EhJLjDCG9WSMharrrQuuN9r_lY1eRjBlE2vKIq2jsQGoraJ13EV8HRYU8nKq9uBg5qiQwq2cPcs3I21h6fo56dDxN-sXO4DfB8ATqckGhHo0_i49XQrGZW8XSB7lq43bpj24D7_3vQK6tr1kOxZN4X5zZIvx3xLbt-sBWU6haAyi8tpzRFrG2QKGAKzrnX13Jp1hd21q8JuLpyG_zr3Z8UE0sr8hVvyt5Djj_L2tsO9gbnrDT6iskGCCdQdC8tiA6MDbMP145IQyrwaMgyJfw8TJmIbk67UGUsAGjDCxHY47inQ13ubh0R3UkjVWUJkGavWc3FLmNpQlXe8bVfoJWs7jYAL7yLGym0MTbN-qvmPhLzd2ECQgqJTbv2QC",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfWqFxTNlEw-dzva_eI_0UCbIhnm0_6degsqrTj0aZt1QkzUQvImOKng3m42a_tc75tuzmbzda8gl0RSUpaNFBT1Hl7XXaYuzTFF_aWMHQmxIz_UtPLKawWK0GV69X9q57YXO3CqhszbuEkslHowBHcVoSEGQQaHVHB6picOYKKYdendoxKTlHTQ-hxCz8lY4nn7ha0F3_5QAm7d6slYJ6284-JCg2r23VDDSGOlfo_7WK0vgQ7iyKMfPdF0QvKEp9jX6Zy3AXz7p3CS4ifRvZ4ZyVRVCscteXuG9GhYUClfkaG1xmMTwdod3uCbUIJ3VBrcIc1EiO8wYY347fcO0lIie9O5Vqp-lMHjiILi03lbqjKt9OcKXtr7dBRK2aNkeTrhKRYZ2Pp6gEl_bUSEMqbflTgUcadfPO3O4kjFRqr4RtKMxAnlPJ-rEaN7YaeD",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfX-sFPQCCxjH7kHDh_2eDev212wF8_OrfePcS0KqsxYbSzbVVIx7jFhqTZ3th5LdisKc3tK_-Tt0klIU6j5EkgE-sIBZSV8vGJmOsNexUs6_1JPxH7MSDMI8Fo7umdD8_HopR1sTrWEg00LyzY9BYJEydtkgWJcNd3-SOsns6yzimFhd9IjlZdlRWpLggEgS2m2zV1AZtkyhKr_6HZbiEYLeUex3jkbfkXSV3V4AqJmnoGByYjjDIJ1PLG9-Zc5Obji0bo4TfdJlIyKcwKJjvqF719ObbvNrQQSzAiyYgYZgE1MyYy_KlpHhTJOK82-ggSc4OQlChwS-1FNmgABxFgkgLBhQTWk8T57Q_p98D_xz6tCJ8-FwSmOOdwJNPS8yTt9lLDViXQGxxNAfOMt8ZBeYOzgfegiyNRDom2OoY6lnhMe6W3eW9bvGYdHbeQD",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109687831881028887202\">anika</a>"
+        ],
+        "photo_reference": "ATCDNfUOdppFj0r5-N1fhAMQ57lddDBKoPPZ0x_rAfaa9eJhwdYDefm5Bp2QQMmnP88K7HDgWjofp00nL9DqYYCwJnwglY8G7vsapOu_AD5zyiEGV8jwUj7yg7WmXrDaT0kaZFcD1o_XV4EcDRfyS2BbiWfAaKbt6P9ng69NzNOSCMY1EKs3dTV0j_vCPTzgTbct5uQDALKso9KzwevW5dvtPAKstAfg5AO3eUcepF5g0wRT-ZuxpHC2lsJUZZ7tKDu2_FxTGbko9cnFCqf6i2PGUzW4eDH8j0XBWk4uUZ-oNmWu6JMOsw4tAClCC0ULqUVDntabDb1Wk0RcUELW9G-7y-i0J3sTHgs2e5lHRzwGnD06LGEvA2XFxHYn6hnPPoeF5o0UGzpSe7Q8eaIYMrEApjU4w48YNVpb-JL9_oEFMuCcDAdpZT5udSKcqskyvw",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108337021180260241258\">Judy Hung</a>"
+        ],
+        "photo_reference": "ATCDNfUNMnX5_--d8sdH4TYMp90XsXC-mqc899SJFuIVFHV3fk6hAOlq2sE3eOpk9sVdakRuM0j9FbCScTpDwkMRJJZJZ5WgLOh6LR1OKy7Q17YBXm4PjN9Z3GjqeDMh9jqxM6rer-YzwhFluL8dew0k05s9xh5cKZ4YHRDQbdHwCPORxxaHlpOxyMSKIcXEJeskV_cZXTB-CKpEyfKDOUi-OnMXctao3v98G6xAcvkN52y3QYUqx2PuWG6VkJc2dWyE8vXxa1G7V5GZyp4BZMP82oRpip8kkiowqHiQsBVFmUI_jy0MiAM1IA-7ri2FE0gabwdd1OXjAZlN1lbymnj2bGNj3fDSv-kvmNS-hAsONwFh-Mbe0NCgal74OiJPJzBsVjcTUh0e-59FUr-6HlfS5i2R0z-sjDZIf594gtTwOj6qHWghJ8c6CGE4ytNz0w",
+        "width": 3024
+      },
+      {
+        "height": 2256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109553085909048586425\">Kirill A.</a>"
+        ],
+        "photo_reference": "ATCDNfWcs1EPUtewgM3AmELEbq7AsgQVHWXvWi5chAnK4GrErbjokqYIUkfYq4oxeaQMSaxt194bnrWIYKbVA4PMAUDg_myPuuJduTfhCDq0TJRSlDIhAPpSvTNZMrklHqfqEEpqnS0XxnbMHKX1oALcHxObcMf_p6H0JhRjBPCWaecWVVcXuEfoK9haR00UwOxMVCA_69zZvGDHNEgaPTYbvyR-eZGF7G7Zix2_EjvRlD-qVAJXfU3nN-nIWrdGAM9-9SNuOMkaC6CQJ2BW0gOoqOoqE_T8cUDK7lkH_piVwMc1y3cLWvhcKOQdcPxu0Y2tILrm4b7qsVTo7AHy18rM2zBg8RmnJRbJ-6-1QWALAmP-SdnEgznfrJbijHQBQwx5KHqyomTVzMHI_88TsIDh88U72SnTbqAq51c24T3SUOf8Pk2mV-qG2z2LGAKtPFrP",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ_83rLDs3yUwRsdmMuP9wEsc",
+    "plus_code": {
+      "compound_code": "CX32+CH Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX32+CH"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ_83rLDs3yUwRsdmMuP9wEsc",
+    "reviews": [
+      {
+        "author_name": "anika",
+        "author_url": "https://www.google.com/maps/contrib/109687831881028887202/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2QMzMWbu5Rt1x6ZoJN4VxIYKXLp0t1vNazD3tu7MG5TPVRXg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "really cute store, some miniso look big from the outside but have very small selection, but this one has a really big selection, even had many skincare products\nemployees are very kind and friendly, great customer service and nice athmosphere 🫶🫶 forgot to take more pics 🥹",
+        "time": 1766612839,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Such a cute store with everything from snacks to all cuteness in life!",
+        "time": 1765741928,
+        "translated": false
+      },
+      {
+        "author_name": "Mimi A",
+        "author_url": "https://www.google.com/maps/contrib/118009725910164201280/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIza99N1vZskXQvR0fJuSazBBlyh04W_MNGGNRvBK3VaLcUOw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I really like the store; it’s very nice and spacious. The team is very kind. Special thanks to the store manager—he was very helpful and very professional",
+        "time": 1766273248,
+        "translated": false
+      },
+      {
+        "author_name": "Marie-Anne Thibeault",
+        "author_url": "https://www.google.com/maps/contrib/113098807837372009446/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1xlSlEs7g67G7ZbmWl48oXZ4A4xTSHuIncQBqL0Kzga_hoPIZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Love the place !! People who work there were nice even at the last min closing",
+        "time": 1767312250,
+        "translated": false
+      },
+      {
+        "author_name": "Mohammed El hitar",
+        "author_url": "https://www.google.com/maps/contrib/101187966346868507216/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3nbY-KnMvjx3-QiE-xdQiF1K7B0aR6VOfjEB2Im_0zcIiAQw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very nice store friendly team and great customer service highly recommended",
+        "time": 1766184551,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=14344652006743660977",
+    "user_ratings_total": 23,
+    "utc_offset": -300,
+    "vicinity": "146, 3150 Bd de la Gare #118, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

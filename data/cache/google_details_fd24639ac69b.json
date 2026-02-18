@@ -1,0 +1,446 @@
+{
+  "query": "Supermarche Don Quichotte Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338988.0212302,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "110",
+        "short_name": "110",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard Don-Quichotte",
+        "short_name": "Bd Don-Quichotte",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "L'Île-Perrot",
+        "short_name": "L'Île-Perrot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6L7",
+        "short_name": "J7V 6L7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">110 Bd Don-Quichotte</span>, <span class=\"locality\">L&#39;Île-Perrot</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6L7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Sharp, sizable supermarket offering a wide range of fruits, vegetables, breads & services."
+    },
+    "formatted_address": "110 Bd Don-Quichotte, L'Île-Perrot, QC J7V 6L7, Canada",
+    "formatted_phone_number": "(514) 453-3027",
+    "geometry": {
+      "location": {
+        "lat": 45.386786,
+        "lng": -73.961018
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3881935802915,
+          "lng": -73.95989111970849
+        },
+        "southwest": {
+          "lat": 45.3854956197085,
+          "lng": -73.9625890802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "international_phone_number": "+1 514-453-3027",
+    "name": "Supermarche Don Quichotte Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102994214367392154121\">Anatolie M</a>"
+        ],
+        "photo_reference": "ATCDNfUkPvvU9FyinxC3OiFJ6fNmh0fT45TPVcattA1pTf0djccZSewck_lr6XNfBbCijLiHLYHqzQAns7qnS4Pz1r0fGL9x3OTeQybDTePGwjrTB570KGAcGzMkdIBG5SxAx3ObLNdPmqH4Wvz8cWV5t_EfCag8ULFtQNKXEA3AExgMa_jIxe-EJutmlY1Ca3jxntEhV8soySLLVcCSyJTlvuWwLQHBFwvow6W8fIjE4fhvzNCPBA-Y_YlVRBlljse6mXvZ0zWIEUgXZ6IK5ZtWCl3KebXOXADQAaA_P_F81hj6J1QBiy_kJhPbaMvAJO9J-NiZrDkJgSQ6NpEHFq2UixIhKV1HWaHOGKnA9mUZs_Gr2dIDJRKTpEH_VvfK-kIPEvNkmwgJ5ppniGlu9O9NLN9BgnMfdkSIdmbPQm1_EkobgCS2",
+        "width": 4128
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118237882671587693179\">Isaac Marmelo</a>"
+        ],
+        "photo_reference": "ATCDNfVCh4NduBNJb7plRbGwTMEEWuOrsa_i573mijZzX-1xyyKRuU0Fk1sSQmUIiQGx9I0xJKfTSpli-gD95qX-tJE9NklOeY3wads2_IJOxDPNkHDmwPXEmyM4HaPgzBKd1uSgqp_wbUqmzKgdFkavlZr68WcTBIOEhqVnsiuDJTWQ6zyiAQTovhQYZaYH9PX1hpaeIvonq2uKsMQi4q4i7Lho80Ve7QG6D3qIbcViGjCizZlxtTE93ci-Dx9kfsfuXxaUiik-NdImFWNGe_dLw2S4kTeKorctwjbekgJJin2D6iHRTTc_LrKMFau-P_WUjw1CAD7ekYv8JUuaBLi4mx8--yzshnUMgewb02j2gM1KMh8ND58JbxC4HAiFcq9RLBWgjNKchz8rdGMzEswgP-38baBD6qZqZRT79fvaprwxjA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118237882671587693179\">Isaac Marmelo</a>"
+        ],
+        "photo_reference": "ATCDNfUACWGEjRQZbWX_C7dFDIqETQBwxR1bIp7eWMioyDMuvRohRlmuyyCRJvUeforr_E1RJ8VZPVLD2DwDHil0fXxx-47Y7fFI8QBOMKVRM4GAAfzpdvo8zepORGfJ8g-WfhoNQNsvPH7_OMx3FipUgg_HHomoljoyBcRYirYfCQwPDZgcSQ7kV9P08UC1T7-LAKDcMA4b8u1DACyynVDHjhBxIz2ULfqr1Wz3R13-A_WtkJIwcAzNVpCUi6is1PF5z5QEwrfG6vEKaG2xDbbQqgYwoAW2EtRJ1IwAPd8jQ9nPqdEe6edxP2M83ZUzADKt33IQig5Xh6_LS6PAlAXJzpFaePA26NTiFmZrOQZRtrRLs1UZ7mR1n6jPir4qk7qwNx54oGCxs1_0q2GMi1plIDUbwx1QrDtMmv-bp1I85N7jBSWr",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118237882671587693179\">Isaac Marmelo</a>"
+        ],
+        "photo_reference": "ATCDNfXPLiXNPqEEcCPAZKR_3wFnBOxD6OJ1GZshs_jWp2k9Ghxr9_6eVUDeWkv5Ez5_3IUmpuYpul1D8dKim5kwhG--9VW7GaOyjGjGYEgc10wNKVk_9qkYsh9Wtc6eJqsy7YW1JKs80d7e6loIv_pp4HljG2_VLoo61qOTJS-eFY4nR4bGwIxJayYhbI4_yZrBv-Q64xIVF-jHZl7gQsJh06wZWps1_lfJVUuHqlSCnYnSOOmj2MOx1SJvRDywhRX8iu_s8IvIQWPbm7PqvnBVD1rBplSDsIH0tMWzb34eerewFMZqaT5tboNvubbAL3k_l1bQMFQNOUsoje3ZNGjhQFu2Z5NTg5aJxLspVFUsws1KB0Ug4yDBgXNy46kfygpTSOGPW8V1fbnydautVZvr7CGk5Z3QFvAPnDdNCL4z8TCMCCqx",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118237882671587693179\">Isaac Marmelo</a>"
+        ],
+        "photo_reference": "ATCDNfWiCU_fr2dmaFFhNN6ex-wxGZgX0ndw-U95m9xH235o__Tvu9T6E0_laBZJR2Dfcse3leFX6n5UlVNO1rZ53vFWLQG0qIUDRnAJyyrZCZbeies-hykE4HKCaUFRtV2tiiYlfsLak7kfT7zz1sgT67Ix2eNI1otqVR9RCDb03kJ0rJnWqCod-SXcZ6LZbYSNkTqvizF_9aqtdUVuF6jeHg61zCGEs4bNPE5JetzaGtaBTpKDsk7d0zYfTcNUuG0TH9xDyOGWQIavYKyJ2nYe54cGX-uqsiIaE113Mb9nG3W92ulGK2e_iSzM0jFXb9-RN6qv5s-xnn3kdyV5YOwsxgVxes2xBJ403m6UPUK2GCRTsQnR-oqOtOMucb6AxVa1rp48JrzguEcjUSruaQxX2QQyPx9d1kSxogVrz6XBI_xo-3jK",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100566936873815596323\">Muhieddine El Yafawi</a>"
+        ],
+        "photo_reference": "ATCDNfWZuufiZaX7ngLEw8JMkIpIh2_Fg8qeOvl3rYimIcCIZifebB3d6pCL_N2IY-SyW-tvxLofXlsF3S-8EtJ4E9nrExWszohaIYKXMfSOJ2aiBV-GgcxwhzN3zvuKXpwqvWrlCaxPN8rxZYTH8rnoNfRoyEYx60XUjvUudHCy01UR3G4rv4zpC9oPD3PzwijUDODPltmbisKJAo3sBW73dJWVWKoeJ6d0pOm5iUlc_zss8bSd4C93mWq6OiXQIzoy6AejWokmdrduB_0qkEQot8wEr_Z1jCmBI6eEdTmB-pR3wfEIsweryVOmNkqFKt86Qem31Jlb7c-bYnqzvOk5NLCqHo-MxvDeiypXEefVfnA-c9Ma_FSd1PWsGVpL4qXiKM3ISeSV8iQxD_pYY_d4rlTNiro7-6dcJ4_woDqdpLNM3hMo",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118237882671587693179\">Isaac Marmelo</a>"
+        ],
+        "photo_reference": "ATCDNfWUv7x1fKX673_JzvCBuYyDq-UNBpYCZD_Ibn2NnJ03qmwx-J0IdFV-hAT-eNxfEO19n58emxeQnQwOhpTfsxmOLgpL_QDt95gj_WzDOh2lFk8M1kECTTpwaO_6Vnu5feWiwvgIq-5-_e1V8qRIebM6_OzonX2FJlXZNhN-mCpCKBaIbVApr6eNH4QsfifliDWAzAmYQ76MNh0wq8jhEMicM34YoT79_mZzZSdqdUs1_yh2UkB2WJM3YoAV-9z62Hi4uLBuliPiqPowmNoRELeh4z4IKnmHK1Ri2VPZrgVMwXVTgkiDvKv9_yAmFo7vA_rmrxL-pTQ0llKN1iTRusT1P_FOTouJ_2hYBYn-yS7rJxks3T_z6OWH2Ga1wWV63SKpvopZKxo_PceeZni7YyWIU2MkVEgqfo0W5WJR6Vrtldbs",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107466471852928356998\">Colette Tremblay</a>"
+        ],
+        "photo_reference": "ATCDNfVflhbdZLP7cnyp0i8DRFqlW8O912IlGD1vJ2D8aGqzNBE6CSG2XEn81D7bjNQXN4noFwhUcgm52hQii1SscYrbw6IEZQD-lDQ42QV13IUTvKy4jgxKePgWOMA2AksP-6B8-jigMEUfTLvs3ssEsIFTFFygIzJo6-YpzwaBvEFLj7C761ij_0IgSBpxs5Zgd0qqaoQ4hp5NSNxHQDgNoCpdS5aM01bPHz65Bvi9X-3y0q3Y5-osp0U1jJdjoqxzskop_HJ2wNpeHaLnle2SCLE_8E-tjb2_nzj-dLA2ausfH6nfubF2qkEQ7mDMn-riFa85_yKtzy-lTwwXpxQP8XQWWtsSnlZZcSV1mQFxXKa7JxEY0BcKV_bf6KMZNKy23oTeDR3DQEIdzLpn8UubZ4ggkglsRyHJY2B-rFYl57E",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118237882671587693179\">Isaac Marmelo</a>"
+        ],
+        "photo_reference": "ATCDNfX1BtdU2IIBYwp-YDdijrlE3mfoz8l5yS2-A29yKaOaYGfcWwPY2wuvF9U13kWqSuoVDjsAfynZ8kyGNOTVjnejjgHQzH8VgSl4sJIfHMzQ4jwgq1JCOlg2rro2gJ_YpmAFSzdxOuD0CordiRXfem135YMI_KDYoPn5Z3WRRkXflYeqhs5sJz69fYKjcgkisy2Sd5rDcxYDUwpbJN1hjNk-ZE56UhIIG57QDZVljjAho84UKeKiNuasgWnIS7m61_sqeUXd2y1wTxOAARIvSLMQ1QmaEyYIygz39_wjN8uLVWTmRGz80_62VeQxIEZEkoGz1OQJhG21_KsQ1G7U3dKnlHfsZqxdcdio0iyg-cAJndSCoJqjXr8gOrJ8lYHYPQkgqmnvJeTxnQopTLLB0631olCWkfkFjH05v2s-d6aN_Q",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118237882671587693179\">Isaac Marmelo</a>"
+        ],
+        "photo_reference": "ATCDNfU1kW_cxh_syVbiI-eDU1VvMbo417Ib0dPrUHK26n_2ThpvAk-MdVal58IT__lNMeYdNdlvyWLyKu3xKkIiJpg2BoPnCecWE016WpYY2CED_vp3UxAHLi9kBTFy1ss8kCtSyPxi9ZGkPAsvg_qcUkqW6r16T_rL3U5S6QOoA3jL3zsO_UoM4oyWiIPYlQ6tjWF3ZeaG5GMLvl937g-LfrK3PIYKZp5MKG9D3xM5JswiEojYmzkscM4xSNKAnll9lvMNoU5NFQkIFXrgXS7cM3Qmpe7FsOXyugSGSO31j-tG3fE3QKhUC2beS8kivesce7mWdT8spi8pKMWYysz3QewW6PPIJFtqK-nTQ6CASOYYZgWuaUkmAGjpySNnRgBSDRgym5eemCtOjLexZine6nPkGMghHyhmAYS_ZOUgIIBcRRQt",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJbWP4OXI4yUwRzARCAOL0LBM",
+    "plus_code": {
+      "compound_code": "92PQ+PH L'Île-Perrot, QC, Canada",
+      "global_code": "87Q892PQ+PH"
+    },
+    "rating": 4.1,
+    "reference": "ChIJbWP4OXI4yUwRzARCAOL0LBM",
+    "reviews": [
+      {
+        "author_name": "Madison DeVrie",
+        "author_url": "https://www.google.com/maps/contrib/114349142096435148497/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqdIDjCGjp2A6MzZQHB_OKUSqv4A_12a3MmZufQFp5vHztQA=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "Always clean and well organized, selection is pretty good in all departments. This store however, is expensive than most other grocery stores but very conveniently located and thankfully easy access from the direction we come from. Had an excellent customer service. Overall.. shopping experience is ok.\n\nIf you want to save a lot more, a 5 min drive west down 5th ave to Pincourt, You'll find Maxi and SuperC right next to each other. Better prices.",
+        "time": 1760115985,
+        "translated": false
+      },
+      {
+        "author_name": "Angela Campbell",
+        "author_url": "https://www.google.com/maps/contrib/108917308413117968432/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHLfDyO0aD4A372jVhS6ixCRRbVmpdelnLOcdrxI-3YQAFFz4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "a month ago",
+        "text": "Advertizing on label \"quebec\".\nActual label on product \"USA\"\npas fort. The whole wall of salad products. Not just one \"oopsie\"",
+        "time": 1768342914,
+        "translated": false
+      },
+      {
+        "author_name": "THEprincessFirefly",
+        "author_url": "https://www.google.com/maps/contrib/114106664672939829575/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeA6U7O1GTtxzSepwMysnzOtE0ERtddSUbRK3HYBJq9rLwWe33=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "No now since a bottle return center opened in the same parking lot you can no longer return cans there! How nice, it was nice to make 1 stop, return cans, you bought from that store and get your refund while paying for your shopping",
+        "time": 1768672400,
+        "translated": false
+      },
+      {
+        "author_name": "Nick Kossovan",
+        "author_url": "https://www.google.com/maps/contrib/118239631931287046011/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHtVHJoAQb74yolLGk1cKvLJ5FQjpwP92K1xLdjIc-2DXo6Cw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Many would say, \"An IGA is an IGA.\"\n\nWell this IGA is a level above other IGA's!\n\nHaving shopped at this IGA on many occasions I'm always impressed by the cleanliness of the store, the friendliness of the staff and the vast selection. Shopping at this IGA location has a European feel, which I like.",
+        "time": 1697210153,
+        "translated": false
+      },
+      {
+        "author_name": "Jacquelyn Panek",
+        "author_url": "https://www.google.com/maps/contrib/112357967963452250240/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZWLj3EpRfW1Qg8M1LNkgun-AKxWO8-ST7h8FsoRPn9VmMMtza=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Well stocked, organized, clean store. Nice place to shop with a lovely choice of healthy grocery options",
+        "time": 1764116821,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "url": "https://maps.google.com/?cid=1381748437200012492",
+    "user_ratings_total": 942,
+    "utc_offset": -300,
+    "vicinity": "Parking lot, 110 Bd Don-Quichotte, L'Île-Perrot",
+    "website": "https://www.iga.net/fr/recherche_de_magasin/magasin/0282?utm_source=google&utm_medium=organic_search&utm_campaign=googlebusinessprofile",
+    "wheelchair_accessible_entrance": true
+  }
+}

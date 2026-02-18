@@ -1,0 +1,415 @@
+{
+  "query": "Rockmore, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338783.0200837,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "208",
+        "short_name": "208",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Valois",
+        "short_name": "Rue Valois",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 1T4",
+        "short_name": "J7V 1T4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">208 Rue Valois</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 1T4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:30 PM",
+        "Tuesday: 7:00 AM – 5:30 PM",
+        "Wednesday: 7:00 AM – 5:30 PM",
+        "Thursday: 7:00 AM – 5:30 PM",
+        "Friday: 7:00 AM – 5:30 PM",
+        "Saturday: 7:00 AM – 5:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "208 Rue Valois, Vaudreuil-Dorion, QC J7V 1T4, Canada",
+    "formatted_phone_number": "(514) 963-5371",
+    "geometry": {
+      "location": {
+        "lat": 45.3840983,
+        "lng": -74.0159224
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3854955802915,
+          "lng": -74.0146146197085
+        },
+        "southwest": {
+          "lat": 45.3827976197085,
+          "lng": -74.01731258029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-963-5371",
+    "name": "Rockmore",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 5:30 PM",
+        "Tuesday: 7:00 AM – 5:30 PM",
+        "Wednesday: 7:00 AM – 5:30 PM",
+        "Thursday: 7:00 AM – 5:30 PM",
+        "Friday: 7:00 AM – 5:30 PM",
+        "Saturday: 7:00 AM – 5:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108701977758616724587\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfWyVjXL4chcRGeNzMLZmgAyVdvfx6TJGycSnxzhx6jHdDSEyeCLGjIb0_5QNKG4xwZqGIebCb0XatTKHm9xX8aVhJnZI1Tuw6uKTKd-fHGX0AF21knYFQ1ejC0xWxsbDAqm9M7Opx93prtTpOjd80EUxqqat0yLascg5cTB1LsfyzGaqcB6GuEP0EwKcmNDXhS5KwT7XOrLqEGOUAXzi9-f8zXu1fHgya-gFxAuCie4E2D6KBJu3BkCd_wT8yO8QaVxk1zMQ4X48g_Bxr5yvazTnkA3D8xGuhoJOgwhauz-WA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108701977758616724587\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfXZT9secDicPpt1YjzK9Vbzb2ESyBFvzXk5ZBniC2gyTFvqw8rGqafhbRmYOZb8tl166PC0FIOqpoiT6JHF2Jgp_SU6aYd2oNOJ4os2rwQBbu-OJBnPwFDrOGfkufDpKRUWqbkcKE-WzNBRCbOBfbx2Jj6SUGk3TCRZBT0vl8_QZO5RsxsX0fncgJTJcUHpF9PIn75ELdi4fyjnA9CBFUXuPkLMq_VIN1fGo7QMv5DR4t4U4oUHWmdwKdhlQx62pOujYUtxwmp1sqLKxPV1RWIq90Ir-f_-DTtr1GoT-pDz-A",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108701977758616724587\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfUBB6KbjRO-dJ92x0rblnRFgPkPLpyEqQMImAiAauQjW1wZgmmZ0V_73ZhnyoN1_ZSqKfjQObqyI34X4EWIQafl3Ud3OOl7XptuJnw6CoqP3GFsvQvFcgi-VZkfKxq6QQlc9fO1eQHxxpFaYW5msBJbJRIjPgks1VIPgM0XFOgH8-MPa6Fxv7fcU-7cfdakMzaVcmS-Hx6h0eI0ZonIqLcxlK8lN89Q_mFDTS-ItB8C-CZHeyMGTNjYKGyyBcPxMaO8duKkSuYhp5_tvn_s0hCfvgkSr6Gg3ER-7W7y23Bu7Q",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108701977758616724587\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfUMhraA9gBGNR_K5bkfsnVqsp4Elx1glaxsyykViSDK5_OD-svxopBSwZSW_88O5arKgJF456AzjKxDe3_2kTU1RL9Hg2mS-qvAfGxx5HlmJ5OmWPcSB4dvPJQ87qvjmMzUOFlrOWf6XZ5X6zVHZCXc5ZoS-UzGN-7FNZje5HTFSUZLSWaWL6lfHHM1uPC1nf16NH0oBPvCqKxr-ejPlVcgDp9oAcHdBZTgIajBg_fAgAWRP5SwkHWCvijdZJyFRjVPzrRaErOp_qVfqaarTvmbfDQguFqzd9kfL7wG1dPGGg",
+        "width": 4032
+      },
+      {
+        "height": 2617,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108701977758616724587\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfWqvXUCCn1G22EmuAYpm6LFRjRGqI3h--z6JR3jjDmR38HvuUARKeNK2-eB17CUwq0_fy0Pn7uSz47cedWM2LttktH9qvc5HtfM1iuJDDo7ZtS35l-kPZgRpSM4kwjnXffDrvNVQrpp6TqC4geUVGGP1799AhiiRedbWcUjiNCG55kyE_U8yeffNs0oizAWLvqzGCRlyeLvSWcMUggZn5bNIYuLOlkDcfSuhwnXDkzb-CkE38ofwedINf0_pz0aV66Ym1PcIa9HPipNM6RDbUtXOnNd031SY343rBoG7U4PKw",
+        "width": 2970
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108701977758616724587\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfWKa8b3mrUqgFqZqF-wb9K1zbN_CrpRG-OYw1ueoB6RWNndqCw65xKxGXPDsDshbUcgRp-IPSp80ah9WnM3LUeJB563GSJQDEj4RwIadFdIR9bdZwh62dBxHl3BG7FSr92XqBfpQP1TI1GFNEY1xjeh1o7kG7SeiYoDZc9X4Yl0HEInnerWd7ARs8peuetBr_1mWQ4a0YRzG1_hfHtKX8p4zg2rm7HDSW4p2-JKv5hKRDOvmnozTeGrwD9i4V1Kmc10-nEXSFlIp_7WmPzZtkSpcD6b88JZlfW3GsJ2UHOCMQ",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100859665391353040643\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfXoOFDFbC50SGeq0IwsntSS_A4-oE9vaKgRdLGGrB2Y9OrT6C9Tc-m_HiO9MOhc9h8cUdoHe5MIHh5KsRdMvPZEmARpHN4L0sdqfBeuWb88zPSyNd-Cq1x8K0d5jqORnqKgUhvwRIk1EPvVeBe_3shLCJZXVfZx7zA9nV7kePBZ0lKhKDgxngxbGEI448v4j2X3_zX7I3P1rGCHQG7hMQUcLg5IRpTkvKhSXCvDp3jGDBfobOegsPxJ9rgPWAFElcMQ0VGcWi1yJ2moOSFYxo7hao89n0n--pgMHV5I_Cr-NScCfJfPExfCs3sqVOdKD4RvrUc60OBCxnnTldv1kh42w9bEimo3DCIlAF0rIzWE8XzcUSIG1CuCZg1lkSrSxEXYBopN_l43eLh7UiesPQhgPfMPoqGjhvfD6ThVtyEf_w",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108701977758616724587\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfUT_pcTGs8Szg7YdQGck2yh3eIAe-drWQJgDg5-Ak70ihadQ3PlMl_DfY2hZVMOW6ODwyT_tdlsKhLNsR5taNgDPhtAWvlj8CIqNopDDDqX0XFAkCeXkweNV-ak6mziScE9wi8-a-tKgGSOhKWdNmDWnRdLNkhlZNdQ1gh-qHQP9Ls7gRGZcidWavz-YosJbp72NaLlAj3sYYbvFXTBkYjV35KP3fo2kPXLIZUv6I9AFiYO8wGLYS3Qs0ypeWUN6CeOxQsv3G5jP2AWSh2x7xO_B-FCutbvNAokyqbAngbTqQ",
+        "width": 3024
+      },
+      {
+        "height": 2556,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108701977758616724587\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfWgXgPLE6LlY_2m10mgS1iCVGVSkFGT0oseQ1zHixkOejorIasO0_a66LabvITwdj1u7fUibJoInMf6GTpsalaLQkAWVLQRHaaYZEBf74cLklryrObnRq82YFzmRM0cDm5q_Po_n5NI2p_MjZllHJjQXGHYLubInG9fQgF0tnaoQY1cqjNdZBZzv6XEv3_0VJbyyA7wdm6WZxnstqATJkbVs6rE2CiMed69AMns3s8BMT4HmLdVo0nAIQPsggwIqPpsduZpWvKEYmdtccnQOZS50Q40yOY8FiUPS46mxJKMhA",
+        "width": 1179
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108701977758616724587\">Rockmore</a>"
+        ],
+        "photo_reference": "ATCDNfUq8e0F9PIcK6-tNQmjWvfslA8l8oYd4ZgPh1mTWVycfrisk4KKncV6PSxEGOwZmlPnTNwiY_EaiNI0H9R2N-mb8TKpKCN4dIMEXBUiLszgjvIw24k5mBEHur0HoK8mXCQJmOPKy_s73bKnim1d2APPP--4t6IsYcmEiqswxWibVSuvNLM9JrkckjTN932RM0g5SqB2Tez-M5pbPNnJDZIQ2j2wb2foUjoZjtsv-vlByjvj82pF2YP0rkSC2mBh1rHFgajFiaVyrepJiJlV-D3uMJNgV480qfxZ8rJWg4sW5A",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJ2_rNEKk9yUwRKw07fKtZa2U",
+    "plus_code": {
+      "compound_code": "9XMM+JJ Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMM+JJ"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ2_rNEKk9yUwRKw07fKtZa2U",
+    "reviews": [
+      {
+        "author_name": "Jodi Vergil",
+        "author_url": "https://www.google.com/maps/contrib/106561989489908930507/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxkUUmL9fzXLFV8EaeM5-pRShSIC8OshPkh1fymEKv7-Z_FHvX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "They did an excellent and professional hedge trimming today at our condo building . I couldn’t be more pleased. They listened and they cleaned up beautifully.",
+        "time": 1749157483,
+        "translated": false
+      },
+      {
+        "author_name": "Lynette Gilbeau",
+        "author_url": "https://www.google.com/maps/contrib/100457044552203784937/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHF6avoqzURDihpWfIB4ZEZ5gvDiROdgXf5TcphHuF6sguvA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "The Rockmore team did an exceptional job at our property for an extensive and complex re-landscaping of our large backyard.  Nick and his team are punctual, experienced, helpful and most importantly care about the quality of their work-which was superb.  Would highly recommend them!",
+        "time": 1627917042,
+        "translated": false
+      },
+      {
+        "author_name": "Marie Hudon",
+        "author_url": "https://www.google.com/maps/contrib/112686846175318700554/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJY-dki_l_NJG4_q93i6ja5r5BfMJLgpU0gkZe6Hswp264M1w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "All the staff at Rockmore are AWESOME! They have been servicing our homes and those of our friends and neighbours for many years now and we are thrilled with all of their work.  They are the best and we have had many different landscapers over the years with many homes and are happy to say that we have found our \"gem\"...  Keep up the fantastic work gentlemen!",
+        "time": 1585591472,
+        "translated": false
+      },
+      {
+        "author_name": "Marco Mingarelli",
+        "author_url": "https://www.google.com/maps/contrib/111322457955328295749/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJipkMo23W1uHcbIn2OP4wDvYU3xUL4ZNHSlkDrkD9HhorEIA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Rockmore was highly recommended to us.  They are a professional operation with excellent know-how. Our experience was as expected: they are punctual, very polite and entrepreneurial. They volunteer recommendations, and respond thoroughly to your queries. We were very pleased and extremely satisfied with their work.",
+        "time": 1605554223,
+        "translated": false
+      },
+      {
+        "author_name": "Brenda Rodricks",
+        "author_url": "https://www.google.com/maps/contrib/110557053967916738197/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbQFNJHRaKVhjvNYubVLqFcPsQXqp_VfMx-TruDEtxkv6o4hWc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Nick and his team did a complete landscaping job- front and back.  Our backyard was exceptionally challenging as it had many levels. Nick found solutions to every challenge and was a perfectionist on all the details.  Extremely professional and honest, I would not hesitate to recommend them for any type of job- extremely knowledgeable!  Thank you Nick!",
+        "time": 1627927202,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7308033413397286187",
+    "user_ratings_total": 25,
+    "utc_offset": -300,
+    "vicinity": "208 Rue Valois, Vaudreuil-Dorion",
+    "website": "http://www.rockmore.ca/"
+  }
+}

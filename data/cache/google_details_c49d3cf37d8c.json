@@ -1,0 +1,395 @@
+{
+  "query": "Laurentian Bank, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340204.2199676,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "43",
+        "short_name": "43",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8C1",
+        "short_name": "J7V 8C1",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">43 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8C1</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "43 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 8C1, Canada",
+    "formatted_phone_number": "(800) 252-1846",
+    "geometry": {
+      "location": {
+        "lat": 45.4073311,
+        "lng": -74.0354507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4087377802915,
+          "lng": -74.03395546970849
+        },
+        "southwest": {
+          "lat": 45.4060398197085,
+          "lng": -74.03665343029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "international_phone_number": "+1 800-252-1846",
+    "name": "Laurentian Bank",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101159269297447281299\">Banque Laurentienne</a>"
+        ],
+        "photo_reference": "ATCDNfVzLnvu0fWmh3dI9EoJUTpdHHnrgbcb-7xLC_SFBxWoEkqewxsdYnwJ3PnS5y2t71nbT25GXQHMaP-f4eKIY09Gz4dmpAIzu2Um4xTGtFdfebeiqsgcVCB0b04Ox74dp2cjobZTiBImWGQSCsKN-nG7-OWbfUnTBWjlIIezR8QqtsvJs3dBf73BMeoxWpL1Eh-VM37lknvD1pQVjuH8bzTorCju3ylORCsjZKFkCvU2Z2NOi-qV5SPsv6hYgEPU23wYw7yg9UKj-qy8-SrUDLNFxO8LLmOWkd8qgTi65yqVag",
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109518713387718534621\">Jonathan Daudelin</a>"
+        ],
+        "photo_reference": "ATCDNfUj1peLVQbigUdRXNwK3nmDEtd42mmpW57S6pkXtQ5aGtJOuD5f8qWBTCLwpmp2o-yGiIZ_6jOwCEtyJXd_gNosAC0ZjqpClb6WLNsHU4-CRrvp1Rvefv5jUV54a7oPkrKzG7ZlyBFPh8qy9DMOcG5vVaEypNEA2_8T-MfRyGBaO_0q8C-Oap4QxSTxwvV8jKBolK8ghNCMwRTzVu0IWspRkLs_-m_VVyJIT5-hvau7fQGXxD4gj-k6chwNgHx1_caR3gSuxJZHA5sJxD7ULtifxolF-9ecRrA3uG3GalZ2htpZ_Pq8CfxATAMaB7Awe4u3ABbgY5gK5zXkmizFo1uebknvRLzyQ1a5I_yyJuXb7--dQEPB_sWsM0i13PTtI_m7kWRP4c1hLuXovSnO2bEsWk7ZTG4Kr7baZYq2vgdqERcUR1e6wZR4bI8cLzAj",
+        "width": 4032
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101159269297447281299\">Banque Laurentienne</a>"
+        ],
+        "photo_reference": "ATCDNfXNOe8f21Mvfne4voAO2GZF-5mJp3zfA6ogbg9J7T9n7Gg54ks46ZSy4H4bYby_-dG9d2bNtP4sbrJ7JPpcRBKlgpkXHAAKsKs15nGgCRrFnJSpyenxh0Da_bJKN3o4te4_4tgvmg35NzAcmSYD8MqJ_ZI-N-tQdQEAb1a5nzG_2X5mxDH4yTptrpaFeAhJqQ3YCB3OcG3ncujhWolEYO8uKkSWwxfe8HuyZLdVfRCUVluxW_jkxSTrhBEzP5DLwIDjkhMlmnUoSYOdci0_WFSjkC3pMLqLDSg0TTTGT741dQ",
+        "width": 4608
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116058188426882906392\">Randy</a>"
+        ],
+        "photo_reference": "ATCDNfUGQT1j8d64P4rN10oLmONgAlSTIurGl2JzvX3_0Bziys-YmwS4KZCuzNeEYVAcapSX-foy7sxnRyOoZP8UfJL8GabQ6HQ7ib1u4QvZ4wLyaWVJo6f_oWQMvDaRpX2wTWRUDgBgvzEqq-o36IW_GsN3v8kRRQSx-fpgW33EYsSZtkydFZ95TjiPn-9VhfDPUBXe_b-MU_gqAPQDIFoSdL9WofYGYYVTSAUEA6ryYrPHCf7gbDjQsgFQguSCl115HJMHrgyuVVmko-yOE5rDk-x-U8MOmQCkfCtUN03e93-uGylTfkuCbMPPau7Yvvc3MWAbJKNHKkuZJtsw1vwl_89YXtSyMIl1auuEo-BFaG6l6LDQnbqsNosNZ1s6RtvTS6cPxLewtbvvT6gmMVWHx1t9tMGW5vmJ5YJeQJojxrtb5A",
+        "width": 4800
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116058188426882906392\">Randy</a>"
+        ],
+        "photo_reference": "ATCDNfWbNA-cA41Wj1uBB84UASV2NQ9TsPbU4OCCzSCJpnHy-T9zOpGaOzfPHd2T0Dmh0tFXUueVqlDktu1E94LLFynVDAhEtI1JQ8dbfTRMhVHhclLwTJV-UW9jvmDjNMdg4RrdKbB8ot8fxPN4v7vtjDR9f9i10cUE88jqNX7yRBM0MjSJuVOCXEIZT81mpSzDlo3X3Kc3uxnAxDEQ8s8u9w86ZfVKrxWtUNo94D8nrMt-hya0Uc27_uDeVkP8kq3rELtsj2OClfGPPq6o6-MwhtLKBSl1w2_n1sHmFV0wKBmTakfPYJpAmhCUEhIJMNxlgk5Q88072rLV5RNpLJGbdtoIpnxB8NktHFpVoQBQQ2tpZvy4Wti9Cm5b4jznQxslsvlf5iNWSLgXwRYDskmoy8oeC6UBfx_C-8MLovoK0Y7so92U",
+        "width": 4800
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116058188426882906392\">Randy</a>"
+        ],
+        "photo_reference": "ATCDNfXHtNKvbXVsE4gQBIFE3FGdlyooExTV5PhEFwJIsLNO9-ZPMLHU3htljqiziZgqJN-NlfpdGtyAlJuS3kU3DM0s7lDo2P2DVur47hKMLsV9HZaqBRq7cTvtxcQ5aRUsre0k7u7CF-mZF7XzJxKtTw86GhVXsMf-q-riaUx6O2KHRcVcY1ZkNauZZ7fxlxnvXDsVmdKwN4aM_iLaW4C84VHxNbwPEF1wl9tNFCFjgUUEoXXkqLKac7OtO0H-bcWi7HIwlJ-hUlJzjqEAvZ8l1amCIIXVEOa9pcPUDmlch46qt5hHJRxWyhXStAEDup7zh0-HY4rmUgjDsPzMaqg2gAweP73UfXw8lbNuWeEyYxQ3jurTAJwzzywLHBi8KfbxQYRv8hC7Vo9N2NhQT1dLpKUORgb_p26SSfazlKYfS5q3oPI",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWIaOyhtaHN3_ePGZCJrvFd8HW50wK6eblaBN3fF19T6QgsFGw4GB6O9-rPMVwLOIOWPn9q4zrKAPDHntdLfAPHzS5giV2Cfpd48BsJYTHjgdAt4wSqkrZLA4l-mMPeEYc6AWA3qGLuOKGN81QwmH3vM1ziUKRJ9ZrpzyCMNivQTGQ4oUQZZsydEHJMm3kCxZeU6e5d_-jijEM9Uixvv69on6oyogqPku1Qwoa7IIWkg9J8bIqN1VdoMeALUxE9KvYtKsxM4D2K-3pGJSV09CUZcoHIsWrkcf0TKgXtEtG5HaLv4qDrsT6G21MKV4nWmj-2oWimBD6Ke0QdkWRweXV-ferfYhhk7ofynF7s64HihOH1F4eIJi5Yv13Pt4BC3wCpvRujXtija5KvxbM3BKyNEVuOmMR6FchB7cLsfzRo7pUaeBclBwRXhH_VsA",
+        "width": 3024
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101159269297447281299\">Banque Laurentienne</a>"
+        ],
+        "photo_reference": "ATCDNfWW6xjGXp2WvWedtxSTuF1EZSLzoVR_NkNtwYC1TELgocmAOmpFV72JgDZhpLpwTYTMGaw488bBWKbFKyjt33bhxhpxo2x8iCHW4JvpaHVfcZvsYlMqEke3Ah_962e5sA_PwoBhUrJmVzx3hRp66DhtlP3ypgJmhqWvvb_OJanBQhBjqkSgCs18OECRDMaeo2EQUyukbvSfAuUS8WDXv6AkqwZ5EFBlvCaB3y5YszrqwuK6SsNUXBN0f56xFqNgtCQXHf5pZVD7jIxvnheeVIDNO_K4UWkyhreHdINgKwXcRw",
+        "width": 4608
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101159269297447281299\">Banque Laurentienne</a>"
+        ],
+        "photo_reference": "ATCDNfVNXIo1EvRPqr5k_9cBzC44w6iv0tAawjz2I1BXz333cPtvTcy8S9tIi7TTYtnKg1aiUYwf_0q6JJsJClf_3Jgc5f-4gowsTCIbyCMcQaC6SinVLKenm8CfXBoYJzhpKE4XFGJdkcRnNfSJmtEhLD5cZWfMOmZ4eAYHa2A0ItNGgQb16fJq6Cj-7E8z3iBHVlwfcawlkPW9RM9kZrTFEd58cTVU1iqDvpsU5FyPsK1swl7ft2gfJoxVj-RwRo5x55n_KCaVMZV_8W2S17qQ8wQyG2dxBOUof-_kJfLUKMXTPg",
+        "width": 4608
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUYUpANX-K1CeAdiQPyMizZoii1ZWhKqfwzCvpJ1Cr0RSLW0Fwm1Lj2qbkn2sSso7uYX0phdKCmV2CVVZp4KKtF5Cw3Sc_RuGuOwpdGOYJ8qsJn2ZkcR8kGkW-e1i8ZMdfJJ000YAyi4BHvulQcLP_uP1HySPISuY5r2oUre9bap2O2ay101CqqJpoE09fMTYfvU8T6i17rnfhhcKABkjxH4tRs6GEACYJkM7kpU1Unwg0HgcrmBuZcX0MaQBnyv_dpuDKSe0P8-d7gZnYOx1BhHA8bRCPkYtjwjj5q_THSBXUhSENqsYEmN1iAwawIh8R0H1grbmVgqYRcN3gu2cXbTc55PZyrdNbhuKu0PCBm9JrJ1dECNbm9zYdLhbve8N35sKywYN0G_Dt1FSqAMtHzaHa22RojylkOl1PJsEhltQ",
+        "width": 4800
+      }
+    ],
+    "place_id": "ChIJp28o3jQ2yUwRKJ8toGZsL_A",
+    "plus_code": {
+      "compound_code": "CX47+WR Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX47+WR"
+    },
+    "rating": 2.4,
+    "reference": "ChIJp28o3jQ2yUwRKJ8toGZsL_A",
+    "reviews": [
+      {
+        "author_name": "fuwad mohamed",
+        "author_url": "https://www.google.com/maps/contrib/112108669373845954137/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvB1Tt6zY_-PzT2yoP0xfiTTIc-iIBa5gTCbE1kqW-P-Gw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Shame on you guys. Why keep plants if you will not give them water? My little sister watered your plants today because she felt bad that they were all dried up. If you will continue to be this negligent, please walk the 30ft and go buy fake plants at Home Depot.",
+        "time": 1559833230,
+        "translated": false
+      },
+      {
+        "author_name": "Bellini94",
+        "author_url": "https://www.google.com/maps/contrib/108198759569217148723/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMLHKr5B3Ehd1EMhuriJg1c8y07psd4uBNRWPMNc8odhzwnIk=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "The worst place to bank at. Go to literally any other bank and you will get better services.",
+        "time": 1701118554,
+        "translated": false
+      },
+      {
+        "author_name": "Jamie Laudi",
+        "author_url": "https://www.google.com/maps/contrib/107980114774395863234/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeArRWk08zQ7UEoQs2awL6ejyhKV-7P4vLcLtTFSQSyVvWeVIJ_A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "Nice and new looking . Clean .",
+        "time": 1462150877,
+        "translated": false
+      },
+      {
+        "author_name": "Gerry Lefebvre",
+        "author_url": "https://www.google.com/maps/contrib/115651454512092486160/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu_LAaIbfjQ1hBY0oZSrwCYW_QDnB1luvMD120p9HXy_-Iuw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "An employee left a message for my wife asking her to call back, without mentioning the reason. She returned the call; the employee wouldn't be back for three weeks, and no one else could help her. There's a glaring lack of resources, and customer service is nonexistent when this person is unavailable.",
+        "time": 1578519198,
+        "translated": true
+      },
+      {
+        "author_name": "Alexandre Caron",
+        "author_url": "https://www.google.com/maps/contrib/100026141482978918912/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVko8GzYsGiffOgugDgkHpRe4YdAixiSoZ5Ge5DD5_m785SDNYt=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I am a client: Change of company structure for consultation with competent consultants and personalized, human service. For example: My advisor is Martin Lavoie; he has a bachelor's degree in business administration. His title at BLC is \"Group Savings Representative.\" A consultation is needed to rethink your budgetary planning.\n\nI am a client: Change of company structure for consultation with competent consultants for personalized, human service. For example: My advisor is Martin Lavoie; he's educated with a bachelor's degree in business administration. His title at BLC is \"Group Savings Representative.\" A consultation is needed to rethink your budgetary planning.",
+        "time": 1563516175,
+        "translated": true
+      }
+    ],
+    "types": [
+      "bank",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17307171081037913896",
+    "user_ratings_total": 15,
+    "utc_offset": -300,
+    "vicinity": "43 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://www.banquelaurentienne.ca/fr/map/localisateur.sn?p=default&utm_source=G&utm_medium=lpm&utm_campaign=BanqueLaurentienne",
+    "wheelchair_accessible_entrance": true
+  }
+}

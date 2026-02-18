@@ -1,0 +1,432 @@
+{
+  "query": "Glace Vaudreuil, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339759.518018,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "9",
+        "short_name": "9",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Jeannotte Rue",
+        "short_name": "Jeannotte Rue",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 6E6",
+        "short_name": "J7V 6E6",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">9 Jeannotte Rue</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 6E6</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 9:00 PM",
+        "Tuesday: 11:30 AM – 9:00 PM",
+        "Wednesday: 11:30 AM – 9:00 PM",
+        "Thursday: 11:30 AM – 9:00 PM",
+        "Friday: 11:30 AM – 9:00 PM",
+        "Saturday: 11:30 AM – 9:00 PM",
+        "Sunday: 11:30 AM – 9:00 PM"
+      ]
+    },
+    "formatted_address": "9 Jeannotte Rue, Vaudreuil-Dorion, QC J7V 6E6, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.3976076,
+        "lng": -74.028658
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3990805802915,
+          "lng": -74.0274330697085
+        },
+        "southwest": {
+          "lat": 45.3963826197085,
+          "lng": -74.0301310302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Glace Vaudreuil",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:30 AM – 9:00 PM",
+        "Tuesday: 11:30 AM – 9:00 PM",
+        "Wednesday: 11:30 AM – 9:00 PM",
+        "Thursday: 11:30 AM – 9:00 PM",
+        "Friday: 11:30 AM – 9:00 PM",
+        "Saturday: 11:30 AM – 9:00 PM",
+        "Sunday: 11:30 AM – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111960417266978802693\">Joe Pasztor</a>"
+        ],
+        "photo_reference": "ATCDNfXxDdoV84PysImfix0K4RBLBpCOY9pBYyR-_eVIcH1Hj0RMXY_ftVazJuTfbV62TsgNSh-5ZyzKjuA1VQ6n9KHru6oDjuQ6CxFUnIB4hOtG3ka_lDAgFZ3ljGL59uWFBm2hU4e2Vv2BscWhZqkv3jqkHDIU2_zJTd9e66QPQTxD7otpj3GS_lVgfHUAHyQ8ltg_eBRJ5suMcY1yFDpYrz39tQH35w75sMijRhEXkZmp-3jA5H9GPQFpP94BX8zDPlGjpg7gMYg19P716wMj7xUqHZs7eJ7fkK26snJG9rqKsedR6BxPmu0JGn0QpoiNXE8jHsTZEZ6LWSFhPncNYo1F3HpBMfjKhGICAuwu4YvY5xruUWIijqmnIUsiZPH2sfuk8iWMzpn1RHFIcUazOylQ39jdGJJxv9G6Ji0cAPN5gsNV",
+        "width": 4032
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUkIIJ2oo_XXfPgPS_VtCUP7hWuoMLA5qt_ykFXcxXA5o450ZMI1z0v1mEjf2-AkrEJou-QP7ZG8dShfl1_yNDlH1_zY9zJSiPrMMy-SUuEPF3RronuH-CvW0HwUbdtobs766t8d34eyjNSst6T3iZxybfmfI_VJFn31rjRiaQlORiZvWVobXCyq_N29L0umwAoh8ItfM87wNyXg_ci6lgjZR4VHy0CQWIBh5UW6qeu7CufqwBFFW9qrkh5tBmucziDtNvMSjgNGKW_6GTjpPxRffENyh3Utu4OEqvcUdAANewoVO9GOVr5YLxRczwW1TNlT36-Dd1wyeecKL3tRbqulCtXLt5_M2nXzY4Pjjnv-3xwRt-g34vIpKa7rPi23Vpjdm71c3eWcjJa148R_6yncJgZ9wcsKFEeR1rvOvu8PA",
+        "width": 4800
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109438706681242414466\">Anissa B</a>"
+        ],
+        "photo_reference": "ATCDNfWx_yDa7DQOEf22jAvofinU__7sZvrTkDOc66-Hli1xHzV4kLWgV5zTVuVDcadkjc7GvUIQ1YBLX2eDIgxdjQD8GdmEl1gITJaQCDIKRjx1xI2h-onGvMIqM0zi-uNWkdwhe8sded2U7cnzSc4TgbxFNyK9Bwfpwhsan-rC7wpe0y5f6eA8TU3-LiPRy_IyOkzV--2LxFU4q_g-qa8QuZ5fEU_GDSJOUCyFF2yGI8QDwhOhTW9vwpmBD8oj-tI_bhJixzDvP3dSQnyStLRpNHP6giK7rKRVzyusU69w4EM2EtdbICEvMuchs6ZO5OS9tPl5VHp3Gn_d9VHe0dU2GvunqSkDQj35Zpq9z70tsNAtgkbxESdcUhzEFsEzaNS_sHQNFGnWyZhGC7H_Me-6-VSgvQ3hyZIdV8-OSPAQL0vaDQ",
+        "width": 4000
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfWaH0RCbxZnQn56Oo9r7plijuI6e32iPzABHunWZ6eJuyINn_v4hIFZMCblpyaarHYupZgoYUjDF3H2OXauqugemr9df5Xsh7BA92LJKHb34niF5gsczXFDuUFmjDmGVTyyAKkxkMe9ErdCF29ULIju5xllJuZ28_IaijgvzWhbUoaEi1GQCwn-fLg0vYH4d3ZNUEtjEBFlrHtdRyqR-KeGsZQnsR4V-NM9-FEsyFxmPEw2kj_zYNwLhwltauvf-1L1bT__Ppju_ozsJoCcFKrjul1Hqo2hp3e0dGdslZRawYnKJqWBZZT35GF6QcSiVUe3Epm8N38VgkvnvbmxruFDp233qfrxT8Ur7_ny8ESlK2N2NZvw47ZdMzFdV3uXkcXJUUFPU0FpC3dqnGnRbO7HoYTsqA6-x6wT2Lnhma576A",
+        "width": 1920
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109438706681242414466\">Anissa B</a>"
+        ],
+        "photo_reference": "ATCDNfWpsywZBcM2T1mInn_2S2hu2TtaJq-RsSm_XFjR8wcxGZaSlZk9uSO-IjPfm1RNKsFxLF1tayvIBdBmvDACD1lpEdzp0X49yzgkJai33esDovr8JZKrPVtnljNxlYGzcoOSzKt1oeZ8hf8_RPfNi0Iot-dPt_9HOXSdxxDavi3uipR0S24qfxfDVXYIbpyv86hGAl8Bo8rs6aEV0vb78HHz_qthTLMWCC1eT3kto0R4i4arU6Vn27WBRwuuGCAFeMBeVmJ49m6aF3pTXgM0iUuudsUteQ1GCqpb44uy3Rg_aolCuj6KR-pSWVp4oSlQMRBYUpyh6Ox0iAfI21wKePlSX4b7MqUq_LAXhJf9X2OT9bGZ68RG22EAR620Bs2TeuQHdcAQDfp8E2Q4NRqNMBEizi99h2u9DZCHUy1In4ZhTA",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109438706681242414466\">Anissa B</a>"
+        ],
+        "photo_reference": "ATCDNfWWYHqd6eLgQ6ElfkalFsKN--JHKbY0-K_-r2hrIrvrCag_b-67pKOaXO7uHX3t9oVfDluCHzlvIXN_ZHwWzU4FVd-CcWDkCijw2VzonIRH0oA1QmZBuD8PtdjwWvffxn0-zIp6LWdlfSNhhGM7aE9uYVkz-4rjalob8GAY4tKSCF7Bg1CQ9BI6MWCEfipYyKkVoaViet4o99ihAg9dyD9SEYvKldI_GFFspG724aZ-C4Y29EIxaoLsef7wDABL1w5sbmV5NTqpfSKs64tIwP_I2X-ggXu4VKShmmsU_Rfz4Srw93WIHBDagIZh8lTHUhWJfkMRxqOujNl58JwaMEI7bKeSajeN8xU3apPSkm3FfCNjgN6PYuuLqDujQdhBG-BMrxTl0fmeQdQntDlF5psx3NeN1i9Qu__orVSADHY",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100269983708733834878\">ÉRIC DESJARDINS</a>"
+        ],
+        "photo_reference": "ATCDNfX5pdbrQ3ngUF7Gt2g0BNw541MGSaJnUjfCfKe6Nt58uG1cwgn5CEz65J74xZJMFb83tetjvOT1swWsXZ0-MmaY885QAKA-25DcLJmjKBT8KVwvCdNpw2aZS1_1xz2Uu97DLPEjitGEGobETQ5tVvzOReJD0iVDX0hhwpCRuP3LLqedBmoT-jhZlkkdAixRaJS2MbCtIGkD0huw-pL33n2-VIEXNYVyDmehRQyrVq6dDp7XdYJlz7v5L6wt6IAt8_2pIeIl49FVJS5cPaXnEmLc3BA4L_Jg3gI1fZt_aYUoASTQ7DIJ8hXtiLqtf0MVXWm6Ao7bA-k9Cu81G9B27K3QaQDPTOwqWpQ-hvreE8Qew9oVTlJ2Yny4od-H27FWWsYHuNdqua2ia04xl-e9RzB7BGjJLltqcktOB3aqSf6Swr8u",
+        "width": 3000
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105049514228513964687\">Иван Нетреба</a>"
+        ],
+        "photo_reference": "ATCDNfX2uRRYG1z1ExtEdZpdPoQ5uX7hPFNL5pSR0Vt5nngny1RYD1Aw3e173K5kkAfDaJ3mApbrtqjdaaKebT5QQ60vcEdi7YT3S9dw8P-LfShE4ENp1FXsvZkjIHtSP4uf9hMFVwC77LhQVcG8HIlYA_D2duAFS6BIXSgWkP34e3tdx3-uPB6IqtEwPwj49i9A6j2_21sKX3WpmY64e0FiTdN--ul7u5V_qaDYBq68wAUOyhTxzE75dbI9BnFpOhbQwlOHHbqBScoAuihaffAboO66Ayg3Qgyxbf3Q0uP0xeao59b9iDQJT1EIMmR8nQYz6vBgwLVUy1tyJoLCQD68sTokaD39bhdsSivO8g_fdNZpGp0H6SpERul7AD1Swd9icKjD8WAC0kqkFQOTP4vnEzviGgnsrluLj-8tSJ7jjhGDCLgoj7QOqtoJRSfwdvmz",
+        "width": 3472
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103881090327705434717\">Christian G.</a>"
+        ],
+        "photo_reference": "ATCDNfWrXJNV_Z9jVYoPmXKwldOuxVBqOZ-sL5cCFqIuXXeAZXg8hgKVYaUsFuSkYNq4PABsS1q55674qzIPet9ISLIBNcBTwRusbi1_1RKnwVOGucvjeav4YqO4cv4A3NQfUHtPs7zBB0u_g1hV1UUwm7QrNdk-CEkJhPgX_tDaog0tB-XwgVPGPbeXJau11yasHJimgQHTeX5DOdJuUPxyZ6GwVcFnFlI_0aY5_Dsr_iRAJlBEOcCi0MQ3VqK09OE8sM1uERJKr9CjusYckBWisAkSZtZ_6AJHpK8AQ-LFppTLkkrFjC-nqyUgUZQbK07fUKPytlTgxs8A8pok_P0gipi1zPb-ckzTGGltwbfzQh_AY5rzgsAEyQ9GJzMcuHvci7CzyVEfi8pGf0Sx2mEN1ylWH37CPm9uxc0ruyKWqR9XpQ",
+        "width": 1920
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103358873304976013398\">True Feedback</a>"
+        ],
+        "photo_reference": "ATCDNfWOm3DmPxXY9TnXHYmBN0-lkBIXIiL7F61XTVcgIqUKL0kpf5nRktl8BnA8eiCeBEWijdZ2Pvr3Rtsg4HQ7hOce3J_eHYZXSDLmxlPSWi-xam6NffhBkTMe9h5TxSD3XeMjwabPhGca692wUUz-JMl4x1LA4_xtr2i5sybJzk1qkcZpvEjeBU30RNI9a_bClWJ8vgK7SmFmz3GYcVBbjtsAz8v64Zpc_94C5bvIfb8U2-V8nAsVWQQX6Q3A_7Vqurj1BF4GktMIneNgAQTK1eYlL7muKGMNlJkFHSmHan1U8S3n_W7EtR_F7fRj_p_uHBYQyrPiAum1Gsrg3ai4o2gFsKMkl_DmO1pmbBHHFQE6K_GUe5znNMNELsmqrtAdP5RaX_iqQiyIRqg2KBN7jVKT9Ot4eKOY_ntXeoHlepJ4PYp-wKfjdT7rhjEcALyX",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJN452R9A3yUwRkKGBKRXPWec",
+    "plus_code": {
+      "compound_code": "9XXC+2G Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XXC+2G"
+    },
+    "rating": 4.9,
+    "reference": "ChIJN452R9A3yUwRkKGBKRXPWec",
+    "reviews": [
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Good food to chow down while watching the kids play hockey.",
+        "time": 1627959066,
+        "translated": false
+      },
+      {
+        "author_name": "Maria Artyushenko",
+        "author_url": "https://www.google.com/maps/contrib/105912598606039065444/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvV0-m-hhxp-0VTmPsvJIpOoVlmMAQfdBnaV-NORd8Hqpg0NZX=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Can’t rate the food but was a bit sad that they had only one type of tea. And the arena itself is nice and big",
+        "time": 1701091041,
+        "translated": false
+      },
+      {
+        "author_name": "Daniel Gauthier",
+        "author_url": "https://www.google.com/maps/contrib/104810728110579903672/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGmSg86J1ELELdb7aoa5xUSmjwjU-cCwmkJJoPmZnmG04_qngCjA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Nice",
+        "time": 1649454094,
+        "translated": false
+      },
+      {
+        "author_name": "A Ksr",
+        "author_url": "https://www.google.com/maps/contrib/112118075245789188601/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeuH7MVHbAkIi-NcZxXytiivIb_K9_X22FmdLSfm7BRJTPM0wE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1704586155,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Théorêt",
+        "author_url": "https://www.google.com/maps/contrib/115240127628175152478/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWThstZy3kchH3xCBS7F5GeuQbErBQoDWjBuHBJtwuwMZZ8ivc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Beautiful ice rink",
+        "time": 1703187109,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=16670583185486225808",
+    "user_ratings_total": 29,
+    "utc_offset": -300,
+    "vicinity": "9 Jeannotte Rue, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

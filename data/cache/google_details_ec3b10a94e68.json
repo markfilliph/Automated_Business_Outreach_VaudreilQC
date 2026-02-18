@@ -1,0 +1,452 @@
+{
+  "query": "Quesada Burritos & Tacos, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340164.474302,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "48",
+        "short_name": "48",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">48 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 8:00 PM",
+        "Tuesday: 11:00 AM – 8:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "48 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 218-1700",
+    "geometry": {
+      "location": {
+        "lat": 45.4084371,
+        "lng": -74.0389434
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4097279302915,
+          "lng": -74.03753401970849
+        },
+        "southwest": {
+          "lat": 45.4070299697085,
+          "lng": -74.04023198029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 450-218-1700",
+    "name": "Quesada Burritos & Tacos",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 8:00 PM",
+        "Tuesday: 11:00 AM – 8:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 8:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3082,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116915700630646711469\">Bob Marcy</a>"
+        ],
+        "photo_reference": "ATCDNfW7bx-tqLRsF1RjOXe7EzmNKnKZKbVPYEO5FTsMwk0YMLDQpLYh1Ny791DcLo6o9Z0Ntsbahw9xWb6d9k1UpYAhFJOdKQm5JX8J7Brf3Kos8ln9yE3RM61ENKt5abpIFmb_C7zubYYZTa7CBrHnAUy1E31C6LANj6p-86hVUb9og2d6CXgefwxaSZqIwAXBu0NYMBhdZQLtGs6LB481OsyBCtxmf1ulMoc2lQkPGaU-gS7WxdMjKyXje5JaunpWRp-bmAezP2aZ45poa_XUAOpNQhOXILMc3mLN6YwZ74MMy3z99Yto5d_5f2hWUWc6Ti1f_3H0bubfC5ao5mo3qE9Jz6dbOx0poWAWwbPlJpgBFfzwqhYvJzbSDwSuQ4Eb_D1qYIcIXfqqfWpoukI-9Md8f4UUiHK-_pdhP6NcFo8BYg",
+        "width": 2466
+      },
+      {
+        "height": 3201,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100199711937761064847\">Quesada Burritos &amp; Tacos</a>"
+        ],
+        "photo_reference": "ATCDNfU3kJ9JwuJXkaBOK6OFNHHSnxVjNq6plithAwzRpWkv9S4nEMjBdA6ct4xlNDyUFgkFc2wyQioR3M9Mh-_Rader1oZUNmp2g1O3jDaL1cl8fqTV6_-riDR1JRNOaM3-oR34wToDQeK5flVAejvkp_afsyUwgqHKvEuM4rkfc3wCRw1nYvnm7g4SHcIXrv7qy8WoRuHEbR_DMNYRNxhV6g1o054wlw7SjAV1NOyFvYWRvbuiESmJNv1s4HOMVW6whjl4AsepxH5RlzHaQBsZaNaz_lZZ8080ZI99F0_oY-KtSg",
+        "width": 4800
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100199711937761064847\">Quesada Burritos &amp; Tacos</a>"
+        ],
+        "photo_reference": "ATCDNfVw2wEl8O-I6WW86UjBHvohsZcMNHuwtUBe1gbQFdlrFSS5Pm43qUXt7m8vI2o7y8hwvi0a26Q-sJGxYjXnqQXJZ-jkBY18GH1ebO-X2Uhhp6KSvBrRvWgw5YE-j0SCFy7K4r1XhxrVffr3ANMQ3euFictp5gamnyGHAb2gDMHUez8J4CuhbB-LbWCF1dQdQpQ8qWJfDayXMYxL8U2yKKSnZBG4z2F8OcwtXhKMymDcOMi3kFSzIClaXK3f0tQmEkVNA3-W_kCptbbUqGYi9qYfxB5ZmViD05WlQZ25tyOlzQ",
+        "width": 720
+      },
+      {
+        "height": 422,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113999591838643122282\">ShawnC</a>"
+        ],
+        "photo_reference": "ATCDNfWzGzSASGxyOtTvFSjarB_TlJpV5BKaEwmHZ7QCje3SZgX-vV59mxArHp9dvAOSFys24s9b--A5vVfuUXFrZwQY_QuMo46FP1v1kVDvPiZWXU60hCAv7TKuNF7Sm-QMlIYuQQa4h6wvjAldU7Aex2RX4H8ygA4zn_FVhxhxZgWxDcr9IflhHokI63eJ8Xm6SYXaj5L4P6Z8--ohygkvg8QUOCYSHAHDEH2GVGY0f9rENmAegaBg3gQsb3eJOVSe0gr2DcJiXrelLIK4TFhkJvOis1tfVnuUn-PjEIc2TapsPsRXQ3r8vkJM7WVzF5MPO_RhD7EY3xlbKUBU3DgFgkxXj0Tb51VkiHKEevNSlDVJD0fgkP8FbQUxD1Cb8kxgmSeM80xGVOR08j9nG6GUFEIN6yU300hnXq_CSDJncfU",
+        "width": 700
+      },
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100199711937761064847\">Quesada Burritos &amp; Tacos</a>"
+        ],
+        "photo_reference": "ATCDNfWTcmJcOmvWu9wSHnpHOc476NEJOQStKrmV-DkWexDuZRWY7M3oABQLimQU19J8sBj8r3DtHKth9yg3NXu5KUdGn4W_9RXgVh0r5sPKoe0nLAcvxEOzpDwa1ImnucN1mlKs9mdSQctarJnZiVad6O7Sa5q0jOhmRLt1V1QTQfyv39RSNN1R226eTJlqGjpeQeIbc7gwmNaQOvxwVn8EgwsOxKYKrI0V4vdR6MvyppNKJB49cWYViumU18y5iCTriNPn222A9Jcmee41SCz_lkAMm7Qsxm9FlB9-eyMfh9OCoQ",
+        "width": 720
+      },
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100199711937761064847\">Quesada Burritos &amp; Tacos</a>"
+        ],
+        "photo_reference": "ATCDNfXWLItGqqvpupG9pulO4L1uElHWSbubfAped930rc16Ea4xy2LNot3QWENCeXE-ikzLnaSzI6bg8YmMyPv7edPrkHGqFL0TFaRX3r-HsyW94lkGT6EQZqkG2LpMuEixNHVWYuSKkJKF4pQl_yWu68hqiuwdkGnttFOzFeUMglZGbt9BDQfZ-UzWwn4aCafH2pjIf1GrlyrVOGuVA03ulCKlCeSc0ihPHOfA_Gy4as5S22LjJStO-DduSDX5Y-WslAbxn6hhE796y5BxAMCy2xOuL0BzJoOK07vjQ2jU6Malwg",
+        "width": 550
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWAUFC2tk7is_0Tf_b-F36jtWVFytI6vH5xSHBibA9rMti9Pixhnl4KapZ2-v3dFSeh6wiRtEYmwHHU2WK3k1QH1ReGPlIweTBUu-4Q0Uf0BdETmd9Wyt5XaZ5iqf1hxOcrzgdhsMOio6fF3CF_pk8Qta5o6XAcmxlze5De5B7yqzNFXKryZa_YlELMRcctp6aYC-1KoT7uT6_jzcXfqMoQQ6_K2lOJUUtexJCoKGKLW-uHvZQXyfKq9uOaedLoU2bqE9PfRO5f6mBPFbSL6JnVLtMJ5f6E1nJkNDPoIJuWYKCZ0PacnnSKfggT-dZ1FGtTE0uVM2izwH_tWFeLu46_22lx1C2iroUSdzpJJoymBXcw2dy3IT758uBwReHT56YF3_O-cRJ0aBdJ5YpbJh7hvXHnqudb9AUCOkts6fXPiQVy1YG3MNoRF8VsPdY8",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108584518315478843588\">José</a>"
+        ],
+        "photo_reference": "ATCDNfVP1YY9-CvI788I7YiAZYIu7yw_eHIe63INAlaET6bS3yEp2Wvw65CkuRG6LsdLA7s4SbVBpRvWXCxvAKnQs0SlPH2cjQgEMZte-YEdTq_l91nuV91MeVaK9olO0idz_k_UcwFBG_MJAuohr8TZ75GBHv31e_XXQ-q505IjdatfYLISyQPdJTXIqrTHcurJ2h97Wf-wKFWwcUT38flYMtq-SOxSPfEPycnKG2lDMEBRJWRtBYs87v81wRld3Nxx3O9odB_5IUu7tejyh7U_GVWH-WNhPv_cgv2bKqy4tub1TouQZdrwpFLR--O8M-GgvC2WLmtZD4gVKSdcXHieGnSGwPINdfZx0N_ea5BKnDUuZh_u1acnaMjWKmKLv4h4Pm8PFPdENyVMwtsTLDTZCDQOzON91uE93RsYok79N8N8-ZAV",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108584518315478843588\">José</a>"
+        ],
+        "photo_reference": "ATCDNfWrh4T8WU7wq3VDnGbfbyFq2v1nAiI6_ZuvopBdklAQ5B9GpNR2RgOqBIDt1g2pCFDY39TeWtW6CUlTgg8y2eWnF2TRaVt9W2sNyU3iJ97BV2eSyN0tSYIt27aZo_nzDmupexboqRVX-y26HF-PwWkgCC5Pd1TUvYmDfZqKBN4SZ2QOOP1rfTfXUuKo0RVFk4qXF-gBRAOXXDBc_eOTLQYM1ea1UqtRKf3V01zwb-ViixoHzIKFehR8kW9yxaXNmbBy9Zp7Y34rHpqRAr-bXEoQHtSpNgXQP-HstyPvlNHz3plEUPm4X-LUoUy54QX6WXaJTcpijj2QAFtwpM5Thuyiot6EC_HmiRC1b_7zRQAQk-aC14bwn6WKjcE5CYHdTwVzYB8S2atAFQuvTOB1LRgpZUO9vh1Dh_IMOjFjz1s",
+        "width": 3024
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107465628560118831007\">Hany Girgis</a>"
+        ],
+        "photo_reference": "ATCDNfVJjkgpw27BvRpGIDFMVRGr8sNBCxMIQi7GGarfdTL3WibQbgSI_bdgaVF6nPzO-Rc0TJiNweea_64ek5DBbUJxQNfPRVd9gY1CcfliSPa3Rpefz1LuWwJN40u645eRsDuMgtR7l1_1rax8YeDKGhuFUazOAapKDgHLodirfyNLwRZCZ8hAHFSwqHOJPJSdhz2TYZ9kypvL1vATROpOzSMA1VKuseosTUVb3HOilO5O9_YXhEkms_1hwbJ4NNKrrTROXXH8HK3mN1GfchA09wFH3qGJ28QRNjqWSyr0f-VJDzv8hV1jwoKLqg1YOXbVY6w4-LM8cWIRICy4c_MD0VQSw3UBvpvpHhQ-i6GHFdVy9_fCfYk6mZVdvfoqLiDNV5WxzrtKP7GpGblLcvjaUMFoQrOTwGaqydZClPDQRKgcKG5K",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJq0DZwzU2yUwRZcCjYCMVyg0",
+    "plus_code": {
+      "compound_code": "CX56+9C Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX56+9C"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJq0DZwzU2yUwRZcCjYCMVyg0",
+    "reservable": false,
+    "reviews": [
+      {
+        "author_name": "Karen Birch",
+        "author_url": "https://www.google.com/maps/contrib/109453842310096831453/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIycbZS4ZbbVT4ufG5vQw77uXW_FgLjRXGVynUq5xS6J_ZW3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "I love coming to Quesada for a healthy meal that doesn’t break the bank. The staff are always warm, welcoming, and down to earth — it honestly feels like home. Thank you, Quesada, for great food and genuine care!",
+        "time": 1769475195,
+        "translated": false
+      },
+      {
+        "author_name": "Christ is enough ministries",
+        "author_url": "https://www.google.com/maps/contrib/117141644601908028272/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1kNew4GpJ8u-Jp3KTcGoBfXVb_XDeiRkC9XCLylxt23_xmBPz=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "My wife and I figured would try this place out for the first time - let’s just say if I’d  known the food was this bad I wouldn’t tried it out. Besides, I’m usually not your type to leave out reviews..\n\nWe both ordered chicken & beef bowls which turned up tasteless. The veggies were awfully dry & soaked up with sauce just so they’d basically cover the lack of freshness - that’s without mentioning the ridiculously small /inexistant chicken or beef amounts!! And to top it off, my wife’s Chicken was literally raw she had to throw off some chunks.\n\nFirst and last experience. Avoid at all cost!",
+        "time": 1760741037,
+        "translated": false
+      },
+      {
+        "author_name": "Judy Hung",
+        "author_url": "https://www.google.com/maps/contrib/108337021180260241258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlkhFi0xIrlxozKypsBluMXtnhPJ1bw9nrUa90vWN2n-9yBjKJgw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Ordered the beyond meat burrito, it was great! Hard to believe the texture is without meat in it! Love their marinated onions and fresh ingredients. We missed their weekend 2-burrito specials for a bit under $17. My bill for a burrito, churros, and soda was almost $17,\nFriendly service.",
+        "time": 1558344050,
+        "translated": false
+      },
+      {
+        "author_name": "Kunwar Sharma",
+        "author_url": "https://www.google.com/maps/contrib/110671125898918440942/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-s6u5cLLnq3E8qtp0xFuV6PBEglMSVA9Nc-Ju1PFKY4tLxg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Nicole upfront has the most beautiful energy and her service is quick. Treated us with only love. Should come here. Honestly such a good experience",
+        "time": 1763066599,
+        "translated": false
+      },
+      {
+        "author_name": "Bhagya Tahasildar",
+        "author_url": "https://www.google.com/maps/contrib/104058356077954810097/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9S2nmw5NlHwZ33wNeV2Y_7Qv_y9XE48wpCFXCe950bY72Qr0h=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Update: Ordered after two years and they are still the same. We ordered chilli lime fish bowls this time. There was hardly any fish in it but hell lot of jalapeño peppers including the seeds (check out the picture to see how many I picked out of one bowl). Our tummy hurt like hell for two days.\nWorst experience!! We love this chain of Tex-Mex restaurants. One at Vaudreuil-dorion is the worst. We ordered our favorite Chilli lime fish quesadilla and Nachos. Vegetables were so badly chopped (huge chunks of onions, jalapenos and cilantro was barely chopped at all)  and the person who prepared our order was so disorganized, forgot to add beans to nachos, she prepared the nachos like quesadilla, it was so soggy and disgusting to eat. Never going back there.",
+        "time": 1676287761,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": false,
+    "serves_brunch": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=993629909477998693",
+    "user_ratings_total": 270,
+    "utc_offset": -300,
+    "vicinity": "48 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "website": "https://quesada.ca/",
+    "wheelchair_accessible_entrance": true
+  }
+}

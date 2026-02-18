@@ -1,0 +1,395 @@
+{
+  "query": "Place Poirier, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339143.1593661,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "935",
+        "short_name": "935",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0H2",
+        "short_name": "J7V 0H2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">935 Bd de la Cité-des-Jeunes</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0H2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 9:00 PM",
+        "Friday: 9:30 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "935 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion, QC J7V 0H2, Canada",
+    "geometry": {
+      "location": {
+        "lat": 45.38840829999999,
+        "lng": -74.0479067
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38988278029149,
+          "lng": -74.04658996970849
+        },
+        "southwest": {
+          "lat": 45.3871848197085,
+          "lng": -74.0492879302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Place Poirier",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 9:00 PM",
+        "Friday: 9:30 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111723789610535792641\">Sandra Prudhomme</a>"
+        ],
+        "photo_reference": "ATCDNfXA9AemnmxpL5pLD7NlfE2y7Cg3gUrJRQNtSC2QF6Ta62_kLLIQAUL2yaNQOiTROyn2S1XMlqQ_6so4t3w8mhZd4dFAczBmWJ0CmZnpfTaJi-azWeJL0LGEXNbkYAGtAtukb06ZzgsLGKPsrat_XQ6c18KuE-DLX5nNkfFErI7ulyNaG5ruQV9OW1XgLNwKIaxBa_BVlzCLPVyBUPSzJEU1q_pPkPST0MrW8QPjjydrZF_pjVMdTlawPVBbVcsrb4BKF2xGxdyv5e86nhz6vh5O5mdWI5dsE5cYQiHD2Sic3EDeMaBGSksdU0Jhp00nDvrBBDk-6Q4BB2TLTZ94oUZSIdkMAAIhzcWSGphKqh3oWeNdiFL18jRT66aUAcv7FIK4AFal9GHuh0ofOdx5w2QhRUf7_KeCrvkcR6LAUFpFXQ",
+        "width": 4624
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114339858998092342614\">leila hassankhani</a>"
+        ],
+        "photo_reference": "ATCDNfWNeGpqGt5Tn6FoLFxo2nSKDu07u9kZZfNjPy6Z4zImIoFFY-idxQlU235erMoXCJqHlBrl0uamk8tZyoqJR78JrtnKg_mIDZ74W0NLNzJjxbkAArd76Jnj7jNK8EmeHHuq0vr8MioGLV3fn7u0oc34iWXPkjh9OAOVpG1gVIx5_MtjikQCdNDEezxzBgsaQiZbUCyz4eAjjGgAe_zYCzhtSsNMxuVI61jmYQNuq2egk3KEOKUUhjrzHT5XO8pdoV0OMJESun1qNZNQRPRMslMq_2vGxMgB27_VJJmF9qPxuKiQuz1HM6MN8PqrZzr-UnQJSdoeZesQ-mZ98vnxqpSyNqgV0-VmnuNFYeNgJIIBUU3Di2B9ueJQ9Xl8SvgVcKEye0loBzuUWsTDCN04CeYFM8XXdHfc6LsGSb_NeCuJmg",
+        "width": 1638
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114339858998092342614\">leila hassankhani</a>"
+        ],
+        "photo_reference": "ATCDNfW6q8SW2bdAzbGBkAryg9sd8eBS_Wo8SEqCVs_PFR4woECbN7kLzlwlFyZyPsR7r_m5SK6VNhMPLRZgGvcnMN1ZeikH1Ys31axm7ohi4RD1PByig_Z-5mvGEa_uVKMW6IUKpYcI5_9Emx4g8msAqYcQ9OV3gV2BilJ3RHa8ddvg3875UuBSXkq6oCEhmL5ANkrzN0iMVdVcXfxLK2G5eqAqXvcjOdMVocfhx0nuW4Co6U0E9wcAPYSH2BsMNyFKQAgHxO1VkraJ3hD6iTmIlkW340w5Ah1UDGYzEBqeNDvp_5kexSKOKDj40E0agmQCBQW9dXT_uRdPDmJw_yEoIIR8gnU-38k6wh_3vwybtqkHonHmfpwzPoCW7A3n67fiN3tdOv9xVHSaE44z2FhYDIT0dyHkYOIn_sA-AOFz5VS9oZfs",
+        "width": 1638
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfX8KoEOA1FPfZg7JKzObg3JJQHlfOG8WNNEQk4dT7Lczh4xZ5pem00r6mylevOJjccnFY8LbNG3Jj69aHB14d1bcO3HtydA8y0uhkEenNoNgGNZzNo9UmrArudVSezKqp5M87J2-GvfXuVgkspkJSY6NDkbnSyUZ-ft77LIwJO80VoAWA5bmmMJbulgUbLASv45hL4IbXuUzokoQZXuYBcv-HkdrVo47ESSN5ftMBo7e0Z_sJJgySULcxUtw0Pv3UX-QIHw4i8h0eoTvHyjj6477BAdCMN7409KxyzKl1szzqOfnyenGQcAcu8RAtThJfAZyATffRFKZbK0SRfLYB8zxpaTcI8gUP2ywWZNNDU6SFKRXG1mIiDnkZnmuvJPSW4ehYKZX5ynOyKJnexec6PXbhZEBglCPn6zTRuTmS66EX6p",
+        "width": 4800
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114339858998092342614\">leila hassankhani</a>"
+        ],
+        "photo_reference": "ATCDNfUANsOr1r18i3wveHpAGhvz9TSL-K6MjHUUoLd7V93QEQ0511Z783YU22tb3kwvbl8UF5DqjYHyVWyhTokEpgCHfXKHy0LrxD4_C2NdGE_b6UTLpKPY4LXjnVtReHNmx1srkpFny208OL5Lz3vXoVzyG-QQDFQYLUw6rjqdXlV4RlrmQoE8j_nSrcrSzqajkey9y8Yd5yCwvKFf7MoTOyFRXO9U4HMs57i98_SlJOB5Xp3fyrH0D0miDv7KOW5N_uEBFz9x0rYri2ZhKUaT4uUknIBuCFKZhoTtlcDOqNQA4SqR6LkMzkIvbIEcszFnd7EeBpftHSzNVUgsxHLfDsUl3bQ40W1wgtOh2G-RgD_5B_rFGKmh-8a_3XKOb89A9SARrm-wr93lbe8r0OP3lsDbD-HHkMM8doAvmTOjfJM",
+        "width": 1638
+      }
+    ],
+    "place_id": "ChIJCb9XoVlJyUwRc_Th4KD37WI",
+    "plus_code": {
+      "compound_code": "9XQ2+9R Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XQ2+9R"
+    },
+    "rating": 4.6,
+    "reference": "ChIJCb9XoVlJyUwRc_Th4KD37WI",
+    "reviews": [
+      {
+        "author_name": "Dave Pearson",
+        "author_url": "https://www.google.com/maps/contrib/113155888395638285871/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRrcSc4EGGzdARdWV3LTNlJa1UdN_vVcmzLcRwcM0tfYc7tQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Great place for the saaq !!!!",
+        "time": 1667758398,
+        "translated": false
+      },
+      {
+        "author_name": "Beth Mooney",
+        "author_url": "https://www.google.com/maps/contrib/106619369512870473181/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdBg4VvThkjhKnRLkTFCjilwK0IpKOFCiDgfdVT4EJqTJ5tjs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Fast",
+        "time": 1661031610,
+        "translated": false
+      },
+      {
+        "author_name": "Eric Bourguet",
+        "author_url": "https://www.google.com/maps/contrib/103163947831596131552/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEmdw7lgUG5P2KAc2ag8M-0UqaGHYN5xWRX1QOeI-yAUEAxQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Small, well-located shopping center including a butcher, the SAAQ (Quebec's automobile insurance corporation), a bakery and other local shops",
+        "time": 1768418668,
+        "translated": true
+      },
+      {
+        "author_name": "Kim N.",
+        "author_url": "https://www.google.com/maps/contrib/110064668692508997759/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCogxBqLI-1HlbLV6PrfviL2NIoRVQRnGEBPNaLcl4moMx2QQC0g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Went there for my Medicare and divers license picture, very fast cause is unknown I think...\nI went there for my Medicare and divers license picture, very fast cause is unknown I think...",
+        "time": 1669928039,
+        "translated": true
+      },
+      {
+        "author_name": "Alain Lapointe",
+        "author_url": "https://www.google.com/maps/contrib/116427048365530107174/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKayM5w6hnuDH5DX7niE5VXDPhllhHBfZaWB_nDH0bf0ojKxw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Location of the Cité des Jeunes butcher shop. I recommend it without hesitation.",
+        "time": 1712531226,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shopping_mall"
+    ],
+    "url": "https://maps.google.com/?cid=7128626055537095795",
+    "user_ratings_total": 20,
+    "utc_offset": -300,
+    "vicinity": "935 Bd de la Cité-des-Jeunes, Vaudreuil-Dorion",
+    "wheelchair_accessible_entrance": true
+  }
+}

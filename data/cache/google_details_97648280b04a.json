@@ -1,0 +1,369 @@
+{
+  "query": "Denis, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339049.3852243,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "2480",
+        "short_name": "2480",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Henry-Ford",
+        "short_name": "Rue Henry-Ford",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9H5",
+        "short_name": "J7V 9H5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2480 Rue Henry-Ford</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9H5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "2480 Rue Henry-Ford, Vaudreuil-Dorion, QC J7V 9H5, Canada",
+    "formatted_phone_number": "(450) 455-1120",
+    "geometry": {
+      "location": {
+        "lat": 45.3757605,
+        "lng": -74.0511968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.37708038029151,
+          "lng": -74.05010151970849
+        },
+        "southwest": {
+          "lat": 45.37438241970851,
+          "lng": -74.0527994802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-1120",
+    "name": "Comptoir St-Denis inc.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfV9MaMpZQ8BR5RfcvEjWkH8nMiqiMlEiCa3y_eeSXJYBQpGAmpasIY3l2X9KzO-rTspiomQAnqm5z3c0SaXtKsKUjuOxChrU4s1SUzRT85U5fiZIEfSUShYJ66LrRBYKYkEwfOmHO0GW6w7FfqWe2e262YLVoi8OlnR2Li2X8LSqpPiwxxhLNqyLsl_xH4S4GijURbI9UJG-5XdIPByDypPPstUhu3_XT6YgbgFfqSqCcjUbhdctRMI-H_scB9xO-gYQn-MNnYUWQdYuvW2z5X-EzeFMcc04Dz36Ipk5q-Xc-fJ6EnexT8ysjlJQmgMBHp1xLujO00jixtYT9igp6UIQeS4Oe-yIj_oiOHn5mtse13e_WvNGKd24r6Z8jciKmbKbtp-2C3DRp2Sl4qArAWpuWbmA_LHKaeZW_-vNbszFcAi",
+        "width": 4800
+      },
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114379399132976603743\">Maxime Daigle</a>"
+        ],
+        "photo_reference": "ATCDNfUVv88ti1cEo-moaqfZ5vx2d0xxxBBLcw2geCutLJePy8tb9av5vw2vd348z_rmFkBOAt0Bnhjzt5GBzalyetH7TG-sj0VkN3-OdcS-gMWDPtM1voszH462ygzWJ_AsMhxpiI9f3nMta0tJoJG9lWKl1s-SD2ULUmn3wzff5DruQpzCjq4QY2qt7QcBBtKDioZ5EEMdX9hfrMuW8hTssBuxx9fcWPs4lJpvokknJg9woajoCZxbcLSjAUzVgKWxkcH1gR-S51RsOxwMcfj4ojodNSxlYzMMtI5JZNm6IqBqulcMMa7fkqIfVL54Jh-Pnu8XwqIosBD6lj4ZwEttQWP6ReG9CVuQPGfgj4Kk6Ootps9MGa9KYBU1IlfH92a55IwoYCjzG4GZUhnv40yA-qbRT8cfIQ197bTrmopuHIobKA",
+        "width": 640
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105874780425953780976\">Etienne Tremblay</a>"
+        ],
+        "photo_reference": "ATCDNfUgp5sqouJcTYHGOE1H5ZsU8waqOIPPNqB6DR6jvmmBOooiGu0XVkxNs-X_bkKfLaQ-qCsk8NjL-nbuCZy5n1cfv6g_zuV1oHc4YVT1PZMQSqeiEsm6LYQpurcYD_ozQX9z9zinWm95EwbfbB5VdqMIIzCR1k0VrnlFS--_UEFuA__Mx7pJnqImApTo3om00ct8k79ebg6T3cIEEwPFWiAx9XnyYrwdecE53O49d3NZrRkxQfkdqjIX-GR8OCSYP61masbGTo4kl67QvVWH0iNTSWMheuqEzNIcC4Er78R6sIZj4yB7opMiul3Mc2xPzCzq4RpP_GVidLlx8ZHooYWCd4a5kWKcyvYhHKH0gxvN6ZfnCHb0Dnqz-FdzPZ7WlOesu2yjgIj6Djcswt00JX6G3kIu_ZdV01gE2GR1y595ww",
+        "width": 2268
+      },
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107401431830561742283\">Pierre Lalonde</a>"
+        ],
+        "photo_reference": "ATCDNfWWMrOqqiFj5jdKa5sMniXej6MNCMnZ9S-Luvk2Uz4h4pKxI-c9Fh__Bmvet13ekS9yxaVklXSUmQd2mf1q8xIOdyypJLCT2vgYkfG9kipYvWNQVH0Ol7tEqkUQ_OUJ0VSQcrt9ApgBP4i7hS91kDbcWRiKi3WC0eRfT085JJYqNGxXxpZIY7vJF_f98iwlQpxwcpHVxU29F6mu232EEWIva37zamj7dd4y-7Ix1-SE_I9vdfDn9c6NGHFuDUgvBehjvSgh6JiOe1Qqzl7_PnknKInd8sZ9GefWrvO-qgihADWfj2eRGlCEIw1KgOlmOzXgVxbayb16UHoH7itmhepFazsOYmbknzr_z8PSgvYb4SKJb3HA4cRfsgBNUuASRLASJIKfKey8EqahikqQ6evYH-Db9aCGl2MIQgOoAhoePg",
+        "width": 4128
+      },
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104273141390380770330\">Comptoir St-Denis</a>"
+        ],
+        "photo_reference": "ATCDNfUW_2sO8Hsf-_bLSxl-jFpd_OwqwJWXh0VWm5NnsUlfDDaFeKVggNklBtYm7rUCaRllmGFVzDmR1PVcMipH0zpkBPcuWUI6eFfIkriQg_V38zWUS9nMtRxP1cfNsjX81WMcZeDSq22owU0oFz81M9YTF_46ErGVWbTQz0Owo11YvMT1r37pUSa1bc1Gxcqt0GAxPG84UBRTvn5XfnyTtI4kLgEZYQUGq5ChCF6yroX4ygHkN1g_pS99dPsTOPRJSfFeFZouhPgz_6gcAwOvrBHXNl6JFPDvVdiDnR8HpHw_9HIhKjOfEoPPtvIUGedvUribW4fMzlrZiKIN6673-GDXhpx6ET_odfbaPlLS4ynzZApsyi8ntLhGwXIfF-bMa4_VW5S021poG-BG0J1GFSIWOt-eeck5KdHoFFcsTVo1uXqM",
+        "width": 800
+      },
+      {
+        "height": 2254,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107918939065787769263\">L P</a>"
+        ],
+        "photo_reference": "ATCDNfXrn-Ffl0_gyCmZAsDnTsIolpvJQU-aYBKSAjmaNzvyUVErMLF-QmHrX5naEAj0FZKAr2LQd1HCVBSIREdT7JbDmqMGpeq1QRWmSsR49KHqwx9eDMFdgNCEGdjmjl9wqc4kM__PWPLl12gVYsHPJvX5x-agRL-9h7I0nh-RCF05vAU14pMT1W1NImsBxwkE_bypSYE1pOUSmSckNWvP5B8go4j_6gEcr1U0Qga7JdTLTpH-Fd2hlYBQqkeSonr4d8JuHnWPTfHaztOoBa0h0U9SzvMu3U89-QFJfqbjnrSolbjUOWmE_aDaSJsWZAe3QleHeU27u3XS9h4DRuM-Y-Z0ja75rN3jXzOdibry0S1k-d3qihUjjKbPZ221jcTDjvPUejLoezUXGlnTduHR8i9nD6c3i9rqA6Y_Hyuo5UZZTQ",
+        "width": 1803
+      },
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107489675466382496245\">Comptoir St-Denis</a>"
+        ],
+        "photo_reference": "ATCDNfW37FnciPDZ5ntt218-ttNya-uDU1nqyw8pBmYJ1hPe9zK6Q6lcjU-ST-T-Thb_i9niFWmNyKFfosSSvEE8kCnO_2SjSbxaDg2ZUuaA0jqFFCbf3Bh5z-YYefTIOOcqQiHlGIuJ9FV8J3VgRArq-dayCrZplt3cJitlXO195vf2vb8uTILm7-Y3kchVsjmkCnH-6DislGERD0j2vWC4P_hW1wxB7pq61cmv8Q3jV-q2Ag34-6Yc25-uXjIFpblu1-GynEU5i7CBck7B3riRaqywv3paoM1SUcZbTXs7W7WkyA",
+        "width": 782
+      }
+    ],
+    "place_id": "ChIJtfW60jRIyUwRJsty_OJ8FWQ",
+    "plus_code": {
+      "compound_code": "9WGX+8G Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79WGX+8G"
+    },
+    "rating": 4.1,
+    "reference": "ChIJtfW60jRIyUwRJsty_OJ8FWQ",
+    "reviews": [
+      {
+        "author_name": "Marco D'Onofrio",
+        "author_url": "https://www.google.com/maps/contrib/117305932160630571071/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGrRA91DWSEZbt1WJ5cguII0d2LE01TRWmLfKuqXQIb15f2AXWNQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "We replaced our kitchen counters, island and backsplashes and wanted to use the services of a direct importer/factory as opposed to a storefront order placer who simply takes a markup\nAware that most of the leaders of the industry are out East, it was a bit more challenging to find a marble/granite/quartz factory out West. (And I did not want to deal out East).\nWe came across Comptoir St-Denis and were not disappointed.\nThe order placement took a bit longer than we had anticipated although the end result was worth the wait. Great job with the installers as well.",
+        "time": 1583432427,
+        "translated": false
+      },
+      {
+        "author_name": "Andreas Mendritzki",
+        "author_url": "https://www.google.com/maps/contrib/117652477009235285701/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrKQDg6mbkEP_JdmBeKAYLXBaPtTEx-eD6a9djwXYH-zikGjXK=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "The sales rep I was dealing with was so incredibly rude, we decided to change suppliers despite being advanced in the process with St-Denis.  He treated our requests as if we were little kids wasting his time.  Not only will I never work with Comptoir St-Denis, but I will happily encourage all of my friends and acquaintances to stay as far away from them as possible.",
+        "time": 1688084489,
+        "translated": false
+      },
+      {
+        "author_name": "P.L. Graz",
+        "author_url": "https://www.google.com/maps/contrib/117640739887577166397/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYDD-MN0ZlOSFp-TSH3E0vgj2EWjieWFIGzFKrFtUpXcgtDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Rock Solid Product & VIP Service\nOur decision to trust Comptoir St-Denis to install a granite countertop in our kitchen was made shortly after meeting Elisa. Her welcoming demeanour, extensive knowledge of and pride in her product, and genuine enthusiasm to help us find that right slab of granite was refreshing as well as reassuring. Never was there a feeling of being pressured into a sale. Quite the contrary. Elisa wanted us to be truly happy with a decision we would live with for decades. She personally guided us through every step in the process: from our selecting our slab and customizing the cuts to our taste, to the timely, excellent installation. When it comes to exceptional customer care Elisa is a rare gem in this day and age. Thanks to Elisa and her talented team we now have a beautiful granite countertop gracing the heart of our home. And Elisa and Comptoir St.-Denis have a well-deserved 5-Star Review!",
+        "time": 1638145475,
+        "translated": false
+      },
+      {
+        "author_name": "LESTER WOZNIAK",
+        "author_url": "https://www.google.com/maps/contrib/113159782469360917539/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIessKIEKX7gHz9IM6YncgpnHxzNSmUpHNwWfDMpOb3gRF_kA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "We had quartz counter tops installed in our kitchen in 2015 & this year we had a quartz countertop installed on our bathroom vanity. Fantastic!  Beautiful!  What a difference it makes. We are extremely happy with the product & the installation.  Attention was paid to every detail, no matter how small.  The design in the quartz countertop was matched perfectly to the design in the backsplash!  Thank you to the whole team. We will definitely recommend Comptoir St. Denis to everybody!",
+        "time": 1474393170,
+        "translated": false
+      },
+      {
+        "author_name": "Patrick Dubé",
+        "author_url": "https://www.google.com/maps/contrib/104851433887485288153/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWf1NfmnAbp22pdFImtibSbkEaPIvx0YaOK3gkUI3H-V9ABeNwF=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "8 years ago",
+        "text": "Lame service. Slow quotes, crappy prices, horrible showroom experience. Ended up buying in Kirkland where the service was quick and prices were better",
+        "time": 1511498324,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=7211807692643552038",
+    "user_ratings_total": 23,
+    "utc_offset": -300,
+    "vicinity": "2480 Henry-Ford Rd, Vaudreuil-Dorion",
+    "website": "http://www.comptoirst-denis.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

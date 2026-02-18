@@ -1,0 +1,416 @@
+{
+  "query": "Entreprise Brothers', Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771337991.0164175,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1085",
+        "short_name": "1085",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1085 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 6:30 PM",
+        "Tuesday: 8:30 AM – 6:30 PM",
+        "Wednesday: 8:30 AM – 6:30 PM",
+        "Thursday: 8:30 AM – 6:30 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 6:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "1085 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(450) 218-4100",
+    "geometry": {
+      "location": {
+        "lat": 45.37345,
+        "lng": -74.04601319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3747616302915,
+          "lng": -74.04477641970851
+        },
+        "southwest": {
+          "lat": 45.3720636697085,
+          "lng": -74.04747438029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-218-4100",
+    "name": "Entreprise Brothers'",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 6:30 PM",
+        "Tuesday: 8:30 AM – 6:30 PM",
+        "Wednesday: 8:30 AM – 6:30 PM",
+        "Thursday: 8:30 AM – 6:30 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 6:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102644439955252634475\">Sheldon N</a>"
+        ],
+        "photo_reference": "ATCDNfW33FXsd-_CO1qLsB5kUeIKpjt9MoBORzqcv7FG8j_M1zgunAcOU42MkSV7ZRskpSaVHd4ops1U5xUID0IDVrbxDKKdFP-wUVZTKQ8ks0u8327EZWH2MW_SL-O_c8jOqPTkwQkSEeo3LgFUKTeXIcKYKVi3_D0r2sevLqjbqxwygugp2Xa7Yd68JMH6iB640RLHAXi3lAJZh1--slf55p0f7t7Kq15W1GcGOTV-4a0gZCwunWQgOnmPqy2ckPFZ9Vj9Mq_SEawgTi1HECO2gvvgEBOanxsCWcLG4a7sYa8zFumU2_Nuisfs_RKOyuZjaTZWAlSbhS6Re7geZjMV68YrTN2Z1PJhw8AkwZBxngs6RFKZrEzrliG24GRi3TZe61aqKtG9zsbIqNqis3F7BfrhDGEupx0Put16oBkqeSrMKa1oA0SWcUPo4rC-CA",
+        "width": 2160
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108139191854494619901\">Vladimir Sobolev</a>"
+        ],
+        "photo_reference": "ATCDNfUN-Wvv-7UQ0SKxxNMeJ7z7mqzhS1gyU1d-skACdWt-VnHzyP3LUYuRqYLyGawbfV7Nr8foRaxf7T6wVi9kauHuQq-AVZsU2m8AH-NEirw2WQh9YAxaE96dG0dkIk9dJMVDmxYdFMZfkS_b60VIf6UphwUq_cfBp7AdYQNMBIwCKuCuNSr_4wdw_BTEiRDJEhMTJ0HSpIfoIah_yddUd6DoSLnJdJkyIyzUodisVlL1uC8-xWp38Y43XX-3m4RVdbv-X39cBd2LPsqEsO8gRZr8CYoe9bSS3cLSrgnra4daZ6hRMz2ex0jliKnzVxmR_60MTEMaAWg-mcCtEtsxOqDenCRMfHt2Au1wlsBnuSSFcB3vaOLbTQdUkFoC9QBkDX_JVwtgkmz7bhNFrRePA2Nhg5IsfPdrZwDk_PlY1KqLD2ED",
+        "width": 3648
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105903580854846181225\">angel Calderon</a>"
+        ],
+        "photo_reference": "ATCDNfX-YuXxvodBEoE36K-mTOO6T-BwIOq5pM5AcWTEu8PodflPFOayewhYhbixlJKN4LyNdYCta3Gz6ydbEXC7cLAbwTYrIAsH5FXWrBQiPsgG3bCj9Ta0ph7iWHLHDMs0CdewszYiQBn0PbKfgZ17X3OpAYm8d0VUEH07jXNBysmZ7FdNmSRUH96irXdTu_k8Um9Jg3rH0lUG9p_Kdn5S2XSCNGAnXnC0vBOEZ7Gr0c3ALQB325tcjf4YNA3bFqINWA0PekimA0k8fJNnsLWuApPnsKtJEVxN75GFwxN6WgFOMBICkZxqcLLz2v6V2ASBtnJxOSyGnkGdStMS2GmBkvMr5u-i1Z5p8nse6cNlVDi-z25IZP5muF0oHm5tgYVp7iLGzCiQk91JxZ9cuWImPX78jhsfy6VhgywQtoMv3HIbZ1Zp",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105903580854846181225\">angel Calderon</a>"
+        ],
+        "photo_reference": "ATCDNfWSBjlQgqpdx1wvfTlCCV7O8LDfYKdDToEe_KW55vSogwEqgZrrPwc6_MnSNEqyDhAoYq8tIKIj_n15xeygAW_WQ_TfTKLwfNWDJtGH7Xmi38GgclCKGQowPuubSYeh_8MNUrKe1qRFjxAs0EKHDpuqHz9gqvqd3JeuP8T6VmrXbFRj8gaY9qxbGJKT2PI1HBaMBTHSqGKPeMoWDFqAO-1_bjdBam9Nal731OaDpb-vDh7sB-DvnnvVisUeslVKqJATFWWm9oFUGlAgWLoGud_5-KYpcM529292M7DJswOsEOuMOydDwkTQdQA2a0E3i550-3HdREGEuxSWcGmLTTMEFGH5lnJLZe_vb8PLI0vtKLGgjVNpyT5g5oO6G0Megbu4F4mZjS3EDRawcKWFa3Gquk6uBa1YmTAW3boUWYlzmg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102644439955252634475\">Sheldon N</a>"
+        ],
+        "photo_reference": "ATCDNfUcp2fAsgvIL_kzqoko51UZOMSIWzG39H9w34fvNKNrURBsLg1qJ6hW0NvZqGcRcKJ7SQ6p9JLELgMGb7nyV62LFJl9zzhJtDXnRLPIhJvarAbdDExvD46bLisa0cSr9MwWhB4PtRnxmcbrYDdaZHNCSHQN2YvXVqSpHqPkYqT_tXX9ceuvRCTLeSZMF3kHp_wk8FnW4sp_xohxbmYMOTFtM2rh-2xFLajuTVlDA2X08sKlnUfUpSyckBBG6I3OItd1_MEngYOv1eU0p_LZMKgxlv3I4lL8p7CieEyBEIAW0bsRL2PGB5N-R0ItiqH2ZYZdfKtJjvnxir_8fzmHy3NzTJIAA6Qa85hUDekzlvE3mU1bWNOJ0ShFM5Mv7aelGkegJxYsKmuqvue5jMQ5w87hoe0BxwuQckF7bKGBDvN6eb6ElvIZusexmXKqO4_C",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105903580854846181225\">angel Calderon</a>"
+        ],
+        "photo_reference": "ATCDNfU-N2nsBiEgCF5Mk6Opb3j3snLfSwopegKNicdLJqsYH1F-OujZbIGrWsgqVAjw90SFtmtYhe0whK8Vqa51b2XrF3X48o1ZyjzLXbv9M_1FInzv8ltsOLBHqEVgTNf5sYObJ2rPv-uowWsJYgF39xOl3y240fvrkg6xNFkQCXZD4kfHSVFlqfQQFu9HKkIXmWa5sv5xNGOaoSCHBwpXGLQJJIvqxOwH8EbIL8cG96B0AvYzpP4EelyYDMdEPPXgFlchl2IhfIUZhz9CR4-riQUrHff1mwAa7wchzu96yFVqUfYysHEKiHvvOP0aoumDvViD2CBFnjcGrmx83t78nMda5ejxen0i2sa9XCj3RePOxElm7MYXHMdnMerpbFeevNKk-22QW1G0_ySCB9hUDYlvwLctBlb9_ts4PpiDOi0rLGIJ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105903580854846181225\">angel Calderon</a>"
+        ],
+        "photo_reference": "ATCDNfXW2Q6YBcavU8c5oFr-eJzWrYX8CvG8pid_WoE3XOGAwjO9IExurak1LYOGNdMPFRK1HJY8_dun2QwY4dAbIP-Cdz1MMLxLClhzblphFavOaZuIsJx7o0k8HyKxHLQsFz0rT9TqzWyqs21eaBWmLl27LJv_h__XhwDiYtY2oDgbvPQQu0hOHq0DarfCeztRxG9JFCWzIM4gmFzirHbr_fKWW6YIh5aQNyqDztV20OqGZI0rUxbkwTdLE6IsjOoudakn7zNSbrWSZQLkX4AJso4tycRZYALkJD03rAf0XnS4J83AEH8KfJmmpd-xgXAgOl-u9Wb_JmQsIy4p6-IvBfrYpsmD3SAniYwlnw5F1mqGHbhqq0anpkFn7mo-QdUMHD7-hQMsuGXaN1R-yv65Wl_xy83mLWTFofPCJLyw_69GaTL0",
+        "width": 3024
+      },
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102644439955252634475\">Sheldon N</a>"
+        ],
+        "photo_reference": "ATCDNfXaXivuPJK9yf7z_xg58_BVyMs4xeIxpCKQAbkCU4ubqWECNcm-FiFUcRjVyrp1U7mhnjwhy882rK61rAnWJEGMkrrAKwDT8OBLz4aROPHc41ClwROwVv3HRRRpTsXemO0CHKOUNdWQQKctlAzhiULuwuU_4g5HDNfncrCWwKHijwUh6JAYDe9PFK7FpGhUPVgclG2Gt-yyjqDA_L9ATbl9-ZcIsFQO7G26gawWsbfKLFfXfJ8qKmtm2hUU6yoK1229mLgiu6Z9tDM0Zu_p_HDUphF6i8jIAcKzuN6r890TjurjEynprYklVzu2g59QjW7RRZfNlQHXF-yv_GPxEokNye401uUMdOnTggsqEf-SfQ7IL_-1qy9uGOy5E4CDBkI_e6CmqnOOmEgznen6-RLJ_t3iW2fH1QJPUFWd1Vzu-gTKEysLYN03KNoxnlZ7",
+        "width": 3840
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105903580854846181225\">angel Calderon</a>"
+        ],
+        "photo_reference": "ATCDNfXlgbhF1wO9A3YjbUUdKbPWs0PsLCa6_v55jeeqs1A_2oE1E12ybOVZYMHBj7Simt7uaSJ-wkzcxRQmbYgJqeHo3GxA17RSfyBHEx_CghoxfXFF4k3GNK9LzCpg7VwLeCtpAHA7PKi6y1dOSBd100zNqihkT2d4PshLq6LasLjUbkzSdoV8u58wBOcPuVyZl0tqXguSK7m_CgFNOUKFAUVRHxrb9XGf3uYhVxSFdlO7IC0z87Njnlvu8OwPfHgtjoXhQaTpIXipkKM6xp19tCP2lp68T_DRN3bGGfk0047ZTtie2nquPRiL1iEM2-VAs1NbuaEvx9G1ExLsor5C7FeqJdur2QamaFVV9LFAXW-f3jpZCbPEHLbvJNOpA79Qccht8zvesRo3ghci1AlpxUFmSvCVjKK8M9RkIyjwjucAvAo",
+        "width": 3024
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102644439955252634475\">Sheldon N</a>"
+        ],
+        "photo_reference": "ATCDNfX2xK6K0TlJkTXzbKdPtPKaVMh1gREEaR-IyRxdorCGLx9H6TnfaX8GEWqMAXw5HNGxPH07eEM3C9e9uwRo7Co8Pv9sb1zr59crpfAlbaxQUAeBmDnSnrceS7pHcAkDysgBvVixs6xMfCcMxz3FVmPKExCthe0CeL8ezfOBZpcW_OUmt6oVLLNh-oqg2p5HpzzV3wiVzdYsAmUgMw83XN3yyw6gc5CAKfyhN88gCPirx_Vu3PHRXIxbSrhtXthlrrap75ytCNbhIM7wY24w9pPZumfHTZrQz8wUuSMXIM5pE6IZcUBE340WpzeVmp3rZ1uh7Yh2lcBXaxCYGn0pqgeIl9Ik1pqgw0WqV2apfT62QGKa2e2Ua38tz1ZffpSIGzK7WqpyDfKtKk9kjVA8_-wNcSG3Kj1o5orLRUXc9J7Cw2sKlODMLcuQeJY6YW_1",
+        "width": 2160
+      }
+    ],
+    "place_id": "ChIJ7yPEc-xJyUwRKExe5TaXBlo",
+    "plus_code": {
+      "compound_code": "9XF3+9H Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XF3+9H"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ7yPEc-xJyUwRKExe5TaXBlo",
+    "reviews": [
+      {
+        "author_name": "Sheldon N",
+        "author_url": "https://www.google.com/maps/contrib/102644439955252634475/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX26hFxNCNT3Nik2w0pkxHUuszUSk-wwT0FnifhSwdM_WcV-7ec=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "⭐️⭐️⭐️⭐️⭐️\nExceptional Service from Enterprise Brothers – Above and Beyond!\n\nI recently purchased a BMW 328i from Enterprise Brothers in Quebec, and I can confidently say the experience was nothing short of outstanding. From the very first interaction, Dawson Jones, Bilal, and the entire team demonstrated professionalism, efficiency, and genuine care.\n\nThey responded quickly to every question I had and kept me informed at every step of the process. What truly blew me away was their commitment to making the transaction seamless: they personally drove the vehicle all the way from Quebec to my doorstep in Ontario—in just one day. Not only that, but they had it plated and provided all the necessary driving permissions so I could hit the road immediately.\n\nThese guys don’t just sell cars—they deliver peace of mind. Dawson, Bilal, and all the brothers working there are clearly passionate about what they do. Their dedication, attention to detail, and willingness to go the extra mile (literally!) make them stand out in the automotive world.\n\nIf you’re looking for a team that treats you like family and makes buying a car feel effortless, Enterprise Brothers is the place to go.",
+        "time": 1759071051,
+        "translated": false
+      },
+      {
+        "author_name": "K Jinadasa",
+        "author_url": "https://www.google.com/maps/contrib/107602358916452658463/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkRG44ioNT0kyaECjj-ZGSd3jlOxApE7UGjtBqTJEFDSuv4_seAg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I just got my tires changed here. Great friendly service! I was able to bring my car in the same day. I'll be coming here for my tires changes from now on!",
+        "time": 1590416940,
+        "translated": false
+      },
+      {
+        "author_name": "Tarek AbuSharkh",
+        "author_url": "https://www.google.com/maps/contrib/115828295001139507218/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-Xv5JX1wi4yoF_WkGZd7YvNGykzqghoqQQK4VUVw4H1P5jffm-A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "changed tires here very friendly and professional,  I highly recommend this place",
+        "time": 1607200741,
+        "translated": false
+      },
+      {
+        "author_name": "Bryan Landry",
+        "author_url": "https://www.google.com/maps/contrib/114994065128113043033/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOmQbWX9MqccCymOE2H-AuSfC8hirbY_dnypBAbBUgNjS2dgGZyg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "This operation and personel are by far very profesional and they truly understand customer needs.",
+        "time": 1702999985,
+        "translated": false
+      },
+      {
+        "author_name": "Ryan G",
+        "author_url": "https://www.google.com/maps/contrib/105643293386811537623/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISWg_GVkcF2pqXtH06Uq_ORavd1EfVPZdpHoBQDWbJRDlLtg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Always appreciate their service.",
+        "time": 1590956521,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_dealer",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=6487038575305968680",
+    "user_ratings_total": 15,
+    "utc_offset": -300,
+    "vicinity": "1085 Rte Harwood, Vaudreuil-Dorion",
+    "website": "https://www.ebrothers.ca/"
+  }
+}

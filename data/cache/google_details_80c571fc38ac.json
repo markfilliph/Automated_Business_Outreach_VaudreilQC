@@ -1,0 +1,510 @@
+{
+  "query": "La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338880.4996905,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "10",
+        "short_name": "10",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenue Saint-Jean-Baptiste",
+        "short_name": "Av. Saint-Jean-Baptiste",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 2N9",
+        "short_name": "J7V 2N9",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">10 Av. Saint-Jean-Baptiste</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 2N9</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ]
+    },
+    "formatted_address": "10 Av. Saint-Jean-Baptiste, Vaudreuil-Dorion, QC J7V 2N9, Canada",
+    "formatted_phone_number": "(438) 951-7371",
+    "geometry": {
+      "location": {
+        "lat": 45.3833119,
+        "lng": -74.0106914
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38471123029149,
+          "lng": -74.00926706970849
+        },
+        "southwest": {
+          "lat": 45.38201326970849,
+          "lng": -74.0119650302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 438-951-7371",
+    "name": "La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2368,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfVp_gp_00tl8ot2V6e-CexFRFQxtOdDzHg_kHs9EJ4-kPHIavB8ai-n-pgDqV4g11ktEeKkzkdC7elyheEUHjQI2wCEd89645nvl38tNOTQReYDVPCtRRnv7N5QOOT9F8U0-k0DQJSHWbUueKkDso2yly6QstDy0JtUfxT28-98aok_gb84AD4VaEKD-nfyzynQtAG4Dea8JKdmtxupuGkgVNogMmpAerkWFSHujOSm5b9i0oaspRsn-ZPh-Meh-SU2D-DZYb5nooB0gIPSXSrml7sGF5gLOB6JKbk86NKW1g",
+        "width": 4208
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfW8RkykxA3GYk2Udglj7e9Rv45OCxnNoz-0X9qzBW9gwnB-49ByDbt5IdG2lVt-MOcXi05E2b4Ei2AGrguTZF6NlEJWuIwR5nOkiuhS6E_ByvRyIUu5f7lMYNIYj7ElFaEY5SP_A43Me0Mgu7c5wbo0Cubgl-kFJWHrg93YmdtjT25yi6bXUdLKUu_SCbot9r2r9T_PBiGmyLQM7dnNm7sQHNSCufG8XnSATVSczORDZM2svS1ARK6h6L9ODGds4vqBKnIUmn2KsssZSlSPpqgoxaC3sP82HiOxPI_Udnd-bQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfVh96-v0KFRxWxyLAiTsfCKMSlGm_mZT1dWvz-b1b3cJsj_pTTp_njKW0-LY8fn4VZz9bDa8LsgqKjg1NZ4eeL28I1RrFRVp8dxCtBzJ9ZTPRx41G87lTEYH4Jd_vEiglsXRzGfUChd97BCs_J52m_nHjx8Aw8b8p2TFjKBgeppwYzNsFJcA85UHEdoXYYDSXQMCdojkjIlGiQE1kuLCGSfKyrYLBNni25ced7LzohzbDabVDRqLWpxKkNFspOpve5A8F0yJPVuSp3bn7fvO9ATepBqgZHn7GPv4QeQni7zLA",
+        "width": 3024
+      },
+      {
+        "height": 425,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfUJPF7_KYxO5LkPyZMm5FXlt6Zs1VCCXaI_X8k4K59mtC4WOo5lZyPvomLLP2U6YBh5qi1qrs8CvgTD4YvnlJ67NSn5M-TfjdogVFfmIlDMlqg9vRGrovFI0WaDLqSju2TA7DGconOvUdpRIiSnLBn1HOdx7res5tgo3GPPhJnbB_GXtE0eZm2Ur47xWkvy1RO0dQolcq8DvOQWR4tKH0w2eDoCZJ_5GhZtFDNTWZVXy_0d-Z7FQ2XiKd_S9mnmSaHMe4HaKdP-ByC35xAGIJMsMtEH89vGnnA8AjDRu9HnmA",
+        "width": 566
+      },
+      {
+        "height": 370,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfW00VCVgaoVuWqRfsIL3SONzYKRJSzSd-Uc-mJ5TxKrgjnmMFwvpu05Z-YKcyKJk1-4aYNc2kd82eigX7T8GwTw4J547h4VugpzrwgnuUEgeoXe4grWSzl64aXW_WzwXQfTYdAZE5P6rDys8rWz3VHScOJCArk3s_M28N31_622pb_kwFkZOVUrAnfCfv0j7VKKIWej_VCgyuJlhfQfLAUv5ctp97L1BiEnkMXuPlvF962sTi6o9oXfqDuYLJpgyx_-jcSFLaYfpQlVf6Gad6Q71_2JLVf2y0fdLBOBOmGGZQ",
+        "width": 394
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfVdcCpk1Zmf80YRM6rPlOvF3SfSEDBiXjlV3TdafnjWb0-nMngJmViXFH8AyQaMyzLJK_mVOa6JWAcilKv-FUfCQjMguSEbZz7dolj-Ei540UD3eX7P_lglukxEtXQaUJjlSoL8tp1AahmMAn4o29BkJLVb6oK-BAvDA9Cuq1UbsQYZhst_NlqQfR0U34XJ2anugDbS0_MWKWSdxprnURDHkKwKH5iQ6q-XlMN7_itF5E75UO209szNO6KieC4Z_RqVnGR6VoLX3bSQVwbyCyMWyyPjTj_Rr15VlXfklj5gCg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfU2IOanTp_T3n48Y2u9Uiq2SU7EPTZYyDk_TMOeifb96Wt7xkifzbGv6u1oEdL0TjEQkx6azpPTnbN-0Uoc_3GF2Ljv78K5g4VrwBdOLqB1dHUuA8CSTD_8WDnx8_5p9us7kvxmKhw8Wpp9IFu9GG4-adyZjuGbqZi5jzyvUQ6ch-AL5Rvoa_yBQHoxRGIEoQ72lgaUWM394xF4O5qM_3-oxFLXnxpn9ceJ4LgMES47bQVnAeBCl7Pxc4kr4jVnFazF57Z1hEkfWQPjIKwi1YqSqLVQlm_9XyptIYEgbwgLKg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfXD5wR6LsM7lKvLMJ1bS2bCnL5n3ZD7OiX8A8s2SFT37vjHAPHO03FMylSvBUiVdVsgZACJZPrHS_N3jHXEiUU_IZVVKGlE-lH-1nA68IKWLfZjj_vep2AuzskdWhENszpw1AlMI1jLEREljpBpQRFVThQb_pW7ZLDrL0etcey1Z6QGBdFjKvgjCQFeFZawK0BK6IbPEPz_wmA73_CXjUpYdGVbZNh7KdU7l_YZS7G3XrYvXau3R8QYNbOLbbE5WCOxRknWJtnUdzRgO3nvXPyH7j5Cy-Tl2gWLLswsdAeT7g",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfUck4wrV8NeopX8ewz6_iB2HHVrXE4hv4RGMF71rOOnSxMMpGuEyO2KRgnZIREuBNhnELCbK8_etYMjkXYypuk30NZn4NgU7Sfn81PTNqtFhj-Oh9EwaT17kFUciToidptD2GsWJZy9iuszdFK2HMlThfbAZykypj6tl-YXko0U0JPuq_dkPLWjyBw_RTxZ4jseqSyvSAos140e96L9LNit1KhrrzHQ1w-PPxDkC5rqMn5gghSqqubhGZDoJ6qKN1c7GUgWCR4RqEpaxXG6eibSxJojdZyiikSD68HJEqfbDQ",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110747169448321906992\">La Clinique de santé mentale de Vaudreuil Soulange Mental Health Clinic</a>"
+        ],
+        "photo_reference": "ATCDNfW5n7Ffr5-dtcoiAvvJs_5VV3fs5qpzuWPQwVOdgIQia7I7f28iCxLy7gB1GTmtwilDcjazCIw0gjLXjoX9WtW6Xf94t0dKZIhYHOBYLWZyaD5vkC4LUw82j_v0QRturiMYB7o8BVa1DCT9vNZjVh6i0hzHBfyTmDDF83gi8uumTjgkq_Qr3tVlyoQgDMsKzNKNMEgiyzmsQN3us41HRcuQgqOX8SYQ0MR9jjU35sOgXx6ucwCXAp-lzpeDsMoHOvMy8TcnKBh4DDWhm6WIy0pM5lFITMAPqLGDonkX0_03Cw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJLwommv1JyUwR2BWyE3RInKA",
+    "plus_code": {
+      "compound_code": "9XMQ+8P Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XMQ+8P"
+    },
+    "rating": 5,
+    "reference": "ChIJLwommv1JyUwR2BWyE3RInKA",
+    "reviews": [
+      {
+        "author_name": "Harriett McLachlan",
+        "author_url": "https://www.google.com/maps/contrib/107491349576405334799/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzEfioEkbSt11gv9WAZdAziWLyXAi28jxZgqh8VpEE1LVYniwT=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "So grateful for authentic mental health support in service excellence within my community - thank you for being here 🙏",
+        "time": 1759281700,
+        "translated": false
+      },
+      {
+        "author_name": "Saverio Spinelli",
+        "author_url": "https://www.google.com/maps/contrib/114827099939616530608/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXhd01OihUG0zaNusC_IzDF8vqONizxpqHwqIPp-jZt-B3-qo=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Fantastic clinic, thanks for your help.",
+        "time": 1756321522,
+        "translated": false
+      },
+      {
+        "author_name": "Lisa Loveland",
+        "author_url": "https://www.google.com/maps/contrib/112225870244909176709/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfsdZ1OE56O9WPxTOOl6Opv7jrE29SN6HEp5Vn_RXzMEmfFQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "This clinic is professional and tailors its service to your changing needs in the moment. Excellent service!",
+        "time": 1740627303,
+        "translated": false
+      },
+      {
+        "author_name": "Kelsey-Ann Ranger",
+        "author_url": "https://www.google.com/maps/contrib/100183047640572505483/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEPHOV5GoQv7kC99CDZWhJVorntz3K5TzBlSBU9RhH7Pee_AI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "",
+        "time": 1759352221,
+        "translated": false
+      }
+    ],
+    "secondary_opening_hours": [
+      {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-23",
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-17",
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-18",
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-19",
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "1700"
+            },
+            "open": {
+              "date": "2026-02-20",
+              "day": 5,
+              "time": "0900"
+            }
+          }
+        ],
+        "type": "ONLINE_SERVICE_HOURS",
+        "weekday_text": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      }
+    ],
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=11573204805819176408",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "10 Av. Saint-Jean-Baptiste, Vaudreuil-Dorion",
+    "website": "http://www.vsmhc.com/",
+    "wheelchair_accessible_entrance": false
+  }
+}

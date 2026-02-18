@@ -1,0 +1,394 @@
+{
+  "query": "Tenaquip Limited, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340659.7453947,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "22555",
+        "short_name": "22555",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Transcanadienne",
+        "short_name": "Route Transcanadienne",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Senneville",
+        "short_name": "Senneville",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montréal",
+        "short_name": "Montréal",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montréal",
+        "short_name": "Montréal",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "H9X 3L7",
+        "short_name": "H9X 3L7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">22555 Route Transcanadienne</span>, <span class=\"locality\">Senneville</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">H9X 3L7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "22555 Route Transcanadienne, Senneville, QC H9X 3L7, Canada",
+    "formatted_phone_number": "(800) 661-2400",
+    "geometry": {
+      "location": {
+        "lat": 45.4230958,
+        "lng": -73.9658829
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4242685302915,
+          "lng": -73.96435516970848
+        },
+        "southwest": {
+          "lat": 45.42157056970851,
+          "lng": -73.96705313029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 800-661-2400",
+    "name": "Tenaquip Limited",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30 AM – 5:00 PM",
+        "Tuesday: 7:30 AM – 5:00 PM",
+        "Wednesday: 7:30 AM – 5:00 PM",
+        "Thursday: 7:30 AM – 5:00 PM",
+        "Friday: 7:30 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 762,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116188726867618826757\">Tenaquip Limited</a>"
+        ],
+        "photo_reference": "ATCDNfVe8UfHQGLsz12X5yMkW7lRSPsqi2u-X5wnVIx7lCcgHDVZK9P6EigWGqruBuMSfh4yJsWGTABi-jMohSZediYvb3ae6xHgosrU4rmh_RWZgKbKGfVxomLMwUFp5F1iBRjSiy-XcoP2Zd1IU52S6VTmtr5KO_Hyktw9E8w4Z1JW7jysBaLKSstn8o7t3cg5IDf8joZI9mjMB6kP0p2yRz_1TeAu0UWLQAgaxevswaP6H3EGiWqddu3JgHl3v8pkBUlEfHaYXg-9RpjXkIcp9cPtC7A8TyhgGpzQHSkH_R0xYg",
+        "width": 1351
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfWgScPCg0IHSX3rWIgKlI6c0GEcoVMPOPszdpvldjJlNKXQ4p941atpQxCiFmqswZEY40TQJjTJ_965qslbsjFBFK4n7gj91xu0i1NeWbrXmFjuZ3bM82hieAjK-Dc7DWvKRWMLtJQ95jCaL5lYi5cIdvE1_LbALc2q5NuwmSIX1Q8LfCQanMtSd2EwlVUpBE1xqT6wBdk60NWBJcX_ZxxxyLbCniPJ9LDRzPxU3V7aL9c41V3IPwfjo4yE84CGIXz1ndGn-9QywsgZmPkV2Kn7y1i6ABiQHkyEIMcQaPibEY312C-kaYXXCJ0z1AdV05MR6RBFqy-YuG_0TGYMMGvQ_xuNej3aIbNZHo89_87rENpQGmTzcyzcx92wTfzgFx1qJoH_-adIagLJdAD9CWz3Z28hfIrR07GP0kP_Ljoeqg",
+        "width": 3120
+      },
+      {
+        "height": 2653,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfWJe1itJ65fQ6h9DUYmx2eJS7WqAoTQYJtYaUMaVfyQykK9wCra1sWtiWFC97vnSwfZTPuZl7FhB0NVABJ9caL5-xbB2uOGWgcuGvs4a_MKmSt0xk_Eddj-iDMV35iTes6L49JW7YVRbuIa4f_7uBbQN_62RfKOVhuhFTn7kuWIxlhd13OMufaC1Gd2Lr2vSCiGUA1g8wxjkHk-15f9RIflcOcoLEDZwBp9LcmdRsaRmPtcmVjZc_AxNjhcENZYlpT8un7k60UjMTAp19M5qU4orzTiIigU6wetijC9LIxwMvXg6wQuW7McLgpA6naL0_kUE_TmdqfTKMfL2MqUjo_ODWMPAVX6Ttv8dn2NqxfMjNx5CIo978wcIYJQ-PuPsqhUIKZKS69Bkkr41tiNP6JJiGHUpO2SDcoM5mZytBPWNA",
+        "width": 4656
+      },
+      {
+        "height": 3449,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfVNf4XgCF2fz-AdSXdj-7-wsoDqcyWCWi1GYQbL5nPwVnroK8EpfFu0rKUWRhif1mpBQAuIy8T6LUPBHbc2ZmyPjlzXNLH8djjW8DVcK9JXn3NfTakgmlQuJs6VpifgU9Jca1uM9KR3L3g-RYYYrNHP9fMtJYMsYSXhKgaqUmYh9ZcjTiR92HGzICyskH9vF-0iVlRGfvuQs20GUrebQbZNB6Zf3nakp6gM8FUMvUutv6cx5hu6ih1NwNFUYWX0yzuUw_AgMlaojMtLUfAgbVZ_8BC3ukbxUS42sT5e_RREA6v2k18gUayAyb67BUPo6m3YuDzr3IlF7nSsKkFFv3mSmzZc39X6IwT5rgu2NNs9-msNS0FmNDuQVlRF9aHVxdcAr5GPkZr2nmLe2wOH93T7RewF58SdPwpGKyGoWVQOAQ",
+        "width": 3120
+      },
+      {
+        "height": 4656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfU8oa1jUILNx5z83HJGq_VuOSUIch7CJCD-hLKaAl18xCqtsVt9gKCTgW48eNn3cElUwmfNVg2D54pQdMvnxt8g6HYTNSIDRb1WWn5VoQsh1yNtH_JiRtJMUAegUtxYge2nEHqTeqVnRs4hkUlkjIlptIU6KoPJP2bhlvcU2sVjF-1AV_18I4G-xup1LWFJpEkwLSOutkJW_01Eygsew-_KMAcS99bjTMz4i1zyywSMSr9W7b90HkgEDrFyUxkYE1ZYp9GPKC_mkl70wd5D_JAXokXtqsRJxgunyiK6mBTnp0J7RNFpT3f3qvUKfHWFz_TMCHJN8EP6nBE3muZI1ifk99tPlrL55vOBZoPg277jpS8Fe8XnYudNI8iUAQSH1v9YlXloX47C8GS1A-LSgnHLHjeB0jLBhPvSh_5EVnNqown9",
+        "width": 3492
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118362261203964440551\">Jay Weiss</a>"
+        ],
+        "photo_reference": "ATCDNfVgOt4hw9yeaVo3QIhjxb-UAAwPTv5kv146jMy5JFg9Ew_C6oizrZfNE0Wc7FB94kjGZqxqW1tOyMPHEDmxCY__oMjAXzmAnCD1Q95OILxgw6yH8RWNpXQlsF1pGotpMknvSxVcZmvVFKqwK3Llzhu5ZqrfAzpfAk-NJgH1nHdMZSP-cA_C_xkFEuzkJQlP-lJ0KZDfVJZtEECu5H-VRQLuSb_uzJ1ASitfXzLWFMUhKcdugORD309e3RdppNoG5L-FS8ePOkMkVBKj-mFsWfIFRCsEUMErwLhTM8Wimni_s_GrbcooXDl6aPmV5ADlqGnm5THTajt7EsBzWSTPX79BY2smkxzXiU4s5A829S68lmob9_MbbRm_FfWZ3_y1Z6RS5eKZYiE4tZgRsMpYFFxIzUI20kCna72Zer4q4vw6E94y",
+        "width": 4032
+      },
+      {
+        "height": 4656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfXQW4qr9Z2myJD2P8v7KD_pnUlqnT1Uw9ylBzAKN6pTgyqB3GCC5mnHx5YH8tAK9CCAkoMKxWJMRljzAvTsGJfaaG8im1AO0sZdJ3dnRBOUMQfFdN4jF6o1ugXuWJGSipOkWb4A5QlYWTpyWV_hZoTehLn0F4lg1BVdhqyjs57QIstDjH0JEYB95FGR78mUho9LMJnBeDdXmhP6JyCDG9WH5p2_-eV82oQc1-tE3aLAYiftNDUIQRKglLeVxk1PeHwg93Y9mwSd1ucK5_PBkVxadGJh0GiUec4lA7x_85Mq4JL9fjtpdkyvkEaPsTy9P1eYSq03hxbq-N2hehgz48cIKwFRCjYFwm8Gg1qBRuOZzt5m2p0vqKNnmMXUXNgQdv61kkm6iW0ixM2jb1k3tuVzRHGC7uZrZG8WMzb1e-N8gwc",
+        "width": 3492
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115091707281265988919\">Guy Brien</a>"
+        ],
+        "photo_reference": "ATCDNfUG-3CuVQkpll-WOAXR31SZbyGRCOxlhDDHdunAbgW7o1OlqRyOg6FK4dDePOJIwiq21FERHXcHqXvzPIIq86GgmF8um0a677cLieCu_MN1qtQ-6ubawsCJQdOWdZQ-RpV6MymXGqDdzniiDoFv32DG2aYO84_7L_tx4f8nn5M8-0p-gIm7q22LXFkDPJGDRArXuwglnKIRtk47_X3fhdvdKssWL0At9hAE09qqCEyWmXpLXVKiAmr8XM1Tf9rsHDQjgNylDWJQwq5587SNDMp1qziSEMMoKBPNT3ivPNzkSu7gnvGsUbK1ya-OhIczQj_Z83sT2nW46mZ1maQik5qhJANQg9llbpBL73dR3XZrWopzsy2ezeoiyoRjn5btrdkLFIGLL50Laj4Q5JOLF2xBWqRCVbiyzhHaxmOFa1A9Cg",
+        "width": 2000
+      },
+      {
+        "height": 2125,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117209504979723715100\">MTL KA</a>"
+        ],
+        "photo_reference": "ATCDNfUne59at-nx2Kgaoc_rcjKExy8UTCY1Ybu636SO6CiBlHcOZY4NdWgrOUaPZhVxaJnEseEzQYCggBOfkNaw5kaye77HsiIk-QBfyzzzOENW3c055quJHDo6bc9AVUNxKo_rEGTN2Ix_JCqH1c4SrD9UDwV8wg3unupriQMOyvij0h4NwTh5w0prmAmmL19zjIvCDl-TimLfcITDPWeMg8F0NE2wQ0-R-83XB_I1ZUrmgTyzMGDXDsNBissowKmPjbH93F6sv0pD2ItumQIt57thiRZrXRs1G7s4PgXUDs2j-9NcwltPG5WHWphMLMsBounOhcbPOVnG-3SxxHxQQIxGcJu7G0N8c9Xxw9qQ6veOK7wqfsOJ6r-DoSkxmmeCVMXJFvQL2x9RZltyepOtXk6ILVIPZ0U0q3mA2aDB7D3x9Ot_",
+        "width": 4581
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115004348574566911075\">lilicoon</a>"
+        ],
+        "photo_reference": "ATCDNfXJvgkSAOfVr7AP-eT3xyL7hSjwFKdZaa-LMIHWj9yyxxk7nzaAMeh3KQd3abCOKjwNamwG018GSn-xsH4Gn7iVviwryIxlW3aQQYT8fFP23XAiTZbyhA5UlCyJr-TE_f6IPUREBspKwCfbpcEyHVdFudIcJVzDl7fw4f_DAbcK7YKANb9E_fjK_7Uqj7uHJMXzT-k3AoDm7Hu29fNKGwA0z2W0BxfjgaApKlndcNH30BZLcDb_-RkF-vL6y-gmT-doI0_frgFGLzGwJEIOKtWe5lcKnVUrYUIErGHKePl1OOjG8-xM3wF3MjLaG8UOC2X-m5ir2Xfgb_z5_K-su8ColXuyQ97FAmFobnPiA-nvssA20qalyinGEAUElmMzKdIem5MbU93TcS009D4JDz6Z0zaRTOaERfMvwgQVSy9XWVI",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJL3oiV6A5yUwRa6P8wnYlbT8",
+    "plus_code": {
+      "compound_code": "C2FM+6J Senneville, QC, Canada",
+      "global_code": "87Q8C2FM+6J"
+    },
+    "rating": 4.7,
+    "reference": "ChIJL3oiV6A5yUwRa6P8wnYlbT8",
+    "reviews": [
+      {
+        "author_name": "Eric",
+        "author_url": "https://www.google.com/maps/contrib/116083119696306793281/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7dx1CrI0MSDBxr8NBMZ2cxh5nNEHVhOGJgmq_BhKMsw2YQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "To date the experience has been very good. An effort was put into verifying that I would be ordering and receiving the product I was looking for. That is great because in this day and age there are a lot of companies out there which don't understand  what customer service actually is. Thanks.",
+        "time": 1763572072,
+        "translated": false
+      },
+      {
+        "author_name": "Dale Hambly",
+        "author_url": "https://www.google.com/maps/contrib/103687075933429060784/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlS1XsNp_Dla9LEyMxOfFaRkKc-YRhtndbUroHlToNScAfdT0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I have purchased several times from Tenaquip, great online store.  Received my items quickly and without any issures.  My last order was unfortunately damaged, Tenaquip replaced the damaged product.  Great friendly professional people.  I will definitely be purchasing from them in the future!",
+        "time": 1761853382,
+        "translated": false
+      },
+      {
+        "author_name": "Bri Foster",
+        "author_url": "https://www.google.com/maps/contrib/114180099726480896314/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj8z5TL2lrGRXvFSHmjom7IHIheMj8SakhvQQHIrXDq5vH00FA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Thank you Tenaquip! I had a rush order and you were able to process it as fast as possible, saving my deadline! A pleasure to do business with you, and I'll certainly be back again. 5 stars! 🏆",
+        "time": 1761845745,
+        "translated": false
+      },
+      {
+        "author_name": "Some User",
+        "author_url": "https://www.google.com/maps/contrib/103610703734804686940/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWRydvJ3IcVlzcCkZllznC2CnWUzBEIW_nWiYq_xf5oYFgJw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Ordered a lawnmower online only to be told that there was a price error so they were canceling the order and issuinga refund.  I usuallywouldn't have a big problem with that except they've held onto the refund amount for almost a week.   Won't trust this site again.",
+        "time": 1757699202,
+        "translated": false
+      },
+      {
+        "author_name": "Ellie Wright",
+        "author_url": "https://www.google.com/maps/contrib/103662966377060257904/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTOI8hnTm4uhcpL9D-zoyvm1_GPKicynvMpZhKkR6kBf7N2w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Hands down the worst ordering experience I've had. They sell things that aren't in stock and then it takes months to get if you do get it. I've been fighting directly with their customer service department about where my items are and it's like pulling teeth trying to get help from them. I won't be ordering through Tenaquip anymore.",
+        "time": 1767815151,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=4570350388858626923",
+    "user_ratings_total": 796,
+    "utc_offset": -300,
+    "vicinity": "22555 Trans-Canada Hwy, Senneville",
+    "website": "https://www.tenaquip.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

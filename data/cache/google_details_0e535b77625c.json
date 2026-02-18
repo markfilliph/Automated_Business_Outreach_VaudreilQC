@@ -1,0 +1,445 @@
+{
+  "query": "La Vie en Rose Entrepôt, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339854.3455422,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "100",
+        "short_name": "100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "3150",
+        "short_name": "3150",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Gare",
+        "short_name": "Bd de la Gare",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0J5",
+        "short_name": "J7V 0J5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">3150 Bd de la Gare #100</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0J5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "formatted_address": "3150 Bd de la Gare #100, Vaudreuil-Dorion, QC J7V 0J5, Canada",
+    "formatted_phone_number": "(450) 424-9733",
+    "geometry": {
+      "location": {
+        "lat": 45.4036073,
+        "lng": -74.0488314
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40473233029149,
+          "lng": -74.0475049697085
+        },
+        "southwest": {
+          "lat": 45.4020343697085,
+          "lng": -74.0502029302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-9733",
+    "name": "La Vie en Rose Entrepôt",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 358,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107870819779858654815\">la Vie en Rose Entrepôt Les Avenues Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfVAFMwKOZO6vOL9uMF7x3oEYGH8nkblPohJrygCke5HBPafvwDyddd42fIa2iaz3XT2w2yr0RyM7NuH7wM0cMcXCEO3UC5Z5Xwcamw_qPLq6HJv35-JX6f1baWDCvw5ABMG_kfOGmd7Tod7Ri3ArLz47RE1V4aBydYp-sDDeIQneLlVN_3fG90Mq6LL6fpHDHX0fepQ0JM655au8irlKYTs9Q8cfxZjTmWAS43waQj1GA_JQk3NjlbuhWb0GlxSbf4OXRpYNJI9HP7rAyvkGpTh7u_N34nPPyx57CivmSTaOg",
+        "width": 635
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107870819779858654815\">la Vie en Rose Entrepôt Les Avenues Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfW_yXfP1fc6XrcDvOsQNJSuIrrHsEbSRVIzh3KZ8JvSzPvKhDh24S7p13rMbaJaEzstdFJUDyM8dQIhQwauro7YYHhH3edf8mgB-YbEGdfvP8jLApfm9_v6PtT7H3wwU7B79Q3mRGGATbagcA7h2cNJQtuOTuskvN8_VwG-p5ZlnoqUHM1V0wagqQdQTsiiYo7F-xg8qBoOUIf--yziGEzJ3QXbJyg0Bjc7dq8Are3-SVdqFt05w99FvXhWLIyqXHNXUv8hFwCO_IxjxnMO5Nnlw0zkDKdaTZvNv9S1axurpw",
+        "width": 720
+      },
+      {
+        "height": 3599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfWRqnlMhZEfkoAa9hIRi192_NcOAGbVOe7BFm7YpvRUnYb0yYHIhORCnmEdOa3D1GuY8ktQ9vjKYmASni9PQobiFuj0QPmk48v9cqisMczeci3tRijGuwbROjVwLA5KW92mzRIiKVaiW6j-l0o5G9QWUhT1EmTQgOqoqk-Z6OCjTgGSahjd6NbI6F8KcJOxwoHPT2z0qgYjNXisNwtdYuQ5Tqay-YCRtKt795mmSsoIbktFxwGGuWYZjHIwbyG_hny8L-StVRlBASKnnNN1RonRM2jtkzNpj4VRPXN3IHBBS5hyYhHQQZb4x0_8Gid6ZofLLcOTB6oVocBzjsOvRGJIuhUEP0tORJgJGjkpG0HabxriQwjccEuhaI467eEsCmpW9bub3vwvVvWLxhT43nZNRlLIM3JQC1qSUA5BYr3Nvjs",
+        "width": 4800
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107870819779858654815\">la Vie en Rose Entrepôt Les Avenues Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU4JkYICtOQbYGzElG65mHRaFukyPzkEyBE3zznMscmDdZ8MXJ69H9th3VUUjxa3GxUn9j8QFw0aqRsEnPtdr5Va75gkoDO0eqHRlgvWBVRqkcvIQwLQm9se-Cxs1M39T6jE3D2yi98PZOlQHjWHQi5Auf_cU-S0nNHjHz5ly6q5HVTmJhg5uGU3S9gtz8zb9O4yPiXZS7n5pyI07Rs1NCdch0yp964NaOPy0QLog74CngaTWBifJARtjWAxH8YQe1eBgCsZLTkj7wMU1rWyJ29SmI6cx3jUcMsIjamljF8ZA",
+        "width": 720
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfUTYovRSGlWNsvKFqKo6BYdwHQEoE4tWDIzmMDlrGj8UeAjZXZwiX7pfcSo8zNaNwWrYv_eWIRc7MlcYEhGh1WBCMrAAQ8bjXR1ddCrToFPgVyQW7c2KoFEVZb7Rju09UvDiJkany3WKfYwnbLHHUCS5bpE9hPP75w6m7FOwUShvQfd8dp6nB56tCURJvCOoYsuZwxpBqTB9EXqda3Xq57WQCLAGjCIt1OkeWYNYUV2vPwcrtppnQyANTgKSmSqhOKluDpl8PDUCiNhHof88g04St-h8lefpOsuZjKqHtmiyOq9FqlTjjiY7m1xRcjFvC4oqnVUv4ljXi0Z7vyKbdb4NbqALzDJgiDDH8CMqweTfAFCJbuLEc-H-kzYhe_wzyISuuPvRhdn6XR0stxEatIUw3_Q60vkv1sHG9MakzA",
+        "width": 3120
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107870819779858654815\">la Vie en Rose Entrepôt Les Avenues Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfU6l7PMvG7etYLksqiLPqzy41JOyH8Clj3xOzQALzLhV9mQmKMbql9dpvrSErmbmijCegdjet6neQzRMePMKhr0iJYzIqpX-H1Y9Wlx4SyjYnFP0Hk65OFVwr7ghx8jQ5SbUfuyRP_RQj-JS1B5IKgcI7vujgTntZTpC_IbTb8Kr9BrZct5lJTjhcS3cARtDTKPnWRXbd3tcSZRsW__GESRmuwE9CQUHeN0UlUdD_pKc1DPfuC04xF7VHvvZpS2xE7FcGS_Nk-JNEIuiWX9w83et3gGSH-SsmDxeSFm610LOA",
+        "width": 720
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104049684288933503058\">André Chalifour (Zombie Graphique Inc)</a>"
+        ],
+        "photo_reference": "ATCDNfVwrmdUGMQJ_yCxBf2NaXNf06v6-UkivfFuu1p87GMcDj5oYdTkZEdNRJwJd0aFF6yRIk4k7l5XEHLlV7sf6DVaOKc0rgnJonY-qzZ0NAiiktjR8WvwXuO9tMFAFVoMA8BxOh7lSVc2fruwj5_VAh5eZYSf6qmY1NaewzxLsJrD29itVQqkVv_P-E369LiXKicfxicPO7t1I2iTsA_gbEwqbQiZuk6ab26Q_S0CICBKplp73RyinAelwXjDSMasgkkkyhapZTPuUzKYNXl4dWljyf96iYiz-DY_AblICxB4StUdHhRtoQkKRwzoetaWFJ0-wgVrGdQcRXpZani3gZH8MRM3iDi46_yBLorMxVBLZGxresi9AB4fmkjgQMyiUWtD1p8jpT94AHRVcS-xcWG_NcUP1tc-07ZQzRA_SOzIgw",
+        "width": 4032
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107870819779858654815\">la Vie en Rose Entrepôt Les Avenues Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUuvbZrTW9sIMkd3WQEvGRhm-2AvDldt948vwGWXRGqohCA06cpbGiJkglRu0UHKbnfOJ2wa8eQ0Bf3mWmJZuuIqOLeCrsR6uMd5-0ptUKRZmKdgmm4cKZeGW8FB5XmZ4oLeLzFHtWcez3cXBuK6YtRWcOQvHXX5vxlcbMgncs5Ud6mT-vUsstzPg6IQ_X4xnNp2TUPqcHq_TWXSVysfg1ZyI4AXgMWTXNbkRjm8AIrm6wLhMy3COPvmKU-D2QnClgrQW1Idw_rz2yVbVontswywFBuPYmEurvqT0HUZ1aHXw",
+        "width": 720
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfVaQLf7k8wRYgqYGsx_Hd_QDbOJ6cPgxpwWcRspEnjgOcgNL-x8lBmPFTlPACgze9-zyeCWQ0KNXYNAxwNy2e8IDIJ4H2IEBbS-7DT3P9ZFkdEHmz6lw2S1wOXTFrTh-vL5xtHaugfxU71INlw-wgqQNKqpJ5PtKrAAlNSNKaR-EnBOtuCYlykyQ-t5im0knGNRS_9rdF14Jif1TE4TKNB_AhjK7CSDR3g5GA3Lx4crg3GtBWU1sCRZHNIGEIO2gkX5CQc7jVUKWR7LowTuLftr3zCWv7c8wb3rtQrUAAavOST7l_I4bhdsvi4HOgg6jULF_UfsHtDBv8QFxyir4-ZdmjIbPBUUMf-1o3DhA26DBbW0Jz2-iSHddytPNu41W5hPSF5qx_jvALvscOupHKaxkV-FqOOzXXTTxKZAgd2Rn-sstw8DxrPWRy2_IF5L",
+        "width": 3024
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107870819779858654815\">la Vie en Rose Entrepôt Les Avenues Vaudreuil</a>"
+        ],
+        "photo_reference": "ATCDNfUC5gbt1LifKUnnmFX0K6KmeLSOaJD_X_YsWUN41Y9OCqdoA5AFxH0PDEGBhgd6_SJrjY-AoiXYGmw61Gbi4Ge85OyFCTpenR3k7NF4Rx5dao-DQRpjbkND08Bj_HSV9K05d7x1PkDRU3F4iWLN_zXVWsxwegID6EGW1acQCabrR0QyIzTYQrm1ByWBoY7mBb30ktYBXOCHiZXvVAeO2olQjsceivoXF3URs5FrnOzcEAPLsDcseBxfFssoAwcNovVE49B9GTmpIFqpACbWDQxdxBF4712GUi5sSToNKdROVw",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJYbF-QTA2yUwRl9mb6yR65Ac",
+    "plus_code": {
+      "compound_code": "CX32+CF Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX32+CF"
+    },
+    "rating": 3.9,
+    "reference": "ChIJYbF-QTA2yUwRl9mb6yR65Ac",
+    "reviews": [
+      {
+        "author_name": "Jessica Bray",
+        "author_url": "https://www.google.com/maps/contrib/110057104491662265077/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv2KUHDjyjHUJLc68_R4DCNDmrZjjdPK_tI10VKQIPpUuwJw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Was greeted right when we walked in. Was told about their Buy 1 get 2 Free promo. The store was very clean. I was shopping for underwear and found their 10/$10 deal and was so impressed with how clean their underwear tables were (I'm a former LA Vie manager so I understand the pain of these tables). At the cash, I was asked for my email, told my purchase was Final Sale and the employee asked if anyone had helped me. Overall, was a great experience",
+        "time": 1724370062,
+        "translated": false
+      },
+      {
+        "author_name": "KM P",
+        "author_url": "https://www.google.com/maps/contrib/100124286619393079495/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIeeIv4jyXY4rH9yxNoDRBKIA-YJintnjKv-U53JGvOPkU2jw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Very unhappy with them. I bought items online and on those items, the icon Hassle free return was clearly indicated. When I tried to return then, they refused then saying it was a final sale. It was written final sale at the bottom of the page, but you had to expand the entire description to see it. The icon wasn’t specifically for the item… I’m fighting this.",
+        "time": 1691177398,
+        "translated": false
+      },
+      {
+        "author_name": "Alanna Albert",
+        "author_url": "https://www.google.com/maps/contrib/100584694090582962806/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcBqhEJgADzat9Nk94Ffy6LHawnVxFJLbP1nxjAhyYlm34W7v1Mg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I traveled from Montreal to buy a few bathing suits. I was not disappointed. They have a huge selection of suits at great prices. Sizes may be a bit tricky, but they have a lot of mix and match options.\nI managed to buy 2 suits, but make sure you give yourself time to try everything on.",
+        "time": 1699583327,
+        "translated": false
+      },
+      {
+        "author_name": "Sadie Juillet",
+        "author_url": "https://www.google.com/maps/contrib/101939013697163331758/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKJ-gFS3QrqbCI4PF3zLTiBGOEgT4B90Fe1a644Xo7aWtWQQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "9 months ago",
+        "text": "Not good customer service. Felt like I was being judged and then got laughed at.",
+        "time": 1745703503,
+        "translated": false
+      },
+      {
+        "author_name": "amanda power",
+        "author_url": "https://www.google.com/maps/contrib/113011141934631825151/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINvbSgnpEpXTEi2rOwCME-HbXqItFZm4DvacqJUCBczS0oeA=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "8 years ago",
+        "text": "The quality of the bras and underwear I bought we're great I would definitely recommend what I bought however the staff member that was serving me made me feel unwanted it seemed to bother her to have to help me as a breast cancer survivor it is already an uncomfortable situation to go into a store looking for bras when I explained to her the style I was looking for she just Shrugged her shoulders and seemed very I'm interested in helping me find what I was looking for more preoccupied with talking with other staff members amazing bras amazing underwear poor and disheartening service",
+        "time": 1498229451,
+        "translated": false
+      }
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=568713751945795991",
+    "user_ratings_total": 134,
+    "utc_offset": -300,
+    "vicinity": "146, 3150 Bd de la Gare #100, Vaudreuil-Dorion",
+    "website": "https://www.lavieenrose.com/fr/nos-boutiques/0833-vaudreuil-dorion-les-avenues-vaudreuil?utm_source=googlebusinessprofile&utm_medium=organic_local&utm_campaign=lver_outlet_canada&utm_content=website_button&utm_term=0833"
+  }
+}

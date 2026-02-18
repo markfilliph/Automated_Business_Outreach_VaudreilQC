@@ -1,0 +1,388 @@
+{
+  "query": "Les Écuries Chalk Farm, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771339001.231216,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "1325",
+        "short_name": "1325",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Chemin Saint Louis",
+        "short_name": "Chemin St Louis",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Saint-Lazare",
+        "short_name": "Saint-Lazare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7T 2A2",
+        "short_name": "J7T 2A2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">1325 Chemin St Louis</span>, <span class=\"locality\">Saint-Lazare</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7T 2A2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 8:30 PM",
+        "Tuesday: 8:30 AM – 8:30 PM",
+        "Wednesday: 8:30 AM – 8:30 PM",
+        "Thursday: 8:30 AM – 8:30 PM",
+        "Friday: 8:30 AM – 8:30 PM",
+        "Saturday: 8:30 AM – 5:30 PM",
+        "Sunday: 8:30 AM – 5:30 PM"
+      ]
+    },
+    "formatted_address": "1325 Chemin St Louis, Saint-Lazare, QC J7T 2A2, Canada",
+    "formatted_phone_number": "(438) 821-9739",
+    "geometry": {
+      "location": {
+        "lat": 45.3899954,
+        "lng": -74.0977181
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3913230802915,
+          "lng": -74.09640936970848
+        },
+        "southwest": {
+          "lat": 45.3886251197085,
+          "lng": -74.0991073302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 438-821-9739",
+    "name": "Les Écuries Chalk Farm",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 8:30 PM",
+        "Tuesday: 8:30 AM – 8:30 PM",
+        "Wednesday: 8:30 AM – 8:30 PM",
+        "Thursday: 8:30 AM – 8:30 PM",
+        "Friday: 8:30 AM – 8:30 PM",
+        "Saturday: 8:30 AM – 5:30 PM",
+        "Sunday: 8:30 AM – 5:30 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108550492217080395672\">Les Écuries Chalk Farm</a>"
+        ],
+        "photo_reference": "ATCDNfWNU8RcOYAjyNuzqYAnq8A_9aQUEv2ikFAtT9f5aH20uJToKnu2VDzG842kEtDSO0oeW7PyDz_roPZnruGExIwUyvrqowaB0hDHe2qVB9d1rQisjDpaOvIqNMS81eEXyQhV6X22egU540vsX9DOAsO2K1kQmdfJHffRfdARmDtr8E2BFPrxC5MAKgaHMyf_oL8N3ZAsMPDgkaDjNWfnwW-cteKdRGBAQxtYCYLXyzhm__DGBBLvQ1NG8WVQUMZ8xR0ROLgObAOJ1B3cEe9S1YOs4gCMi0VWcxoglHxcqKOAdQ",
+        "width": 3024
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115540462694422869843\">Garrett Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfWOOOzkvmUEtMkgcWElPmi3HATqMQ5HublkIwxstuLBlsx3z5m4Nh1_crYfV_eEH4w_gvQxfmNflicq-BZoaSZU1zu__spzDyel9vfATj-miM9qJIPN9-eKiS0xOubts8prUQC0pkco5ejWcK0hO2_nARpJpTgARc5slCphKP8F8IPR1--06kSd5WdxkQrHLo3hK6SqOcatZtTRekwc6-kBlHLjC8ZO2nB_mBBGksfIylw6K0p91-kZq43ZI8TMw4ii483qa4kat2ZS4cKZu1Jmy8V-tLMmGf6siduC1xL0qed0WvlNMmKP3y6RFEEiEnKc42_1TujPHQIDRU2qVk5edPTYRRSZOMEQYYCgh23S-8y8lGsD8rW0wnAzvbD-mFLH7VR_2beBgSI5UK5kSem0nKk_yOo1rbTzIT6tIuE",
+        "width": 1290
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108550492217080395672\">Les Écuries Chalk Farm</a>"
+        ],
+        "photo_reference": "ATCDNfXi5FdBLbINoMisCbY9AvanOXtWnf-nJzC9re-EQ_PfxTO0Zy9zu3sDd3EMhJoFt0ryHNnyGaYiiXUnYQr6B7Pqtb4xuraNMU4_Mm6CaMjT2pi6VTKiXwDRlTLJDPu5dSjB49lz-XpkwvZYutOu6znIvZHSelKC5GEM3uZJ_lB9qP9tYua_iURNylObHZxsXOeg2w9pfCq5G1nhJnqPiA0ORqrRqZrfZbbjGm8SIM5hD2LcocgMy2q3csRGdJo0BdoUMeiKC8m2x21k5JjKSeNq1NSDqN8_HrqMC3WAYze69A",
+        "width": 3024
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108550492217080395672\">Les Écuries Chalk Farm</a>"
+        ],
+        "photo_reference": "ATCDNfWEhXrceWIDHvkGN09qA9gdrXp7PJq21lbJqv9wv1RJGdxh4RMsfzkX2V1EEURqUaeOxmYilYTpmpfPNlSoBjjw7RsOseLaP7c8qQ4pfDOx615VwSIQnHPcMv0h3EqV7Qtb7APjn8yBDWFDnzCXZlLxkLYtHvb6GLC520U339tjSdSke2lIIY8SWDp6P0ghgrCNlqnwNab6hqKdnFxeMpDunBky3-Pfs8RMwz0rrsBJShrPiHkPkiHjqLvLqZvUK_w-vcxQxX8srR1U7RPPcdiJJ0ABuyKabjD2tq5ZE0KJxA",
+        "width": 4800
+      },
+      {
+        "height": 813,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115540462694422869843\">Garrett Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfV5V4M_6UFqU8oehsSdwMGXxJDOpd67G3gHzzRijxG9tA37jBAwdscMbwDk1jzcsv84GWIXupDL8cfEJA98AbcZGR3p199obgnez-z5CQ8nbV0V_LV3rKFNoyaQE4O01Fi_sPbNHHRkA6z7wpgzlgadgHYWMRuBT_V6IlMcM_Y29uO1fMVmxfVMN8L9RyWJ6mCFLeE8tGtSmFwvHIR7ZcyHYZeD-molGzx_mh1D4mQX4dJPDJThbavWB7pV2x7IVpdH9TECD1yVXfx9CorqtjSN4NKK-Z5VsLp2kysOW8CNoN64d7pqbW4rHoIe68QPB3ovSUl0a6qmUNBWnnUStoxETFZ_01AYYiGCK2bkTSm4LqqIPNDKv8SVdzmccjCGFvOWmnaPB0Pb-wEk-G5eOdChB5wS8YELhI5W9PVK_XmQFg",
+        "width": 1290
+      },
+      {
+        "height": 1801,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115540462694422869843\">Garrett Boucher</a>"
+        ],
+        "photo_reference": "ATCDNfX6ATIzxAhCY2kmKdnpjgKLSB1eWLnKf-d5OJNitzu2swjH4TZ9WgIn4LiIfmwn08-syMl1rGID5A64TwNp0oHrsk3NvJ1FMfCI5Axp2dqaCVER8P8X_Y9D1Xzqe4T1Oumi6IIRNEagT-QCizykHbUdkaRC_2-hnH4UILgZjqGwD25lPrKInXzO49expepbGPnNrtAc3ii3EBCRQCAUk9VSx-XfMk4sg6WMqQvkI43h0ptyUG1QFAX_VbtN16VE_aYmHV9d2peLeeW47b7pUIX0HdrQE_H_QD0YUizDST-Zo42yCGHBI4vbF28yMjhl2tjEm-rA2IxKxpLFwKgdL6Rl6KvEX1CqcZKOYxjJJo7JhUnoynQcEpLT08g_ex9vJcFQFgHv6s68Zb82UeISJ5G-qBw95bEoIAAY9T9H6N6AHW0",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJlybyQxNHyUwRPbWZUO1oGHQ",
+    "plus_code": {
+      "compound_code": "9WQ2+XW Saint-Lazare, QC, Canada",
+      "global_code": "87Q79WQ2+XW"
+    },
+    "rating": 5,
+    "reference": "ChIJlybyQxNHyUwRPbWZUO1oGHQ",
+    "reviews": [
+      {
+        "author_name": "Garrett Boucher",
+        "author_url": "https://www.google.com/maps/contrib/115540462694422869843/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2EnQlv1Fqd-bzeqLxV958ekHAmhoAjhYAcfhK7tt8uiryLSec=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I honestly cant even describe how amazing this barn is in words.\n\nThis is the best barn in the St Lazare / vaudreuil area. When I first moved to chalkfarm, my horse was struggling. He was skinny and underweight, struggled in many aspects of riding and didnt have the best manners. Once we arrived, it didnt take that long for my horse to open up and be much more happy. The turnout is great, they get 24/7 hay. If your horse has special requirements they will tend to those as well. He gained weight and proper muscled over the summer as well, and continued to stay that way.\n\nEve coached me and took me and my difficult warmblood and turned us into champions. Shes always there for all her students and adjusts her coaching to different horses / students needs. I genuinely have not met a single person whos had anything to say about chalk farm or eve.\n\nThe people who board and ride at chalkfarm are also amazing people, its an amazing barn, and the first barn ive been at thats truly drama free. Live laugh love CF 🫶",
+        "time": 1739315808,
+        "translated": false
+      },
+      {
+        "author_name": "Delaney Kelly",
+        "author_url": "https://www.google.com/maps/contrib/108672947918381516546/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUK9HYVee5ULavNsIr65TPR-dlPak2bl-TOth8Uzu4t8NrE_75E=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Eve has the biggest heart, theres nobody else I would trust more  with my horse than her. All the animals are happy and healthy. Chalk farm is welcoming to all riders regardless of age, experience, gender or race.",
+        "time": 1694830096,
+        "translated": false
+      },
+      {
+        "author_name": "Emilie B",
+        "author_url": "https://www.google.com/maps/contrib/100534221438759969855/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLIBVRvseiv1PeqKqjrOi5isQgFZa8YfBo-ZVoIkQ6QAETI-rH=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1672420945,
+        "translated": false
+      },
+      {
+        "author_name": "Three Trees",
+        "author_url": "https://www.google.com/maps/contrib/103489494858111588316/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaxe33j8i30pqAhkbelRPleZugfszycYSfDH7K-UT_wjmr4A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1670538577,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8365551676309484861",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "1325 Chemin St Louis, Saint-Lazare",
+    "website": "http://chalkfarmhorseball.com/"
+  }
+}

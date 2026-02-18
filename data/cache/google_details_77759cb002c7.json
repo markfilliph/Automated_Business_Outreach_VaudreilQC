@@ -1,0 +1,393 @@
+{
+  "query": "DC.Fitness | Health & Wellness Coach, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340422.023626,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "353",
+        "short_name": "353",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Larivée",
+        "short_name": "Rue Larivée",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9R4",
+        "short_name": "J7V 9R4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">353 Rue Larivée</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9R4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: Closed",
+        "Saturday: 9:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "353 Rue Larivée, Vaudreuil-Dorion, QC J7V 9R4, Canada",
+    "formatted_phone_number": "(514) 717-9685",
+    "geometry": {
+      "location": {
+        "lat": 45.4151244,
+        "lng": -74.06413909999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4163796302915,
+          "lng": -74.06270866970848
+        },
+        "southwest": {
+          "lat": 45.4136816697085,
+          "lng": -74.0654066302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-717-9685",
+    "name": "DC.Fitness | Health & Wellness Coach",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: Closed",
+        "Saturday: 9:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 847,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfUG5hZaea9qGIu9SBVTcDpp04uVF5hlYq_f9SEAR-9kvGe3sKks__OXIzGvSU0h6ji346CLWXpa0Z9IQ-RxplFM9KUl-ZUnEuWb7w3Czbw2RrqXIYslFqmpmzqAWjbJdVQdNaCipyEeNVaRMAzpfijBFSAxLeZo6u0ihlh1cVq_2H0Pxe_GfAjkkoMl0Wj0UbyUCGbtBS50w6DXbpQuzh_C-t3vSAponVzNBXS6nJQSmH2tEXfNP9SVPEfJqA0W8-M7LVH4RPqut0Gwr1U7vAaUn3NxP4wEWdoHya6iqAiXvQ",
+        "width": 750
+      },
+      {
+        "height": 954,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfVhnMLG-oiGH-9_F3Mm82OyA9sbAU0TOA8j7NPLDPoI4C0TkWkCG1wvouPKg9RUYhL0TraexY1wvzSETHiulMgOVFjYlJcE2w-5eTmwjNI2hYDQ-QHGCxFhUIlyhX09fcP41W7EPjb0TJxLT1VWHsthHYYBEhXx5qUBdnIEHhTrjFujMFu-rTYcqShtJOFX1keKKy9StGKS0nU3HN4CNEXcElgVjtmg6BZ52GbfWHYMiouGN_mBEfRzGgaFqFMbZBSNQtyoyel92PjKrINYnetry5KEb9E78T_YbNRfXXa3mg",
+        "width": 750
+      },
+      {
+        "height": 502,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfX4UswcPLZlpf7-RQxDtOQ0B5p5Oh7xMnxLgl8h3xOHCPa3zxmXR4ep1ec-7qZhwKgd4F-64K55RmfbxT3SN-rrog-MjgqZkKdgfrwV3glXCJATcepMAsiY7MqdSLHrtXdGxduDFClvZwLefrfKZ1lh0KHpZaDXWYbDdgQcZkPOZYWLlQQN7rAYPf3gqrt9D1QSuFX6fmXE3o8eepFTd0MbwGc9a3DE4t-BLyuh9nbxEMiy2wboUnDy5_285IoDS_sVAqFWLgflsEwKkX60m6fR-pognKVjKif1CO_1dxN49Q",
+        "width": 750
+      },
+      {
+        "height": 767,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfU4nkl9MXXexZP0u0BlhR9ssuiz78TF3BqSx9rVUGgGaGnCwmwlCXTtTFnE1BmZlp8dU1FGLnyvAvXItOyn_-KDxUi_ocQQPUfdMEBFCRgKhxENUA1AErIyTPn5lebcx8OluhtSJ28G-IQS3KUiadpjfYOJt2yOfbtR3oqtJlnAchhb-owfHxwCumcqwqdVrO8TIhzD1xOudOC5w-yD5XQVlHZpzsL0WTvFSSCMG2l9rlKW-HAIvL_48oeuF8gJRKBj97dzC7j9tMjrVJWCKVZvUEiqcQjIl00t3NTEI3a8iA",
+        "width": 750
+      },
+      {
+        "height": 714,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfV83aRbtPwahbYZ26pL3uCyz0XPJI9By0RojhrgxJ2BNTBbZ81km19ruY9rJzhNS2tLczAQ5oGMg3UMOcoCi0T-nTectLtolMaexSQO6db4YuvW9Z9dp_wctLyWb-Pi29pMuatARuFMk2yOAdcZ83tE9-09cZLnBEcL9KwElnIxBIp9-lVSytMg-E_HAFFv7c5Uo_Y0F6WUk6_3ikWoBuJR78V5m7kkQ7b2DV6P7FS4yv9DLCLipYNPlakoobs9QfuSQvajWpSqmLvIrF-gnykZTjkeBRrsd-HOuh9jcCf_ew",
+        "width": 689
+      },
+      {
+        "height": 1250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfW9KqT9WcA4hVqmEjJv1Jiq8mC-QFKU9gU_PO3OO_7WDyngpgLnXlXR5RHbnwhSgpRNG0HoVAf5i5MSYnIEIixiIkNjwm4McjyjVd9dLpxr4g0YsGMENyNuWn_9fL4Li3s02-qwJEL2-F8rdBl_MisnkzA8EBCyZWnm6bqE8gqa3B6B4QsIOnQXCNeZJ719scH3JdfUZyAEnFt_DYbffN-xHlRgou8xPH2V9WDT5woGcyBqhLhrwTFC4oJyTS-Ig-dYXPXhgp-rGysufZqy5UHXSxvK2FF8s1sbXEm7pwUEYQ",
+        "width": 1000
+      },
+      {
+        "height": 598,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfV4r5PHLbcFSK7VXY7X8gHGu8eKuFzAq7J9U-Obqma53uOcwAb4cu1_9BaqPPBmhVDP_1_nrVbedyMhV_3DO077yU-hzB0WoMfGmXBuLezsaM961WivXR6zo1gwe_1-0KCimPkzhdRNi29tvdAxkvg0BY_cogFTvAo6F3kBsz87guxCpSUO-p1u-D0ClOeaFQN8lKAPuhHIorqfgABwMxI3sUBf_NWP9DfHEAhwMK5OLSfFMO1jjb0t5UaLFz2WgL5hIaFRhid4FfUI0ejJ7rd4FtYZXv3XYPmT52XHIUPYOQ",
+        "width": 750
+      },
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfUKqyGxMcJDdZuY6ziQpYnq5tc4lydpfprkDvXXi6WIEy9tspYz-xMuEu3Ix-rQWQhI-3YOBnw886Qh8r_UpuRHqn3DO5y9uxF9FgHjkTJrKO3VsnNPWbdVsJ2UM1HrWXpce4V3hRqlu4McIPnHr4oByjpIlo_G-iDLOv81qKxGnSiFN_HwBUkAHeULLE74OX0SeQR6QRDc6LOPzCa69Rx79dKPRLllUZpZmCBjOnrK3Nhy9JzIUZtCMOcJo11a3TwLJGyXm--NtZhpZWPly-6EC1SaN3iFA7BdI50J0RQbSA",
+        "width": 746
+      },
+      {
+        "height": 1101,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfVUwV-za2bE-92Q6H9jv7deZr0mdziuy65VmpA_e7xp22HdLdiYeY8JYL7Dw7PmTMOjD9HRZQBc39dd_9mTaq-LBxbaenmrQHsHMA3Ywb3PZArYnfRmc-fNT03EpkMp_xCHrLFBC_rLaGtcfiNiTAvMLENPkR6N3L0opEGyfeyEzaCoZH457yHSC5ewbLOQj02LraLpZzIe0WQudz17lGc1TDt3xcrciPaUNgqcHlUOmrjK4t8MKsHvX53ey9mpeaybX1ajFvc8OG2gFvT4BXIWLogaI-fm0SscXnU8_3RDWw",
+        "width": 750
+      },
+      {
+        "height": 1124,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102447457774440860684\">DC.Fitness | Health &amp; Wellness Coach</a>"
+        ],
+        "photo_reference": "ATCDNfWrl8n6b8qsGjD3ATvtN2VQVTtblVFPRoibXrOE_MH8oQ620Xx7jclEEj7ZM_aIxa-izWSmJEczsiY3sgy1dqH6pR6UeBGwNMKnv8VMa8I-PP-C37EfFWLMbEKM8-KflDchOLPUHWQEx8PLzCLLl4Xf819IdZQ8Djv7DrUQTlCDH-q5BvefVimLNz_xJSVysxSfAiV76nWfb56M7wNDUoB3XwxPF-LNCd5eJqkJnlhfyOLiyMoel43xnx_cZAJgW0-Cn4P8sKedh6iFUxBLMW11SXu6VVHKGPdft06QFcwlQw",
+        "width": 750
+      }
+    ],
+    "place_id": "ChIJ2TpqRMk3yUwReKwi3uGPQvI",
+    "plus_code": {
+      "compound_code": "CW8P+28 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW8P+28"
+    },
+    "rating": 5,
+    "reference": "ChIJ2TpqRMk3yUwReKwi3uGPQvI",
+    "reviews": [
+      {
+        "author_name": "Tiffany Desousa",
+        "author_url": "https://www.google.com/maps/contrib/115545984029420104853/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDGfajPJ63LXIBoKemQ-MiVRogfuCxCyZk3Afeb8AMe29EEw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Diana has helped me more than anyone else ever has. She guided me through my weight-loss journey when nothing else was working, and the results have been truly life-changing. She’s incredibly attentive, caring, and open-minded, and always makes me feel heard and supported. I absolutely recommend her to anyone looking for real, meaningful progress with their health.",
+        "time": 1764891611,
+        "translated": false
+      },
+      {
+        "author_name": "lauren hogan",
+        "author_url": "https://www.google.com/maps/contrib/115741272606367441832/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKDljXvWCNQjIX6O7TxIa6i8eZwlrKOJ6xIlFfZt9TOunmJw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I am so happy that I took the leap and started working with Diana to achieve my health and fitness goals. After years of struggling with my weight and various health issues, I have learned what works for my body and what doesn’t. Diana is very knowledgeable and helps you break everything down in a simple way to keep you on track and accountable to achieve your goals. I highly recommend reaching out",
+        "time": 1764188195,
+        "translated": false
+      },
+      {
+        "author_name": "Beate von Huene",
+        "author_url": "https://www.google.com/maps/contrib/104677104573515307778/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI22CYSkOEf_skkQ-9WGXpG0XNYE-oErTWGlqGtI4-2hhWUpPo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Diana is an exceptional personal trainer and mentor! Her extensive knowledge, unwavering dedication, and encouraging demeanour truly set her apart. If you're seeking a top-notch professional to guide you on your fitness journey, look no further—Diana is the best choice!",
+        "time": 1715381629,
+        "translated": false
+      },
+      {
+        "author_name": "Penny Odell",
+        "author_url": "https://www.google.com/maps/contrib/117375126259100676140/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3KSiMYQ4tphJmFQCMf1AnB6shFweh_9KAoRbjSrLYytxz7Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Are you looking for that one particular physcial trainer who has all the knowledge, experience and passion for fitness & nutrition and really wants her clients to succeed?  Stop right there as you have now found her ..... Diana Caruso!\nWith having a very busy life at the moment, Diana has found a way for me to fit training into my hectic schedule and stay super motivated to keep pushing each week. She is an absolute gem to work with.  With her incredible foundation of knowledge and experience, your program is tailored to your own specific goals, includes nutritional plans and keeps track of your progress.\nDiana always creates a unique variety of exercises each week for me that really challenges my abilities and keeps me focused.\nShe has been nothing short of an amazing personal trainer with such a beautiful personality who inspires you and always there with words of encouragement.\nIn the time that she has been training me, she is definitely all in to helping me on my way to achieving my goals and for that Diana, I \"thank-you\" for being my personal trainer, nutritionist, listener, good friend and for being just you!",
+        "time": 1691427952,
+        "translated": false
+      },
+      {
+        "author_name": "Faith Courey",
+        "author_url": "https://www.google.com/maps/contrib/114410497085138672367/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3L0L_rCU8cgdKJUznOg94tDzYs2FDNunWrJWyJdc4rdrALQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Diana has always been super supportive and helpful on my fitness journey. I'm so  happy to have her in my life, to help me fine tune and enhance the details in what I want. I've always feel listened to and understood. I trust that she will get me to my goals in a safe and healthy way, no sugar coating or false promises.  Only hard work,  dedication and consistency.",
+        "time": 1649012612,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=17456673305898691704",
+    "user_ratings_total": 13,
+    "utc_offset": -300,
+    "vicinity": "353 Rue Larivée, Vaudreuil-Dorion",
+    "website": "https://www.dcfitness.online/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15456811154057361150"
+  }
+}

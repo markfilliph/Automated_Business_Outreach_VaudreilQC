@@ -1,0 +1,328 @@
+{
+  "query": "PUSCAS-STUDIO, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338437.8986828,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "111",
+        "short_name": "111",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Beethoven",
+        "short_name": "Rue Beethoven",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 0M7",
+        "short_name": "J7V 0M7",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">111 Rue Beethoven</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 0M7</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1330"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 1:30 PM",
+        "Tuesday: 9:00 AM – 1:00 PM",
+        "Wednesday: 9:00 AM – 1:00 PM",
+        "Thursday: 9:00 AM – 1:00 AM",
+        "Friday: 9:00 AM – 1:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "111 Rue Beethoven, Vaudreuil-Dorion, QC J7V 0M7, Canada",
+    "formatted_phone_number": "(514) 576-7573",
+    "geometry": {
+      "location": {
+        "lat": 45.3821348,
+        "lng": -74.0393737
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.38352618029149,
+          "lng": -74.03790586970851
+        },
+        "southwest": {
+          "lat": 45.38082821970849,
+          "lng": -74.04060383029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-576-7573",
+    "name": "PUSCAS-STUDIO",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 1:30 PM",
+        "Tuesday: 9:00 AM – 1:00 PM",
+        "Wednesday: 9:00 AM – 1:00 PM",
+        "Thursday: 9:00 AM – 1:00 AM",
+        "Friday: 9:00 AM – 1:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107602977800883586879\">PUSCAS-STUDIO</a>"
+        ],
+        "photo_reference": "ATCDNfXjEWncemgtVCuGOh7OMP9huvpx938KtknFyDujT_YNoxN5UqQ_JiU4fqsmDGvceR95QoOMOXbSBR3qejd5x9wHX_zWPetLw4OXQeVZosBaBg-kD6xBbZiplEaRrdV9nzn8TmCffkJI7tcwA85jGw00kfAEZIrosOLKwzajmI9V6oZx-m7-7HjY0vItC-ZnyFNpBH4iAQz_c01o-rC8OT91oIUQJnM67aQnCSKd3Kv9TKgzMth_kexSOE9zt0HRMmpYUKlGHfvQeHZn4Y-8IAXwxrIDMbh_J-qNDsFUMCkfCQ",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJUU3KNy5IyUwRpcR1_cE27HM",
+    "plus_code": {
+      "compound_code": "9XJ6+V7 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XJ6+V7"
+    },
+    "rating": 5,
+    "reference": "ChIJUU3KNy5IyUwRpcR1_cE27HM",
+    "reviews": [
+      {
+        "author_name": "Carolina Lupolov",
+        "author_url": "https://www.google.com/maps/contrib/103368449352047667419/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsSXF_O8JKLvNqjJbSnLuyHiGI-p-7hFx8smKPH5BlPQj1hw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Mircea Puscas is professional, a passionate photographer, patient and kind person. He worked on many of our family photo projects (engagement, wedding and baptism events), and he is always prepared and captures all those special moments with great talent. Mircea will go above and beyond to meet your needs and fascinating captures wonderful shots of your most beautiful event day in your life.\n\nVery grateful that I got the best photographer - highly recommend!!!",
+        "time": 1588105565,
+        "translated": false
+      },
+      {
+        "author_name": "Walid Ben Jemia",
+        "author_url": "https://www.google.com/maps/contrib/102614965967020978728/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpQV6_0YCzLU215fz0y1wsMZ3du9U7yFABYsvxDcYMgGTKPA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Great photographer. Awesome family pictures. I used both for my marriage and baby daughter pictures ans I'm very thankful for the great work.",
+        "time": 1587603190,
+        "translated": false
+      },
+      {
+        "author_name": "Sergey & Nadezda Kovalenko",
+        "author_url": "https://www.google.com/maps/contrib/115563749176928879029/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxwp9AWG2Bnaxb8_PWLs6UWT0SOus3ksdhppui_keRCLIrkA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Thank you very much for the great experience and professional service. Highly recommended studio for any event.",
+        "time": 1694228339,
+        "translated": false
+      },
+      {
+        "author_name": "Lilia I.",
+        "author_url": "https://www.google.com/maps/contrib/105717345914865017533/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaVgtRgzoAGKvf46rLZIMJ2Xh1SEjriIjWg5GNdj8f6v4cnp87Lg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1619922413,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=8353111615674369189",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "111 Rue Beethoven, Vaudreuil-Dorion",
+    "website": "https://mirpuscas.wixsite.com/photography"
+  }
+}

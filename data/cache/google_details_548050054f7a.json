@@ -1,0 +1,343 @@
+{
+  "query": "Mini-Entrepot Henault Inc, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340356.6062176,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "277",
+        "short_name": "277",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Boisvert",
+        "short_name": "Rue Boisvert",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8G4",
+        "short_name": "J7V 8G4",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">277 Rue Boisvert</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8G4</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "277 Rue Boisvert, Vaudreuil-Dorion, QC J7V 8G4, Canada",
+    "formatted_phone_number": "(450) 455-3205",
+    "geometry": {
+      "location": {
+        "lat": 45.4098705,
+        "lng": -74.0320875
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4113152802915,
+          "lng": -74.03090296970849
+        },
+        "southwest": {
+          "lat": 45.4086173197085,
+          "lng": -74.03360093029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 450-455-3205",
+    "name": "Mini-Entrepot Henault Inc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3457,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108903536341726104549\">Nicolas Lapierre</a>"
+        ],
+        "photo_reference": "ATCDNfWvpvkXWLsAF_b8iU1VO7rFVudtf5gotyj_02nF_txDHreuTpApvZZlHej-cS_8VLBLoU6wLurI4MzciWuLxi1o3MzieIU8wu3WCoxeoApzwe7hGAK9--VhLXm5SY8x13GvW-I6sSyAu8s8N5IT-Lpvi4iL6HXEJFzmt8_Tphwnytx6GMVHhegjVq1GsZJZKkqsMVLu07yR14fTaIg6wFnc-YWjrGQNycxJ76NhXZxH9qQaVAFvWXKpLl4wJcRoY5IoBsoQz-RA5wb_U5DdeUulySjlOlZ4EoBRTFfdXOSSUWMQ12hM802WQq5xsdY3gDJvto2KmPgdGD3cawNpLMFvuY5zVYdlZLHVlwVkjmPEm0o0ArdL3EWrNSJ50vo8U-4-ymO9RPPmAhQuNsp117pE_F_L7sWdsrTQ4xY4oMGYTYJ8",
+        "width": 4628
+      }
+    ],
+    "place_id": "ChIJp3twNLU3yUwR-ra9B7LWT9M",
+    "plus_code": {
+      "compound_code": "CX59+W5 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX59+W5"
+    },
+    "rating": 3.9,
+    "reference": "ChIJp3twNLU3yUwR-ra9B7LWT9M",
+    "reviews": [
+      {
+        "author_name": "David Castelo",
+        "author_url": "https://www.google.com/maps/contrib/110106976709201800817/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJwtMtGU_rwe--SVmWnKMsCCjeNmCSGQjxsEq02p_LycqoVvTo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "They were very courteous, explained the whole contract/process and patient while we took the necessary time to sign with them. The warehouse is fairly clean, accessible and well lit. When we ended the contract, no questions asked and told us thank you for choosing them. Definitely recommend them.",
+        "time": 1670472910,
+        "translated": false
+      },
+      {
+        "author_name": "Isabella Kara",
+        "author_url": "https://www.google.com/maps/contrib/101564484074724715689/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnueToY-1thFPhuLyt7G4V0Nalb1kkqGxzBrxDJE5b8A-qsn1K=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Very good service, the people are friendly, there is a freight elevator for heavy items. It's month to month so no big contracts. We are satisfied 😊",
+        "time": 1756557690,
+        "translated": true
+      },
+      {
+        "author_name": "Isabel Queiros",
+        "author_url": "https://www.google.com/maps/contrib/105775464743465589978/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWU0h4a9I6333jcCWbzTBKCTTf5XsiXt7U7bp19KqSbG_TJzvFXvQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "No elevator; the only way to get furniture to the upper floors is a freight elevator—don't let anything slip by!",
+        "time": 1728763871,
+        "translated": true
+      },
+      {
+        "author_name": "Joshua Poulin",
+        "author_url": "https://www.google.com/maps/contrib/103421219925816774718/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0q2KCisxMVFPpmSwkyhs98s17cKqnqBX5iJ1luEQmV5xJWg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "Worst service ever!\nThe receptionist wasn't there to help us.",
+        "time": 1599840328,
+        "translated": true
+      },
+      {
+        "author_name": "Juan Arturo Ortega Lopez",
+        "author_url": "https://www.google.com/maps/contrib/118104653406822177922/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkAhSaIs5O7MgCNZrpDBocBpts3kHRk9hqC7BTZ3XUe1HMKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1592963267,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "moving_company",
+      "point_of_interest",
+      "storage"
+    ],
+    "url": "https://maps.google.com/?cid=15226624925285332730",
+    "user_ratings_total": 13,
+    "utc_offset": -300,
+    "vicinity": "277 Rue Boisvert, Vaudreuil-Dorion",
+    "website": "http://entreposages.com/",
+    "wheelchair_accessible_entrance": true
+  }
+}

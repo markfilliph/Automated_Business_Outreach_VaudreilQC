@@ -1,0 +1,337 @@
+{
+  "query": "Nua Office Inc. - Montreal (HQ), Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340057.5428689,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "370",
+        "short_name": "370",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Joseph-Carrier",
+        "short_name": "Rue Joseph-Carrier",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 5V5",
+        "short_name": "J7V 5V5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">370 Rue Joseph-Carrier</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 5V5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "370 Rue Joseph-Carrier, Vaudreuil-Dorion, QC J7V 5V5, Canada",
+    "formatted_phone_number": "(450) 510-4610",
+    "geometry": {
+      "location": {
+        "lat": 45.406228,
+        "lng": -74.05221689999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40742708029151,
+          "lng": -74.05071771970849
+        },
+        "southwest": {
+          "lat": 45.40472911970851,
+          "lng": -74.0534156802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-510-4610",
+    "name": "Nua Office Inc. - Montreal (HQ)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116276067258568229236\">Nua Office Inc. - Montreal (HQ)</a>"
+        ],
+        "photo_reference": "ATCDNfXhI_Vz49_mlCpr6aNHzO2LjMcw6FbM4N-3J2cvGWUl6ujaKqsb1pOuj4QwmKTuoBnu4XBF5y4TOFNNW-manzhToCyosh5jBM71pDMdWrEYUlE-xvYzPUd2YXZeaaWHmmXmDUzlB4PQ7vUGNDSL9JhpvuUwnPfQHCYgFLV2WII9KmwyZooHq1rFs4mzo0YU9GHht4mTaOPjRj2BPspp0-eDHXP58NqAcRWpTuwEVfe4hplGEhHGHCOdwaAz2Qb4YdPtJHQ-USqxwr1eKLVWJBSTuoo9hc3krWppBgecghgu1w",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116276067258568229236\">Nua Office Inc. - Montreal (HQ)</a>"
+        ],
+        "photo_reference": "ATCDNfUNfnp-VwiwaVv7KOewH3zLMNsBP-XNS0HzQzqocOX0dOILbQkqzr0AnDiPI9-lxuBF2-vqfRQBKsWmX9qC04C0cUDmSkN6q-84cIWrxD_TTL2U7W5noVrw6OySJwLITGWPPEq7d1mulic22bMIhQ8rxQwQC3p_dPmrSHeSAtZSNmrFtkdZsxsBZ6k3dzYVK_sKR8OtfJA-_O4OnvzFMz16lo5vgMKgJzrt6sBL3KvZ23iMi3yC8VtFDY7fQgK8i5t02Lr3sCB09zu-uaO8pX2-3GgEU9rYxIRaRvrQrd8spw",
+        "width": 2048
+      },
+      {
+        "height": 1564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116276067258568229236\">Nua Office Inc. - Montreal (HQ)</a>"
+        ],
+        "photo_reference": "ATCDNfU5dXvhsn2q1q1h05VUDYo-gDfjDJEk_nh5cAbIhBcb0b2gsESweG01Usx-8wPAnOBQByeFFyzu8PMTwm1duewwxl7Fcz5V-6KKKhjFl6BvsZLv0udAz1pM-XMhNVpa1vICh7XGIW9V9pYoqRxw4puRQKXMxFVMvn1nSwviP5wNO4qonhtHAZBudM-55vLceLVT9LKp8yNVVS10EjZIXnGILz6Zkq-X2yPJ4aAo4TwFi3U5pw8SJOiMANzgoCgDUef4kqTQSHzmqzz_C1XMQ5o9wLrCz_ZI-gAjRrXYdglKmQ",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116276067258568229236\">Nua Office Inc. - Montreal (HQ)</a>"
+        ],
+        "photo_reference": "ATCDNfU2Rkc5_bzOR7S8bH5KOe9eNZqbijDHdNFjF4KqFiQwU8n3xxrgCNBsN5QK87f1vxMGFxZcC-nefbP-0xVMLnleX-_irHKP59sj-lIangZpvRoGU2njB6Dmu-SitypX1Ew4qUXkX1TNCegHjP8ugUiWZDHOFyHk4Ko2BJP_w6i9D0G_jOh6Gd9YMh_DxHsoYnFjeYS26mLtqp1G39juRfFVX75tDqmMW40x5wH1qoqrCjnmzIcKraznycNrf57R93AyaoAcN0KjkYiA60iYO_MWUFOol4JoG-BWf-1xIQJx9g",
+        "width": 1738
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfUBgg8OdCBxUkIvTlF-qobWv6Jx31mkUbWBnBK0w6dKVYqpWkUgTRiVlSbR21uFp3Vfn-j8LG1-bpQhM9UJcSLoVB-sOCbCC2NMFMOTnUMjZW5qvNzFG1So2Wy3-XPQyF6ieqVPckBJNoucOcB5A0EkrCfoet01n1IYk_S6Kd5IfKBI6r8z--S49iXoGusEIcBtJOrWATUUhJW6Pd2fHhD2g_izca4Ps2LVaM7aOzNMJzD7RjynFU3DSfWkLV03bWMHvddllerA32DDDl5k9qbecjGWFpfbJsbMhYSooMk9aS8Xkhvhf1mnedyiurOgZT9k4q5hHJTdjBTjv86pAYADUsvShW4CVQspBynK9RYQjD8h8hsMnd0RNQwu9PIrZzBE93l8K8EuLPWq1rW-UNWhh6S2XUnVwLYWNemDh04",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJCYeOzDs2yUwRRvG7XYmO2hU",
+    "plus_code": {
+      "compound_code": "CW4X+F4 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CW4X+F4"
+    },
+    "rating": 5,
+    "reference": "ChIJCYeOzDs2yUwRRvG7XYmO2hU",
+    "reviews": [
+      {
+        "author_name": "Vincent Blanchard",
+        "author_url": "https://www.google.com/maps/contrib/118302412747282672666/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJU_-KviUj5UUOjVlhWicRYNVdm7RvcEevaA9PXBTSZd1VScw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "wow",
+        "time": 1712106745,
+        "translated": false
+      },
+      {
+        "author_name": "Gary Machado",
+        "author_url": "https://www.google.com/maps/contrib/105547796614339530689/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJWDp3MY_RJR520emno9rE8LdSLNEIEhD245gjj0foMhUcKun2hQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1654653205,
+        "translated": false
+      },
+      {
+        "author_name": "Benjamin Blanchard",
+        "author_url": "https://www.google.com/maps/contrib/101065246401460327567/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLyxbNfG1I7QaGr1G-7SflXHce-IOxFR2CO2GWaxs54dwsBTg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1671980098,
+        "translated": false
+      },
+      {
+        "author_name": "Tanya Linden (Hotmessblonde)",
+        "author_url": "https://www.google.com/maps/contrib/106171763128343000835/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzf6NqZXOGz9y4xbmFgvN9_uw-KLCv3Bf_4Ux253D3QdMVmg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1603662282,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=1574727740353671494",
+    "user_ratings_total": 4,
+    "utc_offset": -300,
+    "vicinity": "370 Rue Joseph-Carrier, Vaudreuil-Dorion",
+    "website": "http://nuaoffice.com/"
+  }
+}

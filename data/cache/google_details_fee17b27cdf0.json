@@ -1,0 +1,421 @@
+{
+  "query": "Sherwin-Williams Paint Store, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340157.6252322,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "120",
+        "short_name": "120",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "54",
+        "short_name": "54",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Boulevard de la Cité-des-Jeunes",
+        "short_name": "Bd de la Cité-des-Jeunes",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 9L5",
+        "short_name": "J7V 9L5",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">54 Bd de la Cité-des-Jeunes #120</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 9L5</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 6:00 PM",
+        "Tuesday: 6:30 AM – 6:00 PM",
+        "Wednesday: 6:30 AM – 6:00 PM",
+        "Thursday: 6:30 AM – 6:00 PM",
+        "Friday: 6:30 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ]
+    },
+    "delivery": false,
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Retail location for a painting supplies manufacturer of both interior & exterior products."
+    },
+    "formatted_address": "54 Bd de la Cité-des-Jeunes #120, Vaudreuil-Dorion, QC J7V 9L5, Canada",
+    "formatted_phone_number": "(450) 424-0440",
+    "geometry": {
+      "location": {
+        "lat": 45.405635,
+        "lng": -74.0384708
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.40704548029151,
+          "lng": -74.03713696970848
+        },
+        "southwest": {
+          "lat": 45.40434751970851,
+          "lng": -74.0398349302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "international_phone_number": "+1 450-424-0440",
+    "name": "Sherwin-Williams Paint Store",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 6:00 PM",
+        "Tuesday: 6:30 AM – 6:00 PM",
+        "Wednesday: 6:30 AM – 6:00 PM",
+        "Thursday: 6:30 AM – 6:00 PM",
+        "Friday: 6:30 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116058188426882906392\">Randy</a>"
+        ],
+        "photo_reference": "ATCDNfUNHTrXz7OcjT1w-vDEDqRxxqSQPFADrN9EpjUX5HxfReNabxqQ4TG2SEKK0t2ZbAJaUWhezDdDeat-cf2B550bzcePdxLHbfagJMtNVx6plFWfYJpj5JuCOtUjMcoW5STQ-DUWJ8q0FwOa1OU8ZwiHD0FrDmHQX6spENzQ4lEmIICWdf6ldsbRZRFRm0eHi02IluUU_OoDgPl48wvPtDXIebmG5EjAVggHUv1gtp8aFnwekpJpowQiMRXvcib7TmQVIhz1Lv6ZE_Wu4VirsAqo_cFjED47V2FbiyclvvuYiKMdVaC1f8L1S36oxT8dsehVOQHrHNVVINsfshMZh6w0XgYOG6IzbPhq4j7yqUguqNIxERBXBjo11PT4IXF50pRdmqYyKn82noXR_goojmigO0TZKVFg9yZhCagoUpQoLQ",
+        "width": 3600
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106007428364473209923\">Sherwin-Williams Paint Store</a>"
+        ],
+        "photo_reference": "ATCDNfWZzOSpqrU-vak_i6Xbo7qXOeqVRL-VWNG5ftO_w3FhIMI_4bHmZQMZvBJ2qjCF4iPiXTQqji1rMMm5gddMXvCAyRIvQctvPgKmh_mIQ49XDFSlA07tzPln60QiN8PYhWTbmmQwpXmqV8jvTGQAH43O4VWlhnJEJIqBD2HpV8-wxRLG1Ln9NmNFOFrbFCbWLwxtad2SPCRUbnRjD1LY6SNahJt3YQZKwHZjO-TDxadrveHWgc0FcQ4qjuxz8xmWz2AX81M_LcDWm3WL53cmGzbTNR4den7OOVtFyUanVFSFoQ",
+        "width": 1332
+      },
+      {
+        "height": 3559,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfW1qCcfWnfu6mi1XN693QEWVgDevbzvX1JC1D_u8Pjm-s45ZP_lKXs3R9w14g0KC20kquBcQ2IP3VcX8KwWuv-fhjtll9WnFp1rMJc66L7NtY9SPcoKeUd2egXdHcrYUSTNlhLR9-JRIfjW69GVCVa8WdDossZvwvRiJ2a0J5sqNow0LFynHszxEGVy6UcWnEsjyWKhvyGtzGTon15imbNUMLVI6Ottg9EfQUap5mgKJ6QoHFdRNu1mvBPJnODpJpwd2-NZryQlNCsxb1PPP2FygQDI9cdIKr7A5rpxh0geXYPStG0tbVp5CjE0niju1k6gUegs8uY6XU2OxeaKprRmQZRNlIKrdxxrgLj1W54fX6PLyt9QhyutTKiKIfkHXPrjZg4Ols23DCNzslf4xSulb0gYDCE_r6N0Kj2ttDE",
+        "width": 4800
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116968878215575040367\">Francis Bouvrette</a>"
+        ],
+        "photo_reference": "ATCDNfXI5j1lKI4pC0WBhGwoPJ5JmkJ3vdPdbzgTgyW9A0HDKWHn1BVw3aWyXOVbQp7fuYIOhH8l0TX4JfRkLuCLaAQY_yw4Jea8ttmuzbUdZA3wHB_I7Z3fefz6_4TmKe4-MucqrebzXzR1VHUPcv2xtxHP5JMPewH86pF8gpRtfw-uQHe4jDJRutb2q1VoNbzsOlr5VQJvzM7gY1rrs986qHaWnErIjzFtbs4Gh0dv2hv-YNhP73bi_yZFkBLcEA3IJkWF9vFdFxxWAoF5vd6FzJzj0tBKfLvvcze1gAgzBhQtnwc5ou3Kf0qlZt6GFHzBoUceie1zk3tI4E_rM4J3iTdSiGpI9M0ylQWvfAd8MQ-Yv8VkGjysQ4_GwRDNWLxjD5fvszZ7gExBDaziOqngYugKt52vnfnWGMIXdwjEZ2vstw",
+        "width": 3120
+      },
+      {
+        "height": 1906,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109518713387718534621\">Jonathan Daudelin</a>"
+        ],
+        "photo_reference": "ATCDNfVKQ8xwQJP6Kn1Rc1MMRNGSTCqGM_c0iQWivFhlC5HxVtLe8T_jEP3FKbQQ98bc26ARLarJ-p5XZd6NE6A6AnTXOC8DPMZkgFyziP4vO36mv-Y_G4kJPOlrdfIBWPtLstxU1ZSLZcD5a4eqRO9hiwJdD9CmXVJHs1cQatNDa_O7d_gbZJHMGJX9Hwvux4KMO1qhEagQQGR1NjPZZy26Iqcq-y5w3DPAYQxinWpfmHpHWQ0YUdtps3iuVSPv1istQ8WhtQmCvGB_CCSFqBkduY5_PF-DQABV_J8265Syke3werG_k5YqJenYMdkcsxajSEVXY-1hWvBzpUzRCbW_Dri65Jn8gU9ZdEuBYZfRiRZQtFfCLe4g6SKSSai2zpdEi9j38t0m1hccmK8066b5P6SeYcVdZUDj_H1T11qrHo9gdqqttJwG1_yhKpDkng",
+        "width": 1170
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107588986463495977476\">Sebastian Soare</a>"
+        ],
+        "photo_reference": "ATCDNfWGQaahztulBs0Jw7oh0ggQp3dUORd_8hIeVOS8cw6pxxfPy7bEFwIao2qQvWiVwSB-kVgYhBohZHNlVzgtAJyLIseDohb9bbA_7DHvOg9lTj_GWIP79SZ1tYS8yLfwotLmbUc4N5At1f9nuTBWOvnAcBEZB3NRk5A0GDj9T_dpv7Oyft345r_URrpIc5ybRqcw5mC8lhD1hNCTTy8lhVutuYZLXEOVg6X5Vnl0bGG2_xwVU5Amg7BvAVnMJHnB8JB0s80OAzWdRfYbjEkvZRkwUlfIm12MD3YlnxN__quKE_Y4dBm-CE5T2LFPyorci__wYqT-4oWPm4egV6TGNINsuF7hpMN74jpkmoWpx6p6cClNwJnvJ75Lzz2PIbSI8MKrdI1by4fauMZsjzqMpYXSXfHJxHPs9BH0bqLJaBkN4X1i1tTH_hVj9kGbldOM",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJpcCmfTQ2yUwRKna2VFD5lk4",
+    "plus_code": {
+      "compound_code": "CX46+7J Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX46+7J"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJpcCmfTQ2yUwRKna2VFD5lk4",
+    "reviews": [
+      {
+        "author_name": "Salam Alameddine",
+        "author_url": "https://www.google.com/maps/contrib/104555620880629923114/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZfPhAqC_OlrvBumYm5qySSqi6ZW6upeJqqzSSoZdHjmx80hU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Proffesionel company with well trained employees. The prices i was given (commercial acc) were very good",
+        "time": 1769762772,
+        "translated": false
+      },
+      {
+        "author_name": "Nuno Jacob",
+        "author_url": "https://www.google.com/maps/contrib/113196108951200629124/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkaO42iQ818MivrggLhURWTfe9TRsSqnYEo_ebeoJMLFr1ZlRa=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Very nice people working there, but unfortunately, the product I bought is terrible. I spent over $3,000 on exterior stain to paint brand-new wood siding, and it didn’t even last a year. It was supposed to be self-cleaning, but in reality, you can’t even touch it without leaving marks. Three coats didn’t work. The window sills are a mess, and so on…\n\nI’ve been in construction for 30 years—first time I’ve seen something like this. So much for the “lifetime limited warranty.” Now I have to go to the competition and buy more paint to fix this mess. Thanks a lot!\n\nAs I couldn’t answer any other way I have to edit this.\n\nAfter calling the number that costumer’s service gave on the answer to my review, they said that I would be contacted by a specialist and it was as useful as the paint!\nDoesn’t matter, not even a care to see if it was their fault.. what a shame!\nFinally went to Benjamin Mores and got the right product and I’m now fixing at my own cost the terrible product they sold me.\nWhat’s most annoying is the lack of care they’ve demonstrated.\nAgain, thank you very much!",
+        "time": 1751296697,
+        "translated": false
+      },
+      {
+        "author_name": "K M Narciso",
+        "author_url": "https://www.google.com/maps/contrib/111444757529687238331/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb4UVrtooGuW9_RrpaiiucFJL9F1EpUTXBY57eUTL32PPSJA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Great team! Very kind and patient ! Big thanks to Mathieu and Samuel!",
+        "time": 1755795076,
+        "translated": false
+      },
+      {
+        "author_name": "L P",
+        "author_url": "https://www.google.com/maps/contrib/107918939065787769263/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaytM6W2mZV6s_O5SzossLs5UdPd8rz8PpiQrJwTv2FFHzRg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I went today to pick up the color of the year swatch (photo) and got to talking to Mathieu the store Manager. He is very knowledgeable and friendly, great service! Thank you",
+        "time": 1706028878,
+        "translated": false
+      },
+      {
+        "author_name": "Janice hogan",
+        "author_url": "https://www.google.com/maps/contrib/111646204921189555453/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUMJLL9VTdMsIf-DszpaTxNJC6UisED2VY9x3PUu4HZoHaLk3l=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Excellent!!! I was very happy with the service today Joshua was great he matched the small patch of paint i had perfectly & i bought a small can of paint as i needed to do a small repair job in my home & the paint was amazing i just did a small patch test & the color is perfect exactly what i wanted i highly recommend this store really great service!!",
+        "time": 1607809588,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "url": "https://maps.google.com/?cid=5662987704878921258",
+    "user_ratings_total": 69,
+    "utc_offset": -300,
+    "vicinity": "54 Bd de la Cité-des-Jeunes #120, Vaudreuil-Dorion",
+    "website": "http://www.sherwin-williams.ca/en/?utm_source=google&utm_medium=local_listing&utm_campaign=tag_local_listing",
+    "wheelchair_accessible_entrance": true
+  }
+}

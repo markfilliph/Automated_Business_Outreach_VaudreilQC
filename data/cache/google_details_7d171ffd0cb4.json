@@ -1,0 +1,402 @@
+{
+  "query": "Location d'Auto Dorion, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771338330.737996,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "900",
+        "short_name": "900",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Route Harwood",
+        "short_name": "Rte Harwood",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Dorion",
+        "short_name": "Dorion",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 8P2",
+        "short_name": "J7V 8P2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">900 Rte Harwood</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 8P2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "formatted_address": "900 Rte Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada",
+    "formatted_phone_number": "(438) 238-2380",
+    "geometry": {
+      "location": {
+        "lat": 45.37052509999999,
+        "lng": -74.0370255
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.3720159302915,
+          "lng": -74.03579526970849
+        },
+        "southwest": {
+          "lat": 45.3693179697085,
+          "lng": -74.03849323029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 438-238-2380",
+    "name": "Enterprise Rent-A-Car",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109388721106117164881\">Enterprise Rent-A-Car</a>"
+        ],
+        "photo_reference": "ATCDNfUYXAU9d7gmn_ro8B2WwNn726a0D2veBHwZu0VgNT-cIetlxvbNFnE3PzjPccmngyGTMgXNpBeZs2FKINh2_IaDJYrESJ8N7k1_T-jl8ptwmWUnJ3sKklIeDweudhLqsmNThX4FlN8Yz62kZIMBfTz76Ab1r6VZs3lMAKtV5oIICBXhejF-DCMSFG_tKXFmdPPuiKdwWI48WcM7hJpchoBpy9zJrywNkPH7g9K1FsG_VrMkypobEPgTk8W6N1_e3AQcj3i72wN4dGs9SOY5njFRZB6vOoxTmlpzP8p8STz7kw",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109388721106117164881\">Enterprise Rent-A-Car</a>"
+        ],
+        "photo_reference": "ATCDNfUwIa2M1hbykErcTLLForNdbw0K-zm_do5ukAP4-voBmqgTRwrJv6qaNHc4W3WP7ri3pYt0VOJ2dpQYFEkxLL3Q0tCnJU_Kx4OuTSxW0LzuQyC8cBylKFNDCUenpgpTn8wl05T8FHYWT8wYfzIs7BbVoHAWtXC0DvRwpIAhNdkzs0H7xMSc53YPEqe_AkkjoBxvxIqb_E5cRmUNkjBhikxVP5ymNT1NBQsQCSIuK2-YOb_gBqypo6XamGcXY0T2KdzX_y5wVT25-Xsws7gYNPuTx0yz7msPKd4HMtQUHUJ-Qg",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109388721106117164881\">Enterprise Rent-A-Car</a>"
+        ],
+        "photo_reference": "ATCDNfUXGZB_9NrDrJdZmV45AAYLd_jTWMABRCBHXhevJjfRIPlJug8eNVXrAoHe3ap8HTirfXv4p4NWUgqZn1Vaw1-Hr7fSH9hZNdL5fl6pEWge_NLfYz1t_hy69g5YvYjMVVWIHjNZGSreVXOUSawXj_TRpo-K3EUJ6aOK89EqXumqPajeB56qpI0kcEGZcvBwst1ALcgBMrJiOZLvHIyXKgsYTVfoG9ej2U7blte7GHgPjY4dMTMY56NgMm9ZLgsEl68UT0sgC-61c2NA6WaRhSA_2fsFUukypQE4Jm6Q-FkDlw",
+        "width": 720
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106969702565656745477\">Ashton Evdosin</a>"
+        ],
+        "photo_reference": "ATCDNfX7dIQQ8APpmANYBwAQrKttZmXrkAvSeUzecg3IzEctm0niLhqtLHvItuGFDAb4muSB7Srmm1GClFq7eE0NSQCqm7erh_M5Wtg67gupMj4huRr76mfUt8HmdCkH10x2MesijBMJOSumg84jMspUg6xyfPTq7bqO9kBsY1-3HGPVlSHWAoOReMVdEqfagHzc0tHBTouclNZZdPFKx7Sssmlh3fUyAwcIbDYT2AP1eEr1LXhRp-1ZFoGx8Omi1Ja6vMkp4ar1kVf-akeTWGa7p8LPVp8Z9NrIE9hDqASlfFVn92qwxZ_zi2mCTOnXmwpfPOiack1XlcAUEPlhc1UEh1ATC_j3ifLzlRvtLNKLwJFZBCU83U8zGgrxbbrOtGgLsDm0aYKv3nj9XU23AKITuAJ8VuTXkTp698uA2QyEgrWx-FGQfIuAKuis23XdHQNR",
+        "width": 3600
+      },
+      {
+        "height": 2222,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111321941781235336880\">Nikita Assilamehoo, ing.</a>"
+        ],
+        "photo_reference": "ATCDNfUmPi8dhN6zoxwxEI1y97dsQQlMk545jHv5P-faa_igvaqWgkPQcNIkiUjMQPhhgVNPTerOKhwPUBus1guXpS1tIH9X21Fx3Uw4VWyMO_wNL5qPFEZz7eQe_oV3AgidmpgVkyRE0MR2TKU-8-lV2FD-0CHPYwl546mIDRu_Z_xe5-IJo4-uItT4MQPUBvnwntlBvwIS67DRZcXjxeC93m5qRqt61kv-FKOLBHl6itKedueyu9KA0g64BtGQShwfOCX9GPBWSxdXj4U8TF1AFlky32DipAbVaPmCLeNOT45rhKv4PeYHXrHKhAHtV_HSM7_cJP0P168IWW5lyHpEEU3EZURWaXrdpj1v64mBM1vUWPLasmw9SpTtcKyrs9D9R6sl4utFgeD79HM9ItvGH49hqEVqK23E8iUMh1d7ZdyCOJXH-odut25vjStxM4q4",
+        "width": 1284
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112064224356726745678\">Halski</a>"
+        ],
+        "photo_reference": "ATCDNfW91iEx6du40n7GhCfXk48rvW30tw-uIahRWdSsNH4E-4uMdztDOwUPepkhN_777craHy1AGxIdIDXt5OzFVfh5K_nBGZFFoZYnL4qimpVAyMi8QCTZPJRWtinIwykqRzR1lvDogzVAI6i3UvoTS1K_BjaVeJmG2fPM5uNBiN5nhMusOWQSay_ZS6Jcnr4-4iSANlvEwK0bFTSDGfWxI7OPOkD7MKNqVaqAERFECmDSbrlx5dR67B4vUiJNvNgzStRk3hhi45xu4g0hwizYvKCSIzqjp4G8iGt3FqnMmF6YfkrU5Gt913h8Zqd7mmmSymv_ZrYE7cVW8tdz8eorxAVvQ9gmy1X9o9HrxkdG2MEoiWyhAvf6mW6_zNbct5VTZuHOUxkA7KP8euAxGgQ-imXC68fYGWygxjFACJRnsz7sv_c",
+        "width": 3000
+      },
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105547796614339530689\">Gary Machado</a>"
+        ],
+        "photo_reference": "ATCDNfX1l_hOCr8AoIxLQyqwbdqTCFqlLi0g1ASuVRHGnEsvcihQzCnl3xd-qK57x3sbQfoOnYoa70wMyePWYNSwd29xbYjrWVRsxg_jf_lk5_Lxl6wZ0PZME7WD5vueSI8C1N9gzPW7lI0Wx1Ywz_vPHWyC4-mpiQHSrayVyYOjq1CZ8yf4cdiaTHsnWP_Odcq5MJZ2acBypBZGTnN9W0x1_jtHfB00IatYsoEO5WwQZCe7sAy39UC1xPEY2iUNUctBJVuef4wRQI_HE52eerNILYZ3NuYl3fVVadI7TA99S7m8zHpTriHJyQD6aa1qMXfqr3Ig0Nmc2hxaJCtQrzdU80jIT6Te9bJ4u3Op045P4hmQPeQLSB49PlHHbS_-xfxKnqmXSCKvDBA7REKYlSf82YxLLzkqUfphYF8l22NVSUKFHw",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114866685283118466308\">Carolyn Sterngast</a>"
+        ],
+        "photo_reference": "ATCDNfX5qIIgk254nhhYKA7Dvicabjs_DUvaIkd1MLjiAPqSzS3wNKjRDB7nElBtWDKKpB4GpvrEwsnsHFuTO9BUPFNz-f9NzfEdU85wcb43edsRz8hmX14cKbGzgyaHk_UYVtnVnRi51o39hU6g6Vh927FgN6xH6H2DPw8k9swmLur5w2SWUYaerzlNy_Eg53j_NWjIiYujHzAEXBpgAbpKFD-GS_itJASe2d92H1S34CzYYNlZYxhZxGV49g67og6goxjirQ5bbQ4i5z2hs9PXLXVSSDPfxovyp15mB9lXkuC1D2__3ml3IYJ1uM_xX42pcuKjWDS8oNIclo3oZ-swaRSqH4iwrQWKtC20wwJrG0jWcN0sx5y7ErkIvX8gI_D1pkKzcUyeAxExiasPUA8XOLfa3jVY44qhLDN1JpTtzJE",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112064224356726745678\">Halski</a>"
+        ],
+        "photo_reference": "ATCDNfXk4mDkvtbrIgEtuPOGZpygJ8geqHD1h7HatSwzmuuaCfgKhDt5Pfgp2ji9hy930_SWq5kkN0nOduSc4z8m_OB8To_KULsh6xfKwkdR87dfvOOBYDK2HcBAGvmhGKjhwYXt1xKq_EHX0BWQYcisM_Iwxdq6erRa2_TYsapbNFIVwRsSXqvE82LPCm4gbfKW0AMIKcMJcRHGShaafMzro1-_EAThbLTzMgFxz1mxtUPkbWv5z1BISguRE-y8ZdwubCqcBI2Dv7yhpxIA6bXi1bUCF7cN7Fgw2ciPIrGorUHePzejQkuObuEXftvK1eEjxwCiOTr9-x2-MIQRTqdDk1-pMRhvX97FeVwzxexAQFnv2hW6gMKlmuFtnQl5nyG2wdxPyfInhbTHrwbRh2mGiIlQjmiHFQC_bhfAPdSqrnlWQQ",
+        "width": 3000
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109388721106117164881\">Enterprise Rent-A-Car</a>"
+        ],
+        "photo_reference": "ATCDNfXTgJwS0nuoXXGwMcRp0lPWL-ydvcudmShImQIAebt07E1lqXuW_CV-kkGNg2QtodCW1_HO8fXp25ARfaW8_3CBu1vQuixdVvsQ4mDV_HuXlIS_7UXAF8A3vXwUdQvgwjzaP1Qb2TdQOu92Fkkwtv9bMU40-dpomo67OnHZY4RwlOc7iIG-xmOuG6UKXH1WhTUVOAtbL4iUL4ZW85duMeIa2boEG1IHv3XKHm2eaDqVeE2cKwMtmIHj0j0TxfM-CPwyPJ7MQWxdNq-ItD785n6lBC1WPuQfIpgEokHr1uzPSA",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJBwlsgN5JyUwRQ4U3cHr6mho",
+    "plus_code": {
+      "compound_code": "9XC7+65 Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q79XC7+65"
+    },
+    "rating": 4.4,
+    "reference": "ChIJBwlsgN5JyUwRQ4U3cHr6mho",
+    "reviews": [
+      {
+        "author_name": "Vee Bucci",
+        "author_url": "https://www.google.com/maps/contrib/109779087330246910211/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8Bcya7SXGCkHoOi0OtHoDbsX34_Dum6M1sz7vhdwo40PHlQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "It is my second time in a month that my insurance garage has sent me here to rent while my car is being repaired. They are extremely courteous to all their clients and really deserve the recognition! The agent same agent picked me up both times was extremely professional and provided excellent customer service. The one who seemed like the manger is very efficient and professional as well to all the clients coming in! I am very grateful for the experience I've had and I would highly recommend this location! Truly, thank you guys for your support and excellent service!",
+        "time": 1764963801,
+        "translated": false
+      },
+      {
+        "author_name": "Mina Gerges",
+        "author_url": "https://www.google.com/maps/contrib/111955452875349801443/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEr8TijsZ_APt2bHj8-7EjlwNdcfwuhfM0OC1SF8sLfSTQ71Nx=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I had an amazing experience with Enterprise at Vaudreuil-Dorion! Jay and Emmanuel went above and beyond with their care and support. Their communication and customer service were exceptional — they even came to pick me up from the garage and brought me to the branch to get my new car. Truly appreciate their kindness, professionalism, and dedication. Highly recommended!\nJay and Emmanuel\nBig thank you",
+        "time": 1761849311,
+        "translated": false
+      },
+      {
+        "author_name": "Ashton Evdosin",
+        "author_url": "https://www.google.com/maps/contrib/106969702565656745477/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlKhj90qN_SU6vYkuWvxyP2orqOe7RT37ZbO5pa7U3umgAlvhAYw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "Service was okay, but the overall experience was frustrating. After all the stress of dealing with my insurance and the accident, Enterprise Vaudreuil handed me a worn-out Chevy Malibu with high mileage and awful brakes — a huge downgrade from my Mercedes-Benz C300. I understand that being 20 limits my rental options, but the car I was given didn’t feel safe or well-maintained at all.\n\nOn top of that, every time I politely asked about the possibility of a better car, I was met with repeated reminders about my age — almost like I had done something wrong for even asking. It felt dismissive and unnecessary, especially given the circumstances.\n\nIf this rental wasn’t arranged through my insurance, I wouldn’t have come here. The whole experience just felt like I wasn’t being taken seriously.",
+        "time": 1754065870,
+        "translated": false
+      },
+      {
+        "author_name": "Allison Kaczmarek",
+        "author_url": "https://www.google.com/maps/contrib/116011663999238813977/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQqZsDKBzvEQK2GBFfIC8tiR8WK4Wt1UiUn3LhSRF3d5BPGQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Jay in the Dorion location is awesome. Thank you for your great customer service. If gever i need a rental, i know who to call and where to go. All around great person and great service thank you Jay",
+        "time": 1764288012,
+        "translated": false
+      },
+      {
+        "author_name": "Jaday",
+        "author_url": "https://www.google.com/maps/contrib/107329468910862719209/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhPGS_EGIJ36JkgOym0cr_PhtdZajeDKnNnCf9h5gEQoKXcrI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I recently rented a car from Enterprise Vaudreuil-Dorion, and I couldn’t be more pleased with the experience. From start to finish, the process was smooth and efficient. I’d especially like to highlight the outstanding service provided by Kevin.\n\nHe was incredibly helpful, knowledgeable, and made the entire rental process seamless. Kevin went above and beyond to ensure I had everything I needed and answered all my questions with patience and professionalism.\n\nIt’s not often you come across such attentive and customer-focused service — thank you, Kevin, for making the experience exceptional. I’ll definitely be renting from this company again!",
+        "time": 1748968822,
+        "translated": false
+      }
+    ],
+    "types": [
+      "car_rental",
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=1917119995175208259",
+    "user_ratings_total": 88,
+    "utc_offset": -300,
+    "vicinity": "900 Rte Harwood, Vaudreuil-Dorion",
+    "website": "https://www.enterprise.ca/fr/location-voiture/emplacements/canada/qc/vaudreuil-dorion-location-dautos-c70p.html?mcid=yext:245709",
+    "wheelchair_accessible_entrance": true
+  }
+}

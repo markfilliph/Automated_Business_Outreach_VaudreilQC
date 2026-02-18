@@ -1,0 +1,436 @@
+{
+  "query": "ABC Lavage et Entretien, Vaudreuil-Dorion, , QC, Canada",
+  "cached_at": 1771340219.7902617,
+  "data": {
+    "address_components": [
+      {
+        "long_name": "351",
+        "short_name": "351",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Rue Bourget",
+        "short_name": "Rue Bourget",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Dorion",
+        "short_name": "Vaudreuil-Dorion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vaudreuil-Soulanges",
+        "short_name": "Vaudreuil-Soulanges",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Montérégie",
+        "short_name": "Montérégie",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Québec",
+        "short_name": "QC",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Canada",
+        "short_name": "CA",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "J7V 7K2",
+        "short_name": "J7V 7K2",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">351 Rue Bourget</span>, <span class=\"locality\">Vaudreuil-Dorion</span>, <span class=\"region\">QC</span> <span class=\"postal-code\">J7V 7K2</span>, <span class=\"country-name\">Canada</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-22",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-23",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-17",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-18",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-19",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2026-02-20",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2026-02-21",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 8:30 PM",
+        "Tuesday: 7:00 AM – 8:30 PM",
+        "Wednesday: 7:00 AM – 8:30 PM",
+        "Thursday: 7:00 AM – 8:30 PM",
+        "Friday: 7:00 AM – 8:30 PM",
+        "Saturday: 7:00 AM – 8:00 PM",
+        "Sunday: 7:00 AM – 8:00 PM"
+      ]
+    },
+    "formatted_address": "351 Rue Bourget, Vaudreuil-Dorion, QC J7V 7K2, Canada",
+    "formatted_phone_number": "(514) 701-4242",
+    "geometry": {
+      "location": {
+        "lat": 45.4069925,
+        "lng": -74.02793310000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 45.4082967802915,
+          "lng": -74.0264728197085
+        },
+        "southwest": {
+          "lat": 45.4055988197085,
+          "lng": -74.02917078029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 514-701-4242",
+    "name": "ABC Lavage et Entretien",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 8:30 PM",
+        "Tuesday: 7:00 AM – 8:30 PM",
+        "Wednesday: 7:00 AM – 8:30 PM",
+        "Thursday: 7:00 AM – 8:30 PM",
+        "Friday: 7:00 AM – 8:30 PM",
+        "Saturday: 7:00 AM – 8:00 PM",
+        "Sunday: 7:00 AM – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112455488395218012925\">ABC Lavage et Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfXtST-vTfuMNcI_9CHst6eZbRFZNSSHRyUs8uXlPnZZNzeW--FM4QXmjvAqdsaaA-RIgz4Z7XACpxL_uoFDcE8wBTaU_Rd-jAyQjbt5Of6GQeJTqZvL3LQP9-4jwdA_QgiwsWpm3NDjwCAyTGFIrHx160QIRNmO7bQ476-zRHHy62pCmNXboTYmKqbR_byrEo3F65w6XjCVAqKNAoh-202TGQ2bxF3GZ0m_L-HLgek9S74JG7rSDk1IeuXP77ohhYReE3tRUfkQW6jox-59vl0w_3icNtssVYaLTFazJAzRAA",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112455488395218012925\">ABC Lavage et Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfVhVcoSB04m1Q5f5nkF9DqMsNaqsCXPMxFWjAByPdDdlf8DdXevutlHyOP1ybZngJJdAx-sp6Imdv7RH3hTKZm48cAXkn3y89WD2_jJ61P9N2HSAmMfGVypiaP5U8M1jdfxeqMTRJXKbzbfFii1cYS3MLxO1EAJUjScAFnyJU1RIEa6yasNjSmJhMUvn-WCviaf6piWonWGJY6kBP9cfipFLBsC2p-f2i4jHeXTszvrPPwT2a3GlcxMA-F4gPXlea3Ouz7Y-rYEKgbH9Bu5R8mhXPnbESG7e2XHEHn_C3yD5Q",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112455488395218012925\">ABC Lavage et Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfVIUMk4jgmwFLlKvXDsoS3ZwCFDU_lglwiEuT9KB0CsQ40VvTy45Fgj2Ekhs7eVd1UY65UAvugpQtwTca9p_TzmxmfzQX0eHtQJ8C-AeNpFSxxiYexlCW2c8qzba3hSPhN73_yoh1LoNiMDJ-IASUT4qNHj0QaTBZDQCsyeYjBhcHTb_wlj62-vSbViYP-J8kS3zSiMJTGWb8GEpTYOSjHhkRL4SsNGUUyT8yGMhX4lHACNexI-hZE15ij14k3qnmJ6juqDBLNJsC1WIU2xqzOS-pyWIkc6_t-WTxl4HYBsow",
+        "width": 2250
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112455488395218012925\">ABC Lavage et Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfULpfPYcShxf5oSkdGqUKf7UdHICvBwWE27FbcL7DBEF89g5yuJy7GDxbTX0UmoEVB10uu2pn9xxh7EaAsyEF9-ABOUV--ER2JVCh6eqY2o-KLQ_Q4n2gOAMpL3_WCRFjIJf7bylE7X2Dlm7le-Nq0wbGfXfCCsDo4sl-icCb1xmeiJN9C1chamTL73c96p3L5OPAbK617ZapNDmw3JgktNBk-0GP_AxMdIvzEwNCSqMlrl9MjgyrrTfBtvyV4BVR6OY-_B5NTCl9JcWIERHIa68Q9AKBZIAAD9pSx5ZdiTMg",
+        "width": 4000
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112455488395218012925\">ABC Lavage et Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfXVbkO0Aa0uh3CLFhatBBSUNBjz2dZToPoM_Rl9FKG33eNG453wXwMeJs0Zqz7hVfMpQ3A-HMY8LZcnG5ZVehW8bdkhfbOKPx0-g1GZI47S2oLhJRrDh9qHXEzRMK1MOyrQ0jNOxbjz22bgGnXQxgS7x_qP00JgihUqlMFNMYyrjqKtMpkipQ16UElWQ3OT4LOS7sR4P_e9Tqcua8ELH_0_VfKRjnbVP1-P72q8OhpyDD9UBkO24E6PJm-gt8mAwOKMT2MkILf7R24UchS7xn0Ydh1mZwgTVM7GoNCSjA2C9g",
+        "width": 3468
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112455488395218012925\">ABC Lavage et Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfUzI1v7a3-tf_GquxbRsyhwstPMiET-wBMLWgGC5ehfO4pZ3HYFLg2NYpCw6LDkhmizR4bID-Le21a1FIRMgkCN_29pz1TB-7ebgNcTSlvHC75ac3ojSvwg-NDowyCcnY-BdOuVZfUxuom84ILlSpXBKpTXzTVSnYneSb3Hfg8NZkq352I0fzh3QVuBioVH3KQvss0i-NrV2IqjOTX-3Rxw8cSIxGIMjsvwY03cedMp0twEnscM7Zcd4CtKI8YH865XTgrV7_QPoXNun0IPcKgRoeMiFRde-SiY1xEqr1FBCg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112455488395218012925\">ABC Lavage et Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfXBHzsZIZisDpuXNISmJJRJWbOKVWnqt-JJtWmR_AoDz9sqUhkP9c9_JLria5vwp6SMBEhLJHwmGkC5c4QbDHpGQSZAoI4J8i0TURAIm-53khLenB7Dtt8GAZV5GmUrxqjGAVnBdTriESLUGabkwJKqS81kKy7zHJSU25xsDTxd9jaqt3wBgmBRlR3J6-eCSFK6kVj_pKyOPT4OREN5xSMpDxXa1-ZddPYRM8r05Y31kMmhL45QbTr9ScgvgSBvjSmKfgcfpWGL_HwMRe5-7f_KfaPzVkvdcZj6kLAuoS-aog",
+        "width": 4000
+      },
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109252569835300932676\">Luc Coulombe</a>"
+        ],
+        "photo_reference": "ATCDNfUa6g7fi5oO6ZHd270qj83vLsI5Zb0r5IarWA4wr2fHluQfcz5Kjtqkju0UWUNFr3p1ECW933QZPv8Mh6O1qYHXHIzZ09EgRAdGx7M2gkktPCTQHyqv3pRR12VJWbYPegp-VPGSrVyLwlSurmP-OO6kpYFU6rOuYLqYWLENZs7fzW4kVnsUIMeuZRz8A37owV2vanPXVsmZyXNcDju0MfT82Dd6gfboOSWzWZhZRx7Q4U4whqbVWl80Y3bVjpsQdMIesuHYaqAiHZsaklx5bEeYWr-12WdGASIiBOPRYuDJZO7Qapx67aMUE8VzFFdVHj268h7IY56Carl3wB0M1MQBxiAdyhKZzChpR_60Pm4-QMdwwSWwJ0WEGyafhwRglqoP27JQj7M9qaj2-gd5dA98s2voBuWhCZHx9ji40qpLCQ",
+        "width": 1024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112455488395218012925\">ABC Lavage et Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfW2C7pw_BdBw9lUrhz7wdykwXEPHS4Gipgx4jrRRoj7gdO_HaR42S23w42Ay2xQ4h-duOEReLaxRDnVOshKgEcxe1bXCQpZiRfzuYkL51dRH3mSTCnBZSA2k8vdNoq8GrJ2vpzxzZOde9-hmtYQtE8twXtyzfUoPjTtC-fLlDmxROPf9a-ajHIEg4e55jBk86irZIo4qDfpOZS0q8wGM6V2WJcp5BvDfVD4wl_UJMhbKbigloIy_Z8U0gU-dQQRZgIPLDKOX9mpRQ1r81aFn3nvzcMJ4vcqxM9jfugo2cxcYg",
+        "width": 2250
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112455488395218012925\">ABC Lavage et Entretien</a>"
+        ],
+        "photo_reference": "ATCDNfX0ofREDjbdgChmAqDUoAC93uS5n3nj68f5M59TQ9Y9w59X7z0Nt8S6Qj_jBT9Sf_iB1nkgskv3hshXZqxud_keDmpF1G0Ok0fd8nQa1s_11Jbf598_g02PQ7AKWMgK2wQqoZxJcgpTOXuReEJsPWEJbgwELIy4ZL-JYzAKJ2YbsMh65eKAwp7efMcUO198dlUrP3iI5v_BAzczWGdQo-8al-lpoBfzPcKaPK1_FALtvBJnKmCWmyCslvMxIRa0POQEyhsyHUyRod94I-S3WB2-2zEQlodlurx-RLuyErjKfA",
+        "width": 2250
+      }
+    ],
+    "place_id": "ChIJBadmSGw3yUwRP1Q2l1UAfQU",
+    "plus_code": {
+      "compound_code": "CX4C+QR Vaudreuil-Dorion, QC, Canada",
+      "global_code": "87Q7CX4C+QR"
+    },
+    "rating": 5,
+    "reference": "ChIJBadmSGw3yUwRP1Q2l1UAfQU",
+    "reviews": [
+      {
+        "author_name": "Rebecca Croll",
+        "author_url": "https://www.google.com/maps/contrib/100209432500424114390/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHzNBV4uvLqmFHrhfXAhhTRk62-b_TYaPvb1_odQNBY219G9Jk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Such great work! We do a lot of research before hiring and got many quotes. Christian is not only reasonable but polite, helpful, super friendly and cares about the service he's providing and it shows. Very strongly recommend!!",
+        "time": 1720293097,
+        "translated": false
+      },
+      {
+        "author_name": "Jean Philippe Villard",
+        "author_url": "https://www.google.com/maps/contrib/103053449441635422241/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdfIhCA7-qiG1xcfSThp-t-p6H6ok52k0UP9K56DM4MmlibA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Honest pricing and great work! I highly recommand ABC for any cleaning services for the house and or business.",
+        "time": 1750878182,
+        "translated": false
+      },
+      {
+        "author_name": "SR",
+        "author_url": "https://www.google.com/maps/contrib/103516891148885745473/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9sCAaSSO8Q4OxYr2SJ9NizckSCTaXcBQTl3-KsKfNIk5RdQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Christian came by to provide an estimate and was very honest, fair, and professional when explaining everything. I really appreciated the integrity and would definitely call him for all future projects :)",
+        "time": 1695940611,
+        "translated": false
+      },
+      {
+        "author_name": "Sean Kielly",
+        "author_url": "https://www.google.com/maps/contrib/106395691543019249376/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLv9zcYai58L5YB-2e_YM7q0j41fIQPQ5rKA4LUSTb1OFhLowi=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Excellent service! Had my house done today and very impressed.",
+        "time": 1720391972,
+        "translated": false
+      },
+      {
+        "author_name": "Luc Coulombe",
+        "author_url": "https://www.google.com/maps/contrib/109252569835300932676/reviews",
+        "language": "en-US",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBdTSiuyB5t-zqGu7dVszcF8ZLozZ0jqd9sAkM3EtOauSjQE9H1w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Impeccable service. Fair and honest prices. Christian is exemplary in his professionalism. Our residence has never been so clean in 30 years. I recommend him without hesitation.",
+        "time": 1692806902,
+        "translated": true
+      }
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "url": "https://maps.google.com/?cid=395472709887611967",
+    "user_ratings_total": 19,
+    "utc_offset": -300,
+    "vicinity": "351 Rue Bourget, Vaudreuil-Dorion",
+    "website": "http://abclavageetentretien.com/"
+  }
+}
